@@ -1,6 +1,6 @@
 # Welcome to Our Website
 
-We’re glad you’re here. Our goal is to provide useful content and updates every few months.
+We’re glad you’re here! Our goal is to provide useful content and updates every few months.
 
 ## About Us
 
