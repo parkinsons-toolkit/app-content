@@ -1,0 +1,276 @@
+{
+  "mainNavigation": [
+    {
+      "title": "Home",
+      "url": "/",
+      "category": "home"
+    },
+    {
+      "title": "What is Parkinson's?",
+      "url": "/what-is-parkinsons",
+      "category": "information"
+    },
+    {
+      "title": "Living with Parkinson's",
+      "url": "/living-with-parkinsons",
+      "category": "information"
+    },
+    {
+      "title": "Symptom Management",
+      "url": "/symptom-management",
+      "category": "management"
+    },
+    {
+      "title": "Keeping Active",
+      "url": "/keeping-active",
+      "category": "wellbeing"
+    },
+    {
+      "title": "Support",
+      "url": "/further-support",
+      "category": "support"
+    }
+  ],
+  "categories": {
+    "treatment": {
+      "title": "Treatment",
+      "pages": [
+        {
+          "slug": "advanced-therapies-surgical-treatments",
+          "title": "Advanced Therapies & Surgical Treatments",
+          "url": "/advanced-therapies-surgical-treatments"
+        },
+        {
+          "slug": "complementary-therapies",
+          "title": "Complementary Therapies",
+          "url": "/complementary-therapies"
+        },
+        {
+          "slug": "treatment-teams",
+          "title": "Treatment & Teams",
+          "url": "/treatment-teams"
+        },
+        {
+          "slug": "who-may-be-involved",
+          "title": "Who May Be Involved?",
+          "url": "/who-may-be-involved"
+        }
+      ]
+    },
+    "healthcare": {
+      "title": "Healthcare",
+      "pages": [
+        {
+          "slug": "appointments-hospital-stays",
+          "title": "Appointments & Hospital Stays",
+          "url": "/appointments-hospital-stays"
+        },
+        {
+          "slug": "progression-of-symptoms",
+          "title": "Progression of Symptoms",
+          "url": "/progression-of-symptoms"
+        }
+      ]
+    },
+    "special": {
+      "title": "Special",
+      "pages": [
+        {
+          "slug": "covid-19",
+          "title": "COVID- 19",
+          "url": "/covid-19"
+        },
+        {
+          "slug": "practical-advice",
+          "title": "Practical Advice",
+          "url": "/practical-advice"
+        }
+      ]
+    },
+    "daily-life": {
+      "title": "Daily Life",
+      "pages": [
+        {
+          "slug": "daily-living",
+          "title": "Daily Living",
+          "url": "/daily-living"
+        },
+        {
+          "slug": "mobility",
+          "title": "Mobility",
+          "url": "/mobility"
+        },
+        {
+          "slug": "reading-writing-and-technology",
+          "title": "Reading, Writing and Technology",
+          "url": "/reading-writing-and-technology"
+        },
+        {
+          "slug": "travel",
+          "title": "Travel",
+          "url": "/travel"
+        }
+      ]
+    },
+    "support": {
+      "title": "Support",
+      "pages": [
+        {
+          "slug": "dealing-with-stress-and-challenges",
+          "title": "Dealing with Stress and Challenges",
+          "url": "/dealing-with-stress-and-challenges"
+        },
+        {
+          "slug": "further-support",
+          "title": "Further Support",
+          "url": "/further-support"
+        },
+        {
+          "slug": "guidance-for-families-and-carers",
+          "title": "Guidance for Families and Carers",
+          "url": "/guidance-for-families-and-carers"
+        }
+      ]
+    },
+    "wellbeing": {
+      "title": "Wellbeing",
+      "pages": [
+        {
+          "slug": "eating-well",
+          "title": "Eating Well",
+          "url": "/eating-well"
+        },
+        {
+          "slug": "keeping-active",
+          "title": "Keeping Active",
+          "url": "/keeping-active"
+        },
+        {
+          "slug": "optimising-wellbeing",
+          "title": "Optimising Wellbeing",
+          "url": "/optimising-wellbeing"
+        },
+        {
+          "slug": "social-spiritual-life",
+          "title": "Social & Spiritual Life",
+          "url": "/social-spiritual-life"
+        }
+      ]
+    },
+    "planning": {
+      "title": "Planning",
+      "pages": [
+        {
+          "slug": "end-of-life",
+          "title": "End of Life",
+          "url": "/end-of-life"
+        },
+        {
+          "slug": "future-care-options",
+          "title": "Future Care Options",
+          "url": "/future-care-options"
+        },
+        {
+          "slug": "planning-future-care",
+          "title": "Planning Future Care",
+          "url": "/planning-future-care"
+        }
+      ]
+    },
+    "legal-financial": {
+      "title": "Legal Financial",
+      "pages": [
+        {
+          "slug": "finances",
+          "title": "Finances",
+          "url": "/finances"
+        },
+        {
+          "slug": "housing",
+          "title": "Housing",
+          "url": "/housing"
+        },
+        {
+          "slug": "legal-matters",
+          "title": "Legal Matters",
+          "url": "/legal-matters"
+        }
+      ]
+    },
+    "management": {
+      "title": "Management",
+      "pages": [
+        {
+          "slug": "general-medical-advice",
+          "title": "General Medical Advice",
+          "url": "/general-medical-advice"
+        },
+        {
+          "slug": "medication",
+          "title": "Medication",
+          "url": "/medication"
+        },
+        {
+          "slug": "symptom-management",
+          "title": "Symptom Management",
+          "url": "/symptom-management"
+        }
+      ]
+    },
+    "activities": {
+      "title": "Activities",
+      "pages": [
+        {
+          "slug": "hobbies-pets",
+          "title": "Hobbies & Pets",
+          "url": "/hobbies-pets"
+        },
+        {
+          "slug": "work-and-caring",
+          "title": "Work and Caring",
+          "url": "/work-and-caring"
+        }
+      ]
+    },
+    "resources": {
+      "title": "Resources",
+      "pages": [
+        {
+          "slug": "information-websites-apps",
+          "title": "Information, Websites & Apps",
+          "url": "/information-websites-apps"
+        },
+        {
+          "slug": "research",
+          "title": "Research",
+          "url": "/research"
+        },
+        {
+          "slug": "services-groups",
+          "title": "Services & Groups",
+          "url": "/services-groups"
+        }
+      ]
+    },
+    "information": {
+      "title": "Information",
+      "pages": [
+        {
+          "slug": "living-with-parkinsons",
+          "title": "Living with Parkinson's",
+          "url": "/living-with-parkinsons"
+        },
+        {
+          "slug": "new-diagnosis",
+          "title": "New Diagnosis",
+          "url": "/new-diagnosis"
+        },
+        {
+          "slug": "what-is-parkinsons",
+          "title": "What is Parkinson's?",
+          "url": "/what-is-parkinsons"
+        }
+      ]
+    }
+  }
+}

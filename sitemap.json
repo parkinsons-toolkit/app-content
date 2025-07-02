@@ -1,0 +1,545 @@
+{
+  "lastUpdated": "2025-07-02T20:35:41.992209",
+  "totalPages": 37,
+  "categories": {
+    "treatment": [
+      {
+        "slug": "advanced-therapies-surgical-treatments",
+        "title": "Advanced Therapies & Surgical Treatments",
+        "url": "/advanced-therapies-surgical-treatments"
+      },
+      {
+        "slug": "complementary-therapies",
+        "title": "Complementary Therapies",
+        "url": "/complementary-therapies"
+      },
+      {
+        "slug": "treatment-teams",
+        "title": "Treatment & Teams",
+        "url": "/treatment-teams"
+      },
+      {
+        "slug": "who-may-be-involved",
+        "title": "Who May Be Involved?",
+        "url": "/who-may-be-involved"
+      }
+    ],
+    "healthcare": [
+      {
+        "slug": "appointments-hospital-stays",
+        "title": "Appointments & Hospital Stays",
+        "url": "/appointments-hospital-stays"
+      },
+      {
+        "slug": "progression-of-symptoms",
+        "title": "Progression of Symptoms",
+        "url": "/progression-of-symptoms"
+      }
+    ],
+    "special": [
+      {
+        "slug": "covid-19",
+        "title": "COVID- 19",
+        "url": "/covid-19"
+      },
+      {
+        "slug": "practical-advice",
+        "title": "Practical Advice",
+        "url": "/practical-advice"
+      }
+    ],
+    "daily-life": [
+      {
+        "slug": "daily-living",
+        "title": "Daily Living",
+        "url": "/daily-living"
+      },
+      {
+        "slug": "mobility",
+        "title": "Mobility",
+        "url": "/mobility"
+      },
+      {
+        "slug": "reading-writing-and-technology",
+        "title": "Reading, Writing and Technology",
+        "url": "/reading-writing-and-technology"
+      },
+      {
+        "slug": "travel",
+        "title": "Travel",
+        "url": "/travel"
+      }
+    ],
+    "support": [
+      {
+        "slug": "dealing-with-stress-and-challenges",
+        "title": "Dealing with Stress and Challenges",
+        "url": "/dealing-with-stress-and-challenges"
+      },
+      {
+        "slug": "further-support",
+        "title": "Further Support",
+        "url": "/further-support"
+      },
+      {
+        "slug": "guidance-for-families-and-carers",
+        "title": "Guidance for Families and Carers",
+        "url": "/guidance-for-families-and-carers"
+      }
+    ],
+    "wellbeing": [
+      {
+        "slug": "eating-well",
+        "title": "Eating Well",
+        "url": "/eating-well"
+      },
+      {
+        "slug": "keeping-active",
+        "title": "Keeping Active",
+        "url": "/keeping-active"
+      },
+      {
+        "slug": "optimising-wellbeing",
+        "title": "Optimising Wellbeing",
+        "url": "/optimising-wellbeing"
+      },
+      {
+        "slug": "social-spiritual-life",
+        "title": "Social & Spiritual Life",
+        "url": "/social-spiritual-life"
+      }
+    ],
+    "planning": [
+      {
+        "slug": "end-of-life",
+        "title": "End of Life",
+        "url": "/end-of-life"
+      },
+      {
+        "slug": "future-care-options",
+        "title": "Future Care Options",
+        "url": "/future-care-options"
+      },
+      {
+        "slug": "planning-future-care",
+        "title": "Planning Future Care",
+        "url": "/planning-future-care"
+      }
+    ],
+    "legal-financial": [
+      {
+        "slug": "finances",
+        "title": "Finances",
+        "url": "/finances"
+      },
+      {
+        "slug": "housing",
+        "title": "Housing",
+        "url": "/housing"
+      },
+      {
+        "slug": "legal-matters",
+        "title": "Legal Matters",
+        "url": "/legal-matters"
+      }
+    ],
+    "management": [
+      {
+        "slug": "general-medical-advice",
+        "title": "General Medical Advice",
+        "url": "/general-medical-advice"
+      },
+      {
+        "slug": "medication",
+        "title": "Medication",
+        "url": "/medication"
+      },
+      {
+        "slug": "symptom-management",
+        "title": "Symptom Management",
+        "url": "/symptom-management"
+      }
+    ],
+    "activities": [
+      {
+        "slug": "hobbies-pets",
+        "title": "Hobbies & Pets",
+        "url": "/hobbies-pets"
+      },
+      {
+        "slug": "work-and-caring",
+        "title": "Work and Caring",
+        "url": "/work-and-caring"
+      }
+    ],
+    "resources": [
+      {
+        "slug": "information-websites-apps",
+        "title": "Information, Websites & Apps",
+        "url": "/information-websites-apps"
+      },
+      {
+        "slug": "research",
+        "title": "Research",
+        "url": "/research"
+      },
+      {
+        "slug": "services-groups",
+        "title": "Services & Groups",
+        "url": "/services-groups"
+      }
+    ],
+    "information": [
+      {
+        "slug": "living-with-parkinsons",
+        "title": "Living with Parkinson's",
+        "url": "/living-with-parkinsons"
+      },
+      {
+        "slug": "new-diagnosis",
+        "title": "New Diagnosis",
+        "url": "/new-diagnosis"
+      },
+      {
+        "slug": "what-is-parkinsons",
+        "title": "What is Parkinson's?",
+        "url": "/what-is-parkinsons"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "url": "/",
+      "slug": "home",
+      "title": "Parkinson's Toolkit",
+      "description": "Comprehensive information and support for people living with Parkinson's disease",
+      "category": "home",
+      "priority": 1.0,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/advanced-therapies-surgical-treatments",
+      "slug": "advanced-therapies-surgical-treatments",
+      "title": "Advanced Therapies & Surgical Treatments",
+      "description": "or ‘freezing’ when the medication is otherwise working well (‘on’ periods).",
+      "category": "treatment",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/appointments-hospital-stays",
+      "slug": "appointments-hospital-stays",
+      "title": "Appointments & Hospital Stays",
+      "description": "Appointment times can feel very short, and the healthcare professional will have",
+      "category": "healthcare",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/complementary-therapies",
+      "slug": "complementary-therapies",
+      "title": "Complementary Therapies",
+      "description": "•",
+      "category": "treatment",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/covid-19",
+      "slug": "covid-19",
+      "title": "COVID- 19",
+      "description": "Common symptoms include: Right: 0.08 cm, Space After: 0.15 pt, Line spacing:",
+      "category": "special",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/daily-living",
+      "slug": "daily-living",
+      "title": "Daily Living",
+      "description": "- Also see our Mobility page for more advice on getting around.",
+      "category": "daily-life",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/dealing-with-stress-and-challenges",
+      "slug": "dealing-with-stress-and-challenges",
+      "title": "Dealing with Stress and Challenges",
+      "description": "Below are some suggestions to promote emotional wellbeing and help you feel",
+      "category": "support",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/eating-well",
+      "slug": "eating-well",
+      "title": "Eating Well",
+      "description": "- Eat a variety of food groups. Include a variety of foods from all",
+      "category": "wellbeing",
+      "priority": 0.8,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/end-of-life",
+      "slug": "end-of-life",
+      "title": "End of Life",
+      "description": "- Do you have wishes for your body after your death? Your wishes can be written in an",
+      "category": "planning",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/finances",
+      "slug": "finances",
+      "title": "Finances",
+      "description": "- You may miss bill payments due to being in hospital.",
+      "category": "legal-financial",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/further-support",
+      "slug": "further-support",
+      "title": "Further Support",
+      "description": "and latest research updates. It also offers the ‘First Steps’ course for people newly",
+      "category": "support",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/future-care-options",
+      "slug": "future-care-options",
+      "title": "Future Care Options",
+      "description": "Asking for help can be hard. Remember many people want to help.",
+      "category": "planning",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/general-medical-advice",
+      "slug": "general-medical-advice",
+      "title": "General Medical Advice",
+      "description": "Many factors affect blood pressure. It varies between people and is constantly changing",
+      "category": "management",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/guidance-for-families-and-carers",
+      "slug": "guidance-for-families-and-carers",
+      "title": "Guidance for Families and Carers",
+      "description": "We know Parkinson’s is",
+      "category": "support",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/hobbies-pets",
+      "slug": "hobbies-pets",
+      "title": "Hobbies & Pets",
+      "description": "What can I try?",
+      "category": "activities",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/housing",
+      "slug": "housing",
+      "title": "Housing",
+      "description": "General Adaptations",
+      "category": "legal-financial",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/information-websites-apps",
+      "slug": "information-websites-apps",
+      "title": "Information, Websites & Apps",
+      "description": "and latest research updates. It also offers the ‘First Steps’ course for people newly",
+      "category": "resources",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/keeping-active",
+      "slug": "keeping-active",
+      "title": "Keeping Active",
+      "description": "What Should I Do?",
+      "category": "wellbeing",
+      "priority": 0.8,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/legal-matters",
+      "slug": "legal-matters",
+      "title": "Legal Matters",
+      "description": "may be a time where you lose the ability to make decisions for yourself, which we",
+      "category": "legal-financial",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/living-with-parkinsons",
+      "slug": "living-with-parkinsons",
+      "title": "Living with Parkinson's",
+      "description": "- In general, once medications are started for Parkinson's, some form of medication will continue. The schedule, dose, and type of medication may chan...",
+      "category": "information",
+      "priority": 0.8,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/medication",
+      "slug": "medication",
+      "title": "Medication",
+      "description": "brain. Most of the medicines for Parkinson’s work in different ways to improve",
+      "category": "management",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/mobility",
+      "slug": "mobility",
+      "title": "Mobility",
+      "description": "Keep Active It is important to try to stay as active as",
+      "category": "daily-life",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/new-diagnosis",
+      "slug": "new-diagnosis",
+      "title": "New Diagnosis",
+      "description": "- In general, once medications are started for Parkinson’s, some form of",
+      "category": "information",
+      "priority": 0.8,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/optimising-wellbeing",
+      "slug": "optimising-wellbeing",
+      "title": "Optimising Wellbeing",
+      "description": "- You could enter your activities to the Symptom & Activity Tracker to",
+      "category": "wellbeing",
+      "priority": 0.8,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/planning-future-care",
+      "slug": "planning-future-care",
+      "title": "Planning Future Care",
+      "description": "•",
+      "category": "planning",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/practical-advice",
+      "slug": "practical-advice",
+      "title": "Practical Advice",
+      "description": "Parkinson’s can affect day-to-day activities. But, there is lots of support",
+      "category": "special",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/progression-of-symptoms",
+      "slug": "progression-of-symptoms",
+      "title": "Progression of Symptoms",
+      "description": "•",
+      "category": "healthcare",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/reading-writing-and-technology",
+      "slug": "reading-writing-and-technology",
+      "title": "Reading, Writing and Technology",
+      "description": "- Saccadic eye movements are the",
+      "category": "daily-life",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/research",
+      "slug": "research",
+      "title": "Research",
+      "description": "To help you decide if you would like to take part or not the researchers will be able",
+      "category": "resources",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/services-groups",
+      "slug": "services-groups",
+      "title": "Services & Groups",
+      "description": "resources for if you want more information.",
+      "category": "resources",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/social-spiritual-life",
+      "slug": "social-spiritual-life",
+      "title": "Social & Spiritual Life",
+      "description": "‘group chat’ for family or friends using a messaging App (e.g.",
+      "category": "wellbeing",
+      "priority": 0.8,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/symptom-management",
+      "slug": "symptom-management",
+      "title": "Symptom Management",
+      "description": "will look and feel in the future is one of the more difficult aspects of the Parkinson’s",
+      "category": "management",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/travel",
+      "slug": "travel",
+      "title": "Travel",
+      "description": "Please note different medical conditions require different forms to be completed – for more information",
+      "category": "daily-life",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/treatment-teams",
+      "slug": "treatment-teams",
+      "title": "Treatment & Teams",
+      "description": "•",
+      "category": "treatment",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/what-is-parkinsons",
+      "slug": "what-is-parkinsons",
+      "title": "What is Parkinson's?",
+      "description": "Parkinson’s is a chronic condition that causes difficulties with movements. It can also cause a range of other symptoms. Parkinson’s is an extremely v...",
+      "category": "information",
+      "priority": 0.8,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/who-may-be-involved",
+      "slug": "who-may-be-involved",
+      "title": "Who May Be Involved?",
+      "description": "•",
+      "category": "treatment",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    },
+    {
+      "url": "/work-and-caring",
+      "slug": "work-and-caring",
+      "title": "Work and Caring",
+      "description": "- When you need to make adaptations or changes to your work. This might be, for",
+      "category": "activities",
+      "priority": 0.6,
+      "lastModified": "2025-07-02"
+    }
+  ]
+}
