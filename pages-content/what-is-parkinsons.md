@@ -5,7 +5,6 @@ Parkinsonism is a broad term. It covers a range of conditions that have features
 
 ## What is the cause?
 
-<img src="../images/brain-dopamine.png" alt="Brain diagram showing dopamine pathways in Parkinson's disease" width="400" style="float: left; margin-right: 20px; margin-bottom: 10px;">
 In Parkinson’s there is a gradual loss of cells. This is mainly in an area of the brain called the substantia nigra. These cells produce a chemical messenger called dopamine. As less dopamine is available over time, people start experiencing problems with their movements. Dopamine is known as a neurotransmitter. Other neurotransmitters are also believed to decrease. This decrease may be responsible for other symptoms of Parkinson’s.
 
 <div style="clear: both;"></div>
