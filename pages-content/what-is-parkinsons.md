@@ -1,5 +1,7 @@
 # What is Parkinson's?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/main/images/brain-dopamine.png" alt="Brain diagram showing dopamine pathways in Parkinson's disease" class="hero-image">
+
 Parkinson’s is a chronic condition that causes difficulties with movements. It can also cause a range of other symptoms. Parkinson’s is an extremely varied condition. It affects each person uniquely. Different symptoms may occur at different times. Each symptom may respond differently to treatments.
 Parkinsonism is a broad term. It covers a range of conditions that have features similar to Parkinson's. When speaking about Parkinson’s, people are usually referring to Idiopathic Parkinson’s Disease. This is one type of Parkinsonism, but there are a number of others.
 
@@ -10,8 +12,6 @@ Parkinsonism is a broad term. It covers a range of conditions that have features
 </div>
 
 In Parkinson’s there is a gradual loss of cells. This is mainly in an area of the brain called the substantia nigra. These cells produce a chemical messenger called dopamine. As less dopamine is available over time, people start experiencing problems with their movements. Dopamine is known as a neurotransmitter. Other neurotransmitters are also believed to decrease. This decrease may be responsible for other symptoms of Parkinson’s.
-
-<div style="clear: both;"></div>
 
 At present, no one knows for sure what causes Parkinson’s. Many factors are associated with an increased or decreased chance of having it. Research continues in this area. We know there is a genetic component, but with rare exceptions it is not due a single gene, inherited from one generation to the next. More often, a combination of many genes is thought to be involved.
 
