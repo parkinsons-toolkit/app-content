@@ -1,5 +1,7 @@
 # What is Parkinson's?
 
+Test
+
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/main/images/brain-dopamine.png" alt="Brain diagram showing dopamine pathways in Parkinson's disease" class="hero-image">
 
 Parkinson’s is a chronic condition that causes difficulties with movements. It can also cause a range of other symptoms. Parkinson’s is an extremely varied condition. It affects each person uniquely. Different symptoms may occur at different times. Each symptom may respond differently to treatments.
