@@ -18,16 +18,19 @@ At present, no one knows for sure what causes Parkinson’s. Many factors are as
 ## Myth Buster
 
 “Parkinson’s only affects old people.” - It is most common in people over the age of 60. But it can also occur in younger people.
+
 “Parkinson’s is contagious.” - It is not contagious. You cannot catch it from another person.
 
 ## How common is Parkinson’s?
 
 Rates of Parkinson’s increase with increasing age.
+
 It affects one person in every 100 people over the age of 60yrs. Parkinson’s affects one person in every 20 people over the age of 80yrs.
 
 ## What are the symptoms?
 
 Symptoms of Parkinson’s are often put in groups. These are: movement or motor symptoms; and non-movement or non-motor symptoms.
+
 The three main motor symptoms of Parkinson’s are:
 
 - Slowness of movement, known medically as bradykinesia
