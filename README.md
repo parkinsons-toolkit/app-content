@@ -1,18 +1,34 @@
 # Parkinson's Toolkit - Content Repository
 
-This repository contains the content files for the **Parkinson's Toolkit app** - a web application designed to provide evidence-based information and support for people living with Parkinson's disease, their families, and caregivers.
+This repository contains the content files for the [Parkinson's Toolkit app](https://github.com/parkinsons-toolkit/parkinsons-toolkit-app) - a web application designed to provide evidence-based information and support for people living with Parkinson's disease, their families, and caregivers.
 
 ## Content Management
 
-**Easy Updates**: Content maintainers can edit the markdown files in `./pages-content` in this repository. Changes are automatically reflected in the web application without requiring redeployments.
+### Adding text content
 
-**Separation of Concerns**:
+Content maintainers can edit the markdown files in `./pages-content` in this repository. Changes are automatically reflected in the web application without requiring redeployments.
 
-- **Text content** lives here as markdown files
-- **Images** are stored in the web app repository and positioned via CSS
-- **Navigation structure** is defined in `navigation.json`
+Make sure the name of the `.md` file is the same as the URL you would like the page to be accessed from in the app. For example, the file `what-is-parkinsons.md` would be accessed in the web app from `app-domain/what-is-parkinsons`. Use dashes `-` as separators and avoid using special characters.
 
-### Security Guidelines for Content Contributors
+### Adding image content
+
+Images can be stored in `./images` and inserted into the markdown files directly with:
+
+`<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/main/images/linked-image-name.png" alt="example-alt-text" class="example-class">`
+
+The branch name in the image URL will automatically be replaced with either `main` or `dev` during the web application runtime.
+
+### Adding video content
+
+Videos can be pulled in from external sources such as embedded YouTube videos. These can be inserted as an `iframe` with e.g:
+
+```
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ikVplhl5zZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+```
+
+## Security Guidelines for Content Contributors
 
 ⚠️ **IMPORTANT**: This repository supports HTML within markdown to enable rich content (videos, styled elements). Please follow these security guidelines:
 
@@ -53,19 +69,10 @@ This content repository is designed to be dynamically consumed by a web applicat
 - **Markdown files** are fetched from GitHub and rendered in real-time
 - **Content updates** are immediate - no build process required
 
-### Content Categories
+## Use of git branches
 
-Content is organized into 12 main categories:
+Use the `dev` branch to test out new content ideas.
 
-- **Information** - Core Parkinson's knowledge
-- **Wellbeing** - Health and lifestyle guidance
-- **Management** - Medical and symptom management
-- **Daily Life** - Practical living advice
-- **Support** - Emotional and family support
-- **Legal/Financial** - Practical planning matters
-- **Treatment** - Medical treatments and teams
-- **Healthcare** - Medical appointments and care
-- **Planning** - Future care planning
-- **Activities** - Work, hobbies, and interests
-- **Resources** - Additional support and information
-- **Special** - Specific topics like COVID-19
+When you are happy, open a pull request to merge your changes into `main`.
+
+The web application will automatically use the content from the `dev` branch for local development and `main` during production.
