@@ -3,7 +3,7 @@
 Research plays an important role in increasing our knowledge of human health and wellbeing. Taking part in research can be an empowering way to take a positive step towards understanding how best to treat or manage a health condition, such as Parkinson’s. 
 
 This section has 2 key parts:-
-1) Getting involved in research – describes some reasons people choose to get involved in research and details of what this might entail. 
+1) Taking part in research – describes some reasons people choose to get involved in research and details of what this might entail. 
 2) Different type of research in Parkinson’s giving an overview of the range of research in Parkinson’s
  
 ## Taking Part in Research
@@ -20,7 +20,7 @@ Research can take place in various locations, including hospitals, GP practices,
  
 To help you decide if you would like to take part or not the researchers will be able to tell you all about their study and what will be involved if you decide to take part. 
  
-## Who can get involved in research? 
+### Who can get involved in research? 
 Researchers will often need both people with and without Parkinson’s to take part in studies. This is so that information about people with a diagnosis of Parkinson’s can be compared with those who do not have the condition. 
  
 Each study has guidelines about who can or cannot take part in the study. These guidelines are called eligibility criteria. These will vary between studies depending on what the research aims to do. 
@@ -32,7 +32,7 @@ has completed informed consent, understands the purpose, benefits, and potential
  
 Although most research relies on volunteers, and people are not paid to take part, studies will often be able to cover your expenses (i.e. the cost of travelling to the place of research). The research can also sometimes take place in your own home, but this will depend on the type of study. The study team will be able to tell you how this will be managed for their study. 
  
-## Your rights as a research participant 
+### Your rights as a research participant 
 Before anyone can take part in any research study they should have the chance to read information about the study. You should have the chance to ask any questions so that you understand what you will have to do. 
 The study information should also outline your rights as a participant and include the following information: 
 •	Who is doing the research 
@@ -49,7 +49,7 @@ Information about study methods may also include a review of any:
 •	How results will be shared and who they will be shared with 
 •	Details of who to contact if you have any questions or complaints 
  
-## How can I get involved in research? 
+### How can I get involved in research? 
 You can find out about current Parkinson’s research studies through the following ways: 
 •	National Institute for Health Research (NIHR) – ‘Be Part of Research’ website o ‘Be Part of Research’ is an online service which provides information about what research is. It also helps you find studies you may be able to take part in. 
 o Use their search tool to find current UK research into conditions that are of interest to you, or studies that are taking place in your local area. You will then be provided with contact details so you can find out more information and ask to take part. 
@@ -80,7 +80,7 @@ It is beyond the scope of this website to outline all current studies in PD as i
 
 This is a link for further details https://www.healthline.com/nutrition/gut-brain-connection.
  
-## Key Points
+### Key Points
 
 •	It is likely that there is no one single factor causing PD, but a combination of factors that interact with each other, perhaps even several decades before the onset of the symptoms
 •	The factors will vary between one person with PD and another 
@@ -99,12 +99,14 @@ There are lots of drug and treatment trials taking place in Parkinson’s diseas
 
 Below is a picture to represent the range of avenues scientists are taking to explore treatment options that can help stop Parkinson’s disease progressing. Several boxes have been left blank as this is by no means all-inclusive and new avenues are developing quite quickly.
 
+Insert pictures and diagrams
+
 NB devices can come in many different shapes and forms. An example that people with PD often ask about, is the CUE1 device https://charconeurotech.com.
 A device worn on the chest wall that gives out focussed vibrotactile stimulation and cueing to help with motor symptoms in PD. Although trials are still underway to better understand it’s role, unlike most products still being researched, it can be bought privately and does have a waiting list. 
 
 
 
-## More Information 
+### More Information 
  
  
 Organisation 	Information about 
