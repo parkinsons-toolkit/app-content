@@ -99,20 +99,12 @@ There are lots of drug and treatment trials taking place in Parkinson’s diseas
 
 Below is a picture to represent the range of avenues scientists are taking to explore treatment options that can help stop Parkinson’s disease progressing. Several boxes have been left blank as this is by no means all-inclusive and new avenues are developing quite quickly.
 
-
-
-
- 
-
-For more information: Stem cell therapy: https://www.mayoclinic.org/tests-procedures/bone-marrow-transplant/
-https://www.parkinson.org/advancing-research/our-research/npj-parkinsons-journal 
-
 NB devices can come in many different shapes and forms. An example that people with PD often ask about, is the CUE1 device https://charconeurotech.com.
 A device worn on the chest wall that gives out focussed vibrotactile stimulation and cueing to help with motor symptoms in PD. Although trials are still underway to better understand it’s role, unlike most products still being researched, it can be bought privately and does have a waiting list. 
 
 
 
-More Information 
+## More Information 
  
  
 Organisation 	Information about 
@@ -145,6 +137,9 @@ Introduction to Research: www.parkinsons.org.uk/sites/default/fil es/2018-
 06/CS2512%20Introduction%20to%20r esearch%20leaflet%20DL%202018%20 
 WEB%20FILE%20PAGES.pdf 
 
+
+For more information: Stem cell therapy: https://www.mayoclinic.org/tests-procedures/bone-marrow-transplant/
+https://www.parkinson.org/advancing-research/our-research/npj-parkinsons-journal 
 
 
 
