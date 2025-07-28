@@ -261,7 +261,6 @@ You can also contact:
 - [Healthwatch](https://www.healthwatch.co.uk/your-local-healthwatch/list)  
 
 More information is available on the [NHS website](https://www.nhs.uk/).
-```
 
 # Discharge from Hospital
 
