@@ -143,5 +143,4 @@ People affected by Parkinson’s describe their experiences:
 
 ---
 
-Let me know if you’d like this saved as a downloadable `.md` file or turned into a printable PDF!
-```
+
