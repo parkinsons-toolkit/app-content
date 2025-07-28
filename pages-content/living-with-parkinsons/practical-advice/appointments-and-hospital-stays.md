@@ -263,11 +263,6 @@ You can also contact:
 More information is available on the [NHS website](https://www.nhs.uk/).
 ```
 
-
-Sure! Here's your **"Discharge from Hospital"** section converted into **Markdown format**:
-
----
-
 # Discharge from Hospital
 
 ## Support
