@@ -225,13 +225,7 @@ Other advocates include charities e.g. Parkinson’s UK and the advocacy and inf
 [https://www.healthwatch.co.uk/your-local-healthwatch/list](https://www.healthwatch.co.uk/your-local-healthwatch/list)
 
 More information is available on the NHS website.
-```
 
-Here's your document converted into **Markdown format**, with **no changes to the original content**:
-
----
-
-```markdown
 # Discharge from hospital
 
 Before you leave hospital, there are various plans that need to be put in place:
