@@ -1,8 +1,4 @@
-Certainly! Here's your **Appointments & Hospital Stays** section fully converted into **Markdown format**, preserving all original content and structure:
 
----
-
-```markdown
 # Appointments & Hospital Stays
 
 ## Appointments
