@@ -1,7 +1,3 @@
-Here's your content converted into **Markdown format** without any other changes:
-
----
-
 ## Exercise and Parkinson’s
 
 Research studies have shown broad benefits of exercise in Parkinson’s. Activity is good for many aspects of life:
