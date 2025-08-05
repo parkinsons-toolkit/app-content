@@ -9,6 +9,10 @@ Vaccinations are medications designed to prevent infections. Vaccination schedul
 
 These are all delivered as injections, usually into the arm. You should have vaccines if you are allergic to the ingredients or are ill at the time. More information can be found on the NHS website, under ‘Vaccinations’.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hnxtxN36_hM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Blood Pressure
@@ -21,6 +25,10 @@ Your heart pushes blood around the body through a network of blood vessels, simi
 * The second or bottom number is known as **diastolic blood pressure**. This is the pressure as the heart relaxes between pushes and the blood is flowing, i.e. the resistance in the pipes themselves.
 
 Many factors affect blood pressure. It varies between people and is constantly changing in any one person. This makes it difficult to define “normal” blood pressure. Parkinson’s, as well as medication used for Parkinson’s, can both cause a lower or variable blood pressure. But getting older and many lifestyle factors can cause a higher blood pressure.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sf9VHZj_R1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
@@ -81,6 +89,10 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
   * Depending on the outcome of this assessment, they may want to do blood tests and/or a bone scan (called a **DXA scan**).
 * There are medications that can help to strengthen bones if they are found to be low density. They may also prescribe combined **calcium and vitamin D3 tablets**.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=SCWmi1_RIOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 # Lifestyle Choices
 
 ## Smoking
@@ -103,6 +115,10 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
 * At present, there is no evidence to support the use of cannabis-based products for Parkinson’s.
   See our Eating Well page for more information on supplements.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=25tpJP8Pucg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 # Vision & Hearing
 
 Addressing sight or hearing deterioration may mean having treatment or aids to improve those senses. Vision and hearing are important for interacting with others and carrying out daily activities.
@@ -122,6 +138,10 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
   * Protect your eyes from injury or chemicals (e.g. wear goggles when doing DIY or gardening)
   * Protect your eyes from the sun (i.e. wear sunglasses)
   * When using computer or phone screens, try to blink regularly and give your eyes breaks. You could do this by looking out of the window for a few minutes. People with Parkinson’s often blink less without realising so may need to make more of a conscious effort to blink.
+ 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=B81MLwwb3YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Hearing
 
@@ -132,6 +152,10 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
 * Hearing problems are often not preventable. You can help to protect your hearing by minimising loud noise exposure. Be mindful of how loud your music plays, time spent at noisy events, and potential noise exposure at work.
 
 More information about healthcare costs is on our Finances page. For more information about sight and hearing problems, see our 5 Senses page.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Ez0AQfwj2do" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 # Foot Care
 
@@ -148,6 +172,10 @@ Foot problems can be painful and can affect your walking and balance. Taking car
 * Apply caution in communal areas: shared showers (e.g. at the gym) and swimming pool areas are associated with foot infections.
 * If you notice a problem with your feet, such as an infection, get it treated promptly so it does not develop complications. Some treatments are available from the pharmacy, or you can see your GP or practice nurse. In some cases you will be referred to a foot specialist, known as a podiatrist.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=QeaPR7t3rC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 # Dental Care
 
 Taking care of your teeth is really important as poor dental health can lead to pain and infections. It may even lead to difficulties eating and drinking in the long run.
@@ -156,6 +184,10 @@ Taking care of your teeth is really important as poor dental health can lead to 
 * Reduce sugar intake
 * Have regular check-ups with your dentist. Dental checks are provided by the NHS for a fee, unless you are on a low income. See the NHS website ([www.nhs.uk](https://www.nhs.uk)) for more information on who qualifies for free NHS dental care. The frequency of check-up depends on the health of your teeth and gums. Your dentist can advise on this.
 * Don’t delay treatments if you have a problem. Many dental treatments are available on the NHS, but most will require a contribution to the cost which can vary in amount depending on the treatment needed. People in receipt of certain financial benefits are entitled to free NHS dental treatment.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=o2oZTIucalM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 # Bowel Care
 
@@ -167,6 +199,10 @@ Key ways to avoid constipation:
 * Drink plenty of water
 * Be active
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Ri0RYSSFdCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 # Skin Care
 
 * Keep your skin clean, but avoid harsh soaps as they can wash away the natural skin oils.
@@ -177,6 +213,10 @@ Key ways to avoid constipation:
 * Some sun exposure is good and helps your body maintain vitamin D levels. However excessive sun exposure increases the risk of skin damage and skin cancer. See the NHS website ([www.nhs.uk](https://www.nhs.uk)) for some tips on safe sun exposure.
 
 See our Skin Changes page for more information on this.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=eEmMhedZ600" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Organisation Information
 
