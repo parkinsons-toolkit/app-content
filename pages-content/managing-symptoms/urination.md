@@ -46,6 +46,8 @@ There are many things you can try for yourself as below, but there are some circ
 * Stay hydrated – while it might be tempting to drink less in the hope of needing the toilet less, having concentrated urine sitting in the bladder for a long time makes you prone to infections and concentrated urine can irritate the bladder. So keep hydrated.
 * Tracking your symptoms may help you identify particular triggers for your urinary symptoms (see section “Further Assessment”).
 
+> Image: Freepik.com
+
 # Toileting advice
 * Try to get into a routine.
 * Try to allow time to get to the toilet, and allow enough time to empty fully your bladder.
@@ -63,6 +65,8 @@ There are many things you can try for yourself as below, but there are some circ
 
 # Finding toilets
 * If finding toilets when out and about is a concern, the ‘National Key Scheme’ may help. This system allows people with a disability to unlock more than 9,000 accessible public toilets across the UK. See the Disability Rights UK website for more information and to buy a ‘Radar Key’, and see list for your region.
+
+> Image: Freepik.com
 
 # My Experience
 # People affected by Parkinson’s describe their experiences.
