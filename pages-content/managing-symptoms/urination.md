@@ -44,7 +44,7 @@ There are many things you can try for yourself as below, but there are some circ
 * Reduce/avoid fizzy drinks – these can make urinary symptoms worse.
 * Adjust your fluid intake – if night-time symptoms are bad, you could reduce the volume of fluid you consume in the hour or two before bed.
 * Stay hydrated – while it might be tempting to drink less in the hope of needing the toilet less, having concentrated urine sitting in the bladder for a long time makes you prone to infections and concentrated urine can irritate the bladder. So keep hydrated.
-* Tracking your symptoms may help you identify particular triggers for your urinary symptoms (see section “Further Assessment”).
+* Tracking your symptoms may help you identify particular triggers for your urinary symptoms (see section *“Further Assessment”*).
 
 > Image: Freepik.com
 
@@ -58,7 +58,7 @@ There are many things you can try for yourself as below, but there are some circ
 * If the problem is due to Parkinson’s, pelvic floor exercises will not fix it, but it may help. See More Information below for more detailed advice.
 
 ### Weight loss
-* If you are overweight then there is more pressure on your bladder and pelvic floor. In this case losing weight can improve urinary symptoms. However, if you are normal or underweight we do not advise trying to lose weight.
+* If you are overweight then there is more pressure on your bladder and pelvic floor. In this case losing weight can improve urinary symptoms. *However, if you are normal or underweight we do not advise trying to lose weight.*
 
 # Bladder retraining
 * This is a technique whereby you slowly build up bladder control. This is by making yourself hold a full bladder a little bit longer each time you need to go to the toilet. It is generally used for symptoms of urgency, or incontinence due to urgency (known as urge incontinence). If the problem is due to Parkinson’s, bladder retraining will not fix it, but it may help. See More Information below for more detailed advice.
@@ -71,7 +71,7 @@ There are many things you can try for yourself as below, but there are some circ
 ## My Experience
 ### People affected by Parkinson’s describe their experiences.
 
-“I did have a problem with my bladder where, at night-time I was getting up 10, 11, 12 times in the night for a wee. And when I spoke to my doctor about it, she suggested that I cut down liquids or drinks from 6pm onwards. And that works. If I want a sip of water, I’ll have just a sip of water”
+*“I did have a problem with my bladder where, at night-time I was getting up 10, 11, 12 times in the night for a wee. And when I spoke to my doctor about it, she suggested that I cut down liquids or drinks from 6pm onwards. And that works. If I want a sip of water, I’ll have just a sip of water”*
 (Person with Parkinson’s)
 
 ## Further assessment
