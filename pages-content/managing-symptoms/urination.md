@@ -60,7 +60,7 @@ There are many things you can try for yourself as below, but there are some circ
 ### Weight loss
 * If you are overweight then there is more pressure on your bladder and pelvic floor. In this case losing weight can improve urinary symptoms. *However, if you are normal or underweight we do not advise trying to lose weight.*
 
-# Bladder retraining
+## Bladder retraining
 * This is a technique whereby you slowly build up bladder control. This is by making yourself hold a full bladder a little bit longer each time you need to go to the toilet. It is generally used for symptoms of urgency, or incontinence due to urgency (known as urge incontinence). If the problem is due to Parkinson’s, bladder retraining will not fix it, but it may help. See More Information below for more detailed advice.
 
 ### Finding toilets
