@@ -6,9 +6,9 @@ Welcome to your Live Well with Parkinson's account. Live well with Parkinson's a
 
 ## Helpful tips when using the toolkit!
 There are two key areas of the toolkit:
-1.	**Information pages** (What is Parkinson’s, Treatments & Therapies, Living with Parkinson’s, Further Support, Research) – where you can click into each page for more information which might interest you. 
-o	Tip: if there is something specific you are looking for and can’t find it, use the search box to type what you are looking for e.g., Medication. When you find the page, press Crtl + F. This will open a new search box where you can type the words you are looking for e.g. side effects. 
-2.	Personalised pages – which are personal to you and allows you to record your symptoms, set objectives, and more. 
+1.	**Information** pages (**What is Parkinson’s**, **Treatments & Therapies**, **Living with Parkinson’s**, **Further Support**, **Research**) – where you can click into each page for more information which might interest you. 
+_o	Tip: if there is something specific you are looking for and can’t find it, use the search box to type what you are looking for e.g., Medication. When you find the page, press Crtl + F. This will open a new search box where you can type the words you are looking for e.g. side effects._
+2.	**Personalised pages** – which are personal to you and allows you to record your symptoms, set objectives, and more. 
 o	You can access these sections by clicking the word Menu on the top right of the page. 
 o	Helpful videos on how to use and make the most of each area of the toolkit can be found here (link) ‘Further Support’ ‘How to use this toolkit’. This page displays an overview of the contents of your personalised sections including your calendar of events. 
 o	In the personalised section you will find:
