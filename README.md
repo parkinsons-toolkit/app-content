@@ -28,6 +28,8 @@ Videos can be pulled in from external sources such as embedded YouTube videos. T
 </div>
 ```
 
+To get the above embed link in YouTube, go to the YouTube video and click 'Share' - then select the 'embed' button to copy the embed link.
+
 ## Security Guidelines for Content Contributors
 
 ⚠️ **IMPORTANT**: This repository supports HTML within markdown to enable rich content (videos, styled elements). Please follow these security guidelines:
