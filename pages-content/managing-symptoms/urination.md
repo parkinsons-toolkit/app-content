@@ -10,10 +10,10 @@ Common symptoms:
 * Stress incontinence – Some people, particularly women who have had children, can experience a leakage of urine if they e.g. laugh, cough, sneeze or exercise.  This is usually due to weakened pelvic floor muscles and is not related to Parkinson’s. 
 * Nocturia – This is needing to pass urine more than twice during the night (once or twice is considered normal).
 
-# What might be causing it?
+## What might be causing it?
 Parkinson’s can cause most of the symptoms listed above. It does not however cause pain on passing urine, or blood in the urine. However, urinary symptoms are not always due to Parkinson’s.
 
-# Other causes of urinary symptoms include:
+## Other causes of urinary symptoms include:
 * Urinary tract infections (UTIs) – often presents as pain or burning on passing urine. Sometimes you can have high temperatures or hot & cold shivery flushes. It can also cause pain in the lower tummy, and sometimes blood is temporarily seen in the urine. In more severe cases UTIs can trigger “delirium” which can make people appear confused.
 * Enlarged prostate – this is only for men – and often causes a gradual worsening of urinary symptoms. This usually presents as a weak flow of urine, difficulty starting flow, or dribbling at the end of the flow.
 * Medications – in particular diuretic medications (water tablets), e.g. furosemide.
@@ -21,24 +21,24 @@ Parkinson’s can cause most of the symptoms listed above. It does not however c
 * Diabetes – generally associated with excessive thirst and drinking. More likely if there is diabetes in the family. There are different types of diabetes which show different patterns.
 * Prolapse or weakened pelvic floor – this is where some of the pelvic organs are not being adequately supported by the muscles of the pelvis. This may be felt as a dull pain or a sense of “dragging” down below. It may cause stress incontinence symptoms, and make incontinence worse. It particularly affects women after the menopause, who have been through childbirth, people who have had pelvic surgery, and people who are overweight.
 
-# What should I do about it?
+## What should I do about it?
 There are many things you can try for yourself as below, but there are some circumstances where you should seek professional help:
 
-# 1. If you are very ill with new urinary symptoms, if you have a fever and shivery bouts or backache, if there is lots of blood in your urine, or you are confused or drowsy then you should contact your GP straight away, call 111 or go to A&E.
-# 2. You should contact your GP as soon as possible if you have any of the following:
+### 1. If you are very ill with new urinary symptoms, if you have a fever and shivery bouts or backache, if there is lots of blood in your urine, or you are confused or drowsy then you should contact your GP straight away, call 111 or go to A&E.
+### 2. You should contact your GP as soon as possible if you have any of the following:
 * Blood in urine
 * Pain on passing urine or pain in your tummy
 * Thirsty all the time
 * Passing urine more frequently
 * Have new urinary incontinence
 
-# 3. You should see your GP routinely if you have any of the following:
+### 3. You should see your GP routinely if you have any of the following:
 * Poor flow of urine for men
 * Feeling of dragging down below
 * Stress incontinence – leakage when you e.g., laugh or cough
 
-# What can I try for myself?
-# Fluid intake
+## What can I try for myself?
+### Fluid intake
 * Reduce/avoid caffeinated drinks – as these can make urinary symptoms worse. You may find that there is a particular time that is a problem – e.g. if you have caffeine in the evening, then night-time symptoms are worse.
 * Reduce/avoid alcohol intake – alcohol can make urinary symptoms worse.
 * Reduce/avoid fizzy drinks – these can make urinary symptoms worse.
@@ -48,34 +48,34 @@ There are many things you can try for yourself as below, but there are some circ
 
 > Image: Freepik.com
 
-# Toileting advice
+### Toileting advice
 * Try to get into a routine.
 * Try to allow time to get to the toilet, and allow enough time to empty fully your bladder.
 * Lighting and arrangement of furniture are environmental considerations, which affect getting to the toilet at night.
 
-# Pelvic floor exercises
+### Pelvic floor exercises
 * Weakness in the pelvic floor can contribute to incontinence so strengthening the muscles of the pelvic floor can improve symptoms. Like any exercises, they require motivation and persistence. You have to keep them up to keep the pelvic floor strong. These exercises are particularly effective if there is stress incontinence. The exercises have been shown to help for other bladder symptoms too.
 * If the problem is due to Parkinson’s, pelvic floor exercises will not fix it, but it may help. See More Information below for more detailed advice.
 
-# Weight loss
+### Weight loss
 * If you are overweight then there is more pressure on your bladder and pelvic floor. In this case losing weight can improve urinary symptoms. However, if you are normal or underweight we do not advise trying to lose weight.
 
 # Bladder retraining
 * This is a technique whereby you slowly build up bladder control. This is by making yourself hold a full bladder a little bit longer each time you need to go to the toilet. It is generally used for symptoms of urgency, or incontinence due to urgency (known as urge incontinence). If the problem is due to Parkinson’s, bladder retraining will not fix it, but it may help. See More Information below for more detailed advice.
 
-# Finding toilets
+### Finding toilets
 * If finding toilets when out and about is a concern, the ‘National Key Scheme’ may help. This system allows people with a disability to unlock more than 9,000 accessible public toilets across the UK. See the Disability Rights UK website for more information and to buy a ‘Radar Key’, and see list for your region.
 
 > Image: Freepik.com
 
-# My Experience
-# People affected by Parkinson’s describe their experiences.
+## My Experience
+### People affected by Parkinson’s describe their experiences.
 
 “I did have a problem with my bladder where, at night-time I was getting up 10, 11, 12 times in the night for a wee. And when I spoke to my doctor about it, she suggested that I cut down liquids or drinks from 6pm onwards. And that works. If I want a sip of water, I’ll have just a sip of water”
 (Person with Parkinson’s)
 
-# Further assessment
-# Questions
+## Further assessment
+### Questions
 Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your “My Health” section in your manual to bring to the appointment.
 See extra information below for things they might ask about with regard to urinary symptoms.
 
@@ -84,7 +84,7 @@ See extra information below for things they might ask about with regard to urina
 * Patterns of the symptom: timing over the course of a day or at night, triggers.
 * Lifestyle: what and when you drink; alcohol intake.
 
-# Track your symptoms in the Symptom and Activity Tracker (in your manual)
+### Track your symptoms in the Symptom and Activity Tracker (in your manual)
 This can help you to recall the details and help the health professional identify patterns.
 
 For urinary symptoms you could monitor:
@@ -95,7 +95,7 @@ For urinary symptoms you could monitor:
 
 Monitoring for 3 days would normally be adequate.
 
-# Tests
+## Tests
 Depending on their assessment, they may do further tests such as:
 
 * Examination – The doctor may ask to do a pelvic examination (women) to check for e.g. prolapse, or a rectal examination (men) to check the size of your prostate.
@@ -103,10 +103,10 @@ Depending on their assessment, they may do further tests such as:
 * Blood tests – to check kidney function and can give an indication of the body fighting infection.
 * Scans of the urinary tract – Most common scans are Ultrasound or CT scans, but depends on the symptoms.
 
-# Further treatments
+## Further treatments
 Having consulted a healthcare professional, they may offer reassurance or advice for your particular problems, or possibly a further treatment.
 
-# Medication
+## Medication
 * Doctors (e.g. GP or neurologist) and some specialist nurses (e.g. Parkinson’s Specialist Nurses) may change your medication if within their expertise.
 * Please do not make any changes to your medication regime without speaking with a healthcare professional.
 
@@ -122,7 +122,7 @@ See extra information below about some medications that may worsen urinary sympt
 * Antihistamines (e.g. chlorpheniramine)
 * Alpha blockers (e.g. doxazosin)
 
-# Referral
+## Referral
 * You may be referred on to another service.
 * Please be aware there is usually a waiting time before that next service will see you.
 
@@ -135,10 +135,10 @@ See extra information below about typical referrals for urinary problems:
 * Occasionally, specialist neurology services, if persistent difficult to manage urinary symptoms resulting from the Parkinson’s.
 * Supportive services: Occupational Therapy, Physiotherapy/ Gynaecological physiotherapy, District Nurses.
 
-# Key messages
+## Key messages
 * Stay hydrated, but think about what and when you are drinking.
 
-# Where to get incontinence products
+## Where to get incontinence products
 You may be able to get incontinence products on the NHS depending on your local area. To qualify for NHS products you may need to be assessed by a healthcare professional. Please contact your GP for more information.
 
 The charity Bladder & Bowel UK gives independent advice on products that can help manage bladder and bowel problems. For more information on products and how to order them, call its helpline on 0161 607 8219 or visit the Bladder & Bowel UK website.
