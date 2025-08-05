@@ -271,7 +271,7 @@ There has been a lot of interest in supplements as a way of slowing down Parkins
 
 ---
 
-## When to See a Dietitian
+## When to See a Dietician
 
 * When you can no longer maintain your body weight after trying out the “underweight” dietary advice above
 * If you have lost a significant amount of weight without trying, then you should see your GP or Parkinson’s specialist team.
@@ -284,6 +284,11 @@ There has been a lot of interest in supplements as a way of slowing down Parkins
   * Looser fitting clothes and/or belt
   * Jewellery no longer fitting
   * Looser fitting dentures
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EIHpRjU5SBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ---
 
