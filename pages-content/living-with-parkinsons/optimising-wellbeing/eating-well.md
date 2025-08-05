@@ -2,6 +2,10 @@
 
 There is no diet that is specifically recommended for Parkinson’s, but diet can make a difference for symptoms related to Parkinson’s, such as overall mood, constipation, and blood pressure. Diet can also affect some of the medications used for Parkinson’s.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=LQLDFFSRZXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## What is a balanced diet in more detail?
 
 * Eat a variety of food groups. Include a variety of foods from all components of the NHS Eatwell Guide for a range of nutrients. You can find this on page 49.
@@ -18,6 +22,10 @@ There is no diet that is specifically recommended for Parkinson’s, but diet ca
 ---
 
 ## Diet and medication
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jkeVVFVu4Jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ### 1. Levodopa and protein
 
