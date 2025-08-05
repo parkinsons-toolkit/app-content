@@ -15,6 +15,10 @@ You should be cautious about suddenly significantly increasing your activity lev
 
 Think of your activity and exercises to be like your medication. It is an essential part of treatment for your Parkinson’s. This advice is for everyone. The sooner activity is part of your life, the better.
 
+<div class="video-container">
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/ikVplhl5zZw]"(https://www.youtube.com/watch?v=h-ggLKNIMss)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What is “Keeping Active”?
