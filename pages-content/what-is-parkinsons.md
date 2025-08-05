@@ -53,7 +53,7 @@ Lots is known about Parkinson’s. But there is even more to be discovered! See 
 
 ## Other Types of Parkinsonism
 
-Parkinsonism is a term used to describe a group of symptoms namely: bradykinesia, tremor and rigidity. Parkinson’s disease is a type of Parkinsonism but there are others. There are a range of other diagnoses each of which have features of Parkinsonism but with additional symptoms. Please see links below for further details. Other Parkinsonian conditions can be very difficult to diagnose, as symptoms can look similar to PD and only reveal themselves/change with time. Your specialist will look out for these.
+Parkinsonism is a term used to describe a group of symptoms namely: bradykinesia, tremor and rigidity. Parkinson’s disease is a type of Parkinsonism but there are others. There are a range of other diagnoses each of which have features of Parkinsonism but with additional symptoms. Please see links below for further details. Other Parkinsonian conditions can be very difficult to diagnose, as symptoms can look similar to Parkinson's and only reveal themselves/change with time. Your specialist will look out for these.
 
 ### Helpful Resources:
 
