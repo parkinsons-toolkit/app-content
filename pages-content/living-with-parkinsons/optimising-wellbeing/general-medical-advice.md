@@ -13,10 +13,6 @@ These are all delivered as injections, usually into the arm. You should have vac
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hnxtxN36_hM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ikVplhl5zZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
 ---
 
 ## Blood Pressure
@@ -94,8 +90,9 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
 * There are medications that can help to strengthen bones if they are found to be low density. They may also prescribe combined **calcium and vitamin D3 tablets**.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=SCWmi1_RIOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SCWmi1_RIOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
 
 # Lifestyle Choices
 
