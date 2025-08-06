@@ -10,9 +10,8 @@ Vaccinations are medications designed to prevent infections. Vaccination schedul
 These are all delivered as injections, usually into the arm. You should have vaccines if you are allergic to the ingredients or are ill at the time. More information can be found on the NHS website, under ‘Vaccinations’.
 
 <div class="video-container">
-<iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/hnxtxN36_hM?si=RkNWVPTLsoFKyJAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/hnxtxN36_hM?si=ptLaTuFylfbETQGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
 ---
 
 ## Blood Pressure
