@@ -12,6 +12,16 @@ These are all delivered as injections, usually into the arm. You should have vac
 <div class="video-container">
 <iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/hnxtxN36_hM?si=ptLaTuFylfbETQGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hnxtxN36_hM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
+
+
+
 ---
 
 ## Blood Pressure
