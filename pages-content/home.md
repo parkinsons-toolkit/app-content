@@ -1,9 +1,12 @@
 # Welcome to Our Website
 
-Welcome to your Live Well with Parkinson's account! 
-Live Well with Parkinson's aims to help you:
+Welcome to your _Live Well with Parkinson's_ account! 
+_Live Well with Parkinson's_ aims to help you:
 
-- Increase your knowledge 
+- Increase your knowledge about Parkinson's by reading our information pages. This might include learning how to maintain a healthy and active lifestyle while living with Parkinson's symptoms and treatments.
+- Build new skills to manage your condition, including looking at steps you can take to live well with Parkinson's.
+- Feel more confident in managing your condition by empowering you to keep your medical and personal records up-to-date all in one place.
+- We can can also help you to make the most out of your appointments with healthcare professionals, including keeping a detailed record of any symptoms your experiencing.
 
 ## Helpful tips when using the toolkit!
 There are two key areas of the toolkit:
