@@ -19,7 +19,7 @@ Think of your activity and exercises to be like your medication. It is an essent
 
 ## What is “Keeping Active”?
 
-In general, the more active you are, the better. It is important not to go beyond your limits. However, you should feel like you are pushing yourself.
+In general, the more active you are, the better. It is important not to go beyond your limits. However, you <ins>should</ins> feel like you are pushing yourself.
 
 Different people will reach this with different activities. This will change over time.
 
