@@ -117,7 +117,7 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
   See our Eating Well page for more information on supplements.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=25tpJP8Pucg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/25tpJP8Pucg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 # Vision & Hearing
