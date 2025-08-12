@@ -32,7 +32,7 @@ Everyone with Parkinson’s should be considered for referral to physiotherapy. 
 
 ## What Should I Do?
 
-Think through what you do now. You can record this on the *My Wellbeing* page. Then use this page to think about whether it is enough and whether it is the right type of activity. If there is something missing or you want to make a change, the *My Wellbeing* page will guide you through. Also talk to your *Live Well with Parkinson’s Supporter* who can help you with this.
+Think through what you do now. You can record this on the *My Wellbeing* page. Then use this page to think about whether it is enough and whether it is the right type of activity. If there is something missing or you want to make a change, the *My Wellbeing* page will guide you through.
 
 Think through these 5 components and how they can be built into your routine:
 
@@ -68,7 +68,7 @@ Many people with Parkinson’s experience more movement symptoms on one side of 
 
 ### 5. Work on Balance & Coordination
 
-These are activities that challenge your balance and practice coordination, ideally undertaken twice a week or more. If you have difficulties with your balance you should see a physiotherapist for advice on safe activities to engage in. Also see the *Balance & Falls* page.
+These are activities that challenge your balance and practice coordination, ideally undertaken twice a week or more. If you have difficulties with your balance, you should see a physiotherapist for advice on safe activities to engage in. Also see the *Balance & Falls* page.
 
 ---
 
@@ -102,8 +102,6 @@ In your daily life as well as when doing specific activities, there are a few fa
 * For example, go through the alphabet naming countries beginning with each letter, while throwing a ball from one hand to the other.
 * **Caution**: There is a risk for example of losing balance while you concentrate on something else. It is important to stay within your limits. Perhaps start seated.
 
-> Image: Freepik.com
-
 ---
 
 ### Don’t forget your hands
@@ -113,8 +111,6 @@ Although it does not require intense effort, it is important to remember your ha
 * Control of force, i.e. grip of small objects.
 * Moving the fingers one by one.
 * Coordinating finger movements, i.e. which fingers move together or separately, and the timing of movements.
-
-> Image: Freepik.com
 
 This could be built into your routine through day-to-day tasks, for example writing, drawing, or manipulating small objects, like handling coins, or screwing nuts onto bolts. Alternatively you could get creative, modelling with clay or play-dough.
 
@@ -133,9 +129,6 @@ This could be built into your routine through day-to-day tasks, for example writ
 ### A Note about Music
 
 * There has been some research showing benefits of music for people with Parkinson’s.
-
-> Image: Freepik.com
-
 * It seems that rhythm or beat of music helps people with Parkinson’s make some movements and so undertake activity. Some people find it more fun too.
 * Consider exercising to music or taking part in dance as part of your exercise.
 
@@ -291,8 +284,6 @@ Here is the provided text converted to **Markdown format** with no other changes
 
 I am usually active, I like to do vigorous activity when I can. I am not sure if what I am doing is the best I can do for my Parkinson’s.
 
-*Image: Freepik.com*
-
 ### What does Keeping Active mean for you?
 
 If your symptoms are mild then this is a great time to get into the best possible physical shape. You can push yourself harder and build up the exercise you do.
@@ -316,8 +307,6 @@ Examples include:
 ---
 
 #### 2. Undertake Activities
-
-*Image: Freepik.com*
 
 This is about trying to undertake more intense activity where possible. It is to get your body working harder. Choosing something you enjoy or can fit into your life’s routine gives you the best chance of continuing it.
 The recommended amount of activity may seem like a lot, but if you build it up gradually, it won’t feel like so much. You may also be doing more than you realise already.
@@ -442,8 +431,6 @@ Parkinson’s UK has videos for yoga, cycling and weightlifting. You can find th
 
 I am somewhat active, I like to be up and about doing things, but I think I could probably do more.
 
-*Image: Freepik.com*
-
 ### What does Keeping Active mean for you?
 
 If you have more symptoms, you will need to be more cautious but you should still push yourself. It may be good to get tailored professional advice first.
@@ -465,9 +452,6 @@ Try to avoid being sedentary whenever possible. Take breaks from sitting, to mov
 * Cleaning the home and doing the ironing
 * A gentle stroll
 * Get off the bus a stop early to walk instead
-
-*Image: Freepik.com*
-
 * Using the advert break on TV or the end of a chapter of a book as a reminder to regularly get up and do something, like get a drink or walk around
 
 Here is your “More Information” section converted to **Markdown format**, with **no other changes**:
