@@ -227,31 +227,26 @@ If you have Parkinson’s, you are protected under the **Equality Act 2010** fro
 
 Please look at the bottom of the table for further information about call charges.
 ```
-
-| **Organisation**            | **What They Help With**                                                  | **Phone Number**       | **Website**                                                                                      |
-|----------------------------|-------------------------------------------------------------------------|-----------------------|------------------------------------------------------------------------------------------------|
-| **Age UK**                 | Info and support for older people, including legal advice & power of attorney. | 0800 678 1602 (Free, 8am-7pm) | [ageuk.org.uk](https://www.ageuk.org.uk/northern-ireland/information-advice/money-matters/legal-issues/)  |
-| **Citizens Advice**        | Free confidential advice on money, legal, housing issues.                | 03444 111 444*        | [citizensadvice.org.uk](https://www.citizensadvice.org.uk/)                                    |
-| **Court of Protection**    | Info and applications for deputyship if someone loses decision-making capacity. | 0300 456 4600**       | [gov.uk/court-of-protection](https://www.gov.uk/courts-tribunals/court-of-protection)           |
-| **Equality Advisory Service** | Advice on inequality and rights in England.                            | 0808 800 0082 (Free)  | [equalityadvisoryservice.com](http://www.equalityadvisoryservice.com/)                         |
-| **GP (General Practice)**  | Advice on wording statement of wishes or advance decisions.              | —                     | Contact your local GP                                                                             |
-| **Hourglass**              | Support for older people experiencing harm, abuse or exploitation.       | 020 8835 9280***      | [elderabuse.org.uk](https://www.elderabuse.org.uk/)                                            |
-| **Law Society**            | Lists of solicitors in England and Wales.                               | 020 7320 5650***      | [solicitors.lawsociety.org.uk](https://solicitors.lawsociety.org.uk/)                           |
-| **National Free Wills Network** | Free will writing services via charities, including Parkinson’s UK.   | —                     | [nationalfreewills.net](https://www.nationalfreewills.net/)                                    |
-| **Office of the Public Guardian** | Info and applying for Lasting Power of Attorney and deputyship.         | 0300 456 0300**       | [gov.uk](https://www.gov.uk/)                                                                   |
-| **Ombudsman Association**  | Find an Ombudsman for complaints in your area.                          | —                     | [ombudsmanassociation.org](https://www.ombudsmanassociation.org/)                              |
-| **Parkinson’s UK**         | Info on power of attorney, free will services, and other support.        | 0808 800 0303 (Free, 9am-7pm Mon-Fri, 10am-2pm Sat) | [parkinsons.org.uk](https://www.parkinsons.org.uk/information-and-support/making-power-attorney) |
-
----
-
-### Call Charges  
-- *Calls to Citizens Advice: up to 9p/min from landlines, 3p–55p/min from mobiles; may be free depending on your provider.*  
-- **Calls to Court of Protection and Office of the Public Guardian: up to 10p/min from landlines, 3p–40p/min from mobiles; may be free depending on your provider.**  
-- ***Calls to Hourglass and Law Society: up to 13p/min from landlines, 3p–55p/min from mobiles; may be free depending on your provider.***
+```markdown
+| Organisation           | Information about                                                                                                   | Phone Number             | Website                                                                                         |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------|--------------------------|------------------------------------------------------------------------------------------------|
+| Age UK                | Provides information and support to older people. There is support and advice for legal matters such as power of attorney. | 0800 678 1602<br>Free helpline: open 8am-7pm | [Legal Advice](https://www.ageuk.org.uk/northern-ireland/information-advice/money-matters/legal-issues/) <br> [Power of Attorney](https://www.ageuk.org.uk/northern-ireland/information-advice/money-matters/legal-issues/power-of-attorney/) |
+| Citizens Advice       | Provides free confidential information to help people with money, legal and housing advice. You can look up your local bureau by entering your postcode in the designated search function. | 03444 111 444 *          | [www.citizensadvice.org.uk](https://www.citizensadvice.org.uk/)                                 |
+| Court of Protection    | Information and applying to become deputy if someone has lost ability to make their own decisions.                  | 0300 456 4600 **         | [Court of Protection](https://www.gov.uk/courts-tribunals/court-of-protection)                  |
+| Equality Advisory Support service | Helpline that advises people on issues relating to inequality and rights across England.                               | 0808 800 0082 Free       | [www.equalityadvisoryservice.com](https://www.equalityadvisoryservice.com/)                    |
+| General Practice (GP)  | Your local GP can provide advice on how best to word your statement of wishes or advance decision.                  |                          |                                                                                                |
+| Hourglass              | Charity that provides information and advice to older people who may be experiencing harm, abuse or exploitation. | 020 8835 9280 ***        | [www.elderabuse.org.uk](https://www.elderabuse.org.uk/)                                        |
+| Law Society            | Lists of solicitors.                                                                                               | 020 7320 5650 ***        | [solicitors.lawsociety.org.uk](https://solicitors.lawsociety.org.uk/)                           |
+| National Free Wills Network | Provides free Will writing service.                                                                               |                          | [www.nationalfreewills.net](https://www.nationalfreewills.net/)                                |
+| Office of the Public Guardian | Information and applying for Lasting Power of Attorney and deputyship.                                              | 0300 456 0300 **         | [www.gov.uk](https://www.gov.uk/)                                                              |
+| Ombudsman Association  | Find if there is an Ombudsman dealing with your area of complaint.                                                 |                          | [www.ombudsmanassociation.org](https://www.ombudsmanassociation.org/)                          |
+| Parkinson’s UK website | Provides information and advice on how to complete the power of attorney process and other matters. Also has links to free will services. | 0808 800 0303<br>Free helpline: open 9am-7pm (Mon-Fri), 10am-2pm (Sat) | [Power of Attorney](https://www.parkinsons.org.uk/information-and-support/making-power-attorney) <br> [Free Will Services](https://www.parkinsons.org.uk/get-involved/parkinsons-uk-free-will-services) |
 
 ---
 
-If you want, I can help you decide which organisation to contact based on your situation!
+* Calls cost up to 9p/minute from landlines, between 3p-55p/minute from mobile phones. You may get this call for free depending on your phone provider.  
+** Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.  
+*** Calls cost up to 13p/minute from landlines, between 3p-55p/minute from mobile phones. You may get this call for free depending on your phone provider.
 ```
 
 
