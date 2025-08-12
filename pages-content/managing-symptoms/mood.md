@@ -1,6 +1,6 @@
-# Low Mood
+# Low Mood and Anxiety
 
-## What’s the difference between low mood and depression?
+## Low Mood: What’s the difference between low mood and depression?
 
 Everyone experiences low mood sometimes, often after a difficult event or even for no clear reason. For many, these feelings are manageable and pass gradually. For others, low mood may persist and impact daily life, making it harder to “shake off.” This may indicate depression. Depression affects physical health, appetite, and sleep, and being physically unwell can also lower mood.
 
