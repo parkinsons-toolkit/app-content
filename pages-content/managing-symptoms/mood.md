@@ -1,4 +1,4 @@
-# Low Mood and Anxiety
+# Mood
 
 ## Low Mood: What’s the difference between low mood and depression?
 
@@ -477,4 +477,259 @@ There are some simple tricks that we can use to take back control of our repetit
 • ‘Worry time’: worry thoughts can happen at any time. The thing we are worrying about may be important so we feel that deserves our attention. However, it can get in the way of other things. One simple trick is to plan one or two short periods of ‘worry time’ during the day. These are the times that you allow yourself to worry. Because you know that you can come back to the worry later, it is easier to switch it off at the time it pops into your head. Interestingly, when your scheduled worry time comes along, the worry often does not seem so worrying.
 
 Make a note of your worry and come back to it later: Worries often run through our minds when we have no distractions. Unfortunately, this is often when we are trying to relax or sleep. Keep a notebook beside your bed or arm-chair and jot down a quick note about the worry. Then come back to it later – either during your worry time or in the morning. Again, the worry often seems less powerful
-'''
+
+```markdown
+A small study of self-help, using these and other simple techniques, showed that they can significantly reduce the amount of time that people spend worrying. The study used an short guide published on- line in Australia called ‘What? Me Worry?’ available in our More Information section. 
+ 
+## Avoid avoidance 
+Avoidance is a central feature of anxiety. It helps in the short-term but makes things worse overall. It can also restrict important aspects of day-to-day living. 
+ 
+Avoidance tends to build up gradually and is something that we learn to do – without intending it. 
+We unlearn avoidance if we realise that we can cope with the stressful situation, even if it is difficult. 
+Often avoidance is an all-or-none response. For example, if shopping is difficult because of crowds, it is better to change the time or the place to one that is less crowded, rather than avoiding shops completely. This is adapting to the situation rather than avoiding it. 
+ 
+Practical planning and problem-solving can remove some stress and make avoidance less likely. This advanced thinking is much more productive than worry. Friends and family can often help find solutions to help you do the things that you are tending to avoid. But, it is important that they don’t encourage avoidance thinking that this will help you feel less anxious. 
+ 
+## My Experience 
+People affected by Parkinson’s describe their experiences. 
+ 
+> “In a sense, this is a similar process to a bereavement and you need time to adjust before getting back on an even keel. I worried that the level of anxiety I felt in the weeks after diagnosis were a symptom of Parkinson's and would be with me for life. When a distant friend told me that life would be good again, I remember being really surprised but also encouraged.” (Person with Parkinson’s) 
+ 
+> “It’s weird. There's no reason, absolutely no reason why I should be [anxious]. It just seems to build up and get worse. No, I can't put it down to anything. There's nothing in particular that I can think of that makes it start. It just comes over you. ….I think if I just breathe. What I usually do is I’ll sit back and I’ll sort of take deep breaths and then I just sort of think, ‘calm down, just calm down’, you know, and sort of bring myself back again. So, that’s the only way I can get out of it, really. Or go and sit and do some drawing or go sit and put the television on and takes my mind off it” (Person with Parkinson’s) 
+ 
+## Further Assessment 
+At times, feelings of anxiety are completely normal. But, anxiety can begin to disrupt your day-to-day life or cause you distress. If this is the case, it is important to seek help from healthcare professionals. 
+ 
+### Questions 
+- Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your “My Health” section to bring to the appointment. 
+- See extra information below to see things they might ask about with regard to anxiety. 
+ 
+  - Are you experiencing any physical symptoms? If so, what are these? 
+  - What life events or stressors are happening? 
+  - Are there any triggers for your anxiety? 
+  - Thoughts or actions related to mood, such as thinking about self-harm or suicide 
+  - How anxiety is impacting your life, for example your sleep 
+ 
+### Track your symptoms in the Symptom and Activity Tracker 
+- This can help you to recall the details and help the professional identify patterns. 
+- Monitor when you’re anxious and what’s happening for you at that time. Write down anything that may be related to the anxiety (i.e. things that seem to make your anxiety worse and things that appear to make it better). Make a note of any physical symptoms and when you take your medication. Try to do this for three days – this should be enough to be able to look for a pattern. 
+- It is best not to get too caught up in monitoring your symptoms as this can make anxiety worse. 
+ 
+## Tests 
+Tests are not usually needed when assessing for anxiety. But your healthcare professional may wish to examine you or carry out tests, such as blood tests. This would help to rule out other possible causes of your symptoms. 
+ 
+## Further Treatments 
+Your healthcare professional may be able to give you more specific advice about things you could try yourself. They might also refer you on to another service or discuss the option of medication. 
+
+### Referral 
+- There is often a waiting time before that next service will see you. Referral would typically be for talking therapies or to mental health teams. 
+- Talking therapies are often first choice for anxiety. 
+  - They offer a safe, confidential place to talk to a trained professional about any difficulties you are having. 
+  - Therapy sessions can be one-to-one with the therapist or in small groups. 
+  - There are various types of talking therapies, but they all aim to improve your well-being. See extra information below about talking therapies. 
+  - **Counselling**: Counselling can help you cope with mild versions of common mental health problems, including anxiety. 
+  - **Cognitive Behavioural Therapy (CBT)**: CBT focuses on how your feelings, thoughts, and behaviour influence each other and can lead to, or worsen, feelings of anxiety. It works by encouraging you to change these patterns by challenging ‘unhelpful’ thoughts and behaviour. There is evidence that CBT is particularly effective in treating anxiety, but it can also help you cope with chronic health problems. CBT typically involves a course of weekly sessions. It can be delivered by a clinical psychologist, psychiatrist, or specially trained nurse. Treatment for mild anxiety can be done via computer from your own home with support from a mental health care professional. 
+  - **Link worker service**: Most areas in England now offer a link worker service. You can ask about this at your GP practice. This is someone who can help link you up to local support available in your area. This might include activities and groups related to your interests, or local low cost counselling or other support options. 
+ 
+## Medication 
+- Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication. 
+- Please do not make any changes to your medication regime without speaking with a healthcare professional. 
+- If severe anxiety is affecting your quality of life, your GP or Parkinson’s specialist team may discuss the option of medication. There are different types of medication available for anxiety and the choice is personal to you. But, there are none specifically recommended for Parkinson’s’ and there have been no clinical trials looking into this. 
+- See extra information below about medication used for anxiety. 
+ 
+  - Selective Serotonin Reuptake Inhibitors (SSRIs), e.g. sertraline and citalopram 
+  - Other medications also used for depression, e.g. mirtazapine or Serotonin and norepinephrine reuptake inhibitors (SNRIs) like venlafaxine 
+  - Some drugs also used to for pain e.g. gabapentin or pregabalin 
+  - Very occasionally, short term use of benzodiazepines 
+  - Sometimes beta blockers are used for symptoms of panic. It should be used with caution as it can lower blood pressure. 
+ 
+- See extra information below about some medications that may worsen anxiety. 
+ 
+  - Caffeine - this is present in some over-the-counter pain killers and flu remedies 
+  - Some decongestants 
+  - Steroid medication 
+  - Medication used for asthma (e.g. salbutamol) 
+  - Levothyroxine 
+
+## Key Messages 
+- Anxiety is the feeling of worry or fear, including a general sense of unease. It can range in intensity from mild to severe. 
+- There are many things you can do to help improve your mood, even if you don’t have anxiety. These include exercise, maintaining a healthy diet, improving sleep, and making time to relax. You can also tackle worry and avoidance. 
+- Treatments for anxiety offered by healthcare professionals include talking therapies and medication.
+
+```markdown
+## More Information
+
+Please look at the bottom of the table for further information about call charges.
+
+| Organisation | Information about | Phone Number | Website |
+|--------------|-------------------|--------------|---------|
+| **Age UK** | This charity offers support and advice for older adults, including tips for managing anxiety. | 0800 678 1602<br>Free helpline: open 8am–7pm | [www.ageuk.org.uk/information-advice/health-wellbeing/conditions-illnesses/depression-anxiety](https://www.ageuk.org.uk/information-advice/health-wellbeing/conditions-illnesses/depression-anxiety) |
+| **Anxiety UK** | Offers memberships, which can include access to discounted therapy, access to Anxiety magazines and information booklets. | 03444 775 774*<br>Helpline open 9.30am–5.30pm (Mon–Fri) | [www.anxietyuk.org.uk/get-help/become-a-member](https://www.anxietyuk.org.uk/get-help/become-a-member) |
+| **Hub of Hope** | Enter your postcode to find local mental health services in your area. You can search results by ‘concerns’. | — | [www.hubofhope.co.uk](https://www.hubofhope.co.uk) |
+| **Mind** | Explains anxiety in simple terms; including causes, symptoms and ways to help yourself. | 0300 123 3393 **<br>Open 9am–6pm (Mon–Fri) | [www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety-and-panic-attacks/about-anxiety](https://www.mind.org.uk/information-support/types-of-mental-health-problems/anxiety-and-panic-attacks/about-anxiety) |
+| **NHS** | Provides information about types of talking therapies available on the NHS to manage anxiety. Self-help leaflets offer advice on a range of mental health topics. | — | [Types of Therapies](https://www.nhs.uk/conditions/stress-anxiety-depression/types-of-therapy/) <br> [Find Local Services](https://www.nhs.uk/conditions/stress-anxiety-depression/free-therapy-or-counselling/) <br> [Self-Help Leaflets](https://www.web.ntw.nhs.uk/selfhelp/) |
+| **No Panic** | Offers resources and information to explain different types of anxiety. Paid membership includes befriending groups and support services. | 0844 967 4848<br>Helpline open 10am–10pm<br>(Costs 5p/min + your access charge) | [www.nopanic.org.uk/resources](https://www.nopanic.org.uk/resources) <br> [Paid Membership](https://www.nopanic.org.uk/what-do-i-get-as-a-member/) |
+| **Parkinson’s UK** | Describes living with anxiety and Parkinson’s, including tips and treatments. Available online, in print, or by post. | 0808 800 0303<br>Free helpline: open 9am–7pm (Mon–Fri), 10am–2pm (Sat) | [General Information](https://www.parkinsons.org.uk/information-and-support/anxiety) <br> [Complementary Therapies](https://www.parkinsons.org.uk/information-and-support/complementary-therapies) |
+| **Reading Well** | Provides book recommendations to manage wellbeing. | — | [www.reading-well.org.uk/books/books-on-prescription](https://www.reading-well.org.uk/books/books-on-prescription) |
+| **Royal College of Psychiatrists** | Provides information about anxiety, including where to get help and what it feels like. | — | [www.rcpsych.ac.uk/mental-health/problems-disorders/anxiety-panic-and-phobias](https://www.rcpsych.ac.uk/mental-health/problems-disorders/anxiety-panic-and-phobias) |
+
+\* Calls cost up to 9p/minute from landlines, between 3p–55p/minute from mobiles. You may get this call for free depending on your phone provider.  
+\** Calls cost up to 10p/minute from landlines, between 3p–40p/minute from mobiles. You may get this call for free depending on your phone provider.
+
+---
+
+## Loss of Interest or Drive
+
+Loss of interest or drive is sometimes called **apathy**.  
+It is not the same as feeling low or depressed, although it can also be part of depression.
+
+- To outsiders, apathy can be mistaken for laziness, but it can be a **symptom of Parkinson’s**.
+- For some, it affects engagement with hobbies or pastimes.
+- For others, it impacts routine daily activities such as self-care.
+
+### Apathy vs Avoidance
+- **Avoidance**: Not doing something because it is too difficult.
+- **Apathy**: The person *can* do it (especially with encouragement) but has no desire or ability to start without prompting.
+- Someone with apathy is **not avoiding** — they simply have no wish to do it or cannot get started.
+
+If you feel like you have **lost your spark** or **can’t be bothered to do anything**, that might be apathy.
+
+```markdown
+## What Might Be Causing It?
+
+Apathy is a symptom of Parkinson’s as well as other neurological conditions.  
+There is evidence that it is linked to the levels of dopamine in the brain.  
+This link is different from how dopamine affects movement.
+
+- Apathy in Parkinson’s can be present by itself.
+- It can also be linked to low mood, memory, and thinking problems.
+
+---
+
+## What Should I Do About It?
+
+The feeling of apathy can be hard to change. There is no quick fix, but:
+
+- Routinely talk to your GP or Parkinson’s specialist team.
+- They can assess for a cause and potentially treat related symptoms.
+
+Even if your interest and drive are low, it is important to remain active.  
+Managing apathy benefits mental and physical health and helps those you live with.
+
+---
+
+## What Can I Try for Myself?
+
+There are three main ways to tackle apathy:
+
+1. **Establish a routine** so the activity becomes a habit.
+2. **Build a menu** of activities to choose from.
+3. **Agree with others** that they can prompt or remind you.
+
+---
+
+### Establishing a Routine
+
+- Apathy tends to affect less frequent, optional activities.
+- Regular habits are less affected.
+- A daily or weekly routine can help tackle apathy and improve mood.
+- Best routines include variety, with activities from different categories:
+
+#### Chores
+- Household or garden tasks you may have stopped doing.
+- Could include taking over tasks from family members.
+- May not be fun but are useful and often physically active.
+
+#### Hobbies and Pastimes
+- Often affected early in apathy.
+- Find activities you can still do and include 1–2 in your routine.  
+  *See Hobbies & Pets page for more advice.*
+
+#### Physical Activity
+- Apathy can cause physical inactivity.
+- Include chores, hobbies, and exercise to stay active.
+- Even small amounts of exercise are valuable.  
+  *See Keeping Active page for more advice.*
+
+#### Social Activity
+- Plan chances to be around others (family, friends, groups).
+- Schedule 2–3 activities each week (calls, visits, groups).
+- Combine with hobbies, pastimes, or exercise.  
+  *See Social & Spiritual Life page for more advice.*
+
+---
+
+### Make a ‘Menu’
+
+- Helps for times when you feel like you have nothing to do.
+- Easier to choose from a list than think from scratch.
+- Keep it small, varied, and avoid activities that are too long or complex.
+- Include options from chores, hobbies, physical, and social activities.
+
+---
+
+### The Importance of Prompts and Reminders
+
+- People with apathy often don’t act without prompting.
+- Family should feel encouraged to give reminders (not “nagging”).
+- Prompts can include:
+  - Talking through the daily routine.
+  - Encouraging use of the activity menu.
+
+---
+
+## My Experience
+
+> “I watch TV to distract. I lie down to distract. I get up and go for a walk around the house. Sometimes go out the front door, have a walk around the block.”  
+> *Person with Parkinson’s*
+
+---
+
+## Further Assessment
+
+### Questions Professionals Might Ask
+- How is your mood?
+- Have you noticed any changes in your memory or thinking?
+- Are there times when you feel engaged vs disinterested, or is it continuous?
+- Any relationship with your medication?
+
+---
+
+## Tracking Symptoms
+
+- Helps recall details and identify patterns.
+- If remembering is difficult, note in a diary a few days before the appointment.
+- Avoid tracking for long periods (over a week) as it’s not likely to help.
+
+---
+
+## Tests
+
+- Usually not needed to assess apathy.
+
+---
+
+## Further Treatments
+
+- Few specific treatments for apathy itself.
+- If related to depression → treatment (therapy or antidepressants) may help.
+- If linked to memory/thinking problems → medication such as rivastigmine may help.
+- Support groups may be available.
+- If impacting daily living → referral to occupational therapy or social services for a Needs Assessment.
+
+---
+
+## Key Messages
+
+- Apathy can be a symptom of Parkinson’s, linked to mood or thinking problems, or happen alone.
+- A structured routine, easier choices, and prompts/reminders are important for management.
+
+---
+
+## More Information
+
+| Organisation | Information about | Phone Number | Website |
+|--------------|-------------------|--------------|---------|
+| **European Parkinson’s Disease Association** | Discusses apathy in relation to Parkinson’s, including treatment and diagnosis. | — | [www.epda.eu.com/about-parkinsons/symptoms/non-motor-symptoms/apathy](https://www.epda.eu.com/about-parkinsons/symptoms/non-motor-symptoms/apathy/) |
+| **Parkinson’s UK** | Offers “Advanced Parkinson’s Booklet” with information and support for apathy (mentioned on page 21). Available online, in print, or by post. | 0808 800 0303<br>Free helpline: open 9am–7pm (Mon–Fri), 10am–2pm (Sat) | [www.parkinsons.org.uk/information-and-support/advanced-parkinsons](https://www.parkinsons.org.uk/information-and-support/advanced-parkinsons) |
+```
