@@ -116,24 +116,24 @@ It is important that you are happy, comfortable, and safe wherever you are livin
 - Staff can provide support with personal care and domestic tasks. 
 - On average, assisted living is more expensive than sheltered accommodation. 
 
-Residential care  
+#### Residential care  
 • There are different types of residential care homes, some of which share similar aspects to assisted living.  
 • Residential care may be more appropriate than assisted living for people who require more support day-to-day.  
 • There are nursing residential care homes for people that may need support from qualified nurses as well as personal care.  
 
 For more information on the different types of accommodation, visit the housing options page on the Age UK website.  
 
-What can I do myself?  
+#### What can I do myself?  
 If you want to find what types of accommodation are near you, contact your local council. They can provide you with a list of sheltered accommodation, assisted living, and residential care options. If you are not sure which is most suitable, adult social care services can do an assessment and help. Your local council can also explain who gets priority for local authority or housing association rented accommodation, and how long you might have to wait for a place. Age UK or Parkinson’s UK may be able to give free advice about housing benefits and what to look for in a care home.  
 
-Key steps in finding the right accommodation:  
+#### Key steps in finding the right accommodation:  
 1. Get a list of available places in your local area.  
 2. Make sure it provides the right level of support for you. Bear in mind what you may need in the future.  
 3. Ring the accommodation to find out costs and vacancies. If there are no vacancies at that time, it may be helpful to find out the length of their waiting list and who would get priority.  
 4. Speak to the warden or manager to find out more information. You can visit the Care Quality Commission website to see ratings of residential care and assisted living options (sheltered accommodation is not rated).  
 5. Arrange a visit in person before committing or agreeing to anything. This can help you get a sense of whether the location, facilities, staff or other residents fit in with your expectations.  
 
-More Information  
+#### More Information  
 Please also see the Services and Groups page for sources of support.  
 
 | Organisation               | Information about                                                                                       | Phone Number                         | Website                                                                                                           |
