@@ -226,8 +226,7 @@ If you have Parkinson’s, you are protected under the **Equality Act 2010** fro
 ## More Information
 
 Please look at the bottom of the table for further information about call charges.
-```
-```markdown
+
 | Organisation           | Information about                                                                                                   | Phone Number             | Website                                                                                         |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------|--------------------------|------------------------------------------------------------------------------------------------|
 | Age UK                | Provides information and support to older people. There is support and advice for legal matters such as power of attorney. | 0800 678 1602<br>Free helpline: open 8am-7pm | [Legal Advice](https://www.ageuk.org.uk/northern-ireland/information-advice/money-matters/legal-issues/) <br> [Power of Attorney](https://www.ageuk.org.uk/northern-ireland/information-advice/money-matters/legal-issues/power-of-attorney/) |
