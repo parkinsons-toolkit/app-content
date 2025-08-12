@@ -478,7 +478,6 @@ There are some simple tricks that we can use to take back control of our repetit
 
 Make a note of your worry and come back to it later: Worries often run through our minds when we have no distractions. Unfortunately, this is often when we are trying to relax or sleep. Keep a notebook beside your bed or arm-chair and jot down a quick note about the worry. Then come back to it later – either during your worry time or in the morning. Again, the worry often seems less powerful
 
-```markdown
 A small study of self-help, using these and other simple techniques, showed that they can significantly reduce the amount of time that people spend worrying. The study used an short guide published on- line in Australia called ‘What? Me Worry?’ available in our More Information section. 
  
 ## Avoid avoidance 
@@ -594,7 +593,6 @@ It is not the same as feeling low or depressed, although it can also be part of 
 
 If you feel like you have **lost your spark** or **can’t be bothered to do anything**, that might be apathy.
 
-```markdown
 ## What Might Be Causing It?
 
 Apathy is a symptom of Parkinson’s as well as other neurological conditions.  
