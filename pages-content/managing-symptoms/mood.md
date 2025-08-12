@@ -475,4 +475,6 @@ Cognitive Behavioural Therapy (CBT) focuses on how your feelings, thoughts, and 
 There are some simple tricks that we can use to take back control of our repetitive unproductive worry.
 
 • ‘Worry time’: worry thoughts can happen at any time. The thing we are worrying about may be important so we feel that deserves our attention. However, it can get in the way of other things. One simple trick is to plan one or two short periods of ‘worry time’ during the day. These are the times that you allow yourself to worry. Because you know that you can come back to the worry later, it is easier to switch it off at the time it pops into your head. Interestingly, when your scheduled worry time comes along, the worry often does not seem so worrying.
-```
+
+Make a note of your worry and come back to it later: Worries often run through our minds when we have no distractions. Unfortunately, this is often when we are trying to relax or sleep. Keep a notebook beside your bed or arm-chair and jot down a quick note about the worry. Then come back to it later – either during your worry time or in the morning. Again, the worry often seems less powerful
+'''
