@@ -116,7 +116,6 @@ It is important that you are happy, comfortable, and safe wherever you are livin
 - Staff can provide support with personal care and domestic tasks. 
 - On average, assisted living is more expensive than sheltered accommodation. 
 
-```markdown
 Residential care  
 • There are different types of residential care homes, some of which share similar aspects to assisted living.  
 • Residential care may be more appropriate than assisted living for people who require more support day-to-day.  
