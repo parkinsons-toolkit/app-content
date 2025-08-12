@@ -228,7 +228,6 @@ If you have Parkinson’s, you are protected under the **Equality Act 2010** fro
 Please look at the bottom of the table for further information about call charges.
 ```
 
-
 | **Organisation**            | **What They Help With**                                                  | **Phone Number**       | **Website**                                                                                      |
 |----------------------------|-------------------------------------------------------------------------|-----------------------|------------------------------------------------------------------------------------------------|
 | **Age UK**                 | Info and support for older people, including legal advice & power of attorney. | 0800 678 1602 (Free, 8am-7pm) | [ageuk.org.uk](https://www.ageuk.org.uk/northern-ireland/information-advice/money-matters/legal-issues/)  |
@@ -251,6 +250,9 @@ Please look at the bottom of the table for further information about call charge
 - ***Calls to Hourglass and Law Society: up to 13p/min from landlines, 3p–55p/min from mobiles; may be free depending on your provider.***
 
 ---
+
+If you want, I can help you decide which organisation to contact based on your situation!
+```
 
 
 
