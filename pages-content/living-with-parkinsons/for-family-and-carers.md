@@ -1,3 +1,5 @@
+## Guidance for Families and Carers
+
 If a loved one is told that they have Parkinson’s it is an adjustment for you both. Whether you are reading this following a recent diagnosis or after they have had Parkinson’s for a while, we hope this section will provide useful information on how to support the person with Parkinson’s by supporting yourself.
 
 We know Parkinson’s is progressive and a complex condition. This means that your role and involvement will change over time and there will be different challenges along the way. Everyone’s journey is unique and will depend on your personal situation. It will also depend on your relationship to that person (partner, sister, brother, child or friend). You are likely to experience a range of emotions, which is normal and expected. Supporting a loved one with Parkinson’s can be a rewarding experience. There will also be more difficult experiences. These may cause you to have challenging feelings to cope with, such as:
