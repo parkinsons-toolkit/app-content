@@ -555,7 +555,6 @@ Your healthcare professional may be able to give you more specific advice about 
 - There are many things you can do to help improve your mood, even if you don’t have anxiety. These include exercise, maintaining a healthy diet, improving sleep, and making time to relax. You can also tackle worry and avoidance. 
 - Treatments for anxiety offered by healthcare professionals include talking therapies and medication.
 
-```markdown
 ## More Information
 
 Please look at the bottom of the table for further information about call charges.
