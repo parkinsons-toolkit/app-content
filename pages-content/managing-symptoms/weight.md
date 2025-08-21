@@ -112,6 +112,5 @@ Please look at the bottom of the table for further information about call charge
 | Organisation  | Information about | Phone Number | Website |
 |---------------|------------------|--------------|---------|
 | Parkinson’s UK | Provides information about weight management with Parkinson’s. There is also information about maintaining a healthy, balanced diet. You can view this information online, print it or have it mailed to you. In their magazine there is an article about overcoming weight loss. | 0808 800 0303  <br> Free helpline: open 9am–7pm (Mon–Fri), 10am–2pm (Sat) | Diet and Parkinson’s: [www.parkinsons.org.uk/information-and-support/diet](www.parkinsons.org.uk/information-and-support/diet) <br> Overcoming Weight Loss: [www.parkinsons.org.uk/information-and-support/your-magazine/overcoming-weight-loss-parkinsons](www.parkinsons.org.uk/information-and-support/your-magazine/overcoming-weight-loss-parkinsons) |
-
-\* Calls cost up to 13p/minute from landlines, between 3p–55p/minute from mobile phones. You may get this call for free dependent on your phone provider.
+* Calls cost up to 13p/minute from landlines, between 3p–55p/minute from mobile phones. You may get this call for free dependent on your phone provider.
 ```
