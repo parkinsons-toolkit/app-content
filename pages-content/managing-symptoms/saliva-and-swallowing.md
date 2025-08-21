@@ -205,3 +205,53 @@ Healthcare professionals are likely to ask more questions. Consider recording yo
 ### Track your symptoms
 Tracking your symptoms can help identify patterns and support discussions with healthcare professionals.  
 
+# Activity Tracker and Further Management of Swallowing Difficulties
+
+## Activity Tracker
+- It can be helpful to track your swallowing problems for 3 days to show healthcare professionals. This helps them identify patterns.  
+- Record the following:  
+  - When swallowing difficulties occur  
+  - Types of foods or drinks that are difficult to swallow  
+  - Any other issues related to swallowing  
+  - Timing of your medications  
+
+## Tests
+- Most cases do not require further tests.  
+- If needed, your healthcare professional may recommend:  
+  - Blood tests  
+  - Camera tests to examine your food pipe (endoscopy)  
+
+## Further Treatments
+
+### Medication
+- Swallowing difficulties may worsen when Parkinson's medication has worn off. Adjustments to your medication regimen may help—discuss this with your Parkinson’s specialist team.  
+- Sedating medications can make swallowing problems worse.  
+- **Do not change your medication regime without consulting a healthcare professional.**  
+
+### Referral to Other Services
+You may be referred to specialist services depending on your assessment:  
+- **Speech and Language Therapists** – Assess swallowing, teach techniques and exercises, advise on food consistency, and recommend suitable straws.  
+- **Occupational Therapists** – Provide equipment to assist with eating and drinking.  
+- **Dieticians** – Support people who are underweight and advise on diet adjustments.  
+- **Physiotherapists** – Help with posture while eating.  
+- **Hospital Specialties** – Ear, Nose, and Throat specialists or Gastroenterologists if a non-Parkinson’s cause is suspected.  
+
+If you are experiencing significant and progressive difficulties swallowing, see the *Progression of Symptoms* page for further information.  
+
+## Key Messages
+- Problems with swallowing tablets, liquids, or food can occur at any stage of Parkinson’s.  
+- Speak with your GP or healthcare professional as soon as you notice swallowing difficulties or if they worsen significantly. Early assessment may prevent more serious complications.  
+
+## More Information
+
+| Organisation | Information | Phone Number | Website |
+|--------------|------------|--------------|---------|
+| European Parkinson’s Disease Association | Explains swallowing problems in Parkinson’s, including treatments, advice, and alternative feeding methods | – | [epda.eu.com](https://www.epda.eu.com/about-parkinsons/symptoms/motor-symptoms/eating-swallowing-and-saliva-control/) |
+| NHS | Provides concise advice on swallowing problems and when to see a GP | – | [nhs.uk](https://www.nhs.uk/conditions/swallowing-problems-dysphagia/) |
+| Parkinson’s Foundation | Offers in-depth information on swallowing and Parkinson’s, discussing symptoms and treatments | – | [parkinson.org](https://www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Speech-and-Swallowing-Problems) |
+| Parkinson’s UK | Provides information on eating, swallowing, and saliva control. Offers tips, printed resources, and helpline support | 0808 800 0303 (Mon-Fri 9am-7pm, Sat 10am-2pm) | [parkinsons.org.uk/eating-swallowing-and-saliva-control](https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-saliva-control) |
+
+### Tips to Manage Swallowing Problems
+- Parkinson’s UK magazine has a dedicated guide: [8 Ways to Manage Swallowing Problems](https://www.parkinsons.org.uk/information-and-support/your-magazine/8-ways-manage-swallowing-problems)  
+
+
