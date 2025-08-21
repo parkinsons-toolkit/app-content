@@ -168,7 +168,6 @@ This is using a ‘cue’ to keep movement flowing. Different cues can be tried:
 - Sounds  
 - Imagined cues  
 
-```markdown
 Thinking & attention 
 •	Focus in on what you are trying to do. 
 •	Think about putting your heel down first when taking each step. 
