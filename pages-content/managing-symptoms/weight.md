@@ -99,8 +99,7 @@ If the cause for weight loss is not clear, they may run further tests such as bl
 - Persistent unintentional weight loss needs investigation by your GP.  
 
 ---
-```markdown
-## More Information  
+  
 Please look at the bottom of the table for further information about call charges.  
 
 | Organisation | Information about | Phone Number | Website |
