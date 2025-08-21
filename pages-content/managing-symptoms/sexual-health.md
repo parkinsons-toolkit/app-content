@@ -1,8 +1,4 @@
-Here’s a clear summary and practical guide based on the information you shared about **sexual function and Parkinson’s**:
-
----
-
-### **Sexual Problems in Parkinson’s**
+# **Sexual Problems in Parkinson’s**
 
 Sexual difficulties are common but not universal. They can be **physical, emotional, or psychological**, and can include:
 
