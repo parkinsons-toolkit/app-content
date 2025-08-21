@@ -10,7 +10,7 @@ Sexual difficulties are common but not universal. They can be **physical, emotio
 
 ---
 
-### **Causes**
+## **Causes**
 
 Sexual difficulties may arise from:
 
@@ -33,7 +33,7 @@ Sexual difficulties may arise from:
 
 ---
 
-### **When to Seek Help**
+## **When to Seek Help**
 
 * Persistent or worsening sexual problems
 * Out-of-character hypersexuality (urgent consultation with your Parkinson’s specialist)
@@ -41,7 +41,7 @@ Sexual difficulties may arise from:
 
 ---
 
-### **Self-Help Strategies**
+## **Self-Help Strategies**
 
 **Movement-related issues:**
 
@@ -77,7 +77,7 @@ Sexual difficulties may arise from:
 
 ---
 
-### **Professional Support**
+## **Professional Support**
 
 * **GP or Parkinson’s specialist team:** review symptoms, medications, and underlying causes
 * **Pelvic floor physiotherapists:** guidance on exercises
@@ -85,7 +85,7 @@ Sexual difficulties may arise from:
 
 ---
 
-### **Key Takeaways**
+## **Key Takeaways**
 
 * Sexual problems are common in Parkinson’s but not inevitable.
 * Causes are often multifactorial: physical, psychological, and medication-related.
