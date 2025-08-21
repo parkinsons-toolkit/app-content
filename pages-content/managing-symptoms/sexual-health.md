@@ -94,4 +94,3 @@ Sexual difficulties may arise from:
 
 ---
 
-If you want, I can also make a **simple table of “problem → potential cause → practical solution”** specifically for Parkinson’s-related sexual issues. It’s very handy for reference. Do you want me to do that?
