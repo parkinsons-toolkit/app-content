@@ -99,18 +99,17 @@ If the cause for weight loss is not clear, they may run further tests such as bl
 - Persistent unintentional weight loss needs investigation by your GP.  
 
 ---
-
-### More Information
-
+```markdown
+## More Information  
 Please look at the bottom of the table for further information about call charges.  
 
 | Organisation | Information about | Phone Number | Website |
 |--------------|------------------|--------------|---------|
 | British Dietetic Association | The BDA has a long list of food facts which you can filter by age, nutrition and more. | 0121 200 8080 * | [www.bda.uk.com/food-health/food-facts/all-food-fact-sheets.html](www.bda.uk.com/food-health/food-facts/all-food-fact-sheets.html) |
-| NHS | The NHS has compact advice about keeping weight up in later life; including how to eat with appetite loss and boosting calorie intake. | | [www.nhs.uk/live-well/healthy-weight/keeping-your-weight-up-in-later-life/](www.nhs.uk/live-well/healthy-weight/keeping-your-weight-up-in-later-life/) |
-```markdown
-| Organisation  | Information about | Phone Number | Website |
-|---------------|------------------|--------------|---------|
-| Parkinson’s UK | Provides information about weight management with Parkinson’s. There is also information about maintaining a healthy, balanced diet. You can view this information online, print it or have it mailed to you. In their magazine there is an article about overcoming weight loss. | 0808 800 0303  <br> Free helpline: open 9am–7pm (Mon–Fri), 10am–2pm (Sat) | Diet and Parkinson’s: [www.parkinsons.org.uk/information-and-support/diet](www.parkinsons.org.uk/information-and-support/diet) <br> Overcoming Weight Loss: [www.parkinsons.org.uk/information-and-support/your-magazine/overcoming-weight-loss-parkinsons](www.parkinsons.org.uk/information-and-support/your-magazine/overcoming-weight-loss-parkinsons) |
-* Calls cost up to 13p/minute from landlines, between 3p–55p/minute from mobile phones. You may get this call for free dependent on your phone provider.
-```
+| NHS | The NHS has compact advice about keeping weight up in later life; including how to eat with appetite loss and boosting calorie intake. |  | [www.nhs.uk/live-well/healthy-weight/keeping-your-weight-up-in-later-life/](www.nhs.uk/live-well/healthy-weight/keeping-your-weight-up-in-later-life/) |
+| Parkinson’s UK | Provides information about weight management with Parkinson’s. There is also information about maintaining a healthy, balanced diet. You can view this information online, print it or have it mailed to you. In their magazine there is an article about overcoming weight loss. | 0808 800 0303 <br> Free helpline: open 9am–7pm (Mon–Fri), 10am–2pm (Sat) | Diet and Parkinson’s: [www.parkinsons.org.uk/information-and-support/diet](www.parkinsons.org.uk/information-and-support/diet) <br><br> Overcoming Weight Loss: [www.parkinsons.org.uk/information-and-support/your-magazine/overcoming-weight-loss-parkinsons](www.parkinsons.org.uk/information-and-support/your-magazine/overcoming-weight-loss-parkinsons) |
+
+\* Calls cost up to 13p/minute from landlines, between 3p–55p/minute from mobile phones. You may get this call for free dependent on your phone provider.  
+
+---
+
