@@ -249,9 +249,7 @@ If you are experiencing significant and progressive difficulties swallowing, see
 | European Parkinson’s Disease Association | Explains swallowing problems in Parkinson’s, including treatments, advice, and alternative feeding methods | – | [epda.eu.com](https://www.epda.eu.com/about-parkinsons/symptoms/motor-symptoms/eating-swallowing-and-saliva-control/) |
 | NHS | Provides concise advice on swallowing problems and when to see a GP | – | [nhs.uk](https://www.nhs.uk/conditions/swallowing-problems-dysphagia/) |
 | Parkinson’s Foundation | Offers in-depth information on swallowing and Parkinson’s, discussing symptoms and treatments | – | [parkinson.org](https://www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Speech-and-Swallowing-Problems) |
-| Parkinson’s UK | Provides information on eating, swallowing, and saliva control. Offers tips, printed resources, and helpline support | 0808 800 0303 (Mon-Fri 9am-7pm, Sat 10am-2pm) | [parkinsons.org.uk/eating-swallowing-and-saliva-control](https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-saliva-control) |
+| Parkinson’s UK | Provides information on eating, swallowing, and saliva control. Offers tips, printed resources, and helpline support | 0808 800 0303 (Mon-Fri 9am-7pm, Sat 10am-2pm) | [parkinsons.org.uk/eating-swallowing-and-saliva-control](https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-saliva-control) | Parkinson’s UK magazine has a dedicated guide: [8 Ways to Manage Swallowing Problems](https://www.parkinsons.org.uk/information-and-support/your-magazine/8-ways-manage-swallowing-problems) 
 
-### Tips to Manage Swallowing Problems
-- Parkinson’s UK magazine has a dedicated guide: [8 Ways to Manage Swallowing Problems](https://www.parkinsons.org.uk/information-and-support/your-magazine/8-ways-manage-swallowing-problems)  
 
 
