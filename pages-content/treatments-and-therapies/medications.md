@@ -369,4 +369,3 @@ There are other possible side effects that can occur, and some medications canno
 | **The Disability Resource Centre** | Links to a range of disability and medical equipment.                       | **01582 470 900** (*call costs vary, may be free depending on provider*)                  | [drcbeds.org.uk/pill-organiser](https://drcbeds.org.uk/pill-organiser)                        |
 ```
 
-Would you like me to also **convert the earlier medication tables (e.g. COMT inhibitors, Amantadine, Anticholinergics)** into the same markdown style with clean tables and headings so it’s consistent?
