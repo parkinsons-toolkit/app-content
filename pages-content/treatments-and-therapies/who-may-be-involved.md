@@ -186,5 +186,4 @@ In the UK, healthcare and social care are **separate systems**. Costs, access, a
 
 ---
 
-This structure ensures that **healthcare and social care needs** are addressed through the appropriate system, while **private options** can complement NHS and council-provided care.
 ```
