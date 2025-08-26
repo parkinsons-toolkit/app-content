@@ -1,4 +1,4 @@
-# What is Parkinson's6?
+# What is Parkinson's7?
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/main/images/brain-dopamine.png" alt="Brain diagram showing dopamine pathways in Parkinson's disease" class="hero-image">
 
