@@ -30,6 +30,8 @@ Videos can be pulled in from external sources such as embedded YouTube videos. T
 
 To get the above embed link in YouTube, go to the YouTube video and click 'Share' - then select the 'embed' button to copy the embed link.
 
+_Note_: If there is a query string (denoted with a ?) in the embed URL like this: `exampleurl?si=abc123` then make sure to remove everything from the ? onwards, otherwise the link won't work. See this relevant [issue ticket](https://github.com/parkinsons-toolkit/parkinsons-toolkit-app/issues/50#issuecomment-3159753051) for more information.
+
 ## Security Guidelines for Content Contributors
 
 ⚠️ **IMPORTANT**: This repository supports HTML within markdown to enable rich content (videos, styled elements). Please follow these security guidelines:
