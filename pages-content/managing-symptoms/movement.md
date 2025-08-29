@@ -4,6 +4,11 @@
 
 Tremor is an uncontrollable, involuntary movement of a part of the body. Around one in three people with Parkinson’s never experience tremor. For others, it may be the most noticeable symptom. It may start in one area, like the right hand, and then gradually spread to another area on the same side of the body, like the right leg; it can eventually move to the other side of the body.  
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pV2K0ToqJVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ---
 
 ###  What might be causing it?  
@@ -44,6 +49,13 @@ Sometimes tremors can make specific tasks more difficult. Extra adaptations, sup
 - **Taking medication** – pill organisers may be easier to handle than the original packets – see Medication page for more ideas.  
 - **Technology** – some people find touch screen difficult to control with a tremor and find using a mouse easier; others use voice control. Most smartphones allow for voice dictation instead of typing. Similarly using a device such as an Alexa can be helpful. See our Reading, Writing & Technology page for more ideas.  
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2lS-tewM2i0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 ---
 
 ## My Experience  
@@ -54,6 +66,13 @@ People affected by Parkinson’s describe their experiences.
 
 > “A couple of things occur to me from my own experience of tremor; things I didn’t realise when I was first diagnosed. One is that some skills are so engrained in the motor memory that they seem to bypass tremor. So, for some people, their tremor disappears when they are driving, riding a bicycle, playing golf or playing an instrument. So keep practising those scales! It’s a ‘use it or lose it’ thing. Also, being diagnosed with a tremor doesn’t draw a line under acquiring new skills. I was inspired to start learning the piano by a woman I met on a Parkinson’s Patients Committee who had taken up the saxophone. I’m now working on my Grade Three pieces.”  
 > *(Person with Parkinson’s)*  
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JFPKlqQxNjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 
 ---
 
