@@ -133,6 +133,11 @@
 
 Many people with Parkinson’s experience vivid dreams. For some, this is harmless, but it can cause distress or disrupt sleep for others, impacting daytime functioning. Movement changes during dreams are also common in Parkinson’s.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Z-aPVkwa74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ### REM Sleep and Dream Acting
 
 - Dreams occur during **Rapid Eye Movement (REM) sleep**. During this phase, the body normally does not move.  
@@ -167,6 +172,13 @@ Many people with Parkinson’s experience vivid dreams. For some, this is harmle
 ---
 
 ## Self-Management Strategies
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G_h8H3EVEH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 
 ### Lifestyle Changes
 
