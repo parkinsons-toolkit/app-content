@@ -14,6 +14,12 @@
    - Medications that affect sleep.  
    - Obstructive Sleep Apnea (pauses or loud snoring during sleep).  
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GSF6CmOtgEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ---
 
 ## Practical Strategies to Improve Sleep
@@ -45,11 +51,23 @@
 
 ---
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QuqaliQLmIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
+
 ## When to Seek Professional Help
 
 - **Severe sleep disruption**: If violent movements, frequent waking, or distressing dreams occur.
 - **Signs of sleep apnea**: Pauses in breathing, choking, gasping, loud snoring.
 - **Persistent poor sleep**: After 1 month of self-management strategies.
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w1ZCTNLHSOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
