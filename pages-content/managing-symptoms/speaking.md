@@ -2,6 +2,12 @@
 
 Speech difficulties are common in Parkinson’s, though not everyone will experience all the issues discussed here. Common problems include a quiet, slurred, or hoarse voice, monotone speech, and difficulty with tongue and lip movements. Some people feel as though they are speaking through a “mask.”
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6f3neeY4zHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ## Causes of Speech Problems
 - Parkinson’s causes changes in the brain, leading to smaller, less forceful movements which can affect the voice.  
 - Cognitive changes may slow thought processes or make it difficult to find the right words.  
@@ -18,7 +24,20 @@ Speech difficulties are common in Parkinson’s, though not everyone will experi
   - A new hoarse voice lasts more than three weeks → see your GP  
   - Sudden changes in speech with weakness on one side of the face → call 999 (possible stroke)
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MnOKtw0ycj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ## Self-Help Strategies
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w75uikSVXvge \2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 
 ### Speech Techniques
 - Relax and ensure good posture before speaking.  
