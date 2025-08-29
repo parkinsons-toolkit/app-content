@@ -24,6 +24,14 @@ Eye movements involved in reading are highly complex and must be coordinated to 
 - If problems persist despite normal eye exams or new glasses, ask your GP, optometrist, or ophthalmologist for a referral to a neuro-ophthalmologist who may prescribe ‘prisms’ (special glasses).  
 - See the 5 Senses page for more on visual changes in Parkinson’s.
 
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Jdc3peNfto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 ---
 
 ### Writing
@@ -65,6 +73,12 @@ Eye movements involved in reading are highly complex and must be coordinated to 
 - Consider a facsimile signature stamp for legal documents if signing is difficult.  
 - Explore alternative communication methods like computers.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SPCSNzJn5dE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 ---
 
 ### Using Technology
@@ -91,6 +105,12 @@ Eye movements involved in reading are highly complex and must be coordinated to 
 
 **Additional Advice:**  
 - ‘Which?’ is an independent, not-for-profit service offering advice on technology and assistive devices, including easy-to-use phones. See More Information section for contact details.
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qihdTF6UUXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ---
 
