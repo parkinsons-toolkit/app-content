@@ -1,5 +1,12 @@
 # Mood
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VThagdjYOig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 ## Low Mood: What’s the difference between low mood and depression?
 
 Everyone experiences low mood sometimes, often after a difficult event or even for no clear reason. For many, these feelings are manageable and pass gradually. For others, low mood may persist and impact daily life, making it harder to “shake off.” This may indicate depression. Depression affects physical health, appetite, and sleep, and being physically unwell can also lower mood.
@@ -26,6 +33,13 @@ Depression is more intense and lasts longer than usual low mood. Symptoms of dep
 - Sleeping too much or difficulty sleeping  
 
 Some people may feel “tired of life” without wanting to die, but severe depression can include thoughts of self-harm or suicide.
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/24m6L9Rpj8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 
 ---
 
@@ -65,6 +79,12 @@ If you need urgent help but cannot go to A&E:
 - Contact your local crisis team if under their care  
 
 For more info, see the charity Mind’s guidance on urgent mental health support.
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1j2cv2BFgMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ---
 
@@ -388,6 +408,12 @@ If you need immediate help but don’t want to see your GP or go to A&E, you cou
 • If you are under the care of a local crisis team, contact them  
 
 For more details, the charity Mind has information about how to seek urgent mental health support.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K46rVNlXyqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 
 ## What can I try for myself?
 
