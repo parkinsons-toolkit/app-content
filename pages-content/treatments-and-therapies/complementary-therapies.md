@@ -4,9 +4,20 @@ Complementary therapies are treatments used alongside conventional Western medic
 
 For example, a therapist may suggest lifestyle or dietary changes along with a physical therapy. These therapies aim to boost overall wellbeing, and some people with Parkinson’s report positive experiences.  
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/cX1B1sew7sE?si=tfy0mFGDrIABmkHu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ---
 
 ## Examples of Complementary Therapies
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pTA_LAzG7PA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 Some commonly used therapies include:  
 - **Physical therapies:** Acupuncture, Acupressure, Alexander Technique, Massage, Osteopathy, Pilates, Qigong, Tai Chi, Yoga, Reflexology  
@@ -20,6 +31,12 @@ Some commonly used therapies include:
 ### Therapies for Thoughts and Feelings
 - **Mindfulness, Meditation, Visualisation:** Focus the mind, reduce stress, and promote relaxation.  
 - **Music and Art Therapy:** Improve movement, speech, and emotional wellbeing; provide social interaction and a way to express emotions.  
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Q3mM8LKMv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 
 ---
 
@@ -38,6 +55,12 @@ Research is limited, but smaller studies and patient reports suggest:
 - Pilates: Improves posture, core stability, muscle tone, and joint mobility  
 - Massage & Reflexology: Promote relaxation, reduce stress and pain  
 - Acupuncture: Appears safe and may be a useful additional treatment  
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ahjlQkxgY3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ---
 
@@ -70,6 +93,12 @@ Research is limited, but smaller studies and patient reports suggest:
 - [British Acupuncture Council (BAcC)](https://www.acupuncture.org.uk/) – registered acupuncturists  
 - [British Association of Art Therapists (BAAT)](https://www.baat.org/) – registered art therapists  
 - Other associations: Acupuncture Association of Chartered Physiotherapists (AACP), General Council for Massage Therapies (GCMT)  
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dLw4v7FlxBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ---
 
