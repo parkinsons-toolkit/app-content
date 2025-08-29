@@ -19,6 +19,12 @@ Symptoms that don’t get better with other Parkinson’s medications don’t te
 - People (or their carers) are able to give themselves injections (after being trained). If people with Parkinson’s or carers are not able to give injections, an apomorphine pump may be considered.  
 - A pump may be able to be supported by a district nurse or another nurse.  
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dlap3NhcAkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ### What should I expect from the assessment process?  
 Apomorphine injections are a specialised treatment that is only managed by specialist centres, which may not be your local hospital.  
 
@@ -84,6 +90,11 @@ Many side effects of apomorphine are typical for dopamine agonists, and should b
 ### What do I do if I have a problem afterwards?  
 When you start apomorphine pump treatment you will be given details for who to contact if there is a problem. This may be a trained community nurse or the team at the specialist centre. You should carry the details of your treatment and your specialist team on you to contact if necessary. If you experience side effects, discuss them with your specialist team as soon as they occur.  
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LPaiEW4FzmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ---
 
 ## Deep Brain Stimulation
@@ -112,6 +123,12 @@ Symptoms that don’t tend to get better with DBS (if they don’t improve with 
 - Sleep disturbances  
 - Low mood  
 - Memory or thinking problems  
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pFqoj-g-v_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ### What should I expect from the assessment process?  
 Deep Brain Stimulation is a highly specialised treatment that is only done at specialist centres, which may not be your local hospital. If your Parkinson’s specialist team think it might be a good treatment for you, they can refer you to a specialist centre. Please be aware there are often long waiting times before you get an appointment.  
@@ -227,6 +244,12 @@ Duodopa is a highly specialised treatment only managed at specialist centres. As
 
 ### Follow-up  
 Long-term follow-up at the specialist centre is required. You will be given contact details for any problems and should carry them for emergencies.  
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BNtQCc1nKyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ---
 
