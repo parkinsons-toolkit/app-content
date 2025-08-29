@@ -1,5 +1,12 @@
 Some people can have difficulties with living well within their home. For example difficulties with climbing stairs, or their bathroom. This section covers home adaptations that can help support you to live independently within your own home. It also covers your options if your home is no longer suitable for you. 
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nXh2Rnlz7PU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 # Staying in your Own Home
 
 For many people, the preference is to stay at home which can be helped by making small changes. Equipment and adaptations to your home, can help you stay independent at home for longer. 
@@ -11,6 +18,12 @@ In some cases Home Support or Home Care Workers may also help. ‘Home Help’ r
 Before making major changes or buying equipment, seek advice from a physiotherapist or occupational therapist. Occupational therapists work with you to help maintain your health and independence. They may show you different ways to make certain tasks easier or suggest other practical changes. If appropriate, they can carry out an assessment and recommend what options are most suitable for you. Contact your GP, Parkinson’s nurse, Parkinson’s specialist, local social services, or social work department to arrange a home visit from an occupational therapist. 
 
 Your GP may also be able to refer you to rehabilitation and reablement services in the community, if available. 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ykft1PX5TEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 
 There are many options for equipment and aids to support you in tasks for day-to-day living. These are covered on the Daily Living page. Options for more significant changes to your home are discussed here: 
 
@@ -67,6 +80,13 @@ As well as the equipment and aid options, some people find these changes helpful
 
 ## Making Adaptations
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FEBs2btz3Pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 As discussed, it is advised you seek professional advice before undertaking home adaptations. If however you do plan to go ahead yourself, a few tips: 
 
 1. Be informed: The Disabled Living Foundation has more information.  
@@ -92,6 +112,12 @@ If you have a disability or long-term health condition, you should not be charge
 Contact your local fire service who will provide a ‘safe and well check.’ They are completely free and you may be entitled to free smoke alarms. The purpose of these checks is to identify any fire risks and help reduce those risks. 
 
 ## Finding a new home
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g7WTABrv-oA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 It is important that you are happy, comfortable, and safe wherever you are living. Some people may want to move where they can receive support as it may be getting more challenging to manage at home. There are several options you can consider in terms of types of accommodation: 
 
