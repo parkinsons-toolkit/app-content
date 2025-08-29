@@ -2,6 +2,11 @@
 
 People with Parkinson’s can experience weight loss. Though some people may initially welcome this, excessive weight loss can be bad for both health and wellbeing. Weight loss can be linked to conditions that are not Parkinson’s, and some can be serious. So it is important that you see your GP if you continue to lose weight.  
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DVwaCj0cosU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ---
 
 ### What might be causing it?
@@ -29,6 +34,10 @@ If the above do not apply to you, or whilst waiting for your appointment, there 
 ---
 
 ### What can I try for myself?
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XT1QXtGkqos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 - Try to eat 3 meals a day with 2 or 3 high energy snacks throughout the day.  
 - Aim to eat every 3 hours during the day.  
