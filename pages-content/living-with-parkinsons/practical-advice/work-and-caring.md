@@ -23,6 +23,13 @@ Speak with your GP or specialist about managing your symptoms for your type of w
 
 ### Talking to Colleagues
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7a7ps7WoGkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 #### Do I need to tell my employer?
 
 Deciding whether to inform your employer is your choice. However, you should tell them if:
@@ -82,6 +89,12 @@ Get agreed adjustments in writing, known as a workplace adjustment agreement.
 
 If you belong to a trade union, they can support you during discussions and help with your legal rights.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7eV7-zOhpYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 ---
 
 ### Time Off Work
@@ -103,6 +116,13 @@ GPs or hospital doctors provide fit notes free after 7 days of sickness. With em
 
 Fit notes indicate if you are ‘not fit for work’ or ‘may be fit for work’. If ‘may be fit,’ discuss workplace adjustments with your employer. Keep the original note and provide a copy to your employer if requested.
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EY0OCXMy2fM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 ---
 
 ### Annual Leave
@@ -114,6 +134,12 @@ If you do not qualify for statutory sick pay but need paid time off, you might u
 For many, voluntary work offers a good balance between working and retirement. It provides a sense of responsibility and purpose without the stress of full-time paid employment. Volunteering can also be flexible — on good days or weeks, you can do more hours; on tougher days, fewer hours. You can arrange this with the scheme or activity coordinator.
 
 Volunteering can boost confidence and improve day-to-day wellbeing.
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rrwx0ikrYrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ---
 
@@ -152,6 +178,13 @@ Volunteers do not have a contract of employment, so do not have the same rights 
 ---
 
 ### Caring for Others and Being Cared For
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WV5LCR5iNTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 
 #### Talking to Children
 
