@@ -63,6 +63,10 @@ If you provide financial or caregiving support to others, plan for their future.
 - Carer or care agency details
 - Employer details
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xBkhJC4Zlto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Place of Care
@@ -113,6 +117,9 @@ Consider available **Palliative Care** services.
   - Can be noisy
   - Less peaceful environment
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c6kwJmXOfM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 ---
 
 ## Medicines Towards End of Life
@@ -143,6 +150,9 @@ When a person is dying, they may not be able to take pills.
 - Small injections may be used under the skin (subcutaneous) rather than into a vein.  
 - If injections are needed very regularly, a pump can provide continuous medication under the skin.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FQc7wCXcq4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 ---
 
 ## After Death
@@ -155,6 +165,10 @@ This is understandably a distressing time. It helps to know in advance who to co
 - Palliative care nurse or Parkinson’s nurse
 - Faith leader (priest, rabbi, minister, etc.)  
 They can also help you contact a funeral director for further arrangements.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Pzaw2hsnc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
