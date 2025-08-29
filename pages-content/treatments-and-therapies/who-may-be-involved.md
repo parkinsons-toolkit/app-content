@@ -39,11 +39,21 @@ You may meet professionals in **GP surgeries, community services, or hospitals**
 - Some nurses can **prescribe medications**.  
 - **Parkinson’s Disease Nurse Specialist (PDNS):** Focused on Parkinson’s care, symptom management, advice, and support.  
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ks0IEjicOD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 **Occupational Therapists (OTs)**  
 - Registered with **HCPC**.  
 - Help improve daily living abilities.  
 - Can diagnose, teach problem-solving strategies, and advise on equipment.  
 - May advance to **Advanced Clinical Practitioner**.  
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M4A4Krb5dc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 **Parkinson’s Practitioner**  
 - Advanced Clinical Practitioner specializing in Parkinson’s.  
@@ -58,14 +68,19 @@ You may meet professionals in **GP surgeries, community services, or hospitals**
 - Registered with **HCPC**.  
 - Improve movement, function, and reduce injury risk.  
 - Roles: assessment, treatment, education, exercises, movement strategies, manual therapy, equipment advice.  
-- May advance to **Advanced Clinical Practitioner**.  
+- May advance to **Advanced Clinical Practitioner**.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p2_D_V4G6yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 **Psychologists**  
 - **Clinical Psychologists:** Mental health and wellbeing.  
 - **Clinical Neuropsychologists:** Specialize in brain-behavior relationships.  
 - Registered with **HCPC**.  
 - Provide assessment, therapy, and rehabilitation plans.  
-- Different from **psychotherapists or counsellors**, who are not required to be registered.  
+- Different from **psychotherapists or counsellors**, who are not required to be registered.
 
 **Social Workers**  
 - Help with social and interpersonal issues, promoting rights and wellbeing.  
@@ -77,10 +92,20 @@ You may meet professionals in **GP surgeries, community services, or hospitals**
 - Can advise on strategies and equipment.  
 - May advance to **Advanced Clinical Practitioner**.  
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BE5Jb2_Ay_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 **Therapy Assistants**  
 - Also called Therapy Support Workers or Rehabilitation Assistants.  
 - Support therapists or dietitians under supervision.  
 - Roles: assist with exercises, equipment use, weighing, and monitoring food intake.  
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxTt09_Vn68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ---
 
