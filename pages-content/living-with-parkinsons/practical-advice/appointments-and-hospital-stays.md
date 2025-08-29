@@ -5,6 +5,10 @@
 
 Most people with Parkinson’s remain under the care of a specialist (usually a Neurologist or Geriatrician) for life. They usually see them every 6–12 months. In addition, in many areas there are also Parkinson’s Nurse Specialists, working either in the community or in the hospital. Some of these specialist nurses hold outpatient appointments, and most do telephone calls. A few will see people in their own homes. You may also have appointments with other teams, either in relation to your Parkinson’s or for other health reasons.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qf1nrm4BnIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 Appointments can be stressful, and stress tends to make Parkinson’s symptoms worse. The best way to reduce the stress and make the most out of your appointment is to plan ahead. Here are some things you may wish to consider beforehand:
 
 ### Do you want someone to come with you?
@@ -47,6 +51,10 @@ A planned stay is called an **Elective Admission**. This would be for a planned 
 An unplanned stay is due to an **Emergency Admission**. An example of this would be following a fall.
 
 Whichever way you go into hospital it is important for staff to know you have Parkinson’s. This is to make sure you have appropriate care throughout your hospital stay. Remember, the hospital has to follow your timetable for your medication, so you must let them know what times you take your medication.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KCXiHV41iIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ### Preparation
 
@@ -112,9 +120,19 @@ Many people worry about things that they have left at home if they are admitted 
 
 See *Work & Caring*, and *Hobbies & Pets* for more guidance.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ARxkOE3SYx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 # Minimising Hospital Risks
 
 Unfortunately complications do happen. The hospital is different to the place where you usually live and has different risks. Here are some suggestions to help reduce these risks.
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2zpjw67BciQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Medication
 
@@ -252,6 +270,11 @@ You may need further medical input to follow-up after your admission. This may b
 
 Note it is important to communicate any changes in your living arrangements. This is to make sure that information is sent to the correct place for you to receive it. You may have changed your address or plan to be staying with someone else for a time after discharge, for example.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O9en95pZTnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ## Decision making
 
 Decisions about health and care should be taken together with your healthcare professional. This is shared decision making. The healthcare professional gives you advice, and you have the final decision. This does not mean you can demand a treatment that is not thought to be right for you by professionals, but that you are in control of your care.
@@ -263,6 +286,10 @@ This is if being treated in hospital is in their best interests.
 Some people will have a Power of attorney in place, in which case the healthcare professionals will include them in decision making. Please see Legal Matters for further details about this.
 
 If someone has a mental health problem that causes them to be at serious risk to themselves or others, then a legal framework may be used to make some health decisions for them. This could be to stay in hospital, or for treatment for the mental health problem. The law that is followed is the Mental Health Act.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KHJKq0lIHfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## More Information
 
