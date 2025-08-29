@@ -12,7 +12,13 @@ Other conditions can cause problems with saliva. Either due to excess fluid in t
 to be mild and short term. Also, drooling tends to happen when asleep. They tend to cause other symptoms too, like sneezing and a runny nose. Weakness of the face can occur for many reasons. 
 This includes after a stroke or injury. 
 Parkinson's drugs and other drugs can cause a dry mouth. Breathing through the mouth can cause a dry mouth. It can happen when dehydrated from smoking, or after surgery, or injury to the face or neck. 
-   
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/llk-483q0wA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ## What should I do about it? 
 There are many things you can try for yourself. But if your saliva problems don’t improve within one month and are troublesome, seek help from your GP or talk to your Parkinson’s specialist team. 
 If you have white patches in the mouth, or it is painful and red or swollen, see your GP. If you have concerns about tooth decay, gum disease, or infections in the mouth then you should consult a dentist. Make sure to tell them you have Parkinson’s. 
@@ -23,6 +29,12 @@ For too much saliva
 Adjustments 
 • Changing posture to be more upright 
 • Humming while bent over - keeps lips closed and prevents drooling 
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gWtEblF4Gi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
  
 ## Reminders to Swallow 
 • Sipping water can help remind you to swallow, and clears your mouth of excess saliva 
