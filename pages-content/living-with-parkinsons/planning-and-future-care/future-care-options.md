@@ -35,6 +35,9 @@ A more positive approach involves:
 - Citizens Advice Bureau
 - Charities (e.g., Parkinson’s UK helpline, Age UK)
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/olv0s5Hs8Ak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 ---
 
 ## Decisions About Your Care
@@ -52,6 +55,9 @@ Some people may be unable to make decisions due to Parkinson’s or other circum
 
 If no LPA is in place, professionals make decisions in your best interests, seeking to understand your wishes through recorded statements and speaking with those close to you.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pq6xG470urI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 ---
 
 ## Advance Care Planning
@@ -92,6 +98,10 @@ Support can be:
 - Assisted living / extra-care sheltered housing
 - Residential care homes
 - Nursing care homes
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YxfrqUTOeR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
@@ -143,6 +153,9 @@ Small drips and NG/NJ tubes are short-term options. The insertion can be uncomfo
 
 Gastrostomy tubes are longer term, but involve a more invasive procedure and higher risk of complication. This can include infection. They too can sometimes become dislodged and need to be re-inserted. They can also be distressing if someone becomes confused or has a cognitive impairment.  
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XbyrZA0OqEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 ---
 
 ## Medical decisions about medication
@@ -199,7 +212,11 @@ People can choose to have a **do-not-resuscitate (DNR)** order, which is a medic
 - If you lack capacity, principles in “Decisions about your Care” apply.  
 - UK law does not give the right to demand unsuitable treatment.  
 - “Advanced Decision to refuse life sustaining treatment” is a legal record with specific rules.  
-- Good communication with healthcare professionals is essential.  
+- Good communication with healthcare professionals is essential.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YxfrqUTOeR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
@@ -218,6 +235,10 @@ Decisions are based on weighing pros and cons:
   - Near end of life: comfort and environment prioritised.  
 
 Keep loved ones and professionals updated as your views change.  
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ijlAeT1ctU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
