@@ -4,6 +4,12 @@ Sexual problems can happen with Parkinson’s, but not everyone will experience 
 
 Many people do not feel comfortable talking about sex, meaning sexual problems may be missed and not addressed.
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uiZ91agHGLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ---
 
 ## What Might Be Causing It?
@@ -32,6 +38,14 @@ At times, it is completely normal to have issues with sex. Different factors can
 Sexual function issues are sometimes normal and may improve on their own. If they don’t, you can try self-help strategies or speak to your GP or Parkinson’s specialist team. These conversations are private and confidential, and medication changes may help.
 
 **Hypersexuality:** Mild increases may be manageable for some couples, but if sexual desires feel out of control or cause behavioural changes, speak to your Parkinson’s specialist urgently.
+
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66Q0yE8bU-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 
 ---
 
