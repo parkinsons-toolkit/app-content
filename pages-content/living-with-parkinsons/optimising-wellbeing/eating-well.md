@@ -3,7 +3,7 @@
 There is no diet that is specifically recommended for Parkinson’s, but diet can make a difference for symptoms related to Parkinson’s, such as overall mood, constipation, and blood pressure. Diet can also affect some of the medications used for Parkinson’s.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=LQLDFFSRZXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LQLDFFSRZXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## What is a balanced diet in more detail?
@@ -24,7 +24,7 @@ There is no diet that is specifically recommended for Parkinson’s, but diet ca
 ## Diet and medication
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jkeVVFVu4Jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jkeVVFVu4Jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ### 1. Levodopa and protein
@@ -286,7 +286,7 @@ There has been a lot of interest in supplements as a way of slowing down Parkins
   * Looser fitting dentures
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EIHpRjU5SBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EIHpRjU5SBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 
