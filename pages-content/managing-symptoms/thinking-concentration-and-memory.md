@@ -4,6 +4,12 @@ Difficulties with thinking and memory are common in Parkinson’s and can be wor
 
 For more advanced symptoms, including dementia, see the **Progression of Symptoms** page.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JhyTS2pTwZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 ---
 
 ## What Might Be Causing It?
@@ -41,6 +47,10 @@ Memory and thinking problems in Parkinson’s usually develop **gradually**. Com
 - Possible triggers: infections, medications, or abnormal blood chemistry (e.g., high/low blood sugar).  
 - Delirium requires urgent assessment by a healthcare professional.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRXmfb5HZXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What Should I Do?
@@ -56,6 +66,11 @@ Memory and thinking problems in Parkinson’s usually develop **gradually**. Com
 ---
 
 ## Self-Management Strategies
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoHZocWnFdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ### Take Your Time
 - Stress worsens thinking.  
