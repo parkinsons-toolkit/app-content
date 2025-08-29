@@ -2,6 +2,12 @@
 
 Falls can be a significant source of concern and stress for some people with Parkinson’s. There are many things that can be done to help prevent them from happening. Falling over is more common in Parkinson’s for a number of reasons, but they can also be reasons not related to Parkinson’s.  
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oYb6UlC-Xk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ---
 
 ## What might be causing it?  
@@ -52,6 +58,12 @@ If you develop new symptoms of imbalance or falls, or have had a rapid change in
 
 If your falls are associated with worsening movement symptoms, like stiffness or slowness of movement, or you have had a recent change in your Parkinson’s medication, you should consult your Parkinson’s team.  
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dj_UJgZiDW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ### You should seek help urgently, via your GP or A&E, if:  
 
 1. You have had a potentially serious injury, e.g. if you are unable to get off the floor.  
@@ -82,6 +94,11 @@ It is important to try to stay as active as possible, unless you have been speci
 Exercises to achieve these need to be tailored to your ability and needs.  
 
 For more on all of these aspects, see the Keeping Active page.  
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AZ-41WphacA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
