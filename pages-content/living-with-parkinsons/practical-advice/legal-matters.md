@@ -1,6 +1,11 @@
 # Introduction  
 There are several legal arrangements that everyone should consider at some stage in their lives. It helps to put these in place as soon as possible. This may involve insurance, power of attorney, decisions about how they wish to be treated and making a will. This section will discuss these legal aspects in some detail. For information about employment please see the section Work & Caring.  
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ESgctDPDKlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Insurance  
@@ -12,6 +17,11 @@ There are several steps for you to go through once you have received a diagnosis
 1. Contact relevant insurance companies (e.g., life, critical illness, driving and travel insurances), as having Parkinson’s can affect your policies. Your insurance may be invalid if you do not tell them.  
 2. It may help to offer or to provide a relevant medical report. This allows the insurance company to have a better understanding of your situation. Your GP or specialist will be able to provide this report.  
 3. Someone from the insurance company may want to talk with you. This may be to decide at what cost they are willing to provide insurance or they may want you to change your policy or cancel it. You can contact Citizen’s Advice if you need help with insurance and legal matters. The Discrimination section below may be helpful if you feel that you are not being treated fairly by your insurance company due to your diagnosis of Parkinson’s.  
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KpaPTaBvQSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ---
 
@@ -27,6 +37,11 @@ This may be because you:
 
 Power of attorney provides someone that you trust with the legal power to make decisions in your best interests. However, a power of attorney can only be arranged when you have the ability and understanding to do so, that is you are assessed as having mental capacity. Therefore, it is important to decide as early as possible whether you want to have someone acting on your behalf, in your best interests in the future and if so, who that person or people would be.  
 This section will outline the different types of power of attorney and other common questions surrounding powers of attorney. The information relates to England and Wales (Mental Capacity Act 2005).
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bN1FvUSMt1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Types of Power of Attorney
 
@@ -98,6 +113,13 @@ It is important to understand that it is your decision. You should not feel pres
 # Formally Recording Future Wishes
 
 You can make a record of your wishes for how you would like to be treated in the future – for example if you can no longer tell anyone. This can be used in a situation in the future where you may not be able to decide for yourself. You can choose whether you would prefer a formal document that is signed and legally binding, or an informal non-legal document that outlines your preferences. These future wishes might cover health and care.
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7PpJjWvv0hY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 
 ## Types of documentation to record future wishes
 
@@ -180,6 +202,11 @@ A person with Parkinson’s shared:
 
 ## Making a Will
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jeeOlVmj_BQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 **Why make a will?**
 Making a will ensures your property and money go to the people you want and divided as you wish. Without a will, the law decides who inherits.
 
@@ -219,6 +246,11 @@ If you have Parkinson’s, you are protected under the **Equality Act 2010** fro
 3. Seek advice from Citizens Advice or the Equality Advisory and Support Service:
    [https://www.equalityhumanrights.com/en/contact-us/equality-advisory-and-support-service](https://www.equalityhumanrights.com/en/contact-us/equality-advisory-and-support-service)
 4. If issues persist, contact an Ombudsman (an independent, free investigator). Find local Ombudsman via the Ombudsman Association.
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/x6gU8fmrxX0?si=rMcbBv9zIomceVrt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 
 ---
