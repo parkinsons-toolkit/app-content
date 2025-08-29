@@ -2,6 +2,12 @@
 
 Receiving a diagnosis of Parkinson’s will probably make you feel emotional. You will probably also have lots of questions. Everyone’s reaction is different and there is no “right” way to handle it. Here we give a few pointers on things that are relevant at diagnosis. This section also has some tips from people who have been through it.
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Sfbm-iDtEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ## What can I do for myself?
 
 - **Don’t rush decisions.** Any new diagnosis can be life-changing. It may be that life does not change in the way you initially expect. Give yourself some time to reflect on the news, and to understand what it means, before making any big life decisions. For example, a diagnosis of Parkinson’s does not automatically mean you need to stop working or stop your hobbies.
