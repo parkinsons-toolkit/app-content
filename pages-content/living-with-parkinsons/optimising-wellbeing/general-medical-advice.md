@@ -141,7 +141,7 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
   * When using computer or phone screens, try to blink regularly and give your eyes breaks. You could do this by looking out of the window for a few minutes. People with Parkinson’s often blink less without realising so may need to make more of a conscious effort to blink.
  
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=B81MLwwb3YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B81MLwwb3YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## Hearing
@@ -155,7 +155,7 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
 More information about healthcare costs is on our Finances page. For more information about sight and hearing problems, see our 5 Senses page.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Ez0AQfwj2do" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ez0AQfwj2do" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 # Foot Care
@@ -174,7 +174,7 @@ Foot problems can be painful and can affect your walking and balance. Taking car
 * If you notice a problem with your feet, such as an infection, get it treated promptly so it does not develop complications. Some treatments are available from the pharmacy, or you can see your GP or practice nurse. In some cases you will be referred to a foot specialist, known as a podiatrist.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=QeaPR7t3rC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QeaPR7t3rC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 # Dental Care
@@ -187,7 +187,7 @@ Taking care of your teeth is really important as poor dental health can lead to 
 * Don’t delay treatments if you have a problem. Many dental treatments are available on the NHS, but most will require a contribution to the cost which can vary in amount depending on the treatment needed. People in receipt of certain financial benefits are entitled to free NHS dental treatment.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=o2oZTIucalM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o2oZTIucalM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 # Bowel Care
@@ -201,7 +201,7 @@ Key ways to avoid constipation:
 * Be active
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Ri0RYSSFdCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ri0RYSSFdCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 # Skin Care
@@ -216,7 +216,7 @@ Key ways to avoid constipation:
 See our Skin Changes page for more information on this.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=eEmMhedZ600" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eEmMhedZ600" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## Organisation Information
