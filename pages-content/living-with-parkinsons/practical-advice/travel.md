@@ -1,3 +1,11 @@
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/50PhrlyjGzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 # The decision
 
 The DVLA will typically inform you of one of four decisions:
@@ -48,6 +56,12 @@ As already stated, you must inform DVLA of your medical condition. These are som
 # Parking
 
 As Parkinson’s can affect your walking this section aims to provide you with helpful information and options. These will help make it possible to park closer to the services and places that you are visiting.
+
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/08tcELi8eto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
@@ -144,6 +158,11 @@ The badge typically lasts up to 3 years before you need to renew. You must apply
 
 There are other transport options besides driving that offer travel schemes to help you get around and make travelling easier. These schemes can assist you in attending hospital appointments, shopping, or visiting friends, helping you maintain your day-to-day activities.
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MQmGMI3yOd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What can I do?
@@ -235,6 +254,11 @@ You might be eligible for certain travel schemes if any of the following apply:
 
 Parkinson’s may make accessing toilets more difficult due to mobility or bladder symptoms.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qN9ySE3azMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ### National Key Scheme
 - Allows people with disabilities to unlock over 9,000 accessible public toilets across the UK.  
 - The key is called a **Radar Key** and can be purchased via the Disability Rights UK website.  
@@ -266,6 +290,10 @@ Parkinson’s may make accessing toilets more difficult due to mobility or bladd
 - Stay hydrated during the flight to reduce symptoms.
 - Consider booking seats with extra legroom or near the front of the plane.
 - It is illegal in the UK and Europe for airlines to refuse boarding due to disability.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oxu7FISsyXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
