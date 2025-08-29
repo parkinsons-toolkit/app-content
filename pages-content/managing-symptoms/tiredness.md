@@ -9,6 +9,13 @@
 
 **Daytime sleepiness** refers to feeling like you might fall asleep during the day.
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jrnP_qa-VBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 ---
 
 ## Causes
@@ -37,6 +44,12 @@ See your **GP or Parkinson’s specialist team** if:
 ---
 
 ## Self-Management Strategies
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F2WxxPXzOLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ### Daily Life
 - Identify tiring activities and triggers to avoid them.  
