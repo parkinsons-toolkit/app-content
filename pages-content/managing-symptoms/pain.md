@@ -6,6 +6,12 @@ Pain may or may not be a problem for you. Pain can be related to Parkinson’s o
 There are many approaches to treating pain. So, finding out the cause of your pain and addressing it holistically is important to make sure the pain is managed effectively.  
 Our bodies are a mixture of complex pathways and mechanisms, and lots of factors can influence pain.  
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cvXTCq41bts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ---
 
 ## What might be causing it?  
@@ -29,6 +35,11 @@ Certain pain related to Parkinson’s tends to be less bothersome when the Parki
 ---
 
 ## What can I try for myself?  
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vy8v0mlZx2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ### Muscle pain  
 - Simple painkillers. You can buy paracetamol and ibuprofen from your local chemist, pharmacy or supermarket. Check the packet or with the pharmacist that there are no other medical reasons that you shouldn’t take them. Do not take more than the recommended amount. Ibuprofen is best taken with food. Always check that no other medication you are taking also contain paracetamol or ibuprofen, so as not to take yourself over the recommended daily dose.  
@@ -56,6 +67,13 @@ There are many things you can try for yourself (see section ‘What can I try fo
 - If you have particular symptoms such as sudden change/loss in bladder/bowel function or numbness/weakness in any function. If you experience this, you should contact a healthcare professional straight away.  
 - Any new severe pain – this should be assessed by a professional.  
 - If you have tried the things below and are still having pain, or the pain is interfering with your daily activities. If this is the case, you should see your GP.  
+
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tWZs9AyfGis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ---
 
