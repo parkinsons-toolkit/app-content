@@ -5,6 +5,10 @@ Some people with Parkinson’s withdraw from social activities. This can make th
 
 Connecting with others can give you a sense of belonging and reduce loneliness, which are vital for health and wellbeing. Talking with friends and family about your condition can be a great form of support. It’s important to build and maintain positive relationships with those around you.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SRm8DqAg8hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What can I do?
@@ -12,6 +16,10 @@ Connecting with others can give you a sense of belonging and reduce loneliness, 
 ### Stay connected
 
 **Ways to stay connected:**
+
+<div class="video-container">
+<iframe width="560" height="315" src=""https://www.youtube.com/embed/RwKmOjpAK4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 * See other people when you can. For many people who live alone, they can feel more connected by simple things like going to the shops, a café or a local park regularly. Occasional conversations with neighbours or others around you can help you feel connected to your local community. This is shown to help with your overall well-being.
 
@@ -35,6 +43,11 @@ Video calls can also be a great way of keeping in touch with friends and family 
 
 If reduced mobility is making access to shops and to social gatherings more difficult, then you could be eligible for a **Blue Badge** which will entitle you to priority parking. See our **Travel** page for more information on the Blue Badge Scheme. You can also visit your **council website** and **Parkinson’s UK website** for more information and guidance.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dc0gmPtBVAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -57,11 +70,18 @@ When you feel ready, you may wish to have an honest conversation with your frien
 
 It may be tempting to withdraw from friendships. However, it’s important to stay connected with those around you as they can be a great source of happiness and support.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ihhGCtm4GQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 ---
 
 ### Romantic relationships
 
 If you have Parkinson’s, or are caring for someone who does, you may find it affects your relationships. But there are things you can do which may help you either improve or adjust to these changes.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q9Zek8o9E_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 #### First reactions
 
@@ -106,6 +126,10 @@ If you both feel comfortable, it can help to have open, but sensitive, discussio
 
 For more information on Parkinson’s and sexual function, see our **Sexual Function** page.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBt7R9lIZSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Where can I go for information and support?
@@ -131,6 +155,10 @@ For more information on Parkinson’s and sexual function, see our **Sexual Func
 ## Spirituality and religion
 
 Spirituality and religion varies from person to person. It can provide someone with a sense of comfort and support. Your faith leader and community can be a great source of practical and emotional support.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m6d_Bv5juyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
@@ -161,6 +189,9 @@ These adjustments will not be suitable for everyone. Options will vary depending
 
 You should have a **consultation one month after** the end of a period of fasting like Ramadan. The specialist can then make sure control of the condition has been regained. They can also make any further adjustments to treatment if needed.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JvkozIL8a5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 ---
 
 ## More Information
