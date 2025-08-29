@@ -15,6 +15,10 @@ You should be cautious about suddenly significantly increasing your activity lev
 
 Think of your activity and exercises to be like your medication. It is an essential part of treatment for your Parkinson’s. This advice is for everyone. The sooner activity is part of your life, the better.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6vmYyNJmDmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What is “Keeping Active”?
@@ -33,6 +37,10 @@ Everyone with Parkinson’s should be considered for referral to physiotherapy. 
 ## What Should I Do?
 
 Think through what you do now. You can record this on the *My Wellbeing* page. Then use this page to think about whether it is enough and whether it is the right type of activity. If there is something missing or you want to make a change, the *My Wellbeing* page will guide you through.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SukLtFZXkNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Think through these 5 components and how they can be built into your routine:
 
@@ -83,6 +91,10 @@ Here is your content converted into **Markdown format**, with no other changes:
 ## Things to Consider in Parkinson’s
 
 In your daily life as well as when doing specific activities, there are a few factors to bear in mind to help your Parkinson’s.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OPG6rnIWwe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
@@ -394,6 +406,10 @@ If you have difficulties with your balance you should see a physiotherapist for 
 
 We know this may be overwhelming. There is a lot to consider, but there is also lots of overlap.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4rIn3tXLc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ### The key message:
 
 * ➢ Try to be thinking about being more active, less sedentary, and stretching out daily.
@@ -425,6 +441,9 @@ People affected by Parkinson’s describe their experiences.
 
 Parkinson’s UK has videos for yoga, cycling and weightlifting. You can find these in the *More Information* section on Page 36.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wgdn-_nc47I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 ---
 
 ## Keeping Active: Person B
