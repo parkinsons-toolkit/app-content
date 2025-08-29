@@ -8,6 +8,14 @@ Hallucinations, visual illusions, and delusions may occur in people with Parkins
 
 **Delusions** are strongly held thoughts or beliefs that are not based on reality. For example, someone may have paranoid thoughts or beliefs about a carer or another close contact. This can make them suspicious or mistrust the carer or close contact. Delusions may also include jealous thoughts or beliefs of having special powers. These could potentially lead to unusual or unsafe behaviour. People who are experiencing severe delusions may be convinced they are true, and may find it difficult to tell what is real or not in their daily lives.  
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7zf5n5x4Ohw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
+
 ---
 
 ## What might be causing it?
@@ -46,6 +54,12 @@ It is important to discuss the hallucinations, illusions, and/or delusions with 
 - If certain objects are frequently mistaken as visual illusions, consider removing these objects from the room or changing the lighting in the room to alter the shadows. (It may be worth examining the lighting and how things are arranged at home in case this could be contributing to the problem).  
 - Try talking to a close friend or relative if you suspect you are hallucinating or seeing a visual illusion. They may be able to help you to recognise a hallucination or visual illusion and to decrease your anxiety about them.  
 - If you can recognise a visual illusion or a hallucination for what it is and it is actually not disturbing to you, then perhaps no further action is needed.  
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4CitkoeOVKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ---
 
