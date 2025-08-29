@@ -2,6 +2,13 @@
 
 Sweating is a normal process that helps your body regulate temperature. Some people with Parkinson’s may experience problems with sweating, which can present as either **too much sweat (hyperhidrosis)** or **too little sweat (hypohidrosis)**. Insufficient sweating can lead to overheating. Because Parkinson’s can also reduce the sense of smell, body odours from excessive sweating may go unnoticed.
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zIJB5iWfgcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 ---
 
 ## What Might Be Causing It?
@@ -42,6 +49,11 @@ Signs may include:
 ## What Should I Do About It?
 
 Excessive sweating can be challenging. If lifestyle strategies do not help after about a month, speak to your GP or Parkinson’s specialist. Seek urgent help if you are not sweating and feel faint or dizzy in warm conditions.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YqxKzzjFEBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ---
 
