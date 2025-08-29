@@ -2,6 +2,10 @@
 
 If a loved one is told that they have Parkinson’s it is an adjustment for you both. Whether you are reading this following a recent diagnosis or after they have had Parkinson’s for a while, we hope this section will provide useful information on how to support the person with Parkinson’s by supporting yourself.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YQ1gelB7hmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 We know Parkinson’s is progressive and a complex condition. This means that your role and involvement will change over time and there will be different challenges along the way. Everyone’s journey is unique and will depend on your personal situation. It will also depend on your relationship to that person (partner, sister, brother, child or friend). You are likely to experience a range of emotions, which is normal and expected. Supporting a loved one with Parkinson’s can be a rewarding experience. There will also be more difficult experiences. These may cause you to have challenging feelings to cope with, such as:
 
 - Feeling anxious or worried about the future
@@ -61,6 +65,11 @@ People affected by Parkinson’s describe their experiences:
 ## Coping with stress
 
 Stress is something we all encounter. Life changes, such as personal problems, relationship difficulties, pressures at work or moving to a new house, can all cause stress. A certain level of stress can be good for the body: it is motivating and alerts the mind. However, if stress becomes overwhelming or goes on for a long time, it can take its toll both physically and emotionally. In supporting someone with Parkinson’s, it is likely you will be exposed to many more things that cause you stress. It is important to be aware of the signs of stress and address them where possible.
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nj934k1cOs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
@@ -142,6 +151,12 @@ Everyone experiences low mood from time to time. When this becomes persistent an
 
 Caring for someone with Parkinson’s can put you at risk of depression. This is because you may be exposed to more losses and more things you find stressful. You may also be unable to do the activities that can help prevent low mood and depression. The effects of depression are very real and can interfere with your caring role. Depression can build up gradually, so you may not realise how much it is affecting you. Knowing the symptoms, who to talk to, and what treatments are available can help you deal with depression quickly.
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YlsBMPyOPNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ### Signs of depression
 
 Depression is when we feel low or sad, and can’t find any pleasure in life. Many of us feel like this sometimes, but depression is when these feelings last longer and are more extreme.
@@ -183,6 +198,11 @@ People affected by Parkinson’s describe their experiences.
 Anxiety is a very normal emotion — it is our response to threat. For humans, threat can come in many different forms: physical, emotional or social. The threat can be in the present, past, or future. At a biological level, when a threat is detected, adrenaline is released into the bloodstream to help us respond. This fight/flight response happens whether the danger is real or perceived. It’s the body’s alarm system — our way of staying safe.
 
 Caring for someone with Parkinson’s can increase the risk of developing anxiety. This can be general worry about many things, acute anxiety (panic attacks), or anxiety in specific situations (e.g. social activities).
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MGaA0EOC-Sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ### Signs of anxiety
 
@@ -227,6 +247,10 @@ A common source of stress and anxiety for the person with Parkinson’s and thei
 - **Develop a good support network.** Strong relationships and resources increase resilience.
 - **Enjoy the here and now.** Don’t let concerns about the future overshadow the present.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DdJ4UqXTdoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## My Experience
@@ -256,6 +280,10 @@ Guilt is one of the most common emotions experienced by carers. It can arise fro
   - Use confidential helplines like the Samaritans if you feel overwhelmed.
   - Speak to your GP, who may refer you to counselling or local support services.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IM3zVcLVpEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Coping with loss and grief
@@ -264,7 +292,13 @@ Supporting someone with Parkinson’s often involves acknowledging and coping wi
 
 It can be helpful to think about the **different stages of grief**, but remember — not everyone experiences all the stages or goes through them in a set order.
 
-Got it — here’s your text converted to **Markdown** with no other changes to the wording:
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wzjKsSCWTZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+---
+
+## Coping with changes to sexual relationships
 
 A few ways Parkinson’s can affect sexual relationships are:  
 - Tremor, stiffness or rigidity, and/or slowness of movement affecting sexual performance.  
@@ -284,6 +318,9 @@ A few ways Parkinson’s can affect sexual relationships are:
 - Speak to your health professionals if concerned. This is particularly important if there are issues with increased sex drive, because this can escalate if left unchecked  
 - Consider talking to your GP or Parkinson’s nurse about medications if you are concerned about any of the physical aspects (e.g. incontinence or erectile dysfunction)  
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E7T3tAN2gOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 ---
 
 ## Coping with later stages of Parkinson’s
