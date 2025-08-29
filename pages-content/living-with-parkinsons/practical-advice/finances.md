@@ -3,6 +3,12 @@
 
 Having Parkinson’s, or caring for someone who does, can impact on your finances. For example, you may need to reduce your hours at work or pay for cleaners or special equipment in the home. Managing financially may become more difficult as the condition progresses. There is some help available so it can help to know what you might be entitled to.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ahgvyV3Zeyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 ---
 
 ## Paying Bills and Budgeting
@@ -37,6 +43,12 @@ If you are struggling to manage your finances, you may find these suggestions he
 ## Government Benefits
 
 There are a number of benefits you may be entitled to. These can help with extra costs of living with Parkinson’s. If you find these complicated don’t worry, there are several sources of help available – see the *More Information* section for more details.
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LH1V-Of1tFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ### For People with Parkinson’s:
 
@@ -240,6 +252,10 @@ You can also get help and advice from the charity **Citizens Advice**. You can f
 
 ## VAT Relief
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2aFPUDFz1rE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 If you have a disability or long-term health condition, you should not be charged VAT on products designed or adapted for your own personal or domestic use. This includes:
 
 * Stair lifts, adjustable beds, wheelchairs, alarms, and building work (e.g. building ramps)
@@ -282,6 +298,11 @@ If you are age 60 or over you are entitled to free prescriptions. If you have a 
 You can apply for medical exemption via the **FP92A application form**, which you can get from your doctor, pharmacist, or hospital.
 
 To check if you’re entitled to free NHS prescriptions and help with other NHS costs, you can use the **[online NHS eligibility checker](https://www.nhsbsa.nhs.uk/check-if-youre-eligible-help).**
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZNU7HCv4mnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ---
 
@@ -388,6 +409,10 @@ To qualify for help under this scheme, you must meet the following criteria:
 
 Visit the NHS website ([www.nhs.uk](https://www.nhs.uk)) for more information about help with travel costs under the HTCS.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n1uxer0VLNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Costs of Equipment, Housing & Care
@@ -397,6 +422,12 @@ Visit the NHS website ([www.nhs.uk](https://www.nhs.uk)) for more information ab
 Funding for equipment depends on the type of equipment you need and what funding is available in your local area or from other funding sources.
 
 Some local **British Red Cross** groups can loan out equipment, including wheelchairs. They may deliver and collect the equipment for you at an extra charge if you can’t travel to your local store.
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6mpOB0xTnx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ---
 
