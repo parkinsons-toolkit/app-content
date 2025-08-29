@@ -13,6 +13,13 @@ Symptoms of Parkinson’s and factors unrelated to Parkinson’s can all contrib
 
 A common problem is that difficulties mobilising mean that you are less active. Being less active then leads to muscle weakness and stiffness. Muscle weakness and stiffness then leads to more difficulty in mobilising. Lack of confidence and fear of falling also feeds into this cycle. It is important to break this cycle.
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvbOfUR9rNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 ## What should I do about it?
 
 If you have a sudden decline in your mobility, you should see your GP or contact your Parkinson’s team as soon as possible. There may be an illness, injury or medication that is contributing to it. Please see the Balance & Falls information page if these are concerns.
@@ -32,6 +39,13 @@ In Parkinson’s, specific attention also needs to be given to:
 Exercises to achieve these need to be tailored to your ability and needs. For more on all of these aspects, see the Keeping Active page.
 
 There may also be specific tasks that you can practice to address specific day-to-day challenges. Physiotherapists and Occupational therapists help identify these where possible.
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yqz7SToA3vE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 
 ## Mobility tips
 
@@ -72,6 +86,13 @@ Before purchasing equipment, consider the following overall tips below:
 - Remember that companies selling equipment could be biased. Health and Social care professionals do not have a financial incentive so are impartial.  
 - The Disabled Living Foundation (DLF) is a charity (not commercial) that provides detailed information about equipment, including places you can try it out and comparisons of products.  
 Contact details for DLF are provided in our More information section.
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/stp0WlU5bg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 
 ### Walking sticks
 
