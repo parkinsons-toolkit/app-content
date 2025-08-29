@@ -10,6 +10,13 @@ Common symptoms:
 * Stress incontinence – Some people, particularly women who have had children, can experience a leakage of urine if they e.g. laugh, cough, sneeze or exercise.  This is usually due to weakened pelvic floor muscles and is not related to Parkinson’s. 
 * Nocturia – This is needing to pass urine more than twice during the night (once or twice is considered normal).
 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3MYeEwL-nPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 ## What might be causing it?
 Parkinson’s can cause most of the symptoms listed above. It does not however cause pain on passing urine, or blood in the urine. However, urinary symptoms are not always due to Parkinson’s.
 
@@ -37,7 +44,18 @@ There are many things you can try for yourself as below, but there are some circ
 * Feeling of dragging down below
 * Stress incontinence – leakage when you e.g., laugh or cough
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5_x3ZIiAA60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ## What can I try for myself?
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BKsv8tpcSkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ### Fluid intake
 * Reduce/avoid caffeinated drinks – as these can make urinary symptoms worse. You may find that there is a particular time that is a problem – e.g. if you have caffeine in the evening, then night-time symptoms are worse.
 * Reduce/avoid alcohol intake – alcohol can make urinary symptoms worse.
