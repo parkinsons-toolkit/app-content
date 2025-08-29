@@ -14,6 +14,10 @@ Progression may involve:
 Here we discuss challenges around progression and some of the more advanced symptoms.  
 For other symptoms, see the **Symptom Management** pages.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWskJnJhpj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Dealing with Progression
@@ -45,6 +49,9 @@ Loss may be:
 > **My Experience**  
 > “The more I said, ‘Parkinson’s is doing this,’ you may be more angry and frustrated. But to be able to think that it’s a disease and I’m living with it and I have to go and change my life around it, you sort of understand that I have to accept that, because it’s not going to go away. It’s going to stay there. So it’s better for me to deal with it like that.” — *Person with Parkinson’s*
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ggKSKOyx3Bg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 ---
 
 ## Progression of Symptoms
@@ -100,6 +107,9 @@ Loss may be:
 - Use day-to-day memory strategies (see **Thinking & Remembering** page)
 - Prepare for the future by recording wishes or appointing someone to make decisions if you lose capacity (see **Future Care Options** and **Legal Matters**)
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/swG2ZrR7kdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 ---
 
 ## Swallowing Problems & Chest Infections
@@ -110,6 +120,10 @@ Loss may be:
 - Severe swallowing issues may cause food, drink, or saliva to enter the airway (*aspiration*)
 
 > See additional information for more detail on swallowing difficulties and management.
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O5pObnhpaLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 # Swallowing and Aspiration
 
