@@ -8,9 +8,19 @@ Being able to keep doing these activities is important to keep independent and a
 
 There are some tried and tested methods to do this. You could make changes to the way you do things, to your environment, or to the adaptive equipment you use. There are NHS, social care and voluntary sector professionals that can help you (see More Information at the bottom of this article). Please also see the Housing page for information about making adaptations to your home and guidance about different types of accommodation.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yfDnm5OthzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## What can I try for myself?
 
 All the tips and strategies here are things you could try for yourself. If you keep having problems, there are certain professionals who can help you: occupational therapists and physiotherapists. They will first want to have an assessment with you. They can then share more strategies and advice on equipment that may help you (discussed further below). Ask your GP or Parkinson’s team about a referral.
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bc8cuGzGH0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ## Bathing & showering
 
@@ -151,6 +161,11 @@ Occupational therapists may suggest a rehabilitation approach. They will work wi
 The world of equipment can be overwhelming, and costly. Some equipment may be paid for by the NHS or through your local Social Services, but some you will need to buy yourself.  
 We strongly recommend you speak to an occupational therapist before buying equipment. They will assess your needs, talk about different strategies and recommend the equipment that is best for you.  
 They can then guide you through how to get the equipment if this is needed.
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2n9OomcD57s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Equipment for Bathing & Showering
 
@@ -491,13 +506,21 @@ However, if you are buying your own equipment, here are a few tips:
 4. **Make sure the fit of the equipment is correct.**
 5. **Local pharmacies and disability shops** sell equipment. Short term hire can be possible from local organisations, such as the Red Cross Society.
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vJqrYWOc4Wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 ---
 
 ## Who Can Help?
 
 If daily tasks are particularly challenging, some people need assistance from a person. The degree of assistance will vary, and as much independence as possible should still be encouraged. There are two main categories to consider discussed here. There is also information on the *Guidance for Family & Carers* page for people who are supporting someone they know.
 
-Here is your content converted to **Markdown format** without any changes to the wording:
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XP6sgEJZhcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
