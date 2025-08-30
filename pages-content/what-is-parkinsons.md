@@ -8,7 +8,7 @@ Parkinsonism is a broad term. It covers a range of conditions that have features
 ## What is the cause?
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ikVplhl5zZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ikVplhl5zZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 In Parkinson’s there is a gradual loss of cells. This is mainly in an area of the brain called the substantia nigra. These cells produce a chemical messenger called dopamine. As less dopamine is available over time, people start experiencing problems with their movements. Dopamine is known as a neurotransmitter. Other neurotransmitters are also believed to decrease. This decrease may be responsible for other symptoms of Parkinson’s.
@@ -43,11 +43,9 @@ Not everyone with Parkinson’s will experience all three main motor symptoms. B
 
 The diagnosis of Parkinson’s is made by a clinician experienced in Parkinson’s. They ask careful questions and do a close clinical exam. The diagnosis is based on a person’s story and examination. There is no one test that can diagnose Parkinson’s. Doctors may order brain scans like an MRI, or order some blood tests to exclude other conditions. These actions can add pieces to the puzzle. Sometimes Parkinson’s can look like other conditions. It may even look like a normal ageing process. The diagnosis is not always clear. Since there is no test to show whether someone has Parkinson’s or not, it can take time for the picture to become clearer. In some cases that means a change in the first diagnosis.
 
-
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EI6Ld6IWFys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
 
 ## How is Parkinson’s treated?
 
@@ -57,11 +55,9 @@ There are medications available for many Parkinson’s symptoms. See Medications
 
 Lots is known about Parkinson’s. But there is even more to be discovered! See the Research page to know more.
 
-
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4B4XYDc67Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
 
 ## Other Types of Parkinsonism
 
