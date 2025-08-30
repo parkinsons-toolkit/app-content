@@ -41,23 +41,23 @@ Not everyone with Parkinson’s will experience all three main motor symptoms. B
 
 ## How is Parkinson’s diagnosed?
 
-The diagnosis of Parkinson’s is made by a clinician experienced in Parkinson’s. They ask careful questions and do a close clinical exam. The diagnosis is based on a person’s story and examination. There is no one test that can diagnose Parkinson’s. Doctors may order brain scans like an MRI, or order some blood tests to exclude other conditions. These actions can add pieces to the puzzle. Sometimes Parkinson’s can look like other conditions. It may even look like a normal ageing process. The diagnosis is not always clear. Since there is no test to show whether someone has Parkinson’s or not, it can take time for the picture to become clearer. In some cases that means a change in the first diagnosis.
-
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EI6Ld6IWFys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EI6Ld6IWFys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+The diagnosis of Parkinson’s is made by a clinician experienced in Parkinson’s. They ask careful questions and do a close clinical exam. The diagnosis is based on a person’s story and examination. There is no one test that can diagnose Parkinson’s. Doctors may order brain scans like an MRI, or order some blood tests to exclude other conditions. These actions can add pieces to the puzzle. Sometimes Parkinson’s can look like other conditions. It may even look like a normal ageing process. The diagnosis is not always clear. Since there is no test to show whether someone has Parkinson’s or not, it can take time for the picture to become clearer. In some cases that means a change in the first diagnosis.
+
 ## How is Parkinson’s treated?
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4B4XYDc67Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 There are many management options to help with Parkinson’s. A range of different professionals can be involved. See the Who may be involved page. Exercise has been shown to improve mobility and quality of life. There isn’t one exercise program that has been shown to be the best. Finding something you enjoy and doing it regularly is most important. Examples include an exercise class for people with Parkinson’s, dancing, boxing, riding a stationary bicycle at home, etc.
 
 There are medications available for many Parkinson’s symptoms. See Medications page. Surgical options may be considered in select cases. See Advanced & Surgical Treatments page. There are also other strategies to reduce the impact of symptoms on daily life. See Managing Symptoms pages. A diagnosis of Parkinson’s is a lot to deal with. Talking to others can help. This website aims to support you to live well with Parkinson’s. It includes a range of tools as well as information resources to help you. If you have been recently diagnosed, the volume of information can be overwhelming. Starting with the New Diagnosis page may be most helpful. On this page, other people with Parkinson’s wrote key information they would focus on at the start.
 
 Lots is known about Parkinson’s. But there is even more to be discovered! See the Research page to know more.
-
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4B4XYDc67Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
 
 ## Other Types of Parkinsonism
 
