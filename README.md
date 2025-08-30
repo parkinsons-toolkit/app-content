@@ -24,13 +24,21 @@ Videos can be pulled in from external sources such as embedded YouTube videos. T
 
 ```
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ikVplhl5zZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/ikVplhl5zZw"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
 </div>
 ```
 
 To get the above embed link in YouTube, go to the YouTube video and click 'Share' - then select the 'embed' button to copy the embed link.
 
 _Note_: If there is a query string (denoted with a ?) in the embed URL like this: `exampleurl?si=abc123` then make sure to remove everything from the ? onwards, otherwise the link won't work. See this relevant [issue ticket](https://github.com/parkinsons-toolkit/parkinsons-toolkit-app/issues/50#issuecomment-3159753051) for more information.
+
+_Note_: The `no-cookie` part of the url ensures the video embed respects enhanced privacy features and does not load cookies until the user interacts with the video.
 
 ## Security Guidelines for Content Contributors
 
