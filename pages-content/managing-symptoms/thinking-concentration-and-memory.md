@@ -5,10 +5,14 @@ Difficulties with thinking and memory are common in Parkinson’s and can be wor
 For more advanced symptoms, including dementia, see the **Progression of Symptoms** page.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JhyTS2pTwZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/JhyTS2pTwZQ" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
-
-
 
 ---
 
@@ -17,147 +21,178 @@ For more advanced symptoms, including dementia, see the **Progression of Symptom
 Memory and thinking problems in Parkinson’s usually develop **gradually**. Common areas affected include:
 
 - **Executive function**: Planning, keeping things in mind, flexible thinking, and self-control.  
-  *Example*: Difficulty planning a meal so that all ingredients are ready at the right time.  
+  _Example_: Difficulty planning a meal so that all ingredients are ready at the right time.
 
 - **Attention**: Staying focused on tasks, conversations, or multi-tasking.  
-  *Example*: Trouble following a conversation or reading.  
+  _Example_: Trouble following a conversation or reading.
 
 - **Language**: Remembering and understanding words.  
-  *Example*: Forgetting words or not understanding complex discussions.  
+  _Example_: Forgetting words or not understanding complex discussions.
 
 - **Visuospatial function**: Judging distances, depth, imagining objects, or recognizing patterns.  
-  *Example*: Getting off at the wrong bus stop or misjudging a step.  
+  _Example_: Getting off at the wrong bus stop or misjudging a step.
 
 - **Memory**: Recalling information or events.  
-  *Example*: Repeating oneself or forgetting the plot of a TV program.
+  _Example_: Repeating oneself or forgetting the plot of a TV program.
 
 ### Dementia and Other Causes
-- **Dementia**: Gradual impairments in thinking, memory, and other brain functions affecting daily life. Parkinson’s can cause dementia, but not all memory problems lead to it.  
-- **Other gradual causes**:  
-  - Depression or anxiety  
-  - Sleep disturbance  
-  - Certain medications  
-  - Hormone imbalances (e.g., hypothyroidism)  
-  - Vitamin deficiencies (e.g., B12 deficiency)  
-  - Alcohol misuse  
-  - Abnormal blood chemistry (e.g., high calcium or low sodium)  
+
+- **Dementia**: Gradual impairments in thinking, memory, and other brain functions affecting daily life. Parkinson’s can cause dementia, but not all memory problems lead to it.
+- **Other gradual causes**:
+  - Depression or anxiety
+  - Sleep disturbance
+  - Certain medications
+  - Hormone imbalances (e.g., hypothyroidism)
+  - Vitamin deficiencies (e.g., B12 deficiency)
+  - Alcohol misuse
+  - Abnormal blood chemistry (e.g., high calcium or low sodium)
 
 ### Sudden Changes: Delirium
-- Sudden confusion or fluctuation in alertness may indicate **delirium**, a response to a new stress on the body.  
-- Possible triggers: infections, medications, or abnormal blood chemistry (e.g., high/low blood sugar).  
+
+- Sudden confusion or fluctuation in alertness may indicate **delirium**, a response to a new stress on the body.
+- Possible triggers: infections, medications, or abnormal blood chemistry (e.g., high/low blood sugar).
 - Delirium requires urgent assessment by a healthcare professional.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRXmfb5HZXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/QRXmfb5HZXg" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 
 ---
 
 ## What Should I Do?
 
-- **Sudden changes in thinking or memory (hours or days)**: Seek urgent medical help.  
-  - If mildly ill: contact your GP.  
-  - If very ill: go to A&E.  
+- **Sudden changes in thinking or memory (hours or days)**: Seek urgent medical help.
 
-- **Gradual changes (weeks to months)**:  
-  - If symptoms persist **>1 month** or affect daily life, make a non-urgent GP appointment.  
-  - Discuss symptoms with your Parkinson’s specialist team.  
+  - If mildly ill: contact your GP.
+  - If very ill: go to A&E.
+
+- **Gradual changes (weeks to months)**:
+  - If symptoms persist **>1 month** or affect daily life, make a non-urgent GP appointment.
+  - Discuss symptoms with your Parkinson’s specialist team.
 
 ---
 
 ## Self-Management Strategies
 
-
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoHZocWnFdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/aoHZocWnFdQ" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 
 ### Take Your Time
-- Stress worsens thinking.  
+
+- Stress worsens thinking.
 - Allow extra time for tasks.
 
 ### Keep Well
-- Sleep, physical health, and emotional wellbeing support memory and thinking.  
+
+- Sleep, physical health, and emotional wellbeing support memory and thinking.
 - See **Optimising Wellbeing** pages for more information.
 
 ### Prompts and Reminders
-- **Lists**: To-do lists, reminders for items to take out, etc.  
-- **Calendars/organisers**: Track appointments and birthdays.  
-- **Clocks and alarms**: Prominent clocks or alarms to remind you about medication or tasks.  
+
+- **Lists**: To-do lists, reminders for items to take out, etc.
+- **Calendars/organisers**: Track appointments and birthdays.
+- **Clocks and alarms**: Prominent clocks or alarms to remind you about medication or tasks.
 - **Track events**: Record activities or symptoms using tools like the **Symptom & Activity Tracker**.
 
 ### Establish Routines
+
 - Routines reduce cognitive load and make tasks more automatic.
 
 ### Social Support
-- Engage friends or family to help with memory and attend appointments.  
-- Maintain social and leisure activities to support cognitive function.  
+
+- Engage friends or family to help with memory and attend appointments.
+- Maintain social and leisure activities to support cognitive function.
 - Consider **befriending services** through Parkinson’s UK or Age UK for regular contact with volunteers.
 
 ## Medication
-You may find managing your Parkinson’s medication more challenging if you have problems with thinking or remembering. There are several devices available to help you; see the Medications page for more information.  
+
+You may find managing your Parkinson’s medication more challenging if you have problems with thinking or remembering. There are several devices available to help you; see the Medications page for more information.
 
 ## Slowing down the problem
-There is no recommended treatment to stop or prevent memory and thinking problems. Things that may have some positive effects without harmful consequences include:  
-- Physical exercise – see our Keeping Active page for ideas.  
-- “Brain Training” or “Cognitive Training” – memory and attention puzzles and calculations (e.g. Sudoku).  
 
-It’s important to note there is not currently enough evidence to recommend these.  
+There is no recommended treatment to stop or prevent memory and thinking problems. Things that may have some positive effects without harmful consequences include:
+
+- Physical exercise – see our Keeping Active page for ideas.
+- “Brain Training” or “Cognitive Training” – memory and attention puzzles and calculations (e.g. Sudoku).
+
+It’s important to note there is not currently enough evidence to recommend these.
 
 ## Further Assessment
 
 ### Questions
-- Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your “My Health” section to bring to the appointment.  
-- See extra information below about what they might ask about with regard to memory and thinking.  
-  - Have you developed any new physical symptoms?  
-  - How has your mood been?  
-  - How has your sleep been?  
-  - Have you lost weight?  
-  - Have there been any recent changes to your medications?  
-  - How do the thinking and memory problems affect your day-to-day life? For example, working, taking medications, getting washed and dressed, paying your bills.  
-  - Have there been any serious consequences of the thinking and memory problems? For example, getting lost, getting into debt, driving accidents or near-misses, or leaving the gas on.  
 
-They may ask questions to assess different aspects of memory and thinking. Try not to worry about this too much as getting stressed can make it harder.  
+- Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your “My Health” section to bring to the appointment.
+- See extra information below about what they might ask about with regard to memory and thinking.
+  - Have you developed any new physical symptoms?
+  - How has your mood been?
+  - How has your sleep been?
+  - Have you lost weight?
+  - Have there been any recent changes to your medications?
+  - How do the thinking and memory problems affect your day-to-day life? For example, working, taking medications, getting washed and dressed, paying your bills.
+  - Have there been any serious consequences of the thinking and memory problems? For example, getting lost, getting into debt, driving accidents or near-misses, or leaving the gas on.
 
-**Track your symptoms in the Symptom and Activity Tracker in your manual**  
-- This can help you to recall the details and help the professional identify patterns.  
-- If you think the problem is variable, try recording when it is at its best and when it is at its worst. Note what you have done on those days that is different compared to a typical day.  
+They may ask questions to assess different aspects of memory and thinking. Try not to worry about this too much as getting stressed can make it harder.
+
+**Track your symptoms in the Symptom and Activity Tracker in your manual**
+
+- This can help you to recall the details and help the professional identify patterns.
+- If you think the problem is variable, try recording when it is at its best and when it is at its worst. Note what you have done on those days that is different compared to a typical day.
 
 ### Tests
+
 Depending on their assessment, your GP or Parkinson’s specialist may arrange some further tests.  
-This may include blood tests, urine tests or occasionally a brain scan.  
+This may include blood tests, urine tests or occasionally a brain scan.
 
 ## Further Treatments
-A healthcare professional may be able to offer reassurance or possibly further treatment.  
+
+A healthcare professional may be able to offer reassurance or possibly further treatment.
 
 ### Medication
-- Doctors (e.g. GP or neurologist) and some nurses (e.g. Parkinson’s Specialist Nurses) may change your medication.  
-- Please do not make any changes to your medication regime without speaking with a healthcare professional.  
 
-**Some medication used for memory and thinking difficulties:**  
-- If a significant memory and thinking problem is identified, the first line treatment is a type of medication called a cholinesterase inhibitor. There are several different types, but most commonly used are rivastigmine or donepezil.  
-- If these are not suitable due to other medical problems, or if the side effects are a big problem, then the next choice is a medication called memantine.  
+- Doctors (e.g. GP or neurologist) and some nurses (e.g. Parkinson’s Specialist Nurses) may change your medication.
+- Please do not make any changes to your medication regime without speaking with a healthcare professional.
 
-**Some medications that may make memory and thinking worse for some people:**  
-- Anticholinergic medications (e.g. oxybutynin, solifenacin, amitriptyline)  
-- Parkinson’s medications (e.g. selegiline or amantadine)  
-- Sedating medications (e.g. benzodiazepines like diazepam and clonazepam).  
+**Some medication used for memory and thinking difficulties:**
+
+- If a significant memory and thinking problem is identified, the first line treatment is a type of medication called a cholinesterase inhibitor. There are several different types, but most commonly used are rivastigmine or donepezil.
+- If these are not suitable due to other medical problems, or if the side effects are a big problem, then the next choice is a medication called memantine.
+
+**Some medications that may make memory and thinking worse for some people:**
+
+- Anticholinergic medications (e.g. oxybutynin, solifenacin, amitriptyline)
+- Parkinson’s medications (e.g. selegiline or amantadine)
+- Sedating medications (e.g. benzodiazepines like diazepam and clonazepam).
 
 ### Referral
-- You may be referred on to another service. Please be aware that there is usually a waiting time before the next service will see you.  
-- The typical referral for memory and thinking problems is to a multi-professional service called a “memory clinic”. Or, you may be referred for a specialist assessment by a cognitive neuropsychologist.  
+
+- You may be referred on to another service. Please be aware that there is usually a waiting time before the next service will see you.
+- The typical referral for memory and thinking problems is to a multi-professional service called a “memory clinic”. Or, you may be referred for a specialist assessment by a cognitive neuropsychologist.
 
 ## Key Messages
-- Thinking and memory problems are not always a sign of dementia.  
-- Looking after your physical and emotional wellbeing may help with your memory and thinking.  
+
+- Thinking and memory problems are not always a sign of dementia.
+- Looking after your physical and emotional wellbeing may help with your memory and thinking.
 
 ---
 
-## More information  
+## More information
 
-| Organisation | Information about | Phone Number | Website |
-|--------------|------------------|--------------|---------|
-| Age UK | Provides a variety of befriending services, including telephone and face-to-face befriending. | 0800 678 1602 <br> Free helpline: open 8am–7pm | [www.ageuk.org.uk/services/befriending-services/](www.ageuk.org.uk/services/befriending-services/) |
-| Parkinson’s UK | Provides information about mild memory and thinking problems for people with Parkinson’s. The charity also offers befriending services. | 0808 800 0303 <br> Free helpline: open 9am–7pm (Mon–Fri), 10am–2pm (Sat) | Information about Memory and Thinking Problems: [www.parkinsons.org.uk/information-and-support/mild-memory-and-thinking-problems](www.parkinsons.org.uk/information-and-support/mild-memory-and-thinking-problems) <br><br> Befriending and other local services can be found after entering your postcode: [localsupport.parkinsons.org.uk](localsupport.parkinsons.org.uk) |
-| The Michael J. Fox Foundation | Has information on thinking and memory problems, with details of current testing and ways to boost your brain health. |  | [www.michaeljfox.org/news/memory-thinking-changes](www.michaeljfox.org/news/memory-thinking-changes) |
-| Which? Later Life Care | An organisation that independently tests and reviews products, such as memory aids. They discuss alarms, pill dispensers, memory apps and more. |  | [www.which.co.uk/later-life-care/home-care/dementia/memory-aids-aucn89p7r8bq](www.which.co.uk/later-life-care/home-care/dementia/memory-aids-aucn89p7r8bq) |
+| Organisation                  | Information about                                                                                                                               | Phone Number                                                             | Website                                                                                                                                                                                                                                                                                                                                                                      |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Age UK                        | Provides a variety of befriending services, including telephone and face-to-face befriending.                                                   | 0800 678 1602 <br> Free helpline: open 8am–7pm                           | [www.ageuk.org.uk/services/befriending-services/](www.ageuk.org.uk/services/befriending-services/)                                                                                                                                                                                                                                                                           |
+| Parkinson’s UK                | Provides information about mild memory and thinking problems for people with Parkinson’s. The charity also offers befriending services.         | 0808 800 0303 <br> Free helpline: open 9am–7pm (Mon–Fri), 10am–2pm (Sat) | Information about Memory and Thinking Problems: [www.parkinsons.org.uk/information-and-support/mild-memory-and-thinking-problems](www.parkinsons.org.uk/information-and-support/mild-memory-and-thinking-problems) <br><br> Befriending and other local services can be found after entering your postcode: [localsupport.parkinsons.org.uk](localsupport.parkinsons.org.uk) |
+| The Michael J. Fox Foundation | Has information on thinking and memory problems, with details of current testing and ways to boost your brain health.                           |                                                                          | [www.michaeljfox.org/news/memory-thinking-changes](www.michaeljfox.org/news/memory-thinking-changes)                                                                                                                                                                                                                                                                         |
+| Which? Later Life Care        | An organisation that independently tests and reviews products, such as memory aids. They discuss alarms, pill dispensers, memory apps and more. |                                                                          | [www.which.co.uk/later-life-care/home-care/dementia/memory-aids-aucn89p7r8bq](www.which.co.uk/later-life-care/home-care/dementia/memory-aids-aucn89p7r8bq)                                                                                                                                                                                                                   |

@@ -68,7 +68,7 @@ _Note_: The `no-cookie` part of the url ensures the video embed respects enhance
 **📋 APPROVED HTML ELEMENTS:**
 
 - `<div class="video-container">` for YouTube embeds
-- `<iframe src="https://www.youtube.com/embed/...">` for approved videos
+- `<iframe src="https://www.youtube-nocookie.com/embed/...">` for approved videos
 - `<img>` tags with GitHub raw URLs for images
 - Basic styling divs with approved CSS classes
 

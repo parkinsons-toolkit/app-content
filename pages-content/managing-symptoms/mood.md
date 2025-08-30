@@ -2,7 +2,13 @@
 
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VThagdjYOig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/VThagdjYOig" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 
 
@@ -36,7 +42,13 @@ Some people may feel “tired of life” without wanting to die, but severe depr
 
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/24m6L9Rpj8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/24m6L9Rpj8U" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 
 
@@ -82,7 +94,13 @@ For more info, see the charity Mind’s guidance on urgent mental health support
 
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1j2cv2BFgMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/1j2cv2BFgMc" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 
 
@@ -410,7 +428,13 @@ If you need immediate help but don’t want to see your GP or go to A&E, you cou
 For more details, the charity Mind has information about how to seek urgent mental health support.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K46rVNlXyqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/K46rVNlXyqU" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 
 

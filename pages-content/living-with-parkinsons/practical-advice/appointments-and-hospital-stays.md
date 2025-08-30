@@ -1,4 +1,3 @@
-
 # Appointments & Hospital Stays
 
 ## Appointments
@@ -6,7 +5,13 @@
 Most people with Parkinson’s remain under the care of a specialist (usually a Neurologist or Geriatrician) for life. They usually see them every 6–12 months. In addition, in many areas there are also Parkinson’s Nurse Specialists, working either in the community or in the hospital. Some of these specialist nurses hold outpatient appointments, and most do telephone calls. A few will see people in their own homes. You may also have appointments with other teams, either in relation to your Parkinson’s or for other health reasons.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qf1nrm4BnIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/Qf1nrm4BnIs" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 
 Appointments can be stressful, and stress tends to make Parkinson’s symptoms worse. The best way to reduce the stress and make the most out of your appointment is to plan ahead. Here are some things you may wish to consider beforehand:
@@ -53,7 +58,13 @@ An unplanned stay is due to an **Emergency Admission**. An example of this would
 Whichever way you go into hospital it is important for staff to know you have Parkinson’s. This is to make sure you have appropriate care throughout your hospital stay. Remember, the hospital has to follow your timetable for your medication, so you must let them know what times you take your medication.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KCXiHV41iIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/KCXiHV41iIM" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 
 ### Preparation
@@ -66,7 +77,6 @@ Whichever way you go into hospital it is important for staff to know you have Pa
 
 - **Medication**: An up-to-date list of your medication. If this is not possible, the medication packets can be helpful. Please note that many tablets look similar so bringing loose tablets or describing what they look like cannot be relied upon. It is usually a good idea to take a short supply of medication. They need to be in their original packets to be used in hospital.  
   Bring a list with the times that you take your medication.
-  
 - **Documents**: Any important documents from other professionals that relate your health. At present, different hospital, GP and community service computer systems are not necessarily all linked up. This means that records may be held in one place but not another. It is helpful to bring the contact details of your Parkinson’s specialist team.
 
 - **Aids**: such as dentures, hearing aids, glasses, walking stick.
@@ -79,93 +89,103 @@ Whichever way you go into hospital it is important for staff to know you have Pa
 
 When someone is going to stay in the hospital, personal and health information is recorded as a standard process. Accurate up-to-date information is essential to provide the best care. If an admission is planned, information may be asked in advance, but if it is unplanned it will be asked on arrival. In addition to administrative details, expect to be asked about:
 
-* Specific questions related to the reason for your admission
-* Health conditions
-* Medications – remember to give the times you take your Parkinson’s medication
-* Allergies
-* Living arrangements
-* Your support: People, equipment and aids
+- Specific questions related to the reason for your admission
+- Health conditions
+- Medications – remember to give the times you take your Parkinson’s medication
+- Allergies
+- Living arrangements
+- Your support: People, equipment and aids
 
-Make sure you tell staff you have Parkinson’s. It is helpful to give the contact details of your Parkinson’s specialist team. If it is a planned hospital admission they can liaise in advance. There is often overlap in the questions that different healthcare professionals ask and it can be frustrating to repeat. Consider using the *About Me* and *My Health* pages to record some of this key information. Then you can show the summary to multiple people, clarifying details as needed.
+Make sure you tell staff you have Parkinson’s. It is helpful to give the contact details of your Parkinson’s specialist team. If it is a planned hospital admission they can liaise in advance. There is often overlap in the questions that different healthcare professionals ask and it can be frustrating to repeat. Consider using the _About Me_ and _My Health_ pages to record some of this key information. Then you can show the summary to multiple people, clarifying details as needed.
 
 If you are being treated with an advanced therapy or if you are on an experimental treatment, it is essential to tell the staff looking after you about it as soon as possible. These are highly specialised treatments so many healthcare professionals will not know much about them and the hospital may need to obtain them specifically. It is helpful if you can provide the details of your treatment and the team that look after it. You should also have been provided by the team looking after these therapies with advice on what to do if you are admitted to hospital.
 
 See extra information below for a list of advanced therapies.
 
-* Deep Brain Stimulation (DBS)
-* Apomorphine pump
-* Intraduodenal levodopa gel infusion (e.g. Duodopa)
+- Deep Brain Stimulation (DBS)
+- Apomorphine pump
+- Intraduodenal levodopa gel infusion (e.g. Duodopa)
 
 It is important for staff to know you have Parkinson’s and know your specific requirements and routine, such as:
 
-* Dietary requirements and if you need help with food and drink
-* Personal care – such as whether you need help going to the toilet, washing and dressing
-* Sleep needs
-* Medication: Getting your medication on time is important. The times you usually take your medicines may not be the same as medications are given on the ward. Make sure to tell the staff what times you need to take your medication. Some hospitals have self-medication policies. If you do take your own medications, ensure the healthcare staff know that you have
+- Dietary requirements and if you need help with food and drink
+- Personal care – such as whether you need help going to the toilet, washing and dressing
+- Sleep needs
+- Medication: Getting your medication on time is important. The times you usually take your medicines may not be the same as medications are given on the ward. Make sure to tell the staff what times you need to take your medication. Some hospitals have self-medication policies. If you do take your own medications, ensure the healthcare staff know that you have
 
 # Who’s who?
 
-You will probably encounter lots of different professionals during your hospital stay. See *Who May Be Involved* for more guidance on roles, but always feel free to ask.
+You will probably encounter lots of different professionals during your hospital stay. See _Who May Be Involved_ for more guidance on roles, but always feel free to ask.
 
 # Responsibilities you may still have outside hospital
 
 Many people worry about things that they have left at home if they are admitted to hospital. Although it is good to have motivation for your recovery, it is preferable to minimise anxiety around things back at home. Some things to think about:
 
-* **Work**: Can you or a friend or relative let your workplace know that you will be off sick
-* **Dependents**: If you normally care for someone, is there someone who can step in to help while you are in hospital? If they are a vulnerable adult or a child then social services can provide emergency care. Tell the team looking after you and they can notify social services. The following website provides information about the sorts of support they can offer:
+- **Work**: Can you or a friend or relative let your workplace know that you will be off sick
+- **Dependents**: If you normally care for someone, is there someone who can step in to help while you are in hospital? If they are a vulnerable adult or a child then social services can provide emergency care. Tell the team looking after you and they can notify social services. The following website provides information about the sorts of support they can offer:
   [https://www.nhs.uk/conditions/social-care-and-support-guide/](https://www.nhs.uk/conditions/social-care-and-support-guide/)
-* **Pets**: Is there someone who can step in to help while you are in hospital?
-* **Security and safety**: If you are worried about whether you locked the door, or left the cooker on, is there someone who could check to put your mind at ease? Is there someone who can check on your home whilst you are in hospital?
-* **Bills**: Is there someone who can step in to help while you are in hospital?
+- **Pets**: Is there someone who can step in to help while you are in hospital?
+- **Security and safety**: If you are worried about whether you locked the door, or left the cooker on, is there someone who could check to put your mind at ease? Is there someone who can check on your home whilst you are in hospital?
+- **Bills**: Is there someone who can step in to help while you are in hospital?
 
-See *Work & Caring*, and *Hobbies & Pets* for more guidance.
+See _Work & Caring_, and _Hobbies & Pets_ for more guidance.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ARxkOE3SYx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/ARxkOE3SYx8" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
-
 
 # Minimising Hospital Risks
 
 Unfortunately complications do happen. The hospital is different to the place where you usually live and has different risks. Here are some suggestions to help reduce these risks.
 
-
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2zpjw67BciQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/2zpjw67BciQ" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 
 ## Medication
 
 Parkinson’s medication regimes can be very complicated. This is particularly so for those who are unfamiliar with them. Medication errors in hospital are unfortunately still too common. There are many initiatives out there to help reduce them. What can you do to help?
 
-* Make sure the team looking after you know you have Parkinson’s and know your usual medication regime, including the timings
-* Medication may be changed while you are in hospital. You are entitled to discuss any changes with the staff looking after you
-* If you notice a mistake with your medications, tell the staff looking after you
-* In general, if a question is about the reasons for a particular medication or medication change then ask the prescriber. This will usually be the doctor. If the question is about which tablet you are given, then ask the person giving it. This will usually be the nurse. Pharmacists may be able to help with both aspects
-* Your Parkinson’s medication should not be stopped suddenly. Some investigations and scans, and some operations (more detail below) need a period of fasting beforehand but Parkinson’s medication can usually still be given. If you have been told not to eat and drink (often referred to as Nil By Mouth, NBM) do question whether you can still have your Parkinson’s medication
+- Make sure the team looking after you know you have Parkinson’s and know your usual medication regime, including the timings
+- Medication may be changed while you are in hospital. You are entitled to discuss any changes with the staff looking after you
+- If you notice a mistake with your medications, tell the staff looking after you
+- In general, if a question is about the reasons for a particular medication or medication change then ask the prescriber. This will usually be the doctor. If the question is about which tablet you are given, then ask the person giving it. This will usually be the nurse. Pharmacists may be able to help with both aspects
+- Your Parkinson’s medication should not be stopped suddenly. Some investigations and scans, and some operations (more detail below) need a period of fasting beforehand but Parkinson’s medication can usually still be given. If you have been told not to eat and drink (often referred to as Nil By Mouth, NBM) do question whether you can still have your Parkinson’s medication
 
 ## Infection
 
 Acquiring infection in hospital is a risk. To reduce this:
 
-* Encourage your visitors to follow any local advice aimed at reducing spread of infection. This may include such activities as hand washing
-* Sometimes being ill distracts from normal hygiene habits you have. So you might have to think more actively about personal hygiene, such as washing hands after using the toilet. Ask for help if needed to carry out these activities
+- Encourage your visitors to follow any local advice aimed at reducing spread of infection. This may include such activities as hand washing
+- Sometimes being ill distracts from normal hygiene habits you have. So you might have to think more actively about personal hygiene, such as washing hands after using the toilet. Ask for help if needed to carry out these activities
 
 ## Deconditioning
 
 Changes occur in the body during prolonged rest, such as during a hospital stay. Muscle strength, mobility, thinking and motivation can all deteriorate over time. These together can lead to someone being less able than they were before. Ways to reduce this:
 
-* Make sure you eat and drink well
-* Do as much as you can for yourself
-* Keep moving. If you are unable to walk around, then keep moving your arms and legs from within a chair or bed
-* Where possible, sit in a chair or walk in daytime and sleep in bed at night
-* If being active is causing pain, speak to the staff looking after you so they can address the pain, rather than let it stop you
+- Make sure you eat and drink well
+- Do as much as you can for yourself
+- Keep moving. If you are unable to walk around, then keep moving your arms and legs from within a chair or bed
+- Where possible, sit in a chair or walk in daytime and sleep in bed at night
+- If being active is causing pain, speak to the staff looking after you so they can address the pain, rather than let it stop you
 
 People often experience a poor appetite when unwell. Hospital meals may not be to your taste or not served at your usual time. However, to make sure your body has the strength it needs to recover, it is important to eat well. It is also important to maintain hydration, by drinking enough. Doing both these things can help to reduce the risk of complications. Tips for achieving this:
 
-* Can family or friends bring in different food to meet your taste and timing preferences? If so, let the hospital team know about it, particularly if you have particular dietary restrictions
-* Tell the ward staff if you need help eating or drinking
-* Ensure you have a drink at your bedside and have regular sips throughout the day
+- Can family or friends bring in different food to meet your taste and timing preferences? If so, let the hospital team know about it, particularly if you have particular dietary restrictions
+- Tell the ward staff if you need help eating or drinking
+- Ensure you have a drink at your bedside and have regular sips throughout the day
 
 Maintaining a healthy diet and good hydration whilst in hospital will also help prevent constipation. If you are getting constipated, tell the team looking after you sooner rather than later. They may prescribe medication for this, or advise on a higher fibre diet.
 
@@ -173,10 +193,10 @@ Maintaining a healthy diet and good hydration whilst in hospital will also help 
 
 The different environment, as well as changes in the body, lead to higher risk of falls in hospital. Having said that, it is important not to let fear of falls keep you in bed all of the time which risks deconditioning. Ways to reduce risk of falls in hospital:
 
-* Make sure ward staff know what help you need – whether that is equipment or a person
-* Make sure you know how to call for help. Most hospitals have an alarm system with a button to press
-* Wear appropriate footwear
-* Stand up slowly to reduce dizziness
+- Make sure ward staff know what help you need – whether that is equipment or a person
+- Make sure you know how to call for help. Most hospitals have an alarm system with a button to press
+- Wear appropriate footwear
+- Stand up slowly to reduce dizziness
 
 ## Delirium
 
@@ -184,24 +204,24 @@ Delirium is a dysfunction of the brain that can occur when the body is put under
 
 Typical causes include:
 
-* Infections and other medical problems
-* Medication
-* Abnormal blood chemistry (e.g. high or low blood sugar levels or blood calcium levels)
-* Pain
-* Dehydration
-* Sleep deprivation
-* Surgery/anaesthetic
+- Infections and other medical problems
+- Medication
+- Abnormal blood chemistry (e.g. high or low blood sugar levels or blood calcium levels)
+- Pain
+- Dehydration
+- Sleep deprivation
+- Surgery/anaesthetic
 
 Risk of delirium is much greater in hospital. This can be made worse by being in a different and unfamiliar environment.
 
 If you have delirium, things that help:
 
-* Staff and visitors should re-introduce themselves each time they interact
-* Staff and visitors can gently and regularly re-orientate you. This can be done by reminding you what day or time it is, where you are etc
-* Prompts to help you keep orientated: Clocks, date displays, newspapers and signs with names of people or the place
-* Viewing familiar things, such as photographs of loved ones
-* Try to maintain a normal day-night sleep-wake cycle. Avoid daytime naps if possible
-* Staying hydrated
+- Staff and visitors should re-introduce themselves each time they interact
+- Staff and visitors can gently and regularly re-orientate you. This can be done by reminding you what day or time it is, where you are etc
+- Prompts to help you keep orientated: Clocks, date displays, newspapers and signs with names of people or the place
+- Viewing familiar things, such as photographs of loved ones
+- Try to maintain a normal day-night sleep-wake cycle. Avoid daytime naps if possible
+- Staying hydrated
 
 # Undergoing surgery
 
@@ -235,8 +255,8 @@ Visitors should wash their hands or use cleaning gel on entering and exiting the
 
 If you are not happy about your care, you can consider talking to the team looking after you. All hospitals will have procedures in place for dealing with incidents that occur in hospital. These are also in place to deal with complaints or compliments that are made. You can ask the team looking after you to direct you to more information, or there are some national organisations who help:
 
-- **England** – PALS: Patient Advice & Liaison Service  
-- **Scotland** – PASS: Patient Advice & Support Service  
+- **England** – PALS: Patient Advice & Liaison Service
+- **Scotland** – PASS: Patient Advice & Support Service
 - **Wales** – Community Health Council
 
 Other advocates include charities e.g. Parkinson’s UK and the advocacy and information service POhWER. Also your local healthwatch can help.  
@@ -256,7 +276,8 @@ This will consider tasks you undertake in your daily life. The professional who 
 
 ## My Experience
 
-People affected by Parkinson’s describe their experiences.  
+People affected by Parkinson’s describe their experiences.
+
 > So, they said they could make sure he can get up a couple of steps. And I think the stair-lift had to be fitted before he come home. And they had to assess the house and all that. (Carer of someone with Parkinson’s)
 
 ## Medication
@@ -271,9 +292,14 @@ You may need further medical input to follow-up after your admission. This may b
 Note it is important to communicate any changes in your living arrangements. This is to make sure that information is sent to the correct place for you to receive it. You may have changed your address or plan to be staying with someone else for a time after discharge, for example.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O9en95pZTnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/O9en95pZTnQ" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
-
 
 ## Decision making
 
@@ -288,21 +314,30 @@ Some people will have a Power of attorney in place, in which case the healthcare
 If someone has a mental health problem that causes them to be at serious risk to themselves or others, then a legal framework may be used to make some health decisions for them. This could be to stay in hospital, or for treatment for the mental health problem. The law that is followed is the Mental Health Act.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KHJKq0lIHfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/KHJKq0lIHfc" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 
 ## More Information
 
 Please look at the bottom of the table for further information about call charges
 
-| Organisation        | Information about | Phone Number | Website |
-|---------------------|-------------------|----------------|---------|
-| **Age UK** | Advice about a range of topics, including your hospital stay and leaving hospital. Discusses packing for hospital, emergencies, benefits, assessment for support, arranging care at home and the discharge process. There is also information about making complaints about the NHS. | 0800 678 1602 Free helpline: open 8am-7pm | - Hospital Stay: www.ageuk.org.uk/information-advice/health-wellbeing/health-services/your-hospital-stay/ <br> - Leaving Hospital: www.ageuk.org.uk/information-advice/health-wellbeing/health-services/leaving-hospital/ <br> - Complaints: www.ageuk.org.uk/information-advice/health-wellbeing/health-services/nhs-complaints/ |
-| **Local Healthwatch** | You can find your local healthwatch by entering your postcode in the search function. They listen to your complaints and compliments about health and social care services. | 03000 683 000* | https://www.healthwatch.co.uk/your-local-healthwatch/list |
-| **NHS** | The NHS website offers compact information about the complaints process in England. For Wales please see Community Health Council (above). For Scotland please see ‘PASS’ (below). There is also information about social services if you need to go to hospital and have dependents. | | - PALS: www.nhs.uk/common-health-questions/nhs-services-and-treatments/what-is-pals-patient-advice-and-liaison-service/ <br> - Social Services: www.nhs.uk/conditions/social-care-and-support-guide/ |
-| **Parkinson’s UK** | They have lots of information in relation to Parkinson’s and hospitals. This ranges from preparing for hospital stays and surgeries to leaving hospital. This information is available online, to print or you can have it mailed to you. You can also call them to get further support. | 0808 800 0303 Free helpline: open 9am-7pm (Mon-Fri), 10am-2pm (Sat) | - Going into hospital with Parkinson’s: www.parkinsons.org.uk/information-and-support/going-hospital-when-you-have-parkinsons <br> - Preparing for Hospital Stay: www.parkinsons.org.uk/information-and-support/preparing-hospital-stay <br> - Preparing for Surgery: www.parkinsons.org.uk/information-and-support/going-hospital-surgery <br> - During your Hospital Stay: www.parkinsons.org.uk/information-and-support/during-your-stay-hospital <br> - Managing Medication in Hospital: www.parkinsons.org.uk/information-and-support/managing-your-medication-hospital <br> - Leaving Hospital: www.parkinsons.org.uk/information-and-support/leaving-hospital |
-| **POhWER** | Provides information about the NHS Complaints process and outlines each step. They also offer advice about whether you should make a complaint and answer any questions about the process. | 0300 456 2370* | www.pohwer.net/nhs-complaints-advocacy |
-| **UCL Decision Aid** | This is a form to help you with Decision Aid during the Coronavirus Pandemic. It has information about it and spaces to enter existing care plans. | | www.ucl.ac.uk/psychiatry/decision-aid |
+| Organisation          | Information about                                                                                                                                                                                                                                                                        | Phone Number                                                        | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Age UK**            | Advice about a range of topics, including your hospital stay and leaving hospital. Discusses packing for hospital, emergencies, benefits, assessment for support, arranging care at home and the discharge process. There is also information about making complaints about the NHS.     | 0800 678 1602 Free helpline: open 8am-7pm                           | - Hospital Stay: www.ageuk.org.uk/information-advice/health-wellbeing/health-services/your-hospital-stay/ <br> - Leaving Hospital: www.ageuk.org.uk/information-advice/health-wellbeing/health-services/leaving-hospital/ <br> - Complaints: www.ageuk.org.uk/information-advice/health-wellbeing/health-services/nhs-complaints/                                                                                                                                                                                                                                                                                                                                    |
+| **Local Healthwatch** | You can find your local healthwatch by entering your postcode in the search function. They listen to your complaints and compliments about health and social care services.                                                                                                              | 03000 683 000\*                                                     | https://www.healthwatch.co.uk/your-local-healthwatch/list                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **NHS**               | The NHS website offers compact information about the complaints process in England. For Wales please see Community Health Council (above). For Scotland please see ‘PASS’ (below). There is also information about social services if you need to go to hospital and have dependents.    |                                                                     | - PALS: www.nhs.uk/common-health-questions/nhs-services-and-treatments/what-is-pals-patient-advice-and-liaison-service/ <br> - Social Services: www.nhs.uk/conditions/social-care-and-support-guide/                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Parkinson’s UK**    | They have lots of information in relation to Parkinson’s and hospitals. This ranges from preparing for hospital stays and surgeries to leaving hospital. This information is available online, to print or you can have it mailed to you. You can also call them to get further support. | 0808 800 0303 Free helpline: open 9am-7pm (Mon-Fri), 10am-2pm (Sat) | - Going into hospital with Parkinson’s: www.parkinsons.org.uk/information-and-support/going-hospital-when-you-have-parkinsons <br> - Preparing for Hospital Stay: www.parkinsons.org.uk/information-and-support/preparing-hospital-stay <br> - Preparing for Surgery: www.parkinsons.org.uk/information-and-support/going-hospital-surgery <br> - During your Hospital Stay: www.parkinsons.org.uk/information-and-support/during-your-stay-hospital <br> - Managing Medication in Hospital: www.parkinsons.org.uk/information-and-support/managing-your-medication-hospital <br> - Leaving Hospital: www.parkinsons.org.uk/information-and-support/leaving-hospital |
+| **POhWER**            | Provides information about the NHS Complaints process and outlines each step. They also offer advice about whether you should make a complaint and answer any questions about the process.                                                                                               | 0300 456 2370\*                                                     | www.pohwer.net/nhs-complaints-advocacy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **UCL Decision Aid**  | This is a form to help you with Decision Aid during the Coronavirus Pandemic. It has information about it and spaces to enter existing care plans.                                                                                                                                       |                                                                     | www.ucl.ac.uk/psychiatry/decision-aid                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 \* Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.
+
+```
+
 ```

@@ -1,4 +1,3 @@
-
 ## Introduction
 
 Some people with Parkinson’s withdraw from social activities. This can make the person feel more isolated and lower in mood.
@@ -6,7 +5,13 @@ Some people with Parkinson’s withdraw from social activities. This can make th
 Connecting with others can give you a sense of belonging and reduce loneliness, which are vital for health and wellbeing. Talking with friends and family about your condition can be a great form of support. It’s important to build and maintain positive relationships with those around you.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SRm8DqAg8hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/SRm8DqAg8hk" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 
 ---
@@ -18,22 +23,28 @@ Connecting with others can give you a sense of belonging and reduce loneliness, 
 **Ways to stay connected:**
 
 <div class="video-container">
-<iframe width="560" height="315" src=""https://www.youtube.com/embed/RwKmOjpAK4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/RwKmOjpAK4Y" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 
-* See other people when you can. For many people who live alone, they can feel more connected by simple things like going to the shops, a café or a local park regularly. Occasional conversations with neighbours or others around you can help you feel connected to your local community. This is shown to help with your overall well-being.
+- See other people when you can. For many people who live alone, they can feel more connected by simple things like going to the shops, a café or a local park regularly. Occasional conversations with neighbours or others around you can help you feel connected to your local community. This is shown to help with your overall well-being.
 
-* Make time for friends and family by keeping in regular contact, by phone, video call or in person. This is an important step for strengthening your relationships. If you don’t do this already, maybe try to arrange a regular time or point in your routine to keep in touch. You could choose a regular time when you don’t have as much to do (e.g. weekends) and when you think you would have more energy to talk.
+- Make time for friends and family by keeping in regular contact, by phone, video call or in person. This is an important step for strengthening your relationships. If you don’t do this already, maybe try to arrange a regular time or point in your routine to keep in touch. You could choose a regular time when you don’t have as much to do (e.g. weekends) and when you think you would have more energy to talk.
 
-* Talk about how you feel to loved ones. Being open about your feelings can help you feel listened to and supported.
+- Talk about how you feel to loved ones. Being open about your feelings can help you feel listened to and supported.
 
-* If possible, consider joining a local group offering something you enjoy, such as drawing, creative writing, or singing. This will help you meet and connect with others with a shared interest. Many activities are offering an online alternative. You can explore options by typing in your postcode on [www.gov.uk/find-a-community-support-group-or-organisation](https://www.gov.uk/find-a-community-support-group-or-organisation)
+- If possible, consider joining a local group offering something you enjoy, such as drawing, creative writing, or singing. This will help you meet and connect with others with a shared interest. Many activities are offering an online alternative. You can explore options by typing in your postcode on [www.gov.uk/find-a-community-support-group-or-organisation](https://www.gov.uk/find-a-community-support-group-or-organisation)
 
-* Access peer support. Talking to people who share similar feelings or experiences can help you to feel understood. By going to a Parkinson’s support group you can share with and learn from other people living with Parkinson’s, who are likely to be facing similar problems to you. Visit the Parkinson’s UK website to find your local groups. They offer a range of groups, including those for people of working age. You can also use the Parkinson’s UK online forum which offers the space for you to talk to others affected by Parkinson’s.
+- Access peer support. Talking to people who share similar feelings or experiences can help you to feel understood. By going to a Parkinson’s support group you can share with and learn from other people living with Parkinson’s, who are likely to be facing similar problems to you. Visit the Parkinson’s UK website to find your local groups. They offer a range of groups, including those for people of working age. You can also use the Parkinson’s UK online forum which offers the space for you to talk to others affected by Parkinson’s.
 
-* Use the internet and social media. If you are not already doing this, the internet offers many ways to stay connected, from staying in touch with family to finding local events. You can re-connect with old friends using social network sites (e.g. Facebook) or connect with younger family members using their favourite social media App (e.g. Snapchat). You could create a ‘group chat’ for family or friends using a messaging App (e.g. WhatsApp). You could also use online forums to find people with similar interests. If you would like to learn how to use a computer, contact your local library or council. Or contact Age UK, who offer local training sessions.
+- Use the internet and social media. If you are not already doing this, the internet offers many ways to stay connected, from staying in touch with family to finding local events. You can re-connect with old friends using social network sites (e.g. Facebook) or connect with younger family members using their favourite social media App (e.g. Snapchat). You could create a ‘group chat’ for family or friends using a messaging App (e.g. WhatsApp). You could also use online forums to find people with similar interests. If you would like to learn how to use a computer, contact your local library or council. Or contact Age UK, who offer local training sessions.
 
-* If you are feeling very lonely, there are services that can help. Most GP practices now have access to a link worker. This person can help you to find something that suits you to help with feeling lonely. You can ask your GP practice reception about this. Some areas have services to connect you to volunteers who can help too. You can also call **The Silver Line** on **0800 4 70 80 90**, which is a confidential service open 24 hours a day, 7 days a week. It is designed to offer conversation, friendship, provide advice and link callers to local groups or services.
+- If you are feeling very lonely, there are services that can help. Most GP practices now have access to a link worker. This person can help you to find something that suits you to help with feeling lonely. You can ask your GP practice reception about this. Some areas have services to connect you to volunteers who can help too. You can also call **The Silver Line** on **0800 4 70 80 90**, which is a confidential service open 24 hours a day, 7 days a week. It is designed to offer conversation, friendship, provide advice and link callers to local groups or services.
 
 ---
 
@@ -44,9 +55,14 @@ Video calls can also be a great way of keeping in touch with friends and family 
 If reduced mobility is making access to shops and to social gatherings more difficult, then you could be eligible for a **Blue Badge** which will entitle you to priority parking. See our **Travel** page for more information on the Blue Badge Scheme. You can also visit your **council website** and **Parkinson’s UK website** for more information and guidance.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dc0gmPtBVAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/dc0gmPtBVAU" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
-
 
 ## My Experience
 
@@ -71,7 +87,13 @@ When you feel ready, you may wish to have an honest conversation with your frien
 It may be tempting to withdraw from friendships. However, it’s important to stay connected with those around you as they can be a great source of happiness and support.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ihhGCtm4GQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/ihhGCtm4GQI" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 ---
 
@@ -80,7 +102,13 @@ It may be tempting to withdraw from friendships. However, it’s important to st
 If you have Parkinson’s, or are caring for someone who does, you may find it affects your relationships. But there are things you can do which may help you either improve or adjust to these changes.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q9Zek8o9E_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/q9Zek8o9E_s" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 
 #### First reactions
@@ -105,11 +133,11 @@ When someone has Parkinson’s, it is common for relationship roles to change. F
 
 **Tips:**
 
-* Maintain a sense of independence. Give yourselves time to do activities separately as well as together
-* Take chances to reverse the caring role. For example, the person with Parkinson’s providing their partner with emotional or intellectual support
-* Find activities that remind you that you are both equals, for example watching a film or socialising with friends
-* Keep communicating with each other. Parkinson’s can affect communication in different ways, whether it’s verbal, written, or facial expressions. But it’s important to try to keep these channels open as much as possible
-* Ask for help if you’re finding it hard to manage problems. Professionals such as Parkinson’s specialist nurses, counsellors, and psychologists can offer support and guidance.
+- Maintain a sense of independence. Give yourselves time to do activities separately as well as together
+- Take chances to reverse the caring role. For example, the person with Parkinson’s providing their partner with emotional or intellectual support
+- Find activities that remind you that you are both equals, for example watching a film or socialising with friends
+- Keep communicating with each other. Parkinson’s can affect communication in different ways, whether it’s verbal, written, or facial expressions. But it’s important to try to keep these channels open as much as possible
+- Ask for help if you’re finding it hard to manage problems. Professionals such as Parkinson’s specialist nurses, counsellors, and psychologists can offer support and guidance.
 
 ---
 
@@ -119,36 +147,42 @@ If you are in a relationship, sexual problems can affect both the person with Pa
 
 Changes in sexual relationships can happen to any couple at any time, regardless of whether someone has a long-term condition. These challenges may resolve themselves. But, if this is not the case, a couple may wish to try:
 
-* Making adjustments which take into account changing physical abilities
-* Redefining expectations to fit with the circumstances at hand
+- Making adjustments which take into account changing physical abilities
+- Redefining expectations to fit with the circumstances at hand
 
 If you both feel comfortable, it can help to have open, but sensitive, discussions about your desires and limitations when it comes to sex. This may make it easier to face the challenges and find solutions that work for you both.
 
 For more information on Parkinson’s and sexual function, see our **Sexual Function** page.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBt7R9lIZSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/RBt7R9lIZSA" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 
 ---
 
 ## Where can I go for information and support?
 
-* **Relationship counselling** – counsellors can work with couples and individuals (meaning you can go alone if you’re single or your partner does not wish to take part)
+- **Relationship counselling** – counsellors can work with couples and individuals (meaning you can go alone if you’re single or your partner does not wish to take part)
 
-  * Ask your GP for services available in your area
-  * Contact your local ‘Relate’ centre - visit their website to find your nearest Relate and give them a call. You can find the link in our More Information section.
+  - Ask your GP for services available in your area
+  - Contact your local ‘Relate’ centre - visit their website to find your nearest Relate and give them a call. You can find the link in our More Information section.
 
-* **Counselling and psychotherapy for sexual problems**
+- **Counselling and psychotherapy for sexual problems**
 
-  * Counselling or psychotherapy provides a safe space to talk openly about any sexual problems you’re experiencing. It can help you to find ways of making changes
-  * Ask your GP for services available in your local area.
+  - Counselling or psychotherapy provides a safe space to talk openly about any sexual problems you’re experiencing. It can help you to find ways of making changes
+  - Ask your GP for services available in your local area.
 
-* **Psychosexual therapy**
+- **Psychosexual therapy**
 
-  * A psychosexual therapist is trained in all aspects of sex. They can help you to understand the effects of things like medication and illness on sex
-  * You can see a psychosexual therapist on your own or as a couple
-  * Ask your GP for services available in your area.
+  - A psychosexual therapist is trained in all aspects of sex. They can help you to understand the effects of things like medication and illness on sex
+  - You can see a psychosexual therapist on your own or as a couple
+  - Ask your GP for services available in your area.
 
 ---
 
@@ -157,7 +191,13 @@ For more information on Parkinson’s and sexual function, see our **Sexual Func
 Spirituality and religion varies from person to person. It can provide someone with a sense of comfort and support. Your faith leader and community can be a great source of practical and emotional support.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m6d_Bv5juyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/m6d_Bv5juyw" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 
 ---
@@ -167,10 +207,9 @@ Spirituality and religion varies from person to person. It can provide someone w
 People affected by Parkinson’s describe their experiences.
 
 > “I’m a Christian and I’m quite involved with our church and I spend a lot of time with people. And because I am sitting a lot of the time, people actually confide in me and like coming here, you know, and spending time in my home. I wouldn’t be able to do that if I was working. So these are the things that I have got to think positively about.”
-> *(Person with Parkinson’s)*
+> _(Person with Parkinson’s)_
 
 If you have Parkinson’s, or care for someone that does, it can be difficult to attend religious meetings, due to practical and emotional challenges. There are many benefits of staying connected with your religious group/meetings so explore ways to overcome barriers to attending these (e.g. ask a friend to support you attending). If you need to arrange transport to attend religious gatherings, see our **Travel** page for advice. In response to the Coronavirus pandemic, many places of worship have offered online services, which are a great help to those with mobility difficulties.
-
 
 ## Fasting
 
@@ -180,9 +219,9 @@ Fasting may cause someone with Parkinson's to have **dehydration**, **weight los
 
 You should speak with your **specialist** if you are planning on fasting. They may be able to suggest adjustments to your treatment, including:
 
-* **Extended-release dopamine agonists**
+- **Extended-release dopamine agonists**
   Due to the slow release of the drug, you only need to take it once a day (e.g. at dawn before the start of the fasting period)
-* **Transdermal patch**
+- **Transdermal patch**
   This delivers the medication through the skin directly into the bloodstream. As the drug is delivered without entering the gastrointestinal tract, the patch can be used without breaking the fast
 
 These adjustments will not be suitable for everyone. Options will vary depending on the severity of the condition and current medications. Your specialist can assess this and discuss what adjustments will be suitable for you.
@@ -190,13 +229,19 @@ These adjustments will not be suitable for everyone. Options will vary depending
 You should have a **consultation one month after** the end of a period of fasting like Ramadan. The specialist can then make sure control of the condition has been regained. They can also make any further adjustments to treatment if needed.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JvkozIL8a5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/JvkozIL8a5c" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 ---
 
 ## More Information
 
-*Please look at the bottom of the table for further information about call charges.*
+_Please look at the bottom of the table for further information about call charges._
 
 | **Organisation**                                                                                                    | **Information about Organisation**                                                                                                                                                                                                                                                                                                                                                                                     | **Phone Number**                                                    | **Website**                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -212,4 +257,4 @@ You should have a **consultation one month after** the end of a period of fastin
 | Calls cost up to 10p/minute from landlines, between 3p–40p/minute from mobile phones.                               | [Help with Relationships](https://www.relate.org.uk/relationship-help/help-relationships)                                                                                                                                                                                                                                                                                                                              |                                                                     |                                                                                                                           |
 | [Help with Sex](https://www.relate.org.uk/relationship-help/help-sex)                                               |                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                     |                                                                                                                           |
 | **The Silver Line**                                                                                                 | This is a helpline for older people, providing friendship, information and advice.                                                                                                                                                                                                                                                                                                                                     | 0800 4 70 80 90                                                     |                                                                                                                           |
-| Free, Open 24 hours a day.                                                                                          | [The Silver Line](https://www.thesilverline.org.uk)                                                                                                                                                                                                                                                                                                                                                                    |            
+| Free, Open 24 hours a day.                                                                                          | [The Silver Line](https://www.thesilverline.org.uk)                                                                                                                                                                                                                                                                                                                                                                    |

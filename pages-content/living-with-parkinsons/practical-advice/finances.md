@@ -1,13 +1,16 @@
-
 ## Introduction
 
 Having Parkinson’s, or caring for someone who does, can impact on your finances. For example, you may need to reduce your hours at work or pay for cleaners or special equipment in the home. Managing financially may become more difficult as the condition progresses. There is some help available so it can help to know what you might be entitled to.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ahgvyV3Zeyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/ahgvyV3Zeyk" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
-
-
 
 ---
 
@@ -15,11 +18,11 @@ Having Parkinson’s, or caring for someone who does, can impact on your finance
 
 Some symptoms of Parkinson’s may affect how you manage your money. They might include:
 
-* Difficulties signing documents due to, for example, tremor
-* Mobility problems may prevent you being able to go to the bank or cashpoint
-* Speech problems may make paying by phone challenging
-* Memory and thinking problems may make it difficult to do calculations or planning for payments
-* You may miss bill payments due to being in hospital
+- Difficulties signing documents due to, for example, tremor
+- Mobility problems may prevent you being able to go to the bank or cashpoint
+- Speech problems may make paying by phone challenging
+- Memory and thinking problems may make it difficult to do calculations or planning for payments
+- You may miss bill payments due to being in hospital
 
 ---
 
@@ -27,28 +30,32 @@ Some symptoms of Parkinson’s may affect how you manage your money. They might 
 
 If you are struggling to manage your finances, you may find these suggestions helpful:
 
-* Manage any debts – this is important as they may get worse – talk to a helpful service such as Citizens Advice or StepChange.
-* Try to save regularly, setting up monthly payments into a savings account. Whenever you have a pay or pension increase, try to increase the amount you save; but don’t skimp on things like heating or food.
-* To work out how much you can save, keep a note of all spending for a month. You can then set a budget that covers the essentials and see how much is left to put into savings. If you have access to the internet you can set up online bank accounts to make payments and manage finances. This would reduce the need to visit the bank or speak over the phone. Online accounts require passwords in order to access them. If you have difficultly remembering passwords, think about ways of storing password information securely (e.g. through a password management app on your mobile phone).
-* If you have difficulty writing your signature on bank documents, a facsimile signature stamp may be useful. This can be used to create a legal signature with a rubber stamp meaning you no longer need to physically write your signature. Most companies will require a copy of your signature which will then be used this to customise your portable stamp. You can buy these online (e.g., from Amazon).
-* Symptoms such as tremor may make it difficult for you to retrieve your credit/debit cards from your purse or wallet. If this is the case, it might be helpful to use an automatic pop-up card wallet. These wallets have a small lever (usually at the bottom) which slides your cards out in order without them falling out, making them easily accessible.
-* Consider appointing a Finance and Property Lasting Power of Attorney (LPA).
+- Manage any debts – this is important as they may get worse – talk to a helpful service such as Citizens Advice or StepChange.
+- Try to save regularly, setting up monthly payments into a savings account. Whenever you have a pay or pension increase, try to increase the amount you save; but don’t skimp on things like heating or food.
+- To work out how much you can save, keep a note of all spending for a month. You can then set a budget that covers the essentials and see how much is left to put into savings. If you have access to the internet you can set up online bank accounts to make payments and manage finances. This would reduce the need to visit the bank or speak over the phone. Online accounts require passwords in order to access them. If you have difficultly remembering passwords, think about ways of storing password information securely (e.g. through a password management app on your mobile phone).
+- If you have difficulty writing your signature on bank documents, a facsimile signature stamp may be useful. This can be used to create a legal signature with a rubber stamp meaning you no longer need to physically write your signature. Most companies will require a copy of your signature which will then be used this to customise your portable stamp. You can buy these online (e.g., from Amazon).
+- Symptoms such as tremor may make it difficult for you to retrieve your credit/debit cards from your purse or wallet. If this is the case, it might be helpful to use an automatic pop-up card wallet. These wallets have a small lever (usually at the bottom) which slides your cards out in order without them falling out, making them easily accessible.
+- Consider appointing a Finance and Property Lasting Power of Attorney (LPA).
 
-  * This would allow your chosen person(s) to deal with financial matters if you are not able to make decisions for yourself. This includes paying bills, deciding how to spend your money, collecting pensions, and managing bank or building society accounts.
-  * It’s important to apply for LPA while you still have mental capacity (you’re able to make decisions). If you lose decision-making capacity before having an LPA in place, someone will have to apply to the Court of Protection to manage your money. This can be a slow and expensive process.
-  * See our *Legal Matters* page for more information about the different types of LPA and how to set these up.
+  - This would allow your chosen person(s) to deal with financial matters if you are not able to make decisions for yourself. This includes paying bills, deciding how to spend your money, collecting pensions, and managing bank or building society accounts.
+  - It’s important to apply for LPA while you still have mental capacity (you’re able to make decisions). If you lose decision-making capacity before having an LPA in place, someone will have to apply to the Court of Protection to manage your money. This can be a slow and expensive process.
+  - See our _Legal Matters_ page for more information about the different types of LPA and how to set these up.
 
 ---
 
 ## Government Benefits
 
-There are a number of benefits you may be entitled to. These can help with extra costs of living with Parkinson’s. If you find these complicated don’t worry, there are several sources of help available – see the *More Information* section for more details.
-
+There are a number of benefits you may be entitled to. These can help with extra costs of living with Parkinson’s. If you find these complicated don’t worry, there are several sources of help available – see the _More Information_ section for more details.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LH1V-Of1tFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/LH1V-Of1tFA" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
-
 
 ### For People with Parkinson’s:
 
@@ -82,11 +89,10 @@ To be eligible to claim, you must:
 
 ✓ Be between the ages of 16 and State Pension age (you can check the State Pension age using the government online calculator)
 
-* You will be able to stay on PIP if you claimed it for the first time before you reached State Pension age. If you are State Pension age or above at the time of applying, you may be able to claim Attendance Allowance instead (see above)
+- You will be able to stay on PIP if you claimed it for the first time before you reached State Pension age. If you are State Pension age or above at the time of applying, you may be able to claim Attendance Allowance instead (see above)
   ✓ Have been present in the UK for 2 out of the last 3 years before claiming. This time condition does not apply if you are terminally ill.
   ✓ Be living in the UK, Channel Island, Republic of Ireland, or Isle of Man. You must not be prevented from claiming by your immigration status.
   ✓ Meet the disability conditions (concerning your daily living and mobility needs) which are looked at during a PIP assessment. You must have met the disability conditions for at least 3 months before eligibility for PIP and be likely to continue to meet the disability conditions for a period of 9 months. These time conditions do not apply if you are terminally ill.
-
 
 ## Disability Living Allowance (DLA)
 
@@ -94,8 +100,8 @@ DLA has been replaced by PIP for those between the ages of 16 and State Pension 
 
 If you already receive DLA:
 
-* If you were born on or before 8 April 1948, you’ll continue to receive DLA as long as you’re eligible for it.
-* If you were born after 8 April 1948, your DLA will end. You’ll receive a letter telling you when that will happen. You’ll continue to receive DLA until that date. Unless your circumstances change, you do not need to do anything until you get this letter.
+- If you were born on or before 8 April 1948, you’ll continue to receive DLA as long as you’re eligible for it.
+- If you were born after 8 April 1948, your DLA will end. You’ll receive a letter telling you when that will happen. You’ll continue to receive DLA until that date. Unless your circumstances change, you do not need to do anything until you get this letter.
 
 DLA is now aimed at children between the ages of 0 to 16 and looks for care and mobility problems which exceed the care and mobility needs of a child of the same age. This is a non means-tested benefit; the amount awarded is not dependent on your income or savings.
 
@@ -117,12 +123,12 @@ See extra information below for eligibility criteria for Carer’s Allowance.
 
 To be eligible to claim, the person they are caring for must already be receiving one of the following benefits:
 
-* Attendance Allowance
-* Personal Independence Payment (PIP) – daily living component (either rate)
-* Disability Living Allowance – the middle or highest care rate
-* Constant Attendance Allowance at or above the normal maximum rate with an Industrial Injuries Disablement Benefit
-* Constant Attendance Allowance at the basic (full day) rate with a War Disablement Pension
-* Armed Forces Independence Payment
+- Attendance Allowance
+- Personal Independence Payment (PIP) – daily living component (either rate)
+- Disability Living Allowance – the middle or highest care rate
+- Constant Attendance Allowance at or above the normal maximum rate with an Industrial Injuries Disablement Benefit
+- Constant Attendance Allowance at the basic (full day) rate with a War Disablement Pension
+- Armed Forces Independence Payment
 
 The carer must also:
 
@@ -154,11 +160,11 @@ Universal Credit is a means-tested benefit to cover basic living expenses for th
 
 Universal Credit replaces the following six existing benefits with a single payment:
 
-* Housing Benefit
-* Income-related Employment and Support Allowance (see below)
-* Income-based Jobseeker’s Allowance (see below)
-* Income Support
-* Working Tax Credit and Child Tax Credit
+- Housing Benefit
+- Income-related Employment and Support Allowance (see below)
+- Income-based Jobseeker’s Allowance (see below)
+- Income Support
+- Working Tax Credit and Child Tax Credit
 
 Since 2019, new claimants for a working-age means-tested benefit will need to apply for Universal Credit rather than the older benefits listed above.
 
@@ -180,8 +186,8 @@ Employment and Support Allowance can help if you’re not able to work as much d
 
 ESA is made up of two parts – contributory ESA and income-related ESA:
 
-* **Income-related ESA**: This has been replaced by Universal Credit.
-* **Contributory ESA**: This has now been replaced by ‘New Style ESA’ for new claimants. To be able to claim, you must have paid enough National Insurance contributions in specific tax years (National Insurance credits count). Payment of contributory ESA is often limited to 12 months.
+- **Income-related ESA**: This has been replaced by Universal Credit.
+- **Contributory ESA**: This has now been replaced by ‘New Style ESA’ for new claimants. To be able to claim, you must have paid enough National Insurance contributions in specific tax years (National Insurance credits count). Payment of contributory ESA is often limited to 12 months.
 
 This is a non means-tested benefit; the amount awarded is not dependent on your income or savings.
 
@@ -203,8 +209,8 @@ Jobseeker’s Allowance aims to help people who do not have a job or are working
 
 There are two forms of Jobseeker’s Allowance:
 
-* **Income-based**: This has been replaced by Universal Credit.
-* **Contribution-based**: Can be paid for up to 6 months, either in one period or several shorter periods. It is not means-tested but may be affected by part-time earnings or a workplace or personal pension.
+- **Income-based**: This has been replaced by Universal Credit.
+- **Contribution-based**: Can be paid for up to 6 months, either in one period or several shorter periods. It is not means-tested but may be affected by part-time earnings or a workplace or personal pension.
 
 **See extra information below about whether you are eligible for Jobseeker’s Allowance.**
 
@@ -223,8 +229,8 @@ You can receive SSP if you are employed but not able to work because of a health
 
 If you regularly have time off work due to sickness, these periods may count as ‘linked’. To be linked, sickness periods must:
 
-* Last 4 or more days each
-* Occur 8 weeks or less apart from each other.
+- Last 4 or more days each
+- Occur 8 weeks or less apart from each other.
 
 You will no longer be able to claim SSP if you have a continuous series of linked periods that lasts more than 3 years.
 
@@ -246,27 +252,33 @@ If you are off sick for more than 7 consecutive days you will need to provide a 
 ## For more information
 
 For more information on benefits and how to apply for them, visit **[GOV.UK: Benefits](https://www.gov.uk/browse/benefits)**.
-You can also get help and advice from the charity **Citizens Advice**. You can find links in our *More Information* section below.
+You can also get help and advice from the charity **Citizens Advice**. You can find links in our _More Information_ section below.
 
 ---
 
 ## VAT Relief
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2aFPUDFz1rE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/2aFPUDFz1rE" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 
 If you have a disability or long-term health condition, you should not be charged VAT on products designed or adapted for your own personal or domestic use. This includes:
 
-* Stair lifts, adjustable beds, wheelchairs, alarms, and building work (e.g. building ramps)
-* Installation, repairs, maintenance, or spare parts for equipment
+- Stair lifts, adjustable beds, wheelchairs, alarms, and building work (e.g. building ramps)
+- Installation, repairs, maintenance, or spare parts for equipment
 
 You can apply for VAT relief by:
 
-* Asking your supplier for a VAT relief form
-* Applying online when purchasing VAT-free items online
-* Downloading a form to take into a shop when you make a qualifying purchase
-* Visit **[www.gov.uk](https://www.gov.uk)** and search *“VAT relief”* or call HM Revenue & Customs (HMRC) on **0300 200 3700**
+- Asking your supplier for a VAT relief form
+- Applying online when purchasing VAT-free items online
+- Downloading a form to take into a shop when you make a qualifying purchase
+- Visit **[www.gov.uk](https://www.gov.uk)** and search _“VAT relief”_ or call HM Revenue & Customs (HMRC) on **0300 200 3700**
 
 ---
 
@@ -275,7 +287,7 @@ You can apply for VAT relief by:
 People affected by Parkinson’s describe their experiences.
 
 > “When we go to the mobility shop to buy things like walking sticks and wheelchairs, he doesn’t charge us VAT because \[partner] has Parkinson’s.”
-> — *Carer of someone with Parkinson’s*
+> — _Carer of someone with Parkinson’s_
 
 ---
 
@@ -287,11 +299,11 @@ People with Parkinson’s often need to pay multiple prescription charges. This 
 
 You can get **free prescriptions** if you or your partner receive any of the following, or if you’re under the age of 20 and the dependant of someone receiving any of the following:
 
-* Universal Credit
-* Income-related Employment and Support Allowance (ESA)
-* Income Support
-* Income-based Jobseeker’s Allowance
-* Pension Credit
+- Universal Credit
+- Income-related Employment and Support Allowance (ESA)
+- Income Support
+- Income-based Jobseeker’s Allowance
+- Pension Credit
 
 If you are age 60 or over you are entitled to free prescriptions. If you have a long-term physical disability that prevents you from leaving home without help from someone else, you can also get free prescriptions regardless of age.
 
@@ -300,9 +312,14 @@ You can apply for medical exemption via the **FP92A application form**, which yo
 To check if you’re entitled to free NHS prescriptions and help with other NHS costs, you can use the **[online NHS eligibility checker](https://www.nhsbsa.nhs.uk/check-if-youre-eligible-help).**
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZNU7HCv4mnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/ZNU7HCv4mnM" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
-
 
 ---
 
@@ -319,14 +336,14 @@ This scheme is run by the NHS Business Services Authority. It aims to help with 
 
 You can receive:
 
-* Full help (HC2 certificate)
-* Partial help (HC3 certificate)
+- Full help (HC2 certificate)
+- Partial help (HC3 certificate)
 
 **See extra information below about how to apply for the NHS Low Income Scheme.**
 
-* You will need to complete an **HC1 application form**, which you can get online or from NHS hospitals, dentists, opticians, and Jobcentres.
-* You can also call **0345 603 1108** and select the option for ‘health publications’ to get a copy sent to you with a pre-paid return envelope.
-* For further guidance on how to apply, visit the **NHS Business Services Authority** website.
+- You will need to complete an **HC1 application form**, which you can get online or from NHS hospitals, dentists, opticians, and Jobcentres.
+- You can also call **0345 603 1108** and select the option for ‘health publications’ to get a copy sent to you with a pre-paid return envelope.
+- For further guidance on how to apply, visit the **NHS Business Services Authority** website.
 
 ---
 
@@ -336,8 +353,8 @@ If you do not qualify for free prescriptions and need prescription items regular
 
 **Ways you can buy a PPC:**
 
-* Online – visit the NHS Business Services Authority website (this is recommended as the quickest way). You can find details in our *More Information* section.
-* Telephone: **0300 330 1341**
+- Online – visit the NHS Business Services Authority website (this is recommended as the quickest way). You can find details in our _More Information_ section.
+- Telephone: **0300 330 1341**
 
 ## Prescription Charges / Prescription Prepayment Certificate (PPC)
 
@@ -347,11 +364,11 @@ People with Parkinson’s often need to pay multiple prescription charges. This 
 
 You can get **free prescriptions** if you or your partner receive any of the following, or if you’re under the age of 20 and the dependant of someone receiving any of the following:
 
-* Universal Credit
-* Income-related Employment and Support Allowance (ESA)
-* Income Support
-* Income-based Jobseeker’s Allowance
-* Pension Credit
+- Universal Credit
+- Income-related Employment and Support Allowance (ESA)
+- Income Support
+- Income-based Jobseeker’s Allowance
+- Pension Credit
 
 If you are age 60 or over you are entitled to free prescriptions. If you have a long-term physical disability that prevents you from leaving home without help from someone else, you can also get free prescriptions regardless of age. You can apply for medical exemption via the **FP92A application form**, which you can get from your doctor, pharmacist, or hospital.
 
@@ -373,14 +390,14 @@ This scheme is run by the NHS Business Services Authority. It aims to help with 
 
 You can receive:
 
-* Full help (HC2 certificate)
-* Partial help (HC3 certificate)
+- Full help (HC2 certificate)
+- Partial help (HC3 certificate)
 
 **See extra information below about how to apply for the NHS Low Income Scheme.**
 
-* You will need to complete an **HC1 application form**, which you can get online or from NHS hospitals, dentists, opticians, and Jobcentres.
-* You can also call **0345 603 1108** and select the option for ‘health publications’ to get a copy sent to you with a pre-paid return envelope.
-* For further guidance on how to apply, visit the **NHS Business Services Authority** website.
+- You will need to complete an **HC1 application form**, which you can get online or from NHS hospitals, dentists, opticians, and Jobcentres.
+- You can also call **0345 603 1108** and select the option for ‘health publications’ to get a copy sent to you with a pre-paid return envelope.
+- For further guidance on how to apply, visit the **NHS Business Services Authority** website.
 
 ---
 
@@ -390,8 +407,8 @@ If you do not qualify for free prescriptions and need prescription items regular
 
 **Ways you can buy a PPC:**
 
-* **Online** – visit the NHS Business Services Authority website (this is recommended as the quickest way). You can find details in our *More Information* section.
-* **Telephone**: 0300 330 1341
+- **Online** – visit the NHS Business Services Authority website (this is recommended as the quickest way). You can find details in our _More Information_ section.
+- **Telephone**: 0300 330 1341
 
 ---
 
@@ -410,7 +427,13 @@ To qualify for help under this scheme, you must meet the following criteria:
 Visit the NHS website ([www.nhs.uk](https://www.nhs.uk)) for more information about help with travel costs under the HTCS.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n1uxer0VLNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/n1uxer0VLNY" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
 
 ---
@@ -423,11 +446,15 @@ Funding for equipment depends on the type of equipment you need and what funding
 
 Some local **British Red Cross** groups can loan out equipment, including wheelchairs. They may deliver and collect the equipment for you at an extra charge if you can’t travel to your local store.
 
-
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6mpOB0xTnx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/6mpOB0xTnx4" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
-
 
 ---
 
@@ -437,7 +464,7 @@ Occupational therapists may be able to help you to arrange funding for minor hom
 
 If you need major changes to your home (e.g. an extension, fixed hoists), you may be able to claim a **Disabled Facilities Grant**. For this, an occupational therapist will assess your needs and contact the relevant local authority departments about the necessary changes. Funding for major home adaptations is often **means-tested**. This means the amount of funding you receive depends on how much money you have, including any savings.
 
-To read more about the Disabled Facilities Grant, visit **GOV.UK**. For more information on equipment and home adaptations, see our *Housing* page.
+To read more about the Disabled Facilities Grant, visit **GOV.UK**. For more information on equipment and home adaptations, see our _Housing_ page.
 
 ---
 
@@ -468,17 +495,16 @@ To be eligible, you must:
 
 There is no application form for CHC. Instead, professionals carry out an **assessment** to determine your care needs. If granted, the funding will be **reviewed every 3 months** as it is not given on a permanent basis.
 
-For more information about CHC, see the **public information leaflet** (linked in our *More Information* section) provided by the Department of Health and Social Care. You may like to seek help with whether you might be eligible from national helping agencies (see list below) or **Citizens Advice**.
-
+For more information about CHC, see the **public information leaflet** (linked in our _More Information_ section) provided by the Department of Health and Social Care. You may like to seek help with whether you might be eligible from national helping agencies (see list below) or **Citizens Advice**.
 
 # More Information
 
 | Organisation                             | Information about                                                                                            | Phone Number & Hours                                              | Website(s)                                                                                                                                                                                                                                                                                         |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Age UK**                               | Provides money and legal advice for older adults. This includes avoiding scams, managing money and benefits. | 0800 678 1602<br>Free Helpline: open 8am–7pm                      | [www.ageuk.org.uk/information-advice/money-legal/](https://www.ageuk.org.uk/information-advice/money-legal/)                                                                                                                                                                                       |
-| **Beacon**                               | This organisation can help you navigate NHS Continuing Healthcare funding.                                   | 0345 548 0300<br>*Up to 90 minutes of free advice.*               | [www.beaconchc.co.uk](https://www.beaconchc.co.uk)                                                                                                                                                                                                                                                 |
+| **Beacon**                               | This organisation can help you navigate NHS Continuing Healthcare funding.                                   | 0345 548 0300<br>_Up to 90 minutes of free advice._               | [www.beaconchc.co.uk](https://www.beaconchc.co.uk)                                                                                                                                                                                                                                                 |
 | **Carers UK**                            | Offers advice and information for carers on various topics including finances and Carer’s Allowance.         | 0808 808 7777<br>Helpline is open 9am–6pm (Mon–Fri)               | [www.carersuk.org](https://www.carersuk.org)<br>[Carer’s Allowance Factsheet](https://www.carersuk.org/help-and-advice/financial-support/help-with-benefits/carers-allowance)                                                                                                                      |
-| **Citizens Advice**                      | Provides advice for various issues. You can find a local branch via postcode search, chat online, or call.   | 03444 111 444<br>*Helpline open 9am–5pm (Mon–Fri)*                | [www.citizensadvice.org.uk](https://www.citizensadvice.org.uk)                                                                                                                                                                                                                                     |
+| **Citizens Advice**                      | Provides advice for various issues. You can find a local branch via postcode search, chat online, or call.   | 03444 111 444<br>_Helpline open 9am–5pm (Mon–Fri)_                | [www.citizensadvice.org.uk](https://www.citizensadvice.org.uk)                                                                                                                                                                                                                                     |
 | **Department of Health and Social Care** | Government guidelines about NHS Continuing Healthcare and NHS-funded nursing care.                           | —                                                                 | [Public Information Leaflet](https://www.gov.uk/government/publications/nhs-continuing-healthcare-and-nhs-funded-nursing-care-public-information-leaflet/public-information-leaflet-nhs-continuing-healthcare-and-nhs-funded-nursing-care--2)                                                      |
 | **Disability Rights UK**                 | Offers factsheets and guides in a range of subject areas, including benefits.                                | —                                                                 | [www.disabilityrightsuk.org](https://www.disabilityrightsuk.org/how-we-can-help/benefits-information/factsheets)                                                                                                                                                                                   |
 | **Gov.uk**                               | Online benefits calculator, VAT relief info, and travel costs support.                                       | —                                                                 | [Benefits Calculator](https://www.gov.uk/benefits-calculators)<br>[VAT Relief](https://www.gov.uk/guidance/vat-relief-on-certain-goods-if-you-have-a-disability)<br>[Healthcare Travel Costs Scheme](https://www.nhs.uk/using-the-nhs/help-with-health-costs/healthcare-travel-costs-scheme-htcs/) |
@@ -494,6 +520,5 @@ For more information about CHC, see the **public information leaflet** (linked i
 
 **Call Cost Notes:**
 
-* * Calls cost up to 9p/min from landlines, between 3p–55p/min from mobiles. Some calls may be free depending on your provider.
-* \*\* Calls cost up to 10p/min from landlines, between 3p–40p/min from mobiles. Some calls may be free depending on your provider.
-
+- - Calls cost up to 9p/min from landlines, between 3p–55p/min from mobiles. Some calls may be free depending on your provider.
+- \*\* Calls cost up to 10p/min from landlines, between 3p–40p/min from mobiles. Some calls may be free depending on your provider.

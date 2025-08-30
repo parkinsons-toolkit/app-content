@@ -23,12 +23,15 @@ Speak with your GP or specialist about managing your symptoms for your type of w
 
 ### Talking to Colleagues
 
-
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7a7ps7WoGkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/7a7ps7WoGkI" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
-
-
 
 #### Do I need to tell my employer?
 
@@ -90,10 +93,14 @@ Get agreed adjustments in writing, known as a workplace adjustment agreement.
 If you belong to a trade union, they can support you during discussions and help with your legal rights.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7eV7-zOhpYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/7eV7-zOhpYU" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
-
-
 
 ---
 
@@ -116,12 +123,15 @@ GPs or hospital doctors provide fit notes free after 7 days of sickness. With em
 
 Fit notes indicate if you are ‘not fit for work’ or ‘may be fit for work’. If ‘may be fit,’ discuss workplace adjustments with your employer. Keep the original note and provide a copy to your employer if requested.
 
-
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EY0OCXMy2fM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/EY0OCXMy2fM" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
-
-
 
 ---
 
@@ -135,11 +145,15 @@ For many, voluntary work offers a good balance between working and retirement. I
 
 Volunteering can boost confidence and improve day-to-day wellbeing.
 
-
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rrwx0ikrYrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/Rrwx0ikrYrA" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
-
 
 ---
 
@@ -179,12 +193,15 @@ Volunteers do not have a contract of employment, so do not have the same rights 
 
 ### Caring for Others and Being Cared For
 
-
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WV5LCR5iNTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/WV5LCR5iNTM" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
 </div>
-
-
 
 #### Talking to Children
 
@@ -214,25 +231,25 @@ Some people may eventually need to move into care homes. This doesn’t mean fam
 
 ### My Experience
 
-*“…for anyone that is a carer, they must have something for themselves, either exercise or going out for coffee with friends. You have to do that.”*  
+_“…for anyone that is a carer, they must have something for themselves, either exercise or going out for coffee with friends. You have to do that.”_  
 — Carer of someone with Parkinson’s
 
 ---
 
 ### More Information
 
-| Organisation                | Information                                         | Phone Number           | Website                                                                                         |
-|----------------------------|---------------------------------------------------|-----------------------|------------------------------------------------------------------------------------------------|
-| **Age UK**                 | Support for older people, workplace rights, job searching | 0800 678 1602          | [ageuk.org.uk](https://www.ageuk.org.uk/information-advice/work-learning/discrimination-rights/)  |
-| **Carers UK**              | Advice and support for carers                      | 020 7378 4999          | [carersuk.org](https://www.carersuk.org/home)                                                 |
-| **Carers Trust**           | Information and support for carers                 | 0300 772 9600          | [carers.org](https://carers.org/)                                                             |
-| **Citizens Advice**        | Free confidential advice on money, legal, housing | 03444 111 444          | [citizensadvice.org.uk](https://www.citizensadvice.org.uk/)                                   |
-| **Equality Advisory Support Service** | Advice on inequality and rights             | 0808 800 0082          | [equalityadvisoryservice.com](https://www.equalityadvisoryservice.com)                         |
-| **Fit For Work**           | Work-related health management support             | 0800 032 6235          | [fitforwork.org](https://www.fitforwork.org)                                                  |
-| **Gov.uk**                 | Information on workplace discrimination             | —                     | [gov.uk](https://www.gov.uk/discrimination-your-rights)                                      |
-| **Parkinson’s UK**         | Information and advice about Parkinson’s and work  | 0808 800 0303          | [parkinsons.org.uk](https://www.parkinsons.org.uk/information-and-support/work-and-parkinsons) |
-| **U3A**                    | Learning opportunities for older adults             | 020 8466 6139          | [u3a.org.uk](https://www.u3a.org.uk)                                                          |
+| Organisation                          | Information                                               | Phone Number  | Website                                                                                          |
+| ------------------------------------- | --------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------ |
+| **Age UK**                            | Support for older people, workplace rights, job searching | 0800 678 1602 | [ageuk.org.uk](https://www.ageuk.org.uk/information-advice/work-learning/discrimination-rights/) |
+| **Carers UK**                         | Advice and support for carers                             | 020 7378 4999 | [carersuk.org](https://www.carersuk.org/home)                                                    |
+| **Carers Trust**                      | Information and support for carers                        | 0300 772 9600 | [carers.org](https://carers.org/)                                                                |
+| **Citizens Advice**                   | Free confidential advice on money, legal, housing         | 03444 111 444 | [citizensadvice.org.uk](https://www.citizensadvice.org.uk/)                                      |
+| **Equality Advisory Support Service** | Advice on inequality and rights                           | 0808 800 0082 | [equalityadvisoryservice.com](https://www.equalityadvisoryservice.com)                           |
+| **Fit For Work**                      | Work-related health management support                    | 0800 032 6235 | [fitforwork.org](https://www.fitforwork.org)                                                     |
+| **Gov.uk**                            | Information on workplace discrimination                   | —             | [gov.uk](https://www.gov.uk/discrimination-your-rights)                                          |
+| **Parkinson’s UK**                    | Information and advice about Parkinson’s and work         | 0808 800 0303 | [parkinsons.org.uk](https://www.parkinsons.org.uk/information-and-support/work-and-parkinsons)   |
+| **U3A**                               | Learning opportunities for older adults                   | 020 8466 6139 | [u3a.org.uk](https://www.u3a.org.uk)                                                             |
 
-*Note:* Call costs vary by phone provider; some may be free.
+_Note:_ Call costs vary by phone provider; some may be free.
 
 ---
