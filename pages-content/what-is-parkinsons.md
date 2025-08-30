@@ -8,7 +8,7 @@ Parkinsonism is a broad term. It covers a range of conditions that have features
 ## What is the cause?
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ikVplhl5zZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ikVplhl5zZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 In Parkinson’s there is a gradual loss of cells. This is mainly in an area of the brain called the substantia nigra. These cells produce a chemical messenger called dopamine. As less dopamine is available over time, people start experiencing problems with their movements. Dopamine is known as a neurotransmitter. Other neurotransmitters are also believed to decrease. This decrease may be responsible for other symptoms of Parkinson’s.
