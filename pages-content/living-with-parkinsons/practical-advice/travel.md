@@ -8,6 +8,25 @@
 </iframe>
 </div>
 
+# Travel
+This section aims to provide the key information that you should think about when travelling. This will include key issues around driving and parking. It will also include other options for getting around and advice for travelling abroad. 
+
+## Driving
+Being diagnosed with Parkinson’s disease does not automatically mean you have to stop driving. However, there are a number of things that you need to think about to make sure that you and others are safe on the road.
+
+### What should I do?
+It is a legal requirement to tell the Driving and Vehicle Licensing Agency (DVLA) of your medical condition as soon as possible. It is a criminal offence to not tell the DVLA of a medical condition that may affect your driving. Not telling them could result in a fine of up to £1,000 or prosecution if you are involved in an accident. It is also important to discuss your medication with your Parkinson’s specialist team or GP and how this may affect your ability to drive. This could be, for example, drowsiness, or feeling too sleepy in the daytime. Not declaring a health condition would mean your motor insurance is not valid. It is an offense to withhold information from your insurance company and so they should also be notified. See the Legal Matters page for more information about insurance. 
+
+### Will my GP or specialist talk with the DVLA?
+You will need to inform the DVLA, as this is not something your healthcare professionals can do. Healthcare professionals are only allowed to share your personal medical information with your consent, or if or if there is thought to be a public safety risk. This would be if they think you are unsafe to drive, for example. If, in such a situation, you continue to drive, they are required to break confidentiality and notify the DVLA. The DVLA may later ask for further information from your Parkinson’s specialist or GP with your permission as described below. 
+
+### How do I inform the DVLA?
+There are two ways to inform the DVLA:
+  1. One option is to report your condition online on the government website: (gov.uk)
+  2. The second option is to report your medical condition by completing the “Medical fitness to Drive” (PK1) form. This can be completed online (GOV.UK) printed and sent via the post, using the address on the form. If you need a paper copy or more help, contact the DVLA driver medical enquiries line: tel: 0300 790 6806 
+ 
+_Please note different medical conditions require different forms to be completed – for more information on this see_ (GOV.UK). 
+
 # The decision
 
 The DVLA will typically inform you of one of four decisions:
@@ -374,7 +393,3 @@ Parkinson’s may make accessing toilets more difficult due to mobility or bladd
 | Disabled Persons Railcard                      | Rail travel discount                                       | 0345 605 0525 | www.disabledpersons-railcard.co.uk                                                                             |
 
 ---
-
-```
-
-```
