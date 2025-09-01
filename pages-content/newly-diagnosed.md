@@ -1,5 +1,7 @@
 # Newly Diagnosed
 
+Receiving a diagnosis of Parkinson’s will probably make you feel emotional. You will probably also have lots of questions. Everyone’s reaction is different and there is no “right” way to handle it. Here we give a few pointers on things that are relevant at diagnosis. This section also has some tips from people who have been through it.
+
 <div class="video-container">
 <iframe 
   width="560" 
@@ -10,31 +12,24 @@
 </iframe>
 </div>
 
-Receiving a diagnosis of Parkinson’s will probably make you feel emotional. You will probably also have lots of questions. Everyone’s reaction is different and there is no “right” way to handle it. Here we give a few pointers on things that are relevant at diagnosis. This section also has some tips from people who have been through it.
-
 ## What can I do for myself?
 
-- **Don’t rush decisions.** Any new diagnosis can be life-changing. It may be that life does not change in the way you initially expect. Give yourself some time to reflect on the news, and to understand what it means, before making any big life decisions. For example, a diagnosis of Parkinson’s does not automatically mean you need to stop working or stop your hobbies.
-
-- **Take medication if advised to.** Medication is not a cure for Parkinson’s, but it can improve the symptoms. It may affect what you are able to do.
-
+- **Don’t rush decisions:** Any new diagnosis can be life-changing. It may be that life does not change in the way you initially expect. Give yourself some time to reflect on the news, and to understand what it means, before making any big life decisions. For example, a diagnosis of Parkinson’s does <ins>not</ins> automatically mean you need to stop working or stop your hobbies.
+- **Take medication if advised to:** Medication is not a cure for Parkinson’s, but it can improve the symptoms. It may affect what you are able to do.
   - If you are not sure about the medication, talk to your doctor or nurse.
   - Timing of Parkinson’s medication is often important. You should talk to your Parkinson’s specialist team about when to take it.
   - In general, once medications are started for Parkinson’s, some form of medication will continue. The schedule, dose, and type of medication may change, but they are generally taken for life.
     - For some, this will be a major life adjustment; for others it is a familiar habit.
   - Think about how you can build taking medication into your daily life, and of ways to remember but that are not disruptive.
   - Find out how your GP runs repeat prescriptions to make sure you always have enough medicine.
+- **Exercise:** This is true for general health and wellbeing, but is especially important in Parkinson’s. Research has shown immediate benefits, such as relieving muscle tension and lifting mood. It has also shown the long-term benefits, such as reduction in many Parkinson’s symptoms.
 
-- **Exercise.** This is true for general health and wellbeing, but is especially important in Parkinson’s. Research has shown immediate benefits, such as relieving muscle tension and lifting mood. It has also shown the long-term benefits, such as reduction in many Parkinson’s symptoms.
-
-- **Find out where you can get support.** You are not alone. Establishing a support network ranges from knowing who your Parkinson’s specialist team are, to knowing who will listen when you need a moan. Some people find support groups helpful. Others look for connections online, in exercise classes, or through other friends.
+**<ins>Find out where you can get support</ins>** You are not alone. Establishing a support network ranges from knowing who your Parkinson’s specialist team are, to knowing who will listen when you need a moan. Some people find support groups helpful. Others look for connections online, in exercise classes, or through other friends.
 
 ## What do I need to do?
-
-- **If you are a driver,** you are legally obliged to inform the DVLA of your diagnosis. This does not mean you have to stop driving, unless your doctor tells you to stop. See the Travel section for more guidance.
+If you are a driver, you are legally obliged to inform the DVLA of your diagnosis. This does not mean you have to stop driving, unless your doctor tells you to stop. See the Travel section for more guidance.
 
 ## Information
-
 - There is a lot of information available about Parkinson’s.
 - Information can be empowering, but running a Google search could be overwhelming. You will find things that are not relevant to you and may find some things upsetting.
 - Perhaps start with our _What is Parkinson’s_ page and take it slowly.
@@ -42,13 +37,11 @@ Receiving a diagnosis of Parkinson’s will probably make you feel emotional. Yo
 - There is more guidance on using information resources on our _Further Support_ page. If you do want to explore more, consider reading this first.
 
 ## Talking to Others
-
 Except for the legal requirement above, only you can decide who you tell about your diagnosis, and when. There is no rush, but you might find relief in sharing this news.
 
 If you do tell others, bear in mind that they will have a reaction too. That reaction is a reflection of them processing the information. It does not change your condition.
 
 ## My Experience
-
 People affected by Parkinson’s describe their experiences:
 
 > “Be gentle with yourself. In the following few weeks - perhaps not straight away - you may well be knocked off your feet by waves of anxiety and panic; this is normal, and it will ease. It'll be the shock and not the Parkinson's - you won't feel like this forever. Hang on in there.”
@@ -68,7 +61,7 @@ People affected by Parkinson’s describe their experiences:
 
 > “There are inspirational people (Tom Isaacs, Michael J Fox, Emma Lawton for starters.)… three of the ‘Tips for the Newly Diagnosed’ which I came across recently on the Twitter feed of the wonderfully named @DancingShrub - a nurse with Parkinson’s. He says ‘you are still you, degenerative isn’t next week and you are not alone.’”
 
-## More Information
+## Useful Organisations & Contacts
 
 | Organisation               | Information About                                                                                                                                                                             | Phone Number                                                      | Website                                                                                                                                                                                                                                                    |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
