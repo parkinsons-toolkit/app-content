@@ -1,452 +1,146 @@
-## Exercise and Parkinson’s
+# Dealing with Stress and Challenges 
 
-Research studies have shown broad benefits of exercise in Parkinson’s. Activity is good for many aspects of life:
+Stress can often make symptoms such as tremor worse. Learning how to cope with stressful life events can help you to manage symptoms and maintain a good quality of life.  
 
-- Mobility
-- Reducing falls
-- Mood
-- Sleep
-- Bowels
-- Overall health, including cardiovascular health
+Even when emotionally and mentally healthy, you may still experience negative emotions, these are part of normal life. Having good emotional health means developing the ability to bounce back from difficult situations.  
 
-It doesn’t have to be a chore. Many people wonder how much and what type of activity they should do. They may wonder how to achieve it alongside their Parkinson’s. This will be different for each person. You may have questions after reading through the information below. If so, please speak to your physiotherapist, your GP or your Parkinson’s team.
-
-You should be cautious about suddenly significantly increasing your activity levels, particularly if you have other health conditions such as heart disease. If you are considering a drastic lifestyle change, discuss with a healthcare professional first for advice.
-
-Think of your activity and exercises to be like your medication. It is an essential part of treatment for your Parkinson’s. This advice is for everyone. The sooner activity is part of your life, the better.
-
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/h-ggLKNIMss" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
+Below are some suggestions to promote emotional wellbeing and help you feel more in control when dealing with stress. When you have read them through, spend some time thinking about how you might incorporate some of the tips into your routine.  
 
 ---
 
-## What is “Keeping Active”?
+## What can I do?
 
-In general, the more active you are, the better. It is important not to go beyond your limits. However, you should feel like you are pushing yourself.
+### Activity
+Being more active can help to combat stress. For some people, Parkinson’s makes it tricky to stay active. You may have to adapt the type of activity you do. Some may choose to go to the gym or join a sports team; others may need something they can do at home. One effect of the COVID pandemic has been a considerable increase in the amount and range of exercise classes available online, through platforms such as Zoom.  
 
-Different people will reach this with different activities. This will change over time.
+Achieving a more active lifestyle can be as simple as making small changes to your everyday routines, for example:  
+- Tidying up a bit faster when doing the housework  
+- Walk one or two flights of stairs if possible and then take the lift  
+- Leaving the car at home for short journeys  
+- Getting off the bus a stop earlier and walking the rest of the journey  
+- Put things you commonly use on a higher shelf so you have to stretch to reach them  
 
-- If the activity no longer challenges you, then step it up.
-- If the activity has become too much, then roll it back.
-
-Everyone with Parkinson’s should be considered for referral to physiotherapy. This is even if you do not have trouble with symptoms. It can be helpful to tailor the recommendations about activity for you.
-
----
-
-## What Should I Do?
-
-Think through what you do now. You can record this on the _My Wellbeing_ page. Then use this page to think about whether it is enough and whether it is the right type of activity. If there is something missing or you want to make a change, the _My Wellbeing_ page will guide you through. Also talk to your _Live Well with Parkinson’s Supporter_ who can help you with this.
-
-Think through these 5 components and how they can be built into your routine:
+See our *Keeping Active* page for more guidance or visit *Parkinson’s UK* and see their exercise page for more advice.  
 
 ---
 
-### 1. General Daily Lifestyle
+### Diet
+The food we eat can affect the way we feel, both physically and mentally. And in turn, how we feel can affect the food we eat. So, healthy eating habits are important for improving our mood and general sense of wellbeing.  
 
-Try to avoid being sedentary whenever possible. Take breaks from sitting, to move around.
+Research recommends the following advice on how to follow a healthy, balanced diet:  
+- Eat at least 5 portions of a variety of fruit and vegetables every day (e.g., try adding an extra portion of vegetables to your dinner or add a fruit snack into your day)  
+- Eat healthy portions of food  
+- Eat the right balance of food groups (carbohydrates, dairy, meat, fish, etc.)  
+- Eat regular meals (e.g., breakfast, lunch and dinner)  
+- Drink plenty of fluids (at least 6–8 glasses a day)  
 
----
-
-### 2. Undertake Activities
-
-This is about trying to undertake more intense activity where possible. It is to get your body working harder. Choosing something you enjoy or can fit into your life’s routine gives you the best chance of continuing it.
-
----
-
-### 3. Increase Flexibility
-
-This means stretching and doing rotational movements, ideally undertaken daily, for 10–15 minutes. You should work through the different parts of the body. Stretching should feel like a gentle pull on the muscle, not be painful.
+See *Eating Well* for more guidance.  
 
 ---
 
-### 4. Strengthen Muscles
+### Sleep
+Getting good-quality sleep is vital for our mental wellbeing. There are a few things you can try to help improve the amount and quality of your sleep, including:  
+- Going to bed at the same time each night  
+- Leaving yourself time to wind down before bed (e.g. avoid using electronic devices for an hour before you go to bed as these may have a negative effect on sleep)  
+- Writing a “to do” list for the next day before bed can help to clear your mind of any distractions  
+- Making sure your bedroom is dark, quiet, and comfortable  
 
-Muscle strengthening requires bearing weight through muscles, ideally undertaken twice a week or more. It should ideally involve all body parts including: legs, hips, chest, tummy, shoulders and arms.
+**Tip:** Some people find it helpful to write down exactly what they do each night before bed. That can raise awareness of your evening routines and help you think about how you might change that routine to help you sleep better.  
 
-To gain strength, you should push to the point that it would be difficult to repeat the action without help, but not push to the point of pain or injury. This will be different for each individual.
-
-Many people with Parkinson’s experience more movement symptoms on one side of the body than the other. When strengthening muscles, try to keep both sides of your body working evenly.
-
----
-
-### 5. Work on Balance & Coordination
-
-These are activities that challenge your balance and practice coordination, ideally undertaken twice a week or more. If you have difficulties with your balance you should see a physiotherapist for advice on safe activities to engage in. Also see the _Balance & Falls_ page.
+If you are experiencing sleep disturbance, see the *Symptom Management* pages.  
 
 ---
 
-For all of these types of activity, make sure you warm up before undertaking more intense activity to avoid injuries and reduce stiffness. Be mindful of your body to avoid injury. If you are unsure whether an activity is safe, always check with a professional first.
+### Relaxation
+Doing something relaxing can help to reduce stress and improve your mental wellbeing. Although life can be busy, it is important to try to do things you enjoy. This might be listening to music, reading a book, going for a walk, or getting creative by painting or colouring. You might try to carve out a regular time or times in your daily routine for a relaxation activity.  
 
-To see what this might look like in real life, pick the person you most relate to. You can find targeted advice about keeping active for each person on the separate pages.
-
----
-
-## Things to Consider in Parkinson’s
-
-In your daily life as well as when doing specific activities, there are a few factors to bear in mind to help your Parkinson’s.
+See the *Mind* website for tips on how to add relaxation into your daily life. They also describe relaxation exercises you can try. You can find the link in our *More Information* section.  
 
 ---
 
-### Size of Movements
+### Breathing strategies
+Practising breathing techniques can help you to learn how to breathe more deeply and feel calmer.  
 
-- Movements may get smaller with Parkinson’s.
-- Giving attention to this can overcome it.
-- Exaggerate the size of the movements you are making.
-- Think about the size of movements as you do them, e.g. think about big steps.
-- It can help to look in a mirror as you do some movements to see how big they are.
-
----
-
-### “Dual-tasking”
-
-- This is about practicing ’mental exercise’ at the same time as physical activity.
-- For example, go through the alphabet naming countries beginning with each letter, while throwing a ball from one hand to the other.
-- **Caution**: There is a risk for example of losing balance while you concentrate on something else. It is important to stay within your limits. Perhaps start seated.
-
-> Image: Freepik.com
+Here’s a simple breathing exercise you can try, which will take no longer than 5 minutes:  
+- Get into a position you find comfortable (this can be standing, sitting, lying, etc.)  
+- Try to keep your shoulders down and relaxed. Place your hand on your stomach.  
+- Breathe in through your nose and out through your mouth. Feel your stomach rise as you breathe in and fall as you breathe out.  
+- You may find it useful to count steadily as you breathe; “one, two, three, four, five” as you breathe in and “one, two, three, four, five” as you breathe out. Try to work out what feels comfortable for you.  
+- Repeat for 3–5 minutes  
 
 ---
 
-### Don’t forget your hands
+### Complementary therapies
+Complementary therapies (e.g., reflexology, aromatherapy or massage) are used alongside other treatments. Some people with Parkinson’s report positive experiences of complementary therapies such as finding them relaxing, improved sleep, and reduced anxiety.  
 
-Although it does not require intense effort, it is important to remember your hands. There are several things to practice to maintain and improve dexterity:
+Some complementary therapies are eaten or applied to the skin. Some of these can interact with other medications you might take. Check with your GP, specialist, or Parkinson's nurse before you use these.  
 
-- Control of force, i.e. grip of small objects.
-- Moving the fingers one by one.
-- Coordinating finger movements, i.e. which fingers move together or separately, and the timing of movements.
+See our *Complementary Therapy* page for more information.  
 
-> Image: Freepik.com
+---
+### Problem-Solving Therapy
+Problem-solving therapy (PST) aims to help you cope better with stressful life events (e.g. financial problems, managing with a long-term condition). It does this by teaching you problem-solving skills you can use to help you find solutions to issues.  
 
-This could be built into your routine through day-to-day tasks, for example writing, drawing, or manipulating small objects, like handling coins, or screwing nuts onto bolts. Alternatively you could get creative, modelling with clay or play-dough.
+Here is some guidance on how you can work through problem-solving therapy by yourself:  
+
+1. **Choosing a problem**  
+   - The problem must be something that can be changed and defined clearly:  
+     - Vague problem: “I’m anxious”  
+     - More specific problem: “I feel anxious in the evenings and struggle to sleep”  
+
+2. **Pursuing an idea**  
+   - Once the problem has been clearly defined, the next stage is to create one or more achievable ideas that might help you solve the problem:  
+     - Example: “I will fit in 20 minutes of breathing exercises into my evening routine”  
+
+3. **Planning ahead and foreseeing barriers**  
+   - Once you have thought of an idea (could be more than one), you will need to develop steps for how you’re going to do it. Think about barriers you might face and how to overcome them. Example below:  
+     - Step: At 9pm every night I will engage in specific breathing exercises that I have located from the *Living with Parkinson’s* toolkit  
+     - Barriers: I forget or I feel I don’t have time  
+     - Ways to overcome barrier: set a reminder, always do exercises before brushing teeth so it becomes routine, let a partner know and ask them to remind you  
+
+4. **Explore how you feel after the step has been carried out**  
+   - Think about whether the steps helped solve the problem  
+   - If there were difficulties carrying out the steps, think about the following questions:  
+     - Should the steps be defined more clearly?  
+     - Is the step realistic?  
+     - Have new problems occurred which I didn’t plan for at the beginning?  
+
+It’s important to keep in mind that the goal of PST is not to solve all problems. Instead, the goal is to learn more effective problem-solving skills. This will then help you to cope more effectively with life stressors and feel more in control of your life.  
+
+See the *My Wellbeing* section for more on how to do PST.  
+
+
+## My Experience
+
+People affected by Parkinson’s describe their experiences.  
+
+> “Sometimes I find if things get too stressful for me or I’m having a bad day I get a colouring book – you know those adult ones? Or people do word searches, write down their thoughts or go for a walk; just different ways people can deal with if they’re having a bad day or.”  
+> *(Person with Parkinson’s)*  
+
+> “When you sit there with Parkinson’s, you think, ‘I can’t do that, I can’t do this, I can’t go here,  
+> I can’t go there. I can’t eat this,’ what about all the things you can do, you forget. I don’t dwell  
+> on the bad stuff, and the good stuff sometimes takes my mind away from the bad stuff. I can manage it a little bit better.”  
+> *(Person with Parkinson’s)*  
 
 ---
 
-### Posture
+## More information
 
-- Try to maintain an awareness of your posture.
-- Try to stand/sit up tall and straight.
-- Be aware of aspects of daily life where it is easy to slip into a poor posture—sitting on the sofa watching TV, sat at a desk, sitting in a car.
-- Maintaining strength in your ‘core’ will help maintain good posture. This includes your tummy, back, hip and pelvic muscles.
-- Some people find using poles helps their posture. Parkinson’s UK has videos about using Nordic walking poles in various types of activities. You can find a link to these videos in our _More Information_ section.
+Please look at the bottom of the table for further information about call charges.  
 
----
-
-### A Note about Music
-
-- There has been some research showing benefits of music for people with Parkinson’s.
-
-> Image: Freepik.com
-
-- It seems that rhythm or beat of music helps people with Parkinson’s make some movements and so undertake activity. Some people find it more fun too.
-- Consider exercising to music or taking part in dance as part of your exercise.
+| Organisation | Information about Organisation | Phone Number | Website |
+|--------------|--------------------------------|--------------|---------|
+| **Age UK** | Provides support for older adults, with information about a variety of topics; including mindfulness for relaxation. | 0800 678 1602 (Free helpline: open 8am–7pm) | [www.ageuk.org.uk](https://www.ageuk.org.uk/information-advice/health-wellbeing/mind-body/mindfulness/) |
+| **European Parkinson’s Disease Association** | Offers detailed information about causes of stress with Parkinson’s and coping mechanisms. | – | [www.epda.eu.com](https://www.epda.eu.com/about-parkinsons/symptoms/non-motor-symptoms/stress/) |
+| **Mind** | Mental health charity with advice on how to improve your wellbeing, including relaxation exercises. | 0300 123 3393 (Infoline open 9am–6pm, Mon–Fri) | [www.mind.org.uk](https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/relaxation-tips/) |
+| **Parkinson’s UK** | Provides information for at-home exercises for people with Parkinson’s. You can view this information online, print it, or have it mailed to you. | 0808 800 0303 (Free helpline: open 9am–7pm Mon–Fri, 10am–2pm Sat) | [www.parkinsons.org.uk](https://www.parkinsons.org.uk/information-and-support/exercise) |
+| **PD Warriors** | Offers a 10 Week Neuro-Active exercise programme for people with Parkinson’s. | – | [pdwarrior.com](https://pdwarrior.com/10wc-online/) |
 
 ---
 
-## Putting it all Together
+\* Calls cost up to 10p/minute from landlines, between 3p–40p/minute from mobile phones. You may get this call for free depending on your phone provider.  
+```
 
-We know this may be overwhelming. There is a lot to consider, but there is also lots of overlap.
 
-**The key message:**
 
-- Try to be thinking about being more active, less sedentary, and stretching out daily.
-- A couple of times a week include strengthening and balance in your activities.
 
-This doesn’t happen overnight. You will have built up to this little-by-little and keep continuing to push for more. Pick the person you most relate to, to see what this could look like when all put together. You can find targeted advice about keeping active for each person on the separate pages.
-
-## How to do this?
-
-You may find this focus on Keeping Active is new and requires a change to your daily life. Changing life habits and routines is not often easy. Talk to your Live Well with Parkinson’s supporter if this is something that is important to you. You can also use the My Wellbeing pages to work through things that are important to you.
-
----
-
-## Motivation
-
-Think about what motivates you, and how you can embrace that in keeping active.
-
-- **Socialising with others?** – Perhaps a group activity would be best, if this is possible.
-- **Time away from chaos of life?** – Perhaps a quiet, individual activity would suit you better, like swimming or walking.
-- **Competition?** – Perhaps a sports game would suit you. Or trying to beat your ‘personal best’.
-- **Is there a specific symptom you hope to improve?**
-  There may be a particular consideration for the activity you undertake as a result. For example, if you wish to improve sleep, avoid doing your exercise just before bed as it will make you more awake. Undertake the activity earlier in the day.
-- **Sense of achievement?**
-  Monitor what you do and congratulate yourself when it’s going well. Suggestions for embracing this:
-
-  - Keep a log of what you do. You can record your activity in the Symptom & Activity Tracker.
-  - Set a target or goal to work toward. Like setting a New Year’s resolution, be specific and realistic. If it’s too hard then it won’t be motivating (and can be the opposite). The best targets have a timeframe to keep you focused and are achievable. You can use the My Wellbeing page to set a target if you think this might help you.
-
----
-
-## Routine
-
-- If you want to do something on a regular basis, you want to make it automatic, like a habit.
-  This takes persistence and repetition over time.
-- For most people it takes about three months to become a habit.
-- You could try associating the activity with something that is already part of your routine, e.g.:
-
-  - Brushing your teeth
-  - Going to the supermarket
-  - A scheduled TV programme
-  - Waiting for a kettle to boil
-
-This gives an anchor: each time that part of your routine happens, you also undertake the activity. This makes you more likely to remember to do it regularly.
-
-- You could plan when you are going to undertake the activity and set a prompt.
-  You could add the activity to your To Do List and tick it off when done.
-  Within this site, or through other devices, you could set a reminder.
-
----
-
-## Opportunities
-
-Options vary based on where you live. Someone with local knowledge of activities will be best informed to advise you. People you may want to ask:
-
-### For general activity:
-
-- Your local gym or sports centre
-- Your local council
-- Your community therapy teams (physiotherapy and occupational therapy)
-
-### For Parkinson’s specific activity:
-
-- Your community therapy teams (physiotherapy and occupational therapy)
-- A charity – for example Parkinson’s UK
-- Your Parkinson’s specialist team
-
-Consider what challenges you might face when setting out to keep active. Thinking about them in advance can allow you to prepare or even solve problems before they occur.
-
-If you have tried to increase or maintain activity but it hasn’t gone as you hoped, reflect on why. See if you can really break it down to address the root of the challenge.
-
----
-
-## It all just seems overwhelming
-
-There are so many things to do and so many things to think about. It is completely normal to find that tough.
-
-So start small and take one step at a time.
-
-Consider what you currently do. What could you do to increase this, just a little bit?
-Perhaps adding a few more minutes into an activity you already do.
-Perhaps carrying a heavier bag out on a walk.
-Little by little you can increase your activity.
-
-When it comes to incorporating the different components to your routine, many can be met within one activity. For example, a yoga class will include strength, balance, flexibility, big movements and posture. The My Wellbeing page and your Live Well with Parkinson’s Supporter can also help you with this.
-
----
-
-## Symptoms
-
-Parkinson’s has both physical and mental symptoms which can make keeping active more difficult. Optimal control of your symptoms will help you to undertake activity, see the Symptom Management pages for more advice for each.
-
-- Movement symptoms such as stiffness, slowness & small movements tend to respond better to medications than some of the non-movement symptoms. Talk to your specialist Parkinson’s team about any symptoms that are preventing you from keeping active.
-- If anxiety or fear are getting in the way of your activity, talk to your GP about how best to control this.
-- Some people feel extreme tiredness that doesn’t improve with rest, known as fatigue. This can put them off undertaking activity, but actually being active improves fatigue. Perhaps think about which time of day is best for you.
-  If urinary symptoms or bowel symptoms are a worry, try going to the toilet before you begin any activity.
-  Perhaps think about where toilets are available so you have a plan if you were to need it during the activity.
-- Variability of symptoms can be a real challenge for people with Parkinson’s. There are good days and bad days, good hours and bad hours.
-  You could try tracking your symptoms (i.e., using your Tracker in the manual) to see if there is a pattern.
-  Then try to undertake more strenuous activities for the time when you are at your best.
-  Having said that, for some there is no pattern; it is unpredictable. In these cases you may have to be opportunistic: when you have a good spell, try to maximise what you do with it.
-
-> Parkinson’s UK has videos about tailoring exercise to your symptoms, which you can find in our _More Information_ section.
-
----
-
-## Time
-
-Feeling there is not enough time is a common reason people give for not doing exercise or activity.
-To some extent, this is a question of prioritising.
-
-There will be lots of things you are trying to fit into your life. Which are most important to you when you consider the short term and long term benefits?
-
-Another option is whether activity could be achieved through something you are already doing?
-For example, as listed above, housework and gardening can both be good exercise.
-Perhaps you can build strength into your walk by carrying something heavy?
-
----
-
-## Practical Considerations
-
-Think about what support you might need:
-
-- A companion to do the activity with?
-  This could help motivation and make the activity more enjoyable.
-- Support getting there?
-  See Travel page for more information.
-- **Cost?**
-  Most exercise classes and groups have a charge. Some specific classes are provided within physiotherapy services on the NHS but are short term.
-  Many activities arranged by the charity sector are free of charge.
-  Activity does not need to be in an organised group with equipment, so if cost is an obstacle, perhaps think about trying walking and using household items (such as a book) as a weight for building strength.
-  For more information about support available, see Finances page.
-
-> The NHS has a long-term plan to provide Link Workers across the country who would help connect you to the available services, known as **“Social Prescribing.”** This is at an early stage, but you could ask your GP if it is available in your area.
-
-2. Undertake Activities
-   This is about trying to undertake more intense activity where possible. It is to get your body working harder. Choosing something you enjoy or can fit into your life’s routine gives you the best chance of continuing it.
-   The recommended amount of activity may seem like a lot, but if you build it up gradually, it won’t feel like so much. You may also be doing more than you realise already.
-   Extra detail:
-   It is advised that in bouts of at least 10 minutes, you undertake a total:
-   2½ hours of moderate intensity per week or 1¼ hours of vigorous intensity per week
-   Moderate intensity activity makes you breathe faster, feel warmer (perhaps sweat) and your heart beat faster. Vigorous intensity activity makes you out of breath and unable to carry on a conversation. The type of activity that fits these descriptions is therefore different for different people.
-
-Examples include:
-
-30 minutes of activity on 5 days of the week, e.g.
-• A hobby, such as playing golf.
-• A journey you are doing anyway, such as a brisk or uphill walk or perhaps a gentle cycle.
-• Housework such as hoovering, or painting/decorating.
-• Gardening or mowing the lawn.
-Or perhaps breaking it down into smaller more frequent chunks.
-This means stretching and doing rotational movements, ideally undertaken daily, for 10- 15 minutes. You should work through the different parts of the body. Stretching should feel like a gentle pull on the muscle, not be painful.
-Stretches:
-o Work through the body, stretching muscles. o Hold each stretch for 10-30seconds. o Try to keep it steady. o Breathe slowly in and out as you stretch: Don’t hold your breath. o Repeat each stretch 3-4 times with a brief break between. o Try to stretch both sides of the body evenly.
-Rotational exercises: Work through the body, making circles:
-o Turn through the trunk. o Shrug and roll the shoulders.
-o Make circles with joints, including your wrists and ankles. o Circle in one direction, then go back in the other directions.
-o Try to evenly work out both sides of the body.
-
-Note there is no fixed position you should be in for these: whatever is most steady and comfortable.
-For many people this is lying down for stretches and seated or standing for the rotations. 4. Strengthen Muscles
-Muscle strengthening requires bearing weight through muscles, ideally undertaken twice a week or more. It should ideally involve all body parts including: legs, hips, chest, tummy, shoulders and arms. To gain strength, you should push to the point that it would be difficult to repeat the action without help, but not push to the point of pain or injury. This will be different for each individual. Many people with Parkinson’s experience more movement symptoms on one side of the body than the other.
-When strengthening muscles, try to keep both sides of your body working evenly.
-
-Examples include:
-Depending on ability & safety-
-• Carrying heavy bags.
-• Heavy gardening.
-• Step-ups on the stairs.
-• Squats holding on to a sturdy chair.
-• Press-ups against a wall. 5. Work on Balance & Coordination
-These are activities that challenge your balance and practice coordination, ideally undertaken twice a week or more. If you have difficulties with your balance you should see a physiotherapist for advice on safe activities to engage in. Also see the Balance & Falls page. This will be different for each individual. Examples include:
-• Yoga
-• Tai Chi
-• A specific balance class
-Putting it all Together
-
-We know this may be overwhelming. There is a lot to consider, but there is also lots of overlap.
-
-The key message:
-
-➢ Try to be thinking about being more active, less sedentary, and stretching out daily.
-➢ A couple of times a week include strengthening and balance in your activities.
-This doesn’t happen overnight. You will have to build up to this little-by-little and keep continuing to push for more.
-Parkinson’s UK have a range of online video exercise classes specifically for people with Parkinson’s. They include combinations of the above components. Perhaps one of these would suit you, but always check with your physiotherapist if you are unsure. You can find these in the More Information section on Page 36.
-An example week, including the specific aspects for Parkinson’s:
-
-• 10 minutes of flexibility exercises whilst lunch is heating, each day. Mentally naming countries during the stretches.
-• 30-40 minutes of household tasks (gardening, hoovering) every week – includes some higher exertion with heavy lifting, and some fine tasks for the hands.
-• When visiting friends, get off the bus a stop early to briskly walk the last stretch, and during the walk to the shops speeding up to a brisk pace for 10-15mins of the walk. Sometimes carrying a heavy bag.
-• Tai Chi class on Saturday.
-• Reducing prolonged sitting
-Keeping Active: Person C
-
-I find it very difficult to be active due to my health or how I am feeling. I spend most of my time sitting or resting.
-
-What does Keeping Active mean for you?
-If you have very challenging symptoms it is important to try to maintain as much physical activity as possible, within safe limits. You may require some extra support or need to adapt exercises. Reducing periods of sitting is important.
-Physiotherapists and occupational therapists may recommend more task-focussed activities. This could help preserve your day-to-day tasks. You may require assistance to keep active.
-
-The 5 Components
-
-Make sure you warm up before undertaking more intense activity to avoid injuries and reduce stiffness.
-
-1. General Daily Lifestyle
-   Try to avoid being sedentary whenever possible. Take breaks from sitting, to move around.
-   Examples include:
-   • Getting up yourself for a cup of tea.
-   • Watering your indoor plants.
-   • Perhaps setting an alarm to go off each hour to remember to stand up and take some steps.
-   • This might be with help if needed.
-
-2. Undertake Activities
-   This is about trying to undertake more intense activity where possible. It is to get your body working harder. Choosing something you enjoy or can fit into your life’s routine gives you the best chance of continuing it.
-   The recommended amount of activity may seem like a lot, but if you build it up gradually, it won’t feel like so much. You may also be doing more than you realise already. Try to do bouts of ten minutes as often as possible over the week.
-   Examples include:
-
-10 minutes of activity, morning and afternoon each day, e.g.
-• Walking around the garden
-• Seated arm exercises
-• Marching on the spot
-
-3. Increase Flexibility
-   This means stretching and doing rotational movements, ideally undertaken daily, for 10-15 minutes. You should work through the different parts of the body. Stretching should feel like a gentle pull on the muscle, not be painful.
-
-This could involve undertaking the following exercises, adapted to your personal requirements by a physiotherapist:
-Stretches o Work through the body, stretching muscles. o Hold each stretch for 10-30seconds.
-o Try to keep it steady. o Breathe slowly in and out as you stretch: Don’t hold your breath.
-o Repeat each stretch 3-4 times with a brief break between.
-o Try to stretch both sides of the body evenly.
-
-Rotational exercises: Work through the body, making circles o Turn through the trunk. o Shrug and roll the shoulders.
-o Make circles with joints, including your wrists and ankles.
-o Circle in one direction, then go back in the other directions.
-o Try to evenly work out both sides of the body.
-Note there is no fixed position you should be in for these: whatever is most steady and comfortable. 4. Strengthen Muscles
-Muscle strengthening requires bearing weight through muscles, ideally undertaken twice a week or more. It should ideally involve all body parts including: legs, hips, chest, tummy, shoulders and arms. To gain strength, you should push to the point that it would be difficult to repeat the action without help, but not push to the point of pain or injury. This will be different for each individual. Many people with Parkinson’s experience more movement symptoms on one side of the body than the other.
-When strengthening muscles, try to keep both sides of your body working evenly.
-Examples include:
-• Seated exercises e.g. pulling resistance bands or lifting and lowering a can of beans.
-• Repetitions of ‘sit-to-stand’, holding on to a rail or sturdy chair, or with assistance.
-These are activities that challenge your balance and practice coordination, ideally undertaken twice a week or more. This will be different for each individual and this is best tailored by a physiotherapist.
-Also see the Balance & Falls pages.
-
-Putting it all Together
-
-We know this may be overwhelming. There is a lot to consider, but there is also lots of overlap.
-
-The key message:
-
-➢ Try to be thinking about being more active, less sedentary, and stretching out daily.
-➢ A couple of times a week include strengthening and balance in your activities.
-This doesn’t happen overnight. You will have built up to this little-by-little and keep continuing to push for more.
-Parkinson’s UK have a range of online video exercise classes specifically for people with Parkinson’s.
-They include combinations of the above components. Perhaps one of these would suit you, but
-always check with your physiotherapist if you are unsure. You can find these in the More Information section below.
-An example week, including the specific aspects for Parkinson’s:
-
-• Reducing prolonged sitting by getting up from the chair as often as possible during the day.
-• 10 minutes of seated flexibility exercises mid-morning each day, when medication has kicked in.
-• 10 minutes of exercises in the afternoons after a cup of tea:
-5minutes marching on the spot to music, with little pauses as needed.
-5minutes lifting and lowering a can of beans as a weight, whilst seated.
-• Making playdough shapes, and throwing a ball back and forth, whilst doing the times tables, with the grandchildren on the weekend.
-My Experience
-
-People affected by Parkinson’s describe their experiences.
-
-“The main thing is occupation of the mind. You mustn’t let yourself sit in the chair and drift into sitting down, you know. That’s why I encourage us to go out” (Carer of Person with Parkinson’s)
-
-More Information
-
-Please look at the bottom of the table for further information about call charges.
-
-Here is your “More Information” section converted to **Markdown format**, with **no other changes**:
-
----
-
-## More Information
-
-> Please look at the bottom of the table for further information about call charges.
-
-| Organisation                                 | Information about                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Phone Number                                                               | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Age UK**                                   | Information for older adults about being active. There is information for people who are not active at all right now, for those who do not know where to start and helping others to get active.                                                                                                                                                                                                                                                                                               | 0800 678 1602 <br> _Free helpline: open 8am–7pm_                           | [www.ageuk.org.uk/information-advice/health-wellbeing/exercise/](https://www.ageuk.org.uk/information-advice/health-wellbeing/exercise/)                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **European Parkinson’s Disease Association** | Explains how exercise can help Parkinson’s, tips for exercising safely and how to get started. <br><br> This organisation has also created an online exercise programme for people with Parkinson’s.                                                                                                                                                                                                                                                                                           | —                                                                          | **Information about Exercise:** [www.epda.eu.com/living-well/wellbeing/diet-exercise-and-physical-wellbeing/exercise/](https://www.epda.eu.com/living-well/wellbeing/diet-exercise-and-physical-wellbeing/exercise/) <br><br> **Exercise Programme:** [www.epda.eu.com/latest/resources/epda-exercisecast/](https://www.epda.eu.com/latest/resources/epda-exercisecast/)                                                                                                                                                                                                    |
-| **NHS App Store**                            | The NHS has a library of downloadable apps for your phone or devices. For example, to help you stay active there is the Active 10 app.                                                                                                                                                                                                                                                                                                                                                         | —                                                                          | [www.nhs.uk/oneyou/apps/](https://www.nhs.uk/oneyou/apps/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Parkinson’s Foundation**                   | This American organisation has a leaflet with strengthening and stretching exercises for people with Parkinson’s.                                                                                                                                                                                                                                                                                                                                                                              | —                                                                          | [www.parkinson.org/sites/default/files/Fitness_Counts.pdf](https://www.parkinson.org/sites/default/files/Fitness_Counts.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **Parkinson’s UK**                           | This organisation provides information and support for various topics; including exercising with different Parkinson’s symptoms, video demonstrations and exercising at home. Under ‘YouTube’ you can find links to videos made by Parkinson’s UK. <br><br> Parkinson’s UK describes types of complementary therapies for Parkinson’s. This can be read online, printed out, or mailed to you. <br><br> **For professionals:** There is information about exercise frameworks for Parkinson’s. | 0808 800 0303 <br> _Free helpline: open 9am–7pm (Mon–Fri), 10am–2pm (Sat)_ | **Exercise and Parkinson’s:** [www.parkinsons.org.uk/information-and-support/exercise](https://www.parkinsons.org.uk/information-and-support/exercise) <br><br> **Complementary Therapies:** [www.parkinsons.org.uk/information-and-support/complementary-therapies](https://www.parkinsons.org.uk/information-and-support/complementary-therapies) <br><br> **Exercise Framework (for professionals):** [www.parkinsons.org.uk/information-and-support/parkinsons-exercise-framework](https://www.parkinsons.org.uk/information-and-support/parkinsons-exercise-framework) |
-| **PD Warriors**                              | PD Warriors has a 10 Week Neuro-Active exercise programme for people with Parkinson’s.                                                                                                                                                                                                                                                                                                                                                                                                         | —                                                                          | [pdwarrior.com/10wc-online/](https://pdwarrior.com/10wc-online/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Sport England**                            | Has information and summarises research about the concept of active travel.                                                                                                                                                                                                                                                                                                                                                                                                                    | 0345 8508 508 \*                                                           | [www.sportengland.org/know-your-audience/demographic-knowledge/active-travel](https://www.sportengland.org/know-your-audience/demographic-knowledge/active-travel)                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **YouTube**                                  | This is a platform where companies and individuals can post videos about a range of topics. There are a range of videos made by Parkinson’s UK; including videos about staying active at home, different, tailoring your exercise plan and general exercises for Parkinson’s.                                                                                                                                                                                                                  | —                                                                          | **Stay Active at Home (Playlist):** [YouTube Playlist](https://www.youtube.com/playlist?list=PL1ixQpbHed3asr5w0qe6ufxNTt1a4KpP_) <br><br> **Tailoring your Exercise Plan with Parkinson's:** [YouTube Video](https://www.youtube.com/watch?v=kcp0so77r3A&list=PL1ixQpbHed3ZS0iZKIb4RKmtM2JjMadtv&index=13) <br><br> **Exercise and Parkinson’s (Video Playlist):** [YouTube Playlist](https://www.youtube.com/playlist?list=PL1ixQpbHed3ZS0iZKIb4RKmtM2JjMadtv)                                                                                                             |
-
----
-
-### Call Charges
-
-\* Calls cost up to 9p/minute from landlines, between 3p–55p/minute from mobile phones. You may get this call for free depending on your phone provider.
