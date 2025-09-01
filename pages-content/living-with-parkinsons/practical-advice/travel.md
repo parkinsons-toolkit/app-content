@@ -1,5 +1,14 @@
 # Travel
-This section aims to provide the key information that you should think about when travelling. This will include key issues around driving and parking. It will also include other options for getting around and advice for travelling abroad.
+This section aims to provide the key information that you should think about when travelling. 
+
+This will include key issues around;
+- Driving
+- Parking
+- Using public transport
+- Finding toilets
+- Flying and travelling abroad
+
+It will also include other options for getting around and advice for travelling.
 
 <div class="video-container">
 <iframe 
@@ -72,7 +81,7 @@ You may need to have a new medical examination or driving assessment in order fo
    - If they decide **YES**: You can continue to drive under the conditions they outline in the decision letter.
    - If they decide **NO**: You can appeal for a reassessment, appeal to local magistrates court within six months, or stop driving.
 
-#### What can I try for myself?
+### What can I try for myself?
 As already stated, you must inform DVLA of your medical condition. These are some suggestions for maintaining your safety as a driver:
   1. Talk with your Parkinson’s specialist team or GP about how your medications may affect driving. If you feel very sleepy in the daytime you can discuss options of different medications or dosages.
   2. Book yourself for regular sight and hearing tests. Make sure you have any aids that would help you when driving.
@@ -111,7 +120,8 @@ It is also important to know that the Blue Badge is for street parking. You will
 ### Who is entitled to a Blue Badge?
 Some individuals can receive automatic qualification whilst other people may have to qualify through an assessment.
 
-### Eligibility for Blue Badge
+**<ins>Eligibility for Blue Badge</ins>**
+
 You may **automatically** qualify for a Blue Badge if you meet **any one** of the following:
   - In receipt of the higher rate of the mobility component within the Disability Living Allowance.
   - In receipt of a Personal Independence Payment because you cannot walk more than 500 metres (score of 8 points or less for the “moving around” activity).
@@ -144,38 +154,28 @@ When applying for a Blue Badge it is important to clearly explain how your condi
 For more detailed information, you can visit:
  - [Citizen's Advice](https://www.citizensadvice.org.uk/benefits/sick-or-disabled-people-and-carers/help-for-disabled-travellers1/)
  - [GOV.UK on Transport Accessibility and Mobility](https://www.gov.uk/transport/transport-accessibility-and-mobility)
+
 If you need help understanding or filling out forms, you can get help from your social worker, nurse, or from the following support services:
  - [Citizen's Advice](https://www.citizensadvice.org.uk/about-us/contact-us/contact-us/contact-us/)
  - [AGE-UK](https://www.ageuk.org.uk/bromleyandgreenwich/our-services/)
  - [Turn2us](https://advicefinder.turn2us.org.uk/)
 
----
-
-## My Experience
+### My Experience
 
 > “She also advised me about a Blue Badge. And, I went on the internet, filled the form in, and within a matter of 5 weeks, I had a blue badge.”  
 > _(Person with Parkinson’s)_
 
----
-
-## Parking Website
-
-**BlueBadgeParking.com** is a worldwide crowd-sourced database of disabled parking places. The database is edited by the general public to add disabled parking bays not listed on the website. There is also an app available.
-
----
-
-## What can I try for myself?
-
-1. Check eligibility and apply for a Blue Badge.
-2. Plan ahead and check if disabled parking bays are available.
-   - This could be done by using BlueBadgeParking.com, or
-   - Phoning the place you are visiting.
-3. Make sure you display your Blue Badge correctly on the dashboard showing the hologram and parking clock.
+### What can I try for myself?
+  1. Check eligibility and apply for a Blue Badge.
+  2. Plan ahead and check if disabled parking bays are available.
+     - This could be done by using BlueBadgeParking.com, or
+     - Phoning the place you are visiting, or
+     - By using [BlueBadgeParking.com](https://bluebadgeparking.com/view/48.439567%2C-23.89375%2C59.430675%2C18.29375/road) - a worldwide crowd-sourced database of disabled parking places. The database is edited by the general public to add disabled parking bays not listed on the website. There is also an app available.
+  3. Make sure you display your Blue Badge correctly on the dashboard showing the hologram and parking clock.
 
 ---
 
-# Using public transport
-
+## Using public transport
 There are other transport options besides driving that offer travel schemes to help you get around and make travelling easier. These schemes can assist you in attending hospital appointments, shopping, or visiting friends, helping you maintain your day-to-day activities.
 
 <div class="video-container">
@@ -188,104 +188,75 @@ There are other transport options besides driving that offer travel schemes to h
 </iframe>
 </div>
 
----
+### What can I do?
 
-## What can I do?
+**<ins>Bus Travel</ins>**
+  - ‘Disabled Person’s Bus Passes’ are available across England.
+  - Contact your local council to find out who issues disabled bus passes in your area.
+  - In London, the equivalent is a Disabled Person’s ‘Freedom Pass’ rather than a ‘Bus Pass’.
+  - The government website GOV.UK allows you to search for the relevant local council website by postcode; search for “Disabled person bus pass” on the site.
+  - More information about the Freedom Pass for London is available on the London Councils website — see the Freedom Pass section (within “Services”) for details.
+  - See extra information below about current eligibility:
+    - You have been refused a driving license because of your health
+    - You have a severe learning disability
+    - You do not have arms or cannot use your arms
+    - You struggle to walk very far because of a disability or illness
+    - You are partially sighted or blind, deaf, or unable to speak
 
-### Bus Travel
+**<ins>Rail Travel</ins>**
+  - People with disabilities affecting mobility or making train travel difficult may qualify for the **Disabled Persons Railcard**.
+  - You pay for the Railcard, and both you and a companion get a third off most train journeys.
+  - Eligibility includes those who:
+    - Receive Personal Independence Payment (PIP)
+    - Receive higher or lower rate mobility component of Disability Living Allowance (DLA)
+    - Receive higher or middle rate care component of DLA
+    - Receive Attendance Allowance or Severe Disablement Allowance
+    - Receive War Pensioner’s Mobility Supplement
+    - Receive War or Service Disablement Pension for 80% or more disability
+    - Use the Motability scheme to buy or lease a vehicle
+    - Have a visual or hearing impairment
+    - Have epilepsy
 
-- ‘Disabled Person’s Bus Passes’ are available across England.
-- Contact your local council to find out who issues disabled bus passes in your area.
-- In London, the equivalent is a Disabled Person’s ‘Freedom Pass’ rather than a ‘Bus Pass’.
-- The government website GOV.UK allows you to search for the relevant local council website by postcode; search for “Disabled person bus pass” on the site.
-- More information about the Freedom Pass for London is available on the London Councils website — see the Freedom Pass section (within “Services”) for details.
-- See extra information below about current eligibility.
+For more information and applications, visit [www.railcard.co.uk](https://www.railcard.co.uk).
 
-## Other Transport Options and Travel Schemes
+**<ins>Dial-a-Ride</ins>**
+  - Most councils run a **Dial-a-Ride** service via local council or charities.
+  - This is a door-to-door transport service for people who find other transport options difficult.
+  - Trips may be for supermarkets, hospital appointments, etc.
+  - Find your local council on the government website by entering your postcode under “find local council.”
+  - In London, the **TFL Dial-a-Ride** membership is currently free for permanent or temporary residents of London boroughs. More info at [TFL website](https://tfl.gov.uk/modes/dial-a-ride/).
+  - Some applications will require you to provide further information or possibly undergo a mobility assessment to see if you qualify to use that service. 
 
-### Eligibility for Additional Travel Support
+**<ins>Taxicard Scheme</ins>** 
+  - Some councils offer a **Taxicard** scheme to subsidise taxi fares, reducing the cost for users.
+  - As for many of these services, you will need to contact your local council to see what is offered locally. You can find your local council’s website by entering your postcode on the government website, under “find local council”
+  - London Taxicard information and applications are available on the London Councils website.
+  - Applications may require a mobility assessment and typically take 6-8 weeks.
 
-You might be eligible for certain travel schemes if any of the following apply:
+**<ins>Motability Scheme</ins>** 
+  - **Motability** is a nationwide scheme that allows you to lease a scooter, powered wheelchair or new car (with wheelchair accessible options or adaptations). This is in exchange for your higher rate mobility allowance.
+  - Eligibility requires you to have at least 12 months remaining on one of the following allowances:
+    - Receive the higher rate of the mobility component of the Disability Living Allowance
+    - Receive the enhanced mobility rate of the Personal Independence Payment
+    - In receipt of a War Pension Mobility Supplement
+    - Receive the mobility element of the Armed Forces Independence Payment 
+  - You don’t have to be the driver; up to 3 named drivers can be registered - the car could be driven by a family member, friend or carer. 
+  - More info, applications, and vehicle search: [Motability website](https://www.motability.co.uk) or phone 0300 456 4566.
 
-- You have been refused a driving license because of your health
-- You have a severe learning disability
-- You do not have arms or cannot use your arms
-- You struggle to walk very far because of a disability or illness
-- You are partially sighted or blind, deaf, or unable to speak
-
----
-
-### Rail Travel
-
-- People with disabilities affecting mobility or making train travel difficult may qualify for the **Disabled Persons Railcard**.
-- You pay for the Railcard, and both you and a companion get a third off most train journeys.
-- Eligibility includes those who:
-
-  - Receive Personal Independence Payment (PIP)
-  - Receive higher or lower rate mobility component of Disability Living Allowance (DLA)
-  - Receive higher or middle rate care component of DLA
-  - Receive Attendance Allowance or Severe Disablement Allowance
-  - Receive War Pensioner’s Mobility Supplement
-  - Receive War or Service Disablement Pension for 80% or more disability
-  - Use the Motability scheme to buy or lease a vehicle
-  - Have a visual or hearing impairment
-  - Have epilepsy
-
-- For more information and applications, visit [www.railcard.co.uk](https://www.railcard.co.uk).
-
----
-
-### Dial-a-Ride
-
-- Most councils run a **Dial-a-Ride** service via local council or charities.
-- This is a door-to-door transport service for people who find other transport options difficult.
-- Trips may be for supermarkets, hospital appointments, etc.
-- Find your local council on the government website by entering your postcode under “find local council.”
-- In London, the **TFL Dial-a-Ride** membership is free for permanent or temporary residents of London boroughs. More info at TFL website (search ‘Dial a ride’).
-- Some applications may require a mobility assessment.
-
----
-
-### Taxicard Scheme
-
-- Some councils offer a **Taxicard** scheme to subsidise taxi fares, reducing the cost for users.
-- Check local availability by contacting your local council.
-- London Taxicard info and applications are available on the London Councils website.
-- Applications may require a mobility assessment and typically take 6-8 weeks.
-
----
-
-### Motability Scheme
-
-- The **Motability** scheme lets you lease a scooter, powered wheelchair, or adapted vehicle in exchange for your higher rate mobility allowance.
-- Eligibility requires you to have at least 12 months remaining on one of the following allowances:
-  - Higher rate mobility component of Disability Living Allowance
-  - Enhanced mobility rate of Personal Independence Payment
-  - War Pension Mobility Supplement
-  - Mobility element of Armed Forces Independence Payment
-- Attendance Allowance cannot be used for Motability leasing.
-- You don’t have to be the driver; up to 3 named drivers can be registered.
-- More info, applications, and vehicle search: [Motability website](https://www.motability.co.uk) or phone 0300 456 4566.
-
----
+  _Please note that Attendance Allowance cannot be used to lease a car through Motability scheme._
 
 ### What Can I Try for Myself?
-
 1. Check eligibility for each scheme and apply for those that suit your needs.
 2. Plan trips carefully as some transport options need advance booking.
-3. Applying for multiple schemes increases your transport options (e.g., use Taxicard if Dial-a-Ride isn’t available).
-
----
+3. Applying for multiple schemes increases your transport options (e.g., if Dial-a-Ride isn’t available, then you can use your Taxicard).
 
 ### My Experience
-
 > “…the chance to meet with a colleague's neighbour who had Parkinson's for some time. Seeing him still enjoying life—driving, working, travelling—was a big step to helping me get back on my feet after the diagnosis.”  
 > _(Person with Parkinson’s)_
 
 ---
 
 ## Finding Toilets When Out and About
-
 Parkinson’s may make accessing toilets more difficult due to mobility or bladder symptoms.
 
 <div class="video-container">
@@ -299,37 +270,28 @@ Parkinson’s may make accessing toilets more difficult due to mobility or bladd
 </div>
 
 ### National Key Scheme
-
-- Allows people with disabilities to unlock over 9,000 accessible public toilets across the UK.
-- The key is called a **Radar Key** and can be purchased via the Disability Rights UK website.
-- The website also provides a regional list of participating toilets.
-- The **Urinary Symptoms** pages may also be helpful for additional support.
+  - Allows people with disabilities to unlock over 9,000 accessible public toilets across the UK.
+  - The key is called a **Radar Key** and can be purchased via the [Disability Rights UK](https://www.disabilityrightsuk.org/radar-keys?srsltid=AfmBOophjHsd-3Hg87Sw7Q3ebdt_t7h-HI0iKErqzf9-Pxg46jZt8qaK) website.
+  - The website also provides a regional list of participating toilets.
+  - The **Urinary Symptoms** pages may also be helpful for additional support.
 
 ---
 
 ## Flying and Travelling Abroad
-
-- Parkinson’s should not stop you from planning holidays or flying abroad.
-- With good planning and consideration of extra needs, many people with Parkinson’s continue to enjoy travel and breaks.
-- Taking extra steps in preparation can reduce travel worries and make the experience smoother.
+Flying and travelling abroad with Parkinson’s is still possible, with many people still enjoying breaks and holidays. The condition should not stop you from arranging new holidays in the future. There are some extra things to think about when planning that can help to reduce potential worries.
 
 ### Am I Safe to Travel?
-
-- **Consult your GP or Parkinson’s specialist team before traveling.** They can advise on managing your medication while away, especially if crossing time zones.
-- **Take an extra week’s supply of medication** in your carry-on luggage to avoid issues if baggage is lost or delayed.
-- **Keep medicines and medical equipment in original, clearly labelled packaging.**
-- **Carry a medical letter or summary** from your GP or specialist outlining your condition and medication, which can be useful if you feel unwell abroad or are stopped at security/customs.
-- Inform the travel company of your condition **at least 48 hours before your trip** to arrange any support you might need.
-
----
+  - **Consult your GP or Parkinson’s specialist team before traveling.** It is recommended that you speak with your GP or Parkinson’s specialist team about your travel plans so they can provide their advice. This may include how to best manage medication whilst you are away. 
+  - **Take an extra week’s supply of medication** It is wise to take an extra week’s worth of medication with you. Keep this in your carry-on baggage in case of lost baggage or delays. 
+  - **Keep medicines and medical equipment in original, clearly labelled packaging.**
+  - **Carry a medical letter or summary** Your GP can provide you with a medical letter or medical summary outlining that you have Parkinson’s and the medication you are taking. This might be needed if you feel ill whilst abroad or if you are stopped at security or customs. Please note your GP practice may charge for writing such a letter, as this service is not typically covered by the NHS. Alternatively, you could take a copy of a recent letter from a visit to your specialist if it contains up to date details of your condition and medications. Having a medical letter outlining your condition and medications is also a good idea if you have been prescribed tablets for sleep, anxiety, or pain. These medications are closely monitored in the UK and other countries. 
+  - **Inform the travel company of your condition** at least 48 hours before your trip. This will allow the company to provide the best possible support to you during your journey.
 
 ### Can I Fly?
-
-- Parkinson’s does **not** prevent you from flying.
-- Flying may be more challenging due to symptoms like stiffness, walking difficulties, anxiety, or sleep issues.
-- Stay hydrated during the flight to reduce symptoms.
-- Consider booking seats with extra legroom or near the front of the plane.
-- It is illegal in the UK and Europe for airlines to refuse boarding due to disability.
+- Parkinson’s does not stop someone from flying. It is important however to consider that symptoms may make it more difficult (e.g. stiffness or walking problems) or be made worse (e.g. anxiety, sleep).
+- If you are flying, it is important to stay hydrated to reduce symptoms. Therefore, drink plenty of fluids to prevent dehydration.
+- You may want to book a seat at the front of the plane, or in a seat where you can have extra leg room.
+- It is against the law within England and Europe for an airline to prevent anyone booking or boarding a flight due to a disability. 
 
 <div class="video-container">
 <iframe 
@@ -341,33 +303,31 @@ Parkinson’s may make accessing toilets more difficult due to mobility or bladd
 </iframe>
 </div>
 
----
-
 ### Going Abroad
+- Plan for possible medical needs while on holiday. There could be instances where you will need to get medical assistance whilst on holiday. Think about how you could access this in advance. 
+- Check country-specific travel advice on the gov.uk website under “foreign travel advice” or contact the embassy of the country you intend to visit.
+- See your GP or private travel clinic to get any necessary vaccines at least 8 weeks before travel.
+  - Some vaccines need time to develop immunity, others need multiple doses given over weeks or months.
+  - You can see more information on the [NHS Travel Vaccinations](https://www.nhs.uk/vaccinations/travel-vaccinations/travel-vaccination-advice/) page or,
+  - Visit the [NHS 'Fit for Travel'](https://www.fitfortravel.nhs.uk/destinations) webpage for more detailed, country-speicifc information on recommended vaccines.
+- The **UK Global Health Insurance Card (GHIC)** has replaced the existing European Health Insurance Card (EHIC) for subsidised healthcare in the EU. The GHIC allows you free or subsidised treatment across the European Economic Area (EEA) countries. This is not a replacement or alternative to travel insurance. You should have both. For more information or to apply visit the [NHS Healthcare Cover Abroad](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/) page.
+- There are similar agreements that the UK has with other countries in regard to free or subsidised treatment costs. 
 
-- Plan for possible medical needs while on holiday.
-- Check country-specific travel advice on the gov.uk website under “foreign travel advice” or contact the embassy of your destination.
-- Get any necessary vaccines at least 8 weeks before travel.
-- The **Global Health Insurance Card (GHIC)** has replaced the EHIC for subsidised healthcare in the EU; still, travel insurance is essential.
-- Be aware of local healthcare options and insurance coverage.
+_Note: travel insurance is covered in Legal Matters. _
 
----
+### What Can I Try for Myself?
+1. Talk with your GP about your travel plans and seek advice
+   - Discuss medication management
+   - Ask about a medical letter outlining your conditions and medication, particularly if you are taking medications prescribed by your doctor for pain, anxiety or sleep 
+3. Carry medicines and medical equipment in their original, correctly labelled packages.
+4. Bring one additional week’s worth of medications with you in your carry-on baggage. This is in case of delays or lost baggage.
+5. Contact the company you are travelling with at least 48 hours before to inform them you have Parkinson’s so they can provide necessary support needed.
+6. Keep well hydrated and drink fluids regularly on any type of journey, especially if you are flying.
+7. Apply for your Global Health Insurance Card, these have now replaced the European Health Insurance Card. Please note these do not replace travel insurance.
+8. Seek medical treatment if unwell when abroad 
 
-### Practical Tips for Travel
-
-1. Talk with your GP about travel plans, medication management, and obtaining a medical letter.
-2. Carry medication and equipment in labelled packages.
-3. Bring extra medication in carry-on baggage.
-4. Inform your travel provider about Parkinson’s before your trip.
-5. Stay well hydrated.
-6. Apply for your Global Health Insurance Card.
-7. Seek medical help promptly if you feel unwell abroad.
-
----
-
-### Real Experience
-
-> “I take sealed bottles of spare medication on any trip abroad — one in hand luggage and one in hold luggage. If something happens to either, I still have my medication. If nothing happens, I have extra which is handy for delays like volcanic ash or pandemics halting air travel.”  
+### My Experience
+> “I take sealed bottles of spares medication on any trip abroad. I take one in my hand baggage and one in my hold luggage. If something happens to either my hand luggage or hold luggage, I still have medication. If nothing happens to either, then I have extra which is handy if I get severely delayed because volcanic ash or a worldwide pandemic halts air travel.”  
 > _(Person with Parkinson’s)_
 
 ---
