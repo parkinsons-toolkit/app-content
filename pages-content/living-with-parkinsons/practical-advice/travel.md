@@ -1,3 +1,6 @@
+# Travel
+This section aims to provide the key information that you should think about when travelling. This will include key issues around driving and parking. It will also include other options for getting around and advice for travelling abroad.
+
 <div class="video-container">
 <iframe 
   width="560" 
@@ -7,9 +10,6 @@
   allowfullscreen>
 </iframe>
 </div>
-
-# Travel
-This section aims to provide the key information that you should think about when travelling. This will include key issues around driving and parking. It will also include other options for getting around and advice for travelling abroad. 
 
 ## Driving
 Being diagnosed with Parkinson’s disease does not automatically mean you have to stop driving. However, there are a number of things that you need to think about to make sure that you and others are safe on the road.
@@ -27,21 +27,16 @@ There are two ways to inform the DVLA:
  
 _Please note different medical conditions require different forms to be completed – for more information on this see_ (GOV.UK). 
 
-# The decision
-
+### The decision
 The DVLA will typically inform you of one of four decisions:
-
-1. **Your current license will remain without any restrictions**  
-   You can continue to drive as you have done before without any expiry date, review, or adaptations needed. However, if symptoms change or get worse you will need to let the DVLA know.
-
-2. **A new short-term medical driving license is issued**  
-   You can continue to drive as you have done before but the decision will be reviewed again by the DVLA when the short-term license expires. The DVLA offer 1, 2, 3, or 5 year short-term medical licenses.
-
-3. **Your licence is restricted to vehicles with specific adaptations**  
-   If you are required to adapt your car as part of the DVLA decision, you can visit a mobility centre for an independent assessment and equipment.
-
-4. **Your licence is no longer valid and you cannot legally drive**  
-   If the DVLA’s decision is that you can no longer drive, they will give you an overview of how they came to that decision, and the reason why. They will also tell you if you can reapply for a reassessment in the future. Any fees linked with the application process will be refunded.
+  1. **Your current license will remain without any restrictions**
+     You can continue to drive as you have done before without any expiry date, review, or adaptations needed. However, if symptoms change or get worse you will need to let the DVLA know.
+  3. **A new short-term medical driving license is issued**
+     You can continue to drive as you have done before but the decision will be reviewed again by the DVLA when the short-term license expires. The DVLA offer 1, 2, 3, or 5 year short-term medical licenses.
+  4. **Your licence is restricted to vehicles with specific adaptations**
+     If you are required to adapt your car as part of the DVLA decision, you can visit a mobility centre for an independent assessment and equipment.
+  5. **Your licence is no longer valid and you cannot legally drive**
+     If the DVLA’s decision is that you can no longer drive, they will give you an overview of how they came to that decision, and the reason why. They will also tell you if you can reapply for a reassessment in the future. Any fees linked with the application process will be refunded.
 
 ---
 
