@@ -27,7 +27,7 @@ Each study has guidelines about who can or cannot take part in the study. These 
 
 Researchers will explain their eligibility checklist before asking you to sign up to the study. This is to make sure it is suitable for you to take part.
 
-### What does takingf part involve?
+### What does taking part involve?
 Studies vary in their design depending on what the research is aiming to do.
 
 Before taking part in a study, a researcher will make sure that you have been told all about the study. You will also have the chance to ask questions. You will then be asked to sign a consent form. This shows that anyone taking part in research
@@ -63,7 +63,6 @@ o Use their search tool to find current UK research into conditions that are of 
 • Ask your Parkinson’s nurse, or specialist about research taking place that may be suitable.
 
 ## Different Types of Research Studies
-
 Researchers use different types of research studies to understand the factors that lead to the loss of brain cells in Parkinson's. One thing that we know is that in people with Parkinson’s, there is an abnormal build-up of proteins in the brain called Lewy bodies. These Lewy bodies contain a protein called alpha-synuclein, which normally occurs in health brains but builds up in harmful ways in Parkinson’s.
 
 Why this protein builds up and causes brain cell loss in people with Parkinson’s is still unclear. Scientists believe that many factors, rather than just one, may be responsible. These factors develop years before Parkinson’s symptoms appear, and they could include a mix of genetic, environmental and lifestyle factors.
@@ -119,7 +118,6 @@ For more inofrmation on Stem Cell Therapy:
 While trials are still ongoing to better understand how effective it is, the CUE1 device, unlike most products still being researched, can be bought privately – there is currently a waiting list.
 
 ### Useful Resources to Stay Updated on the Latest Research
-
 [Parkinson’s UK](https://www.parkinsons.org.uk/research) offers a wealth of information on what causes Parkinson’s and the latest research developments. You can explore sections on the underlying science as well as updates on new studies.
 
 PDUK (several sections on what causes PD and research in the field)
@@ -136,7 +134,6 @@ NB devices can come in many different shapes and forms. An example that people w
 A device worn on the chest wall that gives out focussed vibrotactile stimulation and cueing to help with motor symptoms in PD. Although trials are still underway to better understand it’s role, unlike most products still being researched, it can be bought privately and does have a waiting list.
 
 ### More Information
-
 Organisation Information about
 Organisation Phone Number Website
 National Online service which Find Research Studies:
