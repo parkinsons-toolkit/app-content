@@ -63,14 +63,14 @@ o Use their search tool to find current UK research into conditions that are of 
 
 ## Different Types of Research Studies
 
-Different types of research studies have been set-up to understand the factors that lead to the brain cell loss in PD.
+Researchers use different types of research studies to understand the factors that lead to the loss of brain cells in Parkinson's. One thing that we know is that in people with Parkinson’s, there is an abnormal build-up of proteins in the brain called Lewy bodies. These Lewy bodies contain a protein called alpha-synuclein, which normally occurs in health brains but builds up in harmful ways in Parkinson’s.
 
-What we do know is that there is an abnormal build-up of proteins in the brain called Lewy bodies and within these Lewy bodies is alpha-synuclein/a-synuclein (a protein that naturally occurs in the brain).
+Why this protein builds up and causes brain cell loss in people with Parkinson’s is still unclear. Scientists believe that many factors, rather than just one, may be responsible. These factors develop years before Parkinson’s symptoms appear, and they could include a mix of genetic, environmental and lifestyle factors.
 
-Why this happens remains unknown. It is likely that no one single factor is enough to develop PD. Instead, it is likely a combination of factors that occur, many years before the disease becomes apparent (i.e., before symptoms develop).
+When people will ask, ‘_What causes Parkinson’s?_’, it’s important to understand that research is still searching for clear answers. Here’s an overview of some key research methods used to study Parkinson’s: 
+  ###Epidemiological studies### track groups of people over time to see what differences exist between those who develop Parkinson’s and those who don’t. These studies help identify risk factors that may increase the chances of developing Parkinson’s. For example, researchers have found that factors such as;
+  
 
-Often, people with ask ‘what causes Parkinson’s?” what follows is a brief overview of research studies and overall themes in Parkinson’s research. All research tends to ask a question, then uses different techniques to try to answer i
-What Links Have Been Found to Parkinson’s?
 
 The aging process – although some people develop Parkinson’s disease under the age of 50 (called young-onset Parkinson’s), this is much rarer than people over this age and as one gets older, the risk of Parkinson’s steeply increases with age. Why this is, is not fully understood.
 
