@@ -11,6 +11,8 @@ This section aims to provide the key information that you should think about whe
 </iframe>
 </div>
 
+---
+
 ## Driving
 Being diagnosed with Parkinson’s disease does not automatically mean you have to stop driving. However, there are a number of things that you need to think about to make sure that you and others are safe on the road.
 
@@ -27,50 +29,60 @@ There are two ways to inform the DVLA:
  
 _Please note different medical conditions require different forms to be completed – for more information on this see_ (GOV.UK). 
 
+### What happens next?
+In certain circumstances, the DVLA will sometimes make their decision based only on the information provided from the PK1 form. DVLA state that they typically provide a decision within 6 weeks. If they require more information before making a decision you will receive a letter informing you the decision is still ongoing. 
+  To help form their decision the DVLA may: 
+  - Contact your GP or Parkinson’s specialist for their medical opinion.
+  - Ask you to go for a medical examination. This will typically be with your GP or Parkinson’s specialist.
+  - Ask for you to take a driving assessment to assess current ability.
+
+### Can I still drive whilst waiting for the decision?
+Under section 88 of The Road Traffic Act 1998 you may be allowed to continue driving whilst waiting for a decision. In order to continue driving whilst waiting you must meet all of the following criteria:
+  - Your doctor must have told you that you are fit to drive.
+  - You held a valid driving license and only drive the vehicles that you were allowed to before you informed the DVLA.
+  - If you drive a bus or lorry (Group 2 licence), your licence has not been withdrawn, suspended or refused by a traffic commissioner.
+  - You meet all the conditions that are set out on your previous licence that still apply.
+  - The DVLA has received your application (PK1 or PK1V) within the last 12 months.
+  - Your previous licence was not cancelled or refused due to medical reasons.
+  - A court has not currently disqualified you from driving.
+  - Your licence was not withdrawn as the result of being a high-risk offender on or after 1st June 2013. A high-risk offender is defined as a driver convicted of a serious drink driving offence.
+
+The DVLA will not let you know if you fit the Section 88 criteria. Therefore, it is the responsibility of yourself and your doctor to consider whether you are safe to drive whilst waiting for the DVLA’s decision.
+
 ### The decision
 The DVLA will typically inform you of one of four decisions:
   1. **Your current license will remain without any restrictions**
      You can continue to drive as you have done before without any expiry date, review, or adaptations needed. However, if symptoms change or get worse you will need to let the DVLA know.
-  3. **A new short-term medical driving license is issued**
+  2. **A new short-term medical driving license is issued**
      You can continue to drive as you have done before but the decision will be reviewed again by the DVLA when the short-term license expires. The DVLA offer 1, 2, 3, or 5 year short-term medical licenses.
   4. **Your licence is restricted to vehicles with specific adaptations**
      If you are required to adapt your car as part of the DVLA decision, you can visit a mobility centre for an independent assessment and equipment.
   5. **Your licence is no longer valid and you cannot legally drive**
      If the DVLA’s decision is that you can no longer drive, they will give you an overview of how they came to that decision, and the reason why. They will also tell you if you can reapply for a reassessment in the future. Any fees linked with the application process will be refunded.
 
----
-
 However, if you do not agree with the decision because the information provided was not understood correctly or you feel it is not a true reflection of your condition, you have a right to appeal. The DVLA decision letter will outline the details of who you can contact. You will need to give the reasons why you feel the original decision was wrong.
 
-You may need to have a new medical examination or driving assessment in order for the DVLA to reconsider their decision. If you do not agree with their second decision you have a right to appeal to the magistrates’ court. This appeal must be made within 6 months from when the license was taken away or refused. You must inform the DVLA that you will be appealing to the court. For more information please read the Legal Matters document.
+You may need to have a new medical examination or driving assessment in order for the DVLA to reconsider their decision. If you do not agree with their second decision you have a right to appeal to the magistrates’ court. This appeal must be made within 6 months from when the license was taken away or refused. You must inform the DVLA that you will be appealing to the court. For more information please read the Legal Matters [LINK] document.
 
----
-
-# Summary of the decision making process
-
+### Summary of the decision making process
 1. Inform DVLA of your health condition.
 2. Discuss with your Parkinson’s specialist or GP if you can continue to drive while waiting for DVLA’s decision.
 3. Wait for DVLA’s decision (this typically happens within six weeks). You may be asked to have a medical or driving assessment.
 4. You receive DVLA’s decision:
-   - If they decide **YES**: you can continue to drive under the conditions they outline in the decision letter.
-   - If they decide **NO**: you can appeal for a reassessment, appeal to local magistrates court within six months, or stop driving.
+   - If they decide **YES**: You can continue to drive under the conditions they outline in the decision letter.
+   - If they decide **NO**: You can appeal for a reassessment, appeal to local magistrates court within six months, or stop driving.
 
----
-
-# What can I try for myself?
-
+#### What can I try for myself?
 As already stated, you must inform DVLA of your medical condition. These are some suggestions for maintaining your safety as a driver:
-
-1. Talk with your Parkinson’s specialist team or GP about how your medications may affect driving. If you feel very sleepy in the daytime you can discuss options of different medications or dosages.
-2. Book yourself for regular sight and hearing tests. Make sure you have any aids that would help you when driving.
-3. Avoid distractions – Parkinson’s can affect your ability to do several things at once; it is important that you keep your attention on the road.
-4. Look into options of cars with adaptations that may make driving easier. These might be steering aids or hand controls. You can visit a mobility centre for advice.
-5. Driving can be stressful and stress worsens symptoms of Parkinson’s. Try to reduce this stress by planning your route in advance and allowing yourself plenty of time.
+  1. Talk with your Parkinson’s specialist team or GP about how your medications may affect driving. If you feel very sleepy in the daytime you can discuss options of different medications or dosages.
+  2. Book yourself for regular sight and hearing tests. Make sure you have any aids that would help you when driving.
+  3. Avoid distractions – Parkinson’s can affect your ability to do several things at once; it is important that you keep your attention on the road.
+  4. Look into options of cars with adaptations that may make driving easier. These might be steering aids or hand controls. You can visit a mobility centre for advice.
+  5. Driving can be stressful and stress worsens symptoms of Parkinson’s. Try to reduce this stress by planning your route in advance and allowing yourself plenty of time.
 
 ---
 
-# Parking
-
+## Parking
 As Parkinson’s can affect your walking this section aims to provide you with helpful information and options. These will help make it possible to park closer to the services and places that you are visiting.
 
 <div class="video-container">
@@ -83,72 +95,59 @@ As Parkinson’s can affect your walking this section aims to provide you with h
 </iframe>
 </div>
 
----
-
-## What can I do?
-
 ### The Blue Badge Scheme
-
 The Blue Badge Scheme aims to help people with mobility issues (as either the driver or passenger of a car) to park closer to their destination. The blue badge is linked to the individual rather than a vehicle and so can be used in any car you are travelling in. This includes hire cars or taxis.
 
-The key benefits to getting a Blue Badge is that it lets you park for free:
+The key benefit to getting a Blue Badge is that it lets you park for free:
+  - In designated disabled parking bays on streets for as long as needed, unless the sign posting indicates a time limit.
+  - On streets with parking meters or pay and display for as long as needed, unless the sign posting indicates a time limit.
+  - On single or double yellow lines for up to 3 hours.
+  - Can be exempt from the congestion charge in Central London – there is an administration fee.
 
-- In designated disabled parking bays on streets for as long as needed, unless the sign posting indicates a time limit.
-- On streets with parking meters or pay and display for as long as needed, unless the sign posting indicates a time limit.
-- On single or double yellow lines for up to 3 hours.
-- Can be exempt from the congestion charge in Central London – there is an administration fee.
-
----
-
-These benefits and parking rules apply to most of the UK but not everywhere in the UK. Examples of where there are different schemes include some airports, e.g. Heathrow Airport, and some central London boroughs, e.g. City of Westminster. The Government website GOV.UK has more information. Please check with local boroughs guidelines for parking schemes.
+These benefits and parking rules apply to most of the UK but not everywhere in the UK. Examples of where there are different schemes include some airports, e.g. Heathrow Airport, and some central London boroughs, e.g. City of Westminster. The Government website GOV.UK has more information. _Please check with local boroughs guidelines for parking schemes._
 
 It is also important to know that the Blue Badge is for street parking. You will need to check the signs for private parking to see if you still have to pay. Such places would be parking in hospitals or supermarkets. You will still have to follow all other standard parking regulations.
 
----
-
-## Who is entitled to a blue badge?
-
+### Who is entitled to a Blue Badge?
 Some individuals can receive automatic qualification whilst other people may have to qualify through an assessment.
 
-See extra information below about current eligibility criteria for automatic qualification.
-
-## Eligibility for Blue Badge
-
-You may automatically qualify for a Blue Badge if you meet **any one** of the following:
-
-- In receipt of the higher rate of the mobility component within the Disability Living Allowance
-- In receipt of a Personal Independence Payment because you cannot walk more than 500 metres (score of 8 points or less for the “moving around” activity)
-- In receipt of the mobility component of the Personal Independence Payment and obtain 10 points for the “planning and following journeys” activity
-- Receiving the War Pensioners’ Mobility Supplement
-- Been certified as having a permanent and substantial disability which impacts your ability to walk and have received a lump sum benefit within the tariff levels 1-8 of the Armed Forces and Reserve Forces Compensation Scheme
-
-See the extra information section about what might make you eligible for assessment for the Blue Badge Scheme.
-
----
+### Eligibility for Blue Badge
+You may **automatically** qualify for a Blue Badge if you meet **any one** of the following:
+  - In receipt of the higher rate of the mobility component within the Disability Living Allowance.
+  - In receipt of a Personal Independence Payment because you cannot walk more than 500 metres (score of 8 points or less for the “moving around” activity).
+  - In receipt of the mobility component of the Personal Independence Payment and obtain 10 points for the “planning and following journeys” activity.
+  - Receiving the War Pensioners’ Mobility Supplement.
+  - Been certified as having a permanent and substantial disability which impacts your ability to walk and have received a lump sum benefit within the tariff levels 1-8 of the Armed Forces and Reserve Forces Compensation Scheme.
 
 If one or more of the following situations applies, you **might** be asked to do a mobility assessment. This is where a health professional assesses your mobility and advises the council on whether you need a Blue Badge:
-
-- Unable to walk
-- Experience difficulty walking due to pain, breathlessness, or need support from someone/mobility aids
-- Be at serious risk to yourself or others when walking
+  - Unable to walk.
+  - Experience difficulty walking due to pain, breathlessness, or need support from someone/mobility aids.
+  - Be at serious risk to yourself or others when walking.
 
 If your condition improves and you no longer need the Blue Badge, you must return the badge to the council or you could be fined.
 
----
-
-## How do I apply for a Blue Badge?
-
+### How do I apply for a Blue Badge?
 You can apply for your Blue Badge on the [gov.uk](https://www.gov.uk/apply-blue-badge) website, which will direct you to your local council site to apply online. Someone else can apply on your behalf, but they will need access to your supporting documents (e.g., proof of identity, proof of address, a passport-sized photo, and supporting evidence).
 
 You will usually need to provide supporting evidence of your medical condition, such as:
-
-- A letter from your specialist
-- A summary of your health conditions from your GP
-- A letter from a social worker
+  - A letter from your specialist
+  - A summary of your health conditions from your GP
+  - A letter from a social worker
 
 Your council website will tell you exactly what you need to provide. Some councils offer telephone helplines or postal applications. Please check with your local council. There is usually a small fee for the Blue Badge.
 
 The badge typically lasts up to 3 years before you need to renew. You must apply for renewal before the old one expires. Councils usually aim to make a decision within 12 weeks.
+
+### Tips and Advice for Applying for a Blue Badge
+When applying for a Blue Badge it is important to clearly explain how your condition impacts your mobility and what risks you face without a Blue Badge. For example, carrying heavy shopping bags leads to balance issues, increasing the risk of falls.
+
+For more detailed information, you can visit:
+ - [Citizen's Advice](https://www.citizensadvice.org.uk/benefits/sick-or-disabled-people-and-carers/help-for-disabled-travellers1/)
+ - [GOV.UK on Transport Accessibility and Mobility](https://www.gov.uk/transport/transport-accessibility-and-mobility)
+If you need help understanding or filling out forms, you can get help from your social worker, nurse, or from the following support services:
+ - [Citizen's Advice](https://www.citizensadvice.org.uk/about-us/contact-us/contact-us/contact-us/)
+ - [AGE-UK](https://www.ageuk.org.uk/bromleyandgreenwich/our-services/)
+ - [Turn2us](https://advicefinder.turn2us.org.uk/)
 
 ---
 
