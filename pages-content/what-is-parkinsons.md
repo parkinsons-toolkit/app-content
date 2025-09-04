@@ -9,7 +9,7 @@ Parkinsonism is a broad term. It covers a range of conditions that have features
 
 <div class="video-container">
 <iframe 
-  width="560" 
+  width="561" 
   height="315" 
   src="https://www.youtube-nocookie.com/embed/ikVplhl5zZw" 
   title="YouTube video player" 
