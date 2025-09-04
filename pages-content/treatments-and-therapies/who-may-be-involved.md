@@ -12,13 +12,13 @@ This section explains the roles of professionals you might come across. The indi
 
 - Healthcare professionals that are trained in the science and everyday management of nutrition.
 - They use the most up-to-date public health and scientific research on food, health and disease. They translate this into practical guidance to enable people to make appropriate lifestyle and food choices.
-- They must be registered with the Health and Care 
-Professions Council (HCPC) to work as a dietician in the UK. 
+- They must be registered with the _Health and Care 
+Professions Council (HCPC)_ to work as a dietician in the UK. 
 
 Please note a _nutritionist_ is not the same as a _dietitian_ (though some nutritionists are registered dietitians). A qualified nutritionist will have knowledge about nutrition. However, they may not be trained to give individual dietary advice to people with medical conditions. Nutritionists are not legally required to be registered as above, though many are on voluntary registers.
 
 ### Doctors
-- Must be registered with the General Medical Council (GMC) to practice in the UK. They are required to maintain their knowledge and skill.
+- Must be registered with the _General Medical Council (GMC)_ to practice in the UK. They are required to maintain their knowledge and skill.
 - **General Practitioners (GPs):** Generalists who deal with a wide range of problems. They have finished their training and are registered as a GP. It takes at least 10 years to become a GP.
   -  Some GPs have _special interests_ which are accredited topics of specialist knowledge. This adds on to their role as a generalist. They have completed the required training and are registered as a specialist. May be hospital or community based. It takes at least 12 years to become a consultant, depending on the topic.
 - **Consultants:** Specialists with advanced knowledge in a narrower area. They have completed the required training and are registered as a specialist. May be hospital or community based. It takes at least 12 years to become a consultant, depending on the topic.
@@ -27,23 +27,32 @@ Please note a _nutritionist_ is not the same as a _dietitian_ (though some nutri
   - 'Foundation Doctors' are in their first two years of training after graduating from university medical school. They will be gaining broad experience across a range of specialties and settings.
   - Other terms that you may see include ‘Fellow’, ‘Trust Grade’ or ‘Associate Specialist’. 
 
-**Healthcare Assistants (HCAs)**
+### Healthcare Assistants (HCAs)
+- Also known as _nursing assistants_, _nursing auxiliaries_ or _auxiliary nurses_.
+- They work in GP surgeries, community services or hospitals. Much of their training will be on the job.
+- Roles include:
+  - In hospital, they may help people wash and dress. They may also measure people’s temperature or blood pressure.
+  - In a GP surgery, they may conduct health checks, perform blood tests or do simple wound care.
 
-- Support care in hospitals or GP practices.
-- Roles: assisting with washing, dressing, health checks, and simple procedures.
+### Home Care Workers
+Also known as _Paid Carers_
+- They come to your home to support personal care, such as washing and dressing.
+- They may be employed directly or via an agency.
+- There are no standardised qualification requirements for Home Care Workers but many will have, for example, a diploma (previously ‘NVQ’) in Health and Social Care. The training requirements depend on their employer. 
 
-**Home Care Workers / Paid Carers**
+Please note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
 
-- Support personal care at home (washing, dressing).
-- No standard qualification; many have Health and Social Care diplomas (previously NVQs).
-- Not trained nurses; cannot perform nursing tasks.
-
-**Nurses**
-
-- Must be registered with the **Nursing & Midwifery Council (NMC)**.
-- Roles: Staff Nurse, Senior Staff Nurse, Ward Manager, Clinical Nurse Specialist (CNS), Advanced Nurse Practitioner (ANP), Consultant Nurse.
-- Some nurses can **prescribe medications**.
-- **Parkinson’s Disease Nurse Specialist (PDNS):** Focused on Parkinson’s care, symptom management, advice, and support.
+### Nurses
+- They must be registered with the _Nursing & Midwifery Council (NMC)_ to work in the UK.
+- Nursing titles vary by place of work but may include:
+  - ‘Staff Nurse’ - the initial grade of a fully qualified nurse.
+  - ‘Senior Staff Nurse’ or ‘Charge Nurse’ - more experience.
+  - ‘Ward Manager’ - more senior nurses, with more experience and more management responsibilities.
+- Nurses in GP surgeries, community services, or hospitals can take specialist training. After they have the experience they need, they can become:
+  - **Clinical Nurse Specialists (CNS)** or **Nurse Practitioners**, with specialist knowledge, skills and experience.
+  - **Advanced Nurse Practitioners (ANP)** and **Consultant Nurses**, with further specialist knowledge, skills and experience, including in research, strategic and clinical domains.
+- Some nurses take special training to be able to prescribe medicine. They can then register to do so on their own.
+- Parkinson’s Nurses have specialist experience in Parkinson’s. Focused on Parkinson’s care, symptom management, advice, and support.
 
 <div class="video-container">
 <iframe 
@@ -55,12 +64,13 @@ Please note a _nutritionist_ is not the same as a _dietitian_ (though some nutri
 </iframe>
 </div>
 
-**Occupational Therapists (OTs)**
-
-- Registered with **HCPC**.
-- Help improve daily living abilities.
-- Can diagnose, teach problem-solving strategies, and advise on equipment.
-- May advance to **Advanced Clinical Practitioner**.
+### Occupational Therapists (OTs)
+- They must be registered with the _Health and Care Professions Council (HCPC)_ to work in the UK.
+- They are healthcare professionals that are trained to help improve your ability to do everyday tasks.
+- The role inccludes:
+  - Teaching problem solving and adaptive strategies.
+  - Advising on equipment for dealing with difficulties.
+- OTs can undergo further training to become an ‘Advanced Clinical Practitioner’.
 
 <div class="video-container">
 <iframe 
@@ -72,23 +82,35 @@ Please note a _nutritionist_ is not the same as a _dietitian_ (though some nutri
 </iframe>
 </div>
 
-**Parkinson’s Practitioner**
+### Parkinson’s Practitioner
+- A Parkinson’s Practitioner is an ‘Advanced Clinical Practitioner’ who has specific interest and experience in Parkinson’s.
+- An ‘Advanced Clinical Practitioner’ is a registered health or social care professional with a high level of knowledge, skill and experience, particularly for complex decision making.
+- They may be from any clinical background, for example nursing or physiotherapy. 
 
-- Advanced Clinical Practitioner specializing in Parkinson’s.
-- Can come from nursing or physiotherapy backgrounds.
+### Pharmacists
+- They are healthcare professionals trained in the science and management of medication.
+- They can work in hospitals as well as in the community.
+- Pharmacists and Pharmacy Technicians must be registered with the _General Pharmaceutical Council (GPhC)_ to work in the UK.
+- Some take special training on prescribing medicine. Once they register, they are able to do so on their own.
+- Pharmacy Technicians are not pharmacists but support their role.
+- The role of a pharmacist includes:
+  - They make sure to supply medicine on time.
+  - They can give clinical advice to people receiving medicine. They can also give advice about medicine to other healthcare staff.
+  - They support people to get the most out of their medicines.
+  - They can conduct reviews of medications.
+  - Some pharmacists will offer other services, such as travel or flu vaccinations.
 
-**Pharmacists**
+### Physiotherapists
+Also known as _Physical Therapists_
 
-- Registered with the **General Pharmaceutical Council (GPhC)**.
-- Roles: dispense medicine, provide clinical advice, review medications, and administer vaccinations.
-- **Pharmacy Technicians** assist pharmacists.
-
-**Physiotherapists (Physical Therapists)**
-
-- Registered with **HCPC**.
-- Improve movement, function, and reduce injury risk.
-- Roles: assessment, treatment, education, exercises, movement strategies, manual therapy, equipment advice.
-- May advance to **Advanced Clinical Practitioner**.
+- They are healthcare professionals trained to help improve movement and function and reduce the risk of injury. They take a patient centred, holistic approach.
+- Physiotherapists can assess, treat and give advice at all stages of Parkinson’s.
+- They must be registered with the _Health and Care Professions Council (HCPC)_ to work in the UK.
+- The role includes:
+  - They can diagnose and assess of problems in movement and function; o They can give education and advice on this.
+  - They can give treatments. This could be exercises and movements, or movement strategies that are tailored to you.
+  - They can also use manual therapy, equipment and specialist techniques. 
+- They can undergo further training to become an ‘Advanced Clinical Practitioner’.
 
 <div class="video-container">
 <iframe 
@@ -100,13 +122,20 @@ Please note a _nutritionist_ is not the same as a _dietitian_ (though some nutri
 </iframe>
 </div>
 
-**Psychologists**
+### Psychologists
+- **Clinical Psychologists** are Healthcare professionals who trained to reduce distress and promote psychological wellbeing.
+- **Clinical Neuropsychologists** are specialised clinical psychologists. They have studied how the brain affects thinking skills (e.g. memory, attention and visual perception) and behaviour.
 
-- **Clinical Psychologists:** Mental health and wellbeing.
-- **Clinical Neuropsychologists:** Specialize in brain-behavior relationships.
-- Registered with **HCPC**.
-- Provide assessment, therapy, and rehabilitation plans.
-- Different from **psychotherapists or counsellors**, who are not required to be registered.
+- They both must be registered with the _Health and Care Professions Council (HCPC)_ to work in the UK.
+- They work with people who:
+  - Are having issues with mental health. This could be low mood or anxiety.
+  - Are going through difficult times. This could be due to stress or bereavement.
+  - Are having problems with relationships. This could be couple or family problems.
+- They will first assess the psychological problem. They can then advise if therapy would be useful. A neuropsychologist can assess thinking skills and behaviour. They can use interviews, questionnaires or tests to do this. They can also make rehabilitation or treatment plans.
+- There are many different types of talking therapies (e.g. psychodynamic, cognitive behavioural). They may differ in their length, focus and technique.
+- Therapy may be delivered in person, over the phone or in groups. 
+
+Please note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, though some people have trained as both. Psychotherapists and counsellors are trained to give a particular treatment (psychotherapy or counselling), whereas clinical psychologists have a broader role, as above. Psychotherapists and counsellors are not legally required to be registered as above, though many are on voluntary registers. 
 
 **Social Workers**
 
