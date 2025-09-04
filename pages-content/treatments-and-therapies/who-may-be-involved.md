@@ -9,13 +9,12 @@ Throughout your Parkinson’s journey, your health professionals, including your
 This section explains the roles of professionals you might come across. The individuals listed below may work in GP surgeries, community services, or hospitals. You may also meet students training in these professions; they work under the supervision of fully qualified staff. Many workplaces use colour-coded uniforms to indicate roles. If you're unsure who someone is, just ask. You’ll find extra information below each role to help you learn more.
 
 ### Dietitians
-
 - Healthcare professionals that are trained in the science and everyday management of nutrition.
 - They use the most up-to-date public health and scientific research on food, health and disease. They translate this into practical guidance to enable people to make appropriate lifestyle and food choices.
 - They must be registered with the _Health and Care 
 Professions Council (HCPC)_ to work as a dietician in the UK. 
 
-Please note a _nutritionist_ is not the same as a _dietitian_ (though some nutritionists are registered dietitians). A qualified nutritionist will have knowledge about nutrition. However, they may not be trained to give individual dietary advice to people with medical conditions. Nutritionists are not legally required to be registered as above, though many are on voluntary registers.
+Note a _nutritionist_ is not the same as a _dietitian_ (though some nutritionists are registered dietitians). A qualified nutritionist will have knowledge about nutrition. However, they may not be trained to give individual dietary advice to people with medical conditions. Nutritionists are not legally required to be registered as above, though many are on voluntary registers.
 
 ### Doctors
 - Must be registered with the _General Medical Council (GMC)_ to practice in the UK. They are required to maintain their knowledge and skill.
@@ -28,19 +27,19 @@ Please note a _nutritionist_ is not the same as a _dietitian_ (though some nutri
   - Other terms that you may see include ‘Fellow’, ‘Trust Grade’ or ‘Associate Specialist’. 
 
 ### Healthcare Assistants (HCAs)
-- Also known as _nursing assistants_, _nursing auxiliaries_ or _auxiliary nurses_.
+Also known as _nursing assistants_, _nursing auxiliaries_ or _auxiliary nurses_.
 - They work in GP surgeries, community services or hospitals. Much of their training will be on the job.
 - Roles include:
   - In hospital, they may help people wash and dress. They may also measure people’s temperature or blood pressure.
   - In a GP surgery, they may conduct health checks, perform blood tests or do simple wound care.
 
 ### Home Care Workers
-Also known as _Paid Carers_
+Also known as _Paid Carers_.
 - They come to your home to support personal care, such as washing and dressing.
 - They may be employed directly or via an agency.
 - There are no standardised qualification requirements for Home Care Workers but many will have, for example, a diploma (previously ‘NVQ’) in Health and Social Care. The training requirements depend on their employer. 
 
-Please note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
+Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
 
 ### Nurses
 - They must be registered with the _Nursing & Midwifery Council (NMC)_ to work in the UK.
@@ -135,7 +134,7 @@ Also known as _Physical Therapists_
 - There are many different types of talking therapies (e.g. psychodynamic, cognitive behavioural). They may differ in their length, focus and technique.
 - Therapy may be delivered in person, over the phone or in groups. 
 
-Please note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, though some people have trained as both. Psychotherapists and counsellors are trained to give a particular treatment (psychotherapy or counselling), whereas clinical psychologists have a broader role, as above. Psychotherapists and counsellors are not legally required to be registered as above, though many are on voluntary registers. 
+Note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, though some people have trained as both. Psychotherapists and counsellors are trained to give a particular treatment (psychotherapy or counselling), whereas clinical psychologists have a broader role, as above. Psychotherapists and counsellors are not legally required to be registered as above, though many are on voluntary registers. 
 
 ### Social Workers
 - Social workers are professionals who aim to improve people’s lives by helping with social and interpersonal problems. They try to promote a person’s rights and wellbeing.
@@ -190,7 +189,7 @@ Also known as _Therapy Support Workers_ or _Rehabilitation Assistants_
 ## Specialties: What's what?
 
 ### General Practice (GPs)
-Your first point of contact for health concerns
+Your first point of contact for health concerns.
 - They have a broad remit. They provide your general medical care, whether that be a new illness, a long term one, or preventing illness. This includes physical and mental health for people of all ages.
 - They are responsible for the coordination of your care, e.g. make referrals to specialists when required.
 - They hold your main medical records (other services should send summaries to your GP).
@@ -218,7 +217,6 @@ There are more than 60 specialties, but the following are the more common specia
 ---
 
 ## Organisational Level
-
 In the UK, there is a split between **_Healthcare_** (National Health Service, NHS) and **_Social Care_** (or Social Services). Note the financial comments apply to people living in the UK (those with “ordinary residence”). There may be a charge for overseas visitors. See the NHS website for more details on who is in entitled to NHS services. 
 
 ### Healthcare
@@ -240,8 +238,6 @@ In the UK, there is a split between **_Healthcare_** (National Health Service, N
   - Assistance with home adaptations
 - There are some cases where provision for social care needs are covered by the NHS. This is known as _Continuing Healthcare (CHC)_. Please see the Finances page for more information. 
 
----
-
 ## Private Healthcare
 - There are many options for healthcare through the private sector.
 - The waiting times are often shorter, but there is a fee. This can be substantial if you are not covered by a private insurance plan.
@@ -259,14 +255,10 @@ In the UK, there is a split between **_Healthcare_** (National Health Service, N
     - The Professional Standards Authority holds a list of accredited voluntary registers which they have independently assessed against their own standards. They cover professions that are not regulated by law, such as psychotherapists.
   - Review the reports for the provider by the _Care Quality Commission (CQC)_ – website below.
   - Some professionals work across both NHS and private services whereas others just work in one.
-- More information is available on the NHS website. 
+- More information is available on the NHS website.
 
----
-
-## Private Social Care
-
-- Arrange a **Needs Assessment** through your local council Adult Social Care department.
-- If eligible, a **Financial Assessment** determines council contribution.
+### Private Social Care
+As indicated above, social care is not necessarily provided as a free public service. To request a Needs Assessment, Contact your local council Adult Social Care department. If care is recommended, they will conduct a Financial Assessment. This determines if the council will contribute to the cost or not.
 
 ---
 
