@@ -195,18 +195,15 @@ Maintaining a healthy diet and good hydration whilst in hospital will also help 
 
 ### Falls
 The different environment, as well as changes in the body, lead to higher risk of falls in hospital. Having said that, it is important not to let fear of falls keep you in bed all of the time which risks deconditioning. Ways to reduce risk of falls in hospital:
-
-- Make sure ward staff know what help you need – whether that is equipment or a person
-- Make sure you know how to call for help. Most hospitals have an alarm system with a button to press
-- Wear appropriate footwear
-- Stand up slowly to reduce dizziness
+- Make sure ward staff know what help you need – whether that is equipment or a person.
+- Make sure you know how to call for help. Most hospitals have an alarm system with a button to press.
+- Wear appropriate footwear.
+- Stand up slowly to reduce dizziness.
 
 ## Delirium
-
 Delirium is a dysfunction of the brain that can occur when the body is put under additional stress. This includes if someone is unwell in hospital. It shows as changes in alertness (either drowsiness, hyperactivity, or both), attention and orientation. Many people describe this as being confused. It can affect the way someone behaves. Delirium varies over the day(s) and can disrupt sleep patterns.
 
 Typical causes include:
-
 - Infections and other medical problems
 - Medication
 - Abnormal blood chemistry (e.g. high or low blood sugar levels or blood calcium levels)
@@ -218,77 +215,70 @@ Typical causes include:
 Risk of delirium is much greater in hospital. This can be made worse by being in a different and unfamiliar environment.
 
 If you have delirium, things that help:
-
 - Staff and visitors should re-introduce themselves each time they interact
-- Staff and visitors can gently and regularly re-orientate you. This can be done by reminding you what day or time it is, where you are etc
-- Prompts to help you keep orientated: Clocks, date displays, newspapers and signs with names of people or the place
-- Viewing familiar things, such as photographs of loved ones
-- Try to maintain a normal day-night sleep-wake cycle. Avoid daytime naps if possible
-- Staying hydrated
+- Staff and visitors can gently and regularly re-orientate you. This can be done by reminding you what day or time it is, where you are etc.
+- Prompts to help you keep orientated: Clocks, date displays, newspapers and signs with names of people or the place.
+- Viewing familiar things, such as photographs of loved ones.
+- Try to maintain a normal day-night sleep-wake cycle. Avoid daytime naps if possible.
+- Staying hydrated.
 
-# Undergoing surgery
-
+### Undergoing surgery
 Many of the same principles as discussed above apply. People undergoing surgery are at a higher risk of delirium.
 
 It is important that if you are having a General Anaesthetic (put to sleep) for the operation that the anaesthetist knows you have Parkinson’s. This is because can influence their choice of anaesthetic, pain relief and anti-sickness medicines.
 
-Managing medications around surgery can be complicated. This is particularly so if it is a long operation. This should be considered before the surgery takes place. Although people are required to have an empty stomach before a general anaesthetic, the needs for not having food are different to the need for medicines. For this reason try to ask about this to make sure you do not unnecessarily miss medication. In some cases, medication may be given via a tube into the stomach or via a patch on the skin during surgery.
+Managing medications around surgery can be complicated. This is particularly so if it is a long operation. This should be considered before the surgery takes place. Although people are required to have an empty stomach before a general anaesthetic, the needs for not having food are different to the need for medicines. For this reason, try to ask about this to make sure you do not unnecessarily miss medication. In some cases, medication may be given via a tube into the stomach or via a patch on the skin during surgery.
 
 Some medications given in the hospital (for example medicines to reduce pain) can interact with the medications you take for your Parkinson’s. They can cause confusion, dizziness or nausea, for example. It is important to always let staff know if you don’t feel right in any way.
 
-## Hospital policies
+---
 
+## Hospital policies
 Local hospital policies widely vary, from parking charges through to visiting hours. Different ways of communicating information to friends and relatives are used in different hospitals. If you want more information about how something works in your hospital, ask a member or staff or try looking at the hospital website. There are however a few areas that are the same across the NHS that it may be helpful to know about.
 
 ### Single rooms and open wards
-
-Single rooms are not standard for NHS care. Availability of single rooms varies place to place. They are sometimes required due to the risk of infection spread and for some specific personal circumstances. There may also be reasons for not using a single room. This might be, for example, the space needed for equipment, risk of isolation, or so that staff can more easily observe someone’s condition. If you are unsure why you are in a particular room or bed, talk to your named nurse or the nurse in charge. If you wish to be cared for in a private hospital or on a private wing of an NHS hospital then you or your family can arrange it if practical. Sometimes you may be put in a close observation ward due to having Parkinson’s. As these wards tend to have a nurse around at all times they will also tend to have people with dementia in them. Do not be alarmed if this is the case.
+Single rooms are not standard for NHS care. Availability of single rooms varies place to place. They are sometimes required due to the risk of infection spread and for some specific personal circumstances. There may also be reasons for not using a single room. This might be, for example, the space needed for equipment, risk of isolation, or so that staff can more easily observe someone’s condition. If you are unsure why you are in a particular room or bed, talk to your named nurse or the nurse in charge. If you wish to be cared for in a private hospital or on a private wing of an NHS hospital, then you or your family can arrange it if practical. Sometimes you may be put in a close observation ward due to having Parkinson’s. As these wards tend to have a nurse around at all times, they will also tend to have people with dementia in them. Do not be alarmed if this is the case.
 
 ### Risk assessment for blood clots
-
 Everyone staying in hospital is assessed for their risk of developing blood clots. This is a medical ‘risk-benefit decision process’ that guides the formulation of a plan. This plan may sometimes involve a small daily injection of a blood thinning medicine to reduce the risk of blood clots. If you have any questions, ask the team looking after you.
 
 ### Preventing spread of infection
-
 Staff are trained in hand washing and hygienic approaches to help control spread of infections. They should wash their hands or use cleaning gel between every patient contact. In some circumstances additional measures are required such as gloves, aprons or masks, to prevent spread of infection.
 
 Visitors should wash their hands or use cleaning gel on entering and exiting the ward. They may be asked to take additional measures (e.g. gloves, aprons, masks) if deemed necessary. If you have any questions, ask the team looking after you. If you notice a nurse coming to attend to you has not washed their hands, you must ask them to wash their hands – this is your right.
 
-## Complaints & compliments
+---
 
+### Complaints & compliments
 If you are not happy about your care, you can consider talking to the team looking after you. All hospitals will have procedures in place for dealing with incidents that occur in hospital. These are also in place to deal with complaints or compliments that are made. You can ask the team looking after you to direct you to more information, or there are some national organisations who help:
+- England – **PALS:** Patient Advice & Liaison Service
+- Scotland – **PASS:** Patient Advice & Support Service
+- Wales – **Community Health Council**
 
-- **England** – PALS: Patient Advice & Liaison Service
-- **Scotland** – PASS: Patient Advice & Support Service
-- **Wales** – Community Health Council
-
-Other advocates include charities e.g. Parkinson’s UK and the advocacy and information service POhWER. Also your local healthwatch can help.  
-[https://www.healthwatch.co.uk/your-local-healthwatch/list](https://www.healthwatch.co.uk/your-local-healthwatch/list)
+Other advocates include charities e.g. Parkinson’s UK and the advocacy and information service _POhWER_. Also your [local healthwatch](https://www.healthwatch.co.uk/your-local-healthwatch/list) can help.
 
 More information is available on the NHS website.
 
-# Discharge from hospital
+---
 
+# Discharge from hospital
 Before you leave hospital, there are various plans that need to be put in place:
 
 ## Support
-
 Has there been a change in what you are able to do that might mean you should have different support at home? This might be temporary while you continue to recover. It might be longer term.  
 A range of professionals can assess your needs.  
 This will consider tasks you undertake in your daily life. The professional who will complete this will depend on the circumstances.
 
 ## My Experience
-
 People affected by Parkinson’s describe their experiences.
 
-> So, they said they could make sure he can get up a couple of steps. And I think the stair-lift had to be fitted before he come home. And they had to assess the house and all that. (Carer of someone with Parkinson’s)
+> So, they said they could make sure he can get up a couple of steps. And I think the stair-lift had to be fitted before he come home. And they had to assess the house and all that.
+> _(Carer of someone with Parkinson’s)_
 
 ## Medication
-
-There is a process of providing a list of medication that you should be taking on discharge from the hospital. Also for providing sufficient supply if you do not already have it. It is important that the hospital team lets you, your GP and Parkinson’s specialist team know of any medication changes. They should also include the reasons for any changes. Bear in mind it can take a week or so for the GP to be made aware of any medicine changes. You may need to talk to your GP soon after discharge to go through these changes.
+There is a process of providing a list of medication that you should be taking on discharge from the hospital. Also, for providing sufficient supply if you do not already have it. It is important that the hospital team lets you, your GP and Parkinson’s specialist team know of any medication changes. They should also include the reasons for any changes. Bear in mind it can take a week or so for the GP to be made aware of any medicine changes. You may need to talk to your GP soon after discharge to go through these changes.
 
 You may need further medical input to follow-up after your admission. This may be at the hospital or via your GP. In some cases the exact appointment will not be made before you leave hospital. It is important to make sure you understand what the plan is:
-
 - Are you to make an appointment with your GP yourself?
 - Are you to expect a letter about a hospital appointment?
 
@@ -304,15 +294,18 @@ Note it is important to communicate any changes in your living arrangements. Thi
 </iframe>
 </div>
 
-## Decision making
+---
 
+## Decision making
 Decisions about health and care should be taken together with your healthcare professional. This is shared decision making. The healthcare professional gives you advice, and you have the final decision. This does not mean you can demand a treatment that is not thought to be right for you by professionals, but that you are in control of your care.
 
-Sometimes thinking and memory problems can interfere with a person’s ability to make decisions. If this is the case, they may ‘lack capacity’ to make the decision. Capacity can be different for different decisions, this is usually due to complexity. It can also vary over time. See Legal Matters for more information on what happens if someone ‘lacks capacity’ for the decisions around their care.  
+Sometimes thinking and memory problems can interfere with a person’s ability to make decisions. If this is the case, they may ‘lack capacity’ to make the decision. Capacity can be different for different decisions, this is usually due to complexity. It can also vary over time. See _Legal Matters_ for more information on what happens if someone ‘lacks capacity’ for the decisions around their care. 
+
 If someone lacks capacity to consent to the hospital admission and care, and they require constant supervision, then a legal process must be followed. This is known as ‘Deprivation of Liberty Safeguards’ (DOLS). This is to protect them and make sure decisions are taken in their ‘best interests’. In some cases this may involve keeping them in hospital even when they say they want to go home.  
+
 This is if being treated in hospital is in their best interests.
 
-Some people will have a Power of attorney in place, in which case the healthcare professionals will include them in decision making. Please see Legal Matters for further details about this.
+Some people will have a Power of attorney in place, in which case the healthcare professionals will include them in decision making. Please see _Legal Matters_ for further details about this.
 
 If someone has a mental health problem that causes them to be at serious risk to themselves or others, then a legal framework may be used to make some health decisions for them. This could be to stay in hospital, or for treatment for the mental health problem. The law that is followed is the Mental Health Act.
 
