@@ -1,30 +1,31 @@
-# Who May Be Involved in Parkinson’s Care
+# Who May Be Involved?
+Parkinson’s care often involves a **Multi-Disciplinary Team (MDT)** approach, meaning multiple healthcare professionals work together to manage your care. As such, you may come across a wide range of professionals, and the team members you meet will depend on your individual needs and condition.
 
-Parkinson’s care often involves a **Multi-Disciplinary Team (MDT)** approach, meaning multiple healthcare professionals work together to manage your care. The team members you meet will depend on your needs and condition.
+Throughout your Parkinson’s journey, your health professionals, including your GP or specialist, may ask for other professionals to be involved in your care. This will vary between individuals living with Parkinson’s depending on the symptoms and challenges they experience. Read on to learn more about which specialists maybe involved if you need them.
 
 ---
 
 ## Individuals: Who’s Who?
+This section explains the roles of professionals you might come across. The individuals listed below may work in GP surgeries, community services, or hospitals. You may also meet students training in these professions; they work under the supervision of fully qualified staff. Many workplaces use colour-coded uniforms to indicate roles. If you're unsure who someone is, just ask. You’ll find extra information below each role to help you learn more.
 
-You may meet professionals in **GP surgeries, community services, or hospitals**, including students under supervision. Uniforms may indicate roles; if unsure, ask.
+### Dietitians
 
-### Key Roles (Alphabetical)
+- Healthcare professionals that are trained in the science and everyday management of nutrition.
+- They use the most up-to-date public health and scientific research on food, health and disease. They translate this into practical guidance to enable people to make appropriate lifestyle and food choices.
+- They must be registered with the Health and Care 
+Professions Council (HCPC) to work as a dietician in the UK. 
 
-**Dietitians**
+Please note a _nutritionist_ is not the same as a _dietitian_ (though some nutritionists are registered dietitians). A qualified nutritionist will have knowledge about nutrition. However, they may not be trained to give individual dietary advice to people with medical conditions. Nutritionists are not legally required to be registered as above, though many are on voluntary registers.
 
-- Experts in nutrition and practical dietary advice.
-- Must be registered with the **Health and Care Professions Council (HCPC)**.
-- **Nutritionists** are not the same; may lack medical training for individual dietary advice.
-
-**Doctors**
-
-- Must be registered with the **General Medical Council (GMC)**.
-- **General Practitioners (GPs):** Generalists managing a wide range of health issues. May have accredited special interests.
-- **Consultants:** Specialists with advanced knowledge in a narrower area.
-- **Junior Doctors:** Qualified doctors gaining experience. Includes:
-  - Registrars/Specialty Trainees: Step before GP/consultant.
-  - Foundation Doctors: First two years post-graduation.
-  - Other terms: Fellow, Trust Grade, Associate Specialist.
+### Doctors
+- Must be registered with the General Medical Council (GMC) to practice in the UK. They are required to maintain their knowledge and skill.
+- **General Practitioners (GPs):** Generalists who deal with a wide range of problems. They have finished their training and are registered as a GP. It takes at least 10 years to become a GP.
+  -  Some GPs have _special interests_ which are accredited topics of specialist knowledge. This adds on to their role as a generalist. They have completed the required training and are registered as a specialist. May be hospital or community based. It takes at least 12 years to become a consultant, depending on the topic.
+- **Consultants:** Specialists with advanced knowledge in a narrower area. They have completed the required training and are registered as a specialist. May be hospital or community based. It takes at least 12 years to become a consultant, depending on the topic.
+- **Junior Doctors:** Qualified doctors but gaining experience in a particular area. This is a broad term that encompasses a range of experience, as specialty training takes many years. It includes all qualified doctors who are not consultants or GPs such as:
+  - 'Registrar' or 'Specialty Trainees' is the step before becoming a GP or consultant, so they work in a particular area.
+  - 'Foundation Doctors' are in their first two years of training after graduating from university medical school. They will be gaining broad experience across a range of specialties and settings.
+  - Other terms that you may see include ‘Fellow’, ‘Trust Grade’ or ‘Associate Specialist’. 
 
 **Healthcare Assistants (HCAs)**
 
