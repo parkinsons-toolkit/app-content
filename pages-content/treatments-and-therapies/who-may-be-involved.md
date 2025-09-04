@@ -137,17 +137,23 @@ Also known as _Physical Therapists_
 
 Please note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, though some people have trained as both. Psychotherapists and counsellors are trained to give a particular treatment (psychotherapy or counselling), whereas clinical psychologists have a broader role, as above. Psychotherapists and counsellors are not legally required to be registered as above, though many are on voluntary registers. 
 
-**Social Workers**
+### Social Workers
+- Social workers are professionals who aim to improve people’s lives by helping with social and interpersonal problems. They try to promote a person’s rights and wellbeing.
+- They work under ‘Social Care’ rather than ‘Healthcare’ but they can be based in a hospital or community service.
+- Must be registered to work as a social worker in the UK:
+  - _Social Work England_
+  - _Social Care Wales_
+  - _Scottish Social Services Council_
+  - _Northern Ireland Social Care Council_
 
-- Help with social and interpersonal issues, promoting rights and wellbeing.
-- Must be registered with relevant national bodies (e.g., Social Work England, Social Care Wales).
-
-**Speech & Language Therapists (SLTs)**
-
-- Registered with **HCPC**.
-- Diagnose and treat communication and swallowing problems.
-- Can advise on strategies and equipment.
-- May advance to **Advanced Clinical Practitioner**.
+### Speech & Language Therapists (SLTs)
+- Healthcare professionals that are trained in issues with communication and swallowing.
+- They must be registered with the _Health and Care Professions Council (HCPC)_ to work in the UK.
+- The role can be to:
+  - Diagnose and assess problems with communication or swallowing.
+  - Give treatment and teach strategies to deal with this
+  - Give advice on equipment or interventions that might be needed.
+- They can undergo further training to become an ‘Advanced Clinical Practitioner’.
 
 <div class="video-container">
 <iframe 
@@ -159,11 +165,15 @@ Please note a _psychotherapist_ or _counsellor_ is not the same as a _psychologi
 </iframe>
 </div>
 
-**Therapy Assistants**
+### Therapy Assistants
+Also known as _Therapy Support Workers_ or _Rehabilitation Assistants_
 
-- Also called Therapy Support Workers or Rehabilitation Assistants.
-- Support therapists or dietitians under supervision.
-- Roles: assist with exercises, equipment use, weighing, and monitoring food intake.
+- They support the work of a registered therapist or dietitian, under their guidance. They may work across a range of therapy types at any one time.
+- They work in community services or hospitals, with much of the training being on the job.
+- Their role can be to:
+  - Work on exercises with people.
+  - Help people use aids and equipment.
+  - Weigh people or help to record food intake.
 
 <div class="video-container">
 <iframe 
@@ -177,70 +187,79 @@ Please note a _psychotherapist_ or _counsellor_ is not the same as a _psychologi
 
 ---
 
-## Specialties in Parkinson’s Care
+## Specialties: What's what?
 
-**General Practice (GPs)**
+### General Practice (GPs)
+Your first point of contact for health concerns
+- They have a broad remit. They provide your general medical care, whether that be a new illness, a long term one, or preventing illness. This includes physical and mental health for people of all ages.
+- They are responsible for the coordination of your care, e.g. make referrals to specialists when required.
+- They hold your main medical records (other services should send summaries to your GP).
+- They issue you with prescriptions for most medications (some are only issued by a specialist).
+- They can signpost you to free services in the area that may help your health and wellbeing (social prescribing). 
 
-- First point of contact for all health concerns.
-- Coordinate care, hold records, issue prescriptions, and provide social prescribing.
+### Parkinson’s Specialist Teams
+It is recommended that people with Parkinson’s have a named specialist doctor. This will be a doctor responsible for the care of their Parkinson’s. They are often based in a hospital, though there is variation in who provides this.
+- **Neurologists:** A doctor with a focus on conditions affecting the “nervous system” (e.g. the brain, spinal cord and nerves).
+- **Geriatricians:** A doctor with a focus on the care of older adults.
 
-**Parkinson’s Specialist Teams**
+For both of these, there can be some doctors that have a sub-specialty focus and expertise. This could be in Parkinson’s and related conditions, _Movement Disorders_. It is recommended that people with Parkinson’s have a regular and stable point of contact. This would be a trusted source of information specific to Parkinson’s. In many teams this would be provided by a specialist nurse. 
 
-- Named specialist doctor responsible for Parkinson’s care.
-- **Neurologists:** Focus on nervous system conditions.
-- **Geriatricians:** Focus on older adults’ care.
-- **PDNS:** Key contact for advice, symptom management, and support; may prescribe medication or make home visits.
+- **Parkinson's Disease Nurse Specialist (PDNS):** This is a nurse specialist practitioner who can assess and manage symptoms of, and medication used in Parkinson’s. They can provide advice and support, with timely responses to problems. Some PDNSs can prescribe medication. Some of them but not all will make home visits as part of their role, usually when they are community-based, whereas others can provide care during a hospital admission, usually when they are hospital-based. 
 
-**Other Specialties**
-
-- **Accident & Emergency (A&E):** Emergency and urgent care.
-- **Neurosurgery:** Brain, spinal cord, and nerve procedures, including advanced Parkinson’s treatments.
-- **Urology:** Urinary tract issues, e.g., bladder control.
-- **Psychiatry:** Mental health, mood, memory; medical qualification (different from psychologists).
-- **Palliative Care / Supportive Care:** Symptom control, quality of life, not limited to end-of-life care.
-
----
-
-This MDT approach ensures **holistic and coordinated care**, addressing medical, functional, psychological, and social aspects of Parkinson’s disease.
-
-# Organisational Level: Healthcare and Social Care in the UK
-
-In the UK, healthcare and social care are **separate systems**. Costs, access, and services differ depending on whether care is provided by the **NHS**, local councils, or privately.
+### Other Specialties
+There are more than 60 specialties, but the following are the more common specialties to be involved. They may be based in hospitals or in community services:
+- **Accident & Emergency (A&E):** Broad remit as this can include people of all ages with any condition. Their expertise lies in the emergency and urgent aspects of care. Part of this involves determining where someone is best treated, e.g. in hospital or at home.
+- **Neurosurgery:** Specialists in procedures on the nervous system (e.g. the brain, spinal cords, and nerves). Some advanced treatments used for Parkinson’s involve brain surgery. This would be done by Neurosurgeons.
+- **Urology:** They are specialists in the urinary tract, including bladder, prostate, kidneys and the tubes between them. They may be involved for example, for problems with bladder control.
+- **Psychiatry:** Specialists in mental health so may be involved, for example, for problems with mood or memory.
+  - Note _psychiatrists_ are clinical doctors (have a medical qualification). This is different from _psychologists_ as described above (have a psychology qualification), but they often work together. 
+- **Palliative Care:** Sometimes called 'supportive care', they are specialists in symptom control, for a range of different health conditions. The aim of palliative care is to help you to have a good quality of life. o	They also have expertise in care in later stages of life, but palliative care is <ins>not</ins> just about end of life. 
 
 ---
 
-## Healthcare
+## Organisational Level
 
-- **Free at the point of access** for UK residents. Overseas visitors may be charged.
-- Covers **prevention, treatment, and care** for illness, injury, or disability. Examples include GP check-ups, hospital care, and physiotherapy.
-- Services are split into levels:
-  - **Primary Care:** First point of contact (GPs, A&E).
-  - **Secondary Care:** Hospital and community care following referral from primary care. Can be planned, urgent, or emergency.
-  - **Tertiary Care:** Highly specialized services (e.g., neurosurgery) following referral from secondary care.
-- Some services are commissioned nationally, others locally. Availability may vary by area.
+In the UK, there is a split between **_Healthcare_** (National Health Service, NHS) and **_Social Care_** (or Social Services). Note the financial comments apply to people living in the UK (those with “ordinary residence”). There may be a charge for overseas visitors. See the NHS website for more details on who is in entitled to NHS services. 
 
----
+### Healthcare
+- This is free at the point of access.
+- It provides prevention, control or treatment of illness, injury or disability, and care of these. This can be:
+  - GP check-up
+  - Hospital care
+  - Physiotherapy
+- In healthcare, services are split into o Primary Care. This is the first point of contact, i.e. your GP or an A&E.
+  - **Secondary Care:** This is hospital and community care. It can be planned, urgent or emergency. It follows a referral from primary care.
+  - **Tertiary Care:** These are very specialised services, e.g. neurosurgery. This follows a referral from secondary care.
+- Some services are commissioned at a national level. Others can be at a local level. This means there can be differences in services by area. 
 
-## Social Care
-
-- **Financially assessed** based on income and savings.
-- Provides **support for daily living and social interaction**, promoting independence and protecting vulnerable people. Examples include:
-  - Home care for washing, dressing, and meals
+### Social Care
+- This is financially assessed. It depends on your income and savings.
+- It provides assistance with day-to-day activities and social interaction. It promotes independence and contribution to society and protects vulnerable people. This can be:
+  - Carers coming to your home to help you wash and dress
   - Supported living environments
-  - Home adaptations
-- Some needs may be covered by the NHS under **Continuing Healthcare (CHC)**.
+  - Assistance with home adaptations
+- There are some cases where provision for social care needs are covered by the NHS. This is known as _Continuing Healthcare (CHC)_. Please see the Finances page for more information. 
 
 ---
 
 ## Private Healthcare
-
-- Offers **shorter waiting times** but at a fee (unless covered by insurance).
-- To access via insurance, referrals from a GP are usually needed.
-- Accessing private healthcare **does not affect NHS entitlement**, but the services are separate.
-- Considerations for private care:
-  - Ensure the professional matches your needs (e.g., dietitian vs nutritionist, psychologist vs psychotherapist vs psychiatrist).
-  - Verify expertise, registration, and regulatory compliance.
-  - Check provider ratings with the **Care Quality Commission (CQC)**.
+- There are many options for healthcare through the private sector.
+- The waiting times are often shorter, but there is a fee. This can be substantial if you are not covered by a private insurance plan.
+- If you are due to be referred to another service and would prefer to go privately, do tell the person making the referral.
+- Some private services are covered by private health insurance. If you are unsure, contact your insurance provider to find out what is covered.
+- In most cases, to access private services and have this paid under insurance, you still need a referral from your GP.
+- Accessing private healthcare does not stop your entitlement to NHS healthcare, but they must be separate. The NHS does not subsidise private healthcare.
+- If you do chose to pursue private healthcare, here are a few considerations:
+  - Ensure they are the profession that you are seeking, for example:
+    - Dietitians and nutritionists are not the same.
+    - Psychologists, psychotherapists and psychiatrists are not the same.
+  - Look up the expertise of the provider. For example, does a private doctor have specialist expertise in Parkinson’s?
+  - Check that the provider is registered.
+    - Most healthcare providers are legally required to be registered with a regulatory body as listed for each profession above.
+    - The Professional Standards Authority holds a list of accredited voluntary registers which they have independently assessed against their own standards. They cover professions that are not regulated by law, such as psychotherapists.
+  - Review the reports for the provider by the _Care Quality Commission (CQC)_ – website below.
+  - Some professionals work across both NHS and private services whereas others just work in one.
+- More information is available on the NHS website. 
 
 ---
 
