@@ -31,4 +31,4 @@ There are two key areas of the toolkit:
 
 _Live Well with Parkinson’s_ was developed by the Personalised Care for Parkinson’s Disease (PD-Care) team at University College London. For more information on the PD-Care research study, please visit www.ucl.ac.uk/pd-care or you can ask the research team.
 
-For more information, see our [What is Parkinson's](/what-is-parkinsons) page
+Test link to <a href="/learn/what-is-parkinsons" class="internal-link">What is Parkinson's</a>
