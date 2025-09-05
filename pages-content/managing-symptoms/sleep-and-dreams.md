@@ -1,6 +1,6 @@
 # Sleep Disturbances and Dreams in Parkinson’s
 
-## Why Sleep Disturbances Happen in Parkinson’s
+## Sleep Disturbances
 
 1. **Parkinson’s-related causes**
 
