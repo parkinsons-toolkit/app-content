@@ -10,6 +10,22 @@ Content maintainers can edit the markdown files in `./pages-content` in this rep
 
 Make sure the name of the `.md` file is the same as the URL you would like the page to be accessed from in the app. For example, the file `what-is-parkinsons.md` would be accessed in the web app from `app-domain/what-is-parkinsons`. Use dashes `-` as separators and avoid using special characters.
 
+### Adding links
+
+Internal Links (To Other Pages on Our Site)
+
+Use HTML <a> tags with the internal-link class:
+
+<a href="/learn/what-is-parkinsons" class="internal-link">What is Parkinson's</a>
+<a href="/learn/managing-symptoms/movement" class="internal-link">Movement Issues</a>
+
+External Links (To Other Websites)
+
+Use HTML <a> tags with the external-link class:
+
+<a href="https://www.parkinsons.org.uk" class="external-link">Parkinson's UK</a>
+<a href="https://www.nhs.uk/conditions/parkinsons-disease" class="external-link">NHS Information</a>
+
 ### Adding image content
 
 Images can be stored in `./images` and inserted into the markdown files directly with:
