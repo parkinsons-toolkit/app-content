@@ -1,13 +1,13 @@
-# Tiredness and Fatigue in Parkinson’s
+# Tiredness and Fatigue
+_Tiredness_ affects everyone now and then. It tends to have an obvious cause, such as poor sleep. 
 
-## Understanding the Difference
+Tiredness often goes away with rest. 
+ 
+_Fatigue_ is more than simple tiredness. It can affect people in different ways. Sometimes it can be mild. Sometimes it can feel overwhelming. You may have a lack of energy and exhaustion. It can go on for a long time and impact day-to-day activity. 
 
-- **Tiredness**: Occasional, often obvious cause (e.g., poor sleep). Usually relieved by rest.
-- **Fatigue**: More persistent and overwhelming. Can affect energy, mood, and daily activity. May last a long time and significantly impact life.
-
-**Note:** Up to **50% of people with Parkinson’s** experience fatigue. Its exact cause is unknown, but multiple factors can contribute.
-
-**Daytime sleepiness** refers to feeling like you might fall asleep during the day.
+Fatigue affects up to half of people with Parkinson’s. The exact cause of this is unknown but lots of factors can contribute. 
+ 
+_Daytime sleepiness_ is falling asleep or feeling like you might fall asleep during the day. 
 
 <div class="video-container">
 <iframe 
@@ -21,34 +21,39 @@
 
 ---
 
-## Causes
+## What might be causing it?
 
-- **Parkinson’s itself** can cause fatigue and sleepiness. Fatigue may appear early in the disease.
-- **Medication effects**: Some Parkinson’s drugs can cause sleepiness, especially as doses wear off.
-- **Other causes**: Stress, low mood, poor sleep, anemia, diabetes, thyroid problems.
-- **Sudden, extreme tiredness** may indicate another illness (e.g., infection).
+There are lots of possible causes.
 
----
+Parkinson’s itself can cause fatigue and sleepiness, and fatigue may be an early symptom. In addition, drugs used in Parkinson’s can cause sleepiness. Tiredness can also occur when the medication wears off. This is noticed before the next dose is due.
 
-## When to Seek Professional Help
-
-See your **GP** if:
-
-- Constant tiredness > 4 weeks
-- Feeling unwell along with tiredness
-- Very bothered by tiredness
-- Loss of appetite or weight loss
-
-See your **GP or Parkinson’s specialist team** if:
-
-- Falling asleep during tasks
-- Symptoms appeared after starting a new Parkinson’s medication
-
-**Safety note:** Avoid driving or other risky activities if experiencing daytime sleepiness.
+Another common cause of fatigue or tiredness are stress or feeling low, which can impact on sleep. See our page on _Low Mood and Anxiety_. Sleep problems due to other causes can also impact on daytime tiredness. See the page on _Sleep disturbances_. 
+ 
+Less common causes of fatigue include some medical problems such as anaemia, diabetes or thyroid problems. 
+ 
+If you suddenly feel very tired or lacking in energy this may indicate that you are unwell from something else such as an infection. However, in this case you would probably have other symptoms too, e.g. fever. 
 
 ---
 
-## Self-Management Strategies
+## What should I do about it?
+There are many things you can try for yourself as below. But there are instances where you should seek professional help. 
+ 
+See your GP if: 
+- You feel constantly tired for more than 4 weeks.
+- You are tired and feeling unwell.
+- You are very bothered by your tiredness.
+- You have also lost your appetite or lost some weight.
+ 
+You should see your GP or contact your Parkinson’s specialist team if: 
+- You have started falling asleep during tasks.
+- Your symptoms have come on since starting a new Parkinson’s medication. 
+ 
+If you are falling asleep during tasks, it is important to consider your safety. You must not drive and should consider other scenarios (e.g. baths) where falling asleep unexpectedly could be dangerous.
+
+---
+
+## What Can I Try for Myself?
+There are some simple strategies that may help. You may have tried some of these already.
 
 <div class="video-container">
 <iframe 
@@ -60,79 +65,91 @@ See your **GP or Parkinson’s specialist team** if:
 </iframe>
 </div>
 
-### Daily Life
+### In day-to-day life
+- It may be helpful to think about what aspects of your life are tiring. Are there any triggers you can avoid?
+- You might need to pace yourself more. To help with this think what it is most important for you to achieve that day. Try to focus on this.
+- Bigger tasks can be broken down to something you think you can finish that day.
+- Be realistic, most things can wait for another day. 
+ 
+Further strategies are seen below; not all will be applicable to you. 
 
-- Identify tiring activities and triggers to avoid them.
-- **Pace yourself**: Prioritize tasks; break bigger tasks into manageable steps.
-- Be realistic: not everything needs to be done today.
+**If you are tired at work:**
+- Try to take regular breaks when you work.
+- Discuss how this can be achieved with your employer, who must make suitable adjustments.
+  - See _Work & Caring_ for more advice. 
 
-### At Work
-
-- Take regular breaks.
-- Discuss adjustments with your employer (see Work & Caring guidance).
-
-### At Home
-
-- Pace activities; take breaks when tired.
-- Schedule important tasks when energy is higher.
-- Accept help when needed.
+**If you are at home:**
+- Try and pace yourself throughout the day. Take breaks when you feel tired.
+- Schedule important tasks for when you feel less tired.
+- Do what you can yourself but recognise when you have difficulty. 
 
 ### Napping
+- A short nap (e.g. 20-30minutes) can help during the day, especially after a meal, and reduce fatigue.
+- However, it is important to get the balance right as frequent napping can make sleeping at night more difficult.
+- If you get fatigued after meals, you can try lighter meals at lunchtime. 
 
-- Short naps (20–30 minutes) after meals may reduce fatigue.
-- Avoid excessive napping, which can disrupt night sleep.
-- Lighter meals may help if fatigue occurs after eating.
-
-### Exercise
-
-- Helps combat fatigue, improves mood, sleep, and general health.
-- Do what you can manage—even chair-based exercises count.
-- Plan exercise for times of higher energy if fatigue follows a pattern.
+### The role of exercise
+- Fatigue can cause people to be less active and the less active you become, the more tired you feel.
+- We know keeping active is good for people with Parkinson’s. It can help fatigue, mood, sleep and general health.
+- Do as much as you can handle; it can be as simple as chair-based exercises. See _Staying Active_ for ideas.
+- If there is a pattern to your tiredness, plan to exercise regularly at times you have a bit more energy. 
 
 ### Healthy Body and Mind
-
-- Keep mentally active with hobbies or enjoyable activities.
-- Eat a balanced diet and small snacks to maintain energy.
-- Limit alcohol to improve sleep quality.
-- Multivitamins or “tonics” are unnecessary if diet is healthy.
-- See Sleep Difficulties page for advice on improving sleep.
+- Keeping the mind active can help, for example keeping up hobbies or things you enjoy.
+- As well as a healthy balanced diet, a small snack every few hours may help your energy levels.
+- There is no evidence that multi-vitamins or ‘tonics’ help if you have a good healthy diet.
+- Drinking too much alcohol can affect quality of sleep and make you tired.
+- See _Sleep Difficulties_ page for more advice on getting good sleep. 
 
 ---
 
-## Personal Experiences
+## My Experience
 
-> “With Parkinson’s, I use my energy wisely. I focus on what’s important for the day.” – Person with Parkinson’s
+> _“With Parkinson’s, I use my energy wisely. I think to myself, what’s more important for me to do today. And I’ll put my energies there.”_
+> 
+> _(Person with Parkinson’s)_
 
-> “If I don’t feel too good, I rest and wait until I feel better, then go for a walk.” – Person with Parkinson’s
+> _“It varies how I feel. If I don’t feel too good, I’m on the couch resting to get my energy levels up. I don’t push the body to do things that I know that I can’t. If I’m tired, I just stop. And I just wait until I feel better, then perhaps if I’ve not been out all day, I’ll go for a little brisk walk or something and get some fresh air and do that instead. Yes, the body kind of like tells you what to do rather than you tell it.”_
+> 
+> _(Person with Parkinson’s)_
 
-> “I pace myself for entertaining. I plan ahead, prepare early, and schedule quiet days around busy events.” – Person with Parkinson’s
+> _“I love entertaining. I love cooking for people and having people in the home. But I’ve got to pace myself. I mean that’s just partly my age as well as having Parkinson’s. But I know that if we had a lot of people in and, if I’m having people around for dinner, I’ve got to make sure I’ve got a quiet day either side and I’ve got to plan ahead. So I’ll lay the table a couple of days before and I’ll try and shop and do a lot of the preparation before I actually have people round”_
+>
+> _(Person with Parkinson’s)_
 
 ---
 
 ## Further Assessment
 
-Healthcare professionals may ask about:
+### Questions
+Healthcare workers will likely ask more questions. You could think about these in advance. You could record it in your _My Health_ section to bring to the appointment.
 
-- Sleep patterns, medications, weight changes, napping, mood, fever, night sweats, skin changes, appetite, bowel changes, alcohol consumption, and more.
+**They might ask** about a wide range of things if you see them for tiredness. This includes: 
+- Sleep
+- Medications
+- Weight changes
+- Day time napping
+- Thirst
+- Passing urine a lot
+- Mood
+- Fever
+- Night sweats
+- Skin changes
+- Appetite
+- Bowel changes
+- Alcohol consumption
 
-### Symptom Tracking
+**Track your symptoms in the _Symptom and Activity Tracker_**
 
-- Use a **Symptom and Activity Tracker** for 3 days.
-- Record:
-  - When you feel tired
-  - Medication times
-  - Sleep duration (day/night)
-- Helps identify patterns for healthcare discussions.
+- This can help you to recall the details and help the professional identify patterns.
+- You could monitor your symptoms for 3 days. Record when you feel tired and when you take your drugs to see if there is a relationship. You could also record how much you are sleeping at night or in the day.
 
 ### Tests
+These depend on their assessment. They may run further tests such as blood tests, urine tests or scans. Your doctor may do a blood test for anaemia, a vitamin or iron deficiency, diabetes or thyroid function. 
 
-- May include blood, urine, or scans to check for anemia, vitamin/iron deficiencies, diabetes, or thyroid function.
+---
 
-  ```markdown
-
-  ```
-
-# Further Treatments for Tiredness and Fatigue in Parkinson’s
+## Further Treatments for Tiredness and Fatigue in Parkinson’s
 
 ## Medication Management
 
