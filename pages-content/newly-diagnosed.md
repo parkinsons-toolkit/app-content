@@ -1,7 +1,5 @@
 # Newly Diagnosed
 
-Receiving a diagnosis of Parkinson’s will probably make you feel emotional. You will probably also have lots of questions. Everyone’s reaction is different and there is no “right” way to handle it. Here we give a few pointers on things that are relevant at diagnosis. This section also has some tips from people who have been through it.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -11,6 +9,8 @@ Receiving a diagnosis of Parkinson’s will probably make you feel emotional. Yo
   allowfullscreen>
 </iframe>
 </div>
+
+Receiving a diagnosis of Parkinson’s will probably make you feel emotional. You will probably also have lots of questions. Everyone’s reaction is different and there is no “right” way to handle it. Here we give a few pointers on things that are relevant at diagnosis. This section also has some tips from people who have been through it.
 
 ## What can I do for myself?
 
