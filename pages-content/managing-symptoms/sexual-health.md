@@ -108,7 +108,11 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - When the problem started
 - How much response you have to stimulation.
 - Times of the day when problems occur.
-- Does the problem occur at a time when the medication feels less effective – “off” times? 
+- Does the problem occur at a time when the medication feels less effective – “off” times?
+
+---
+
+## Further Treatments
 
 ### Medication
 - Changes to Parkinson’s or other medication may improve your symptoms. These changes would most likely be made by your Parkinson’s specialist team.
