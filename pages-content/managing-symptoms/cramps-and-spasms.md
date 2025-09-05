@@ -145,5 +145,5 @@ Please look at the bottom of the table for further information about call charge
 
 \* Calls cost up to 13p/minute from landlines, between 3p–55p/minute from mobile phones.  
 You may get this call for free depending on your phone provider.
----
+```
 
