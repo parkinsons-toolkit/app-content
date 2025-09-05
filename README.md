@@ -20,6 +20,8 @@ Use HTML <a> tags with the `internal-link` class:
 
 &lt;a href="/learn/managing-symptoms/movement" class="internal-link"&gt;Movement Issues&lt;/a&gt;
 
+The `target="_blank" rel="noopener noreferrer` makes sure the link opens in a new tab. Simply remove those attributes if opening in a new tab is not desired.
+
 #### External Links (To Other Websites)
 
 Use HTML <a> tags with the `external-link` class:
