@@ -14,7 +14,7 @@ Make sure the name of the `.md` file is the same as the URL you would like the p
 
 #### Internal Links (To Other Pages on Our Site)
 
-Use HTML <a> tags with the internal-link class:
+Use HTML <a> tags with the `internal-link` class:
 
 &lt;a href="/learn/what-is-parkinsons" class="internal-link"&gt;What is Parkinson's&lt;/a&gt;
 
@@ -22,7 +22,7 @@ Use HTML <a> tags with the internal-link class:
 
 #### External Links (To Other Websites)
 
-Use HTML <a> tags with the external-link class:
+Use HTML <a> tags with the `external-link` class:
 
 &lt;a href="https://www.parkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer"&gt;Parkinson's UK&lt;/a&gt;
  
