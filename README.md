@@ -12,7 +12,7 @@ Make sure the name of the `.md` file is the same as the URL you would like the p
 
 ### Adding links
 
-Internal Links (To Other Pages on Our Site)
+#### Internal Links (To Other Pages on Our Site)
 
 Use HTML <a> tags with the internal-link class:
 
@@ -20,7 +20,7 @@ Use HTML <a> tags with the internal-link class:
 
 &lt;a href="/learn/managing-symptoms/movement" class="internal-link"&gt;Movement Issues&lt;/a&gt;
 
-External Links (To Other Websites)
+#### External Links (To Other Websites)
 
 Use HTML <a> tags with the external-link class:
 
