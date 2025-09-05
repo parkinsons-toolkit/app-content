@@ -140,7 +140,6 @@ Healthcare workers will likely ask more questions. You could think about these i
 - Alcohol consumption
 
 **Track your symptoms in the _Symptom and Activity Tracker_**
-
 - This can help you to recall the details and help the professional identify patterns.
 - You could monitor your symptoms for 3 days. Record when you feel tired and when you take your drugs to see if there is a relationship. You could also record how much you are sleeping at night or in the day.
 
@@ -151,45 +150,40 @@ These depend on their assessment. They may run further tests such as blood tests
 
 ## Further Treatments for Tiredness and Fatigue in Parkinson’s
 
-## Medication Management
+### Medication
+- Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your drugs.
+- **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 
-- **Do not change your medication** without consulting a healthcare professional.
-- Doctors (GPs or neurologists) and senior nurses (e.g., Parkinson’s Specialist Nurses) may adjust your drugs based on your symptoms.
+**Some drugs wused for tiredness in Parkinson's:**
+- If your sleepiness is thought to be due to medications, these may be changed.
+- If the tiredness is thought to be due to wearing off of your Parkinson’s drugs, they may change your regime to give more cover.
+- Sometimes a drug called modafinil is used. But it is only started by specialists and needs regular specialist review.
+- If tiredness is thought to be due to other causes, including low mood or sleep problems, treatment for these may be recommended.
 
-### Possible Approaches
+**Some drugs can make tiredness worse:**
+- Dopamine agonists, such as Mirapex® and Requip®. Your specialist may reduce the dose Or switch to another drug.
+- Opiate pain killers (e.g. codeine, morphine)
+- Allergy drugs e.g. piriton
+- Relaxants- benzodiazepines e.g. diazepam
+- Some antidepressants (e.g. mirtazapine)
+- Some pain medication (e.g. amitriptyline)
+- Some heart/blood pressure drugs (beta blockers, e.g. atenolol)
+- Some drugs for fits (e.g. phenytoin, clonazepam)
+- Some cancer drugs.
 
-- If **sleepiness is due to medications**, your doctor may adjust or change them.
-- If **tiredness is due to Parkinson’s medication wearing off**, the regime may be modified to give longer coverage.
-- **Modafinil** may be used for severe daytime sleepiness but is **only prescribed by specialists** and requires regular review.
-- If **tiredness is related to low mood or sleep problems**, treatment for these underlying causes may be recommended.
-
-### Medications That Can Worsen Tiredness
-
-- Dopamine agonists (e.g., Mirapex®, Requip®) – may be reduced or switched
-- Opiate painkillers (e.g., codeine, morphine)
-- Allergy medications (e.g., Piriton)
-- Relaxants – benzodiazepines (e.g., diazepam)
-- Some antidepressants (e.g., mirtazapine)
-- Some pain medications (e.g., amitriptyline)
-- Some heart/blood pressure medications (e.g., beta blockers like atenolol)
-- Some anti-seizure medications (e.g., phenytoin, clonazepam)
-- Some cancer treatments
-
-**Important:** Combining these medications with alcohol can significantly increase drowsiness.
+For most drugs causing drowsiness, combining them with drinking alcohol will make it worse.
 
 ---
 
 ## Referral
-
-- You may be referred to other services depending on the suspected cause of fatigue or sleepiness.
+- You may be referred to another service. This will depend on the suspected cause.
 
 ---
 
 ## Key Messages
-
-- See your GP if tiredness persists for **more than 4 weeks**, is troublesome, or if you feel unwell.
-- Avoid driving or performing potentially dangerous tasks if you experience **falling asleep during activities**.
-- Simple strategies, pacing, and symptom tracking can help manage tiredness day-to-day.
+- See your GP if you are tired for more than 4 weeks, if it is troublesome or you feel unwell.
+- You should not drive and should seek help if you get so sleepy that you fall asleep during tasks.
+- There are some simple strategies that may help to live with feeling tired. 
 
 ---
 
