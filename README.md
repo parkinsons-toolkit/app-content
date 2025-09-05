@@ -16,15 +16,17 @@ Internal Links (To Other Pages on Our Site)
 
 Use HTML <a> tags with the internal-link class:
 
-<a href="/learn/what-is-parkinsons" class="internal-link">What is Parkinson's</a>
-<a href="/learn/managing-symptoms/movement" class="internal-link">Movement Issues</a>
+&lt;a href="/learn/what-is-parkinsons" class="internal-link"&gt;What is Parkinson's&lt;/a&gt;
+
+&lt;a href="/learn/managing-symptoms/movement" class="internal-link"&gt;Movement Issues&lt;/a&gt;
 
 External Links (To Other Websites)
 
 Use HTML <a> tags with the external-link class:
 
-<a href="https://www.parkinsons.org.uk" class="external-link">Parkinson's UK</a>
-<a href="https://www.nhs.uk/conditions/parkinsons-disease" class="external-link">NHS Information</a>
+&lt;a href="https://www.parkinsons.org.uk" class="external-link"&gt;Parkinson's UK&lt;/a&gt;
+
+&lt;a href="https://www.nhs.uk/conditions/parkinsons-disease" class="external-link"&gt;NHS Information&lt;/a&gt;
 
 ### Adding image content
 
