@@ -1,6 +1,5 @@
 # Sweating Difficulties
-
-Sweating is a normal process that helps your body regulate temperature. Some people with Parkinson’s may experience problems with sweating, which can present as either **too much sweat (hyperhidrosis)** or **too little sweat (hypohidrosis)**. Insufficient sweating can lead to overheating. Because Parkinson’s can also reduce the sense of smell, body odours from excessive sweating may go unnoticed.
+Sweating is normal and helps your body regulate its temperature. Some people with Parkinson’s may have problems with sweating. They may experience too much sweat being produced, which is called _hyperhidrosis_. Alternatively, they may experience not enough sweat being produced, which is called _hypohidrosis_. Underproduction of sweat can cause overheating. Because people with Parkinson’s can also have a decreased sense of smell, they might not be aware of body odours caused by excessive sweating. 
 
 <div class="video-container">
 <iframe 
@@ -13,45 +12,34 @@ Sweating is a normal process that helps your body regulate temperature. Some peo
 </div>
 
 ---
-
 ## What Might Be Causing It?
-
-Sweating is controlled by the **autonomic nervous system**, which can be affected by Parkinson’s.
+The system that regulates many automatic responses of the body (known as the _autonomic nervous system_) may be impacted by Parkinson’s. This includes sweat production.
 
 ### Sweating Too Much (Hyperhidrosis)
+This can occur in Parkinson’s for example: 
+-	When Parkinson’s medications are starting to wear off
+-	Overnight while sleeping - people may experience drenching night sweats
+-	When Parkinson’s medications are working their best - especially if someone is experiencing _dyskinesias_ (uncontrollable muscle movements)
+As a side effect of Parkinson’s medications 
 
-This can happen in Parkinson’s in situations such as:
-
-- When Parkinson’s medications are starting to wear off
-- Overnight while sleeping (drenching night sweats)
-- When medications are working at their best, especially if dyskinesias (uncontrollable movements) occur
-- As a side effect of Parkinson’s medications
-
-Other non-Parkinson’s causes include:
-
-- **Primary hyperhidrosis:** Lifelong excess sweating with no obvious cause; can affect the whole body or specific areas (armpits, hands, feet, face) and may run in families
-- **Menopause**
-- **Anxiety**
-- **Medical conditions:** Diabetes, obesity, heart disease, thyroid disease, infections
-- **Side effects of certain medications and supplements**
+Non-Parkinson’s causes of sweating too much include: 
+- _‘Primary hyperhidrosis’_: This is a life-long condition of excess sweating with no obvious cause. This can be all over your body, or certain areas such as your armpits, hands, feet and face. This can run in families.
+- Menopause
+- Anxiety
+- Medical conditions: Diabetes, obesity, heart disease, thyroid disease, infections and others
+- Side effect of some medication and supplements
 
 ### Sweating Too Little (Hypohidrosis)
-
-Can occur due to:
-
-- Parkinson’s itself
-- Side effects of medications
-
-Signs may include:
-
-- Overheating in hot environments (saunas, hot tubs, extreme heat)
-- Reduced sweating in hands and feet, sometimes with compensatory sweating in other areas
+This can occur in Parkinson’s for example: 
+- As a side effect of medication.
+- Due to the Parkinson’s itself. You may notice it:
+  - In situations where sweat is needed in order to cool the body in order to not overheat – for example in saunas, in hot tubs, or extremely warm environments.
+  - In the hands and feet; other body parts may then sweat more to compensate.
 
 ---
 
 ## What Should I Do About It?
-
-Excessive sweating can be challenging. If lifestyle strategies do not help after about a month, speak to your GP or Parkinson’s specialist. Seek urgent help if you are not sweating and feel faint or dizzy in warm conditions.
+Excessive sweating can be very challenging to deal with. There are some suggestions for ways to manage it below. If sweating is still very bothersome, despite having tried these things regularly for a month or so, discuss with your GP or Parkinson’s specialist team. You should seek help more urgently if you are _**not**_ producing sweat and feeling faint or dizzy in warm situations.
 
 <div class="video-container">
 <iframe 
@@ -65,76 +53,79 @@ Excessive sweating can be challenging. If lifestyle strategies do not help after
 
 ---
 
-## Self-Help Strategies
+## What Can I Try for Myself?
 
-### Sweating Too Much
+### Sweating Too Much (Hyperhidrosis)
+- If possible, identify any foods or drinks that trigger sweating and avoid them o Common triggers include: spicy foods, alcohol, caffeine.
+- Use an antiperspirant frequently. Antiperspirants are different than deodorants: deodorants stop smells, antiperspirants stop sweat.
+- Avoid clothing made from nylon and non-breathable materials.
+- Wear white or black clothes as these help to minimise the signs of sweating.
+- Dress shields (also known as armpit or sweat shields) absorb sweat and protect your clothes.
+- Wear socks made of cotton or natural fibres, and change socks more frequently, e.g. twice a day.
+- Consider wearing special soles or sports socks designed to absorb moisture.
+- Wear leather shoes and change them (or take them off) often.
+- Drink lots of water to replace lost fluids and prevent dehydration.
 
-- Identify and avoid triggers (spicy foods, alcohol, caffeine)
-- Use **antiperspirants** (stop sweat) rather than deodorants (stop odor)
-- Avoid nylon or non-breathable clothing
-- Wear black or white clothes to minimize visible sweat
-- Use dress shields/armpit pads
-- Wear cotton or natural fibre socks, and change them frequently
-- Consider moisture-absorbing soles or sports socks
-- Wear leather shoes and change or remove them often
-- Drink plenty of water to prevent dehydration
-
-### Sweating Too Little
-
-- Avoid very hot environments (hot tubs, saunas, direct sun)
-- Wear light clothing
-- Avoid overexertion during exercise
+### Sweating Too Little (Hypohidrosis)
+- Avoid very hot environments such as hot tubs, saunas or direct sun in hot environments.
+- Wear light clothes.
+- Don’t overexert yourself with exercise.
 
 ---
 
 ## Further Assessment
 
-### Questions Healthcare Professionals May Ask
+### Questions
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your _My Health_ section to bring to the appointment. 
 
-- When sweating problems occur
-- Triggers and related symptoms (weight changes, bowel changes, pain, infections)
-- History of fainting
-- Medication timing and changes tried
+**They might ask about:**
+- When the problem occurs, if there are any triggers and any related symptoms.
+  - These might be changes in weight, changes in bowels, pain, or symptoms of infection. 
 
-**Tip:** Track symptoms for 3 days in a health diary, noting activity, medication, and other symptoms.
+Ensure you tell them if you have had any times when you have fainted. They may ask when the problem started, and things you have tried already to help. 
+
+**Track your symptoms in the _Symptom and Activity Tracker_**
+- This can help you to recall the details of when sweating is a  problem for you and help the professional identify patterns.
+- Perhaps for 3 days record when the problem occurs and what you are doing at the time. Also record whether you have any other symptoms at the time and when you have taken your medication. 
 
 ### Tests
-
-- Non-Parkinson’s causes may be investigated, e.g., thyroid hormone tests
+If your healthcare professional suspects a non-Parkinson’s cause of sweating, they may arrange some further tests. These may be, for example, to check your thyroid hormone levels. 
 
 ---
 
 ## Further Treatments
 
 ### Medication
+- There is no tablet that can be given to fix sweating problems but some medication changes may improve the situation.
+- Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication if within their expertise.
+- **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 
-- No tablet directly treats sweating issues, but medication adjustments may help
-- **Medications contributing to excessive sweating:**
-  - Levodopa
-  - Zinc supplements
-  - Some antidepressants (SSRIs, tricyclics like nortriptyline)
-  - Cholinesterase inhibitors (for memory)
-  - Some opioids
-- **Medications contributing to decreased sweating:**
-  - Anticholinergics (oxybutynin, solifenacin, tolterodine, trihexyphenidyl)
-  - Some tricyclic antidepressants
-  - Some glaucoma medications (carbonic anhydrase inhibitors)
-- Dyskinesia-triggered sweating may be improved by adjusting Parkinson’s medication
-- Medication changes during hot weather may help
+**Some medication that can contribute to <ins>sweating too much</ins>:** 
+- Levodopa
+- Zinc supplements
+- Some antidepressant medication (SSRIs and tricyclic antidepressants, e.g. nortriptyline)
+- Some medication used for memory and thinking problems (cholinesterase inhibitors)
+- Some pain killers (opioids) 
+
+**Some medication that can contribute to <ins>sweating too much</ins>:** 
+- Anticholinergic medications used for Parkinson’s or bladder problems can sometimes cause decreased sweating, e.g. oxybutynin, solifenacin, tolterodine, trihexyphenidyl.
+- Some antidepressant medication (tricyclic antidepressants).
+- Some medication used for glaucoma (carbonic anhydrase inhibitors e.g. acetazolamide, brinzolamide).
+
+If the sweating is triggered by dyskinesia (involuntary movements), then a change to your Parkinson’s medication regime may be possible to improve control of these. 
+
+Sometimes people just need a medication change during hot weather. 
 
 ### Referral
-
-- Severe sweating not improved with medication or lifestyle changes may require referral to a **dermatologist**
-- Treatments may include:
-  - **Iontophoresis:** Blocks sweat glands using a weak electric current
-  - **Botox (botulinum toxin) injections:** Temporary reduction of sweating; may require repeat treatments
+- If your sweating is severe, limiting your functioning and does not improve with medication changes or the measures listed above, you may be referred on to another service (e.g. a dermatologist). They can sometimes recommend treatments such as Iontophoresis.
+  - Iontophoresis involves blocking sweat glands in affected areas of skin by passing a weak electric current through water or a wet pad.
+- In very severe cases botox (botulinum toxin) injections may be considered to reduce excessive sweating. This usually requires referral to a specialist, and the availability on the NHS varies by area. The injections cause a temporary change, so they need to be repeated long term for the effect to continue. 
 
 ---
 
 ## Key Messages
-
-- People with Parkinson’s may experience **too much or too little sweat**
-- Management mostly involves **lifestyle adjustments** and **review of medications**
+- People with Parkinson’s may experience changes with their sweat, either excess or insufficient.
+- Management of sweating difficulties are mostly lifestyle changes. It is also considering how medications may be impacting the issue 
 
 ---
 
