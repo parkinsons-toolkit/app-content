@@ -95,4 +95,4 @@ Please also see the Services and Groups page for sources of support.
 | Parkinson's UK | This charity has information, resources and support for people with Parkinson's and their carers. They also have local support groups. You can read information online, print it or have it mailed to you. | 0808 800 0303 Free helpline: open 9am-7pm (Mon-Fri), 10am-2pm (Sat) | [www.parkinsons.org.uk](https://www.parkinsons.org.uk) |
 
 
-Test <a href="https://www.parkinsons.org.uk" class="external-link">External link</a>
+Test <a href="https://www.parkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a>
