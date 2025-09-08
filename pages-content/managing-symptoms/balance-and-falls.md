@@ -172,7 +172,7 @@ What we need to get to the bottom of is:
 This is often not a quick process, and you may be referred on to another service for a further assessment.
 
 ### Questions
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your _My Health_ section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a>. section to bring to the appointment.
 
 **They may ask about:**
 - Description of before, during and after the fall(s). Did you lose consciousness (‘black out’)? How did you feel just before the fall? How did you feel after the fall?
