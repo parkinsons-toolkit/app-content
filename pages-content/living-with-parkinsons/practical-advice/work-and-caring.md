@@ -1,4 +1,6 @@
-### Introduction
+# Work and Caring
+
+## Introduction
 
 A diagnosis of Parkinson’s does not mean you have to leave your job or stop working. Many people with Parkinson’s continue to work. The important consideration is how Parkinson’s symptoms may impact your work and daily life.
 
