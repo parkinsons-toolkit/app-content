@@ -239,7 +239,8 @@ Reducing distractions may make this easier.
 Using weight
 
 1. Shift all your weight onto one leg
-2. Count to three or 3. Step forward with say, ‘ready, the other leg steady, go’
+2. Count to three or
+3. 3. Step forward with say, ‘ready, the other leg steady, go’
    Or, rock your head and shoulders side to side to shift weight.
    Marching to prevent freezing:
    • Gives rhythm to walking.
