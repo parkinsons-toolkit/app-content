@@ -1,3 +1,5 @@
+# Finances 
+
 ## Introduction
 
 Having Parkinson’s, or caring for someone who does, can impact on your finances. For example, you may need to reduce your hours at work or pay for cleaners or special equipment in the home. Managing financially may become more difficult as the condition progresses. There is some help available so it can help to know what you might be entitled to.
