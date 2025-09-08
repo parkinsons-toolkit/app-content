@@ -46,7 +46,6 @@ _These may make tremor more pronounced:_
 - Stress or anxiety, or any emotional response
 - Caffeine 
 
-
 Sometimes tremors can make specific tasks more difficult. Extra adaptations, support or equipment may be needed for those tasks: 
 - Eating and drinking – special cutlery or cups may help – see <a href="/learn/living-with-parkinsons
 /practical-advice/daily-living" class="internal-link">_Daily Living_</a> page for more ideas.
@@ -54,7 +53,6 @@ Sometimes tremors can make specific tasks more difficult. Extra adaptations, sup
 /medications" class="internal-link">_Medication_</a> page for more ideas.
 - Technology – some people find touch screen difficult to control with a tremor and find using a mouse easier; others use voice control. Most smartphones allow for voice dictation instead of typing. Similarly using a device such as an Alexa can be helpful. See our <a href="/learn/living-with-parkinsons
 /practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> page for more ideas. 
-
 
 <div class="video-container">
 <iframe 
@@ -67,9 +65,7 @@ Sometimes tremors can make specific tasks more difficult. Extra adaptations, sup
 </div>
 
 ---
-
 ## My Experience
-
 People affected by Parkinson’s describe their experiences.
 
 > “For me, my tremor can lead to tension/aching in the whole arm and shoulder. As it is primarily a resting tremor, I find it helpful to have something like a squeeze ball or fir cone to hold in the hand. Also, I find that using my hand for, say, knitting releases the tension in the arm.”  
@@ -90,65 +86,58 @@ People affected by Parkinson’s describe their experiences.
 
 ---
 
-### Further assessment
+## Further assessment
 
-#### Questions
+### Questions
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your “My Health” section in your manual to bring to the appointment.
-
-Things they might ask about:
-
+**They may ask about:**
 - When does the tremor happen?
 - Do you notice any response to medication?
 - How does the tremor impact your daily activities?
 
-### Track your symptoms in the Symptom and Activity Tracker
-
-- This can help you to recall the details and help the professional identify patterns.
+**Track your symptoms in the _Symptom and Activity Tracker_**
+- This can help you to recall the details and help your health professional look for patterns.
 - For tremor you could track your symptoms over 2-3 days, recording when the tremor is most bothersome, ‘on’ and ‘off’ periods if you experience them, and when you take your medication.
 
----
-
 ### Tests
-
 Further tests are not normally required, unless there is a suspicion of an alternative cause of the tremor from the clinical assessment.
 
 ---
 
-### Further treatments
-
+## Further treatments
 Having consulted a healthcare professional, they may offer reassurance or further treatment.
 
-#### Medication
-
+### Medication
 - Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication if within their expertise.
-- Please do not make any changes to your medication regime without speaking with a healthcare professional.
+- **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 
-See extra information below about some medication used for tremor:
-
-- Parkinson’s medication: See our Medication page for more information.
+**Some medications used for tremor:**
+- Parkinson’s medication: See our <a href="/learn/treatments-and-therapies
+/medications" class="internal-link">_Medication_</a> page for more information.
 - Anticholinergics (e.g. trihexyphenidyl)
 - Beta blockers (e.g. propranolol)
 
-Some medications may increase tremors and so may be reviewed:
-
+**Some medications that may increase tremors and so may be reviewed:**
 - Medication used for lung conditions (like asthma and COPD), such as salbutamol, theophylline
 - Medication used for epilepsy, e.g. sodium valproate
 - Medication used for mental health problems, e.g. Lithium
 - Medication used to suppress the immune system, e.g. tacrolimus, ciclosporin
 - Medication used in heart disease, e.g. amiodarone
 - Levothyroxine
+
+### Referral
 - You may be referred on to another service.
 - If your tremor is causing difficulty with daily activities, your GP or Parkinson’s specialist team may refer you on to an occupational therapist to help assess and decide if you might benefit from additional equipment or support.
-- If your Parkinson’s specialist has exhausted all medication options and the tremor is still impacting your daily life a great deal then you may be a candidate for a surgical therapy such as **Deep Brain Stimulation**. If your Parkinson’s specialist team think that is the case they may refer you to a specialist centre for further assessment. See _Advanced Treatments & Surgical Treatments_ for more information.
+- If your Parkinson’s specialist has exhausted all medication options and the tremor is still impacting your daily life a great deal then you may be a candidate for a surgical therapy such as Deep Brain Stimulation. If your Parkinson’s specialist team think that is the case, they may refer you to a specialist centre for further assessment. See <a href="/learn/treatments-and-therapies/treatments-and-therapies
+/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Treatments & Surgical Treatments_</a> for more information.
 
 ---
 
-### Key messages
-
+## Key messages
 - It can sometimes be difficult to tell the difference between a Parkinson’s tremor and other causes of tremor at the time of diagnosis.
-- Tremor can be increased by stress or anxiety
-- Medications for Parkinson’s can help treat tremor
+- Tremor can be increased by stress or anxiety.
+- Medications for Parkinson’s can help treat tremor.
 
 ---
 
