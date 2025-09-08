@@ -84,7 +84,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
   - Palpitations  
   - Anxiety or panic
 
-**Track your symptoms in the _Symptom and Activity Tracker_**
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
 - This can help you to recall the details and help your health professional look for patterns. 
 - How best to track your dizziness will depend on how often it is a problem:  
   - If it is infrequent, record only when it occurs rather than monitoring it all the time. It is helpful to note what you felt, any other symptoms at the time, and the circumstances (e.g. “Getting out of bed in the morning”).
