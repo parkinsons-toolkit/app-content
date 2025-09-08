@@ -67,7 +67,6 @@ If your falls are associated with worsening movement symptoms, like stiffness or
 </iframe>
 </div>
 
-
 You should seek help **urgently**, via your GP or A&E, if:
 1. You have had a potentially serious injury, e.g. if you are unable to get off the floor.
 2. You take blood thinning medication and have had a head injury.
