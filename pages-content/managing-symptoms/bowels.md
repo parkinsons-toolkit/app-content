@@ -78,7 +78,7 @@ Fibre in your diet helps improve constipation. Eat a variety of fibres.
  
 Dehydration contributes to constipation, and fluids are needed to treat dehydration. But, if you are not dehydrated, then just drinking extra fluid will not resolve the constipation. Alcoholic drinks are not good for hydration, as they make you urinate more.
 
-<ins>**How much fluid?**/<ins> In general, 1.5-2L of fluid (8-10 cups or medium glasses) per day is advised. You will need more if it is hot or you are exerting more energy. People stop feeling thirsty before the body is completely rehydrated so you should drink even if you are not thirsty. You can also lose your sense of thirst a bit when you get older. The colour of urine is a good indicator of hydration; if you are drinking enough your urine should be a straw or pale-yellow colour. 
+<ins>**How much fluid?**</ins> In general, 1.5-2L of fluid (8-10 cups or medium glasses) per day is advised. You will need more if it is hot or you are exerting more energy. People stop feeling thirsty before the body is completely rehydrated so you should drink even if you are not thirsty. You can also lose your sense of thirst a bit when you get older. The colour of urine is a good indicator of hydration; if you are drinking enough your urine should be a straw or pale-yellow colour. 
 
 **Tips on drinking enough:**  
 _Tip 1: It is difficult to drink this much fluid for some people. You could try drinking a small glass of water each time you take your medication and a glass of water or a drink (e.g. cup of tea) with each meal. _
