@@ -205,7 +205,7 @@ Healthcare professionals may ask:
 - Do you have suicidal thoughts or thoughts of self-harm?  
 - Do you sometimes see or hear things that aren’t really there? Any other unusual experiences?
 
-## Symptom and Activity Tracker
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
 
 Tracking symptoms can help recall details and identify patterns. If mood fluctuates, track it over 2-3 days to see when it worsens. Record sleep patterns if variable, note factors affecting mood, and medication times to identify relationships.
 
