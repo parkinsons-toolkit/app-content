@@ -1,3 +1,5 @@
+# Housing
+
 Some people can have difficulties with living well within their home. For example difficulties with climbing stairs, or their bathroom. This section covers home adaptations that can help support you to live independently within your own home. It also covers your options if your home is no longer suitable for you.
 
 <div class="video-container">
