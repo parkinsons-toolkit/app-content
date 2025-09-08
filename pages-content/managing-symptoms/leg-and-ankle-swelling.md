@@ -20,156 +20,104 @@ Other non-Parkinson’s causes of leg or ankle swelling can be from:
 ---
 
 ## What Should I Do About It?
-
-* **Go to A\&E immediately** if you also experience:
-
-  * Difficulty breathing, or changes in breathing (wheezing, coughing, needing to sleep propped up on pillows)
-  * Chest pain
-
-* **Mild swelling in both legs**:
-
-  * If it isn’t too bothersome and none of the urgent symptoms above are present, try the self-care advice below.
-  * If it doesn’t improve within a few weeks, book a routine GP appointment.
-
-* **Severe or bothersome swelling**:
-
-  * Book a GP appointment and try the advice below in the meantime.
-
-* **Redness, warmth, wounds, or ulcers over the swelling**:
-
-  * See your GP as soon as possible.
-
-* **New swelling in one leg only, or swelling developing quickly (over hours or days)**:
-
-  * Contact your GP or NHS 111 for an urgent review.
+- **You should be seen in A&E** for assessment if you are also experiencing:
+ - Difficulty breathing; or changes in your breathing (wheezing, coughing, needing to sleep propped up on pillows).
+ - Chest pain - this might indicate a more serious cause that needs treatment.
+- If you have a little bit of ankle swelling in both legs that isn’t too bothersome and none of the symptoms listed above, you could try the advice below (see section ‘What can I try for myself?’).
+- If it doesn’t improve within a few weeks, make a routine GP appointment.
+- If the swelling is more severe and bothersome, you should book an appointment with your GP and try the advice below in the meantime.
+- If you have redness, warmth, wounds or ulcers overlying the swelling, that you are not receiving professional support for, you should see your GP as soon as possible. See our <a href="/learn/managing-symptoms/skin-conditions" class="internal-link">_Skin Conditions_</a> page for more information.
+- **If the swelling is new and in one leg only or developed very quickly (over hours or days) you should contact your GP or 111 for an urgent review. **
 
 ---
 
 ## What Can I Try for Myself?
 
 ### Change your feet position
-
-* Swelling often improves overnight when lying flat.
-* When resting, sit with your legs straight out and ankles higher than knees, knees higher than hips.
-* Try lying flat with legs slightly raised on a pillow 3–4 times a day.
+- Leg and ankle swelling can get better at night due to lying flat overnight. This position makes it easier for the fluid to be reabsorbed into your body.
+- When you are resting, sit with your legs straight out in front of you and your feet up on a pillow or a raised surface so that your ankles are higher than your knees, and your knees are higher than your hips to help the fluid drain.
+- You could also try lying flat with your legs slightly raised on a pillow three to four times a day to help get rid of the extra fluid around your legs and ankles. 
 
 ### Increase activity
-
-* Movement and exercise help reduce swelling.
-* If seated, raise legs on a footstool and exercise ankles regularly.
-* Try ankle movements such as flexing up and down, and moving in the shape of each letter of the alphabet throughout the day.
+- Movement and exercise are good for everyone, and especially good for people with Parkinson’s.
+- If you are able to increase your activity levels, that will help the extra fluid move around your body and be reabsorbed.
+- If you are most comfortable doing exercises while seated, you could raise your legs on a footstool and exercise your ankles regularly throughout the day. For example: flex your ankles up and down and all around in the shape of each letter of the alphabet throughout the day. This moves the fluid around and allows it to be reabsorbed. 
 
 ### Select shoes carefully
-
-* Wear shoes that can be loosened during the day as swelling changes.
-* Ensure shoes still hold firmly to avoid falls if they become loose.
-* Avoid shoes that are too tight to fasten.
-* Shop for shoes when swelling is at its worst to ensure a good fit.
-
-# My Experience
-
-**People affected by Parkinson’s describe their experiences:**
-
-> “I take one day at a time and I try to get him out every day if I can, even if it’s around the block to keep his legs moving.”
-> *(Carer of someone with Parkinson’s)*
+- Wear shoes that can be loosened during the course of the day as swelling may get worse as the day goes on.
+- Make sure your shoes can still hold firmly onto your feet as the swelling goes up and down. If they get too loose, they might become a tripping or falling hazard, and if they are too tight you won’t be able to fasten them.
+- Shop for shoes when your swelling is at its worst so you know the shoes will always fit. 
 
 ---
 
-# Further Assessment
+## My Experience
+People affected by Parkinson’s describe their experiences.
 
-## Questions
-
-Healthcare professionals will likely ask you more questions, so you could think about these in advance. You could record them in your **My Health** section to bring to the appointment.
-
-Things they might ask about:
-
-* Your medication
-* The location of the swelling: one leg or both legs, above or below the knee
-* Whether it came on quickly (hours/days) or more slowly (weeks/months)
-* If part or all of the swelling is red/inflamed, hot, or tender
-* If it affects one side more than the other, whether you have:
-
-  * Been immobile for more than 3 days
-  * Had recent surgery, fracture, or treatment for cancer (within 12 weeks)
-  * Taken a long-haul flight or drive (more than 5 hours)
-* Whether you have had swelling before, and what helped
-* History of blood clots (personal or family)
-* Your breathing: difficulty, shortness of breath, or needing pillows at night
-* Any chest pain
-* Changes in urine, skin, or eye colour
-* Changes in the amount of urine you pass
-* Increased bruising
-* Weight changes
-* Wounds in the swollen areas
-
-**Tracking symptoms** in the *Symptom and Activity Tracker* can help you recall details and identify patterns.
-
-* For ankle swelling, record when the problem started
-* Note fluctuations: when it is most/least problematic
-* Keep track of ankle/leg exercises
+> “I take one day at a time and I try to get him out every day if I can, even if it’s around the block to keep his legs moving.”  
+> _(Carer for someone with Parkinson’s)_
 
 ---
 
-## Tests
+## Further Assessment
 
-Depending on their assessment, they may run further tests such as:
+### Questions
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
-* Blood tests
-* Urine tests
-* X-rays
-* Scans
+**They may ask about:**
+- Your medication.
+- The location of the swelling: one leg or both legs, above or below the knee.
+- Whether it came on quickly over hours or days, or more slowly over weeks and months.
+- Is part or all of the swelling red/inflamed, hot or tender?
+- If it is affecting one side more than the other.
+- Whether you have recently been immobile for more than 3 days, had recent surgery, fracture or treatment for cancer (within 12 weeks) or been on a long-haul flight or drive (more than 5 hours)?
+- Whether you have had swelling before, and what helped it go away if so.
+- Whether you have had any blood clots in the past or in your family.
+- About your breathing: any difficulty breathing or shortness of breath; sleeping propped on pillows because of breathlessness lying flat?
+- Have you experienced any chest pain?
+- Any changes in urine, skin or eye colour?
+- Any changes in the amount of urine you are passing?
+- Have you noticed that you are bruising more easily than before?
+- Have you noticed any change in your weight?
+- Do you have any wounds in the areas with the swelling? 
+
+**Track your symptoms in the _Symptom and Activity Tracker_**
+- This can help you to recall the details and help your health professional look for patterns.
+- For ankle swelling you could record when the problem first started. If it fluctuates, you could record when it is most and least problematic to see if there is a pattern. You could keep track of how often you are exercising your ankles and legs.
+
+### Tests
+Depending on their assessment, they may run further tests such as blood tests, urine tests, x-rays or scans. 
 
 ---
 
 ## Further Treatments
+You may be given reassurance or more specific advice about things you could try yourself. You may be given help from a district or practice nurse. Advice might include, for example, support stockings you could wear to help reduce the swelling. You should discuss the use of support stockings with a healthcare professional first. 
 
-You may be given reassurance or specific advice about things you could try yourself.
+### Medication
+- Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication if within their expertise.
+- **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 
-* You may also be supported by a district or practice nurse.
-* Advice could include wearing **support stockings**, but always discuss this with a healthcare professional first.
+**Medications sometimes used for swelling:**
+- Diuretics (water pills) such as furosemide if the swelling is due to heart, liver or kidney conditions. Furosemide has limited effectiveness for swelling due to dopamine agonists.
+- If a particular cause of the ankle swelling is found, then there may be a treatment specific to that cause.
 
----
+**Medications that may contribute to swelling:**
+- Dopamine agonists can cause leg and ankle swelling as a side effect, e.g. pramipexole, ropinirole, rotigotine.
+- Some medication used for blood pressure or heart conditions, called calcium channel blockers, e.g. amlodipine.
+- Some medication used for diabetes, e.g. pioglitazone.
+- Anti-inflammatory medication, e.g. ibuprofen, naproxen o Steroid medication, e.g. prednisolone.
+- These medications may need to be reduced or discontinued if swelling is problematic.
 
-## Medication
-
-* Doctors (e.g. GP, neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may adjust medication.
-* **Do not change medication without professional advice.**
-
-### Medications sometimes used for swelling
-
-* **Diuretics** (water pills) such as furosemide – used for swelling caused by heart, liver, or kidney conditions. Less effective for dopamine agonist–related swelling.
-* If a particular cause is found, treatment will be tailored to it.
-
-### Medications that may contribute to swelling
-
-* **Parkinson’s medications**: dopamine agonists (e.g. pramipexole, ropinirole, rotigotine)
-* **Blood pressure/heart medications**: calcium channel blockers (e.g. amlodipine)
-* **Diabetes medication**: pioglitazone
-* **Anti-inflammatory medication**: ibuprofen, naproxen
-* **Steroid medication**: prednisolone
-
-*These medications may need to be reduced or discontinued if swelling is problematic.*
+### Referral
+- Specialist referral may be needed to investigate certain causes of leg or ankle swelling, or to assess suitability for compression hosiery in some cases.
 
 ---
 
-## Referral
-
-Specialist referral may be needed:
-
-* For certain causes of ankle swelling
-* For fitting compression hosiery
-
----
-
-# Key Messages
-
-* Swelling can be due to:
-
-  * Decreased movement and exercise
-  * Side effects of Parkinson’s medication
-  * Causes unrelated to Parkinson’s
-
-* Increasing movement and exercise, and adjusting leg/foot position, can help reduce swelling.
+## Key Messages
+- Swelling can be due to:
+ - Decreased movement and exercise
+ - A side effect of medication used in Parkinson’s
+ - Or unrelated to Parkinson’s.
+- Increasing exercise and movement and changing your leg/feet position during the day can help to reduce swelling 
 
 ---
 
