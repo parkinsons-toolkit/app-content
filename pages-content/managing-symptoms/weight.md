@@ -1,6 +1,5 @@
 # Weight and Appetite Loss
-
-People with Parkinson’s can experience weight loss. Though some people may initially welcome this, excessive weight loss can be bad for both health and wellbeing. Weight loss can be linked to conditions that are not Parkinson’s, and some can be serious. So it is important that you see your GP if you continue to lose weight.
+People with Parkinson’s can experience weight loss. Though some people may initially welcome this, excessive weight loss can be bad for both health and wellbeing. Weight loss can be linked to conditions that are not Parkinson’s, and some can be serious. So, it is important that you see your GP if you continue to lose weight.
 
 <div class="video-container">
 <iframe 
@@ -13,11 +12,8 @@ People with Parkinson’s can experience weight loss. Though some people may ini
 </div>
 
 ---
-
-### What might be causing it?
-
+## What might be causing it?
 Causes of weight loss related to Parkinson’s include:
-
 - Practical issues in making food.
 - Swallowing problems.
 - Increased movements.
