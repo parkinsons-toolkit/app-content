@@ -1,3 +1,5 @@
+# Social and Spiritual Life
+
 ## Introduction
 
 Some people with Parkinson’s withdraw from social activities. This can make the person feel more isolated and lower in mood.
