@@ -94,7 +94,7 @@ People affected by Parkinson’s describe their experiences.
 ## Further Assessment
 
 ### Questions
-- Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your _My Health_ section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your _My Health_ section to bring to the appointment.
 
 **They may ask about:**
 - Where are you having the pain: a specific body part, or a general area? Does it spread to other areas?
