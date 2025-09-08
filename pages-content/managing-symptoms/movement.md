@@ -1,7 +1,6 @@
 # Movement
 
 ## Tremor
-
 Tremor is an uncontrollable, involuntary movement of a part of the body. Around one in three people with Parkinson’s never experience tremor. For others, it may be the most noticeable symptom. It may start in one area, like the right hand, and then gradually spread to another area on the same side of the body, like the right leg; it can eventually move to the other side of the body.
 
 <div class="video-container">
@@ -16,50 +15,46 @@ Tremor is an uncontrollable, involuntary movement of a part of the body. Around 
 
 ---
 
-### What might be causing it?
+## What might be causing it?
+Parkinson’s ‘motor’ symptoms – tremor, slowness and stiffness - are caused by having reduced levels of dopamine in the brain. It can be difficult to discern a Parkinson’s tremor from a non-Parkinson’s tremor. 
+ 
+Parkinson’s tremor is usually seen when the affected body part is at rest. This may be, for example, your hand is at rest on your lap or supported in some way and has a tremor. The tremor is sometimes called a ‘pill-rolling’ tremor. This is because it can look as if someone is trying to roll a pill between their thumb and forefinger. Besides the hands, a Parkinson’s tremor can also impact the arms, feet, legs, lips and tongue. It tends to affect one side of the body first and then, after several years, may spread to the other side of the body. People also sometimes report the feeling of an ‘internal tremor’ that isn’t visible to others; sometimes a visible tremor appears later. Sometimes people with Parkinson’s will have a tremor that happens both at rest and also while they are doing actions. 
 
-Parkinson’s ‘motor’ symptoms – tremor, slowness and stiffness - are caused by having reduced levels of dopamine in the brain. It can be difficult to discern a Parkinson’s tremor from a non-Parkinson’s tremor.
-
-Parkinson’s tremor is usually seen when the affected body part is at rest. This may be, for example, your hand is at rest on your lap or supported in some way and has a tremor. The tremor is sometimes called a ‘pill-rolling’ tremor. This is because it can look as if someone is trying to roll a pill between their thumb and forefinger. Besides the hands, a Parkinson’s tremor can also impact the arms, feet, legs, lips and tongue. It tends to affect one side of the body first and then, after several years, may spread to the other side of the body.
-
-People also sometimes report the feeling of an ‘internal tremor’ that isn’t visible to others; sometimes a visible tremor appears later. Sometimes people with Parkinson’s will have a tremor that happens both at rest and also while they are doing actions.
-
-**Non-Parkinson’s tremor** can be due to multiple factors:
-
-- **Physiological tremor** is a normal body response to situations that provoke feelings of fear, stress, or anxiety.
-- **Essential tremor** is usually seen when body parts are in motion – for example, a tremor that is worse with holding a cup and drinking; but can also affect the voice, head, body and legs. It also tends to affect both sides of the body from onset. It is a common tremor and it can be difficult to differentiate between this and a Parkinson’s tremor.
-- Tremors can also be caused by some medications (such as salbutamol inhalers), caffeine, some imbalances of blood chemistry (such as high levels of thyroid hormones, or low blood sugar levels), and in response to withdrawal of alcohol having become dependent.
+Non-Parkinson’s tremor can be due to multiple factors:
+- _Physiological tremor_ is a normal body response to situations that provoke feelings of fear, stress, or anxiety.
+- _Essential tremor_ is usually seen when body parts are in motion – for example, a tremor that is worse with holding a cup and drinking; but can also affect the voice, head, body and legs. It also tends to affect both sides of the body from onset. It is a common tremor, and it can be difficult to differentiate between this and a Parkinson’s tremor.
+- Tremors can also be caused by some medications (such as salbutamol inhalers), caffeine, some imbalances of blood chemistry (such as high levels of thyroid hormones, or low blood sugar levels), and in response to withdrawal of alcohol having become dependent. 
 
 Whatever the cause, most tremors get worse when the individual is anxious or stressed.
 
 ---
 
-### What should I do about it?
-
-There are many things you can try for yourself as below. If despite these, the tremor is very bothersome, speak to your Parkinson’s specialist team routinely about possible changes to your treatment. Unfortunately treatments and strategies do not completely stop the tremor. The aim is to minimise the impact on daily life.
+## What should I do about it?
+There are many things you can try for yourself as below. If despite these, the tremor is very bothersome, speak to your Parkinson’s specialist team routinely about possible changes to your treatment. Unfortunately, treatments and strategies do not completely stop the tremor. The aim is to minimise the impact on daily life.
 
 ---
 
-### What can I try for myself?
-
-You may find different things that make the tremor more or less pronounced. Some things that have been researched are listed below.
-
-**These may make tremor less pronounced:**
-
-- Activities that decrease or manage stress or anxiety: yoga, tai chi, deep breathing exercises, self-relaxation techniques
-- Some people find that exercise reduces their tremor
-- Many people also find it helpful to talk with others with Parkinson’s about their symptoms
-
-**These may make tremor more pronounced:**
-
+## What can I try for myself?
+You may find different things that make the tremor more or less pronounced. Some things that have been researched are listed below. 
+ 
+_These may make tremor less pronounced:_ 
+- Activities that decrease or manage stress or anxiety: yoga, tai chi, deep breathing exercises, self-relaxation techniques.
+- Some people find that exercise reduces their tremor.
+- Many people also find it helpful to talk with others with Parkinson’s about their symptoms. 
+ 
+_These may make tremor more pronounced:_ 
 - Stress or anxiety, or any emotional response
-- Caffeine
+- Caffeine 
 
-Sometimes tremors can make specific tasks more difficult. Extra adaptations, support or equipment may be needed for those tasks:
 
-- **Eating and drinking** – special cutlery or cups may help – see Daily Living page for more ideas.
-- **Taking medication** – pill organisers may be easier to handle than the original packets – see Medication page for more ideas.
-- **Technology** – some people find touch screen difficult to control with a tremor and find using a mouse easier; others use voice control. Most smartphones allow for voice dictation instead of typing. Similarly using a device such as an Alexa can be helpful. See our Reading, Writing & Technology page for more ideas.
+Sometimes tremors can make specific tasks more difficult. Extra adaptations, support or equipment may be needed for those tasks: 
+- Eating and drinking – special cutlery or cups may help – see <a href="/learn/living-with-parkinsons
+/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page for more ideas.
+- Taking medication – pill organisers may be easier to handle than the original packets – see <a href="/learn/treatments-and-therapies
+/medications" class="internal-link">_Medication_</a> page for more ideas.
+- Technology – some people find touch screen difficult to control with a tremor and find using a mouse easier; others use voice control. Most smartphones allow for voice dictation instead of typing. Similarly using a device such as an Alexa can be helpful. See our <a href="/learn/living-with-parkinsons
+/practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> page for more ideas. 
+
 
 <div class="video-container">
 <iframe 
