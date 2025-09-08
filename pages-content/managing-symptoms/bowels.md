@@ -1,20 +1,19 @@
 # Bowel Symptoms
-Everyone has a different natural bowel pattern, so bowel symptoms are different for each person. 
-Constipation, or reduced bowel motions, is common in Parkinson’s. You may experience:  
+Everyone has a different natural bowel pattern, so bowel symptoms are different for each person. Constipation, or reduced bowel motions, is common in Parkinson’s. You may experience:  
 - Difficulty passing a bowel movement (straining)  
 - Hard or lumpy stools  
-- Opening bowels less often. If you are having less than 3 bowel movements per week, it is likely you are constipated  
-- A feeling that you haven’t fully emptied your bowel  
-- Feeling of blockage in the bottom or having to use fingers to remove stool during a bowel movement  
+- Opening bowels less often. If you are having less than 3 bowel movements per week, it is likely you are constipated.
+- A feeling that you haven’t fully emptied your bowel.
+- Feeling of blockage in the bottom or having to use fingers to remove stool during a bowel movement.
 
-Constipation can make you feel very unwell and, if left untreated, can become serious. Constipation can affect the absorption of medications and, if severe, may cause vomiting. Both of these can make your medication less effective.  
-
-Constipation can sometimes lead to diarrhoea or leaking of stool. Hard stool gets stuck and only the liquid content comes out. So, although it can seem like diarrhoea, the bowels are very constipated and blocked up. This is known as **“overflow diarrhoea”** and the best approach to resolve it is to treat the constipation.  
+Constipation can make you feel very unwell and, if left untreated, can become serious. Constipation can affect the absorption of medications and, if severe, may cause vomiting. Both of these can make your medication less effective. 
+ 
+Constipation can sometimes lead to diarrhoea or leaking of stool. Hard stool gets stuck and only the liquid content comes out. So, although it can seem like diarrhoea, the bowels are very constipated and blocked up. This is known as “overflow diarrhoea” and the best approach to resolve it is to treat the constipation.  
 
 ---
 
 ## What might be causing it?
-In Parkinson’s, constipation is common due to slowing down of the bowel contractions. Diet, medications, and activity levels also have a big impact on the bowels and can cause constipation. Constipation can be a symptom of other medical conditions so a healthcare professional may ask questions to check for these.  
+In Parkinson’s, constipation is common due to slowing down of the bowel contractions. Diet, medications, and activity levels also have a big impact on the bowels and can cause constipation. Constipation can be a symptom of other medical conditions so a healthcare professional may ask questions to check for these.
 
 ---
 
