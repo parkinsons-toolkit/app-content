@@ -16,7 +16,7 @@ Difficulties with thinking and remembering are common in Parkinson’s. They can
 ## What Might Be Causing It?
 Memory and thinking problems can be symptoms of Parkinson’s, but not all of them are. The difficulties in Parkinson’s tend to come on slowly.
 
-<ins>**Parkinson’s**</ins>tends to affect the following components of thinking: 
+<ins>**Parkinson’s**</ins> tends to affect the following components of thinking: 
 - _**Executive function:**_ This is the control of thinking, and includes planning, keeping things in mind, flexible thinking, and self-control. For example, when cooking a meal, someone with executive function problems may find it difficult to get all the right ingredients and plan what time to start cooking them so they will be ready at the same time.
 - _**Attention:**_ (staying focused on something) This might be conscious or an automatic process such as listening in a conversation. Problems might, for example, show as difficulties reading, following a conversation, or multi-tasking.
 - _**Language:**_ (remembering and understanding words and meanings) Problems might, for example, show as forgetting the word for something or not managing to understand more complex conversations.
