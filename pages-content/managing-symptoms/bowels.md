@@ -118,7 +118,7 @@ Lots of bacteria live in your bowels as part of the normal gut environment,	intr
 There is limited research in this area, complicated by the wide variety of strains available. There has been some research that showed a combination of pro- and prebiotics improved constipation in people with Parkinson’s.
 
 #### Fibre supplements
-If you have not got enough fibre in your diet, supplementation may be considered. The widely available fibre supplement is psyllium husk, or ispaghula husk – the ingredient of the laxative Fybogel. 
+If you have not got enough fibre in your diet, supplementation may be considered. The widely available fibre supplement is *psyllium husk*, or *ispaghula husk* – the ingredient of the laxative *Fybogel*. 
 
 #### Laxatives
 Many people with Parkinson’s need to take laxatives on a regular and long-term basis to keep the bowels opening regularly. Laxatives only work if you are adequately hydrated. Laxatives are available from chemists and come in different types:  
@@ -127,24 +127,21 @@ Many people with Parkinson’s need to take laxatives on a regular and long-term
 - **Stool softener laxatives** encourage water into the stool to soften it. Examples: *sodium docusate* and *arachis oil*.  
 - **Stimulant laxatives** stimulate the bowel to move the stool along. They take about 6–12 hours to work and can become less effective if used for a prolonged period of time. Examples: *senna (Senokot)* and *bisacodyl (Dulcolax)*.  
 
-**Side effects of laxatives**  
-The most common side effects are bloating, cramping or nausea. These often settle or may be improved by taking a smaller amount of the laxative. Overuse of laxatives can cause dehydration.  
+<ins>_Side effects of laxatives:_</ins> The most common side effects are bloating, cramping or nausea. These often settle or may be improved by taking a smaller amount of the laxative. Overuse of laxatives can cause dehydration.  
 
-**Which to choose?**  
-Research has shown that **Macrogol** is likely to be effective in Parkinson’s and is safe. If one type of laxative is not effective, another type could be added in as well. Generally, osmotic or bulk-forming laxatives are advised first, while stimulant laxatives are a later choice.  
+<ins>_Which to choose?:_</ins> Research has shown that *Macrogol* is likely to be effective in Parkinson’s and is safe. If one type of laxative is not effective, another type could be added in as well. Generally, osmotic or bulk-forming laxatives are advised first, while stimulant laxatives are a later choice.  
 
----
-
-### Finding toilets
-If finding toilets when out and about is a concern, the *National Key Scheme* may help. This system allows people with a disability to unlock more than 9,000 accessible public toilets across the UK. For more information, see the *Disability Rights UK* website. You can use this website to buy a *Radar Key* and/or *Radar Key Region List*.  
+#### Finding toilets
+If finding toilets when out and about is a concern, the *National Key Scheme* may help. This system allows people with a disability to unlock more than 9,000 accessible public toilets across the UK. For more information, see the <a href="https://www.disabilityrightsuk.org/radar-keys?srsltid=AfmBOophjHsd-3Hg87Sw7Q3ebdt_t7h-HI0iKErqzf9-Pxg46jZt8qaK" class="external-link" target="_blank" rel="noopener noreferrer">_Disability Rights UK_</a> website. You can use this website to buy a ‘Radar Key’ and/or Radar Key Region List.
 
 ---
 
 ## My Experience
 People affected by Parkinson’s describe their experiences.  
 
-> “The shaking upsets my bowels and my bladder which is, you can imagine…Sometimes I go into the toilet taking with me magazines and settle down.”  
-> *(Person with Parkinson’s, P17)*  
+> _“The shaking upsets my bowels and my bladder which is, you can imagine…Sometimes I go into the toilet taking with me magazines and settle down.”_
+> 
+> _(Person with Parkinson’s, P17)_
 
 ---
 
@@ -152,9 +149,10 @@ People affected by Parkinson’s describe their experiences.
 If the suggested strategies are not working, then consult your GP or Parkinson’s specialist. You may wish to consider the following to help you to prepare for the appointment.  
 
 ### Questions
-- Healthcare professionals are likely to ask more questions, so you could think about these in advance. Record this in your *My Health* section to print for the appointment.  
-- See extra information below about things they might ask about.  
-  - Full detail of your bowel pattern now and in the past  
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a>. section to bring to the appointment.
+
+**They may ask about:**  
+  - Full detail of your bowel pattern now and in the past
   - Whether you have passed any blood or noticed a colour change of the stool  
   - Whether you have pain  
   - Whether you have unintentionally lost weight  
@@ -163,13 +161,12 @@ If the suggested strategies are not working, then consult your GP or Parkinson�
   - What your diet and lifestyle more broadly are like  
   - Whether your diet or activity levels have changed recently  
 
-**Track your symptoms in the Symptom and Activity Tracker (in your manual):**  
-- This can help you to recall the details and help the professional identify patterns.  
+**Track your symptoms in the _Symptom and Activity Tracker_**
+- This can help you to recall the details and help your health professional look for patterns. 
 - Try to monitor constipation for about a week. The details that are helpful to record include:  
-  - Bowel movements. Detail can be helpful: small/medium/large, hard/soft/watery. The *Bristol Stool Chart* is the chart used by professionals to describe the stool (see *More Information*).  
+  - Bowel movements. Detail can be helpful: small/medium/large, hard/soft/watery. The *Bristol Stool Chart* is the chart used by professionals to describe the stool (see the useful links at the bottom of this page).  
   - Your food and fluid intake.  
 
----
 
 ### Tests
 - Depending on their assessment, there is a small chance the healthcare professional will arrange further tests.  
@@ -182,7 +179,7 @@ A healthcare professional may be able to give more personalised advice about thi
 
 #### Medication
 - Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication.  
-- Please do not make changes to your medication regime without speaking with a healthcare professional.  
+- **Please do not make changes to your medication regime without speaking with a healthcare professional.**
 - Some laxatives require a prescription.  
 - Some laxatives are given via the bottom, which can be tricky to do yourself, so may require a community nurse to come to the home to administer it. These are more likely in severe constipation or overflow diarrhoea.  
 
@@ -199,10 +196,8 @@ A healthcare professional may be able to give more personalised advice about thi
 - Medications for diarrhoea (e.g. loperamide)  
 - Some medications for seizures (e.g. phenytoin, clonazepam)  
 
----
-
 ### Referral
-- You may be referred on to another service for specialist input. Referrals for bowel problems would typically be to Gastroenterology or Colorectal Surgery.  
+You may be referred on to another service for specialist input. Referrals for bowel problems would typically be to Gastroenterology or Colorectal Surgery.  
 
 ---
 
