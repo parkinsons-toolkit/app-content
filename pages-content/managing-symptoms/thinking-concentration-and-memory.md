@@ -59,6 +59,7 @@ If the onset of your symptoms has been more gradual (weeks to months) then there
 ---
 
 ## What Can I Try For Myself?
+There are many things you can try to help you manage difficulties with memory and thinking. 
 
 <div class="video-container">
 <iframe 
@@ -79,77 +80,72 @@ Good sleep, physical health and emotional well-being are all important for your 
 See our _Optimising Wellbeing_ pages within the <a href="/learn/living-with-parkinsons/living-with-parkinsons" class="internal-link">Living with Parkinson's</a> section for more information. 
 
 ### Prompts and Reminders
-
-- **Lists**: To-do lists, reminders for items to take out, etc.
-- **Calendars/organisers**: Track appointments and birthdays.
-- **Clocks and alarms**: Prominent clocks or alarms to remind you about medication or tasks.
-- **Track events**: Record activities or symptoms using tools like the **Symptom & Activity Tracker**.
+- **Lists** – e.g. a “To-do-list” or a list of things to take with you when you go out. You can record lists and memos here: _Notes and Lists_.
+- **Calendars/organisers** – e.g. to help remember your appointments or friends’ birthdays. You can enter your appointments and set reminders here: <a href="/learn//living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">Appointments & Hospital Stays</a>.
+- **Clocks and alarms** – Having a prominent and easy-to-read clock may help your timekeeping. Many devices allow you to set alerts (e.g. setting an alarm clock or a phone alarm to remind you to take your medication or setting the oven timer to remind you when dinner is ready).
+- **Keep track** – if you are struggling to remember things that have happened, you could record them for future reference. If you are struggling to remember what has been happening with your Parkinson’s when speaking with healthcare professionals, you could try recording things using the _Symptom & Activity Tracker_. 
 
 ### Establish Routines
-
-- Routines reduce cognitive load and make tasks more automatic.
+Keeping to a routine can help you to remember things and requires less conscious effort to carry out the activities. In other words, it becomes a habit.
 
 ### Social Support
+Use people around you. For example, friends or family might be able to help you remember things or accompany you to appointments. Maintaining social and leisure activities has been shown to help with memory and thinking functions. 
 
-- Engage friends or family to help with memory and attend appointments.
-- Maintain social and leisure activities to support cognitive function.
-- Consider **befriending services** through Parkinson’s UK or Age UK for regular contact with volunteers.
+You could also consider using befriending services. These are volunteers who chat with you over the phone or visit you at home on a regular basis. See [Parkinson’s UK](https://www.parkinsons.org.uk/information-and-support/call-companions) and [Age UK](https://www.ageuk.org.uk/services/befriending-services/) for more information on how to access local befriending services. 
 
-## Medication
+### Medication
+You may find managing your Parkinson’s medication more challenging if you have problems with thinking or remembering. There are several devices available to help you; see the <a href="/learn/treatment-and-therapies/medications" class="internal-link">Medications</a> page for more information.
 
-You may find managing your Parkinson’s medication more challenging if you have problems with thinking or remembering. There are several devices available to help you; see the Medications page for more information.
+### Slowing down the problem
+There is no recommended treatment to stop or prevent memory and thinking problems. Things that may have some positive effects without harmful consequences include: 
+- Physical exercise – see our _Keeping Active_ page for ideas (found in our _Optimising Wellbeing_ pages within the <a href="/learn/living-with-parkinsons/living-with-parkinsons" class="internal-link">Living with Parkinson's</a> section).
+- “Brain Training” or “Cognitive Training” – memory and attention puzzles and calculations (e.g. 
+Sudoku). 
 
-## Slowing down the problem
+It’s important to note there is **not** currently enough evidence to recommend these. 
 
-There is no recommended treatment to stop or prevent memory and thinking problems. Things that may have some positive effects without harmful consequences include:
-
-- Physical exercise – see our Keeping Active page for ideas.
-- “Brain Training” or “Cognitive Training” – memory and attention puzzles and calculations (e.g. Sudoku).
-
-It’s important to note there is not currently enough evidence to recommend these.
+--
 
 ## Further Assessment
 
 ### Questions
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your _My Health_ section to bring to the appointment.
 
-- Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your “My Health” section to bring to the appointment.
-- See extra information below about what they might ask about with regard to memory and thinking.
-  - Have you developed any new physical symptoms?
-  - How has your mood been?
-  - How has your sleep been?
-  - Have you lost weight?
-  - Have there been any recent changes to your medications?
-  - How do the thinking and memory problems affect your day-to-day life? For example, working, taking medications, getting washed and dressed, paying your bills.
-  - Have there been any serious consequences of the thinking and memory problems? For example, getting lost, getting into debt, driving accidents or near-misses, or leaving the gas on.
+**They may ask about:**
+- Have you developed any new physical symptoms?
+- How has your mood been?
+- How has your sleep been?
+- Have you lost weight?
+- Have there been any recent changes to your medications?
+- How do the thinking and memory problems affect your day-to-day life? For example, working, taking medications, getting washed and dressed, paying your bills.
+- Have there been any serious consequences of the thinking and memory problems? For example, getting lost, getting into debt, driving accidents or near-misses, or leaving the gas on. 
 
 They may ask questions to assess different aspects of memory and thinking. Try not to worry about this too much as getting stressed can make it harder.
 
-**Track your symptoms in the Symptom and Activity Tracker in your manual**
-
+**Track your symptoms in the _Symptom and Activity Tracker_**
 - This can help you to recall the details and help the professional identify patterns.
 - If you think the problem is variable, try recording when it is at its best and when it is at its worst. Note what you have done on those days that is different compared to a typical day.
 
 ### Tests
+Depending on their assessment, your GP or Parkinson’s specialist may arrange some further tests. 
 
-Depending on their assessment, your GP or Parkinson’s specialist may arrange some further tests.  
 This may include blood tests, urine tests or occasionally a brain scan.
 
-## Further Treatments
+--
 
+## Further Treatments
 A healthcare professional may be able to offer reassurance or possibly further treatment.
 
 ### Medication
-
 - Doctors (e.g. GP or neurologist) and some nurses (e.g. Parkinson’s Specialist Nurses) may change your medication.
-- Please do not make any changes to your medication regime without speaking with a healthcare professional.
+- **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 
 **Some medication used for memory and thinking difficulties:**
+- If a significant memory and thinking problem is identified, the first line treatment is a type of medication called a cholinesterase inhibitor. There are several different types, but most commonly used are _rivastigmine_ or _donepezil_.
+- If these are not suitable due to other medical problems, or if the side effects are a big problem, then the next choice is a medication called _memantine_. 
 
-- If a significant memory and thinking problem is identified, the first line treatment is a type of medication called a cholinesterase inhibitor. There are several different types, but most commonly used are rivastigmine or donepezil.
-- If these are not suitable due to other medical problems, or if the side effects are a big problem, then the next choice is a medication called memantine.
-
-**Some medications that may make memory and thinking worse for some people:**
-
+**Some medications that _may_ make memory and thinking worse for some people:**
+There are benefits and risks of all medication so you should speak to your healthcare professional if you have any concerns.
 - Anticholinergic medications (e.g. oxybutynin, solifenacin, amitriptyline)
 - Parkinson’s medications (e.g. selegiline or amantadine)
 - Sedating medications (e.g. benzodiazepines like diazepam and clonazepam).
