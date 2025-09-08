@@ -1,4 +1,6 @@
-# Introduction
+# Legal Matters
+
+## Introduction
 
 There are several legal arrangements that everyone should consider at some stage in their lives. It helps to put these in place as soon as possible. This may involve insurance, power of attorney, decisions about how they wish to be treated and making a will. This section will discuss these legal aspects in some detail. For information about employment please see the section Work & Caring.
 
