@@ -55,7 +55,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - How does it impact on your daily activities or sleep?  
 - Does anything help it / make it worse?  
 
-**Track your symptoms in the _Symptom and Activity Tracker_**
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
 - This can help you to recall the details and help the professional identify patterns. It may influence medication adjustments. Bring your record to your specialist appointment.
 - You could record when the dystonia happens, if you are ‘on’ or ‘off’ when you experience dystonia, and when you have taken your medication.
 - Usually 3-5 days of tracking will be enough to see patterns. 
