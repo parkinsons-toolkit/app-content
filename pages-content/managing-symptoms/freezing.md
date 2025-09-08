@@ -101,7 +101,7 @@ People affected by Parkinson’s describe their experiences.
 ## Further assessment
 
 ### Questions
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a>. section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 - How much the freezing occurs and when this happens. This is to see if there is a relationship to medication (e.g. If it only occurs during “off” periods or when both “on” and “off”) or if there are any triggers.
