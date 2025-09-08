@@ -27,7 +27,7 @@ There are many things you can try for yourself, but there are some circumstances
 - Significant change in your bowel habit that lasts 4 weeks or more  
 - Unintentional significant weight loss (see the <a href="/learn/managing-symptoms/weight" class="internal-link">_Weight_</a> page)  
 - New bowel incontinence  
-- If you have tried the suggestions listed in *What can I try for myself?* and the problem persists after a month  
+- If you have tried the suggestions listed below under *What can I try for myself?* and the problem persists after a month  
 
 ---
 
@@ -73,7 +73,7 @@ There are many things you can try for yourself (see *What can I try for myself*)
 - Significant change in your bowel habit that lasts 4 weeks or more  
 - Unintentional significant weight loss (see weight loss page)  
 - New bowel incontinence  
-- If you have tried the suggestions listed in *What can I try for myself?* and the problem persists after a month  
+- If you have tried the suggestions listed in *What can I try for myself?* and the problem persists after a month.
 
 ---
 
@@ -83,18 +83,16 @@ There are many things you can try for yourself (see *What can I try for myself*)
 Fibre in your diet helps improve constipation. Eat a variety of fibres.  
 
 **Fibre is in:**  
-- Wholegrain – many breakfast cereals, whole-wheat pasta, wholegrain bread and oats, barley and rye  
-- Fruit  
-- Vegetables  
-- Peas, beans, pulses, nuts, seeds  
+- **Wholegrain** – many breakfast cereals, whole-wheat pasta, wholegrain bread and oats, barley and rye  
+- **Fruit**  
+- **Vegetables**  
+- **Peas**, **beans**, **pulses**, **nuts**, **seeds**  
 
-**How much fibre?**  
-Aim for **30 g spread throughout the day**. If you are not meeting this then gradually increase fibre intake to reach this. You can find more information of fibre content in food through the links in our *More Information* section.  
+**How much fibre?** Aim for 30 g spread throughout the day. If you are not meeting this then gradually increase fibre intake to reach this. You can find more information about fibre content in food through the links listed at the bottom of this page.
+ 
+Dehydration contributes to constipation, and fluids are needed to treat dehydration. But, if you are not dehydrated, then just drinking extra fluid will not resolve the constipation. Alcoholic drinks are not good for hydration, as they make you urinate more.
 
-Dehydration contributes to constipation, and fluids are needed to treat dehydration. But, if you are not dehydrated, then just drinking extra fluid will not resolve the constipation. Alcoholic drinks are not good for hydration, as they make you urinate more.  
-
-**How much fluid?**  
-In general, **1.5–2L of fluid (8–10 cups or medium glasses) per day** is advised. You will need more if it is hot or you are exerting more energy. People stop feeling thirsty before the body is completely rehydrated so you should drink even if you are not thirsty. You can also lose your sense of thirst a bit when you get older. The colour of urine is a good indicator of hydration; if you are drinking enough your urine should be a straw or pale yellow colour.  
+**How much fluid?** In general, 1.5-2L of fluid (8-10 cups or medium glasses) per day is advised. You will need more if it is hot or you are exerting more energy. People stop feeling thirsty before the body is completely rehydrated so you should drink even if you are not thirsty. You can also lose your sense of thirst a bit when you get older. The colour of urine is a good indicator of hydration; if you are drinking enough your urine should be a straw or pale-yellow colour. 
 
 **Tips on drinking enough:**  
 It is difficult to drink this much fluid for some people. You could try drinking a small glass of water each time you take your medication and a glass of water or a drink (e.g. cup of tea) with each meal. All sorts of fluid count towards your daily amount, it doesn’t have to be just water. Fruit juices, squash, hot drinks (e.g. tea, coffee), milk and low alcohol beer all count. Remember you can also have fluid in your food which counts too, such as milk in cereal or soups.  
