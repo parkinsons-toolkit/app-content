@@ -1,30 +1,21 @@
 # Leg or Ankle Swelling
-
-Leg or ankle swelling can commonly occur in people with Parkinson’s. Extra fluid from around the body can settle in the ankles or lower legs. This can be uncomfortable to walk with, make the skin feel tight, legs feel heavy or shoes feel tight. This extra fluid is known as *oedema*. Muscle movements in the legs help to push some of the fluid back around the body.
-
-Sometimes swelling gets better overnight and then worse when you are up, sitting and moving around during the day. This is called *postural oedema*. Gravity causes the fluid to build up around the ankles when they are in a position lower than your knees for long periods of time. This is more common as you get older, especially if you spend a lot of the day sitting still. It usually affects both legs/ankles and is one of the most common causes of ankle or lower leg swelling.
+Leg or ankle swelling can commonly occur in people with Parkinson’s. Extra fluid from around the body can settle in the ankles or lower legs. This can be uncomfortable to walk with, make the skin feel tight, legs feel heavy, or shoes feel tight. This extra fluid is known as _oedema_. Muscle movements in the legs help to push some of the fluid back around the body.
 
 ---
 
-## Possible Causes
+## What might be causing it?
+Sometimes swelling gets better overnight and then worse when you are up, sitting and moving around during the day. This is called postural oedema. Gravity causes the fluid to build-up around the ankles when they are in a position lower than your knees for long periods of time. This is more common as you get older. Also, if you spend a lot of the day sitting still. It usually affects both legs/ankles and is one of the commonest causes of ankle or lower leg swelling.
 
-### Parkinson’s-related causes
+Possible causes of leg or ankle swelling in people with Parkinson’s include: 
+- Possible side effect of some Parkinson’s medications, such as dopamine agonists (pramipexole, ropinirole, rotigotine).
+- Not moving as much can cause fluid to collect in the feet, ankles, and lower legs as the muscles are not pushing it back.
 
-* Possible side effect of some Parkinson’s medications, such as dopamine agonists (*pramipexole, ropinirole, rotigotine*).
-* Not moving as much can cause fluid to collect in the feet, ankles, and lower legs as the muscles are not pushing it back.
-
-### Non-Parkinson’s causes
-
-* **Blood clots (deep vein thrombosis)** – if the swelling is confined to one leg, which may also be painful. More common in those:
-
-  * having treatment for cancer
-  * recent surgery or leg fracture (within 12 weeks)
-  * bedridden for more than 3 days
-  * previous history of clots
-* **Infections in the legs** – typically only on one side, usually causing a red, hot, and painful leg.
-* **Injuries** – such as a twisted ankle (usually only on one side and painful).
-* **Problems with major organs** – heart, liver, or kidney issues (usually already known about or associated with other symptoms).
-* **Side effects of non-Parkinson’s medications** (e.g., some blood pressure tablets).
+Other non-Parkinson’s causes of leg or ankle swelling can be from:
+- Blood clots (deep vein thrombosis) if the swelling is confined to one leg, which may also be painful. This is more common in those having treatment for cancer, recent surgery or leg fracture (within 12 weeks), have been in bed for more than 3 days, or have had clots before.
+- Infections in the legs – these are typically only on one side and usually cause a red, hot and painful leg.
+- Injuries, such as a twisted ankle (you would normally be aware of the injury). It is usually only on one side and is often painful.
+- Problems with major organs, such as your heart, liver, or kidney – these are usually either already known about or associated with other symptoms.
+- Side effects of non-Parkinson’s medications (e.g. some blood pressure tablets). 
 
 ---
 
