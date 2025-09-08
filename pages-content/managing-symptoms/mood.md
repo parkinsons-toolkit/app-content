@@ -1,6 +1,5 @@
 # Mood
 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -11,35 +10,29 @@
 </iframe>
 </div>
 
+## What’s the difference between low mood and depression?
+Everyone has times when their mood is low, and they feel unhappy about life. This can happen following a difficult event or experience. It is also possible to feel down without there being a clear reason. For some people, these periods of low mood are manageable and gradually pass. For others, low mood may persist for a long time and can affect their day-to-day life. They may find it more difficult to ‘shake it off’, even for a short time. This may indicate depression. When a person is depressed, it can affect their physical health, their appetite, and their sleep. In the same way, when a person is physically unwell it can lower their mood.
 
-
-## Low Mood: What’s the difference between low mood and depression?
-
-Everyone experiences low mood sometimes, often after a difficult event or even for no clear reason. For many, these feelings are manageable and pass gradually. For others, low mood may persist and impact daily life, making it harder to “shake off.” This may indicate depression. Depression affects physical health, appetite, and sleep, and being physically unwell can also lower mood.
-
-A general low mood might involve feeling sad or emotionally “flat” or “empty.” Other possible feelings include:  
+A general low mood may involve feeling sad, but it can also involve feeling emotionally ‘flat’ or ‘empty’. When a person has low mood, they can also experience some of the following:  
 - Lack of self-confidence  
 - Feeling worried or anxious  
 - Feeling frustrated or irritable  
 - Feeling tired or lacking energy  
 
-Though common, these feelings don’t have to be accepted as inevitable. Small changes like talking about difficulties or improving sleep can help. Staying physically, mentally, and socially active also supports mood.
+Just because such feelings are common, it does not mean that they have to be accepted as inevitable. Making small changes in your life, such as talking about a difficult situation or increasing the amount sleep you get, can help to improve your mood. It can also help to keep as physically, mentally, and socially active as you can. 
+ 
+A low mood which persists despite taking positive steps to help manage it can be a sign of depression. Depression is more intense and longer lasting than the short periods of low mood that anyone can experience from time to time. Depression can have the same features as low mood, plus others. 
 
----
+## Symptoms of depressions
+- Low, flat or empty mood lasting 2 weeks or more
+- No longer getting enjoyment from the things you used to
+- Feeling hopeless
+- Feeling tired or lacking energy
+- Difficulty concentrating on everyday things (e.g. watching the television)
+- Comfort eating or losing your appetite
+- Sleeping more than usual or being unable to sleep 
 
-## Depression vs Low Mood
-
-Depression is more intense and lasts longer than usual low mood. Symptoms of depression include:  
-- Low, flat, or empty mood lasting 2 weeks or more  
-- Loss of enjoyment in things you used to like  
-- Feeling hopeless  
-- Feeling tired or lacking energy  
-- Difficulty concentrating on everyday tasks (e.g., watching TV)  
-- Comfort eating or loss of appetite  
-- Sleeping too much or difficulty sleeping  
-
-Some people may feel “tired of life” without wanting to die, but severe depression can include thoughts of self-harm or suicide.
-
+People may feel ‘tired of life’ and that it is not worth living, but not actually want to die. Occasionally, people with more severe depression may have thoughts of harming themselves or taking their own life.
 
 <div class="video-container">
 <iframe 
@@ -51,47 +44,39 @@ Some people may feel “tired of life” without wanting to die, but severe depr
 </iframe>
 </div>
 
-
-
 ---
 
-## Causes of Depression in Parkinson’s
+## What might be causing it?
+Depression does not have a single cause. It is a result of a combination of physical changes in the brain and the body, a person’s past and current life experiences, and the ways in which they try to cope with them. People with Parkinson’s with depression have often had periods of depression earlier in their life. They may also have family members who are prone to depression. 
 
-Depression has no single cause. It results from brain and body changes, life experiences, and coping strategies. People with Parkinson’s may have had depression before or have family history of it. Brain chemical changes in Parkinson’s may contribute but don’t always cause depression directly.
-
-Parkinson’s medications don’t cause depression, but mood may change when medications are adjusted. Mood ups and downs during the day are common and not always depression.
-
----
-
-## Diagnosing Depression in Parkinson’s
-
-Diagnosing depression can be tricky because symptoms overlap:  
-- Sleep difficulties and fatigue are common in Parkinson’s but not always signs of depression.  
-- Changes in facial expression can make someone appear sad even if they’re not.
-
-Depression is common in people with multiple long-term health conditions, not just Parkinson’s, indicating that having any chronic illness is a major risk factor.
+In Parkinson’s, the chemical changes in the brain can contribute to depression but may not directly cause it. While many people with Parkinson’s experience depression at some time, others do not despite similar brain changes. 
+ 
+There is no evidence that drugs to treat Parkinson’s cause depression, but they also do not seem to help very much. When someone has their Parkinson’s medication changed, they may notice a change in their mood, at least at the start. The changing nature of Parkinson’s symptoms throughout the day can also mean you experience ups and downs in mood, which aren’t always a sign of depression. 
+ 
+Depression can be difficult to diagnose in someone with Parkinson’s. This is because there can be an overlap of symptoms. For example, many people with Parkinson’s experience difficulties with sleeping. These difficulties are likely to make you feel tired and lacking in energy. They therefore do not necessarily mean you’re depressed. Also, changes in facial movements in Parkinson’s can affect facial expression which can be misunderstood. For example, someone may look sad when they are not. 
+ 
+Depression is more common in people who have many different long-term health conditions, not just Parkinson’s. Depression can also be caused by other common conditions not related to Parkinson’s, such as arthritis, diabetes, and cardiovascular disease. This tells us that having any long-term health condition may be the most important factor causing depression. 
 
 ---
 
 ## What Should I Do About It?
+There are many things you can try to help you deal with low mood or depression (see below ‘What can I try for myself?’). At times, feelings of low mood are completely normal. But, if you have these feelings for most of the day, every day for more than 2 weeks, you should make an appointment with your GP. Your GP can assess whether your symptoms suggest that you are depressed. Depending on the outcome, they may recommend medication or a talking therapy (see the <a href="/learn/treatments-and-therapies
+/complementary-therapies" class="internal-link">_Complementary Therapies_</a>) page.
 
-Try self-help strategies (see below), but if low mood lasts most of the day, nearly every day, for over 2 weeks, see your GP. They can assess for depression and may suggest medication or talking therapies.
+In some situations, depression can need urgent attention. This may be if you are experiencing any of the following: 
+- Great emotional distress
+- Repeated thoughts of death or suicidal ideas
+- Thoughts of self-harm or harming others 
 
-### Seek urgent help if you experience:  
-- Great emotional distress  
-- Repeated thoughts of death or suicide  
-- Thoughts of self-harm or harming others  
+If you or a family member feels there is an immediate risk, you should go to your nearest Accident and Emergency (A&E) department. There will be a trained mental health care professional available that you can see. If you cannot get to A&E yourself, you or someone else can call 999 and ask for an ambulance.
 
-If immediate risk is present, go to A&E or call 999 for an ambulance.
+If you need immediate help but don’t want to go to A&E, you could: 
+- Call Samaritans on Freephone 116 123 – they're open 24 hours a day and are there to listen
+- Contact your GP and ask for an emergency appointment
+- Contact NHS 111 (England) or NHS Direct 0845 46 47 (Wales)
+- Contact your local crisis team (CRHT), if you’re under their care. 
 
-If you need urgent help but cannot go to A&E:  
-- Call Samaritans on Freephone 116 123 (24/7)  
-- Contact your GP for an emergency appointment  
-- Call NHS 111 (England) or NHS Direct 0845 46 47 (Wales)  
-- Contact your local crisis team if under their care  
-
-For more info, see the charity Mind’s guidance on urgent mental health support.
-
+For more details, the charity _Mind_ has information about <a href="https://www.mind.org.uk/need-urgent-help/" class="external-link" target="_blank" rel="noopener noreferrer">how to seek urgent mental health support</a>. 
 
 <div class="video-container">
 <iframe 
@@ -102,7 +87,6 @@ For more info, see the charity Mind’s guidance on urgent mental health support
   allowfullscreen>
 </iframe>
 </div>
-
 
 ---
 
