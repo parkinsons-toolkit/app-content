@@ -183,7 +183,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - About the risk factors for falls as discussed above.
 - If possible, it can be helpful for them to speak to someone else who saw the fall.
 
-**Track your symptoms in the _Symptom and Activity Tracker_**
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
 - This can help you to recall the details and help your health professional look for patterns.
 - For balance problems and falls the nature of the diary will depend on what you are experiencing.
 - If it does not happen often, it would be best to note just when it occurs rather than tracking symptoms all the time. It is helpful to note what actually happened (e.g. “_I was getting up from bed to go to the toilet in the night. It was dark and I tripped over the rug in my bedroom_”), any other symptoms you experienced (e.g. _dizziness_), and anything you notice about the circumstances (e.g. “_I had not slept well last night_”).
