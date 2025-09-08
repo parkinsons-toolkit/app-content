@@ -1,4 +1,6 @@
-# Introduction
+# Hobbies and Pets
+
+## Introduction
 
 Hobbies and pets provide many people with a sense of purpose and enjoyment. Hobbies enable us to enjoy an activity that is a break from our day-to-day routine. For many people it helps to keep on doing hobbies or start new ones, no matter your age or circumstances. It is seen as a way to keep up or improve your wellbeing.
 
