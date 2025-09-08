@@ -152,7 +152,6 @@ More information about these systems is available on the [NHS website](link) and
 
 ---
 ## My Experience
-
 People affected by Parkinson’s describe their experiences.
 
 > “I store things I use daily, like medication or towels, between waist and eye-level, so I can avoid reaching or bending, which can throw me off balance”  
