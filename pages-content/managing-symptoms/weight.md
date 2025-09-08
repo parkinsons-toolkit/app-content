@@ -65,12 +65,12 @@ There are also tips that may be relevant on the <a href="/learn/managing-symptom
 
 ---
 
-### Further assessment
+## Further assessment
 
-**Questions**  
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. Record this in your “My Health” section to bring to the appointment.  
-See extra information below about things they might ask about.
+### Questions
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your _My Health_ section to bring to the appointment.
 
+**They might ask about:**
 - Appetite
 - Change in bowel habit
 - Loose stools
@@ -84,22 +84,19 @@ See extra information below about things they might ask about.
 - Rashes
 - Lifestyle and diet
 
-**Track your symptoms in the Symptom and Activity Tracker in your manual**
-
-- Showing your healthcare workers a record of your daily intake of food and drink for 3 days can help them decide what to suggest next. If you see a dietician they may ask for a more detailed record.
-- Monitor your weight monthly — it is helpful to have measurements to know how much weight is lost. You can record this in your “My Health” page.
-
----
+**Track your symptoms in the _Symptom and Activity Tracker_**
+- Showing your healthcare workers a record of your daily intake of food and drink for 3 days can help them decide what to suggest next. If you see a dietician, they may ask for a more detailed record.
+- Monitor your weight monthly — it is helpful to have measurements to know how much weight is lost. You can record this in your _My Health_ section.
 
 ### Tests
-
 If the cause for weight loss is not clear, they may run further tests such as blood tests or scans.
 
 ---
 
-### Further Treatments
+## Further Treatments
 
-- **Referral**: Your GP may refer you to another service, depending on your issue:
+##Referral##
+Your GP may refer you to another service, depending on your issue:
   - A dietician
   - A speech and language therapist, if swallowing is a problem
   - Occupational therapist or physio, depending on your issue
@@ -107,16 +104,13 @@ If the cause for weight loss is not clear, they may run further tests such as bl
 
 ---
 
-### Key Messages
-
+## Key Messages
 - There are many causes of weight loss, both related and not related to Parkinson’s.
 - Weight loss is seen in Parkinson’s, but it is important that people do not lose a lot of weight. This can have a negative impact on wellbeing and health.
 - You can have a lower appetite as you get older, but weight loss is not a normal part of ageing.
 - Persistent unintentional weight loss needs investigation by your GP.
 
 ---
-
-Please look at the bottom of the table for further information about call charges.
 
 | Organisation                 | Information about                                                                                                                                                                                                                                                                 | Phone Number                                                             | Website                                                                                                                                                                                                                                                                                                                                                        |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
