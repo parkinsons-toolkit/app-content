@@ -120,7 +120,7 @@ For more on all of these aspects, see the <a href="/learn/living-with-parkinsons
 - Where possible, it will also help to address other factors that can contribute such as pain, tiredness and stress.
 - Many falls are associated with drops in blood pressure. There are tips for dealing with this on the <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page.
 - Ensure you have appropriate footwear. Low heels or flat soles are better, and solid shoes with good support are better. Try to avoid unsupportive shoes, such as flip-flops, floppy slippers, or high heels.
-- Get a sight test – see <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page for more information.
+- Get a sight test – see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page for more information.
 
 ### Environment
 - Ensure adequate lighting.
