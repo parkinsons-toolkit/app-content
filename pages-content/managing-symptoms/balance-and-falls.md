@@ -100,7 +100,7 @@ In Parkinson's, specific attention also needs to be given to:
 
 Exercises to achieve these need to be tailored to your ability and needs.
 
-For more on all of these aspects, see the _Keeping Active_ page.
+For more on all of these aspects, see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page.
 
 <div class="video-container">
 <iframe 
@@ -118,9 +118,9 @@ For more on all of these aspects, see the _Keeping Active_ page.
 - Give yourself time.
 - Reduce unnecessary distractions.
 - Where possible, it will also help to address other factors that can contribute such as pain, tiredness and stress.
-- Many falls are associated with drops in blood pressure. There are tips for dealing with this on the _Dizziness_ page.
+- Many falls are associated with drops in blood pressure. There are tips for dealing with this on the <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page.
 - Ensure you have appropriate footwear. Low heels or flat soles are better, and solid shoes with good support are better. Try to avoid unsupportive shoes, such as flip-flops, floppy slippers, or high heels.
-- Get a sight test – see _General Medical Advice_ page for more information.
+- Get a sight test – see <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page for more information.
 
 ### Environment
 - Ensure adequate lighting.
@@ -216,7 +216,7 @@ Once you have spoken to a healthcare professional, they can help reassure you. T
 
 ### Physiotherapy & Occupational Therapy
 - You may be referred to a physiotherapist or occupational therapist. This will likely be if you are not being seen in a falls service. In some areas there are specialist teams for people with conditions like Parkinson’s.
-- See the _Who May be Involved_ page for more information about the different professional roles.
+- See the <a href="/learn/treatments-and-therapies/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page for more information about the different professional roles.
 - They assess your walking and how you transfer between positions (like getting up from a chair).
 - They will aim to give you tailored strategies and exercises, to help your balance and reduce the risk of falls.
 - They will also consider your home environment.
@@ -228,7 +228,7 @@ Once you have spoken to a healthcare professional, they can help reassure you. T
 
 They may make recommendations to the Adult Social Care services if this is needed.
 
-Please see the _Practical Advice_ pages for guidance on daily activities.
+Please see the _Practical Advice_ pages found within the <a href="/learn/living-with-parkinsons" class="internal-link">_Living with Parkinson's_</a> section for guidance on daily activities.
 
 ### Adult Social Care Services
 - They can assess for extra support, requirements for your home and alarm systems if needed.
