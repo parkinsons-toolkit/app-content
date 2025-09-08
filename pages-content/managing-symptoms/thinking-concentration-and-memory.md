@@ -1,8 +1,5 @@
-# Thinking and Remembering in Parkinson’s
-
-Difficulties with thinking and memory are common in Parkinson’s and can be worrying for both the person affected and their loved ones. While some slowing of memory or thinking is normal with age, **larger changes that affect day-to-day activities are not normal** and should be discussed with a healthcare professional. Vocabulary and reading skills usually remain intact with age. Not all thinking and memory problems in Parkinson’s indicate dementia.
-
-For more advanced symptoms, including dementia, see the **Progression of Symptoms** page.
+# Thinking and Remembering
+Difficulties with thinking and remembering are common in Parkinson’s. They can be very worrying for the person experiencing these as well as for those around them. As we get older, we are likely to notice more difficulties with our memory, speed of thinking, and ability to do several things at once. But bigger changes, particularly if they affect day-to-day activities, are not normal and should be discussed with a healthcare professional. Vocabulary and reading do not normally get worse with age. Difficulties with thinking and memory are not always signs of dementia.
 
 <div class="video-container">
 <iframe 
@@ -17,23 +14,16 @@ For more advanced symptoms, including dementia, see the **Progression of Symptom
 ---
 
 ## What Might Be Causing It?
+Memory and thinking problems can be symptoms of Parkinson’s, but not all of them are. The difficulties in Parkinson’s tend to come on slowly.
 
-Memory and thinking problems in Parkinson’s usually develop **gradually**. Common areas affected include:
+Parkinson’s tends to affect the following components of thinking: 
+- _**Executive function:**_ This is the control of thinking, and includes planning, keeping things in mind, flexible thinking, and self-control. For example, when cooking a meal, someone with executive function problems may find it difficult to get all the right ingredients and plan what time to start cooking them so they will be ready at the same time.
+- _**Attention**_ (staying focused on something): This might be conscious or an automatic process such as listening in a conversation. Problems might, for example, show as difficulties reading, following a conversation, or multi-tasking.
+- Language (remembering and understanding words and meanings). Problems might, for example, show as forgetting the word for something or not managing to understand more complex conversations.
+- Visuospatial function. This includes being able to judge distances and depth, imagine things visually and process them in your mind and detecting patterns. Problems might, for example, show as getting off at the wrong bus stop, misjudging the depth of a step or not being able to imagine the kitchen to describe where the tea is kept.
+- Memory (being able to recall things). Problems might, for example, show as someone repeating themselves or not remembering the plot of a TV programme they recently watched. 
 
-- **Executive function**: Planning, keeping things in mind, flexible thinking, and self-control.  
-  _Example_: Difficulty planning a meal so that all ingredients are ready at the right time.
 
-- **Attention**: Staying focused on tasks, conversations, or multi-tasking.  
-  _Example_: Trouble following a conversation or reading.
-
-- **Language**: Remembering and understanding words.  
-  _Example_: Forgetting words or not understanding complex discussions.
-
-- **Visuospatial function**: Judging distances, depth, imagining objects, or recognizing patterns.  
-  _Example_: Getting off at the wrong bus stop or misjudging a step.
-
-- **Memory**: Recalling information or events.  
-  _Example_: Repeating oneself or forgetting the plot of a TV program.
 
 ### Dementia and Other Causes
 
