@@ -104,7 +104,7 @@ Sudoku).
 
 It’s important to note there is **not** currently enough evidence to recommend these. 
 
---
+---
 
 ## Further Assessment
 
@@ -131,7 +131,7 @@ Depending on their assessment, your GP or Parkinson’s specialist may arrange s
 
 This may include blood tests, urine tests or occasionally a brain scan.
 
---
+---
 
 ## Further Treatments
 A healthcare professional may be able to offer reassurance or possibly further treatment.
@@ -145,6 +145,7 @@ A healthcare professional may be able to offer reassurance or possibly further t
 - If these are not suitable due to other medical problems, or if the side effects are a big problem, then the next choice is a medication called _memantine_. 
 
 **Some medications that _may_ make memory and thinking worse for some people:**
+
 There are benefits and risks of all medication so you should speak to your healthcare professional if you have any concerns.
 - Anticholinergic medications (e.g. oxybutynin, solifenacin, amitriptyline)
 - Parkinson’s medications (e.g. selegiline or amantadine)
@@ -153,10 +154,11 @@ There are benefits and risks of all medication so you should speak to your healt
 ### Referral
 
 - You may be referred on to another service. Please be aware that there is usually a waiting time before the next service will see you.
-- The typical referral for memory and thinking problems is to a multi-professional service called a “memory clinic”. Or, you may be referred for a specialist assessment by a cognitive neuropsychologist.
+- The typical referral for memory and thinking problems is to a multi-professional service called a “memory clinic”. Or you may be referred for a specialist assessment by a cognitive neuropsychologist.
+
+---
 
 ## Key Messages
-
 - Thinking and memory problems are not always a sign of dementia.
 - Looking after your physical and emotional wellbeing may help with your memory and thinking.
 
