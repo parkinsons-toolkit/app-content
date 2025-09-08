@@ -1,84 +1,81 @@
 # Restless Legs
-
-## Introduction
-Restless leg syndrome (RLS) can feel like:
+Restless leg syndrome can feel like:
 - An irresistible urge to move your legs  
 - A pins and needles sensation in your legs  
 - A burning sensation in your legs  
 
-These sensations usually occur in the evening while relaxing. Moving your legs provides temporary relief, but the sensations return once still. Because they often worsen at night, they may disrupt sleep.
+These sensations usually occur in the evening while you are relaxing. Moving your legs will likely make them immediately feel better, but the sensations will return once they are still again. Because these feelings tend to occur or get worse at night, they can disrupt people’s sleeping schedules.
 
 ---
 
 ## What Might Be Causing It?
-- Parkinson’s and the low level of dopamine in the brain.  
-- Non-Parkinson’s causes include low iron, reduced kidney function, or pregnancy.  
-- Many cases have no clear cause, though it can run in families.  
-- Alcohol, smoking, caffeine, and some medications can worsen symptoms.  
+- Restless leg syndrome can be due to Parkinson’s and the low level of dopamine in the brain.
+- Non-Parkinson’s causes of restless leg include low iron, reduced kidney function, or pregnancy; but most cases of restless leg don’t have a clear cause. It can also run in families.
+- Alcohol, smoking, caffeine, and some medications tend to make the symptoms of restless leg worse. 
 
 ---
 
 ## What Should I Do About It?
-- If new symptoms arise, or you’ve never discussed them before, speak to your **GP or Parkinson’s specialist team**.  
-- Mild cases may improve with lifestyle changes.  
-- Moderate or severe cases may require medication, especially if sleep is affected.  
+If you have new symptoms of restless leg (as described above), or have never consulted a professional about it before, you should speak to your GP or Parkinson’s specialist team. 
+ 
+Mild cases of restless leg may be treated with lifestyle changes, but more moderate or severe cases of restless leg may require medication. You should speak to your Parkinson’s specialist team if restless legs are interfering with your sleep. You should also speak to them if you are not able to manage it with lifestyle changes. 
 
 ---
 
 ## What Can I Try for Myself?
-- Leg massage, walking, and stretching (see *Keeping Active* page).  
-- Warm or cool compresses on the legs.  
-- Warm bath in the evening (make sure you are well hydrated first).  
-- Avoid alcohol, caffeine, and smoking, especially in the evening.  
-- Establish regular sleeping habits.  
-- Maintain a cool sleeping environment.  
+- Leg massage, walking and stretching. See the <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page for tips on stretching.
+- Warm or cool compresses on the legs.
+- Taking a warm bath in the evening. Make sure you are well hydrated first.
+- Avoiding alcohol, caffeine, and smoking (particularly in the evening, when symptoms tend to be worse).
+- Establishing regular sleeping habits.
+- Maintaining a cool sleeping space. 
 
 ---
 
 ## Further Assessment
-Healthcare professionals may ask:
-- What sensations do you feel in your legs?  
-- When do they occur?  
-- What makes them better?  
+### Questions
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
-### Track Your Symptoms
-Use the **Symptom and Activity Tracker**:
-- Record when symptoms occur and how long they last.  
-- Tracking over a week may help identify patterns.  
+**They may ask about:**
+- What the sensations in your legs feel like, when they occur, and what makes them feel better.
 
----
+**Track your symptoms in the _Symptom and Activity Tracker_**
+- This can help you to recall the details and help your health professional look for patterns.
+- For restless leg symptoms you could record when you have the feelings in your legs, including how long it lasts, for example over the course of a week.
 
-## Tests
-- **Ferritin/iron level check** → low iron can contribute.  
-- Rarely, further blood tests or nerve electrical activity tests.  
+### Tests
+Your GP may check your ferritin or iron levels. This is to see if a low iron level is contributing to your symptoms. Very occasionally, if another cause is suspected, they may run further tests. This can include other blood tests or tests of the electrical activity in the nerves. 
 
 ---
 
 ## Further Treatments
 
 ### Treating the Cause
-If iron levels are low:
-- Eat more iron-rich foods:  
-  - Shellfish, red meat, turkey, ham  
-  - Beans, iron-enriched breads/cereals  
-  - Dark green vegetables, raisins, prunes, apricots  
-- Iron tablets may be prescribed.  
-⚠️ Iron tablets can cause constipation (see *Bowel Symptoms* page).  
+If your iron levels are low: 
+- You may be asked to eat more iron-rich foods, examples include:
+  - Shellfish, red meat, turkey, ham o Beans, iron-enriched breads and cereals
+  - Dark green vegetables, raisins, prunes, apricots
+- You may be advised to take iron tablets.
+  - _Caution: iron tablets can cause constipation._
+  - See the <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> page if this is a concern. 
 
 ### Medication
-Only to be adjusted by doctors (GP, neurologist) or Parkinson’s Specialist Nurses:  
-- **Parkinson’s medication** → dopamine agonists or levodopa  
-- **Nerve pain medication** → gabapentin or pregabalin (used cautiously)  
-- **Painkillers** → codeine, tramadol  
-  - Must be monitored due to constipation and side effects  
+- Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication.
+- **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
+- In moderate or severe cases of restless leg syndrome, treatment with medication may be necessary. 
+
+**Medication that may be tried:**
+- Parkinson’s medication: such as dopamine agonists or levodopa o Medication used for nerve pain, such as gabapentin or pregabalin (used cautiously).
+- Painkillers, such as codeine, and tramadol.
+  - These medications can cause constipation and other side effects, and must be monitored by healthcare professionals.
 
 ---
 
 ## Key Messages
-- RLS feels like burning, pins and needles, or an urge to move the legs.  
-- Symptoms typically occur at night or when relaxing, often disturbing sleep.  
-- Always check ferritin levels to rule out low iron.  
-- Lifestyle changes and medication can both help.  
+- Restless leg syndrome can feel like burning, pins and needles, or an irresistible urge to move your legs.
+- Symptoms tend to happen at night or while people are relaxing. Symptoms may interrupt sleep.
+- It’s important to get your ferritin level checked. This is to make sure a low iron level isn’t contributing to your symptoms.
+- Lifestyle changes and medications are also options for treating the symptoms of Restless Leg Syndrome.
 
 ---
 
