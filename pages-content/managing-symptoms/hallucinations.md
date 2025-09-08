@@ -49,7 +49,7 @@ Hallucinations, visual illusions, and delusions may occur in people with Parkins
 ## What can I try for myself?
 It is important to discuss the hallucinations, illusions, and/or delusions with your Parkinson’s specialist team or GP. This is so that they can see if any potentially treatable causes could be adding to the problem or if a change in your Parkinson’s medication might help.
 
-**Look at surroundings**
+**Look at surroundings:**
 - Visual illusions can often occur at certain times of day. This could be, for example, around the time evening is starting and lighting is getting low. It may help to turn the room lights on earlier in the evening than usual.
 - If certain objects are frequently mistaken as visual illusions, consider removing these objects from the room or changing the lighting in the room to alter the shadow (it may be worth examining the lighting and how things are arranged at home in case this could be contributing to the problem).
 - Try talking to a close friend or relative if you suspect you are hallucinating or seeing a visual illusion. They may be able to help you to recognise a hallucination or visual illusion and to decrease your anxiety about them.
@@ -68,8 +68,8 @@ It is important to discuss the hallucinations, illusions, and/or delusions with 
 ---
 ## Further Assessment
 
-###Questions###
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your _My Health_ section to bring to the appointment.
+### Questions
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a>. section to bring to the appointment.
 
 **They may ask about:**
 - When did the problem start?
