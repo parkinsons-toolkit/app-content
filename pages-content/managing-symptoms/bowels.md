@@ -42,20 +42,6 @@ Fibre in your diet helps improve constipation. Eat a variety of fibres.
 - Vegetables  
 - Peas, beans, pulses, nuts, seeds  
 
-# Bowel Symptoms
-
-Everyone has a different natural bowel pattern, so bowel symptoms are different for each person.  
-Constipation, or reduced bowel motions, is common in Parkinson’s. You may experience:  
-- Difficulty passing a bowel movement (straining)  
-- Hard or lumpy stools  
-- Opening bowels less often. If you are having less than 3 bowel movements per week, it is likely you are constipated  
-- A feeling that you haven’t fully emptied your bowel  
-- Feeling of blockage in the bottom or having to use fingers to remove stool during a bowel movement  
-
-Constipation can make you feel very unwell and, if left untreated, can become serious. Constipation can affect the absorption of medications and, if severe, may cause vomiting. Both of these can make your medication less effective.  
-
-Constipation can sometimes lead to diarrhoea or leaking of stool. Hard stool gets stuck and only the liquid content comes out. So, although it can seem like diarrhoea, the bowels are very constipated and blocked up. This is known as **“overflow diarrhoea”** and the best approach to resolve it is to treat the constipation.  
-
 ---
 
 ## What might be causing it?
@@ -88,11 +74,11 @@ Fibre in your diet helps improve constipation. Eat a variety of fibres.
 - **Vegetables**  
 - **Peas**, **beans**, **pulses**, **nuts**, **seeds**  
 
-<ins>**How much fibre?**/ins> Aim for 30 g spread throughout the day. If you are not meeting this then gradually increase fibre intake to reach this. You can find more information about fibre content in food through the links listed at the bottom of this page.
+<ins>**How much fibre?**/<ins> Aim for 30 g spread throughout the day. If you are not meeting this then gradually increase fibre intake to reach this. You can find more information about fibre content in food through the links listed at the bottom of this page.
  
 Dehydration contributes to constipation, and fluids are needed to treat dehydration. But, if you are not dehydrated, then just drinking extra fluid will not resolve the constipation. Alcoholic drinks are not good for hydration, as they make you urinate more.
 
-<ins>**How much fluid?**/ins> In general, 1.5-2L of fluid (8-10 cups or medium glasses) per day is advised. You will need more if it is hot or you are exerting more energy. People stop feeling thirsty before the body is completely rehydrated so you should drink even if you are not thirsty. You can also lose your sense of thirst a bit when you get older. The colour of urine is a good indicator of hydration; if you are drinking enough your urine should be a straw or pale-yellow colour. 
+<ins>**How much fluid?**/<ins> In general, 1.5-2L of fluid (8-10 cups or medium glasses) per day is advised. You will need more if it is hot or you are exerting more energy. People stop feeling thirsty before the body is completely rehydrated so you should drink even if you are not thirsty. You can also lose your sense of thirst a bit when you get older. The colour of urine is a good indicator of hydration; if you are drinking enough your urine should be a straw or pale-yellow colour. 
 
 **Tips on drinking enough:**  
 _Tip 1: It is difficult to drink this much fluid for some people. You could try drinking a small glass of water each time you take your medication and a glass of water or a drink (e.g. cup of tea) with each meal. _
