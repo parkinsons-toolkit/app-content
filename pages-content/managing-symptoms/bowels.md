@@ -122,7 +122,6 @@ If you have not got enough fibre in your diet, supplementation may be considered
 
 #### Laxatives
 Many people with Parkinson’s need to take laxatives on a regular and long-term basis to keep the bowels opening regularly. Laxatives only work if you are adequately hydrated. Laxatives are available from chemists and come in different types:  
-
 - **Bulk-forming laxatives** contain fibre and increase the bulk of the stool. This, in turn, stimulates the bowel. They can take a few days to work. Example: *Fybogel*.  
 - **Osmotic laxatives** draw water into the bowel to soften the stool. They can take a few days to work. Examples: *Lactulose, Movicol, and Macrogol*.  
 - **Stool softener laxatives** encourage water into the stool to soften it. Examples: *sodium docusate* and *arachis oil*.  
