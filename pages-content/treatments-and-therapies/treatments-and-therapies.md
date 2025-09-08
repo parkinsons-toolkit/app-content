@@ -8,4 +8,4 @@ In the Treatment & Therapies section, you will find information that outlines cu
 
 _Tip 1: For more practical tips on what to ask your specialist doctor/nurse at your appointment or during a hospital stay go to the <a href="/learn/living-with-parkinsons/living-with-parkinsons" class="internal-link">Living with Parkinson’s</a>  section and under ‘Practical Advice’ click on <a href="/learn/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">Appointments and Hospital stays</a>_
 
-_Tip 2: If you’ve recently received your diagnosis, head to the ‘Living with Parkinson’s’ section where you’ll find a section dedicated for you titled ‘Newly Diagnosed’._
+_Tip 2: If you’ve recently received your diagnosis, head to the <a href="/learn/newly-diagnosed" class="internal-link">Newly Diagnosed</a> where you’ll find a section dedicated for you._
