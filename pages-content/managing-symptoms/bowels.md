@@ -1,6 +1,5 @@
 # Bowel Symptoms
-
-Everyone has a different natural bowel pattern, so bowel symptoms are different for each person.  
+Everyone has a different natural bowel pattern, so bowel symptoms are different for each person. 
 Constipation, or reduced bowel motions, is common in Parkinson’s. You may experience:  
 - Difficulty passing a bowel movement (straining)  
 - Hard or lumpy stools  
