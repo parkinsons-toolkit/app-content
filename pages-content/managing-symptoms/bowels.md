@@ -149,7 +149,7 @@ People affected by Parkinson’s describe their experiences.
 If the suggested strategies are not working, then consult your GP or Parkinson’s specialist. You may wish to consider the following to help you to prepare for the appointment.  
 
 ### Questions
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a>. section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**  
   - Full detail of your bowel pattern now and in the past
