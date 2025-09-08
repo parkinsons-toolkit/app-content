@@ -1,4 +1,6 @@
-# Introduction
+# Mobility
+
+## Introduction
 
 Mobility is quite a broad term and includes:
 
