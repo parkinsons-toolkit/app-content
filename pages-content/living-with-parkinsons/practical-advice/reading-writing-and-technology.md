@@ -1,4 +1,6 @@
-### Introduction
+# Reading, Writing and Technology
+
+## Introduction
 
 Reading, writing, and using technology may be more difficult for people with Parkinson’s. This can be due to a combination of factors, which are explored below.
 
