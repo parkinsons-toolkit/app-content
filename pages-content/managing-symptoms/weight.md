@@ -20,23 +20,19 @@ Causes of weight loss related to Parkinson’s include:
 - Symptoms that cause difficulties when you shop.
 - Practical problems when you try to eat, e.g. coordination or being able to focus.
 
-There are many other conditions that might cause weight loss. This can include loss of appetite with depression, side effects of some medications and various health conditions. If you have lost a lot of weight without meaning to, your doctor may need to check you don’t have a serious health condition, such as a cancer. Some people as they get older have a reduced sense of taste and a lower appetite. As a result they might eat smaller portions and lose weight. However, weight loss is not a normal part of ageing, and should be checked out.
+There are many other conditions that might cause weight loss. This can include loss of appetite with depression, side effects of some medications and various health conditions. If you have lost a lot of weight without meaning to, your doctor may need to check you don’t have a serious health condition, such as a cancer. Some people as they get older have a reduced sense of taste and a lower appetite. As a result, they might eat smaller portions and lose weight. However, weight loss is not a normal part of ageing and should be checked out.
 
 ---
-
-### What should I do about it?
-
+## What should I do about it?
 You should contact your GP if you:
-
-- Have persistent, unintentional weight loss of more than 5% of your body weight (this depends on your weight, but is around 3kg or 7lb) over 6–12 months or less.
+- Have **persistent**, **unintentional** weight loss of more than 5% of your body weight (this depends on your weight, but is around 3kg or 7lb) over 6–12 months or less.
 - Are struggling to put on weight despite the suggestions below.
 - Are worried about your weight loss.
 
 If the above do not apply to you, or whilst waiting for your appointment, there are things you can try for yourself.
 
 ---
-
-### What can I try for myself?
+## What can I try for myself?
 
 <div class="video-container">
 <iframe 
@@ -51,20 +47,21 @@ If the above do not apply to you, or whilst waiting for your appointment, there 
 - Try to eat 3 meals a day with 2 or 3 high energy snacks throughout the day.
 - Aim to eat every 3 hours during the day.
 - Try adding extras to enrich your food. This could be cream, skimmed milk powder, butter, grated cheese, oil or honey. These will provide you with more energy.
-- Higher energy snack ideas could include peanut butter or avocado on toast, rice pudding, yoghurt or a milk-shake.
+- Higher energy snack ideas could include peanut butter or avocado on toast, rice pudding, yoghurt or a milkshake.
 - Milkshakes or malted drinks can supplement your diet. This could replace a cup of tea or coffee, or have them for a bedtime drink. Make sure these do not replace meals.
 - Smoking, as well as being bad for your health, can also suppress your appetite. If you smoke, try not to smoke in the half-hour before your meal.
 - Try not to fill up on drinks shortly before or during meals.
-- Fresh air can often stimulate your appetite. If possible go for a brief stroll or go outside for a while before eating. Eating in a well-ventilated room can also help.
+- Fresh air can often stimulate your appetite. If possible, go for a brief stroll or go outside for a while before eating. Eating in a well-ventilated room can also help.
 - If you’re too tired to cook, use ready-made oven/microwave foods or freeze extra portions of meals when cooking and use another day.
 - There are a variety of ways that you can purchase meals such as:
   - Meals-on-Wheels
   - Ready meal delivery services (such as Wiltshire Farm Foods or Oakhouse Foods)
   - Lunch clubs
   - Day centres  
-    Consider what would be convenient for you.
 
-There are also tips that may be relevant on the Difficulty Swallowing and Nausea symptom pages if these are leading you to eat less. If maintaining weight is difficult because of practical aspects of buying, preparing or eating food then see the Daily Living page for guidance.
+Consider what would be convenient for you.
+
+There are also tips that may be relevant on the <a href="/learn/managing-symptoms/saliva-and-swallowing" class="internal-link">Saliva and Swallowing Problems</a> and <a href="/learn/managing-symptoms/nausea" class="internal-link">Nausea</a> symptom pages if these are leading you to eat less. If maintaining weight is difficult because of practical aspects of buying, preparing or eating food then see the Daily Living page for guidance.
 
 ---
 
