@@ -74,7 +74,7 @@ Fibre in your diet helps improve constipation. Eat a variety of fibres.
 - **Vegetables**  
 - **Peas**, **beans**, **pulses**, **nuts**, **seeds**  
 
-<ins>**How much fibre?**/<ins> Aim for 30 g spread throughout the day. If you are not meeting this then gradually increase fibre intake to reach this. You can find more information about fibre content in food through the links listed at the bottom of this page.
+<ins>**How much fibre?**</ins> Aim for 30 g spread throughout the day. If you are not meeting this then gradually increase fibre intake to reach this. You can find more information about fibre content in food through the links listed at the bottom of this page.
  
 Dehydration contributes to constipation, and fluids are needed to treat dehydration. But, if you are not dehydrated, then just drinking extra fluid will not resolve the constipation. Alcoholic drinks are not good for hydration, as they make you urinate more.
 
