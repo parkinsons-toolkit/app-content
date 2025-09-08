@@ -106,7 +106,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Does the pain affect any other function, e.g.: bladder/bowels function, or a weakness /numbness has developed suddenly in any limbs etc.
 - Rate the pain on a scale of 0-10, with 0 being no pain and 10 being the worst. You can record if it changes throughout the day with different activities.
 
-**Track your symptoms in the _Symptom and Activity Tracker_**
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
 - This can help you to recall the details and help the professional identify patterns.
 - You could monitor when the pain is most bothersome, recording:
   - What it is you feel
