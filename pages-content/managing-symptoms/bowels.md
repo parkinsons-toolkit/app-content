@@ -88,16 +88,18 @@ Fibre in your diet helps improve constipation. Eat a variety of fibres.
 - **Vegetables**  
 - **Peas**, **beans**, **pulses**, **nuts**, **seeds**  
 
-**How much fibre?** Aim for 30 g spread throughout the day. If you are not meeting this then gradually increase fibre intake to reach this. You can find more information about fibre content in food through the links listed at the bottom of this page.
+<ins>**How much fibre?**/ins> Aim for 30 g spread throughout the day. If you are not meeting this then gradually increase fibre intake to reach this. You can find more information about fibre content in food through the links listed at the bottom of this page.
  
 Dehydration contributes to constipation, and fluids are needed to treat dehydration. But, if you are not dehydrated, then just drinking extra fluid will not resolve the constipation. Alcoholic drinks are not good for hydration, as they make you urinate more.
 
-**How much fluid?** In general, 1.5-2L of fluid (8-10 cups or medium glasses) per day is advised. You will need more if it is hot or you are exerting more energy. People stop feeling thirsty before the body is completely rehydrated so you should drink even if you are not thirsty. You can also lose your sense of thirst a bit when you get older. The colour of urine is a good indicator of hydration; if you are drinking enough your urine should be a straw or pale-yellow colour. 
+<ins>**How much fluid?**/ins> In general, 1.5-2L of fluid (8-10 cups or medium glasses) per day is advised. You will need more if it is hot or you are exerting more energy. People stop feeling thirsty before the body is completely rehydrated so you should drink even if you are not thirsty. You can also lose your sense of thirst a bit when you get older. The colour of urine is a good indicator of hydration; if you are drinking enough your urine should be a straw or pale-yellow colour. 
 
 **Tips on drinking enough:**  
-It is difficult to drink this much fluid for some people. You could try drinking a small glass of water each time you take your medication and a glass of water or a drink (e.g. cup of tea) with each meal. All sorts of fluid count towards your daily amount, it doesn’t have to be just water. Fruit juices, squash, hot drinks (e.g. tea, coffee), milk and low alcohol beer all count. Remember you can also have fluid in your food which counts too, such as milk in cereal or soups.  
+_Tip 1: It is difficult to drink this much fluid for some people. You could try drinking a small glass of water each time you take your medication and a glass of water or a drink (e.g. cup of tea) with each meal. _
 
-**Caution:** If you have been advised to limit your fluid intake for another health reason (e.g. heart or kidney disease), then speak to your healthcare professional first.  
+_Tip 2: All sorts of fluid count towards your daily amount, it doesn’t have to be just water. Fruit juices, squash, hot drinks (e.g. tea, coffee), milk and low alcohol beer all count. Remember you can also have fluid in your food which counts too, such as milk in cereal or soups._
+
+**Caution: If you have been advised to limit your fluid intake for another health reason (e.g. heart or kidney disease), then speak to your healthcare professional first.**
 
 Certain fruits help draw water into the bowel to soften the stool. Increasing intake of these helps constipation:  
 - Apples  
@@ -109,28 +111,20 @@ Certain fruits help draw water into the bowel to soften the stool. Increasing in
 - Plums  
 - Prunes  
 
----
-
 ### Activity
-Being physically active improves the movement of the bowels. If you can, try going for a walk every day. See *Keeping Active* for advice on how to achieve this.  
-
----
+Being physically active improves the movement of the bowels. If you can, try going for a walk every day. See <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> for advice on how to achieve this.  
 
 ### Toileting advice
 - Getting into a routine helps.  
 - Allow adequate time.  
 - Position affects ease of bowel opening. Try raising your feet up on a stool when sat on a toilet as this can ease bowel opening. If possible, the best position is with your knees higher than your hips.  
 - Avoid resisting the urge to go to the toilet as this can cause constipation.  
-- There is not suitable evidence to recommend “abdominal massage” as a technique for treating constipation.  
-
----
+- _There is <ins>not</ins> suitable evidence to recommend “abdominal massage” as a technique for treating constipation._
 
 ### Over-the-counter medications
-**Caution:** If you have severe pain or known bowel disease (such as Crohn’s Disease or Ulcerative Colitis) then you should speak to your pharmacist, GP or specialist before taking these.  
+**Caution: If you have severe pain or known bowel disease (such as Crohn’s Disease or Ulcerative Colitis) then you should speak to your pharmacist, GP or specialist before taking these.**
 
----
-
-### Probiotics & prebiotics
+#### Probiotics & prebiotics
 Lots of bacteria live in your bowels as part of the normal gut environment, introduced through the food you eat. These supplements change the mix of bacteria in your bowel:  
 - **Probiotics** are living bacteria  
 - **Prebiotics** are fibre that acts a bit like a fertilizer for the bacteria living in the bowel  
@@ -139,7 +133,7 @@ There is limited research in this area, complicated by the wide variety of strai
 
 ---
 
-### Fibre supplements
+#### Fibre supplements
 If you have not got enough fibre in your diet, supplementation may be considered. The widely available fibre supplement is **psyllium husk, or ispaghula husk** – the ingredient of the laxative *Fybogel*.  
 
 ---
