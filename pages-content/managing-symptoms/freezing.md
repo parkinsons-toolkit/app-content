@@ -106,7 +106,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 **They may ask about:**
 - How much the freezing occurs and when this happens. This is to see if there is a relationship to medication (e.g. If it only occurs during “off” periods or when both “on” and “off”) or if there are any triggers.
 
-**Track your symptoms in the _Symptom and Activity Tracker_**
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
 - This can help you to recall the details and help your health professional look for patterns.
 - For 3-5 days you could monitor your “on” and “off” times, freezing episodes, and when you take your medication. This will help to identify patterns in your freezing.
 
