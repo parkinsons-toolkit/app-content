@@ -109,7 +109,7 @@ Examples:
   - Palpitations  
   - Anxiety or panic  
 
-```markdown
+
 # Track your symptoms in the Symptom and Activity Tracker
 
 - This can help you recall details and help the professional identify patterns.  
