@@ -71,7 +71,7 @@ For more information about blood pressure (including how to measure it), see the
 ## Further Assessment
 
 ### Questions you may be asked
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a>. section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 - Describe the dizziness (e.g. spinning or lightheadedness)  
