@@ -161,7 +161,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
   - What your diet and lifestyle more broadly are like  
   - Whether your diet or activity levels have changed recently  
 
-**Track your symptoms in the _Symptom and Activity Tracker_**
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
 - This can help you to recall the details and help your health professional look for patterns. 
 - Try to monitor constipation for about a week. The details that are helpful to record include:  
   - Bowel movements. Detail can be helpful: small/medium/large, hard/soft/watery. The *Bristol Stool Chart* is the chart used by professionals to describe the stool (see the useful links at the bottom of this page).  
