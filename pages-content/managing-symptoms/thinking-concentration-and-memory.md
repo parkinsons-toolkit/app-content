@@ -16,32 +16,28 @@ Difficulties with thinking and remembering are common in Parkinson’s. They can
 ## What Might Be Causing It?
 Memory and thinking problems can be symptoms of Parkinson’s, but not all of them are. The difficulties in Parkinson’s tend to come on slowly.
 
-Parkinson’s tends to affect the following components of thinking: 
+<ins>**Parkinson’s**</ins>tends to affect the following components of thinking: 
 - _**Executive function:**_ This is the control of thinking, and includes planning, keeping things in mind, flexible thinking, and self-control. For example, when cooking a meal, someone with executive function problems may find it difficult to get all the right ingredients and plan what time to start cooking them so they will be ready at the same time.
-- _**Attention**_ (staying focused on something): This might be conscious or an automatic process such as listening in a conversation. Problems might, for example, show as difficulties reading, following a conversation, or multi-tasking.
-- Language (remembering and understanding words and meanings). Problems might, for example, show as forgetting the word for something or not managing to understand more complex conversations.
-- Visuospatial function. This includes being able to judge distances and depth, imagine things visually and process them in your mind and detecting patterns. Problems might, for example, show as getting off at the wrong bus stop, misjudging the depth of a step or not being able to imagine the kitchen to describe where the tea is kept.
-- Memory (being able to recall things). Problems might, for example, show as someone repeating themselves or not remembering the plot of a TV programme they recently watched. 
+- _**Attention:**_ (staying focused on something) This might be conscious or an automatic process such as listening in a conversation. Problems might, for example, show as difficulties reading, following a conversation, or multi-tasking.
+- _**Language:**_ (remembering and understanding words and meanings) Problems might, for example, show as forgetting the word for something or not managing to understand more complex conversations.
+- _**Visuospatial function:**_ This includes being able to judge distances and depth, imagine things visually and process them in your mind and detecting patterns. Problems might, for example, show as getting off at the wrong bus stop, misjudging the depth of a step or not being able to imagine the kitchen to describe where the tea is kept.
+- _**Memory:**_ (being able to recall things) Problems might, for example, show as someone repeating themselves or not remembering the plot of a TV programme they recently watched. 
 
+<ins>**Dementia**</ins> is a broad term used to describe gradual impairments of thinking, memory and other brain functions that are impacting day-to-day life. Dementia has lots of different types and causes, one of which is Parkinson’s. But not all thinking and memory problems in Parkinson’s are, or lead to, dementia. 
 
+Other causes of memory and thinking problems that appear gradually include: 
+- Depression and anxiety
+- Sleep disturbance
+- Various medications
+- Hormone imbalances (e.g. hypothyroidism)
+- Vitamin deficiencies (e.g. vitamin B12 deficiency)
+- Alcohol abuse
+- Abnormal blood chemistry (e.g. high calcium or low sodium levels). These are important to identify as they have specific treatments. 
 
-### Dementia and Other Causes
-
-- **Dementia**: Gradual impairments in thinking, memory, and other brain functions affecting daily life. Parkinson’s can cause dementia, but not all memory problems lead to it.
-- **Other gradual causes**:
-  - Depression or anxiety
-  - Sleep disturbance
-  - Certain medications
-  - Hormone imbalances (e.g., hypothyroidism)
-  - Vitamin deficiencies (e.g., B12 deficiency)
-  - Alcohol misuse
-  - Abnormal blood chemistry (e.g., high calcium or low sodium)
-
-### Sudden Changes: Delirium
-
-- Sudden confusion or fluctuation in alertness may indicate **delirium**, a response to a new stress on the body.
-- Possible triggers: infections, medications, or abnormal blood chemistry (e.g., high/low blood sugar).
-- Delirium requires urgent assessment by a healthcare professional.
+Memory and thinking problems, or confusion, can also occur as sudden changes in alertness. This is known as <ins>**delirium**</ins>. The change in alertness may mean you feel hyperactive or drowsy, or you may fluctuate between these. There is no single test that can be done to diagnose delirium, so the diagnosis is made through assessment by a healthcare professional. Delirium is a response to a new stress put on the body. Tests may be done to identify the trigger which may then be treatable, though in many cases the cause is not found. Typical causes include: 
+- Infections and other medical problems
+- Medications
+- Abnormal blood chemistry (e.g. high or low blood sugar levels). 
 
 <div class="video-container">
 <iframe 
@@ -55,20 +51,14 @@ Parkinson’s tends to affect the following components of thinking:
 
 ---
 
-## What Should I Do?
-
-- **Sudden changes in thinking or memory (hours or days)**: Seek urgent medical help.
-
-  - If mildly ill: contact your GP.
-  - If very ill: go to A&E.
-
-- **Gradual changes (weeks to months)**:
-  - If symptoms persist **>1 month** or affect daily life, make a non-urgent GP appointment.
-  - Discuss symptoms with your Parkinson’s specialist team.
+## What Should I Do About It?
+If there has been a sudden noticeable change in your thinking or memory (i.e. you become confused over hours or days) then you should see a healthcare professional urgently. If you are otherwise well this should be your GP, but if you are very ill then you should go to A&E. 
+ 
+If the onset of your symptoms has been more gradual (weeks to months) then there is more time to act. If the symptoms persist more than 1 month or are impacting your daily life, then you should make a non-urgent appointment with your GP. You should also discuss them with your Parkinson’s specialist team. But there are many things you can try for yourself to deal with the symptoms as well. 
 
 ---
 
-## Self-Management Strategies
+## What Can I Try For Myself?
 
 <div class="video-container">
 <iframe 
@@ -81,14 +71,12 @@ Parkinson’s tends to affect the following components of thinking:
 </div>
 
 ### Take Your Time
-
-- Stress worsens thinking.
-- Allow extra time for tasks.
+Stress worsens thinking abilities so don’t put too much pressure on yourself. Tasks may take longer, so give yourself more time for them.
 
 ### Keep Well
+Good sleep, physical health and emotional well-being are all important for your memory and thinking. 
 
-- Sleep, physical health, and emotional wellbeing support memory and thinking.
-- See **Optimising Wellbeing** pages for more information.
+See our _Optimising Wellbeing_ pages within the <a href="/learn/living-with-parkinsons/living-with-parkinsons" class="internal-link">Living with Parkinson's</a> section for more information. 
 
 ### Prompts and Reminders
 
