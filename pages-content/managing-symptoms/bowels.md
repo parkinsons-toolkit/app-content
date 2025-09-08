@@ -18,14 +18,14 @@ In Parkinson’s, constipation is common due to slowing down of the bowel contra
 ---
 
 ## What should I do about it?
-There are many things you can try for yourself (see *What can I try for myself*), but there are some circumstances where you should seek professional help. If you are in severe pain or passing a lot of blood in the stools you should contact your GP to be seen urgently or go to A&E.  
+There are many things you can try for yourself, but there are some circumstances where you should seek professional help. If you are in severe pain or passing a lot of blood in the stools you should contact your GP to be seen urgently or go to A&E.  
 
 **See your GP if you have had any of the following:**  
 - Bleeding from the back passage  
 - Abdominal or anal pain  
 - Diarrhoea following a period of constipation (see above)  
 - Significant change in your bowel habit that lasts 4 weeks or more  
-- Unintentional significant weight loss (see weight loss page)  
+- Unintentional significant weight loss (see the <a href="/learn/managing-symptoms/weight" class="internal-link">_Weight_</a> page)  
 - New bowel incontinence  
 - If you have tried the suggestions listed in *What can I try for myself?* and the problem persists after a month  
 
