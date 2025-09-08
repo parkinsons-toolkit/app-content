@@ -136,3 +136,7 @@ Research is ongoing to look for new ways of managing freezing, including the use
 
 ---
 
+| Organisation                         | Phone Number     | Website                                                                 | Details                                                                                           |
+|-------------------------------------|------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| European Parkinson’s Disease Assoc. | Not listed       | [EPDA Freezing Info](https://www.epda.eu.com/about-parkinsons/symptoms/motor-symptoms/freezing) | Discusses freezing, its treatments, and compensation strategies to restore walking.              |
+| Parkinson’s UK                      | 0808 800 0303    | [Parkinson’s UK Freezing Info](https://www.parkinsons.org.uk/information-and-support/freezing) | Offers info on causes, treatments, and cues. Helpline open Mon–Fri 9–7, Sat 10–2. Print or mail. |
