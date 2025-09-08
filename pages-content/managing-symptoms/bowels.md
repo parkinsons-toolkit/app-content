@@ -111,20 +111,16 @@ Being physically active improves the movement of the bowels. If you can, try goi
 **Caution: If you have severe pain or known bowel disease (such as Crohn’s Disease or Ulcerative Colitis) then you should speak to your pharmacist, GP or specialist before taking these.**
 
 #### Probiotics & prebiotics
-Lots of bacteria live in your bowels as part of the normal gut environment, introduced through the food you eat. These supplements change the mix of bacteria in your bowel:  
-- **Probiotics** are living bacteria  
-- **Prebiotics** are fibre that acts a bit like a fertilizer for the bacteria living in the bowel  
+Lots of bacteria live in your bowels as part of the normal gut environment,	introduced through the food	you eat. These supplements change the mix of bacteria in your bowel: 
+- Probiotics are living bacteria.
+- Prebiotics are fibre that acts a bit like a fertilizer for the bacteria living in the bowel. 
 
-There is limited research in this area, complicated by the wide variety of strains available. There has been some research that showed a combination of pro- and prebiotics improved constipation in people with Parkinson’s.  
-
----
+There is limited research in this area, complicated by the wide variety of strains available. There has been some research that showed a combination of pro- and prebiotics improved constipation in people with Parkinson’s.
 
 #### Fibre supplements
-If you have not got enough fibre in your diet, supplementation may be considered. The widely available fibre supplement is **psyllium husk, or ispaghula husk** – the ingredient of the laxative *Fybogel*.  
+If you have not got enough fibre in your diet, supplementation may be considered. The widely available fibre supplement is psyllium husk, or ispaghula husk – the ingredient of the laxative Fybogel. 
 
----
-
-### Laxatives
+#### Laxatives
 Many people with Parkinson’s need to take laxatives on a regular and long-term basis to keep the bowels opening regularly. Laxatives only work if you are adequately hydrated. Laxatives are available from chemists and come in different types:  
 
 - **Bulk-forming laxatives** contain fibre and increase the bulk of the stool. This, in turn, stimulates the bowel. They can take a few days to work. Example: *Fybogel*.  
