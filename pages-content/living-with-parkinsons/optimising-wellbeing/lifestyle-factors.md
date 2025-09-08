@@ -1,3 +1,7 @@
+# Lifestyle Factors
+
+As well as managing Parkinson’s, there are general medical recommendations to improve long-term health. The following advice is based on general NHS guidance, tailored for people with Parkinson’s. The focus is on things you can do, or support you can access, that may help to prevent problems in the future. 
+
 ## Vaccinations
 
 Vaccinations are medications designed to prevent infections. Vaccination schedules change over time according to the latest scientific research. At present (July 2020), the recommendations for adults with Parkinson’s are:
