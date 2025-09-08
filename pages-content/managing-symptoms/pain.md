@@ -21,9 +21,9 @@ Our bodies are a mixture of complex pathways and mechanisms, and lots of factors
 Pain that is related to Parkinson’s can be caused by a variety of factors:
 - Muscle pain (most common) - muscles feel ‘achy’ and the pain stays in one area.
 - Pain from stiffness – can be in a particular muscle or more general.
-- Muscle cramps and contractions - commonly happen in legs (e.g. the calves). This can happen at any time but tends to occur overnight. Medication wearing off can also cause this. See our _Cramps & Spasms_ page for more information.
+- Muscle cramps and contractions - commonly happen in legs (e.g. the calves). This can happen at any time but tends to occur overnight. Medication wearing off can also cause this. See our <a href="/learn/managing-symptoms/cramps-and-spasms" class="internal-link">_Cramps & Spasms_</a>  page for more information.
 - “Central pain” - pain felt in the body, but no cause can be identified and is therefore thought to originate in the brain. As the pain is unexplained, it can be difficult to treat.
-- Nerve pain – typically shooting, burning or tingling pain. This can be caused by peripheral neuropathy (see the _5 Senses_ page) but has many causes.
+- Nerve pain – typically shooting, burning or tingling pain. This can be caused by peripheral neuropathy (see the <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a>  page) but has many causes.
 - Pain related to another symptom (e.g. tummy pain from constipation or pain from tremor).
 - Tight tendons (or ‘stiffness’) caused by postural changes.
 - ‘Frozen shoulder’ can affect people with Parkinson’s and can be painful. For more detail, see the _Stiffness, Slowness & Small Movements_ page.
@@ -58,7 +58,7 @@ _Tip: **Hydration**. Some people with Parkinson’s tell us that drinking regula
 - Regular, gentle exercise can be helpful.
 - Some people find massage and/or a warm heating pad helpful.
 
-For more information on exercise and stretching, see the _Keeping Active_ page.
+For more information on exercise and stretching, see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page.
 
 When initially beginning any form of exercise, muscles can feel sore or stiff. It is important not to overwork them in the beginning; a slow gentle build up will enable tight muscles to adapt and relax. If stretches or exercises do cause you a lot of pain, speak with your physiotherapist, GP or Parkinson’s specialist team.
 
@@ -94,7 +94,7 @@ People affected by Parkinson’s describe their experiences.
 ## Further Assessment
 
 ### Questions
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your _My Health_ section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 - Where are you having the pain: a specific body part, or a general area? Does it spread to other areas?
