@@ -90,83 +90,70 @@ For more details, the charity _Mind_ has information about <a href="https://www.
 ---
 
 ## What Can I Try For Myself?
-
-Many things may improve mood. Not all work for everyone, but all promote health and well-being.
+There are many things you can do that may help to improve your mood. Not all of them help everyone, but they are all worth trying. In most cases, they are important for our health and well- being, not just as a way to manage low mood or depression.
 
 ### Activity  
-Regular exercise can boost mood and improve sleep. Examples include:  
-- Walking regularly  
-- Gym sessions  
-- Sports teams  
-- Dance, yoga, or tai chi classes  
+Exercising regularly can help boost your mood as well as help you sleep. You may choose to do this by taking regular walks, going to the gym, joining a sports team, going to classes for dance, yoga or tai chi. They can also be a source of relaxation and a chance to see other people. But achieving a more active lifestyle can be as simple as making small changes to your everyday routines. For example: 
+- Tidy up a bit faster when doing the housework
+- Use the stairs instead of the lift or escalator
+- Leave the car at home for short journeys
+- Get off the bus a stop earlier and walk the rest of the journey
+- See the <a href="/learn/living-with-parkinsons/optimising-wellbeing
+/keeping-active" class="internal-link">_Keeping Active_</a> for more guidance.
 
-Small changes also help:  
-- Tidying up faster  
-- Using stairs instead of lifts  
-- Leaving the car at home for short trips  
-- Getting off the bus a stop early and walking  
-
-If unsure about safe exercise, ask your GP or physiotherapist for advice.
+If you have any concerns about safe and suitable exercise routines, discuss with your GP or a physiotherapist who will be able to recommend exercise that is right for you.
 
 ### Diet  
-A balanced diet affects physical and mental well-being. Depression can cause cravings for “junk food” high in sugar and salt, which may cause mood swings and feelings of guilt. Some may lose appetite and risk becoming underweight.
+Maintaining a healthy, balanced diet is important for everyone. The food you eat can affect the way you feel, both physically and mentally, and how you feel can affect the food you eat. So, healthy eating habits can improve your mood and general sense of wellbeing. 
+ 
+For example, people who are depressed can often crave ‘junk food’ that is high in sugar and salt. These foods can briefly lift our mood but can lead to highs and lows in our blood glucose. We might also feel guilty for over-eating this type of food. This can cause our mood to fluctuate and leave us feeling irritable and tired. On the other hand, some people who are depressed may not feel like eating and are at risk of becoming underweight. 
+ 
+It can be beneficial to limit your alcohol intake. Drinking alcohol frequently can lead to depression as it lowers your mood (it has a depressant effect on mood). Alcohol also affects sleep. While alcohol can initially make you feel more sleepy, it affects your sleep quality. If you drink alcohol before going to bed you are less likely to have a refreshing night’s sleep. 
+ 
+See the <a href="/learn/living-with-parkinsons/optimising-wellbeing
+/eating-well" class="internal-link">_Eating Well_</a> page for more guidance.
 
-Limit alcohol intake as it can worsen mood and affect sleep quality.
+### Keeping socially active and combat loneliness  
+When a person is depressed, they often cut themselves off from other people. Even when not depressed, many people can feel isolated and lonely. This can make depression more likely. 
 
-See the Eating Well page for more advice.
+Socialising can improve your mood. Staying in contact with friends and family means you have someone to talk to when you feel low. Talking to others with Parkinson’s can also help by sharing your experiences and learning about different coping mechanisms or solutions to similar problems. 
 
-### Social Activity & Combating Loneliness  
-Depression often leads to social withdrawal, which can worsen mood. Staying connected with friends, family, and others with Parkinson’s helps by sharing experiences and coping strategies.
+Look out for new opportunities from activities offered through local colleges, places of worship (e.g. churches, mosques, temples), community centres, leisure facilities, charities and societies (e.g. your local U3A group). Your local library can be a good source of information about what is available in your area. We have listed some other possible sources in our _Practical Advice_ pages which you can within the <a href="/learn/living-with-parkinsons" class="internal-link">_Living with Parkinson's_</a> section. If you need support speicifally with travelling to events, see our <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for advice. 
+ 
+Visit our <a href="/learn/living-with-parkinsons/optimising-wellbeing
+/social-and-spiritual-life" class="internal-link">_Social & Spiritual Life_</a> page for more information on how you can keep socially active. 
 
-Look for local activities at colleges, places of worship, community centres, leisure facilities, charities, and societies. Local libraries can provide information on opportunities.
+### Sleep
+Depression and anxiety can both affect the quality of our sleep. Similarly, when our sleep is disturbed by other things it can negatively affect our mood. Improving your sleep is one of the best ways to manage low mood and depression. There are a few things you can try to help improve the amount and quality of your sleep: 
+- Have a strict bed time routine, going to bed at the same time each night.
+- Leave yourself time to wind down before bed (e.g. avoid using electronic devices for at least an hour before you go to bed as these may have a negative effect on sleep).
+- Try to relax before going to bed (e.g. reading, a warm bath, gentle music, relaxation or stretching exercises).
+- Write a “to do” list for the next day before bed can help to clear your mind of any distractions.
+- Make sure your bedroom is dark, quiet, and comfortable.
+- Try to avoid caffeine (e.g. tea and coffee) after 2pm. 
+ 
+See our <a href="/learn/managing-symptoms/sleep" class="internal-link"></a> p_Sleep_age for more tips on how to improve the amount and quality of your sleep. 
 
-If you need travel support to attend events, see the Travel page for advice.
+### Relaxation and Breathing Exercises
+It’s important to try and make time to relax. Try doing things you find restful, such as listening to music, reading a book, going for a walk, or getting creative by painting or colouring. See the _Mind_ charity website, along with other useful resources, linked at the bottom of this page, for more tips on how to incorporate relaxation into your daily life.
 
-Visit the Social & Spiritual Life page for more on staying socially active.
+It can also help to practise calming breathing techniques. This can reduce any stress and boost your emotional well-being. See our _Dealing with Stress & Challenges_ page for a simple breathing exercise you can try. 
 
-# Sleep
+### Mindfulness
+Mindfulness encourages you to pay closer attention to the present moment, focusing on your thoughts, feelings, bodily sensations and your environment. Doing this regularly can help to improve your general emotional wellbeing. 
 
-Depression and anxiety can both affect the quality of our sleep. Similarly, when our sleep is disturbed by other things, it can negatively affect our mood. Improving your sleep is one of the best ways to manage low mood and depression. Here are some tips to improve the amount and quality of your sleep:  
-- Have a strict bedtime routine, going to bed at the same time each night  
-- Leave yourself time to wind down before bed (e.g., avoid electronic devices for at least an hour before bedtime as they may negatively affect sleep)  
-- Try to relax before bed (e.g., reading, a warm bath, gentle music, relaxation or stretching exercises)  
-- Write a “to do” list for the next day before bed to clear your mind of distractions  
-- Make sure your bedroom is dark, quiet, and comfortable  
-- Avoid caffeine (e.g., tea and coffee) after 2pm  
+Mindfulness is often included as part of psychological treatment. It is recommended by the National Institute of Care Excellence (NICE) as a way to help prevent the recurrence of depression in people that have had several episodes over their lifetime. Mindfulness groups and courses are available in some areas. The _Mind_ website gives more information on these and other ways to learn Mindfulness. Visit the NHS Mental Health & Wellbeing pages for more information on how mindfulness can help mental wellbeing. It also gives guidance on how we can incorporate mindfulness into our day-to-day lives. You can find links in our More Information section below.
 
-See our Sleep Disturbance page for more tips on improving sleep quality.
+### Keep a Gratitude Diary
+Keeping a diary of the things you’re grateful for may lift your mood have a positive effect on your mental wellbeing. Try to describe one thing you’re grateful for and do this twice a week. You can write about anything that comes to mind, as long as it makes you feel grateful. For example, it could be something very little that has happened or a person that you’re grateful for.
 
----
+_Tips for keeping a gratitude diary..._
+- Take time to think about something that you’re truly grateful for.
+- Writing about people you’re grateful for tends to have more of a positive effect than writing about things or events.
+- Try to include as much detail as possible about _why_ you’re grateful.
+- Plan a time when you will write in your diary. Consider setting an alarm on your phone if you find that you are forgetting to write your diary entries
 
-# Relaxation and Breathing Exercises
-
-Making time to relax is important. Try activities you find restful, such as listening to music, reading, walking, painting, or colouring. Visit the Mind charity website (linked in More Information) for tips on incorporating relaxation into daily life.
-
-Calming breathing techniques can reduce stress and boost emotional well-being. See our Dealing with Stress & Challenges page for simple breathing exercises.
-
----
-
-# Mindfulness
-
-Mindfulness encourages focusing on the present moment—your thoughts, feelings, bodily sensations, and surroundings. Regular practice can improve emotional wellbeing.
-
-It is often part of psychological treatment and recommended by NICE to help prevent recurrent depression. Mindfulness groups and courses may be available locally. Visit the MIND website and NHS Mental Health & Wellbeing pages for more information and guidance on incorporating mindfulness daily. Links are in More Information below.
-
----
-
-# Keep a Gratitude Diary
-
-Writing about things you’re grateful for may lift your mood and improve mental wellbeing. Aim to describe one thing you’re grateful for twice a week. This can be anything that makes you feel grateful, big or small.
-
-**Tips for keeping a gratitude diary:**  
-- Take time to think about something you truly appreciate  
-- Writing about people tends to have a stronger positive effect than things or events  
-- Include as much detail as possible about why you’re grateful  
-- Plan a regular time to write, and consider setting a phone alarm to remind you  
-
----
-
-# Complementary Therapies
+### Complementary Therapies
 
 Complementary therapies like massage, acupuncture, and aromatherapy may promote relaxation and wellbeing. Though not clinically proven to treat depression, some people with Parkinson’s find them helpful.
 
