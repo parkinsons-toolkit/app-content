@@ -137,7 +137,7 @@ See our <a href="/learn/managing-symptoms/sleep" class="internal-link"></a> p_Sl
 ### Relaxation and Breathing Exercises
 It’s important to try and make time to relax. Try doing things you find restful, such as listening to music, reading a book, going for a walk, or getting creative by painting or colouring. See the _Mind_ charity website, along with other useful resources, linked at the bottom of this page, for more tips on how to incorporate relaxation into your daily life.
 
-It can also help to practise calming breathing techniques. This can reduce any stress and boost your emotional well-being. See our _Dealing with Stress & Challenges_ page for a simple breathing exercise you can try. 
+It can also help to practise calming breathing techniques. This can reduce any stress and boost your emotional well-being. See our (see <a href="/learn/living-with-parkinsons/optimising-wellbeing/dealing-with-stress-and-challenges" class="internal-link">_Dealing with Stress and Challenges_</a> page for a simple breathing exercise you can try. 
 
 ### Mindfulness
 Mindfulness encourages you to pay closer attention to the present moment, focusing on your thoughts, feelings, bodily sensations and your environment. Doing this regularly can help to improve your general emotional wellbeing. 
