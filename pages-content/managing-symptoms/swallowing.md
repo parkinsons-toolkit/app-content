@@ -1,9 +1,5 @@
-# Saliva and Swallowing Problems
-On this page, you’ll find information about:
-- _Saliva Problems_
-- _Swallowing Problems_
+# Swallowing Difficulties
 
----
 
 ## Saliva Problems
 People with Parkinson’s can get problems with their saliva. Sometimes drooling or dribbling can happen. This can cause irritation, infection, or cracks around your mouth. This in turn can make talking, laughing, eating or drinking an issue.
