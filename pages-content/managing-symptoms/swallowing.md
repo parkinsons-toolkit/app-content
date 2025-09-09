@@ -1,9 +1,5 @@
 # Swallowing Difficulties
-
-## Introduction
-
 Some people with Parkinson’s have trouble with swallowing or eating. It can be more difficult to swallow certain foods, drinks, and medications. Your swallowing can be affected in different ways:
-
 - Difficulty keeping food or drink in your mouth
 - Difficulty swallowing food in one go, causing food to remain in your mouth
 - Chewing food more slowly
@@ -11,74 +7,64 @@ Some people with Parkinson’s have trouble with swallowing or eating. It can be
 - Coughing or clearing your throat when you are eating or drinking
 - Feeling like food is getting stuck as it goes down to your stomach
 
-Swallowing problems range from mild to severe and can happen at any time. If you notice any swallowing difficulties, it is important to speak with your GP or Parkinson's specialist team. They can refer you to specialists for treatment. Untreated swallowing problems can cause more serious health conditions, such as chest infections.
+Swallowing problems range from mild to severe and can happen at any time. If you notice any swallowing difficulties it is important you speak with your GP or Parkinson's specialist team. They can refer you on to specialists for treatment. Untreated swallowing problems can cause more serious health conditions, such as chest infections.
+
+---
 
 ## What might be causing it?
+The slowing and stiffening of muscles in Parkinson’s can contribute to swallowing problems. Muscles involved in chewing and swallowing (e.g. muscles in the face, jaw, tongue, and throat) can become less efficient and powerful. People with Parkinson’s can experience a dry mouth, tiredness, or difficulties concentrating at meal times. These can all make swallowing more challenging. Also, problems moving your arm or hand (for example, due to tremor) can make it harder to guide food into your mouth. 
 
-The slowing and stiffening of muscles in Parkinson’s can contribute to swallowing problems. Muscles involved in chewing and swallowing (e.g., muscles in the face, jaw, tongue, and throat) can become less efficient and powerful. People with Parkinson’s can experience dry mouth, tiredness, or difficulties concentrating at meal times, all of which can make swallowing more challenging.
+Other medical issues can cause swallowing difficulties. These include weakness in muscles of the face or throat, and blockages or narrowing of the throat or gullet. Weakness of the face can happen for many reasons, for example after a stroke or injury. Other reasons for swallowing difficulties include poor fitting dentures, and tooth or gum health issues. 
 
-Problems moving your arm or hand (e.g., due to tremor) can also make it harder to guide food into your mouth.
+Swallowing difficulties in Parkinson’s tends to happen gradually. Sudden problems are likely to be related to other causes. A professional assessment is often needed to identify the root cause. 
 
-Other medical issues can cause swallowing difficulties, including:
-
-- Weakness in muscles of the face or throat
-- Blockages or narrowing of the throat or gullet
-- Poor fitting dentures, and tooth or gum health issues
-
-Swallowing difficulties in Parkinson’s tend to develop gradually. Sudden problems are likely related to other causes. A professional assessment is often needed to identify the root cause.
+---
 
 ## What should I do about it?
+There are things you can try to make swallowing easier. However, it is very important to tell your GP or Parkinson’s specialist team if you have difficulty swallowing food, drinks or medication. They will need to assess the cause of your difficulties, particularly if they are worsening. This is because swallowing problems can increase the risk of more serious problems, like choking or chest infections. 
 
-There are things you can try to make swallowing easier. However, it is very important to tell your GP or Parkinson’s specialist team if you have difficulty swallowing food, drinks, or medication. Swallowing problems can increase the risk of more serious problems, like choking or chest infections.
-
-If you have new weakness in your face, consult your GP. Very sudden weakness on one side of the body could indicate a stroke—call 999 for an ambulance if this occurs.
+If you have new weakness in your face, you should consult your GP. Very sudden weakness, occurring ‘like the snap of the fingers’, on one side of the body could be a stroke. If this is the case, call 999 for an ambulance. 
+ 
+---
 
 ## What can I try for myself?
 
 ### Planning ahead
-
 - Plan meals for when your medication is working
-- Plan meals for when you are less tired—this may mean moving your main meal to lunchtime
-- If you wear dentures, make sure they fit comfortably; see your dentist if needed
+- Plan meals for when you are less tired - this may mean moving your main meal to lunchtime
+- If you wear dentures, make sure they fit comfortably – see your dentist if needed 
 
 ### Medication adjustments
-
-If medications feel like they are getting stuck, talk with your Parkinson’s specialist team and/or pharmacist. There may be a version available that is easier to swallow:
-
-- Some pills can be split in half, crushed, sprinkled on yoghurt, or dissolved in the mouth
-- Anything that is “XR” (extended release) or “CR” (continuous release) should not be crushed
-- Always check with your specialist team or pharmacist before altering tablets
+If medications feel like they are getting stuck, talk with your Parkinson’s specialist team and/or pharmacist. There may be a version available that is easier to swallow. 
+- Some pills can be split in half, crushed, sprinkled on yoghurt or dissolved in the mouth o Anything that is “XR” (extended release) or “CR” (continuous release) should not be crushed.
+- Check whether it is safe to crush or split tablets by discussing with your Parkinson’s specialist team or pharmacist. 
 
 ### Meal adjustments
-
+If food is getting too cold while you are eating or you are feeling full too quickly, consider: 
 - Smaller, more frequent meals and snacks
-- Softer foods (e.g., mashed potatoes, bananas)
-- Heated plates to keep food warm longer
-- Smaller portions and reheat a second portion if needed
+- Food that is easier to eat (e.g. softer foods such as mashed potatoes and bananas)
+- Heated plates to keep food warm for longer
+- Smaller portions and reheat a second portion if needed 
 
 ### While eating
-
 - Take your time and eat in a quiet, comfortable place without distractions
 - Try smaller mouthfuls
-- Avoid taking another mouthful until you’ve cleared your mouth and throat
+- Avoid taking another mouthful until you’ve cleared your mouth and throat 
 
 ### Drinking
+- A speech and language therapist can suggest a suitable straw for you to use. This is important as if they are not suitable liquid is more likely to go ‘down the wrong pipe’ and into your lungs instead of into your stomach.
+- Refill your cup or glass when it’s half empty, so you don’t have to tilt your head back to drink. Tilting your head back can make food or drink go down the wrong way.
+- Very cold liquids can encourage swallowing – try drinking them first thing, before breakfast or with a meal 
 
-- A speech and language therapist can suggest a suitable straw to reduce the risk of liquids going down the wrong pipe
-- Refill your cup or glass when it’s half empty to avoid tilting your head back
-- Very cold liquids can encourage swallowing; try drinking them first thing or with meals
-
-### Swallowing tip
-
-Follow this step-by-step process:
-
-1. Take a small mouthful of food or drink
-2. Close your lips
-3. Chew well
-4. Take a deliberate swallow, squeezing all muscles in your mouth and throat
-5. Swallow again to ensure all food/drink has gone
-6. Lick around the mouth with your tongue to check all food has gone
-7. Repeat until finished eating or drinking
+_Tip: Swallowing Tip_
+_When swallowing food or drink, following the process below step by step can help: 
+1.	Take a small mouthful of food or drink
+2.	Close your lips
+3.	Chew well
+4.	Take a deliberate swallow. Try to squeeze hard with all the muscles in your mouth and throat - this will push food down to your stomach and stop it getting stuck in your throat.
+5.	Swallow again to make sure all the food or drink has gone.
+6.	Try licking round the mouth with your tongue to check all the food has gone.
+7.	Repeat steps until you are finished eating or drinking._
 
 ## My Experience
 
