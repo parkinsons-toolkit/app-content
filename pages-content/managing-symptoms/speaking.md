@@ -1,4 +1,4 @@
-# Speech Difficulties in Parkinson’s
+# Speech Difficulties
 Speech difficulties are common in Parkinson’s. They include a range of symptoms. But not everyone with Parkinson’s will have the issues discussed in this section. Problems with speech include quiet, slurred, hoarse-sounding voice; monotone; and difficulty with tongue and lip movements. It may feel like you are wearing a mask.
 
 <div class="video-container">
@@ -13,7 +13,7 @@ Speech difficulties are common in Parkinson’s. They include a range of symptom
 
 ---
 
-## What might be causing speech problems?
+## What might be causing it?
 Parkinson’s causes changes in the brain. This leads to movements becoming smaller and less forceful. This can impact your voice. The condition can affect how the brain thinks. It affects your thought processes, which may slow down. Or you may find it hard to find the right word to say. Many people with Parkinson’s don’t know they are speaking quietly.
 
 There are reasons other than Parkinson’s that cause changes in speech. It could be something within the mouth, throat, or jaw (e.g. poorly fitting dentures or a throat infection). Other medical conditions affecting the brain can also cause speech problems (for example, a stroke which has caused weakness on one side of the face or affected the brain pathways for finding words). Speech changes in Parkinson’s tends to occur gradually. Sudden problems are less likely to be related to Parkinson’s.
@@ -41,8 +41,6 @@ If you have a new hoarse voice that has lasted more than three weeks you should 
 
 ## What can I try for myself?
 
-### Self-help Strategies
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -64,7 +62,7 @@ It is important you practise the following with a clear voice, as rehearsing wit
 - **Singing:** A hobby that may be a social and fun way to increase your confidence in your voice.
   - Singing exercises for your voice and breathing muscles may help your speaking voice.
   - There are singing classes all over the UK for people with Parkinson’s - some are run by Parkinson’s UK local groups. Or perhaps just singing in the shower. 
-- **Socialising:** This gives you opportunities to practise your speech and improve confidence. See our _Social & Spiritual_ Life page for more tips.
+- **Socialising:** This gives you opportunities to practise your speech and improve confidence. See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/social-and-spiritual-life" class="internal-link">_Social & Spiritual Life_</a> page for more tips.
 - **Reading aloud:** Whether it is stories, poetry or the news, try reading it out loud rather than in your head to exercise your speech.
 - **Apps:** Some people use an app on their phone or computer to show how many decibels they use when speaking. This can help you realise how quiet or loud you are talking. Normal conversation is around 60 – 70 decibels. If you are interested in this, ask your therapist, who may be able to advise you further.
 
@@ -82,7 +80,7 @@ People affected by Parkinson’s describe their experiences.
 ## Further Assessment
 
 ### Questions
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your _My Health_ section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They might ask about**
 - Do you have problems swallowing food, drink or medicines?
@@ -93,7 +91,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Can you hear as well as you used to?
 - Lifestyle: smoking and alcohol
 
-**Tracking your symptoms in the _Symptom and Activity Tracker_**
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
 - This can help you to recall the details and help the professional identify patterns. 
 - For speech problems you could record:
   - When it is most problematic, and when it is at its best.
@@ -121,7 +119,7 @@ Most cases do not need further tests. Depending on the healthcare professional�
 - Parkinson’s drugs (e.g. levodopa) may help your speech.
 - Response to Parkinson's drugs changes over time. For example, your voice may be stronger when the drugs are working well and softer or weaker when your drugs are not working well.
 - Changes to your Parkinson’s drugs may give you better control over speech problems.
-- See _Variability of Symptoms_ for more information about these changes in your speech and other symptoms. 
+- See <a href="/learn/managing-symptoms/variability-of-symptoms" class="internal-link">_Variability of Symptoms_</a> for more information about these changes in your speech and other symptoms. 
 
 ---
 
