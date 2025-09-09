@@ -57,8 +57,8 @@ If food is getting too cold while you are eating or you are feeling full too qui
 - Very cold liquids can encourage swallowing – try drinking them first thing, before breakfast or with a meal 
 
 _Tip: Swallowing Tip_
-_When swallowing food or drink, following the process below step by step can help: 
-1.	Take a small mouthful of food or drink
+_When swallowing food or drink, following the process below step by step can help:_
+_1.	Take a small mouthful of food or drink
 2.	Close your lips
 3.	Chew well
 4.	Take a deliberate swallow. Try to squeeze hard with all the muscles in your mouth and throat - this will push food down to your stomach and stop it getting stuck in your throat.
