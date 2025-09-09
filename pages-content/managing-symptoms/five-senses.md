@@ -106,88 +106,76 @@ More general tips to maintain healthy eyes, ears, skin and feet are covered on t
 
 ## Further Assessment
 
-### General questions you may be asked
-- Onset: sudden (hours/days) or gradual (months/years)?  
-- One-sided or both sides affected?  
-- Triggers: what makes it worse/better?  
-- Other new symptoms (sensory changes, weight loss, headaches, seizures, bladder/bowel changes)  
-- Lifestyle (diet, smoking, alcohol)  
-- How the problem affects daily life  
+### Questions
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
-### Vision-specific questions
-- Near vision (e.g. reading)  
-- Distance vision (e.g. recognising people across the street)  
-- One or both eyes affected? (check by covering one at a time)  
-- Type of double vision: side-by-side or one above the other?  
-- Other visual symptoms: flashing lights, floaters  
-- Family history of eye conditions (e.g. glaucoma)  
+**They may ask about any <ins>sensory changes</ins>:**
+- Did the problem come on suddenly over hours or days, or slowly over months or longer?
+- Where is affected (e.g. Both sides or one side only)?
+- Triggers – things that make the problem worse, or you think might have brought it on?
+- Other new symptoms – including other sensory changes, weight loss, headaches, seizures (fits), pain, movements, bladder and bowel symptoms.
+- Lifestyle questions – including about diet, smoking and alcohol.
+- How is it affecting you? 
 
-## Further Assessment
+**They may ask about any <ins>changes in vision</ins>:**
+- How is your vision close up (e.g. reading)?
+- How is your vision far away (e.g. do you have difficulty recognising someone across the road)?
+- Does it affect one or both eyes? (try covering each eye in turn to check this out)
+- If you have ‘double vision’ are the two images side by side or one on top of the other?
+- Do you have any other visual symptoms such as seeing flashing lights or ‘floaters’ (small black blobs that move around)?
+- Is there a history of vision problems in your family? E.g. Glaucoma. 
 
-### Hearing-specific questions
-- Have others told you your hearing is bad, or that you have the TV/radio too loud?  
-- What do you have trouble hearing? (e.g. difficulty in noisy places)  
-- Do you experience ringing/buzzing in the ears (*tinnitus*) or spinning sensation (*vertigo*)?  
-- Have you had significant exposure to loud noise (e.g. through work)?  
+**They may ask about any <ins>changes in hearing</ins>:**
+- Have other people told you that your hearing is bad, or that you have the TV or radio up too loud?
+- What do you have trouble hearing? E.g. Difficulty hearing what people are saying in noisy places.
+- Do you get a ringing or buzzing in your ears (called ‘tinnitus’) or a sensation of the room spinning (called ‘vertigo’)?
+- Have you had a lot of exposure to loud noise over your life, e.g. through your job? 
 
-### Touch-specific questions
-- Which parts of the body are affected?  
-- Any history of injury related to the area?  
-- Do you experience tingling, pins and needles, or pain in the affected area?  
-- Any new muscle weakness?  
+**They may ask about any <ins>changes in sense of touch</ins>:**
+- Which parts of the body are affected?
+- Have you had any injury that could be related?
+- Have you had any tingling or pins and needles or pain in the affected area?
+- Have you noticed any new weakness in your muscles? 
 
-### Smell & Taste-specific questions
-- Is it complete or partial loss, or altered sensation (e.g. metallic taste)?  
-- Have you had a recent cold or flu-like symptoms?  
+**They may ask about any <ins>changes in sense of taste or smell</ins>:**
+- Is it complete or partial loss of taste/smell? Or is it altered experience of taste/smell? (e.g. metallic taste in the mouth).
+- Have you had a cold or ‘flu like symptoms? 
 
----
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+- This can help you to recall the details and help your health professional look for patterns.
+- If your symptoms come and go, recording them can help you to identify patterns. For example, whether the symptom might improve with changes in Parkinson’s medications.
+- The duration of monitoring will depend on how often you experience the symptom. You will need a few recordings to be able to spot any patterns. 
 
-## Tracking Symptoms
-
-Use **My Tracker** in your manual:
-- Helps you recall details of symptoms.  
-- Useful if symptoms come and go → may reveal patterns (e.g. related to Parkinson’s medication).  
-- Monitor over time; multiple recordings may be needed to identify trends.  
-
----
-
-## Tests
-
-Depending on assessment, your healthcare professional may suggest:
-- Blood tests  
-- Scans  
-- Nerve function tests  
-
-⚠️ There is no single test that identifies if a sensory problem is caused by Parkinson’s.  
+### Tests
+Depending on their assessment, your healthcare professional may wish to run further tests. This might be blood tests or scans/tests of nerve function. There is no single test that can identify whether a sensory problem is caused by Parkinson’s or not.
 
 ---
 
 ## Further Treatments
-
-Healthcare professionals may offer reassurance, advice, or treatments.
+A healthcare professional may be able to offer reassurance, advice, or further treatment.
 
 ### Medication
-- Only doctors (GP, neurologist) or specialist nurses should make changes.  
-- Do **not** change medication yourself.  
-- Adjusting Parkinson’s medication may help if symptoms are linked.  
-- Medication may be switched if symptoms are a side effect (e.g. dry eyes from anticholinergics).  
-- Special painkillers may be prescribed for nerve pain (peripheral neuropathy).  
-- **Botox injections** may be considered for *blepharospasm* (eyelid spasms).  
+- Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication.
+- **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
+- If the symptom is thought to be related to Parkinson’s, then changes to your Parkinson’s medication may help.
+- If the symptom is thought to be a side effect of a Parkinson’s medication (e.g. dry eyes from anticholinergic medicine), then a change may be considered.
+- Special pain killers may be tried for nerve pain caused by peripheral neuropathy.
+- Special injections (Botox) may be tried for blepharospasm (spasms of the eyelid muscles). 
 
 ### Referral
-You may be referred to:
-- **Audiology** → hearing problems  
-- **Ophthalmology/Neuro-ophthalmology** → sight problems  
-- **Specialist Neurology services** → Botox for blepharospasm  
-- **ENT (Ear, Nose & Throat)** → smell or taste problems  
-- **Other specialties** → for peripheral neuropathy, depending on suspected cause  
+You may be referred to another service, see below typical referrals:
+- Audiology for hearing problems
+- Ophthalmology or Neuro-ophthalmology for sight problems
+- Specialist Neurology services for Botox for blepharospasm
+- Ear, Nose & Throat (ENT) for smell or taste problems
+- Various specialties could be involved for peripheral neuropathy depending on the suspected cause. 
 
 ---
 
 ## Key Messages
-- Sensory changes (smell, taste, touch, sight, hearing) can be part of Parkinson’s, but may also have other causes.  
-- Self-care strategies can ease the impact of sensory changes in daily life.  
-- Always consider the **safety implications** of sensory changes.  
+- Sensory changes in smell, taste, touch, sight and/or hearing can be a part of Parkinson’s but can have a variety of other causes.
+- There are things you can try yourself to help ease the impact of sensory changes on your day-to- day life.
+- It is important to consider the safety implications of sensory changes. 
 
 ---
 
