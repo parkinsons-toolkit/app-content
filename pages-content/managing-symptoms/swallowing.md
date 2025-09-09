@@ -58,13 +58,13 @@ If food is getting too cold while you are eating or you are feeling full too qui
 
 _Tip: Swallowing Tip_
 _When swallowing food or drink, following the process below step by step can help:_
-_1.	Take a small mouthful of food or drink
-2.	Close your lips
-3.	Chew well
-4.	Take a deliberate swallow. Try to squeeze hard with all the muscles in your mouth and throat - this will push food down to your stomach and stop it getting stuck in your throat.
-5.	Swallow again to make sure all the food or drink has gone.
-6.	Try licking round the mouth with your tongue to check all the food has gone.
-7.	Repeat steps until you are finished eating or drinking._
+_1.	Take a small mouthful of food or drink_
+_2.	Close your lips_
+_3.	Chew well_
+_4.	Take a deliberate swallow. Try to squeeze hard with all the muscles in your mouth and throat - this will push food down to your stomach and stop it getting stuck in your throat._
+_5.	Swallow again to make sure all the food or drink has gone._
+_6.	Try licking round the mouth with your tongue to check all the food has gone._
+_7.	Repeat steps until you are finished eating or drinking._
 
 ## My Experience
 
