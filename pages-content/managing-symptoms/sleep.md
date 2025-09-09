@@ -37,6 +37,16 @@ There are other factors than can worsen sleep problems, such as medications or l
  
 _Obstructive sleep apnoea_ is a breathing condition that is thought to be slightly more common in people with Parkinson’s than those without. It is a change in the pattern of breathing. It causes a pause, followed by catch-up breaths. This could be a gasp, loud snore, a few quick breaths or a choking noise. Although they might not realise it, the person is briefly woken by this, and so their sleep is disrupted, and they tend to get very sleepy in the daytime. 
 
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/w1ZCTNLHSOw" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 ---
 
 ## What should I do about it?
@@ -81,34 +91,35 @@ _Note there is no specific bed or mattress recommended in Parkinson’s but more
 
 ---
 
-## When to Seek Professional Help
+## My Experience
+People affected by Parkinson’s describe their experiences.
 
-- **Severe sleep disruption**: If violent movements, frequent waking, or distressing dreams occur.
-- **Signs of sleep apnea**: Pauses in breathing, choking, gasping, loud snoring.
-- **Persistent poor sleep**: After 1 month of self-management strategies.
-
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/w1ZCTNLHSOw" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
+> “I find a back or leg massage relaxes me and helps me drift off to sleep.”  
+> _(Person with Parkinson’s)_
 
 ---
 
-## Professional Assessment
+## Further assessment
 
-- **Questions your clinician may ask**:
+### Questions
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
-  - Sleep patterns, triggers, and associated symptoms (pain, RLS, urinary issues).
-  - Bed partner observations (snoring, breathing pauses, movements).
-  - Medication timing and effects.
-  - Daytime impact (mood, concentration, balance).
+**They may ask about:**
+- Lifestyle factors as described above.
+- What seems to be disturbing your sleep?
+- Do you have other symptoms associated with the particular sleep disturbances: difficulty with movements in bed, urinary symptoms, restless legs, altered dreams or acting out dreams, pain or cramps?
+- Is anyone else in the room when you sleep? Have they noticed snoring or pauses in your breathing?
+- Have you noticed if the symptoms are affected by any of your medication?
+- How is it impacting you? (e.g. mood, work, driving, relationships)
+- Some clinicians use scoring systems so may go through a specific list of symptoms, such as the Parkinson’s Disease Sleep Scale. 
 
-- **Tests**:
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+- This can help you to recall the details and help your health professional look for patterns.
+- For sleep disturbance, it is useful to record when it occurs and exactly what happens. It can be helpful to record when you take your medication as well to see if it is related to sleep disturbance.
+  - It may be that your bed partner will be able to give you more details. 
+
+
+### Tests
   - Usually not needed, but sometimes a sleep study may be recommended.
 
 ---
