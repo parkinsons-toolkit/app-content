@@ -91,78 +91,67 @@ Check moles regularly (monthly), looking for any changes. You can ask someone el
   - Multi-coloured
   - Asymmetric (lop-sided)
   - Changing
+ 
 - If a mole is changing or you have any concerns about its appearance it should be reviewed by your GP. If you are not sure if a mole is changing, you could take a photo of it for comparison.
 - Be careful with sun exposure. Some sun exposure is good and helps your body make vitamin D. However, too much sun exposure increases the risk of skin damage and skin cancer. Finding the balance can be tricky. There is no definitive recommendation for the amount of time that should be spent in the sun.
 - See the <a href="/learnliving-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for dietary information about Vitamin D.
-- 
 
+- Safe sun exposure:
+  - Even if it is cool or cloudy, it is possible to get a sunburn.
+    - Do not rely on sunscreen alone to protect yourself getting sun damage. Wear suitable clothing and spend time in the shade when the sun's at its hottest. This is 11am to 3pm in the UK from March to October.
+  - There is no safe or healthy way to get a tan from sunlight.
+  - Getting a tan provides little protection against later exposure to sunlight. The resulting skin damage outweighs any later protective effect.
+  - Windows block some of the sunlight. Sunlight shining through a window pane will not be enough for your body to make vitamin D.
+  - It is not possible to get enough vitamin D from sunlight between October and March in the UK.
+  - For more guidance on safe sun exposure, visit the <a href="https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Sunscreen and Sun Safety</a> page.
+
+- Sun protection: this can be achieved by covering skin with clothing, seeking shade and applying sunscreen. Sunscreen is an additional protection rather than an alternative to covering up
+  - Sunscreen must be applied liberally, carefully and repeatedly on exposed skin.
+  - UVA in a circle logo indicates that a sunscreen meets the minimum standards for UVA protection. You should use a sun protection factor (SPF) of at least 30 to protect against UVB.
 
 ---
 
 ## Further Assessment
-Healthcare professionals may ask about:  
-- Onset and duration of the skin condition.  
-- Location and spread.  
-- Any pain, itch, or discharge.  
-- Recent changes in medications.  
-- Sun exposure history.  
-- Family history of skin cancer.  
 
-> A GP or specialist can determine whether further tests, treatments, or referrals are needed.
+### Questions
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
-## Questions Your Healthcare Professional May Ask
-- What the skin problem is (rash, wound, mole, oily skin, etc.).  
-- When it first occurred and how it has changed over time.  
-- Whether you have experienced it before.  
-- What you have already tried to manage it.  
-- Location and extent of the problem.  
-- Any associated symptoms (pain, itch, discharge, bleeding).  
+The questions will relate to your particular skin issue. They will generally cover details about what the problem is, when it occurred, how it has changed over time, whether you’ve had it before and what you have tried. 
 
-> It can be helpful to record these answers in your **“My Health”** section before your appointment.
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+- This can help you to recall the details and help your health professional look for patterns.
+- For skin issues you could record when you notice an issue. Also note the details of it. Then check again a few weeks later and see if it has changed. 
 
----
-
-## Track Your Symptoms
-- Use the **Symptom and Activity Tracker** to record:  
-  - When you notice a skin issue.  
-  - Details of its appearance (size, colour, texture, location).  
-  - Changes over time (check again a few weeks later).  
-- This helps healthcare professionals identify patterns and monitor changes.
-
----
-
-## Tests
-- Some skin conditions may require further testing:  
-  - **Biopsy:** a small sample of skin or mole is examined under a microscope.  
-  - Additional tests may be ordered depending on the suspected cause or severity.  
+### Tests
+Depending on their assessment, sometimes further tests are needed. For some skin conditions the test is a biopsy. This is where a sample of the skin or mole is taken to examine it under a microscope.
 
 ---
 
 ## Further Treatments
 
 ### Medication
-- **Seborrhoeic dermatitis:**  
-  - Face, body, scalp: ketoconazole cream, mild steroid cream, or combined anti-fungal/steroid creams (short-term use only).  
-  - Hair (head or beard): ketoconazole shampoo, selenium sulphide shampoo.  
-- **Wounds:** if infected, antibiotics may be required.  
+- Your GP or pharmacist may be able to recommend medicated creams or shampoos for seborrheic dermatitis if needed. Many of these are available both on prescription and over the counter.
+- **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 
-> Do not change medications without consulting your healthcare professional.
+**Medicinal products that may be recommended for seborrheic dermatitis:**  
+  - For skin (face, body, scalp): ketoconazole cream, mild steroid cream, or creams with a combination of anti-fungal medicine and steroid. Note these should only be used short term.
+  - For hair (head or beard): ketoconazole shampoo, and selenium sulphide shampoo.
+  - If a wound is thought to be infected, you may require antibiotics. 
 
 ### Referral
-- **Suspected skin cancer:** referral to a **dermatologist** (usually within a couple of weeks).  
-- **Severe or uncontrolled seborrhoeic dermatitis:** may require dermatologist assessment.  
-- **Long-term wounds:** may require ongoing review by a GP practice nurse or district nursing service.  
+You may be referred on to another service.
+
+If skin cancer is suspected, you will be referred to a skin specialist: a dermatologist. The appointment should be within a couple of weeks. 
+
+- Severe uncontrolled seborrheic dermatitis or where your doctor is uncertain about the diagnosis sometimes warrants referral to a dermatologist.
+- Long term wounds may require regular nursing review. This will either via your GP practice nurse or the district nursing services if you are unable to get to appointments. 
 
 ---
 
 ## Key Messages
-- People with Parkinson’s can experience skin conditions that are also common in the general population.  
-- Skin issues more common in Parkinson’s include:  
-  - Oily skin  
-  - Seborrhoeic dermatitis  
-  - Wounds and ulcers  
-  - Abnormal moles  
-- If you have reduced sensation in any area, **check the skin regularly** for cuts, wounds, or changes that are slow to heal (e.g., every time you bathe).  
+- People with Parkinson’s may have skin conditions that can be common in people without Parkinson’s too.
+- Skin issues that are more common in Parkinson’s include: oily skin, seborrheic dermatitis, wounds & ulcers, and abnormal moles.
+- If you have decreased feeling or sensation in any area of your body, be sure to check there regularly (every time you bathe) for any cuts or wounds that aren’t healing properly.
 
 ---
 
