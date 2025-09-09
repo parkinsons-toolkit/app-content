@@ -56,7 +56,8 @@ If food is getting too cold while you are eating or you are feeling full too qui
 - Refill your cup or glass when it’s half empty, so you don’t have to tilt your head back to drink. Tilting your head back can make food or drink go down the wrong way.
 - Very cold liquids can encourage swallowing – try drinking them first thing, before breakfast or with a meal 
 
-_Tip: Swallowing Tip_
+<ins>_Tip: Swallowing Tip_</ins>
+
 _When swallowing food or drink, following the process below step by step can help:_
 1.	Take a small mouthful of food or drink
 2.	Close your lips
