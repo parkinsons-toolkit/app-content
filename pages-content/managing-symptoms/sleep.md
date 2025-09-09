@@ -1,19 +1,20 @@
-# Sleep Disturbances and Dreams in Parkinson’s
+# Sleep Disturbances
+Poor sleep leads to feeling less well in the daytime and can worsen other difficulties, like low mood, concentration and balance. It may also affect those close to you.
 
-## Sleep Disturbances
+**Parkinson’s can affect sleep in several different ways. Here we cover:**
+- Difficulty getting to or staying asleep
+- Difficulty moving in bed
+- A possible association with breathing changes during sleep 
 
-1. **Parkinson’s-related causes**
+**Other issues that may affect your sleep include:**
+- Urinary Symptoms
+- Dream disturbances including uncontrolled movements whilst asleep
+- Restless Legs
+- Pain
+- Spasms & Cramps
+- Anxiety 
 
-   - Altered dopamine levels affect sleep patterns and movements.
-   - Difficulty moving in bed due to stiffness or rigidity.
-   - REM Sleep Behavior Disorder (acting out dreams).
-
-2. **Other contributing factors**
-   - Urinary symptoms (night-time urination).
-   - Pain, cramps, or muscle spasms.
-   - Anxiety or low mood.
-   - Medications that affect sleep.
-   - Obstructive Sleep Apnea (pauses or loud snoring during sleep).
+These are covered on their own symptom page, found within the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> section. Difficulties in getting in or out of bed is covered on the <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page.
 
 <div class="video-container">
 <iframe 
@@ -27,39 +28,25 @@
 
 ---
 
-## Practical Strategies to Improve Sleep
+## What might be causing it?
+If someone with Parkinson’s experiences sleep disturbance, it is most likely due to Parkinson’s itself.
 
-### 1. Maintain a consistent routine
-
-- Go to bed and wake up at the same time daily, even on weekends.
-- Include relaxing pre-bed activities (warm bath, gentle massage, breathing exercises).
-
-### 2. Optimize daytime activity
-
-- Exercise during the day, but avoid vigorous exercise 2 hours before bedtime.
-
-### 3. Manage the bedroom environment
-
-- Keep the room quiet, dark, and comfortably cool (16–18°C).
-- Avoid using the bedroom for TV or work.
-- Consider eye masks or earplugs if needed.
-
-### 4. Bed and clothing tips
-
-- Nylon or satin sheets and lightweight bed covers can make movement easier.
-- Avoid both satin pajamas and satin sheets at the same time—they may slide too much.
-- Maintain some friction areas at bed edges for grip.
-
-### 5. Pre-bed habits
-
-- Empty your bladder before sleeping.
-- Limit caffeine (4 hours before bed) and alcohol.
-- Avoid large meals right before sleep (allow 2–3 hours for digestion).
-- Minimize screen time before bed (TV, phone, tablet).
-- Avoid lying awake for long periods—get up if you can’t sleep.
-- Limit daytime naps to ~20 minutes if needed.
+It is at least partly thought to be caused by altered levels of the chemical messenger dopamine. Dopamine plays a role in sleep patterns as well as impacting movements. 
+ 
+There are other factors than can worsen sleep problems, such as medications or lifestyle factors. Depression also causes sleep disturbance. 
+ 
+_Obstructive sleep apnoea_ is a breathing condition that is thought to be slightly more common in people with Parkinson’s than those without. It is a change in the pattern of breathing. It causes a pause, followed by catch-up breaths. This could be a gasp, loud snore, a few quick breaths or a choking noise. Although they might not realise it, the person is briefly woken by this, and so their sleep is disrupted, and they tend to get very sleepy in the daytime. 
 
 ---
+
+## What should I do about it?
+There are many things you can try for yourself (see below). If, however, you are having violent movements during sleep you should discuss this with your Parkinson’s specialist team. For other sleep disturbances, try the strategies below. If you still have problems after 1 month then speak to your GP or Parkinson’s specialist team. 
+ 
+If you or your partner notice the breathing pattern change as described above (pauses in breathing or loud snoring) then discuss with your GP. 
+
+---
+
+## What can I try for myself?
 
 <div class="video-container">
 <iframe 
@@ -70,6 +57,29 @@
   allowfullscreen>
 </iframe>
 </div>
+
+### Things to try
+- Maintain regular sleep hours: try to get up at the same time each day, even if the sleep has not been good. You may need to set an alarm clock, even on weekends, to achieve this.
+- A regular bedtime routine, ideally with some relaxation built in, such as a warm bath. For other relaxation techniques see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/dealing-with-stress-and-challenges" class="internal-link">_Dealing with Stress and Challenges_</a> page.
+- Increasing daytime activity, though avoid exercise just before bed (e.g. avoid vigorous exercise in the 2 hours before bed). See <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> for ideas on how to do this.
+- Empty your bladder before going to bed.
+- If possible, protect your bedroom environment: avoid using it for watching TV or working, and keep it warm (but not too hot), dark, comfortable and quiet. The optimal temperature for most people is around 16-18oC. Different curtains or blinds can change the light in the room, or some people use eye masks. Noise can be reduced by closing windows and doors, or by using earplugs.
+- Nylon or satin sheets as well as light-weight bed covers, can be more comfortable and can make moving in bed easier. It is best not to have both satin Pyjamas and sheets as they can slide on each other very quickly. Ideally maintain some area of friction at the edge of the bed for grip.
+- If you can, involve a partner, particularly if you need help getting in and out of bed. 
+
+### Things to avoid
+- **Caffeine:** This is in tea, coffee, chocolate, cocoa, coca cola, some over-the-counter painkillers and ‘cold and flu’ remedies so check the label carefully. Reducing caffeine in the 4 hours before bed, as well as reducing the total daily intake, is advised.
+- **Alcohol:** This may initially make you sleepy but may then cause you to wake up and feel restless. It also makes you need to go to the toilet, which can disturb sleep. 
+- **Smoking:** Nicotine, which is found in cigarettes, is a stimulant so, although people find it relaxing, it makes you feel more awake. 
+- **Lying awake in bed:** Try to avoid spending lots of time in bed, particularly if not asleep. If you are not feeling sleepy then perhaps you could get up and go to a different room to try to relax a bit. Return to bed once you feel sleepy. You may want to keep a dressing gown or jumper nearby, so you are comfortable when leaving the bed. 
+- **Naps:** If you nap in the daytime, you are less likely to sleep at night. Some people do feel they need naps, so it is best to limit the time spent napping to about 20 minutes. You may need to set an alarm to achieve this. 
+- **Screens:** Try to avoid TV, computer, tablet and mobile phone use in the period before going to bed. The light from the screen is stimulating so can make it more difficult to sleep. 
+- **Large meals before bed:** Lying down after eating a large meal makes it more challenging for your body to digest the food properly. This is likely to make you feel uncomfortable and can make it more difficult for you to fall asleep and sleep undisturbed. Try to leave at least 2-3 hours after your last big meal of the day before going to bed. 
+- **Unsuitable sleeping environment:** If possible, avoid using your bedroom for work or TV, or using your living space or chairs for sleep. Ideally, train your body to sleep in the bedroom and that brain-stimulating tasks are associated with another place. It takes time to re-train if one of these has become a habit.
+
+_Note there is no specific bed or mattress recommended in Parkinson’s but more advice on furniture and equipment is covered in <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a>._ 
+
+---
 
 ## When to Seek Professional Help
 
