@@ -34,18 +34,18 @@ Note if you have <ins>new</ins> weakness in the face, you should see your GP. <i
 ---
 
 ## What can I try for myself?
-**For too much saliva:**
-- Adjustments
-  - Changing posture to be more upright.
-  - Humming while bent over - keeps lips closed and prevents drooling.
+### For too much saliva:
+**Adjustments**
+ - Changing posture to be more upright.
+ - Humming while bent over - keeps lips closed and prevents drooling.
   
-- Reminders to Swallow
-  - Sipping water can help remind you to swallow, and clears your mouth of excess saliva.
-  - Sugar-free sweets or gum can are helpful reminders to swallow (sugar-free to protect teeth).
-  - There are technologies, such as mobile phone apps, to prompt you to swallow. They use vibration or sound alerts. Lip exercises in front of a mirror.
-  - Close your lips tight for a count of four, relax, and then repeat five times.
-  - Stretch lips into a wide smile, hold for a count of four, and relax.
-  - More exercises are available online at Parkinson’s UK o These exercises promote awareness of your lips and remind you to hold lips firmly together to hold saliva in.
+**Reminders to Swallow**
+- Sipping water can help remind you to swallow, and clears your mouth of excess saliva.
+ - Sugar-free sweets or gum can are helpful reminders to swallow (sugar-free to protect teeth).
+ - There are technologies, such as mobile phone apps, to prompt you to swallow. They use vibration or sound alerts. Lip exercises in front of a mirror.
+ - Close your lips tight for a count of four, relax, and then repeat five times.
+ - Stretch lips into a wide smile, hold for a count of four, and relax.
+ - More exercises are available online at Parkinson’s UK o These exercises promote awareness of your lips and remind you to hold lips firmly together to hold saliva in.
 
 <div class="video-container">
 <iframe 
@@ -57,86 +57,101 @@ Note if you have <ins>new</ins> weakness in the face, you should see your GP. <i
 </iframe>
 </div>
 
-**For dry mouth:**
-Things you could try:
-• Frequent sips of water during the day
-• Suck on ice cubes and lollies- but only do this if you do not have difficulty swallowing. If you do have difficulties swallowing, sucking on ice cubes could lead to choking.
-• Chew sugar free gum or sugar free sweets
-• Use lip balm if your lips are dry
-• Brush your teeth twice a day and use alcohol-free mouthwash, to reduce the chance of developing tooth decay
-• Some people find humidifiers helpful
+### For dry mouth:
+**Things you could try:**
+- Frequent sips of water during the day.
+- Suck on ice cubes and lollies- but only do this if you do not have difficulty swallowing. If you do have difficulties swallowing, sucking on ice cubes could lead to choking.
+- Chew sugar free gum or sugar free sweets.
+- Use lip balm if your lips are dry.
+- Brush your teeth twice a day and use alcohol-free mouthwash, to reduce the chance of developing tooth decay.
+- Some people find humidifiers helpful.
 
-Things to avoid:
-• Smoking or chewing tobacco
-• Reduce alcohol, caffeine and fizzy drink intake
-• Alcohol-based mouthwashes
+**Things to avoid:**
+- Smoking or chewing tobacco.
+- Reduce alcohol, caffeine and fizzy drink intake.
+- Alcohol-based mouthwashes.
 
-### My Experience
+---
 
+## My Experience
 People affected by Parkinson’s describe their experiences.
-“If I didn’t dribble it would help, but sucking a polo helps. I tried sugary sweets, but that didn’t work very well. It got all sticky.” (Person with Parkinson’s)
 
-Further Assessment
-Questions
-• Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your “My Health” section to bring to the appointment.
-• See extra information below about things they might ask about.
+> “If I didn’t dribble it would help, but sucking a polo helps. I tried sugary sweets, but that didn’t work very well. It got all sticky.”  
+> _(Person with Parkinson’s)_
 
-o Any problems swallowing? o Any coughing or feeling of choking on food, drink or saliva? o Any other changes in your face or mouth, such as a change in your smile? o Any changes in your speech? o Are you persistently thirsty and peeing more often? o Do you have dry eyes?
+---
 
-Track your symptoms in the Symptom and Activity Tracker
-• It is helpful to track your problems with saliva. You can show it to healthcare workers.
-• This might reveal a pattern. Like a particular time of day that this is a problem, or a pattern with your medications.
-• If there is a pattern, tracking your problems and medication for 3 days should reveal it.
+## Further Assessment
 
-Tests
-• Most people do not need further tests.
+### Questions
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
-### Further Treatments
+**They may ask about:**
+- Any problems swallowing?
+- Any coughing or feeling of choking on food, drink or saliva?
+- Any other changes in your face or mouth, such as a change in your smile?
+- Any changes in your speech?
+- Are you persistently thirsty and peeing more often? o Do you have dry eyes?
 
-Referral
-• You may be referred on to another service.
-• For excess saliva, referral might be to:
-o Speech and language therapists. They may teach you exercises.
-o Physiotherapy or occupational therapy. They may give exercises to help posture or provide equipment. E.g. a tilting chair that allows your head to be upright. o Specialist hospital services for botulinum injections (Botox), into the salivary gland. This procedure carries some small risks, e.g. making the mouth too dry.
-• For dry mouth, referral might be to:
-o Dieticians can give advice on foods to help.
-o Other hospital specialties if a non-Parkinson’s cause is suspected.
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+- It is helpful to track your problems with saliva. You can show it to healthcare workers.
+- This might reveal a pattern. Like a particular time of day that this is a problem, or a pattern with your medications.
+- If there is a pattern, tracking your problems and medication for 3 days should reveal it.
 
-Medication
-• Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your drugs.
-Please do not make any changes to your medication regime without speaking with a healthcare professional.
+### Tests
+Most people do not need further tests.
 
-See extra information about some drugs used for drooling.
-o Glycopyrronium bromide
-o Hyoscine hydrobromide
-o Atropine drops under the tongue
-o Note these are unlicensed to use.
+---
 
-See extra information about drugs that can make drooling worse.
-o Drugs used for mental health problems, such as clozapine.
-o Drugs used for hallucinations and memory problems, e.g. rivastigmine.
+## Further Treatments
 
-See extra information about some drugs used for dry mouth.
-o Artificial saliva: Gels, sprays, tablets or lozenges. They act like saliva (e.g. Aquoral, Biotène Oralbalance gel or Xerotin). Lubricating sprays containing malic acid, physostigmine gel, and saliva substitutes containing citric acid appear to be most effective. Note products with citric acid should be used in conjunction with fluoride products.
-o There is some evidence that herbal products containing chamomile and linseed are effective.
-o There is some evidence that oxygenated glycerol triester (OGT) spray.
-o Products including toothpaste, mouth rinses, gels, lozenges, and sprays containing xylitol appear to be effective and safe
+### Referral
+- You may be referred on to another service.
+- For excess saliva, referral might be to:
+  - Speech and language therapists. They may teach you exercises.
+  - Physiotherapy or occupational therapy. They may give exercises to help posture or provide equipment. E.g. a tilting chair that allows your head to be upright. o Specialist hospital services for botulinum injections (Botox), into the salivary gland. This procedure carries some small risks, e.g. making the mouth too dry.
+- For dry mouth, referral might be to:
+  - Dieticians can give advice on foods to help.
+  - Other hospital specialties if a non-Parkinson’s cause is suspected.
 
-See extra information about some drugs that can make dry mouth worse.
+### Medication
+- Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your drugs.
+- **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 
-o Some Parkinson’s drugs, e.g., entacapone, rasagiline, selegiline, and maybe levodopa.  
-o Drugs for low mood  
-o Drugs for congestion  
-o Drugs for allergy  
-o Drugs for urinary symptoms (e.g., solifenacin, oxybutynin, tolterodine)  
-o Water tablets (e.g., furosemide)
+**Some drugs used for drooling:**
+- Glycopyrronium bromide
+- Hyoscine hydrobromide
+- Atropine drops under the tongue
+- Note these are unlicensed to use.
 
-Note: research does not support the effectiveness of acupuncture or electrostimulation for dry mouth.
+**Drugs that can make drooling worse:**
+- Drugs used for mental health problems, such as clozapine.
+- Drugs used for hallucinations and memory problems, e.g. rivastigmine.
 
-Key Messages  
-• Parkinson’s may cause too much saliva, or not enough saliva.  
-• There are things you can try for both of these.  
-• Saliva problems in Parkinson’s get worse over time. Sudden problems with saliva are likely due to another cause.
+**Some drugs used for dry mouth:**
+- Artificial saliva: Gels, sprays, tablets or lozenges. They act like saliva (e.g. Aquoral, Biotène Oralbalance gel or Xerotin). Lubricating sprays containing malic acid, physostigmine gel, and saliva substitutes containing citric acid appear to be most effective. Note products with citric acid should be used in conjunction with fluoride products.
+- There is some evidence that herbal products containing chamomile and linseed are effective.
+- There is some evidence that oxygenated glycerol triester (OGT) spray.
+- Products including toothpaste, mouth rinses, gels, lozenges, and sprays containing xylitol appear to be effective and safe.
+
+**Some drugs that can make dry mouth worse:**
+- Some Parkinson’s drugs, e.g., entacapone, rasagiline, selegiline, and maybe levodopa.
+- Drugs for low mood
+- Drugs for congestion
+- Drugs for allergy
+- Drugs for urinary symptoms (e.g., solifenacin, oxybutynin, tolterodine)
+- Water tablets (e.g., furosemide)
+
+Note: research does _not_ support the effectiveness of acupuncture or electrostimulation for dry mouth.
+
+---
+
+## Key Messages  
+- Parkinson’s may cause too much saliva, or not enough saliva.
+- There are things you can try for both of these.
+- Saliva problems in Parkinson’s get worse over time. Sudden problems with saliva are likely due to another cause.
+
+---
 
 More Information
 
