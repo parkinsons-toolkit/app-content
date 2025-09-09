@@ -1,90 +1,103 @@
 # Skin Conditions
+Skin conditions affect many people across the population. 
 
-## Introduction
-People with Parkinson’s can experience a variety of skin issues, including:  
-- **Oily skin**  
-- **Seborrhoeic dermatitis**: red, itchy, sore skin that may flake, peel, or develop thick crusts/scales  
-- **Wounds or ulcers** from delayed healing or pressure  
-- **Abnormal moles**  
+Conditions that can be more common in people with Parkinson’s are: 
+- Oily skin.
+- Seborrhoeic dermatitis: areas of the skin become red, itchy, and sore. The skin can peel or flake and can develop thick crusts or scales.
+- Wounds or ulcers from delayed healing or from pressure on a particular part of the body.
+- Abnormal moles.
 
 ---
 
 ## What Might Be Causing It?
 
 ### Oily Skin
-- Skin produces **sebum**, which keeps it supple.  
-- People with Parkinson’s may produce more sebum, causing the face and scalp to appear shiny and oily.  
+- The skin produces an oily substance called sebum, which protects the skin and keeps it supple.
+- People with Parkinson’s may produce more sebum than normal, which can make the face and 
+scalp oily and shiny. 
 
 ### Seborrhoeic Dermatitis
-- Cause is not fully understood, but a type of yeast on the skin may play a role.  
-- Not caused by poor hygiene.  
-- More common in men, possibly due to male hormones increasing sebum production.  
+- No one knows for sure what causes seborrheic dermatitis, but it’s thought that a type of yeast found on the skin may play a part.
+- It is not caused by poor personal hygiene.
+- It is not known for sure why seborrheic dermatitis is more common in people with Parkinson’s. It may be that people with Parkinson’s produce more sebum than normal.
+- Seborrhoeic dermatitis is more common in men overall. This is likely a result of male hormones increasing sebum production. 
 
 ### Wounds & Ulcers
-- **Peripheral neuropathy** may reduce sensation in extremities.  
-- Injuries or infections may go unnoticed and heal more slowly with age, poor nutrition, or other health conditions.  
-- Prolonged pressure on a body area increases risk of pressure ulcers.  
+- People with Parkinson’s can have ‘peripheral neuropathy’. This causes decreased sensation in the extremities. See the <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page for more information.
+- Decreased sensation may mean an injury, or infection in a body part like the foot takes longer to detect.
+- Healing from an injury may take longer with age, poor nutrition, or other health conditions.
+
+Prolonged pressure through an area of skin can cause damage. This is more likely in people who find moving around difficult.
 
 ### Abnormal Moles & Parkinson’s
-- Slightly higher risk of abnormal moles or melanoma in people with Parkinson’s.  
-- Melanoma is linked to UV light exposure.  
-- About 16,000 people in the UK are diagnosed with melanoma each year ([NHS Melanoma Info](https://www.nhs.uk/conditions/melanoma-skin-cancer)).  
+- Some research studies have shown that people with Parkinson’s have a slightly higher risk of developing abnormal moles or melanoma. People with melanoma have a greater risk of developing Parkinson’s.
+- The exact link has not been discovered, just a connection between the two for now.
+- Melanoma is a type of skin cancer. One of the main causes of melanoma is exposure to too much ultraviolet light in sunlight. About 16,000 people in the UK are diagnosed with melanoma each year. There is more information available on the <a href="www.nhs.uk/conditions/melanoma-skin-cancer" class="external-link" target="_blank" rel="noopener noreferrer">_NHS website_</a>.
 
-> Note: All of these skin issues also occur in people without Parkinson’s.  
+All of these skin issues are seen in people who don’t have Parkinson’s as well. And people with Parkinson’s can also get skin conditions that are completely unrelated to their Parkinson’s. Wounds and ulcers are more common in people who have decreased sensation for other medical reasons. An example of this would be those with diabetes.  
 
 ---
 
 ## What Should I Do About It?
-See your **GP promptly** if:  
-- A wound isn’t healing properly.  
-- A crusted, rough, raised spot or rash isn’t healing or is enlarging.  
-- A mole is concerning or has changed:  
-  - Size ≥ 5mm, irregular edges, multi-coloured, lop-sided/asymmetric, or changing.  
-
-Routine GP visits are appropriate for other skin conditions that are bothering you.  
+There are many things you can try for yourself as below, but there are some circumstances where you should seek professional help. 
+ 
+Make a GP appointment as soon as possible if: 
+- You have an area of your skin with a wound that isn’t healing properly.
+- You have a crusting or roughened spot/raised area or rash that isn’t healing or is getting larger.
+- You have a mole that concerns you or has recently changed. Features to look out for are: large size (5mm or more in diameter), irregular edges, multi-coloured, changing, or is asymmetric – for example is lop-sided. 
+ 
+The other skin conditions discussed here are not urgent, but if bothering you then make a routine GP appointment.
 
 ---
 
 ## What Can I Try for Myself?
 
 ### Seborrhoeic Dermatitis
-- Wash hair/beard with **ketoconazole, salicylic acid, selenium sulphide, or coal tar shampoo**.  
-- For crusts or scales:  
-  - Rub olive or mineral oil a few hours before washing.  
-  - Use a de-scaling agent (ketoconazole, salicylic acid, selenium sulphide, coal tar).  
-- Regular use of **tea tree oil shampoos** may help.  
-- Clean eyelids daily with cotton buds and baby shampoo.  
-- Avoid irritants on face and body.  
+- •	Wash your hair and beard with ketoconazole, salicylic acid, selenium sulphide, or coal tar shampoo. These are available from local pharmacies. See the below the ‘Further treatments’ for other treatments.
+- For hard-to-remove crusts or scales on the scalp and/or beard:
+  - Rub olive or mineral oil into the affected area a few hours before washing.
+  - Or use a de-scaling agent containing ketoconazole, salicylic acid, selenium sulphide, or coal tar. These are available from local pharmacies.
+- For scalp and/or beard maintenance: shampoos containing tea tree oil used regularly may be helpful.
+- For eyelids: Clean them daily with cotton buds moistened with baby shampoo.
+- Avoid irritants on face and body. 
 
 ### Oily Skin
-- Wash face with mild soap twice daily in warm water; rinse in cool water.  
-- Use water-based gels instead of oil-based creams.  
-- Avoid products containing alcohol or that irritate skin.  
-- Seek advice from a pharmacist or GP for suitable products.  
-
+- Wash your face with a mild soap twice daily in warm water and rinse in cool water.
+- If you use make-up and moisturisers:
+  - Try using water-based gels instead of oil-based creams.
+  - Avoid cosmetic products that contain alcohol, or that irritate your skin.
+- Speak to your pharmacist or GP for more advice on suitable products. 
+ 
 ### Wounds & Ulcers
-- Keep skin clean and dry, especially in folds and between toes.  
-- Regularly check for wounds, especially in areas with reduced sensation.  
-- Signs of poor healing: pain, bad smell, fluid leakage, swelling, enlarging wounds.  
-- Change position regularly to prevent pressure ulcers.  
-
+- Keep skin clean and dry: particular attention is needed for skin folds and between the toes.
+- Check the entire body for any wounds. This is especially in areas of the body with decreased sensation: o Check to make sure the skin is intact.
+  - If there are any spots where skin has broken down, continue to regularly check any small injuries for healing or infection.
+  - Pain, bad smell, fluid leakage, swelling, or increasing size are all signs that a wound is not healing properly.
+- Change your position regularly in chairs and in bed. This is so that you are not in the same position for many hours per day:
+  - Staying in the same position can lead to pressure ulcers. These are wounds from pressure being applied to the same area of the body. 
+ 
 ### Abnormal Moles
-- Check moles monthly; photograph or ask someone to help with hard-to-see areas.  
-- Be vigilant if you have:  
-  - High sun exposure or sunburn history  
-  - Many moles/freckles  
-  - Skin that doesn’t tan easily  
-  - Red/blonde hair or blue eyes  
-  - Close relatives with melanoma  
-- Look for: size >5mm, irregular edges, multi-coloured, asymmetric, changing.  
-- Protect skin from sun:  
-  - Use clothing, shade, and sunscreen (SPF ≥ 30, liberal and repeated application).  
-  - Avoid peak sun hours (11am–3pm, Mar–Oct in the UK).  
-  - Even on cloudy or cool days, UV exposure is possible.  
-  - Sunlight through windows does not produce enough Vitamin D.  
-  - October–March sunlight in the UK is insufficient for Vitamin D synthesis.  
-- See the **Eating Well** page for dietary Vitamin D sources.  
-- There is no safe way to get a tan from sunlight.  
+Check moles regularly (monthly), looking for any changes. You can ask someone else to check or photograph moles on your back. 
+
+You should be particularly careful if you have: 
+- Had a lot of sun exposure or sun burn in your life.
+- A lot of moles or freckles.
+- A skin type that does not tan easily.
+- Red or blonde hair and/or blue eyes.
+- A close relative has had melanoma.
+
+Features to look out for in your moles are:
+- Larger size (More than 5mm diameter)
+- Irregular edges
+- Multi-coloured
+- Asymmetric (lop-sided)
+- Changing
+
+- If a mole is changing or you have any concerns about its appearance it should be reviewed by your GP. If you are not sure if a mole is changing, you could take a photo of it for comparison.
+- Be careful with sun exposure. Some sun exposure is good and helps your body make vitamin D. However, too much sun exposure increases the risk of skin damage and skin cancer. Finding the balance can be tricky. There is no definitive recommendation for the amount of time that should be spent in the sun.
+- See the <a href="/learnliving-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for dietary information about Vitamin D.
+- 
+
 
 ---
 
