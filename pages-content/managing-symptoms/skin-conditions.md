@@ -79,20 +79,18 @@ The other skin conditions discussed here are not urgent, but if bothering you th
 ### Abnormal Moles
 Check moles regularly (monthly), looking for any changes. You can ask someone else to check or photograph moles on your back. 
 
-You should be particularly careful if you have: 
-- Had a lot of sun exposure or sun burn in your life.
-- A lot of moles or freckles.
-- A skin type that does not tan easily.
-- Red or blonde hair and/or blue eyes.
-- A close relative has had melanoma.
-
-Features to look out for in your moles are:
-- Larger size (More than 5mm diameter)
-- Irregular edges
-- Multi-coloured
-- Asymmetric (lop-sided)
-- Changing
-
+-You should be particularly careful if you have: 
+ - Had a lot of sun exposure or sun burn in your life.
+ - A lot of moles or freckles.
+ - A skin type that does not tan easily.
+ - Red or blonde hair and/or blue eyes.
+ - A close relative has had melanoma.
+- Features to look out for in your moles are:
+ - Larger size (More than 5mm diameter)
+ - Irregular edges
+ - Multi-coloured
+ - Asymmetric (lop-sided)
+ - Changing
 - If a mole is changing or you have any concerns about its appearance it should be reviewed by your GP. If you are not sure if a mole is changing, you could take a photo of it for comparison.
 - Be careful with sun exposure. Some sun exposure is good and helps your body make vitamin D. However, too much sun exposure increases the risk of skin damage and skin cancer. Finding the balance can be tricky. There is no definitive recommendation for the amount of time that should be spent in the sun.
 - See the <a href="/learnliving-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for dietary information about Vitamin D.
