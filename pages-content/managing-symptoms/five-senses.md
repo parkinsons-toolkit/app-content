@@ -1,91 +1,106 @@
 # 5 Senses
+- **Smell:** many people with Parkinson’s experience smell loss or a reduction in their sense of smell.
+- **Taste:** taste is closely linked with smell. Some people with Parkinson’s notice changes in their sense of taste.
+- **Touch:** touch is not directly affected by Parkinson’s. People with Parkinson’s can have peripheral neuropathy (a nerve condition) which may be related to treatment of Parkinson’s. You might also have increased sensitivity and pain.
+- **Sight:** some people with Parkinson’s experience problems with focusing, seeing two of something (double vision), dry eyes, or changes to how they see colour. Parkinson’s is not known to cause loss of sight.
+- **Hearing:** research has so far shown mixed results about changes to hearing in Parkinson’s. Hearing loss is associated with increasing age. 
 
-## Overview
-- **Smell**: many people with Parkinson’s experience smell loss or reduced sense of smell.  
-- **Taste**: closely linked with smell, some notice taste changes.  
-- **Touch**: not directly affected by Parkinson’s, but peripheral neuropathy and increased pain/sensitivity may occur.  
-- **Sight**: may include difficulty focusing, double vision, dry eyes, or changes in colour perception. Parkinson’s does not cause complete sight loss.  
-- **Hearing**: mixed research results; hearing loss is mainly age-related.  
-
-Sensory changes are important to identify for **safety reasons**, particularly if you drive.
+Sensory changes are important to identify for safety reasons, particularly if you drive.
 
 ---
 
 ## What might be causing it?
 
 ### Smell & Taste
-- Can be directly affected by Parkinson’s  
-- Other causes: smoking, infections (sinusitis, Covid-19), nasal polyps  
+As described above, smell and taste changes can be directly caused by Parkinson’s. Other causes include smoking, past or present infections (e.g. sinusitis, Covid-19), and nasal polyps.  
 
 ### Touch
-- Pain and sensitivity may change with Parkinson’s medication (see *Pain* section)  
-- **Peripheral neuropathy** can cause tingling, reduced sensation, or pain in hands/feet  
-  - Causes include: diabetes, long-term alcohol use, vitamin B12 deficiency  
-  - More common in people receiving *intraduodenal gel infusion (duodopa)*  
-- Can also result from nerve damage or compression (injury, arthritis)  
+Pain and sensitivity caused by Parkinson’s may change in response to Parkinson’s medication. For more information see our <a href="/learn/managing-symptoms/pain" class="internal-link">_Pain_</a> page.
+
+Peripheral Neuropathy is a nerve condition that can cause symptoms such as reduced sensation, pain or tingling in hands and/or feet. There are _many_ causes of peripheral neuropathy. These include:
+- Diabetes
+- Long-term alcohol use
+- Nutrient deficiencies (e.g. vitamin B12 deficiency)
+
+There may be an association between Parkinson’s and peripheral neuropathy, but it is not fully understood. This may relate to long-term use of Parkinson’s medication and low vitamin B12 levels. 
+
+It is more common in people receiving medication directly into the gut via a feeding tube (intraduodenal gel infusion, ‘duodopa’). 
+
+Changes in sense of touch can also be the result of nerve damage or compression (e.g. from an injury or arthritis). This is often associated with pain.
 
 ### Sight
-- Eye movement slowing → double vision  
-- Reduced blinking → dry eyes, difficulty focusing  
-- Eyelid spasms (blepharospasm) → involuntary eye closure  
-- Low dopamine → duller or similar-looking colours  
-- Parkinson’s medications may cause dry eyes  
-- Other causes of vision changes: cataracts, glaucoma, macular degeneration  
-- Parkinson’s does not usually cause sudden vision loss  
+Parkinson’s can cause sight changes in a number of ways, but many people have no problems with their sight. 
+- Slowing of eye movements can mean eyes don’t move together as well, leading to double vision.
+- Slowing of eye lid movement means less blinking. This can cause dry, irritated eyes or difficulty focusing.
+- Spasms of the eyelid muscles can cause involuntary eye closure, called blepharospasm.
+- Involuntary movements can affect the eye lids leading to involuntary eye closure.
+- Some parts of the eye (retinal cells) need dopamine for colour vision. Low levels of dopamine in Parkinson’s can cause colours to look subtly dull or similar to one another.
+- Some medication used in Parkinson’s can cause dry eyes.
+- Seeing things that aren’t there is covered separately – see the <a href="/learn/managing-symptoms/hallucinations" class="internal-link">_Hallucinations_</a> page. 
+
+These sight changes can also be caused by a range of other conditions. Parkinson’s does not tend to cause sudden sight changes. Slow loss of vision is most likely due to eye conditions, such as cataracts, glaucoma or macular degeneration.
 
 ### Hearing
-- Age-related hearing loss (presbycusis) is common  
-- Parkinson’s may affect:  
-  - Sound detection  
-  - Processing multiple voices, especially when stressed or tired  
-- Other causes: ear wax, infections, age-related decline  
+A slow deterioration in hearing is common with increasing age. It is possible that Parkinson’s may affect: 
+- Hearing sound. Research is ongoing to understand this more.
+- Processing and understanding sound. Some people with Parkinson’s find it difficult to listen when multiple people are talking at once. This is made more difficult if you are stressed or tired. 
+
+Parkinson’s is not known to cause sudden loss of hearing. Hearing difficulty can be caused by a range of other problems, such as build-up of ear wax, age-related hear loss (also known as _presbycusis_) or ear infections. 
 
 ---
 
 ## What should I do about it?
+There are many things you can try for yourself, but there are times when you should seek professional advice.
 
-- **Gradual changes**:  
-  - Routine assessment (optician for sight, hearing test via GP or optician, GP for other changes)  
-- **Sudden significant changes**: urgent medical assessment  
-- Don’t assume changes are only due to age or Parkinson’s  
-- **Driving**:  
-  - Check DVLA vision standards  
-  - Notify DVLA if you do not meet required standards  
+- Small gradual changes should be assessed **routinely**.
+  - You could go to the optician for sight changes.
+  - Some opticians offer hearing assessments.
+  - For other changes, see your GP and let your Parkinson’s specialist team know.
+- Sudden significant changes in sensory function should be assessed **urgently**.
+  - E.g. sudden loss of vision, sudden loss of touch-feeling in a limb 
+
+If you have a new concern about sensory changes, don’t automatically blame it on your age or Parkinson’s. Your GP or Parkinson’s specialist team can assess if more tests are needed. 
+
+If you are a driver, see the DVLA ‘standards of vision for driving’. You don’t need to notify the DVLA about changes in colour vision, or about long or short sightedness if you can meet these standards. If you have other problems with your sight, you should notify the DVLA. There is more guidance about this available on the<a href="https://www.gov.uk/driving-eyesight-rules" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK website</a>. 
 
 ---
 
 ## What can I try for myself?
 
 ### If you have changes in smell and taste
-- Maintain a healthy weight (see *Eating Well* and *Weight & Appetite Loss*)  
-- Use textures to make food enjoyable  
-- Be cautious of food past its best (check dates, label once opened)  
-- Gas safety: service appliances regularly, consider gas detectors  
-- Stop smoking  
+Although the changes in smell or taste in Parkinson’s cannot be cured, there are things to consider. 
+- It is important to maintain a healthy body weight even if you don’t enjoy food as much. See the <a href="/learn/managing-symptoms/weight" class="internal-link">_Weight_</a> and <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> pages for more information. If you can’t taste as well, perhaps there are different textures that can liven up your food?
+- You might be less sensitive to food that has gone past its best. Keep an eye on the ‘best before’ dates and label food once opened.
+- Safety at home: you may be less sensitive to the smell of a gas leak. Make sure gas appliances are serviced regularly and consider getting a gas detector.
+- If you smoke, consider stopping. 
 
 ### If you have changes in vision
-- Regular eye checks with optician  
-- Improve lighting; use night lights if vision is worse in dark  
-- Large print or audio-books (libraries, RNIB)  
-- Assistive technology (screen readers, talking clocks)  
-- Over-the-counter eye drops/ointments for dry eyes (ask pharmacist)  
-- Blink consciously to reduce eye dryness  
-- Safety:  
-  - Take care with sharp objects, road crossing  
-  - Prevent falls (remove rugs, manage steps – see *Balance & Falls*)  
-  - Follow DVLA guidance for driving  
+- Have your vision checked at your local optician if not done so recently. They might find correctable causes. They can also recommend referral to a low vision service for support with vision aids that can help.
+- Make sure there’s good lighting: vision is generally better with more light. If your vision is causing trouble getting around at night, try night lights.
+- Look for reading material in large print format.
+- If reading is difficult, how about audio books (often available from your local library) or podcasts?
+- The Royal National Institute of Blind People (RNIB) have a large selection of books in large print or as audio books and can also arrange subscription to magazines and newspapers in easy-to-read formats that are delivered to you (See More Information section at the end of this section).
+- Assistive technology is an ever-growing field. From screen readers for computers, through to talking clocks, there is much out there to ease the impact of sight loss. (See More Information at the end of this section).
+- If your eyes are dry, you can try eye drops and ointments over-the-counter. Ask your pharmacist for more advice.
+- Try to blink regularly. People with Parkinson’s often blink less without realising, so may need to make more of a conscious effort to blink.
+- Safety considerations: be aware of your safety both around the home (e.g. using sharp objects) and when out and about (e.g. crossing the road).
+  - Poor vision might affect your risk of having a fall, for example by tripping on a rug or misjudging the depth of steps. See Balance & Falls for tips on reducing this risk. 
 
 ### If you have changes in hearing
-- Consider NHS or private hearing aids (smaller, better modern models)  
-- Assistive technology: telecom devices, hearing loops, vibrating alarms, visual doorbells  
-- Ensure you can hear alarms (or use visual alternatives)  
+- Many hearing impairments can improve with hearing aids. The new models now available on the NHS are a great improvement on older versions. They have a range of types, they are smaller and neater, and they work better. These are usually arranged via referral by your GP to an audiology clinic. There are also many private providers (including some opticians) that can provide hearing aids.
+- Assistive technology can help to ease the impact of hearing loss, such as:
+  - Telecommunication devices
+  - Hearing loops
+  - Vibrating alarm clocks
+  - Visual doorbells
+- Safety considerations: can you hear alarms? If not, consider visual alarms. 
 
 ### If you have changes in touch
-- Eat a varied diet to prevent deficiencies  
-- Check skin regularly (especially hands and feet) for injuries  
-- Be cautious with very hot or very cold objects (burn/frostbite risk)  
+- Eat a varied diet to ensure adequate nutrient intake. See <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> for more information.
+- Be aware of your skin as you may be less sensitive to changes or injuries. Try to routinely check your skin, particularly on the hands and feet, for cuts or damage.
+- Safety considerations: be careful with objects that are very hot or very cold as they could cause burns without you noticing. 
 
-See *General Medical Advice* and *Reading, Writing & Technology* pages for additional tips.
+More general tips to maintain healthy eyes, ears, skin and feet are covered on the <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page. Practical advice to deal with the impact of sensory changes can also be found on the <a href="/learn/living-with-parkinsons/practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> page. 
 
 ---
 
