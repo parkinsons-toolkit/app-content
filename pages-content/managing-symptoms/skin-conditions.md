@@ -53,7 +53,7 @@ The other skin conditions discussed here are not urgent, but if bothering you th
 ## What Can I Try for Myself?
 
 ### Seborrhoeic Dermatitis
-- •	Wash your hair and beard with ketoconazole, salicylic acid, selenium sulphide, or coal tar shampoo. These are available from local pharmacies. See the below the ‘Further treatments’ for other treatments.
+- Wash your hair and beard with ketoconazole, salicylic acid, selenium sulphide, or coal tar shampoo. These are available from local pharmacies. See the below the ‘Further treatments’ for other treatments.
 - For hard-to-remove crusts or scales on the scalp and/or beard:
   - Rub olive or mineral oil into the affected area a few hours before washing.
   - Or use a de-scaling agent containing ketoconazole, salicylic acid, selenium sulphide, or coal tar. These are available from local pharmacies.
@@ -79,7 +79,7 @@ The other skin conditions discussed here are not urgent, but if bothering you th
 ### Abnormal Moles
 Check moles regularly (monthly), looking for any changes. You can ask someone else to check or photograph moles on your back. 
 
--You should be particularly careful if you have: 
+- You should be particularly careful if you have: 
  - Had a lot of sun exposure or sun burn in your life.
  - A lot of moles or freckles.
  - A skin type that does not tan easily.
