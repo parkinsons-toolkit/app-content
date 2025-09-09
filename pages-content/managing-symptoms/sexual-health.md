@@ -27,7 +27,7 @@ Parkinson's can impact on a person's sex life in various ways:
 •	**Reduced arousal and orgasm:** Parkinson’s can affect the body’s sexual function. 
 •	**Confidence.**
 
-Some Parkinson’s medicines (e.g. dopamine agonists) can cause ‘hypersexuality’. This is a marked increase in sexual interest, arousal, and behaviour. It might mean having more sexual thoughts or desire for different sexual practices. See the _Impulsive Behaviours_ page for more information. 
+Some Parkinson’s medicines (e.g. dopamine agonists) can cause ‘hypersexuality’. This is a marked increase in sexual interest, arousal, and behaviour. It might mean having more sexual thoughts or desire for different sexual practices. See the <a href="/learn/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page for more information. 
 
 ---
 
