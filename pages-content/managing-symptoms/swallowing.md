@@ -65,69 +65,64 @@ _Tip: Swallowing - When swallowing food or drink, following the process below st
 6.	Try licking round the mouth with your tongue to check all the food has gone.
 7.	Repeat steps until you are finished eating or drinking.
 
+---
+
 ## My Experience
+People affected by Parkinson’s describe their experiences.
 
 > “Things like chilli con carne, spaghetti Bolognese because they’re not big pieces of meat. But like if he’s got a chicken breast and when you cut things up … sloppier foods are obviously better than, you know, chunky foods.”  
-> — Carer of someone with Parkinson’s
+> _(Carer of someone with Parkinson’s)_
+
+---
 
 ## Further Assessment
 
 ### Questions
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
-Healthcare professionals are likely to ask more questions. Consider recording your answers in your “My Health” section to bring to your appointment. They might ask:
-
-- Are you having problems swallowing food, liquids, or tablets (or a combination)?
+**They may ask about:**
+- Are you having problems swallowing food, liquids, or tablets (or a combination of these)?
 - Have you had any unintentional weight loss?
 - Do you have pain when swallowing?
 - Has your voice changed?
-- Do you have heartburn, nausea, or vomiting?
+- Do you have heartburn, nausea or vomiting? 
 
-### Track your symptoms
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+- It can be helpful to track your swallowing problems for 3 days to show healthcare professionals. This will help them identify any patterns. 
+- Record when it happens, what types of foods or drinks are difficult to swallow, any other issues you are having around 	swallowing, 	and 	when 	you 	take 	your medications. 
 
-Tracking your symptoms can help identify patterns and support discussions with healthcare professionals.
+### Tests
+- Most cases do not need further tests.
+- In other cases, depending on their assessment, your healthcare professional may recommend tests such as a blood test or camera test to look at your food pipe (this is called an endoscopy). 
 
-# Activity Tracker and Further Management of Swallowing Difficulties
-
-## Activity Tracker
-
-- It can be helpful to track your swallowing problems for 3 days to show healthcare professionals. This helps them identify patterns.
-- Record the following:
-  - When swallowing difficulties occur
-  - Types of foods or drinks that are difficult to swallow
-  - Any other issues related to swallowing
-  - Timing of your medications
-
-## Tests
-
-- Most cases do not require further tests.
-- If needed, your healthcare professional may recommend:
-  - Blood tests
-  - Camera tests to examine your food pipe (endoscopy)
+---
 
 ## Further Treatments
 
 ### Medication
-
-- Swallowing difficulties may worsen when Parkinson's medication has worn off. Adjustments to your medication regimen may help—discuss this with your Parkinson’s specialist team.
+- If the swallowing difficulties happen when your Parkinson's medication has worn off, then changes to your medication regimen may help. Your Parkinson’s specialist team can advise on this.
 - Sedating medications can make swallowing problems worse.
-- **Do not change your medication regime without consulting a healthcare professional.**
+- **Please do not make any changes to your medication regime without speaking with a healthcare professional.** 
 
-### Referral to Other Services
+### Referral
+You may be referred on to another service.
 
-You may be referred to specialist services depending on your assessment:
+Typical referrals for swallowing problems might include:
+- **Speech and Language Therapists** – assess and work with people with swallowing difficulties, teaching useful techniques and exercises. They also advise on the consistency of food that is safe to swallow and assess what type of straw is best to use.
+- **Occupational Therapists** – can provide people with equipment to help them eat and drink. 
+- **Dieticians** – review people who are very underweight and help improve diets by looking at the combination of food groups. 
+- **Physiotherapists** – Hcan provide help with posture while eating. 
+- o	Depending on the assessment, you may be referred to other hospital specialities (e.g. Ear Nose and Throat specialists or Gastroenterologists) particularly if a non-Parkinson’s cause is suspected.
 
-- **Speech and Language Therapists** – Assess swallowing, teach techniques and exercises, advise on food consistency, and recommend suitable straws.
-- **Occupational Therapists** – Provide equipment to assist with eating and drinking.
-- **Dieticians** – Support people who are underweight and advise on diet adjustments.
-- **Physiotherapists** – Help with posture while eating.
-- **Hospital Specialties** – Ear, Nose, and Throat specialists or Gastroenterologists if a non-Parkinson’s cause is suspected.
+If you are having significant and progressive difficulties swallowing, there is more information on the _Progression of Symptoms_ page.
 
-If you are experiencing significant and progressive difficulties swallowing, see the _Progression of Symptoms_ page for further information.
+---
 
 ## Key Messages
+- Problems with swallowing tablets, liquid, or food can happen at any time during Parkinson’s.
+- Speak with your GP or healthcare professional as soon as you notice any difficulty swallowing, or if it gets significantly worse, as it may need further assessment. 
 
-- Problems with swallowing tablets, liquids, or food can occur at any stage of Parkinson’s.
-- Speak with your GP or healthcare professional as soon as you notice swallowing difficulties or if they worsen significantly. Early assessment may prevent more serious complications.
+---
 
 ## More Information
 
