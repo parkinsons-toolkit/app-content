@@ -36,7 +36,7 @@ At times, issues with sexual function are normal and may improve on their own. B
  
 If the problems are more frequent and bother you, talk to your GP or Parkinson’s specialist team. Many people are embarrassed by talking about sex - but remember these conversations are private and confidential. There are possible changes that can be made to medication that may improve your symptoms so do not be afraid to talk about it. 
 
-**Hypersexuality:** If very mild, some couples may feel happy about the increase in sexual activity. But if sexual desires feel out of control, out of character or cause noticeable changes in behaviour then this should be addressed. Speak to your Parkinson’s specialist team urgently if this is the case. For more information, see the _Impulsive Behaviours_ page.
+**Hypersexuality:** If very mild, some couples may feel happy about the increase in sexual activity. But if sexual desires feel out of control, out of character or cause noticeable changes in behaviour then this should be addressed. Speak to your Parkinson’s specialist team urgently if this is the case. For more information, see the <a href="/learn/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page.
 
 <div class="video-container">
 <iframe 
@@ -56,18 +56,18 @@ If the problems are more frequent and bother you, talk to your GP or Parkinson�
 - Some sexual positions might be easier than others.
 - Try different times of the day. Ease of movement can change during the day and in response to medication, so you may find some times are better for you than others. 
 
-For more information on movement problems, see our _Involuntary Movement_ page.
+For more information on movement problems, see our <a href="/learn/managing-symptoms/movement" class="internal-link">_Movement_</a> page.
 
 ### Fatigue
 - It may help to try being intimate or having sex at a different time of day or when you have increased energy levels. 
 
-For more information, see our _Tiredness & Fatigue_ page. 
+For more information, see our <a href="/learn/managing-symptoms/tiredness" class="internal-link">_Tiredness_</a> page. 
 
 ### Bladder & Bowel Problems
 - For urinary incontinence: you could try going to the toilet before having sex.
 - For bowel incontinence: you could try using an enema before sex, or an anal plug to stop leakage. 
 
-For more advice on bladder and bowel issues, see _Urinary Symptoms_ and _Bowel Symptoms_ pages. 
+For more advice on bladder and bowel issues, see the <a href="/learn/managing-symptoms/urination" class="internal-link">_Urination_</a> and <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel_</a> pages. 
 
 ### Lowered Sex Drive
 - If you are feeling low in mood, anxious or tired, see the symptom pages for each of these for more advice.
@@ -126,7 +126,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 ### Therapy & Counselling
 - **Relationship counselling:** Counsellors can work with couples and individuals (meaning you can go alone if you’re single or if your partner does not wish to join).
   - Ask your GP for services available in your area.
-  - Contact your local Relate centre. Visit their website to find your nearest Relate and give them a call. You can find contact details in our _Useful contacts table_ section.
+  - Contact your local Relate centre. Visit their website to find your nearest Relate and give them a call. You can find contact details at the bottom of this page.
 - **Counselling and psychotherapy for sexual problems:** Counselling or psychotherapy may help you to talk openly about any sexual problems you are having. They can also support you to find ways of making helpful changes.
   - Ask your GP for services available in your local area.
 - **Psychosexual therapy:** A psychosexual therapist is trained in all aspects of sex and can help you to understand the effects of medication and health conditions on sex.
