@@ -118,45 +118,49 @@ _**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">
 - For sleep disturbance, it is useful to record when it occurs and exactly what happens. It can be helpful to record when you take your medication as well to see if it is related to sleep disturbance.
   - It may be that your bed partner will be able to give you more details. 
 
-
 ### Tests
-  - Usually not needed, but sometimes a sleep study may be recommended.
+Tests are rarely needed but occasionally ‘sleep studies’ are run. This may involve applying a sleep monitor at home, or a short hospital stay to have sleep monitored. 
 
 ---
 
-## Medication Options
+## Further treatments
 
-- **May help**:
+### Medication
+- Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication if within their expertise.
+- **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
+- Levodopa and dopamine agonists help sleep in some cases and make it worse in other cases. This can be a very tricky balance and is best discussed with your Parkinson’s specialist team. 
 
-  - Optimized Parkinson’s meds (Levodopa, dopamine agonists).
-  - Slow-release forms or patches for overnight coverage.
-  - Melatonin, clonazepam (for REM Sleep Behavior Disorder).
+**Some medication used for sleep symptoms:**
+- Optimising Parkinson’s medications, to improve dopamine activity overnight, may improve sleep symptoms. This may be through using levodopa or a dopamine agonist. In some cases, a more steady level is achieved through slow acting levodopa, or other routes of medication delivery (e.g. rotigotine patch, apomorphine infusion or intraduodenal levodopa).
+- Sometimes a medication called melatonin is used. o There is weak evidence for zolpidem, quetiapine and clozapine.
+- Melatonin and clonazepam are potential medication for REM Sleep Behaviour Disorder which is covered on the <a href="/learn/managing-symptoms/dreams" class="internal-link">_Dream Disturbances_</a> page. 
 
-- **May worsen sleep**:
-  - Amantadine, Selegiline, high-dose Levodopa, some dopamine agonists.
-  - Opiates, SSRIs, ephedrine.
+**Some medication that may make sleep symptoms worse:**
+Sometimes the timing of these medicines can be adjusted to help sleep.
+- Amantadine
+- Selegiline
+- Levodopa (particularly higher dose)
+- Some long-acting dopamine agonists, and some of the older (rarely used now) dopamine agonists (Pergolide, Cabergoline)
+- Opiates
+- Medications used for depression, e.g. SSRIs
+- Ephedrine 
+
+### Referral
+You may be referred on to another service. Please be aware there is usually a waiting time before that next service will see you. Referrals may be made for specific contributory symptoms:
+- Urology for urinary symptoms
+- Psychology or psychiatry for mood symptoms
+- Sleep or Respiratory clinics for suspected obstructive sleep apnoea
+- Sleep clinics for dream disturbances. 
+
+Referrals may also be made to help with strategies or equipment for moving in or around bed. These will usually be for Physiotherapy and/or Occupational Therapy. 
 
 ---
 
-## Tracking Symptoms
-
-- Use a sleep diary to record:
-  - Bedtime/wake time
-  - Night-time awakenings
-  - Medication timing
-  - Other symptoms (pain, cramps, urinary needs)
-  - Partner observations (if possible)
+## Key Messages
+- Parkinson’s can affect sleep in many different ways, with various ways of tackling the different problems.
+- Routine and lifestyle factors can have a significant impact on your sleep. 
 
 ---
-
-## Key Takeaways
-
-- Parkinson’s affects sleep via dopamine changes, movement difficulties, and other symptoms.
-- Lifestyle and environmental adjustments can help improve sleep.
-- Medications may need optimization but never change them without professional guidance.
-- Severe or persistent sleep problems should be discussed with your GP or Parkinson’s specialist.
-
-# Additional Resources and Dream Disturbances in Parkinson’s
 
 ## Organisations for Support and Information
 
