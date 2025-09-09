@@ -12,7 +12,7 @@ Sweating is normal and helps your body regulate its temperature. Some people wit
 </div>
 
 ---
-## What Might Be Causing It?
+## What might be causing it?
 The system that regulates many automatic responses of the body (known as the _autonomic nervous system_) may be impacted by Parkinson’s. This includes sweat production.
 
 ### Sweating Too Much (Hyperhidrosis)
@@ -38,7 +38,7 @@ This can occur in Parkinson’s for example:
 
 ---
 
-## What Should I Do About It?
+## What should I do about it?
 Excessive sweating can be very challenging to deal with. There are some suggestions for ways to manage it below. If sweating is still very bothersome, despite having tried these things regularly for a month or so, discuss with your GP or Parkinson’s specialist team. You should seek help more urgently if you are _**not**_ producing sweat and feeling faint or dizzy in warm situations.
 
 <div class="video-container">
@@ -53,7 +53,7 @@ Excessive sweating can be very challenging to deal with. There are some suggesti
 
 ---
 
-## What Can I Try for Myself?
+## What can I try for myself?
 
 ### Sweating Too Much (Hyperhidrosis)
 - If possible, identify any foods or drinks that trigger sweating and avoid them o Common triggers include: spicy foods, alcohol, caffeine.
@@ -73,10 +73,10 @@ Excessive sweating can be very challenging to deal with. There are some suggesti
 
 ---
 
-## Further Assessment
+## Further assessment
 
 ### Questions
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your _My Health_ section to bring to the appointment. 
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They might ask about:**
 - When the problem occurs, if there are any triggers and any related symptoms.
@@ -84,7 +84,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 
 Ensure you tell them if you have had any times when you have fainted. They may ask when the problem started, and things you have tried already to help. 
 
-**Track your symptoms in the _Symptom and Activity Tracker_**
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
 - This can help you to recall the details of when sweating is a  problem for you and help the professional identify patterns.
 - Perhaps for 3 days record when the problem occurs and what you are doing at the time. Also record whether you have any other symptoms at the time and when you have taken your medication. 
 
