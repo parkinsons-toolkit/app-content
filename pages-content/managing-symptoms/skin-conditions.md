@@ -79,7 +79,7 @@ The other skin conditions discussed here are not urgent, but if bothering you th
 ### Abnormal Moles
 Check moles regularly (monthly), looking for any changes. You can ask someone else to check or photograph moles on your back. 
 
-- You should be particularly careful if you have: 
+- You should be particularly careful if you have:
  - Had a lot of sun exposure or sun burn in your life.
  - A lot of moles or freckles.
  - A skin type that does not tan easily.
