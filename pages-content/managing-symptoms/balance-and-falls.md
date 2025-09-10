@@ -151,6 +151,7 @@ For more on all of these aspects, see the <a href="/learn/living-with-parkinsons
 More information about these systems is available on the [NHS website](link) and the [Which? Later Life Care](link) website.
 
 ---
+
 ## My Experience
 People affected by Parkinson’s describe their experiences.
 
