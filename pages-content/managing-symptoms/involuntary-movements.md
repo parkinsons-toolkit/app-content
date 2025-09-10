@@ -53,3 +53,71 @@ People affected by Parkinson’s describe their experiences.
 Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
+- When does the dyskinesia happen?
+  - Before you take your medication (and how long before)?
+  - After you take your medication (and how long after you take your medication)?
+  - Do they happen in between doses of medication (how much time has passed between doses?)
+- How many hours per day do you think you are having dyskinesias?
+- Does it bother you? What is the impact of the dyskinesia?
+- Have you noticed weight loss?
+- Does dyskinesia cause you balance problems or falls?
+- Have you sustained any injuries related to the extra movements? 
+
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+- This can help you to recall the details and help the professional identify patterns.
+- For 3-5 days you could monitor your dyskinesias and when you take your medication. This will help you to notice any patterns in your dyskinesias. 
+
+---
+
+## Further treatments
+A healthcare professional may be able to offer support, advice, or further treatment. They may suggest a change in your treatment if the dyskinesias are severe or bothering you. 
+
+### Medication
+- Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication if it’s within their expertise.
+- **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
+- Changes to medication to control dyskinesia would most likely be made by your Parkinson’s specialist team. 
+
+**Changes they might recommend:**
+- They may _**change the dose**_ of your antiparkinsonian medications, as lowering doses can sometime reduce dyskinesias (or occasionally increasing it).
+- They may change the _**timing**_ of your medication:
+  - Splitting the entire daily dose of levodopa into smaller, more frequent doses may be helpful for managing dyskinesia.
+- They may _**change**_ which medication you take:
+  - For example, changing from one antiparkinsonian treatment to another.
+  - Stopping or starting a long-acting antiparkinsonian medication.
+  - They may _**add**_ medications to your current regimen, for example adding one of the following medications:
+    - Amantadine
+    - Dopamine agonist (e.g. ropinirole, or rotigotine)
+    - COMT inhibitor (e.g. entacapone)
+    - MAO-B inhibitor (e.g. safinamide) 
+
+### Referral
+- You may be referred on to another service. There is usually a waiting time before that next service will see you.
+- If dyskinesia is impacting on your daily activities, your GP or Parkinson’s specialist team may refer you to an occupational therapist. An occupational therapist can help assess whether you'd benefit from additional equipment or support.
+- In severe cases where medication is not helping, more advanced therapies may be considered. This often involves a referral to a specialist centre for an assessment. These therapies include:
+  - Apomorphine – continuous infusion of medication under the skin
+  - Intraduodenal levodopa – continuous infusion of gel form levodopa via the intestine
+  - Deep brain stimulation (DBS) surgery 
+
+See <a href="/learn/treatments-and-therapies/medications" class="internal-link">_Medication_</a> and <a href="/learn/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> pages for more information. 
+
+---
+
+## Key Messages
+- Dyskinesias are involuntary muscle movements that include swaying, twisting, bobbing, or swaying motions.
+- Dyskinesias may happen right before, right after, or between medication doses and the treatment differs for each.
+- Changes to medication type and schedule are common management strategies for dyskinesia. 
+
+---
+
+More Information 
+Please look at the bottom of the table for further information about call charges
+
+| Organisation | Information About | Phone Number | Website |
+|--------------|-------------------|--------------|---------|
+| **European Parkinson’s Disease Association** | Outlines Dyskinesia and provides some support and ways to manage it. | — | [www.epda.eu.com/about-parkinsons/symptoms/motor-symptoms/dyskinesia/](https://www.epda.eu.com/about-parkinsons/symptoms/motor-symptoms/dyskinesia/) |
+| **Mind** | Mind is a mental health charity with advice on how to improve your wellbeing, including relaxation exercises to manage stress. | 0300 123 3393 *<br>For information about support and services available.<br>Infoline open 9am–6pm (Mon–Fri) | [www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/relaxation-tips/#.XaRamflKi70](https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/relaxation-tips/#.XaRamflKi70) |
+| **Parkinson’s UK** | Provides information about causes of Dyskinesia and how to manage it. Also includes information on complementary therapies, such as massage therapy. You can view this information online, print it, or have it mailed to you. | 0808 800 0303<br>Free helpline: 9am–7pm (Mon–Fri), 10am–2pm (Sat) | Information about Dyskinesia: [www.parkinsons.org.uk/information-and-support/wearing-and-dyskinesia](https://www.parkinsons.org.uk/information-and-support/wearing-and-dyskinesia)<br>Complementary Therapies: [www.parkinsons.org.uk/information-and-support/complementary-therapies](https://www.parkinsons.org.uk/information-and-support/complementary-therapies) |
+
+---
+
+**\*** Calls cost up to 10p/minute from landlines, between 3p–40p/minute from mobile phones. You may get this call for free depending on your phone provider.
