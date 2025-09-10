@@ -122,8 +122,11 @@ The main treatments for these symptoms are (physical) therapies and medication.
 
 ---
 
+More Information 
+
 | Organisation | Information About | Phone Number | Website |
 |--------------|-------------------|--------------|---------|
 | **European Parkinson’s Disease Association (EPDA)** | Offers in-depth information about rigidity. They also have some videos you can watch to help cope with rigidity. These are at the bottom of this website or under ‘YouTube’ in this section. | — | [www.epda.eu.com/about-parkinsons/symptoms/motor-symptoms/rigidity/](https://www.epda.eu.com/about-parkinsons/symptoms/motor-symptoms/rigidity/) |
 | **Michael J. Fox Foundation** | This American organisation has compiled five ways to help muscle stiffness in Parkinson’s. | — | [www.michaeljfox.org/news/five-ways-help-muscle-stiffness-parkinsons-disease](https://www.michaeljfox.org/news/five-ways-help-muscle-stiffness-parkinsons-disease) |
 | **Parkinson’s UK** | This charity has information about rigidity and slowness of movement with Parkinson’s. You can print this information, read it online, or have it mailed to you. | 0808 800 0303<br>Free helpline: 9am–7pm (Mon–Fri), 10am–2pm (Sat) | Rigidity: [www.parkinsons.org.uk/information-and-support/rigidity](https://www.parkinsons.org.uk/information-and-support/rigidity)<br>Slowness of Movement: [www.parkinsons.org.uk/information-and-support/slowness-movement](https://www.parkinsons.org.uk/information-and-support/slowness-movement) |
+| **YouTube** | YouTube is a platform where people and organisations can post video content about various topics. The European Parkinson’s Disease Association has posted some tips and tricks for rigidity. | — | [www.youtube.com](https://www.youtube.com)<br>Type in: “EPDA Coping Strategies – Tips & Tricks for Rigidity” into the search function to find the videos. |
