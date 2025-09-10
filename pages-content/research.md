@@ -3,7 +3,9 @@ Research plays an important role in increasing our knowledge of human health and
 
 This section has 2 key parts:
 1. Taking part in research – describes some reasons people choose to get involved in research and details of what this might entail.
-3. Different type of research in Parkinson’s giving an overview of the range of research in Parkinson’s.
+2. Different type of research in Parkinson’s giving an overview of the range of research in Parkinson’s.
+
+---
 
 ## Taking Part in Research
 Depending on the type of study, by taking part in research you may be able to:
@@ -11,7 +13,7 @@ Depending on the type of study, by taking part in research you may be able to:
 - Make a difference now and for future generations by helping to improve treatments and people’s quality of life
 - Support research for a condition you care about
 - Access new treatments
-- Take an active role in your own care  
+- Take an active role in your own care
 
 ### What types of research are there that you could take part in?
 There are different types of research you can take part in. Research studies can range from testing new medical treatments or new devices, to carrying out interviews or surveys on a whole range of topics. This means there is a choice, making it easier for you to find the right study for you.
@@ -33,7 +35,7 @@ Studies vary in their design depending on what the research is aiming to do.
 Before taking part in a study, a researcher will make sure that you have been told all about the study. You will also have the chance to ask questions. You will then be asked to sign a consent form. This shows that anyone taking part in research
 has completed informed consent, understands the purpose, benefits, and potential risks of taking part in the study, and has agreed to take part.
 
-For a list of helpful questions you can ask researchers to help you better understand the study, see the National Institute for Health Research's (NIHR) [Be Part of Research](https://bepartofresearch.nihr.ac.uk/) site.
+For a list of helpful questions you can ask researchers to help you better understand the study, see the <a href="https://bepartofresearch.nihr.ac.uk/" class="external-link" target="_blank" rel="noopener noreferrer">National Institute for Health Research's (NIHR) 'Be Part of Research'</a> site.
 
 Although most research relies on volunteers, and people are not paid to take part, studies will often be able to cover your expenses (i.e. the cost of travelling to the place of research). The research can also sometimes take place in your own home, but this will depend on the type of study. The study team will be able to tell you how this will be managed for their study.
 
@@ -57,17 +59,21 @@ Information about study methods may also include a review of any:
 
 ### How can I get involved in research?
 You can find out about current Parkinson’s research studies through the following ways:
-• National Institute for Health Research (NIHR) – ‘Be Part of Research’ website o ‘Be Part of Research’ is an online service which provides information about what research is. It also helps you find studies you may be able to take part in.
-o Use their search tool to find current UK research into conditions that are of interest to you, or studies that are taking place in your local area. You will then be provided with contact details so you can find out more information and ask to take part.
-• Parkinson’s UK website o The ‘Take Part Hub’ can help you find research studies taking place in your local area
-• Ask your Parkinson’s nurse, or specialist about research taking place that may be suitable.
+- **National Institute for Health Research (NIHR)** – <a href="https://bepartofresearch.nihr.ac.uk/" class="external-link" target="_blank" rel="noopener noreferrer">‘Be Part of Research’</a> website
+  - ‘Be Part of Research’ is an online service which provides information about what research is. It also helps you find studies you may be able to take part in.
+  - Use their search tool to find current UK research into conditions that are of interest to you, or studies that are taking place in your local area. You will then be provided with contact details so you can find out more information and ask to take part.
+- **Parkinson's UK** - <a href="https://www.parkinsons.org.uk/research/take-part-research" class="external-link" target="_blank" rel="noopener noreferrer">'Take part in research</a> website
+  - The ‘Take Part Hub’ can help you find research studies taking place in your local area
+- Ask your Parkinson’s nurse, or specialist about research taking place that may be suitable.
+
+---
 
 ## Different Types of Research Studies
 Researchers use different types of research studies to understand the factors that lead to the loss of brain cells in Parkinson's. One thing that we know is that in people with Parkinson’s, there is an abnormal build-up of proteins in the brain called Lewy bodies. These Lewy bodies contain a protein called alpha-synuclein, which normally occurs in health brains but builds up in harmful ways in Parkinson’s.
 
 Why this protein builds up and causes brain cell loss in people with Parkinson’s is still unclear. Scientists believe that many factors, rather than just one, may be responsible. These factors develop years before Parkinson’s symptoms appear, and they could include a mix of genetic, environmental and lifestyle factors.
 
-When people will ask, ‘_What causes Parkinson’s?_’, it’s important to understand that research is still searching for clear answers. Here’s an overview of some key research methods used to study Parkinson’s: 
+When people will ask, ‘What causes Parkinson’s?’, it’s important to understand that research is still searching for clear answers. Here’s an overview of some key research methods used to study Parkinson’s: 
   
   **Epidemiological studies** track groups of people over time to see what differences exist between those who develop Parkinson’s and those who don’t. These studies help identify risk factors that may increase the chances of developing Parkinson’s. For example, researchers have found that factors such as;
   - being a male,
@@ -83,8 +89,9 @@ have been associated with Parkinson's. These are examples of ‘environmental fa
 
   **Clinical trials** trials test new potential medications to see if they  can help slow down or protect against the damage Parkinson’s causes to the brain. These studies not only help find potential treatments but also provide insights into what might cause Parkinson’s in the first place.
 
-## What Links Have Been Found to Parkinson's?
+-
 
+## What Links Have Been Found to Parkinson's?
 Researchers have identified several factors that may be linked to Parkinson’s disease, though much is still being discovered. Here’s what has been discovered so far:
 - **Ageing** – The risk of developing Parkinson’s increases significantly with age. Although some people develop Parkinson’s under the age of 50 (known as young-onset Parkinson’s), this is much less common. Why ageing plays such a big role is still not fully understood, but older age remains the strongest known risk factor.
 - **Genetics** – In rare cases, Parkinson’s can run in families due to specific genetic mutations. If a family has several family members with Parkinson’s, it is often due to inherited genes. However, this only accounts for a small percentage of cases. Research suggests that for about 30% of people with Parkinson’s, a combination of certain genes and environmental factors might increase the risk of getting Parkinson’s disease.
@@ -103,6 +110,8 @@ Further information can be found [here](https://www.healthline.com/nutrition/gut
   - Healthy Lifestyle: Apart from living a healthy lifestyle, including regular exercise, there is currently no known way to prevent or slow down Parkinson’s.
 
 As research evolves, we will learn more, and understanding these research principles may make help you feel more confident in following future research developments.
+
+--
 
 ## New Drug and Treatment Trials
 There are lots of drug and treatment trials taking place in Parkinson’s disease today! Some studies aim to improve current treatments, while others focus on discovering new treatments or potential cures. As Parkinson’s affects everyone differently, it is likely that no single treatment will work for all patients.
