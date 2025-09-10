@@ -22,13 +22,10 @@ There are two key areas of the toolkit:
 - Helpful videos on how to use and make the most of each area of the toolkit can be found here (link) ‘Further Support’ ‘How to use this toolkit’. This page displays an overview of the contents of your personalised sections including your calendar of events.
 - In the personalised section you will find:
   1. _**About Me**_ (including your contacts information, support and planning for the future)
-  2. _**My Health**_ (including your health conditions, medication, treatments, and research involvement)
-  3. _**Symptom Review**_ (including a list of symptoms you experience and how bad you think they are)
-  4. _**My Well-being**_ (to find the things you would like to keep doing or improve)
-  5. _**My Tracker**_ (to keep a record of your medications, activities, and symptoms, which may help you to find patterns and understand your experiences)
-  6. _**Appointments/calendar**_ (to allow you to store all your healthcare appointments in one place)
-  7. _**To-do lists/Notes**_ (to keep all your information in one place and can be used like a diary)
+  2. _**Symptom Review**_ (including your health conditions, medication, treatments, and research involvement, and a list of symptoms you experience and how bad you think they are)
+  3. _**My Well-being**_ (to find the things you would like to keep doing or improve)
+  4. _**My Tracker**_ (to keep a record of your medications, activities, and symptoms, which may help you to find patterns and understand your experiences)
+  5. _**Appointments/calendar**_ (to allow you to store all your healthcare appointments in one place)
+  6. _**To-do lists/Notes**_ (to keep all your information in one place and can be used like a diary)
 
-_Live Well with Parkinson’s_ was developed by the Personalised Care for Parkinson’s Disease (PD-Care) team at University College London. For more information on the PD-Care research study, please visit www.ucl.ac.uk/pd-care or you can ask the research team.
-
-Test link to <a href="/learn/what-is-parkinsons" class="internal-link">What is Parkinson's</a> page content
+_Live Well with Parkinson’s_ was developed by the Personalised Care for Parkinson’s Disease (PD-Care) team at University College London. For more information on the PD-Care research study, please visit <a href="www.ucl.ac.uk/pd-care" class="external-link" target="_blank" rel="noopener noreferrer">**UCL's PD-Care Study Pages**</a>   or you can ask the research team.
