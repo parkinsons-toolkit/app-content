@@ -13,7 +13,7 @@ Difficulties with thinking and remembering are common in Parkinson’s. They can
 
 ---
 
-## What Might Be Causing It?
+## What might be causing it?
 Memory and thinking problems can be symptoms of Parkinson’s, but not all of them are. The difficulties in Parkinson’s tend to come on slowly.
 
 <ins>**Parkinson’s**</ins> tends to affect the following components of thinking: 
@@ -51,14 +51,14 @@ Memory and thinking problems, or confusion, can also occur as sudden changes in 
 
 ---
 
-## What Should I Do About It?
+## What should I do about it?
 If there has been a sudden noticeable change in your thinking or memory (i.e. you become confused over hours or days) then you should see a healthcare professional urgently. If you are otherwise well this should be your GP, but if you are very ill then you should go to A&E. 
  
 If the onset of your symptoms has been more gradual (weeks to months) then there is more time to act. If the symptoms persist more than 1 month or are impacting your daily life, then you should make a non-urgent appointment with your GP. You should also discuss them with your Parkinson’s specialist team. But there are many things you can try for yourself to deal with the symptoms as well. 
 
 ---
 
-## What Can I Try For Myself?
+## What can I try for myself?
 There are many things you can try to help you manage difficulties with memory and thinking. 
 
 <div class="video-container">
@@ -80,8 +80,8 @@ Good sleep, physical health and emotional well-being are all important for your 
 See our _Optimising Wellbeing_ pages within the <a href="/learn/living-with-parkinsons/living-with-parkinsons" class="internal-link">Living with Parkinson's</a> section for more information. 
 
 ### Prompts and Reminders
-- **Lists** – e.g. a “To-do-list” or a list of things to take with you when you go out. You can record lists and memos here: _Notes and Lists_.
-- **Calendars/organisers** – e.g. to help remember your appointments or friends’ birthdays. You can enter your appointments and set reminders here: <a href="/learn//living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">Appointments & Hospital Stays</a>.
+- **Lists** – e.g. a “To-do-list” or a list of things to take with you when you go out. You can record lists and memos here: <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a>.
+- **Calendars/organisers** – e.g. to help remember your appointments or friends’ birthdays. You can enter your appointments and set reminders here: <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a>.
 - **Clocks and alarms** – Having a prominent and easy-to-read clock may help your timekeeping. Many devices allow you to set alerts (e.g. setting an alarm clock or a phone alarm to remind you to take your medication or setting the oven timer to remind you when dinner is ready).
 - **Keep track** – if you are struggling to remember things that have happened, you could record them for future reference. If you are struggling to remember what has been happening with your Parkinson’s when speaking with healthcare professionals, you could try recording things using the _Symptom & Activity Tracker_. 
 
@@ -109,7 +109,7 @@ It’s important to note there is **not** currently enough evidence to recommend
 ## Further Assessment
 
 ### Questions
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your _My Health_ section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 - Have you developed any new physical symptoms?
@@ -122,7 +122,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 
 They may ask questions to assess different aspects of memory and thinking. Try not to worry about this too much as getting stressed can make it harder.
 
-**Track your symptoms in the _Symptom and Activity Tracker_**
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
 - This can help you to recall the details and help the professional identify patterns.
 - If you think the problem is variable, try recording when it is at its best and when it is at its worst. Note what you have done on those days that is different compared to a typical day.
 
@@ -145,14 +145,12 @@ A healthcare professional may be able to offer reassurance or possibly further t
 - If these are not suitable due to other medical problems, or if the side effects are a big problem, then the next choice is a medication called _memantine_. 
 
 **Some medications that _may_ make memory and thinking worse for some people:**
-
 There are benefits and risks of all medication so you should speak to your healthcare professional if you have any concerns.
 - Anticholinergic medications (e.g. oxybutynin, solifenacin, amitriptyline)
 - Parkinson’s medications (e.g. selegiline or amantadine)
 - Sedating medications (e.g. benzodiazepines like diazepam and clonazepam).
 
 ### Referral
-
 - You may be referred on to another service. Please be aware that there is usually a waiting time before the next service will see you.
 - The typical referral for memory and thinking problems is to a multi-professional service called a “memory clinic”. Or you may be referred for a specialist assessment by a cognitive neuropsychologist.
 
