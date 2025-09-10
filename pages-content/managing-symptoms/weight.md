@@ -12,6 +12,7 @@ People with Parkinson’s can experience weight loss. Though some people may ini
 </div>
 
 ---
+
 ## What might be causing it?
 Causes of weight loss related to Parkinson’s include:
 - Practical issues in making food.
@@ -23,6 +24,7 @@ Causes of weight loss related to Parkinson’s include:
 There are many other conditions that might cause weight loss. This can include loss of appetite with depression, side effects of some medications and various health conditions. If you have lost a lot of weight without meaning to, your doctor may need to check you don’t have a serious health condition, such as a cancer. Some people as they get older have a reduced sense of taste and a lower appetite. As a result, they might eat smaller portions and lose weight. However, weight loss is not a normal part of ageing and should be checked out.
 
 ---
+
 ## What should I do about it?
 You should contact your GP if you:
 - Have **persistent**, **unintentional** weight loss of more than 5% of your body weight (this depends on your weight, but is around 3kg or 7lb) over 6–12 months or less.
@@ -32,6 +34,7 @@ You should contact your GP if you:
 If the above do not apply to you, or whilst waiting for your appointment, there are things you can try for yourself.
 
 ---
+
 ## What can I try for myself?
 
 <div class="video-container">
@@ -68,7 +71,7 @@ There are also tips that may be relevant on the <a href="/learn/managing-symptom
 ## Further assessment
 
 ### Questions
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your _My Health_ section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They might ask about:**
 - Appetite
@@ -84,9 +87,10 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Rashes
 - Lifestyle and diet
 
-**Track your symptoms in the _Symptom and Activity Tracker_**
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+- This can help you to recall the details and help your health professional look for patterns.
 - Showing your healthcare workers a record of your daily intake of food and drink for 3 days can help them decide what to suggest next. If you see a dietician, they may ask for a more detailed record.
-- Monitor your weight monthly — it is helpful to have measurements to know how much weight is lost. You can record this in your _My Health_ section.
+- Monitor your weight monthly — it is helpful to have measurements to know how much weight is lost. You can record this in your  <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section.
 
 ### Tests
 If the cause for weight loss is not clear, they may run further tests such as blood tests or scans.
@@ -95,7 +99,7 @@ If the cause for weight loss is not clear, they may run further tests such as bl
 
 ## Further Treatments
 
-##Referral##
+### Referral
 Your GP may refer you to another service, depending on your issue:
   - A dietician
   - A speech and language therapist, if swallowing is a problem
