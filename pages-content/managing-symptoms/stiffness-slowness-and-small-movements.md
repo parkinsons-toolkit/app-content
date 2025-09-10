@@ -69,4 +69,40 @@ See <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" 
 
 ---
 
+## My Experience
+People affected by Parkinson’s describe their experiences.
 
+> “If you’ve got, you know, slow hands, shaking, you know, hands, legs, a bike or hand exercises would be best because that will relieve the tension and the stiffness in your hands. Keep using them and they will get better.”  
+> _(Person with Parkinson’s)_
+
+---
+
+## Further assessment
+
+### Questions
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+
+**They may ask about:**
+- When is the stiffness or slowness a problem?
+- Which part of the body is affected?
+- Do you notice any response to medication?
+- How does it impact your daily activities? 
+
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+- This can help you to recall the details and help the professional identify patterns.
+- You could record times when movements are most difficult, and when you take your medication during the day. 3-5 days of tracking should be enough to see a pattern.
+
+### Tests
+Depending on their assessment, healthcare professionals may run further tests such as X-rays or scans of joints if it is not thought to be related to Parkinson’s. 
+
+---
+
+## Further treatments
+The main treatments for these symptoms are (physical) therapies and medication.
+
+### Medication
+- Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication if within their expertise.
+- **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
+- Parkinson’s medications are used for stiffness, slowness and difficulty with small movements:
+ - See Medication page for more information.
+- See Pain page for how pain might be treated if this is restricting your movements. 
