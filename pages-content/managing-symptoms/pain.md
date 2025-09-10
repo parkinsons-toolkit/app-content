@@ -26,7 +26,7 @@ Pain that is related to Parkinson’s can be caused by a variety of factors:
 - Nerve pain – typically shooting, burning or tingling pain. This can be caused by peripheral neuropathy (see the <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a>  page) but has many causes.
 - Pain related to another symptom (e.g. tummy pain from constipation or pain from tremor).
 - Tight tendons (or ‘stiffness’) caused by postural changes.
-- ‘Frozen shoulder’ can affect people with Parkinson’s and can be painful. For more detail, see the _Stiffness, Slowness & Small Movements_ page.
+- ‘Frozen shoulder’ can affect people with Parkinson’s and can be painful. For more detail, see the <a href="/learn/managing-symptoms/stiffness-slowness-and-small-movements" class="internal-link">_Stiffness, Slowness & Small Movements_</a> page.
 
 Pain that is not related to Parkinson’s might have a clear cause (e.g. a sore back from gardening), or may be caused by other health problems, such as arthritis, old injuries, or postural changes.
 
