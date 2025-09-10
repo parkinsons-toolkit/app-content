@@ -76,9 +76,7 @@ Stress is something we all encounter. Life changes, such as personal problems, r
 </div>
 
 ### Signs of stress
-
-**Physical symptoms:**
-
+**You may experience some of these <ins>physical symptoms</ins>:**
 - Chest pains/high blood pressure
 - Breathlessness
 - Headache/dizziness/fainting
@@ -88,8 +86,7 @@ Stress is something we all encounter. Life changes, such as personal problems, r
 - Changes in appetite
 - Muscle pain
 
-**Thoughts and difficult emotions:**
-
+**You may experience some of these <ins>thoughts and difficult emotions</ins>:**
 - Feeling that things are out of control
 - Fearing that you are physically ill
 - Fearing failure
@@ -100,8 +97,7 @@ Stress is something we all encounter. Life changes, such as personal problems, r
 - Feeling lost/lonely
 - Feeling tearful
 
-**Changes in behaviour:**
-
+**You may experience some <ins>changes in behaviour</ins>:**
 - Difficulty making decisions
 - Inability to concentrate
 - Avoiding difficult or social situations
@@ -109,14 +105,15 @@ Stress is something we all encounter. Life changes, such as personal problems, r
 - Being unable to show your true feelings
 - No longer feeling able to speak with friends/family about your situation
 
+To overcome stress or prevent too much stress, there are lots of practical steps you can take. At heart of this is looking after yourself and your wellbeing.
+
 ---
 
-### Tips for coping with stress
-
-- **Identify triggers.** Try to identify the things that you find stressful. This varies from person to person and their situation. Once you are aware of what may be your triggers, you can then find ways to address them. Sometimes it is not possible to address what is stressing you, but recognising this can reduce stress in itself.
-- **Take regular breaks.** Supporting someone with Parkinson’s can be demanding. It is important that you try and take regular breaks. Whether this be a few minutes each hour (just to close your eyes and breathe), a few hours a day to yourself, or a weekend away. Please see the _Finances_ page for information about financial support that may help you look after your own wellbeing in this way. Support groups and online resources can be helpful ways of taking a break.
-- **Find ways to relax.** This might be reading a book, listening to music, doing some breathing exercises or mini stretches. Please see the _Complementary therapy_ pages for more ideas.
-- **Get organised.** Being a carer means additional responsibilities. Try to stay on top of these by making a list of jobs and tackling one at a time. Don’t be afraid to ask for support. Vary the jobs, using interesting ones as rewards. Remember the “Four Ds” of time management:
+## Tips for coping with stress
+- **_Identify triggers:_** Try to identify the things that you find stressful. This varies from person to person and their situation. Once you are aware of what may be your triggers, you can then find ways to address them. Sometimes it is not possible to address what is stressing you but recognising this can reduce stress in itself.
+- _**Take regular breaks**_ Supporting someone with Parkinson’s can be demanding. It is important that you try and take regular breaks. Whether this be a few minutes each hour (just to close your eyes and breathe), a few hours a day to yourself, or a weekend away. Please see the _Finances_ page for information about financial support that may help you look after your own wellbeing in this way. Support groups and online resources can be helpful ways of taking a break.
+- _**Find ways to relax**_ This might be reading a book, listening to music, doing some breathing exercises or mini stretches. Please see the _Complementary therapy_ pages for more ideas.
+- _**Get organised**_ Being a carer means additional responsibilities. Try to stay on top of these by making a list of jobs and tackling one at a time. Don’t be afraid to ask for support. Vary the jobs, using interesting ones as rewards. Remember the “Four Ds” of time management:
   - **DO!**
   - **DITCH!**
   - **DELEGATE!**
