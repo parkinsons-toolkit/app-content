@@ -50,7 +50,7 @@ As well as reacting to challenging emotions when they arise, it is also importan
 
 While many carers are selfless in what they do, it is important to remember that you are also important. It is good to try to consider what your own needs are for your best health, self-care and support. The advice on airplanes to “put your own oxygen mask on first” is also true for carers. Your physical, medical and emotional needs are as important as those of the person with Parkinson’s. Doing what you can to look after yourself is essential to help you be in the best place to support them and yourself. 
 
-Please see the _Finances_ page for information about financial support that may help you look after your own wellbeing too. Also, the _Complementary therapy_ pages for information of activities you may like to try for your wellbeing.
+Please see the <a href="/learn/living-with-parkinsons/practical-advice/finances" class="internal-link">_Finances_</a> page for information about financial support that may help you look after your own wellbeing too. Also, the <a href="/learn/treatments-and-therapies/complementary-therapies" class="internal-link">_Complementary Therapies_</a> pages for information of activities you may like to try for your wellbeing.
 
 ---
 
@@ -111,21 +111,22 @@ To overcome stress or prevent too much stress, there are lots of practical steps
 
 ## Tips for coping with stress
 - **_Identify triggers:_** Try to identify the things that you find stressful. This varies from person to person and their situation. Once you are aware of what may be your triggers, you can then find ways to address them. Sometimes it is not possible to address what is stressing you but recognising this can reduce stress in itself.
-- _**Take regular breaks**_ Supporting someone with Parkinson’s can be demanding. It is important that you try and take regular breaks. Whether this be a few minutes each hour (just to close your eyes and breathe), a few hours a day to yourself, or a weekend away. Please see the _Finances_ page for information about financial support that may help you look after your own wellbeing in this way. Support groups and online resources can be helpful ways of taking a break.
-- _**Find ways to relax**_ This might be reading a book, listening to music, doing some breathing exercises or mini stretches. Please see the _Complementary therapy_ pages for more ideas.
-- _**Get organised**_ Being a carer means additional responsibilities. Try to stay on top of these by making a list of jobs and tackling one at a time. Don’t be afraid to ask for support. Vary the jobs, using interesting ones as rewards. Remember the “Four Ds” of time management:
-  - **DO!**
-  - **DITCH!**
-  - **DELEGATE!**
-  - **DELAY!**
-- **Reassess what is important.** Think about:
+- _**Take regular breaks**_ Supporting someone with Parkinson’s can be demanding. It is important that you try and take regular breaks. Whether this be a few minutes each hour (just to close your eyes and breathe), a few hours a day to yourself, or a weekend away. Please see the <a href="/learn/living-with-parkinsons/practical-advice/finances" class="internal-link">_Finances_</a> page for information about financial support that may help you look after your own wellbeing in this way. Support groups and online resources can be helpful ways of taking a break. 
+- _**Find ways to relax**_ Just as it is important to make to do all the other jobs they have been putting off. things relaxing. So, find something that works for you in your situation. This might be reading a book, listening to music, doing some breathing exercises or mini stretches. Please see the <a href="/learn/treatments-and-therapies/complementary-therapies" class="internal-link">_Complementary Therapies_</a> pages for information of activities you may like to try for your wellbeing.
+- _**Get organised**_ Being a carer means there are additional responsibilities and considerations to hold in mind. Try to stay on top of these by being as organised as possible. Make a list of jobs and tackle one task at a time, and do not be afraid to ask for support. Vary the jobs, using the interesting ones as a reward for getting through the dull ones. When you have lots of demands, think about the level of importance for each job.
+  - A good way to remember is the “Four Ds” of time management:
+    - **DO!**
+    - **DITCH!**
+    - **DELEGATE!**
+    - **DELAY!**
+- _**Reassess what is important**_ When a significant event occurs, like a diagnosis of Parkinson’s, it is normal to go through a process of thinking about what is important in life. You may also be forced to think about what you can manage with the resources you have. It is important to give yourself time to think these through together with the person with Parkinson’s.
   - What is important now?
   - What is necessary?
-  - What is giving you too much stress?
+  - What is it that's giving you too much stress?
   - What can you change?
   - Can you work towards a better balance in your life, including what is important to you?
   - Who can you call?
-- **Confide in someone.** Don’t keep stress bottled up. Even if there is nothing anyone can do to change the stress, sharing can help. This can be through friends, family, online groups, or even journaling.
+- _**Confide in someone**_ Do not keep stress bottled up. Even if there is nothing anyone can do about the stress, sharing how you are feeling with someone you trust can be helpful. This can take many formats, including online groups and resources. It can also let people know they need to keep you in mind and ask how you are. This can make a big difference. For some keeping a journal can be a helpful way of recording and releasing stresses and concerns.
 
 ---
 
