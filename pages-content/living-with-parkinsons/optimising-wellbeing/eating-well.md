@@ -1,6 +1,5 @@
-# Diet and Parkinson’s
-
-There is no diet that is specifically recommended for Parkinson’s, but diet can make a difference for symptoms related to Parkinson’s, such as overall mood, constipation, and blood pressure. Diet can also affect some of the medications used for Parkinson’s.
+# Eating Well
+There is no diet that is specifically recommended for Parkinson’s, but diet can make a difference for symptoms related to Parkinson’s, such as overall mood, constipation, and blood pressure. Diet can also affect some of the medications used for Parkinson’s. 
 
 <div class="video-container">
 <iframe 
@@ -12,18 +11,19 @@ There is no diet that is specifically recommended for Parkinson’s, but diet ca
 </iframe>
 </div>
 
-## What is a balanced diet in more detail?
+---
 
-- Eat a variety of food groups. Include a variety of foods from all components of the NHS Eatwell Guide for a range of nutrients. You can find this on page 49.
-- Eat at least five portions of fruit and vegetables each day.
-- Base meals on starchy carbohydrates and try to opt for wholegrains where possible for fibre
+## What is a balanced diet in more detail?
+- Eat a variety of food groups. Include a variety of foods from all components of the <a href="https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Eatwell Guide</a> for a range of nutrients. You can find this on page 49.
+- Eat at least five portions of **fruit and vegetables** each day.
+- Base meals on **starchy carbohydrates** and try to opt for wholegrains where possible for fibre.
 - Include protein at each meal (e.g. beans, pulses, fish, eggs, and lean meat).
 - Dairy and dairy alternatives for calcium – aim for 3 portions daily.
 - Oils and spreads – choose one that is low is saturated fat (e.g. olive oil)
 - Sugar and fat – try to cut down on these. Include in moderation (unless recommended by your healthcare professional)
-- Fluid intake: aim for 6-8 glasses of non-alcoholic drinks per day for hydration (unless advised otherwise by your healthcare professional)
+- Fluid intake: aim for 6-8 glasses of non-alcoholic drinks per day for hydration (unless advised otherwise by your healthcare professional) 
 
-_For more details of the different food types, see section ‘Understanding food groups’._
+_Find more details of the different food types, further down this page under the heading ‘Understanding food groups’._
 
 ---
 
@@ -40,51 +40,38 @@ _For more details of the different food types, see section ‘Understanding food
 </div>
 
 ### 1. Levodopa and protein
-
-Including Sinemet, Madopar, Stalevo.
+_Including Sinemet, Madopar, Stalevo._
 
 Some people notice that when they eat a protein-rich meal and take levodopa at the same time, their levodopa doesn’t work as well – it doesn’t kick in as quickly or doesn’t last as long as usual. This may occur because levodopa and protein are absorbed in the same area of the intestine, so taking them at the same time may mean that less levodopa is absorbed or absorbed more slowly.
 
 **Dietary advice:**
-
 - You should not stop eating protein altogether.
-
   - Protein is vital to help your body renew itself and fight infection
   - Reducing protein may cause dangerous weight loss
-
-- Some people find benefit from a “protein redistribution” diet: this is reducing protein intake around the time of levodopa. The medication could be taken with something low in protein, like a cracker, biscuit or fruit if nausea is a problem.
+- Some people find benefit from a “protein redistribution” diet: this is reducing protein intake _around the time of levodopa_. The medication could be taken with something low in protein, like a cracker, biscuit or fruit if nausea is a problem.
 - Protein could then be eaten later (e.g. 30–60 mins after) or moved to a time when its impact on medication will be less of a problem (often towards the end of the day).
-- Caution is advised with this to ensure adequate protein is still consumed.
-- Research has looked at low protein diets and there is no adequate evidence to support recommending this.
+- **Caution** is advised with this to ensure adequate protein is still consumed.
+- Research has looked at _low protein diets_ and there is <ins>no</ins> adequate evidence to support recommending this.
 
 If you think your symptoms are being affected by the interaction between medication and meals, try tracking your symptoms for 3–5 days, recording:
-
 - When you take your medication
 - What and when you eat
 - What and when you experience symptoms.
+- You can then take this to your specialist Parkinson’s team or dietician to review your regime. **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 
-You can then take this to your specialist Parkinson’s team or dietician to review your regime. _Please do not make any changes to your medication regime without speaking with a healthcare professional._
+You can record these things all in one place by using <a href="/learn/my-tracker" class="internal-link">_My Tracker_</a>.
 
-You can record these things all in one place by using **My Tracker**.
-
-_Examples of protein are provided in the section ‘Understanding food groups’._
-
----
+_Examples of protein are provided in the section ‘Understanding food groups’ further down on this page._
 
 ### 2. Dopamine agonists and food
-
-Including pramipexole (e.g. Mirapexin), ropinirole (e.g. Requip), rotigotine (e.g. Neupro), apomorphine injections
+_Including pramipexole (e.g. Mirapexin), ropinirole (e.g. Requip), rotigotine (e.g. Neupro), apomorphine injections_
 
 This class of drugs doesn’t interact with protein the way levodopa does. It is important to discuss the medication schedule with your Parkinson’s specialist team and stay on the same daily schedule.
 
----
-
 ### 3. Selegiline and food
-
-Selegeline (e.g. Eldepryl, Zelapar)
+_Selegeline (e.g. Eldepryl, Zelapar)_
 
 High blood pressure can occur when high-dose selegeline is taken with tyramine-rich foods. Examples of tyramine-rich food include:
-
 - Mature cheese
 - Salami
 - Bovril, Oxo, Marmite, or any similar meat or yeast extract; or fermented soya bean extract
@@ -94,39 +81,36 @@ High blood pressure can occur when high-dose selegeline is taken with tyramine-r
 
 ---
 
-## Constipation
+## Diet and Constipation
 
 Constipation is a common symptom experienced by people with Parkinson’s. It can prevent medication from being absorbed properly, which prevents it from working properly. The first steps toward managing constipation are diet and lifestyle modifications.
 
+**Dietry Advice:**
 - Stay hydrated
-- Increase fibre intake (High fibre foods are listed at the end of this page)
+- Increase fibre intake (high fibre foods are listed at the end of this page)
 
-_See the Bowel Symptoms page for more details._
+_See the <a href="/learn/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a> page for more details._
 
 ---
 
 ## Diet and low blood pressure
-
 People with Parkinson’s can experience low blood pressure, particularly when changing positions from lying flat to sitting or from sitting to standing. Drops in blood pressure can make you feel dizzy, weak or lightheaded. Diet can affect these symptoms.
 
 **Dietary advice:**
-
 - Avoid large meals
 - Reduce heavy carbohydrate and sugar food intake – this causes blood to divert to the stomach so the pressure goes down elsewhere
 - Stay hydrated
 - Reduce alcohol intake
 - If drinking alcohol, look for lower alcohol versions. Ensure plenty of water intake alongside
 - Avoid constipation (straining makes the problem worse)
-- In some cases increased salt intake can help, but there are also potential harmful effects of high salt intake so discuss with your GP, dietician or Parkinson’s team before trying this.
+  - In some cases increased salt intake can help, but there are also potential harmful effects of high salt intake so discuss with your GP, dietician or Parkinson’s team before trying this.
 
-_See the Dizziness page for more details._
+_See the <a href="/learn/managing-symptoms/dizziness" class="internal-link">Dizziness</a> page for more details._
 
 ---
 
 ## Alcohol
-
 Generally, unless you have been advised to not drink alcohol by a healthcare provider, a small amount of alcohol (a glass of wine or beer) every once in a while should not cause problems. Alcohol may make some Parkinson’s symptoms less noticeable for a time, but it can also cause other issues, such as:
-
 - Lowering or raising blood pressure
 - Disturbing sleep: It can make you sleepy initially, but also tends to cause a lighter, more restless sleep
 - Worsen urinary symptoms, especially needing to go to the toilet at night
@@ -134,24 +118,21 @@ Generally, unless you have been advised to not drink alcohol by a healthcare pro
 - Affect your balance and increase risk of falls
 
 **General alcohol intake recommendations** (lower levels may be more suitable given the issues above):
-
 - Men and women are advised not to drink more than 14 units of alcohol a week on a regular basis
 - It’s important to spread out alcoholic drinks during the week
 - If you want to cut down, try to have several drink-free days each week
-- You can find out more about alcohol units by visiting the NHS Live Well website, or the independent charity Drinkaware website. You can find links in our More Information section.
+- You can find out more about alcohol units by visiting the <a href="https://www.nhs.uk/live-well/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Live Well</a> website, or the independent charity <a href="https://www.drinkaware.co.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Drinkaware</a> website. See the bottom of this page for links to more information and guidance.
 
-_Alcohol dependency or addiction has serious health implications. There is lots of support available – see the NHS website ([www.nhs.uk](http://www.nhs.uk)) to find your local alcohol addiction services._
+_Alcohol dependency or addiction has serious health implications. There is lots of support available – see the <a href="https://www.nhs.uk/nhs-services/find-alcohol-addiction-support-services/" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> to find your local alcohol addiction services._
 
 ---
 
 ## Swallowing difficulties
+Some people with Parkinson’s will notice they may have trouble with swallowing certain foods or liquids. Here we discuss the dietary implications; see the <a href="/learn/managing-symptoms/swallowing" class="internal-link">Swallowing Difficulties</a> page for more information about the symptom. 
 
-Some people with Parkinson’s will notice they may have trouble with swallowing certain foods or liquids. Here we discuss the dietary implications; see Swallowing Difficulties page for more information about the symptom.
-
-It is important to talk to your GP or Parkinson’s specialist team as soon as you can if you are having problems with swallowing. They may need to refer you to specialists who can offer help. Speech and language therapists (SALTs or SLTs) are experts in swallowing and can offer information and strategies to overcome some of the challenges you are experiencing.
+**It is important to talk to your GP or Parkinson’s specialist team** as soon as you can if you are having problems with swallowing. They may need to refer you to specialists who can offer help. Speech and language therapists (SALTs or SLTs) are experts in swallowing and can offer information and strategies to overcome some of the challenges you are experiencing. 
 
 **Dietary advice:**
-
 - Consider smaller, more frequent meals and snacks – or food that is easier to eat – note you can buy heated plates to keep food warm for longer if it takes you longer to eat.
 - If you wear dentures, ensure they fit comfortably – ask for a review by your dentist if needed
 - Try to eat when you are less tired, this may mean moving your main meal to lunchtime
@@ -160,34 +141,23 @@ It is important to talk to your GP or Parkinson’s specialist team as soon as y
 - Softer food will be easier to eat
 - Thin fluids (like water) are more difficult to swallow than thicker ones, so in some cases Speech & Language Therapists recommend using a powder to thicken fluids.
 - Thicker soups, yoghurts or blended foods/fruits can also allow you to take in more fluid in a form that is easier to swallow.
-- Smaller meals may not be as nutritionally complete, so if you are having issues with gaining or maintaining weight please consult your GP or Parkinson’s specialist team.
+- Smaller meals may not be as nutritionally complete, so if you are having issues with gaining or maintaining weight, please consult your GP or Parkinson’s specialist team.
 
 ---
 
 ## Maintaining healthy weight
-
-It is important for everyone to maintain a healthy weight, as being overweight or underweight can affect your health. Changes in body weight can also affect how your body processes medication, so changes in weight may mean you need changes in medication dose.
-
-The **body mass index (BMI)** is a measure that uses your height and weight to work out if your weight is healthy. For most adults, a healthy BMI is in the 18.5–24.9 range.
-
-- A BMI below 18.5 is classed in the underweight range
-- A BMI between 25–29.9 is classed in the overweight range
-- A BMI of ≥30 is classed in the obese range
-
-Having a BMI outside of the ‘healthy’ range can have a negative impact on your health and should be discussed with your GP.
-
----
+It is important for everyone to maintain a healthy weight, as being overweight or underweight can affect your health. Changes in body weight can also affect how your body processes medication, so changes in weight may mean you need changes in medication dose. 
+ 
+The body mass index (BMI) is a measure that uses your height and weight to work out if your weight is healthy. For most adults, a healthy BMI is in the 18.5-24.9 range. A BMI below 
+18.5 is classed in the underweight range; a BMI between 25-29.9 is classed in the overweight range; and a BMI of >=30 is classed in the obese range. Having a BMI outside of the ‘healthy’ range can have a negative impact on your health and should be discussed with your GP. 
 
 ### Underweight
+Weight loss is not part of normal ageing. Weight loss can be a sign of an underlying condition and may require investigation but can also be due to Parkinson’s for a range of reasons. To find out more about weight loss and what you could do about it, see our <a href="/learn/managing-symptoms/weight" class="internal-link">_Weight_</a> page. 
+ 
+If you have lost a significant amount of weight without trying, then you should see your GP or 
+Parkinson’s specialist team. 
 
-Weight loss is not part of normal ageing. Weight loss can be a sign of an underlying condition and may require investigation, but can also be due to Parkinson’s for a range of reasons.
-
-_To find out more about weight loss and what you could do about it, see our Weight & Appetite Loss page._
-
-If you have lost a significant amount of weight without trying, then you should see your GP or Parkinson’s specialist team.
-
-**What is a significant amount of weight loss?**
-
+### What is a significant amount of weight loss?
 - Approximately 3kg / 7lb or clothes no longer fitting over 6–12 months is significant, though it depends on your starting weight.
 - 5% weight loss or more over 3–6 months is considered significant
 
@@ -398,8 +368,6 @@ Because it can be difficult to eat enough vitamin D, a daily **10 mcg supplement
 
 - If excluding meat and dairy from your diet, please discuss with a dietitian or healthcare professional to ensure your diet is nutritionally complete
 - Note **vitamin B12** is found in most animal products but not in green plants, therefore **B12 supplement is recommended** if not eating animal products
-
-Here is the **"More Information"** section converted into **Markdown format**, preserving the table structure and footnotes:
 
 ---
 
