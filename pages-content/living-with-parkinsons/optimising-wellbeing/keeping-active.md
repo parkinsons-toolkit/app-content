@@ -1,4 +1,4 @@
-## Exercise and Parkinson’s
+# Keeping Active
 Research studies have shown broad benefits of exercise in Parkinson’s. Activity is good for many aspects of life:
 - Mobility
 - Reducing falls
