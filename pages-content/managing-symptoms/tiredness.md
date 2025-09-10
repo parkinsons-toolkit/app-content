@@ -90,7 +90,8 @@ Further strategies are seen below; not all will be applicable to you.
 ### The role of exercise
 - Fatigue can cause people to be less active and the less active you become, the more tired you feel.
 - We know keeping active is good for people with Parkinson’s. It can help fatigue, mood, sleep and general health.
-- Do as much as you can handle; it can be as simple as chair-based exercises. See _Staying Active_ for ideas.
+- Do as much as you can handle; it can be as simple as chair-based exercises. See <a href="/learn/living-with-parkinsons
+/optimising-wellbeing/staying-active" class="internal-link">_Staying Active_</a> for ideas.
 - If there is a pattern to your tiredness, plan to exercise regularly at times you have a bit more energy. 
 
 ### Healthy Body and Mind
