@@ -51,18 +51,23 @@ Think through what you do now. You can record this on the _My Wellbeing_ page. T
 </div>
 
 Think through these 5 components and how they can be built into your routine:
+
 **1. General Daily Lifestyle**
    Try to avoid being sedentary whenever possible. Take breaks from sitting, to move around.
+
 **2. Undertake Activities**
    This is about trying to undertake more intense activity where possible. It is to get your body working harder. Choosing something you enjoy or can fit into your life’s routine gives you the best chance of continuing it. 
+
 **3. Increase Flexibility**
    This means stretching and doing rotational movements, ideally undertaken daily, for 10–15 minutes. You should work through the different parts of the body. Stretching should feel like a gentle pull on the muscle, not be painful.
+
 **4. Strengthen Muscles**
    Muscle strengthening requires bearing weight through muscles, ideally undertaken twice a week or more. It should ideally involve all body parts including: legs, hips, chest, tummy, shoulders and arms.
    
    To gain strength, you should push to the point that it would be difficult to repeat the action without help but not push to the point of pain or injury. This will be different for each individual.
    
    Many people with Parkinson’s experience more movement symptoms on one side of the body than the other. When strengthening muscles, try to keep both sides of your body working evenly.
+
 **5. Work on Balance & Coordination**
    These are activities that challenge your balance and practice coordination, ideally undertaken twice a week or more. If you have difficulties with your balance, you should see a physiotherapist for advice on safe activities to engage in. Also see the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a>  page.
 
