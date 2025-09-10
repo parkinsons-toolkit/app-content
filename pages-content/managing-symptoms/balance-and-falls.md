@@ -1,4 +1,4 @@
-# Balance & Falls Introduction
+# Balance & Falls
 Falls can be a significant source of concern and stress for some people with Parkinson’s. There are many things that can be done to help prevent them from happening. Falling over is more common in Parkinson’s for a number of reasons, but they can also be reasons not related to Parkinson’s.
 
 <div class="video-container">
