@@ -75,7 +75,8 @@ Further strategies are seen below; not all will be applicable to you.
 **If you are tired at work:**
 - Try to take regular breaks when you work.
 - Discuss how this can be achieved with your employer, who must make suitable adjustments.
-  - See _Work & Caring_ for more advice. 
+  - See <a href="/learn/living-with-parkinsons
+/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a> for more advice. 
 
 **If you are at home:**
 - Try and pace yourself throughout the day. Take breaks when you feel tired.
