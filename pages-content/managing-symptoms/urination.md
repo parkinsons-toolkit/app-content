@@ -179,9 +179,9 @@ Stay hydrated, but think about _what_ and _when_ you are drinking.
 ## Where to get incontinence products
 You may be able to get incontinence products on the NHS depending on your local area. To qualify for NHS products, you may need to be assessed by a healthcare professional. Please contact your GP for more information. 
  
-The charity Bladder & Bowel UK gives independent advice on products that can help manage bladder and bowel problems. For more information on products and how to order them, call its helpline on 0161 607 8219 or visit the Bladder & Bowel UK website. 
+The charity Bladder & Bowel UK gives independent advice on products that can help manage bladder and bowel problems. For more information on products and how to order them, call its helpline on 0161 607 8219 or visit the <a href="https://www.bbuk.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Bladder & Bowel UK</a> website. 
  
-The Continence Product Advisor gives independent and evidence-based advice on how to choose and use suitable incontinence products.  
+The <a href="https://www.continenceproductadvisor.org/" class="external-link" target="_blank" rel="noopener noreferrer">Continence Product Advisor</a> gives independent and evidence-based advice on how to choose and use suitable incontinence products.  
 
 ---
 
