@@ -19,7 +19,7 @@ The system that regulates many automatic responses of the body (known as the _au
 This can occur in Parkinson’s for example: 
 -	When Parkinson’s medications are starting to wear off
 -	Overnight while sleeping - people may experience drenching night sweats
--	When Parkinson’s medications are working their best - especially if someone is experiencing _dyskinesias_ (uncontrollable muscle movements)
+-	When Parkinson’s medications are working their best - especially if someone is experiencing <a href="/learn/managing-symptoms/involuntary-movements" class="internal-link">_Dyskinesias_</a> (uncontrollable muscle movements)
 As a side effect of Parkinson’s medications 
 
 Non-Parkinson’s causes of sweating too much include: 
