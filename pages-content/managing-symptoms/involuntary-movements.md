@@ -19,7 +19,7 @@ Dyskinesia tends to get worse when stressed or anxious.
 ## What should I do about it?
 If dyskinesias aren’t bothering you or impacting on your daily life, then there's nothing you need to do. 
  
-If there are lots of extra movements, this can burn extra calories and cause unintended weight loss (see weight & appetite loss page). 
+If there are lots of extra movements, this can burn extra calories and cause unintended weight loss (see the <a href="/learn/managing-symptoms/weight" class="internal-link">_Weight_</a> page for more information). 
  
 There are some ideas below for how to manage your dyskinesia. But if they are impacting your daily life or bothering you, discuss them with your Parkinson’s specialist team. 
 
