@@ -1,7 +1,5 @@
 ## Exercise and Parkinson’s
-
 Research studies have shown broad benefits of exercise in Parkinson’s. Activity is good for many aspects of life:
-
 - Mobility
 - Reducing falls
 - Mood
@@ -28,7 +26,6 @@ Think of your activity and exercises to be like your medication. It is an essent
 ---
 
 ## What is “Keeping Active”?
-
 In general, the more active you are, the better. It is important not to go beyond your limits. However, you <ins>should</ins> feel like you are pushing yourself.
 
 Different people will reach this with different activities. This will change over time.
@@ -40,9 +37,8 @@ Everyone with Parkinson’s should be considered for referral to physiotherapy. 
 
 ---
 
-## What Should I Do?
-
-Think through what you do now. You can record this on the _My Wellbeing_ page. Then use this page to think about whether it is enough and whether it is the right type of activity. If there is something missing or you want to make a change, the _My Wellbeing_ page will guide you through.
+## What should I do?
+Think through what you do now. You can record this on the _My Wellbeing_ page. Then use this page to think about whether it is enough and whether it is the right type of activity. If there is something missing or you want to make a change, the <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a>  page will guide you through.
 
 <div class="video-container">
 <iframe 
@@ -55,48 +51,24 @@ Think through what you do now. You can record this on the _My Wellbeing_ page. T
 </div>
 
 Think through these 5 components and how they can be built into your routine:
-
----
-
-### 1. General Daily Lifestyle
-
-Try to avoid being sedentary whenever possible. Take breaks from sitting, to move around.
-
----
-
-### 2. Undertake Activities
-
-This is about trying to undertake more intense activity where possible. It is to get your body working harder. Choosing something you enjoy or can fit into your life’s routine gives you the best chance of continuing it.
-
----
-
-### 3. Increase Flexibility
-
-This means stretching and doing rotational movements, ideally undertaken daily, for 10–15 minutes. You should work through the different parts of the body. Stretching should feel like a gentle pull on the muscle, not be painful.
-
----
-
-### 4. Strengthen Muscles
-
-Muscle strengthening requires bearing weight through muscles, ideally undertaken twice a week or more. It should ideally involve all body parts including: legs, hips, chest, tummy, shoulders and arms.
-
-To gain strength, you should push to the point that it would be difficult to repeat the action without help, but not push to the point of pain or injury. This will be different for each individual.
-
-Many people with Parkinson’s experience more movement symptoms on one side of the body than the other. When strengthening muscles, try to keep both sides of your body working evenly.
-
----
-
-### 5. Work on Balance & Coordination
-
-These are activities that challenge your balance and practice coordination, ideally undertaken twice a week or more. If you have difficulties with your balance, you should see a physiotherapist for advice on safe activities to engage in. Also see the _Balance & Falls_ page.
-
----
+**1. General Daily Lifestyle**
+   Try to avoid being sedentary whenever possible. Take breaks from sitting, to move around.
+**2. Undertake Activities**
+   This is about trying to undertake more intense activity where possible. It is to get your body working harder. Choosing something you enjoy or can fit into your life’s routine gives you the best chance of continuing it. 
+**3. Increase Flexibility**
+   This means stretching and doing rotational movements, ideally undertaken daily, for 10–15 minutes. You should work through the different parts of the body. Stretching should feel like a gentle pull on the muscle, not be painful.
+**4. Strengthen Muscles**
+   Muscle strengthening requires bearing weight through muscles, ideally undertaken twice a week or more. It should ideally involve all body parts including: legs, hips, chest, tummy, shoulders and arms.
+   
+   To gain strength, you should push to the point that it would be difficult to repeat the action without help but not push to the point of pain or injury. This will be different for each individual.
+   
+   Many people with Parkinson’s experience more movement symptoms on one side of the body than the other. When strengthening muscles, try to keep both sides of your body working evenly.
+**5. Work on Balance & Coordination**
+   These are activities that challenge your balance and practice coordination, ideally undertaken twice a week or more. If you have difficulties with your balance, you should see a physiotherapist for advice on safe activities to engage in. Also see the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a>  page.
 
 For all of these types of activity, make sure you warm up before undertaking more intense activity to avoid injuries and reduce stiffness. Be mindful of your body to avoid injury. If you are unsure whether an activity is safe, always check with a professional first.
 
 To see what this might look like in real life, pick the person you most relate to. You can find targeted advice about keeping active for each person on the separate pages.
-
-Here is your content converted into **Markdown format**, with no other changes:
 
 ---
 
