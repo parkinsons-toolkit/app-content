@@ -1,6 +1,5 @@
-## Guidance for Families and Carers
-
-If a loved one is told that they have Parkinson’s it is an adjustment for you both. Whether you are reading this following a recent diagnosis or after they have had Parkinson’s for a while, we hope this section will provide useful information on how to support the person with Parkinson’s by supporting yourself.
+# Guidance for Families and Carers
+If a loved one is told that they have Parkinson’s it is an adjustment for you both. Whether you are reading this following a recent diagnosis or after they have had Parkinson’s for a while, we hope this section will provide useful information on how to support the person with Parkinson’s by supporting yourself. 
 
 <div class="video-container">
 <iframe 
@@ -12,8 +11,7 @@ If a loved one is told that they have Parkinson’s it is an adjustment for you 
 </iframe>
 </div>
 
-We know Parkinson’s is progressive and a complex condition. This means that your role and involvement will change over time and there will be different challenges along the way. Everyone’s journey is unique and will depend on your personal situation. It will also depend on your relationship to that person (partner, sister, brother, child or friend). You are likely to experience a range of emotions, which is normal and expected. Supporting a loved one with Parkinson’s can be a rewarding experience. There will also be more difficult experiences. These may cause you to have challenging feelings to cope with, such as:
-
+We know Parkinson’s is progressive and a complex condition. This means that your role and involvement will change over time and there will be different challenges along the way. Everyone’s journey is unique and will depend on your personal situation. It will also depend on your relationship to that person (partner, sister, brother, child or friend). You are likely to experience a range of emotions, which is normal and expected. Supporting a loved one with Parkinson’s can be a rewarding experience. There will also be more difficult experiences. These may cause you to have challenging feelings to cope with, such as: 
 - Feeling anxious or worried about the future
 - Feelings of anger
 - Feelings of guilt
@@ -24,10 +22,9 @@ We know Parkinson’s is progressive and a complex condition. This means that yo
 - Feeling isolated
 
 These feelings are all normal and very common. In fact, they are so common that a recent report published by the Mental Health Foundation stated that:
-
-- 71% of people of those studied, and classified as ‘carers’ have poor physical or mental health
-- 84% of those studied feel more stressed, 78% feel more anxious and 55% reported depression as a result of their caring role
-- 38% of young carers report having a mental health problem, yet only half report receiving additional support from a member of staff at school
+- 71% of people of those studied, and classified as ‘carers’ have poor physical or mental health.
+- 84% of those studied feel more stressed, 78% feel more anxious and 55% reported depression as a result of their caring role.
+- 38% of young carers report having a mental health problem, yet only half report receiving additional support from a member of staff at school.
 
 It is vitally important to be aware of this and take steps to look after yourself.
 
@@ -35,16 +32,14 @@ While negative, challenging emotions can be part of caring for someone with Park
 
 This means it is not just what you can do on your own (that is, using your own internal resources such as skills, and abilities: your resilience). It is also what you can do with support. That is what makes the most of your ability to cope with any situation.
 
-This means not only seeking support when you experience unhelpful and challenging emotions, or begin to feel overwhelmed by them. It is also finding support from the start that can help to prevent any unhelpful/challenging emotions from escalating.
+This means not only seeking support when you experience unhelpful and challenging emotions or begin to feel overwhelmed by them. It is also finding support from the start that can help to prevent any unhelpful/challenging emotions from escalating.
 
 ---
 
 ## Looking after your general wellbeing
+As well as reacting to challenging emotions when they arise, it is also important to be proactive, i.e. to look ahead so you can be in more control when dealing with challenging emotions. Looking ahead and putting strategies and practical things in place can be of help when juggling multiple commitments. This will help you to be in a better place to cope with the demands of being a carer. It could also prevent stress or burnout as much as possible. You can improve your mental wellbeing and resilience, i.e. your ability to cope, in a number of ways. 
 
-As well as reacting to challenging emotions when they arise, it is also important to be proactive, i.e. to look ahead so you can be in more control when dealing with challenging emotions. Looking ahead and putting strategies and practical things in place can be of help when juggling multiple commitments. This will help you to be in a better place to cope with the demands of being a carer. It could also prevent stress or burnout as much as possible. You can improve your mental wellbeing and resilience, i.e. your ability to cope, in a number of ways.
-
-**Tips for looking after your general wellbeing:**
-
+**_Tips for looking after your general wellbeing:_**
 - Try to connect with others
 - Exercise regularly (in a way that fits in with your situation)
 - Eat as well as you can
@@ -53,14 +48,13 @@ As well as reacting to challenging emotions when they arise, it is also importan
 - Reframe unhelpful/challenging thoughts/emotions — think about things differently
 - As well as planning ahead, try to be in the present during your day-to-day activities
 
-While many carers are selfless in what they do, it is important to remember that you are also important. It is good to try to consider what your own needs are for your best health, self-care and support. The advice on airplanes to “put your own oxygen mask on first” is also true for carers. Your physical, medical and emotional needs are as important as those of the person with Parkinson’s. Doing what you can to look after yourself is essential to help you be in the best place to support them and yourself.
+While many carers are selfless in what they do, it is important to remember that you are also important. It is good to try to consider what your own needs are for your best health, self-care and support. The advice on airplanes to “put your own oxygen mask on first” is also true for carers. Your physical, medical and emotional needs are as important as those of the person with Parkinson’s. Doing what you can to look after yourself is essential to help you be in the best place to support them and yourself. 
 
-Please see the _Finances_ page for information about financial support that may help you look after your own wellbeing too. Also the _Complementary therapy_ pages for information of activities you may like to try for your wellbeing.
+Please see the _Finances_ page for information about financial support that may help you look after your own wellbeing too. Also, the _Complementary therapy_ pages for information of activities you may like to try for your wellbeing.
 
 ---
 
-### My Experience
-
+## My Experience
 People affected by Parkinson’s describe their experiences:
 
 > “For anyone that is a carer, they must have something for themselves, either exercise or going out for coffee with friends. You have to do that ... when I’ve been out, he’ll say, how was the class? and I’ll say, ‘oh, I’m exhausted’. And then you’ve got things to talk about.”  
@@ -69,8 +63,7 @@ People affected by Parkinson’s describe their experiences:
 ---
 
 ## Coping with stress
-
-Stress is something we all encounter. Life changes, such as personal problems, relationship difficulties, pressures at work or moving to a new house, can all cause stress. A certain level of stress can be good for the body: it is motivating and alerts the mind. However, if stress becomes overwhelming or goes on for a long time, it can take its toll both physically and emotionally. In supporting someone with Parkinson’s, it is likely you will be exposed to many more things that cause you stress. It is important to be aware of the signs of stress and address them where possible.
+Stress is something we all encounter. Life changes, such as personal problems, relationship difficulties, pressures at work or moving to a new house, can all cause stress. A certain level of stress can be good for the body: it is motivating and alerts the mind. However, if stress becomes overwhelming or goes on for a long time, it can take its toll both physically and emotionally. In supporting someone with Parkinson’s, it is likely you will be exposed to many more things that cause you stress. It is important to be aware of the signs of stress and address them where possible. 
 
 <div class="video-container">
 <iframe 
@@ -81,8 +74,6 @@ Stress is something we all encounter. Life changes, such as personal problems, r
   allowfullscreen>
 </iframe>
 </div>
-
----
 
 ### Signs of stress
 
