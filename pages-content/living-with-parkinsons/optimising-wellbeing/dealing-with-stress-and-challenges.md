@@ -1,5 +1,4 @@
 # Dealing with Stress and Challenges 
-
 Stress can often make symptoms such as tremor worse. Learning how to cope with stressful life events can help you to manage symptoms and maintain a good quality of life.  
 
 Even when emotionally and mentally healthy, you may still experience negative emotions, these are part of normal life. Having good emotional health means developing the ability to bounce back from difficult situations.  
@@ -11,18 +10,16 @@ Below are some suggestions to promote emotional wellbeing and help you feel more
 ## What can I do?
 
 ### Activity
-Being more active can help to combat stress. For some people, Parkinson’s makes it tricky to stay active. You may have to adapt the type of activity you do. Some may choose to go to the gym or join a sports team; others may need something they can do at home. One effect of the COVID pandemic has been a considerable increase in the amount and range of exercise classes available online, through platforms such as Zoom.  
+Being more active can help to combat stress. For some people, Parkinson’s makes it tricky to stay active. You may have to adapt the type of activity you do. Some may choose to go to the gym or join a sports team; others may need something they can do at home. One effect of the COVID pandemic has been a considerable increase in the amount and range of exercise classes available online, through platforms such as Zoom. 
 
 Achieving a more active lifestyle can be as simple as making small changes to your everyday routines, for example:  
 - Tidying up a bit faster when doing the housework  
 - Walk one or two flights of stairs if possible and then take the lift  
 - Leaving the car at home for short journeys  
 - Getting off the bus a stop earlier and walking the rest of the journey  
-- Put things you commonly use on a higher shelf so you have to stretch to reach them  
+- Put things you commonly use on a higher shelf, so you have to stretch to reach them  
 
-See our *Keeping Active* page for more guidance or visit *Parkinson’s UK* and see their exercise page for more advice.  
-
----
+See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page for more guidance or visit <a href="https://www.parkinsons.org.uk/information-and-support/physical-activity-and-exercise" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> and see their exercise page for more advice.  
 
 ### Diet
 The food we eat can affect the way we feel, both physically and mentally. And in turn, how we feel can affect the food we eat. So, healthy eating habits are important for improving our mood and general sense of wellbeing.  
@@ -34,9 +31,7 @@ Research recommends the following advice on how to follow a healthy, balanced di
 - Eat regular meals (e.g., breakfast, lunch and dinner)  
 - Drink plenty of fluids (at least 6–8 glasses a day)  
 
-See *Eating Well* for more guidance.  
-
----
+See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more guidance.  
 
 ### Sleep
 Getting good-quality sleep is vital for our mental wellbeing. There are a few things you can try to help improve the amount and quality of your sleep, including:  
@@ -47,16 +42,12 @@ Getting good-quality sleep is vital for our mental wellbeing. There are a few th
 
 **Tip:** Some people find it helpful to write down exactly what they do each night before bed. That can raise awareness of your evening routines and help you think about how you might change that routine to help you sleep better.  
 
-If you are experiencing sleep disturbance, see the *Symptom Management* pages.  
-
----
+If you are experiencing sleep disturbance, see the <a href="/learn/managing-symptoms/sleep" class="internal-link">_Sleep Disturbances_</a> page and <a href="/learn/managing-symptoms/dreams" class="internal-link">_Dreams_</a> . 
 
 ### Relaxation
 Doing something relaxing can help to reduce stress and improve your mental wellbeing. Although life can be busy, it is important to try to do things you enjoy. This might be listening to music, reading a book, going for a walk, or getting creative by painting or colouring. You might try to carve out a regular time or times in your daily routine for a relaxation activity.  
 
-See the *Mind* website for tips on how to add relaxation into your daily life. They also describe relaxation exercises you can try. You can find the link in our *More Information* section.  
-
----
+See the <a href="https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/relaxation-tips/#.XaRamflKi70" class="external-link" target="_blank" rel="noopener noreferrer">Mind</a> website for tips on how to add relaxation into your daily life. They also describe relaxation exercises you can try. You can find more links to useful information and guidance at the bottom of this page.
 
 ### Breathing strategies
 Practising breathing techniques can help you to learn how to breathe more deeply and feel calmer.  
@@ -68,16 +59,13 @@ Here’s a simple breathing exercise you can try, which will take no longer than
 - You may find it useful to count steadily as you breathe; “one, two, three, four, five” as you breathe in and “one, two, three, four, five” as you breathe out. Try to work out what feels comfortable for you.  
 - Repeat for 3–5 minutes  
 
----
-
 ### Complementary therapies
 Complementary therapies (e.g., reflexology, aromatherapy or massage) are used alongside other treatments. Some people with Parkinson’s report positive experiences of complementary therapies such as finding them relaxing, improved sleep, and reduced anxiety.  
 
 Some complementary therapies are eaten or applied to the skin. Some of these can interact with other medications you might take. Check with your GP, specialist, or Parkinson's nurse before you use these.  
 
-See our *Complementary Therapy* page for more information.  
+See our <a href="/learn/treatment-and-therapies/complementary-therapies" class="internal-link">_Complementary Therapies_</a> page for more information.  
 
----
 ### Problem-Solving Therapy
 Problem-solving therapy (PST) aims to help you cope better with stressful life events (e.g. financial problems, managing with a long-term condition). It does this by teaching you problem-solving skills you can use to help you find solutions to issues.  
 
@@ -94,7 +82,7 @@ Here is some guidance on how you can work through problem-solving therapy by you
 
 3. **Planning ahead and foreseeing barriers**  
    - Once you have thought of an idea (could be more than one), you will need to develop steps for how you’re going to do it. Think about barriers you might face and how to overcome them. Example below:  
-     - Step: At 9pm every night I will engage in specific breathing exercises that I have located from the *Living with Parkinson’s* toolkit  
+     - Step: At 9pm every night I will engage in specific breathing exercises that I have located from the _Live Well with Parkinson’s_ toolkit  
      - Barriers: I forget or I feel I don’t have time  
      - Ways to overcome barrier: set a reminder, always do exercises before brushing teeth so it becomes routine, let a partner know and ask them to remind you  
 
@@ -107,11 +95,11 @@ Here is some guidance on how you can work through problem-solving therapy by you
 
 It’s important to keep in mind that the goal of PST is not to solve all problems. Instead, the goal is to learn more effective problem-solving skills. This will then help you to cope more effectively with life stressors and feel more in control of your life.  
 
-See the *My Wellbeing* section for more on how to do PST.  
+See the <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a> section for more on how to do PST.  
 
+---
 
 ## My Experience
-
 People affected by Parkinson’s describe their experiences.  
 
 > “Sometimes I find if things get too stressful for me or I’m having a bad day I get a colouring book – you know those adult ones? Or people do word searches, write down their thoughts or go for a walk; just different ways people can deal with if they’re having a bad day or.”  
