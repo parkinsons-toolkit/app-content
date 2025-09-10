@@ -104,5 +104,26 @@ The main treatments for these symptoms are (physical) therapies and medication.
 - Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication if within their expertise.
 - **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 - Parkinson’s medications are used for stiffness, slowness and difficulty with small movements:
- - See Medication page for more information.
-- See Pain page for how pain might be treated if this is restricting your movements. 
+  - See <a href="/learn/treatments-and-therapies/medications" class="internal-link">_Medications_</a> page for more information.
+- See <a href="/learn/managing-symptoms/pain" class="internal-link">_Pain_</a> page for how pain might be treated if this is restricting your movements. 
+
+### Therapies
+- You may be referred on to another service for this.
+- Please be aware there is usually a waiting time before that next service will see you. If you wish to be referred privately you should tell the professional making the referral.
+- Different specialists often work together in a team:
+  - **Physiotherapy** tends to focus on movements.
+  - **Occupational therapy** tends to focus on tasks, e.g. small hand movements for getting dressed. 
+
+---
+
+## Key Messages
+- Stiffness, slowness and difficulty with small movements are some of the main motor symptoms of Parkinson’s disease.
+- Physiotherapy, occupational therapy, regular activity, stretching, and adjustment to Parkinson’s medications are the best ways of treating stiffness and slowness.
+
+---
+
+| Organisation | Information About | Phone Number | Website |
+|--------------|-------------------|--------------|---------|
+| **European Parkinson’s Disease Association (EPDA)** | Offers in-depth information about rigidity. They also have some videos you can watch to help cope with rigidity. These are at the bottom of this website or under ‘YouTube’ in this section. | — | [www.epda.eu.com/about-parkinsons/symptoms/motor-symptoms/rigidity/](https://www.epda.eu.com/about-parkinsons/symptoms/motor-symptoms/rigidity/) |
+| **Michael J. Fox Foundation** | This American organisation has compiled five ways to help muscle stiffness in Parkinson’s. | — | [www.michaeljfox.org/news/five-ways-help-muscle-stiffness-parkinsons-disease](https://www.michaeljfox.org/news/five-ways-help-muscle-stiffness-parkinsons-disease) |
+| **Parkinson’s UK** | This charity has information about rigidity and slowness of movement with Parkinson’s. You can print this information, read it online, or have it mailed to you. | 0808 800 0303<br>Free helpline: 9am–7pm (Mon–Fri), 10am–2pm (Sat) | Rigidity: [www.parkinsons.org.uk/information-and-support/rigidity](https://www.parkinsons.org.uk/information-and-support/rigidity)<br>Slowness of Movement: [www.parkinsons.org.uk/information-and-support/slowness-movement](https://www.parkinsons.org.uk/information-and-support/slowness-movement) |
