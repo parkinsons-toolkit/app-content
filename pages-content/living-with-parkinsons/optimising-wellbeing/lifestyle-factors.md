@@ -1,14 +1,12 @@
 # Lifestyle Factors
-
 As well as managing Parkinson’s, there are general medical recommendations to improve long-term health. The following advice is based on general NHS guidance, tailored for people with Parkinson’s. The focus is on things you can do, or support you can access, that may help to prevent problems in the future. 
 
 ## Vaccinations
-
 Vaccinations are medications designed to prevent infections. Vaccination schedules change over time according to the latest scientific research. At present (July 2020), the recommendations for adults with Parkinson’s are:
 
-- **Flu**: Annual influenza vaccination for all people with Parkinson’s (this is universally recommended for those aged 65 years and over). The annual influenza vaccination should be considered for household members and those who care for people with Parkinson’s.
-- **Pneumonia**: One-off vaccination\* for all people with Parkinson’s (this is universally recommended for those aged 65 years and over). There is no vaccine that works against all the bugs that cause pneumonia, but this targets the most common cause. \* People who don’t have a working spleen or have chronic kidney disease may require boosters every 5 years.
-- **Shingles**: One-off vaccination when you are 70 years old.
+- **Flu:** Annual influenza vaccination for all people with Parkinson’s (this is universally recommended for those aged 65 years and over). The annual influenza vaccination should be considered for household members and those who care for people with Parkinson’s.
+- **Pneumonia:** One-off vaccination\* for all people with Parkinson’s (this is universally recommended for those aged 65 years and over). There is no vaccine that works against all the bugs that cause pneumonia, but this targets the most common cause. \* People who don’t have a working spleen or have chronic kidney disease may require boosters every 5 years.
+- **Shingles:** One-off vaccination when you are 70 years old.
 
 These are all delivered as injections, usually into the arm. You should have vaccines if you are allergic to the ingredients or are ill at the time. More information can be found on the NHS website, under ‘Vaccinations’.
 
@@ -27,13 +25,9 @@ These are all delivered as injections, usually into the arm. You should have vac
 ## Blood Pressure
 
 ### What is blood pressure?
-
 Your heart pushes blood around the body through a network of blood vessels, similar to the way a pump pushes fluid through pipes. Your blood pressure is recorded as two numbers:
-
 - The first or top number is known as **systolic blood pressure**. This is the pressure as the heart is pushing, i.e. the force of that push.
 - The second or bottom number is known as **diastolic blood pressure**. This is the pressure as the heart relaxes between pushes and the blood is flowing, i.e. the resistance in the pipes themselves.
-
-Many factors affect blood pressure. It varies between people and is constantly changing in any one person. This makes it difficult to define “normal” blood pressure. Parkinson’s, as well as medication used for Parkinson’s, can both cause a lower or variable blood pressure. But getting older and many lifestyle factors can cause a higher blood pressure.
 
 <div class="video-container">
 <iframe 
@@ -45,53 +39,39 @@ Many factors affect blood pressure. It varies between people and is constantly c
 </iframe>
 </div>
 
----
+Many factors affect blood pressure. It varies between people and is constantly changing in any one person. This makes it difficult to define “normal” blood pressure. Parkinson’s, as well as medication used for Parkinson’s, can both cause a lower or variable blood pressure. But getting older and many lifestyle factors can cause a higher blood pressure.
 
 ### High blood pressure
-
 - Blood pressure increases with age and certain lifestyle factors. These include smoking, alcohol, caffeine, unhealthy diet, lack of exercise, and increased weight. It is also elevated by stress and pain.
 - Generally, a blood pressure above 140/90mmHg is high for those under 80 years old and above 150/90mmHg for those over 80 years old.
 - High blood pressure usually does not cause any symptoms. But, if left untreated it can cause serious health conditions, such as heart attacks and strokes.
-- A healthy lifestyle will reduce the chance of getting high blood pressure and can lower your blood pressure if it’s high. Many people will need medication to treat high blood pressure. See the NHS website ([www.nhs.uk](https://www.nhs.uk)) for more information.
-
----
+- A healthy lifestyle will reduce the chance of getting high blood pressure and can lower your blood pressure if it’s high. Many people will need medication to treat high blood pressure. See the <a href="https://www.nhs.uk/conditions/high-blood-pressure-hypertension/" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> for more information.
 
 ### Low blood pressure
-
 - Blood pressure may be low because of: a long-term health condition (e.g. Parkinson’s); medication (including many used to treat Parkinson’s); or an illness (e.g. an infection).
-- Generally, a blood pressure below 90/60mmHg is considered low. But, a problematic low blood pressure is when it causes symptoms.
-- **Symptoms of low blood pressure include**:
+- Generally, a blood pressure below 90/60mmHg is considered low. But, a _problematic_ low blood pressure is when it causes symptoms.
 
-  - Feeling lightheaded, faint or dizzy – this may cause you to faint
-  - Feeling sick
-  - Blurred vision
-  - Feeling generally weak
-  - Feeling muddled
+**Symptoms of low blood pressure include**:
+- Feeling lightheaded, faint or dizzy – this may cause you to faint
+- Feeling sick
+- Blurred vision
+-  Feeling generally weak
+-  Feeling muddled
 
-Low blood pressure does not always require treatment, but may do if you are experiencing symptoms. See the Dizziness page for more information. Treatment of any other cause, like infection, is also important.
-
----
+Low blood pressure does not always require treatment but may do if you are experiencing symptoms. See the <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page for more information. Treatment of any other cause, like infection, is also important.
 
 ### Parkinson’s and blood pressure
-
-Parkinson’s is often linked to low blood pressure or varying blood pressure. Many people experience a drop in blood pressure when they change to a more upright position (i.e. going from sitting to standing). This is known as **postural or orthostatic hypotension**. For more information on this, see our Dizziness page.
-
----
+Parkinson’s is often linked to low blood pressure or varying blood pressure. Many people experience a drop in blood pressure when they change to a more upright position (i.e. going from sitting to standing). This is known as postural or orthostatic hypotension. For more information on this, see our <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page.
 
 ### When should I get my blood pressure checked?
-
 It is recommended that everyone over the age of 40 years has their blood pressure tested at least every 5 years. It should be checked more frequently if you are at risk of blood pressure problems. Since Parkinson’s and the medication used to treat it both impact on blood pressure, you should have it checked more often. There is no official rule for how frequently you should have your blood pressure checked. This decision will vary according to each person’s circumstance and will be guided by a healthcare professional. It will normally be at least once a year.
 
----
-
 ### How can I get my blood pressure checked?
-
-You can have your blood pressure tested at your GP surgery, hospital appointments, and some pharmacies. Or, you can buy your own blood pressure monitor for use at home. The British and Irish Hypertension Society and Blood Pressure UK both have advice on validated monitors. See our _More Information_ section for links to their websites.
+You can have your blood pressure tested at your GP surgery, hospital appointments, and some pharmacies. Or, you can buy your own blood pressure monitor for use at home. The <a href="https://bihsoc.org/#%3A~%3Atext%3DThe%20British%20and%20Irish%20Hypertension%20Society%26text%3DThe%20Society%20comprises%20doctors%2C%20nurses%2Cthe%20forefront%20of%20cardiovascular%20research" class="external-link" target="_blank" rel="noopener noreferrer">British and Irish Hypertension Society</a> and <a href="[https://www.parkinsons.org.uk](http://www.bloodpressureuk.org/Home)" class="external-link" target="_blank" rel="noopener noreferrer">Blood Pressure UK</a> both have advice on validated monitors.
 
 ---
 
 ## Bone Health
-
 - Broken bones, or fractures, are more likely to happen if you have fragile bones and if you fall over.
 - It is recommended that everyone with Parkinson’s take vitamin D supplements to help maintain bone strength.
 
