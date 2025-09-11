@@ -1,6 +1,5 @@
 # Appointments & Hospital Stays
 
-
 ---
 
 ## Appointments
@@ -45,7 +44,6 @@ It can be frustrating to bring some of these things, like medications lists or p
 
 ### Helpful Tips for Your Appointment
 Here are some pointers to help you prepare for your appointment with your Neurologist or Parkinson’s specialist:
-
 - Appointments are a valuable time to explore and discuss your Parkinson’s with a specialist. It’s common to wonder what to ask during your visit. Consider the following topics:
   - ‘Has your Parkinson’s changed over time and if so, how?’
   - ‘Is your current treatment plan working?’ – For example, have you noticed any improvements in certain symptoms, or have some symptoms stopped or are getting worse. If yes, make a note of these changes and what is happening so you can discuss these with your specialist.
@@ -113,7 +111,6 @@ Make sure you tell staff you have Parkinson’s. It is helpful to give the conta
 If you are being treated with an advanced therapy or if you are on an experimental treatment, it is essential to tell the staff looking after you about it as soon as possible. These are highly specialised treatments so many healthcare professionals will not know much about them and the hospital may need to obtain them specifically. It is helpful if you can provide the details of your treatment and the team that look after it. _You should also have been provided by the team looking after these therapies with advice on what to do if you are admitted to hospital._
 
 See extra information below for a list of advanced therapies.
-
 - Deep Brain Stimulation (DBS)
 - Apomorphine pump
 - Intraduodenal levodopa gel infusion (e.g. Duodopa)
@@ -125,18 +122,17 @@ It is important for staff to know you have Parkinson’s and know your specific 
 - **Medication:** Getting your medication on time is important. The times you usually take your medicines may not be the same as medications are given on the ward. Make sure to tell the staff what times you need to take your medication. Some hospitals have self-medication policies. If you do take your own medications, ensure the healthcare staff know that you have
 
 ### Who’s who?
-You will probably encounter lots of different professionals during your hospital stay. See _Who May Be Involved_ for more guidance on roles but always feel free to ask.
+You will probably encounter lots of different professionals during your hospital stay. See <a href="/learn/treatments-and-therapies/who-may-be-involved" class="internal-link">_Who May Be Involved_</a>  for more guidance on roles but always feel free to ask.
 
 ### Responsibilities you may still have outside hospital
 Many people worry about things that they have left at home if they are admitted to hospital. Although it is good to have motivation for your recovery, it is preferable to minimise anxiety around things back at home. Some things to think about:
 - **Work**: Can you or a friend or relative let your workplace know that you will be off sick.
-- **Dependents**: If you normally care for someone, is there someone who can step in to help while you are in hospital? If they are a vulnerable adult or a child then social services can provide emergency care. Tell the team looking after you and they can notify social services. The following website provides information about the sorts of support they can offer:
-  [NHS Social care and support guide](https://www.nhs.uk/conditions/social-care-and-support-guide/)
+- **Dependents**: If you normally care for someone, is there someone who can step in to help while you are in hospital? If they are a vulnerable adult or a child then social services can provide emergency care. Tell the team looking after you and they can notify social services. The following website provides information about the sorts of support they can offer: <a href="https://www.nhs.uk/conditions/social-care-and-support-guide/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Social care and support guide</a>
 - **Pets**: Is there someone who can step in to help while you are in hospital?
 - **Security and safety**: If you are worried about whether you locked the door, or left the cooker on, is there someone who could check to put your mind at ease? Is there someone who can check on your home whilst you are in hospital?
 - **Bills**: Is there someone who can step in to help while you are in hospital?
 
-See _Work & Caring_, and _Hobbies & Pets_ for more guidance.
+See <a href="/learn/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a>, and <a href="/learn/living-with-parkinsons/practical-advice/hobbiess-and-pets" class="internal-link">_Hobbies & Pets_</a> for more guidance.
 
 <div class="video-container">
 <iframe 
@@ -255,9 +251,9 @@ If you are not happy about your care, you can consider talking to the team looki
 - Scotland – **PASS:** Patient Advice & Support Service
 - Wales – **Community Health Council**
 
-Other advocates include charities e.g. Parkinson’s UK and the advocacy and information service _POhWER_. Also your [local healthwatch](https://www.healthwatch.co.uk/your-local-healthwatch/list) can help.
+Other advocates include charities e.g. Parkinson’s UK and the advocacy and information service _POhWER_. Also your <a href="https://www.healthwatch.co.uk/your-local-healthwatch/list" class="external-link" target="_blank" rel="noopener noreferrer">local healthwatch</a> can help.
 
-More information is available on the NHS website.
+More information is available on the NHS website <a href="https://www.nhs.uk/" class="external-link" target="_blank" rel="noopener noreferrer"NHS Website</a>.
 
 ---
 
