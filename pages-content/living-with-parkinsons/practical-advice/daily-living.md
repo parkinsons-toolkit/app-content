@@ -1,12 +1,9 @@
 # Daily Living
-
-## Introduction
-
 Every day activities can become more difficult than they once were. Muscle weakness, tremor and issues with movement or balance can make it harder to do a daily activity that you could do before. Examples include eating and drinking, preparing meals, getting washed and dressed, brushing your teeth, or going to the toilet.
 
 Being able to keep doing these activities is important to keep independent and active.
 
-There are some tried and tested methods to do this. You could make changes to the way you do things, to your environment, or to the adaptive equipment you use. There are NHS, social care and voluntary sector professionals that can help you (see More Information at the bottom of this article). Please also see the Housing page for information about making adaptations to your home and guidance about different types of accommodation.
+There are some tried and tested methods to do this. You could make changes to the way you do things, to your environment, or to the adaptive equipment you use. There are NHS, social care and voluntary sector professionals that can help you (see More Information at the bottom of this pag). Please also see our <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for information about making adaptations to your home and guidance about different types of accommodation.
 
 <div class="video-container">
 <iframe 
@@ -17,6 +14,8 @@ There are some tried and tested methods to do this. You could make changes to th
   allowfullscreen>
 </iframe>
 </div>
+
+---
 
 ## What can I try for myself?
 
