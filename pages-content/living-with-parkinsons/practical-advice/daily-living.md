@@ -329,7 +329,11 @@ However, if you are buying your own equipment, here are a few tips:
 ---
 
 ## Who Can Help?
-If daily tasks are particularly challenging, some people need assistance from a person. The degree of assistance will vary, and as much independence as possible should still be encouraged. There are two main categories to consider discussed here. There is also information on the _Guidance for Family & Carers_ page for people who are supporting someone they know.
+If daily tasks are particularly challenging, some people need assistance from a person. The degree of assistance will vary, and as much independence as possible should still be encouraged. There are two main categories to consider discussed here:
+- 'Home help'
+- 'Home care'
+
+There is also information on the <a href="/learn/living-with-parkinsons/for-family-and-carers" class="internal-link">_Guidance for Family & Carers_</a> page for people who are supporting someone they know.
 
 <div class="video-container">
 <iframe 
@@ -344,10 +348,9 @@ If daily tasks are particularly challenging, some people need assistance from a 
 ---
 
 ## Home Help
-
 ‘Home Help’ refers to support for domestic tasks such as laundry, washing up and cleaning. Local councils do not usually provide this. Many charities offer these services, though there may be a charge.
-For example:
 
+For example:
 - Royal Voluntary Service
 - The British Red Cross
 - Age UK
@@ -357,84 +360,66 @@ Details for all of these and for more information about Home Help can be found a
 ---
 
 ## Home Care
-
 ‘Home Care’ refers to support for personal tasks such as showering, dressing and preparing meals. If you think you might benefit from paid Home Care:
 
-1. **The first step is to get a Needs Assessment.**
-   Contact your Local Council Adult Social Care Department for this. They will make an assessment to see if Home Care is recommended.
-
+1. The first step is to get a Needs Assessment.
+   - Contact your Local Council Adult Social Care Department for this. They will make an assessment to see if Home Care is recommended.
    - If it is not recommended but you want it, you could arrange it privately. The Adult Social Care Department should still support you with this, for example giving information about local providers.
-
-2. **If Home Care is recommended**, then they will complete a financial assessment. This determines whether or not the council will financially contribute to your Home Care costs.
-
-   - The Finances page has more information about benefits you may be eligible for to help with costs.
-
-3. **You then need to arrange the Home Care.**
-
+2. If Home Care is recommended, then they will complete a financial assessment. This determines whether or not the council will financially contribute to your Home Care costs.
+   - The <a href="/learn/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page has more information about benefits you may be eligible for to help with costs.
+3. You then need to arrange the Home Care.
    - If the council are paying, they can arrange the Home Care for you.
    - If the council are paying, you can still choose to arrange the Home Care yourself. For this ask to receive your ‘personal budget’ as a direct payment.
    - If the council will not contribute financially, you will need to find and pay for it yourself.
    - The council should be able to support you with finding care, whichever category you are in.
 
-There are broadly two options for finding Home Care:
+**There are broadly two options for finding Home Care:**
 
 **a. Go through a Home Care Agency**
 Agencies arrange for trained carers to visit you in your home, but it may not always be the same carer. The agency holds responsibility as the employer of the carer. They are registered with the Care Quality Commission (CQC).
 
+_Or_
+
 **b. Directly employ a Home Care Worker yourself**
 This way you know who you are getting, but you have legal responsibility as an employer and need to plan for the carer’s holiday and sickness. Note this responsibility is yours if you directly employ the carer, even if you receive financial support from the council. Individual carers do not have to be registered with a regulatory body.
 
----
-
-## Finding a Home Care Agency
-
-1. **First find out what is available in your area.** Suggested resources:
-
+### Finding a Home Care Agency
+1. First find out what is available in your area. Suggested resources:
    - NHS website
    - Your local council
    - United Kingdom Homecare Association (UKHCA)
    - Which? Later Life Care – online Care Services Directory
    - Is there anyone in your area who you trust who has experience? Can they make a recommendation?
-
-2. **Get more information about them:**
-
+2. Get more information about them:
    - Agencies are registered and reviewed by the Care Quality Commission (CQC) so consider reading the report.
    - Could you ask someone with experience of that agency for an informal review?
    - Contact the provider to ask more about their service.
 
----
-
-## Directly Employing a Home Care Worker
-
-1. **Find out what is available in your area.** Suggested resources:
-
+### Directly Employing a Home Care Worker
+1. Find out what is available in your area. Suggested resources:
    - NHS website
    - Your local council
    - Search online
    - Is there anyone in your area who you trust who has experience? Can they make a recommendation?
    - You could use a Broker or Introductory Care Agency. These help you find the Home Care Worker, but you still directly employ them. Note these agencies are not registered with the CQC.
-
-2. **Approach them and get more information about them:**
-
+2. Approach them and get more information about them:
    - Write a job description to be clear what is required.
    - Ask for references.
    - Meet them in person.
    - Write a contract and get it checked.
-   - Ensure you follow all of the requirements of an employer (see Legal Matters).
-   - For more guidance see the Which? Later Life Care website.
+   - Ensure you follow all of the requirements of an employer (see <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a>).
+   - For more guidance see the <a href="https://www.which.co.uk/later-life-care" class="external-link" target="_blank" rel="noopener noreferrer">Which? Later Life Care website</a>.
 
 ---
 
-## For Both – Things to Ask About:
-
+## For both 'Home help' & 'Home care' – things to Ask About:
 - **Cost**: What is the cost? What services incur an extra cost? Does the time of the shift affect the cost (e.g. evenings, weekends, bank holidays)?
-- **Experience**: Do the care workers have experience in supporting someone with similar needs to you? For an agency: How do they allocate the care workers to ensure suitable?
+- **Experience**: Do the care workers have experience in supporting someone with similar needs to you? _For an agency:_ How do they allocate the care workers to ensure suitable?
 - **Training**: What training have the care workers had?
 - **Timing**: Will the care worker visit at a specified time? What is the procedure if they are running late?
 - **Contract**: Can you review a standard contract?
 - **Contact**: How can the agency or Care Worker be contacted, including for emergencies outside office hours?
-- **For directly employing an individual**:
-
+- _For directly employing an individual:_
   - How would you pay them – method and how often?
   - What happens if they are ill or unable to attend for any other reason?
   - Could anyone cover for their holiday?
@@ -442,25 +427,22 @@ This way you know who you are getting, but you have legal responsibility as an e
 ---
 
 ## Where Can I Get Help?
-
 - **National Health Service (NHS)** – outpatient and community therapy teams, including Occupational Therapists. Referral pathways vary by area. In most places your GP will be able to refer to occupational therapy.
-
 - **Adult Social Care** – Some occupational therapists work within Adult Social Care services. Other social care professionals, such as social workers, can also help you with advice and equipment. You can find contact details for your social services on your council website or can ask at your GP.
-
-- **Voluntary sector** – Charities and third sector organisations may be able to help. They can offer some support and some have short-term equipment hire services.
-
+- **Voluntary sector** – Charities and third sector organisations may be able to help. They can offer some support, and some have short-term equipment hire services.
 - **Private sector** – Local pharmacies and disability shops are common on the high street. You can also find a wide range of providers online.
 
-For more details see the _Services & Groups_ page.
+For more details see the <a href="/learn/further-support/services-and-groups" class="internal-link">_Services & Groups_</a> page.
 
 ---
 
 ## My Experience
-
 People affected by Parkinson’s describe their experiences:
 
 > “As an OT, we might assess somebody shopping, cooking, cleaning, to see how they manage washing, transfers in and out of the bath, up and down steps. To see where the difficulty lies and what we could then try to do to lessen that difficulty. And also, we encourage graded activity, somebody who isn’t doing much to gradually get back into doing more.”
-> — _Occupational Therapist_
+> _(Occupational Therapist)_
+
+--
 
 ## More Information
 
