@@ -211,143 +211,91 @@ These make it easier to get in and out of bed or to reposition in bed. Note ‘g
     - Make sure electric cords, feeding lines or bedding won’t get caught up when the raiser is in motion
     - Be aware that in the raised position, a mattress raiser can cause you to slide down and out of the bed
 
-- **Bed levers or bed rails** fix to the bed and have a metal handle that extends up the side of the mattress
-
+- **Bed levers** or **bed rails** fix to the bed and have a metal handle that extends up the side of the mattress.
   - You shouldn't use a bed lever with an air mattress
   - They do require moderate upper body strength to use, and it is best to be trained by a professional to use them
 
 - **Caution** using a bed lever with an adjustable bed or mattress raiser – special consideration is required to ensure it is secure. It is best to get professional advice for this.
 
----
-
-## Beds
-
-- **Electric profiling or hospital beds** allow you to control your position within the bed: usually allowing you to control an up & down movement of both the head end of the bed and a bend at the knees
+### Beds
+- Electric profiling or hospital beds allow you to control your position within the bed: usually allowing you to control an up & down movement of both the head end of the bed and a bend at the knees
 - They can be used to help you sit up from lying down and can help you manage symptoms of dizziness or ankle swelling
-- Hospital beds are usually height-adjustable and may have side rails. They may have casters or wheels, which allow the bed to be moved. These can be provided by a health professional such as your district nurse if needed
-- Electric profiling beds tend to look more like an ordinary bed. Some double bed styles are available that split the mattress so each person can adjust the mattress to the position they want. They can raise up and down and some can raise your upper body and provide a knee break (see image)
+- **Hospital beds** are usually height-adjustable and may have side rails. They may have casters or wheels, which allow the bed to be moved. These can be provided by a health professional such as your district nurse if needed
+- **Electric profiling beds** tend to look more like an ordinary bed. Some double bed styles are available that split the mattress so each person can adjust the mattress to the position they want. They can raise up and down and some can raise your upper body and provide a knee break (see image).
+- Comfort and safety tips:
+  - Make sure electric cords, feeding lines or bedding won’t be caught up when the mattress is being raised
+  - Take extra care if the bed has heavy sides that go up and down, as it may be easy for your fingers or hands to get caught (especially if the rail comes down suddenly)
+  - Make sure the controls can be reached easily when lying down
 
-**Comfort and safety tips:**
-
-- Make sure electric cords, feeding lines or bedding won’t be caught up when the mattress is being raised
-- Take extra care if the bed has heavy sides that go up and down, as it may be easy for your fingers or hands to get caught (especially if the rail comes down suddenly)
-- Make sure the controls can be reached easily when lying down
-
----
-
-## Hoists
-
+### Hoists
 - These equipment lift a person between a bed and a (wheel) chair, or a bed and a commode, and back
-
 - There are several types available, e.g.:
-
   - Mobile
   - Ceiling fixed
   - Full body
   - Standing hoist
-
 - You will need the correct one for you and your home as well as training to use it. It is not recommended that you buy a hoist on your own; you should first talk with an occupational therapist
-
----
-
 - It is much harder to get out of furniture that is low and soft
 - Special raisers for chairs can make it easier to stand up from
-- A **‘lift cushion’** is a portable cushion that can be used on most chairs and sofas
-- **Electric lift chairs** can be helpful if you have difficulty getting out of a chair as they provide support when going from sitting to standing
+- A ‘lift cushion’ is a portable cushion that can be used on most chairs and sofas
+- Electric lift chairs can be helpful if you have difficulty getting out of a chair as they provide support when going from sitting to standing
 
----
-
-## Cutlery
-
+### Cutlery
 - Several specialty designs are available:
-
   - All-in-one knife and fork
   - All-in-one fork and spoon
   - Special handles that are extra-large, easy-grip, extra-light (moulded rubber), weighted or curved
   - Foam sleeves, which can be placed over existing cutlery to make them easier to hold
   - Cutlery which can be bent to suit different grips
-
 - If your movements are slow and stiff, extra-large or curved-handled cutlery may work best for you
-
 - If you have a tremor, a combined fork and spoon, a heavier item, or a utensil with moulded rubber handles may work best for you
-
-- **Special food preparation knives** are available:
-
+- Special food preparation knives are available:
   - Curved-handled or rocking action knife can be used for chopping food
   - The handle is D or L-shaped to give you more control and usually made of easy-grip material
   - They come in a variety of sizes
-
 - These are often available in high street mobility shops or online. See our advice about buying equipment before you make a purchase.
 
-Here is your content converted into clean, readable **Markdown format** with the structure preserved exactly as in your original text:
-
----
-
-## Equipment for Plates & Bowls
-
+### Equipment for Plates & Bowls
 - **Plate guards** clip onto the plate and provide an upright ring around it.
-  _Image: Completecareshop.co.uk_
-
   - It stops food from falling off the edge of your plate, and can be used to push the food back onto your fork or spoon by pressing the utensil and food against it.
   - They come in various sizes, colours and materials. Some people prefer styles made of sturdy materials that are easier to wash.
   - Note: some are positioned about an inch in from the outer edge of the plate, which can decrease the usable area of the plate.
-
 - **Non-slip food mats** are made of a special tacky silicone or plastic material, which you put under a plate or bowl to stop it from moving around while you eat.
-
   - They can be especially helpful if you have limited mobility in one arm and find yourself chasing your plate across the table.
   - They can also be used on trays to stop cups from sliding; or between a mixing bowl and work surface to stop the bowl from moving around.
   - Come in a range of colours – you can buy them pre-cut as a placemat, or you can buy the material and cut to the size you need.
 
----
-
-## Cups
-
+### Cups
 As well as usual off-the-shelf lidded cups, there are other specialised designs that can make drinking easier.
-
-- **Nosey cups** have a section cut out on one side, opposite the position of the mouth when drinking. The cut-out allows the person drinking to tilt and drain the cup more easily with limited neck movement.
+- Nosey cups have a section cut out on one side, opposite the position of the mouth when drinking. The cut-out allows the person drinking to tilt and drain the cup more easily with limited neck movement.
 - All of these cups come in different sizes, shapes, and colours and may have handles – consider what you will use it for, so that it is fit-for-purpose (e.g. an appropriate material for hot drinks).
 
----
-
-## Hot Water Devices
-
-- **‘Kettle tippers’** are designed to cradle your kettle. This allows you to pour boiling water out of the kettle without lifting it up.
-
+### Hot Water Devices
+- ‘Kettle tippers’ are designed to cradle your kettle. This allows you to pour boiling water out of the kettle without lifting it up.
   - They can reduce risk of spills and burns.
   - They can be used on different common teapot or kettle styles.
   - Check it works with your kettle before buying.
-
-- **Boiling water dispensers** provide boiling water without a kettle or saucepan.
-
+- Boiling water dispensers provide boiling water without a kettle or saucepan.
   - You fill them manually, with a certain amount, then they dispense a specified amount of boiling water.
   - Fairly easy to use.
   - They enable only the amount of water needed to be boiled.
-
----
-
-## Home Access
-
+  
+### Home Access
 - **Key turner**: A key turner is a handle that attaches to your keys and provides easier grip and leverage for turning keys.
 - **Key safe**: This is a small secure box, fitted to a wall outside the front door to hold the keys to your home. It requires a code to access: you choose whom to give the code to. This can be very useful as multiple sets of keys do not need to be provided to family members or healthcare professionals. It will also allow people to access the house in case of an emergency.
 
----
-
-## Alarms and Security
-
+### Alarms and Security
 - There is a wide range of systems available to either attract attention or contact someone in case of emergency.
-- **Basic alarms**: can be worn (e.g. on your wrist or as a pendant) or placed in the home. When you press the alarm, they can either make a loud noise or send a signal to someone.
-- **Security systems**, for example:
-
+- Basic alarms: can be worn (e.g. on your wrist or as a pendant) or placed in the home. When you press the alarm, they can either make a loud noise or send a signal to someone.
+- Security systems, for example:
   - Devices to track your location so someone could find you if needed.
   - Sensors that detect if you fall over.
-
-- More information about these systems is available on the [NHS website](https://www.nhs.uk) and the [Which? Later Life Care website](https://www.which.co.uk/later-life-care).
-- If falls are a concern, please also see the Balance and Falls page.
+- More information about these systems is available on the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> and the <a href="https://www.which.co.uk/later-life-care" class="external-link" target="_blank" rel="noopener noreferrer">Which? Later Life Care website</a>.
+- If falls are a concern, please also see the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page.
 
 ---
 
 ## My Experience
-
 People affected by Parkinson’s describe their experiences:
 
 > “We have a flat mat that you put on the floor. An alarm goes off. If you put it on the floor by the side of the bed, and as soon as you step on it, an alarm goes off. Very loudly.”
@@ -356,21 +304,17 @@ People affected by Parkinson’s describe their experiences:
 ---
 
 ## Advice on Buying Equipment
-
 Standard equipment and smaller adaptations (for example, an additional stair rail or raised toilet seat) recommended by an occupational therapist are often provided free of charge. Some equipment does come with a charge. An Occupational Therapist can assess your needs and advise further.
 
 However, if you are buying your own equipment, here are a few tips:
-
-1. **Be informed**: The Disabled Living Foundation has a range of fact sheets offering a range of general advice regarding features to look for when considering equipment.
-2. **Consider how and where** you will use the equipment and the impact on others who use the space.
-3. **Try the equipment before you buy it**:
-
-   - To find your nearest equipment demonstration centre, check the [Disabled Living Foundation’s website](https://www.livingmadeeasy.org.uk). You can search “equipment centre” for a list of equipment centres.
+1. Be informed: The Disabled Living Foundation has a range of fact sheets offering a range of general advice regarding features to look for when considering equipment.
+2. Consider _how_ and _where_ you will use the equipment and the impact on others who use the space.
+3. Try the equipment before you buy it:
+   - To find your nearest equipment demonstration centre, check the <a href="https://www.livingmadeeasy.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Disabled Living Foundation’s website</a>. You can search “equipment centre” for a list of equipment centres.
    - If possible, try out the different types to see which kind you find helpful.
    - The same website offers guidance on suppliers and allows you to compare products. You can search “askSARA” on their website for more information.
-
-4. **Make sure the fit of the equipment is correct.**
-5. **Local pharmacies and disability shops** sell equipment. Short term hire can be possible from local organisations, such as the Red Cross Society.
+4. Make sure the _fit_ of the equipment is correct.
+5. Local pharmacies and disability shops sell equipment. Short term hire can be possible from local organisations, such as the Red Cross Society.
 
 <div class="video-container">
 <iframe 
@@ -385,7 +329,6 @@ However, if you are buying your own equipment, here are a few tips:
 ---
 
 ## Who Can Help?
-
 If daily tasks are particularly challenging, some people need assistance from a person. The degree of assistance will vary, and as much independence as possible should still be encouraged. There are two main categories to consider discussed here. There is also information on the _Guidance for Family & Carers_ page for people who are supporting someone they know.
 
 <div class="video-container">
