@@ -1,7 +1,4 @@
 # Finances 
-
-## Introduction
-
 Having Parkinson’s, or caring for someone who does, can impact on your finances. For example, you may need to reduce your hours at work or pay for cleaners or special equipment in the home. Managing financially may become more difficult as the condition progresses. There is some help available so it can help to know what you might be entitled to.
 
 <div class="video-container">
@@ -17,37 +14,29 @@ Having Parkinson’s, or caring for someone who does, can impact on your finance
 ---
 
 ## Paying Bills and Budgeting
-
 Some symptoms of Parkinson’s may affect how you manage your money. They might include:
-
 - Difficulties signing documents due to, for example, tremor
 - Mobility problems may prevent you being able to go to the bank or cashpoint
 - Speech problems may make paying by phone challenging
 - Memory and thinking problems may make it difficult to do calculations or planning for payments
 - You may miss bill payments due to being in hospital
 
----
-
-## Hints & Tips for Managing Finances
-
+### Hints & Tips for managing finances
 If you are struggling to manage your finances, you may find these suggestions helpful:
-
-- Manage any debts – this is important as they may get worse – talk to a helpful service such as Citizens Advice or StepChange.
+- Manage any debts – this is important as they may get worse – talk to a helpful service such as <a href="https://www.citizensadvice.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Citizens Advice</a> or <a href="https://www.stepchange.org/" class="external-link" target="_blank" rel="noopener noreferrer">StepChange</a>.
 - Try to save regularly, setting up monthly payments into a savings account. Whenever you have a pay or pension increase, try to increase the amount you save; but don’t skimp on things like heating or food.
 - To work out how much you can save, keep a note of all spending for a month. You can then set a budget that covers the essentials and see how much is left to put into savings. If you have access to the internet you can set up online bank accounts to make payments and manage finances. This would reduce the need to visit the bank or speak over the phone. Online accounts require passwords in order to access them. If you have difficultly remembering passwords, think about ways of storing password information securely (e.g. through a password management app on your mobile phone).
 - If you have difficulty writing your signature on bank documents, a facsimile signature stamp may be useful. This can be used to create a legal signature with a rubber stamp meaning you no longer need to physically write your signature. Most companies will require a copy of your signature which will then be used this to customise your portable stamp. You can buy these online (e.g., from Amazon).
 - Symptoms such as tremor may make it difficult for you to retrieve your credit/debit cards from your purse or wallet. If this is the case, it might be helpful to use an automatic pop-up card wallet. These wallets have a small lever (usually at the bottom) which slides your cards out in order without them falling out, making them easily accessible.
 - Consider appointing a Finance and Property Lasting Power of Attorney (LPA).
-
   - This would allow your chosen person(s) to deal with financial matters if you are not able to make decisions for yourself. This includes paying bills, deciding how to spend your money, collecting pensions, and managing bank or building society accounts.
   - It’s important to apply for LPA while you still have mental capacity (you’re able to make decisions). If you lose decision-making capacity before having an LPA in place, someone will have to apply to the Court of Protection to manage your money. This can be a slow and expensive process.
-  - See our _Legal Matters_ page for more information about the different types of LPA and how to set these up.
+  - See our <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page for more information about the different types of LPA and how to set these up.
 
 ---
 
 ## Government Benefits
-
-There are a number of benefits you may be entitled to. These can help with extra costs of living with Parkinson’s. If you find these complicated don’t worry, there are several sources of help available – see the _More Information_ section for more details.
+There are a number of benefits you may be entitled to. These can help with extra costs of living with Parkinson’s. If you find these complicated don’t worry, there are several sources of help available – see the bottom of this page for more details and links to these sources.
 
 <div class="video-container">
 <iframe 
@@ -61,22 +50,17 @@ There are a number of benefits you may be entitled to. These can help with extra
 
 ### For People with Parkinson’s:
 
----
-
-### Attendance Allowance
-
+_**Attendance Allowance**_
 Attendance Allowance helps those who are State Pension age or older with extra costs of living with an illness or disability. It is paid to the person who requires support with their personal care or safety (not to a carer). There are two payment rates and how much you receive depends on the level of support you need – not on the help you are already receiving.
 
-This is a non means-tested benefit; the amount awarded is not dependent on your income or savings.
-See extra information below about whether you are eligible for Attendance Allowance.
+This is a **non means-tested** benefit; the amount awarded is not dependent on your income or savings.
 
 To be eligible to claim, you must:
-
-✓ Be State Pension age or older (you can check the State Pension age using the government online calculator)
-✓ Have had care or supervision needs for the last 6 months
-✓ Have been living in the UK for 2 of the last 3 years and your immigration status does not prevent you claiming
-✓ Be living in the UK
-✓ Be terminally ill or have a severe physical and/or mental disability and require care or supervision
+- Be State Pension age or older (you can check the State Pension age using the government online calculator)
+- Have had care or supervision needs for the last 6 months
+- Have been living in the UK for 2 of the last 3 years and your immigration status does not prevent you claiming
+- Be living in the UK
+- Be terminally ill or have a severe physical and/or mental disability and require care or supervision
 
 ---
 
