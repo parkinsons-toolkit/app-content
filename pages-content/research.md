@@ -89,18 +89,14 @@ have been associated with Parkinson's. These are examples of ‘environmental fa
 
   **Clinical trials** trials test new potential medications to see if they  can help slow down or protect against the damage Parkinson’s causes to the brain. These studies not only help find potential treatments but also provide insights into what might cause Parkinson’s in the first place.
 
--
-
 ## What Links Have Been Found to Parkinson's?
 Researchers have identified several factors that may be linked to Parkinson’s disease, though much is still being discovered. Here’s what has been discovered so far:
 - **Ageing** – The risk of developing Parkinson’s increases significantly with age. Although some people develop Parkinson’s under the age of 50 (known as young-onset Parkinson’s), this is much less common. Why ageing plays such a big role is still not fully understood, but older age remains the strongest known risk factor.
 - **Genetics** – In rare cases, Parkinson’s can run in families due to specific genetic mutations. If a family has several family members with Parkinson’s, it is often due to inherited genes. However, this only accounts for a small percentage of cases. Research suggests that for about 30% of people with Parkinson’s, a combination of certain genes and environmental factors might increase the risk of getting Parkinson’s disease.
 - **Changes in Brain Cell Function** – Studies on animals and humans have shown that nerve cells in the brain become more vulnerable to damage.  Key parts of these cells, such as the energy cells (mitochondria) and defence cells (immune cells), can come under attack or stop working properly, which could lead to Parkinson’s.
-- **Role of Gut Microbiome Gut/Brain Axis** – Research suggests that changes in one’s defence (immune system) affects how the gut and brain talk to each other i.e., the gut/brain axis and could start off a process that, many years later, leads to Parkinson’s.  This is not yet fully understood.
+- **Role of Gut Microbiome Gut/Brain Axis** – Research suggests that changes in one’s defence (immune system) affects how the gut and brain talk to each other i.e., the gut/brain axis and could start off a process that, many years later, leads to Parkinson’s.  This is not yet fully understood.Further information can be found [here](https://www.healthline.com/nutrition/gut-brain-connection)  
 
 It is beyond the scope of this website to outline all current studies in Parkinson’s as it is an ever-developing landscape, yet we hope this gives some background on how research is helping to unlock the causes and empower you to find out more, should you wish to do so.
-
-Further information can be found [here](https://www.healthline.com/nutrition/gut-brain-connection) 
 
 ### Key Points
   - Multiple factors: Parkinson’s is likely caused by a combination of factors that interact, possibly starting decades before the symptoms appear.
@@ -119,30 +115,23 @@ There are lots of drug and treatment trials taking place in Parkinson’s diseas
 Scientists are exploring a wide range of treatment options to slow down or stop the progression of Parkinson’s. The graphic to the side represents the various research directions being explored. Several boxes are left blank to show that the list is not exhaustive – new treatment options are emerging quickly.
 
 For more inofrmation on Stem Cell Therapy:
-- [Mayo Clinic: Stem Cell Therapy Overview](https://www.mayoclinic.org/tests-procedures/bone-marrow-transplant/)
-- [Parkinson's Foundation: Reserach on Stem Cells](https://www.parkinson.org/advancing-research/our-research/npj-parkinsons-journal)
+- <a href="https://www.mayoclinic.org/tests-procedures/bone-marrow-transplant/" class="external-link" target="_blank" rel="noopener noreferrer">Mayo Clinic: Stem Cell Therapy Overview</a>
+- <a href="ttps://www.parkinson.org/advancing-research/our-research/npj-parkinsons-journal" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's Foundation: Reserach on Stem Cells</a>
 
-**Example: CUE1 Devices** – Devices such as the CUE1 can come in many different shapes and forms to help manage Parkinson’s symptoms. The CUE1, an example that people with Parkinson’s often ask about, is worn on the chest and delivers focussed vibrations (vibrotactile stimulation) to help with motor symptoms in Parkinson’s. Learn more about the CUE1 device [here](https://charconeurotech.com)
+**Example: CUE1 Devices** – Devices such as the CUE1 can come in many different shapes and forms to help manage Parkinson’s symptoms. The CUE1, an example that people with Parkinson’s often ask about, is worn on the chest and delivers focussed vibrations (vibrotactile stimulation) to help with motor symptoms in Parkinson’s. Learn more about the <a href="https://charconeurotech.com" class="external-link" target="_blank" rel="noopener noreferrer">CUE1 device</a>.
 
 While trials are still ongoing to better understand how effective it is, the CUE1 device, unlike most products still being researched, can be bought privately – there is currently a waiting list.
 
 ### Useful Resources to Stay Updated on the Latest Research
-[Parkinson’s UK](https://www.parkinsons.org.uk/research) offers a wealth of information on what causes Parkinson’s and the latest research developments. You can explore sections on the underlying science as well as updates on new studies.
+<a href="https://www.parkinsons.org.uk/research" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> offers a wealth of information on what causes Parkinson’s and the latest research developments. You can explore sections on the underlying science as well as updates on new studies.
 
-PDUK (several sections on what causes PD and research in the field)
-https://www.mayoclinic.org/diseases-conditions/parkinsons-disease/symptoms-causes/
+Below is a picture to represent the range of avenues scientists are taking to explore treatment options that can help stop Parkinson’s disease progressing. Several boxes have been left blank as this is by no means all-inclusive and new avenues are developing quite quickly:
 
-New drug trials - up to date treatments as of [date] and what is possible in the future
-There are lots of drug and treatment trials taking place in Parkinson’s disease today! Some trying to improve treatments we already have, others at finding new treatments and potential cures. It is likely that one treatment won’t ‘fit all’, as everyone with Parkinson’s is different.
+[graphic]
 
-Below is a picture to represent the range of avenues scientists are taking to explore treatment options that can help stop Parkinson’s disease progressing. Several boxes have been left blank as this is by no means all-inclusive and new avenues are developing quite quickly.
+---
 
-Insert pictures and diagrams
-
-NB devices can come in many different shapes and forms. An example that people with PD often ask about, is the CUE1 device https://charconeurotech.com.
-A device worn on the chest wall that gives out focussed vibrotactile stimulation and cueing to help with motor symptoms in PD. Although trials are still underway to better understand it’s role, unlike most products still being researched, it can be bought privately and does have a waiting list.
-
-### More Information
+## More Information
 Organisation Information about
 Organisation Phone Number Website
 National Online service which Find Research Studies:
