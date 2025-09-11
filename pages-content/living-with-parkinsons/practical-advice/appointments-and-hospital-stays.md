@@ -253,25 +253,29 @@ If you are not happy about your care, you can consider talking to the team looki
 
 Other advocates include charities e.g. Parkinson’s UK and the advocacy and information service _POhWER_. Also your <a href="https://www.healthwatch.co.uk/your-local-healthwatch/list" class="external-link" target="_blank" rel="noopener noreferrer">local healthwatch</a> can help.
 
-More information is available on the NHS website <a href="https://www.nhs.uk/" class="external-link" target="_blank" rel="noopener noreferrer"NHS Website</a>.
+More information is available on the <a href="https://www.nhs.uk/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a>.
 
 ---
 
-# Discharge from hospital
+## Discharge from hospital
 Before you leave hospital, there are various plans that need to be put in place:
 
-## Support
+### Support
 Has there been a change in what you are able to do that might mean you should have different support at home? This might be temporary while you continue to recover. It might be longer term.  
 A range of professionals can assess your needs.  
 This will consider tasks you undertake in your daily life. The professional who will complete this will depend on the circumstances.
 
-## My Experience
+---
+
+### My Experience
 People affected by Parkinson’s describe their experiences.
 
 > So, they said they could make sure he can get up a couple of steps. And I think the stair-lift had to be fitted before he come home. And they had to assess the house and all that.
 > _(Carer of someone with Parkinson’s)_
 
-## Medication
+---
+
+### Medication
 There is a process of providing a list of medication that you should be taking on discharge from the hospital. Also, for providing sufficient supply if you do not already have it. It is important that the hospital team lets you, your GP and Parkinson’s specialist team know of any medication changes. They should also include the reasons for any changes. Bear in mind it can take a week or so for the GP to be made aware of any medicine changes. You may need to talk to your GP soon after discharge to go through these changes.
 
 You may need further medical input to follow-up after your admission. This may be at the hospital or via your GP. In some cases the exact appointment will not be made before you leave hospital. It is important to make sure you understand what the plan is:
@@ -295,13 +299,13 @@ Note it is important to communicate any changes in your living arrangements. Thi
 ## Decision making
 Decisions about health and care should be taken together with your healthcare professional. This is shared decision making. The healthcare professional gives you advice, and you have the final decision. This does not mean you can demand a treatment that is not thought to be right for you by professionals, but that you are in control of your care.
 
-Sometimes thinking and memory problems can interfere with a person’s ability to make decisions. If this is the case, they may ‘lack capacity’ to make the decision. Capacity can be different for different decisions, this is usually due to complexity. It can also vary over time. See _Legal Matters_ for more information on what happens if someone ‘lacks capacity’ for the decisions around their care. 
+Sometimes thinking and memory problems can interfere with a person’s ability to make decisions. If this is the case, they may ‘lack capacity’ to make the decision. Capacity can be different for different decisions, this is usually due to complexity. It can also vary over time. See <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> for more information on what happens if someone ‘lacks capacity’ for the decisions around their care. 
 
 If someone lacks capacity to consent to the hospital admission and care, and they require constant supervision, then a legal process must be followed. This is known as ‘Deprivation of Liberty Safeguards’ (DOLS). This is to protect them and make sure decisions are taken in their ‘best interests’. In some cases this may involve keeping them in hospital even when they say they want to go home.  
 
 This is if being treated in hospital is in their best interests.
 
-Some people will have a Power of attorney in place, in which case the healthcare professionals will include them in decision making. Please see _Legal Matters_ for further details about this.
+Some people will have a Power of attorney in place, in which case the healthcare professionals will include them in decision making. Please see <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> for further details about this.
 
 If someone has a mental health problem that causes them to be at serious risk to themselves or others, then a legal framework may be used to make some health decisions for them. This could be to stay in hospital, or for treatment for the mental health problem. The law that is followed is the Mental Health Act.
 
@@ -314,6 +318,8 @@ If someone has a mental health problem that causes them to be at serious risk to
   allowfullscreen>
 </iframe>
 </div>
+
+---
 
 ## More Information
 
