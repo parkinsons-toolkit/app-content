@@ -76,7 +76,7 @@ Reduced movements can also make it more difficult to clean yourself after using 
 - Some people find a ‘bottom wiper’, which is a long handle aid, helpful.
 - Flushable moist toilet/wet wipes can help with this (although there are concerns these are not environmentally friendly, as can block narrow drainpipes and take a long time to disintegrate).
 
-See our <a href="/learn/managing-symptoms/urination" class="internal-link">Urinary Symptoms</a> and <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> pages for more tips.
+See our <a href="/learn/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a> and <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> pages for more tips.
 
 ### Movements in & around bed
 These may be tricky due to stiffness, reduced movements and balance problems.
@@ -87,7 +87,7 @@ These may be tricky due to stiffness, reduced movements and balance problems.
   - Don’t wear satin pyjamas at the same time as satin sheets – this will increase the risk of sliding out of bed too quickly.
 - Light weight bedding is preferable.
 
-If the issue is about feeling weak or dizzy when getting out of bed, see the <a href="/learn/managing-symptoms/dizziness" class="internal-link">Dizziness</a> symptom page for tips.
+If the issue is about feeling weak or dizzy when getting out of bed, see the <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> symptom page for tips.
 
 ### Eating & drinking
 There are a range of steps with regards to food and drink:
@@ -134,7 +134,6 @@ Living with Parkinson’s can make daily activities and chores more difficult as
 ---
 
 ## My Experience
-
 People affected by Parkinson’s describe their experiences.
 
 > “If I’m having people around for dinner, I’ve got to make sure I’ve got a quiet day either side and I’ve got to plan ahead. So I’ll lay the table a couple of days before and I’ll try and shop and do a lot of the preparation before I actually have people round.”  
@@ -142,12 +141,12 @@ People affected by Parkinson’s describe their experiences.
 
 ---
 
-# What equipment might help?
+## What equipment might help?
+Occupational therapists may suggest a rehabilitation approach. They will work with you to learn how to do things with a different approach. However, they may still suggest equipment.
 
-Occupational therapists may suggest a rehabilitation approach. They will work with you to learn how to do things with a different approach. However, they may still suggest equipment.  
-The world of equipment can be overwhelming, and costly. Some equipment may be paid for by the NHS or through your local Social Services, but some you will need to buy yourself.  
-We strongly recommend you speak to an occupational therapist before buying equipment. They will assess your needs, talk about different strategies and recommend the equipment that is best for you.  
-They can then guide you through how to get the equipment if this is needed.
+The world of equipment can be overwhelming, and costly. Some equipment may be paid for by the NHS or through your local Social Services, but some you will need to buy yourself.
+
+_We strongly recommend you speak to an occupational therapist before buying equipment. They will assess your needs, talk about different strategies and recommend the equipment that is best for you. They can then guide you through how to get the equipment if this is needed._
 
 <div class="video-container">
 <iframe 
@@ -159,192 +158,58 @@ They can then guide you through how to get the equipment if this is needed.
 </iframe>
 </div>
 
-## Equipment for Bathing & Showering
-
-- Bath & shower seats can help you get in and out of the bath with less risk of falling and to avoid others doing heavy lifting if you need help. They reduce problems with balance encountered when standing in the shower.
+### Equipment for Bathing & Showering
+- **Bath & shower seats** can help you get in and out of the bath with less risk of falling and to avoid others doing heavy lifting if you need help. They reduce problems with balance encountered when standing in the shower.
 - Some bath seats sit across the top of the bath, either as a seat or as a simple board, which can be removable or on a hinge – note if on a hinge, it can be more complex and can be lowered into the bath manually or electrically.
   - Seats for shower cubicles can be free standing (stool or chair) or flip-down seat mounted on the wall.
 - There are many different types: Small, waterproof stools to large, electrically powered seats.
 - The seat that is best for you will depend on your shower or bath unit and your own preferences.
-- The next step up from these equipment suggestions are more significant changes to your bathroom. See the Housing page for information about adaptations.
+- The next step up from these equipment suggestions are more significant changes to your bathroom. See the <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for information about adaptations.
 
-## My Experience
+---
 
+### My Experience
 People affected by Parkinson’s describe their experiences.
 
 > “When I knew I was having a problem getting out of the bath, I worked it out myself that I would have to do something in the bathroom. And I spoke to Age UK to get their advice. And they suggested grab rails. Then came the problem of buying the grab rails and installing them.  
-> And one of my neighbours volunteered to.”  
-> _(Person with Parkinson’s)_
-
-## Equipment for Toileting
-
-- Hand-held urinals are available for both men and women. This can be helpful if you need to urinate urgently but can’t get up quickly enough to go.
-- Commodes are moveable toilets without running water – like a chair with a container underneath. These can be useful if you need the toilet urgently or often, especially at night.
-- Discreet disposable pads can go in underwear in case of leakage.
-- Some men with urinary incontinence prefer to use a sheath that fits over the penis and collects urine in a bag that straps to the leg.
-
-**Raised toilet seats** can help you get up more easily from a seated position on the toilet.
-
-- Make sure it is large enough for you to sit on comfortably and avoid leakage.
-- Make sure it isn’t too high for other people in the house.
-- Ensure that it can be safely removed and replaced.
-- Ask for assistance if you’re not able to fix it securely on the toilet.
-
-- Grab rails – various types of rails can be installed to help you get on and off the toilet. See the Housing page for more details on home adaptations.
-
-Also see the Urinary Symptoms and Bowel Symptoms pages for more tips.
-
-Here is your latest content converted into **Markdown format**, with no changes to the original wording:
-
-# Movements in & around bed
-
-These may be tricky due to stiffness, reduced movements and balance problems.
-
-- Satin sheets can help you turn over in bed
-  - You can buy them either off-the-shelf satin sheets or specially designed sheets with satin panels (e.g. a panel of satin going across the middle of the bed where hips would rest)
-  - If you use satin sheets or panels, make sure there is an area of friction at either end or sides of the bed so you can get a grip on something
-- Satin pyjamas can also help you turn in bed.
-  - Don’t wear satin pyjamas at the same time as satin sheets – this will increase the risk of sliding out of bed too quickly.
-- Light weight bedding is preferable.
-
-If the issue is about feeling weak or dizzy when getting out of bed, see the Dizziness symptom page for tips.
-
----
-
-# Eating & drinking
-
-There are a range of steps with regards to food and drink:
-
-- Grocery shopping may be more difficult due to reduced mobility or balance.
-
-  - Consider online deliveries
-  - Consider what services are available locally
-  - Consider teaming up with a friend or neighbour to do the shopping together
-
-- Meal preparation may be hard due to reduced dexterity or grip, or tremor or dyskinesia.  
-  Difficulties in thinking can affect planning and can make cooking more difficult.
-
-  - Cutlery with wider handles may be easier to use.
-  - Special equipment has been developed for these difficulties – see below.
-  - You may find it easier to follow a recipe step-by-step and tick off as you go through.
-
-- Handling food and drink may be more difficult for the same reasons:
-
-  - Cutlery with wider handles may be easier to use.
-  - Consider the timing of your meals to avoid the times when your symptoms are worse.
-  - Consider sports bottles, cups that have a narrow nozzle, or cups with lids (e.g. travel cups or ‘sip cups’) to reduce the risk of spillages.
-  - Place foods or liquids in smaller containers to make them easier to grab and handle. For example, it’s easier to manage a pint of milk rather than a larger, heavier 4 pint milk carton.
-  - Special equipment has been developed for these difficulties – see below.
-
-- For difficulties in swallowing, please see the Swallowing Difficulties symptom page.
-
-## My Experience
-
-People affected by Parkinson’s describe their experiences.
-
-> “Maybe there’s things for people like my mum, she likes to stay independent – like sometimes she’ll say ‘Do you know what, I want to cook today’, you know like electric tin cutters and things like that to help make your life a bit easier.”  
-> _(Carer of someone with Parkinson’s)_
-
----
-
-# Domestic tasks
-
-Living with Parkinson’s can make daily activities and chores more difficult as the condition progresses. If this is affecting you, there are things you can do and support you can access to help you to maintain your independence.
-
-- **Plan ahead**
-
-  - On the night before, think about how you plan to spend the day. This can be domestic tasks, social activities, appointments, what to eat, etc. It may take you longer to complete the tasks than before your diagnosis. This is perfectly fine, so allow enough time to not rush.
-
-- **Get rest between chores**
-
-  - You might find some tasks are harder than others or take up more time and energy. It’s important to rest for 30 minutes between chores to prevent you from feeling fatigued. Make sure this is something you find relaxing that doesn’t involve physically or mentally pushing yourself. For example, reading a book, watching TV, or sleeping for 30 minutes.
-
-- **Set achievable goals**
-
-  - Setting unrealistic goals can put you under pressure to complete everything in that day. It is okay to finish the task when you feel less tired (whether that’s on the same day or another day). It is recommended to start with less demanding tasks and increase them throughout the day, if appropriate.
-
-- **Consider your cleaning equipment**
-
-  - Use cleaning equipment with long handles on mops, brushes, and dust pans. This will help you to avoid bending down or being in positions that may be hard to get back up from. An Occupational Therapist (OT) can make recommendations tailored to you.
-
-- **Adapt your approach**
-  - If energy or balance are significant concerns, try sitting down while doing tasks such as ironing, washing, and folding to reduce the risk of falls and amount of energy used.
-
-## My Experience
-
-People affected by Parkinson’s describe their experiences.
-
-> “If I’m having people around for dinner, I’ve got to make sure I’ve got a quiet day either side and I’ve got to plan ahead. So I’ll lay the table a couple of days before and I’ll try and shop and do a lot of the preparation before I actually have people round.”  
+And one of my neighbours volunteered to.”  
 > _(Person with Parkinson’s)_
 
 ---
 
-# What equipment might help?
+### Equipment for Toileting
+- **Hand-held urinals** are available for both men and women. This can be helpful if you need to urinate urgently but can’t get up quickly enough to go.
+- **Commodes** are moveable toilets without running water – like a chair with a container underneath. These can be useful if you need the toilet urgently or often, especially at night.
+- **Discreet disposable pads** can go in underwear in case of leakage.
+- Some men with urinary incontinence prefer to use a **sheath** that fits over the penis and collects urine in a bag that straps to the leg.
+- **Raised toilet seats** can help you get up more easily from a seated position on the toilet.
+  - Make sure it is large enough for you to sit on comfortably and avoid leakage.
+  - Make sure it isn’t too high for other people in the house.
+  - Ensure that it can be safely removed and replaced.
+  - Ask for assistance if you’re not able to fix it securely on the toilet.
+- **Grab rails** – various types of rails can be installed to help you get on and off the toilet. See the <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for more details on home adaptations.
 
-Occupational therapists may suggest a rehabilitation approach. They will work with you to learn how to do things with a different approach. However, they may still suggest equipment.  
-The world of equipment can be overwhelming, and costly. Some equipment may be paid for by the NHS or through your local Social Services, but some you will need to buy yourself.  
-We strongly recommend you speak to an occupational therapist before buying equipment. They will assess your needs, talk about different strategies and recommend the equipment that is best for you.  
-They can then guide you through how to get the equipment if this is needed.
+Also see the <a href="/learn/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a> and <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> pages for more tips.
 
-## Equipment for Bathing & Showering
-
-- Bath & shower seats can help you get in and out of the bath with less risk of falling and to avoid others doing heavy lifting if you need help. They reduce problems with balance encountered when standing in the shower.
-- Some bath seats sit across the top of the bath, either as a seat or as a simple board, which can be removable or on a hinge – note if on a hinge, it can be more complex and can be lowered into the bath manually or electrically.
-  - Seats for shower cubicles can be free standing (stool or chair) or flip-down seat mounted on the wall.
-- There are many different types: Small, waterproof stools to large, electrically powered seats.
-- The seat that is best for you will depend on your shower or bath unit and your own preferences.
-- The next step up from these equipment suggestions are more significant changes to your bathroom. See the Housing page for information about adaptations.
-
-## My Experience
-
-People affected by Parkinson’s describe their experiences.
-
-> “When I knew I was having a problem getting out of the bath, I worked it out myself that I would have to do something in the bathroom. And I spoke to Age UK to get their advice. And they suggested grab rails. Then came the problem of buying the grab rails and installing them.  
-> And one of my neighbours volunteered to.”  
-> _(Person with Parkinson’s)_
-
-## Equipment for Toileting
-
-- Hand-held urinals are available for both men and women. This can be helpful if you need to urinate urgently but can’t get up quickly enough to go.
-- Commodes are moveable toilets without running water – like a chair with a container underneath. These can be useful if you need the toilet urgently or often, especially at night.
-- Discreet disposable pads can go in underwear in case of leakage.
-- Some men with urinary incontinence prefer to use a sheath that fits over the penis and collects urine in a bag that straps to the leg.
-
-**Raised toilet seats** can help you get up more easily from a seated position on the toilet.
-
-- Make sure it is large enough for you to sit on comfortably and avoid leakage.
-- Make sure it isn’t too high for other people in the house.
-- Ensure that it can be safely removed and replaced.
-- Ask for assistance if you’re not able to fix it securely on the toilet.
-
-- Grab rails – various types of rails can be installed to help you get on and off the toilet. See the Housing page for more details on home adaptations.
-
-Also see the Urinary Symptoms and Bowel Symptoms pages for more tips.
-
-## Bed & Mattress Equipment
-
-These make it easier to get in and out of bed or to reposition in bed. Note ‘grab rails’, fixed to the wall, are discussed within adaptations on the Housing page. The height of your bed affects how easy it is to push yourself off the bed or to sit down. The ideal height of the bed surface depends on how tall you are, but many people find raising the bed or mattress helps.
+### Bed & Mattress Equipment
+These make it easier to get in and out of bed or to reposition in bed. Note ‘grab rails’, fixed to the wall, are discussed within _adaptations_ on the <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page. The height of your bed affects how easy it is to push yourself off the bed or to sit down. The ideal height of the bed surface depends on how tall you are, but many people find raising the bed or mattress helps.
 
 - **Bed raisers** raise the whole bed a few inches:
-
   - Come in various heights – usually between 3–6 inches
   - Come in various materials to match the existing bed legs – wood, plastic, or metal
   - Make sure the bed raisers are stable and well supported
   - The legs of the bed must sit deep within the bed raisers, not rest on top of the raisers, or they might slip off
   - You must be able to touch the floor with your feet
-
+  
 - **Mattress Variators or Pillow Lifters** help lift you up into a seated position. They are more effective for fairly thin mattresses as thicker mattresses are difficult to bend and can scrunch up in the middle (less helpful and less comfortable). Mattress raisers come in different types:
-
-  - _Mechanical_ – can be set to a certain degree of elevation, but are more difficult to reposition
-  - _Electric_ – allow you to raise and lower the bed using a handheld control
-  - _Pneumatic_ – use air to inflate a pillow-like device under the mattress to raise and lower it. They can be set to inflate only on one side, turning you at the same time
-
-  **Choosing and using a mattress raiser:**
-
-  - Check that the controls are easy to use – single button controls might be simplest
-  - Check how noisy the device is
-  - Make sure electric cords, feeding lines or bedding won’t get caught up when the raiser is in motion
-  - Be aware that in the raised position, a mattress raiser can cause you to slide down and out of the bed
+  - Mechanical – can be set to a certain degree of elevation, but are more difficult to reposition
+  - Electric – allow you to raise and lower the bed using a handheld control
+  - Pneumatic – use air to inflate a pillow-like device under the mattress to raise and lower it. They can be set to inflate only on one side, turning you at the same time.
+  - Choosing and using a mattress raiser:
+    - Check that the controls are easy to use – single button controls might be simplest
+    - Check how noisy the device is
+    - Make sure electric cords, feeding lines or bedding won’t get caught up when the raiser is in motion
+    - Be aware that in the raised position, a mattress raiser can cause you to slide down and out of the bed
 
 - **Bed levers or bed rails** fix to the bed and have a metal handle that extends up the side of the mattress
 
