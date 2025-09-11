@@ -74,17 +74,13 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
 ## Bone Health
 - Broken bones, or fractures, are more likely to happen if you have fragile bones and if you fall over.
 - It is recommended that everyone with Parkinson’s take vitamin D supplements to help maintain bone strength.
-
-  - You can buy these from the chemist. If you do not need to take calcium tablets as well, you can buy these as **Vitamin D3**. We would normally recommend taking a daily dose of **20 or 25 micrograms (μg)** which is equivalent to **800 or 1000 units a day** (unless your doctor has recommended a different dose). If you are not sure on what dose to take, or if you should take calcium as well, discuss this with your GP.
+  - You can buy these from the chemist. If you do not need to take calcium tablets as well, you can buy these as Vitamin D3. We would normally recommend taking a daily dose of 20 or 25 micrograms (μg) which is equivalent to 800 or 1000 units a day (unless your doctor has recommended a different dose). If you are not sure on what dose to take, or if you should take calcium as well, discuss this with your GP.
   - If you are particularly at risk, your GP may do a blood test to check your vitamin D level. If they are low, you may need a higher dose of vitamin D to bring your levels back up to normal.
-
-- As people get older, in particular women, their bones can become less dense and more brittle. If this is higher than expected for your age, you may be diagnosed with **Osteoporosis**. If your bones are thinner, this makes them more likely to fracture from low impact injuries (e.g. breaking your wrist after falling).
+- As people get older, in particular women, their bones can become less dense and more brittle. If this is higher than expected for your age, you may be diagnosed with Osteoporosis. If your bones are thinner, this makes them more likely to fracture from low impact injuries (e.g. breaking your wrist after falling).
 - If you have sustained a broken bone from a low impact injury, your GP should assess your bone health.
-
   - They will take into account your height, weight and risk factors (e.g. smoking).
-  - Depending on the outcome of this assessment, they may want to do blood tests and/or a bone scan (called a **DXA scan**).
-
-- There are medications that can help to strengthen bones if they are found to be low density. They may also prescribe combined **calcium and vitamin D3 tablets**.
+  - Depending on the outcome of this assessment, they may want to do blood tests and/or a bone scan (called a DXA scan).
+- There are medications that can help to strengthen bones if they are found to be low density. They may also prescribe combined calcium and vitamin D3 tablets.
 
 <div class="video-container">
 <iframe 
@@ -96,9 +92,11 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
 </iframe>
 </div>
 
-# Lifestyle Choices
+---
 
-## Smoking
+## Lifestyle Choices
+
+### Smoking
 
 - Smoking has negative impacts on many aspects of health. It can contribute to symptoms such as fatigue, loss of taste and smell, sexual problems, and low mood and anxiety.
 - Research has shown there are lower rates of smoking in people with Parkinson’s compared with people without Parkinson’s. Why this is the case is not fully understood. But, research so far concludes that risks of smoking outweigh the benefits. There is no evidence that smoking will stop or slow Parkinson’s.
