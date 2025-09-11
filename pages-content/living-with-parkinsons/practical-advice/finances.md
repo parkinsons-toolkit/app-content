@@ -346,9 +346,11 @@ To be eligible, you must:
 - Have care needs that are primarily ‘healthcare needs’ and beyond the scope of local authority social care services
 > A diagnosis of Parkinson’s does **not** guarantee CHC funding.
 
-There is no application form for CHC. Instead, professionals carry out an **assessment** to determine your care needs. If granted, the funding will be **reviewed every 3 months** as it is not given on a permanent basis.
+There is no application form for CHC. Instead, professionals carry out an assessment to determine your care needs. If granted, the funding will be reviewed every 3 months as it is not given on a permanent basis. 
 
-For more information about CHC, see the **public information leaflet** (linked in our _More Information_ section) provided by the Department of Health and Social Care. You may like to seek help with whether you might be eligible from national helping agencies (see list below) or **Citizens Advice**.
+For more information about CHC, see the public information leaflet (linked in our More Information section) provided by the Department of Health and Social Care. You may like to seek help with whether you might be eligible from national helping agencies (see list below) or Citizens Advice. 
+
+---
 
 # More Information
 
