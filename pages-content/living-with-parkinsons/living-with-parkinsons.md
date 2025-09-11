@@ -13,16 +13,16 @@ In this _Living with Parkinson's_ section, you will find information on a variet
   - <a href="/learn/living-with-parkinsons/optimising-wellbeing/dealing-with-stress-and-challenges" class="internal-link">_Dealing With Stress & Challenges_</a>
   - <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a>
 - _**Practical Advice**_ This page addresses many practical issues you may come across when living with Parkinson’s, including:
-  - Appointments & Hospital Stays
-  - Finances
-  - Hobbies & Pets
-  - Housing
-  - Legal Issues
-  - Mobility
-  - Daily Living
-  - Reading, Writing & Technology
-  - Travel
-  - Work & Caring
+  - <a href="/learn/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Appointments & Hospital Stays_</a>
+  - <a href="/learn/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a>
+  - <a href="/learn/living-with-parkinsons/practical-advice/hobbiess-and-pets" class="internal-link">_Hobbies & Pets_</a>
+  - <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a>
+  - <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a>
+  - <a href="/learn/living-with-parkinsons/practical-advice/mobility" class="internal-link">_Mobility_</a>
+  - <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a>
+  - <a href="/learn/living-with-parkinsons/practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> 
+  - <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a>
+  - <a href="/learn/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a>
 - _**Planning and Future Care**_ guides you through planning for the future, a process that often involves conversations with you, your family and healthcare professionals. This section covers 3 key topics:
   1. _Progression of Symptoms_ (it is important to remember that symptom progression varies widely among individuals with Parkinson’s).
   2. _Future Care Options_ – thinking about your future care and decision making, including Lasting Power of Attorney (LPA) and Living Wills.
