@@ -18,7 +18,6 @@ There are some tried and tested methods to do this. You could make changes to th
 ---
 
 ## What can I try for myself?
-
 All the tips and strategies here are things you could try for yourself. If you keep having problems, there are certain professionals who can help you: occupational therapists and physiotherapists. They will first want to have an assessment with you. They can then share more strategies and advice on equipment that may help you (discussed further below). Ask your GP or Parkinson’s team about a referral.
 
 <div class="video-container">
@@ -31,40 +30,33 @@ All the tips and strategies here are things you could try for yourself. If you k
 </iframe>
 </div>
 
-## Bathing & showering
-
+### Bathing & showering
 These can become more difficult, especially due to concerns over slipping and falling.
-
 - Do not use radiators or toilet roll holders to push/lean on or taps or towel rail to pull up from to help you get up – these can come off the wall and cause a fall.
-- If you do need something to hold on to, adaptations such as grab rails are discussed on the Housing page.
+- If you do need something to hold on to, adaptations such as grab rails are discussed on the <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page.
 - Shower heads on a hose rather than fixed in place can help you get the water exactly where it’s needed.
 
-## Moving around the home
-
+### Moving around the home
 - Remove old items from around the home to increase space.
 - Remove loose rugs to prevent trips and falls.
 - You may find it helpful to rearrange furniture to increase the amount of space you have to move around and reduce risk of trips or falls.
 - Use seating that is firm, has a straight back and has arms. These will be easier to get up from.
-- Also see our Mobility page for more advice on getting around.
+- Also see our <a href="/learn/living-with-parkinsons/practical-advice/mobility" class="internal-link">_Mobility_</a> page for more advice on getting around.
 
-## Grooming & dental care
-
+### Grooming & dental care
 Shaving, brushing your hair, applying make-up or brushing your teeth can all become more difficult due to reduced dexterity or grip or additional movements like tremor or dyskinesia.
-
 - Sit at the sink. Sitting on a perching stool or chair can help provide some extra stability.
 - Resting your elbows on the sink edge can increase stability.
-- Consider an electric toothbrush – most have a wider handle, can be heavier and require less detailed movement. You can also try foam tubing to widen the tooth brush handle.
+- Consider an electric toothbrush – most have a wider handle, can be heavier and require less detailed movement. You can also try foam tubing to widen the toothbrush handle.
 - Brushing teeth to music can help.
 - Consider an electric shave rather than a razor blade.
 - Consider a wide brush handle over a small comb for brushing hair.
 
-Managing dental hygiene is important for the health of your teeth and gums. Poor dental hygiene can worsen symptoms, such as difficulties eating. See General Medical Advice section for more on this.
+Managing dental hygiene is important for the health of your teeth and gums. Poor dental hygiene can worsen symptoms, such as difficulties eating. See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle factors" class="internal-link">_Lifestyle Factors_</a> page for more on this.
 
-## Dressing
-
+### Dressing
 Dressing may become more difficult due to stiffness, reduced dexterity or difficulties balancing.  
 Reduced hand movements can affect fastenings, like buttons and zips.
-
 - Allow yourself time to get dressed.
 - Where possible sit to dress on the edge of the bed or chair.
 - Try Velcro fastenings.
@@ -74,24 +66,20 @@ Reduced hand movements can affect fastenings, like buttons and zips.
 - Try a front fastening bra or bra top.
 - Attach a fabric loop or pull to your zipper.
 - Small aids such as a button hook may help.
-- Elastic shoe laces can be easier.
+- Elastic shoelaces can be easier.
 - Try a long handled shoe horn to put shoes on.
 
-## Using the toilet
-
-Getting up and to the toilet, and then getting up from the toilet again can be tricky if your movements are stiffer, slower or less well balanced. This is extra tricky if the toilet seat is lower than knee level.  
+### Using the toilet
+Getting up and to the toilet and then getting up from the toilet again can be tricky if your movements are stiffer, slower or less well balanced. This is extra tricky if the toilet seat is lower than knee level.  
 Reduced movements can also make it more difficult to clean yourself after using the toilet.
-
 - Try to remove obstacles from your route to the toilet from your main living area.
 - Some people find a ‘bottom wiper’, which is a long handle aid, helpful.
 - Flushable moist toilet/wet wipes can help with this (although there are concerns these are not environmentally friendly, as can block narrow drainpipes and take a long time to disintegrate).
 
-Urinary Symptoms and Bowel Symptoms pages for more tips.
+See our <a href="/learn/managing-symptoms/urination" class="internal-link">Urinary Symptoms</a> and <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> pages for more tips.
 
-# Movements in & around bed
-
+### Movements in & around bed
 These may be tricky due to stiffness, reduced movements and balance problems.
-
 - Satin sheets can help you turn over in bed
   - You can buy them either off-the-shelf satin sheets or specially designed sheets with satin panels (e.g. a panel of satin going across the middle of the bed where hips would rest)
   - If you use satin sheets or panels, make sure there is an area of friction at either end or sides of the bed so you can get a grip on something
@@ -99,39 +87,29 @@ These may be tricky due to stiffness, reduced movements and balance problems.
   - Don’t wear satin pyjamas at the same time as satin sheets – this will increase the risk of sliding out of bed too quickly.
 - Light weight bedding is preferable.
 
-If the issue is about feeling weak or dizzy when getting out of bed, see the Dizziness symptom page for tips.
+If the issue is about feeling weak or dizzy when getting out of bed, see the <a href="/learn/managing-symptoms/dizziness" class="internal-link">Dizziness</a> symptom page for tips.
 
----
-
-# Eating & drinking
-
+### Eating & drinking
 There are a range of steps with regards to food and drink:
-
 - Grocery shopping may be more difficult due to reduced mobility or balance.
-
   - Consider online deliveries
   - Consider what services are available locally
   - Consider teaming up with a friend or neighbour to do the shopping together
-
-- Meal preparation may be hard due to reduced dexterity or grip, or tremor or dyskinesia.  
-  Difficulties in thinking can affect planning and can make cooking more difficult.
-
+- Meal preparation may be hard due to reduced dexterity or grip, or tremor or dyskinesia. Difficulties in thinking can affect planning and can make cooking more difficult.
   - Cutlery with wider handles may be easier to use.
   - Special equipment has been developed for these difficulties – see below.
   - You may find it easier to follow a recipe step-by-step and tick off as you go through.
-
 - Handling food and drink may be more difficult for the same reasons:
-
   - Cutlery with wider handles may be easier to use.
   - Consider the timing of your meals to avoid the times when your symptoms are worse.
   - Consider sports bottles, cups that have a narrow nozzle, or cups with lids (e.g. travel cups or ‘sip cups’) to reduce the risk of spillages.
   - Place foods or liquids in smaller containers to make them easier to grab and handle. For example, it’s easier to manage a pint of milk rather than a larger, heavier 4 pint milk carton.
   - Special equipment has been developed for these difficulties – see below.
+- For difficulties in swallowing, please see the <a href="/learn/managing-symptoms/swallowing" class="internal-link">Swallowing Difficulties</a> symptom page.
 
-- For difficulties in swallowing, please see the Swallowing Difficulties symptom page.
+---
 
 ## My Experience
-
 People affected by Parkinson’s describe their experiences.
 
 > “Maybe there’s things for people like my mum, she likes to stay independent – like sometimes she’ll say ‘Do you know what, I want to cook today’, you know like electric tin cutters and things like that to help make your life a bit easier.”  
@@ -139,28 +117,21 @@ People affected by Parkinson’s describe their experiences.
 
 ---
 
-# Domestic tasks
-
+### Domestic tasks
 Living with Parkinson’s can make daily activities and chores more difficult as the condition progresses. If this is affecting you, there are things you can do and support you can access to help you to maintain your independence.
 
 - **Plan ahead**
-
   - On the night before, think about how you plan to spend the day. This can be domestic tasks, social activities, appointments, what to eat, etc. It may take you longer to complete the tasks than before your diagnosis. This is perfectly fine, so allow enough time to not rush.
-
 - **Get rest between chores**
-
   - You might find some tasks are harder than others or take up more time and energy. It’s important to rest for 30 minutes between chores to prevent you from feeling fatigued. Make sure this is something you find relaxing that doesn’t involve physically or mentally pushing yourself. For example, reading a book, watching TV, or sleeping for 30 minutes.
-
 - **Set achievable goals**
-
   - Setting unrealistic goals can put you under pressure to complete everything in that day. It is okay to finish the task when you feel less tired (whether that’s on the same day or another day). It is recommended to start with less demanding tasks and increase them throughout the day, if appropriate.
-
 - **Consider your cleaning equipment**
-
   - Use cleaning equipment with long handles on mops, brushes, and dust pans. This will help you to avoid bending down or being in positions that may be hard to get back up from. An Occupational Therapist (OT) can make recommendations tailored to you.
-
 - **Adapt your approach**
   - If energy or balance are significant concerns, try sitting down while doing tasks such as ironing, washing, and folding to reduce the risk of falls and amount of energy used.
+
+---
 
 ## My Experience
 
