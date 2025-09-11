@@ -1,9 +1,5 @@
 # Mobility
-
-## Introduction
-
 Mobility is quite a broad term and includes:
-
 - Walking around
 - Getting up or down stairs
 - Getting in and out of bed
