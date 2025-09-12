@@ -42,7 +42,8 @@ You can explain to others that the extra movements are part of your Parkinson’
 ## My Experience
 People affected by Parkinson’s describe their experiences.
 
-> “It can be brought on by all sorts of different things and can cause falls and the like. If we go out, we try and plan it so that we go out at what is likely to be the best window of opportunity with the medication. If we leave it too long, then [dyskinesia] problems occur.”  
+> “It can be brought on by all sorts of different things and can cause falls and the like. If we go out, we try and plan it so that we go out at what is likely to be the best window of opportunity with the medication. If we leave it too long, then [dyskinesia] problems occur.”
+> 
 > _(Carer of Someone with Parkinson’s)_
 
 ---
