@@ -6,6 +6,18 @@ Restless leg syndrome can feel like:
 
 These sensations usually occur in the evening while you are relaxing. Moving your legs will likely make them immediately feel better, but the sensations will return once they are still again. Because these feelings tend to occur or get worse at night, they can disrupt people’s sleeping schedules.
 
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/XMfBJswVFYU"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
 ---
 
 ## What Might Be Causing It?
@@ -29,6 +41,18 @@ Mild cases of restless leg may be treated with lifestyle changes, but more moder
 - Avoiding alcohol, caffeine, and smoking (particularly in the evening, when symptoms tend to be worse).
 - Establishing regular sleeping habits.
 - Maintaining a cool sleeping space. 
+
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/WoABFI4UU5o"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 
 ---
 
