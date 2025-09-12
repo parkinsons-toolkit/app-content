@@ -1,20 +1,9 @@
-# Progression and Advanced Symptoms in Parkinson’s
-
-## Introduction
-
-Everyone’s experience of Parkinson’s is different.  
-Just because some people experience the symptoms described here does not mean that you will.
+# Progression of Symptoms in Parkinson’s
+Everyone’s experience of Parkinson’s is different. Just because some people experience the symptoms described here does not mean that you will.
 
 In general, over time people may experience more symptoms, but there is no rule about which symptoms or when. For some, the uncertainty about how things will look and feel in the future is one of the most difficult parts of the Parkinson’s diagnosis.
 
-Progression may involve:
-
-- Development of new symptoms
-- Worsening of existing symptoms
-- Increasing difficulty controlling symptoms
-
-Here we discuss challenges around progression and some of the more advanced symptoms.  
-For other symptoms, see the **Symptom Management** pages.
+_Progression_ may involve the development of new symptoms or the worsening of existing symptoms. It may include an increasing difficulty controlling symptoms. Here we discuss challenges around progression and some of the more advanced symptoms. For other symptoms see the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages. 
 
 <div class="video-container">
 <iframe 
