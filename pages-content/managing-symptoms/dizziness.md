@@ -11,6 +11,17 @@ Although it can be difficult to decide which group dizziness symptoms fit into, 
 
 Many people experience balance problems or falls for other reasons. See the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page for more information.
 
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/OWfkgb2J1F8"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
 ---
 
 ## What might be causing it?
@@ -65,6 +76,17 @@ These do not change the symptom but help reduce risks:
 Speak with your GP before you try this. 
 
 For more information about blood pressure (including how to measure it), see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page.
+
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/WNIn6kQCULY"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
 
 ---
 
