@@ -68,10 +68,12 @@ Sometimes tremors can make specific tasks more difficult. Extra adaptations, sup
 ## My Experience
 People affected by Parkinson’s describe their experiences.
 
-> “For me, my tremor can lead to tension/aching in the whole arm and shoulder. As it is primarily a resting tremor, I find it helpful to have something like a squeeze ball or fir cone to hold in the hand. Also, I find that using my hand for, say, knitting releases the tension in the arm.”  
+> “For me, my tremor can lead to tension/aching in the whole arm and shoulder. As it is primarily a resting tremor, I find it helpful to have something like a squeeze ball or fir cone to hold in the hand. Also, I find that using my hand for, say, knitting releases the tension in the arm.”
+>   
 > _(Person with Parkinson’s)_
 
-> “A couple of things occur to me from my own experience of tremor; things I didn’t realise when I was first diagnosed. One is that some skills are so engrained in the motor memory that they seem to bypass tremor. So, for some people, their tremor disappears when they are driving, riding a bicycle, playing golf or playing an instrument. So keep practising those scales! It’s a ‘use it or lose it’ thing. Also, being diagnosed with a tremor doesn’t draw a line under acquiring new skills. I was inspired to start learning the piano by a woman I met on a Parkinson’s Patients Committee who had taken up the saxophone. I’m now working on my Grade Three pieces.”  
+> “A couple of things occur to me from my own experience of tremor; things I didn’t realise when I was first diagnosed. One is that some skills are so engrained in the motor memory that they seem to bypass tremor. So, for some people, their tremor disappears when they are driving, riding a bicycle, playing golf or playing an instrument. So keep practising those scales! It’s a ‘use it or lose it’ thing. Also, being diagnosed with a tremor doesn’t draw a line under acquiring new skills. I was inspired to start learning the piano by a woman I met on a Parkinson’s Patients Committee who had taken up the saxophone. I’m now working on my Grade Three pieces.”
+> 
 > _(Person with Parkinson’s)_
 
 <div class="video-container">
@@ -270,11 +272,17 @@ Environment
 • Remove rugs or mats that cause you to freeze in your home.
 • Remove clutter that makes spaces feel small.
 
-My Experience
+## My Experience
 People by affected by Parkinson’s describe their experiences.
-“I’ve got some tricks up my sleeve now. Well, I did a very good CBT course and mindfulness, and I use a variety of techniques to unfreeze myself. I use counting for its cueing. I think to myself, I’m going to move on four; I’m going to count one, two, three and four, which is the cha-cha rhythm: one, two, three, cha-cha-cha…[then move forward]. Or you could target; you pick a spot the other side of what is your barrier, and you step onto that, a particular pattern in the carpet.” (Person with Parkinson’s)
 
-“Sometimes she will freeze, and then if there’s a division, like from the carpet onto that mat, or tiles on the floor, then to get her to step over, tell her to step over that division. Sometimes I’ve told her to step over something that isn’t there, but just to get the idea of moving” (20 Carer)
+> “I’ve got some tricks up my sleeve now. Well, I did a very good CBT course and mindfulness, and I use a variety of techniques to unfreeze myself. I use counting for its cueing. I think to myself, I’m going to move on four; I’m going to count one, two, three and four, which is the cha-cha rhythm: one, two, three, cha-cha-cha…[then move forward]. Or you could target; you pick a spot the other side of what is your barrier, and you step onto that, a particular pattern in the carpet.”
+>
+> _(Person with Parkinson’s)_
+
+> “Sometimes she will freeze, and then if there’s a division, like from the carpet onto that mat, or tiles on the floor, then to get her to step over, tell her to step over that division. Sometimes I’ve told her to step over something that isn’t there, but just to get the idea of moving”
+>
+> _(Carer of someone with Parkinson's)_
+
 Further assessment
 Questions
 • Healthcare professionals are likely to ask more questions, so you could think about these in advance. Record this in your My Health section to bring to the appointment.
