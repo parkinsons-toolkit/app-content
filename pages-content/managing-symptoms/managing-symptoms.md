@@ -18,16 +18,16 @@ _Live Well with Parkinson's_ Managing Symptoms:
   - <a href="/learn/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a> 
   - <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symtoms_</a> 
 - **Mood**
-  - Low Mood<a href="/learn/managing-symptoms/low mood" class="internal-link">_Low Mood_</a>
+  - <a href="/learn/managing-symptoms/low mood" class="internal-link">_Low Mood_</a>
   - <a href="/learn/managing-symptoms/anxiety" class="internal-link">_Anxiety_</a>
   - <a href="/learn/managing-symptoms/loss-of-interest-or-drive" class="internal-link">_Loss of Interest or Drive (Apathy)_</a> 
 - **Movement, Walking & Balance**
-- <a href="/learn/managing-symptoms/stiffness-slowness-and-small-movements" class="internal-link">_Stiffness, Slowness & Small Movements_</a> 
-- <a href="/learn/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements (Dyskinesia)_</a> 
-- <a href="/learn/managing-symptoms/tremor" class="internal-link">_Tremor_</a> 
-- <a href="/learn/managing-symptoms/freezing" class="internal-link">_Freezing_</a>
-- <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a>
-- <a href="/learn/managing-symptoms/dizziness" class="internal-link">Dizziness</a>
+  - <a href="/learn/managing-symptoms/stiffness-slowness-and-small-movements" class="internal-link">_Stiffness, Slowness & Small Movements_</a>
+  - <a href="/learn/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements (Dyskinesia)_</a>
+  - <a href="/learn/managing-symptoms/tremor" class="internal-link">_Tremor_</a>
+  - <a href="/learn/managing-symptoms/freezing" class="internal-link">_Freezing_</a>
+  a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a>
+  <a href="/learn/managing-symptoms/dizziness" class="internal-link">Dizziness</a>
 - **Pain & Uncomfotable Sensations**
   - <a href="/learn/managing-symptoms/pain" class="internal-link">_Pain_</a>
   - <a href="/learn/managing-symptoms/restless-legs" class="internal-link">_Restless Legs_</a>
@@ -43,7 +43,7 @@ _Live Well with Parkinson's_ Managing Symptoms:
   - <a href="/learn/managing-symptoms/sweating" class="internal-link">_Sweating_</a>
   - <a href="/learn/managing-symptoms/leg-and-ankle-swelling" class="internal-link">_Leg and Ankle Swelling_</a>
 - **Sleep, Dreams & Tiredness**
-  - <a href="/learn/managing-symptoms/sleep" class="internal-link"_Sleep Disturbances_></a>
+  - <a href="/learn/managing-symptoms/sleep" class="internal-link">_Sleep Disturbances_></a>
   - <a href="/learn/managing-symptoms/dreams" class="internal-link">_Dream Disturbance_</a>
   - <a href="/learn/managing-symptoms/tiredness" class="internal-link">_Tiredness & Fatigue_</a>
 - **Thinking & Remembering**
