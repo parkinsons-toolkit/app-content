@@ -155,10 +155,12 @@ More information about these systems is available on the [NHS website](link) and
 ## My Experience
 People affected by Parkinson’s describe their experiences.
 
-> “I store things I use daily, like medication or towels, between waist and eye-level, so I can avoid reaching or bending, which can throw me off balance”  
+> “I store things I use daily, like medication or towels, between waist and eye-level, so I can avoid reaching or bending, which can throw me off balance”
+>   
 > _(Person with Parkinson’s)_
 
-> “We’ve got buzzers. We’ve got pendants really. It connects to a mainline where they talk to you through the phone. They just say, ‘what’s wrong’? They know your name and everything and then they’ll send a medic or whatever’s needed. It is good. We pay for it, but it’s worth it. It’s not much.”  
+> “We’ve got buzzers. We’ve got pendants really. It connects to a mainline where they talk to you through the phone. They just say, ‘what’s wrong’? They know your name and everything and then they’ll send a medic or whatever’s needed. It is good. We pay for it, but it’s worth it. It’s not much.”
+> 
 > _(Person with Parkinson’s)_
 
 ---
