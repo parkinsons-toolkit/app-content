@@ -76,7 +76,8 @@ Note if you have <ins>new</ins> weakness in the face, you should see your GP. <i
 ## My Experience
 People affected by Parkinson’s describe their experiences.
 
-> “If I didn’t dribble it would help, but sucking a polo helps. I tried sugary sweets, but that didn’t work very well. It got all sticky.”  
+> “If I didn’t dribble it would help, but sucking a polo helps. I tried sugary sweets, but that didn’t work very well. It got all sticky.”
+> 
 > _(Person with Parkinson’s)_
 
 ---
