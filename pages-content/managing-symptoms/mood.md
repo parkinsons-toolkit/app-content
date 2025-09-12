@@ -232,26 +232,28 @@ Your healthcare professional may be able to give you more specific advice about 
 - Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication.
 - **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 
-
-  - **Antidepressants:** For moderate to severe depression, antidepressant medication may be prescribed alone or recommended in combination with talking therapy. ‘Combination Therapy’ of antidepressant medication with talking therapy can result in better outcomes than just receiving one of these treatments. Research has not yet identified a specific type of anti-depressant to recommend specifically for people with Parkinson’s. There is some evidence for tricyclic antidepressants, such as nortriptyline. There is limited evidence for Selective Serotonin Reuptake Inhibitors (SSRIs) such as citalopram or sertraline in Parkinson’s specifically. There is good evidence however that they can work for moderate or severe depression in the general population. While some antidepressants work very well for some people they have no effect for others. Usually, a person is tried on one medicine at increasing doses for several weeks to see if it helps. If it does not, then the drug should be slowly withdrawn and a different drug tried. Anti-depressants are not addictive but they should not be stopped suddenly. If none of the main drugs seem to help, your GP may refer you to a specialist for further advice. You can read more about different anti-depressant drugs and potential side effects here.  
-
+**Medication used for low mood:**
+  - **Antidepressants:** For moderate to severe depression, antidepressant medication may be prescribed alone or recommended in combination with talking therapy. ‘Combination Therapy’ of antidepressant medication with talking therapy can result in better outcomes than just receiving one of these treatments. Research has not yet identified a specific type of anti-depressant to recommend specifically for people with Parkinson’s. There is some evidence for tricyclic antidepressants, such as nortriptyline. There is limited evidence for Selective Serotonin Reuptake Inhibitors (SSRIs) such as citalopram or sertraline in Parkinson’s specifically. There is good evidence however that they can work for moderate or severe depression in the general population. While some antidepressants work very well for some people they have no effect for others. Usually, a person is tried on one medicine at increasing doses for several weeks to see if it helps. If it does not, then the drug should be slowly withdrawn and a different drug tried. Anti-depressants are not addictive, but they should not be stopped suddenly. If none of the main drugs seem to help, your GP may refer you to a specialist for further advice. You can read more about different anti-depressant drugs and potential side effects on the <a href="https://www.nhs.uk/conditions/antidepressants/" class="external-link" target="_blank" rel="noopener noreferrer">NHS 'Antidepressants'</a> page.  
   - **Parkinson’s medicines:** There is some research evidence for the dopamine agonist pramipexole, but the effects are modest. Other Parkinson’s drugs have no obvious antidepressant effect.  
+  - **St John’s wort:** St John’s wort is a herbal treatment that some people take for mild-moderate depression. It is not recommended by doctors and should never be combined with prescribed antidepressants. In particular, <ins>it should not be taken by people with Parkinson’s</ins> as it can interact with a lot of medication, including Parkinson’s medication. It is important you let your healthcare professionals know if you are taking this.  
 
-  - **St John’s wort:** St John’s wort is a herbal treatment that some people take for mild-moderate depression. It is not recommended by doctors and should never be combined with prescribed antidepressants. In particular, it should not be taken by people with Parkinson’s as it can interact with a lot of medication, including Parkinson’s medication. It is important you let your healthcare professionals know if you are taking this.  
+**Medications that can make your mood worse:**
+If you are depressed and taking any of these, you should not stop them without speaking with your GP for advice.  
+- Benzodiazepines, e.g. diazepam
+- Pain killers: opiates
+- Steroid medication, e.g. prednisolone
+- Beta blockers, e.g. bisoprolol, propranolol
+- Hormonal medicine, e.g. some Hormone Replacement Therapy (HRT) used for menopausal symptoms or hormonal contraceptive medicines.  
 
-- Some medication can make your mood worse. See extra information below about some of these medicines. If you are depressed and taking any of these you should not stop them without speaking with your GP for advice.  
+---
 
-  - Benzodiazepines, e.g. diazepam  
-  - Pain killers: opiates  
-  - Steroid medication, e.g. prednisolone  
-  - Beta blockers, e.g. bisoprolol, propranolol  
-  - Hormonal medicine, e.g. some Hormone Replacement Therapy (HRT) used for menopausal symptoms or hormonal contraceptive medicines.  
+## Key Messages  
+- Low mood is common and there are many things that you can do to prevent or help it.
+- Depression is more intense and longer lasting than the short periods of low mood that anyone can have from time to time.
+- Things you can do to improve your mood, even if you are not depressed: keep physically and socially active; maintain a healthy diet; improve sleep; and make time to relax.
+- There is a wide range of possible treatments for depression. Those offered by healthcare professionals include talking therapies and medication. 
 
-# Key Messages  
-- Low mood is common and there are many things that you can do to prevent or help it.  
-- Depression is more intense and longer lasting than the short periods of low mood that anyone can have from time to time.  
-- Things you can do to improve your mood, even if you are not depressed: keep physically and socially active; maintain a healthy diet; improve sleep; and make time to relax.  
-- There is a wide range of possible treatments for depression. Those offered by healthcare professionals include talking therapies and medication.  
+---
 
 # More Information  
 
