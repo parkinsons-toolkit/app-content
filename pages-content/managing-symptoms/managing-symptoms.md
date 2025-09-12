@@ -1,5 +1,4 @@
 # Symptom Management
-
 Everyone’s experience of Parkinson’s is different. So just because some people have certain symptoms, it does not mean you will.
 
 In general, people have more symptoms over time. But, there is no rule about which symptoms happen together or when they might occur. For some people, the uncertainty about how things will look and feel in the future is one of the more difficult aspects of the Parkinson’s diagnosis. Symptoms tend to progress over time, but progression does not mean tomorrow.
