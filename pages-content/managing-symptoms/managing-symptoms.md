@@ -54,6 +54,8 @@ _Live Well with Parkinson's_ Managing Symptoms:
 - **Weight & Appetite Loss**
   - <a href="/learn/managing-symptoms/weight" class="internal-link">_Weight_</a>
   - <a href="/learn/managing-symptoms/five-senses" class="internal-link">_Nausea_</a>
+- **Variability of Symptoms**
+  - <a href="/learn/managing-symptoms/variability-of-symptoms" class="internal-link">_Variability of Symptoms_</a>
 - **5 Senses**
   - <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a>
 
