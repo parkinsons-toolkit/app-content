@@ -107,13 +107,16 @@ Further strategies are seen below; not all will be applicable to you.
 ## My Experience
 People affected by Parkinson’s describe their experiences.
 
-> _“With Parkinson’s, I use my energy wisely. I think to myself, what’s more important for me to do today. And I’ll put my energies there.”_
+> “With Parkinson’s, I use my energy wisely. I think to myself, what’s more important for me to do today. And I’ll put my energies there.”
+> 
 > _(Person with Parkinson’s)_
 
-> _“It varies how I feel. If I don’t feel too good, I’m on the couch resting to get my energy levels up. I don’t push the body to do things that I know that I can’t. If I’m tired, I just stop. And I just wait until I feel better, then perhaps if I’ve not been out all day, I’ll go for a little brisk walk or something and get some fresh air and do that instead. Yes, the body kind of like tells you what to do rather than you tell it.”_
+> “It varies how I feel. If I don’t feel too good, I’m on the couch resting to get my energy levels up. I don’t push the body to do things that I know that I can’t. If I’m tired, I just stop. And I just wait until I feel better, then perhaps if I’ve not been out all day, I’ll go for a little brisk walk or something and get some fresh air and do that instead. Yes, the body kind of like tells you what to do rather than you tell it.”
+> 
 > _(Person with Parkinson’s)_
 
-> _“I love entertaining. I love cooking for people and having people in the home. But I’ve got to pace myself. I mean that’s just partly my age as well as having Parkinson’s. But I know that if we had a lot of people in and, if I’m having people around for dinner, I’ve got to make sure I’ve got a quiet day either side and I’ve got to plan ahead. So I’ll lay the table a couple of days before and I’ll try and shop and do a lot of the preparation before I actually have people round”_
+> “I love entertaining. I love cooking for people and having people in the home. But I’ve got to pace myself. I mean that’s just partly my age as well as having Parkinson’s. But I know that if we had a lot of people in and, if I’m having people around for dinner, I’ve got to make sure I’ve got a quiet day either side and I’ve got to plan ahead. So I’ll lay the table a couple of days before and I’ll try and shop and do a lot of the preparation before I actually have people round”
+> 
 > _(Person with Parkinson’s)_
 
 ---
