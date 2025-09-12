@@ -199,7 +199,19 @@ People affected by Parkinson’s describe their experiences.
 > “When you sit there with Parkinson’s, you think, ‘I can’t do that, I can’t do this, I can’t go here,  
 > I can’t go there. I can’t eat this,’ what about all the things you can do, you forget. I don’t dwell  
 > on the bad stuff, and the good stuff sometimes takes my mind away from the bad stuff. I can manage it a little bit better.”  
-> *(Person with Parkinson’s)*  
+> *(Person with Parkinson’s)*
+
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/g2J2pKCT1rI"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 
 ---
 
