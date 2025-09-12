@@ -87,9 +87,7 @@ You can also consider:
 
 ---
 
-## Using Technology
-
-### Computers
+## Using Technology - Computers
 If you struggle to communicate by speaking or writing, you could consider using equipment that may reduce these challenges - like a computer or tablet. But, you may find it challenging to use these if you have a lot of tremor or stiffness. 
 
 ### What can I try for myself?
@@ -104,15 +102,13 @@ If using a computer or the internet feels overwhelming, there are training cours
 - You could ask at your **local library** to see if they offer computer training opportunities. 
 
 **Choosing a device:**  
-| Device | Pros | Cons |
-|------------------|---------------------------------------------------------|----------------------------------------------|
-| **Tablet** | Touchscreen, talk-to-text easier, lightweight, portable, built-in camera | May have limited software capability |
-| **Laptop** | Keyboard, touchpad, built-in camera | Heavier, may lack built-in talk-to-text |
-| **Desktop** | Keyboard and mouse, may have camera | Not portable or lightweight, may lack talk-to-text |
+| Device     | Pros                                                                 | Cons                                               |
+|------------|----------------------------------------------------------------------|----------------------------------------------------|
+| **Tablet** | - Uses touchscreen control to select options to type  <br> - Talk-to-text may be more readily available  <br> - Lightweight and easily portable  <br> - Likely has a camera for video calls | - May have limited software capability             |
+| **Laptop** | - Uses touch pad and possibly a mouse to select options  <br> - Has a keyboard  <br> - Likely has a camera for video calls                  | - Not as lightweight or as easily portable  <br> - Might not have talk-to-text readily available  |
+| **Desktop Computer**| - Uses mouse to select options and keyboard for typing  <br> - May have a camera for video calls                         | - Not portable or lightweight  <br> - Might not have talk-to-text readily available |
 
-**Additional Advice:**
-
-- ‘Which?’ is an independent, not-for-profit service offering advice on technology and assistive devices, including easy-to-use phones. See More Information section for contact details.
+<a href="https://try.which.co.uk/which-brand-2/?source_code=911CUJ&Incl_CustomerList&gclid=EAIaIQobChMI9KLNz_aP6QIV0u3tCh1jbgosEAAYASAAEgJnQPD_BwE&gclsrc=aw.ds" class="external-link" target="_blank" rel="noopener noreferrer">‘Which?’</a> is a not-for-profit, independent service that provides unbiased advice to consumers for a fee. They can help with a wide range of areas, including choosing what technology devices to buy. They also provide information on technological aids in later life, such as assistive technology and easy-to-use mobile phones. Visit their webpage for more details. You can find the link in the More Information section. 
 
 <div class="video-container">
 <iframe 
@@ -126,48 +122,40 @@ If using a computer or the internet feels overwhelming, there are training cours
 
 ---
 
-### More Information
+## Using Technology - Mobile Phones
 
-Please see the More Information section for links to useful resources, training courses, and assistive technology guides.
-
-### Mobile Phones
-
-**Why can it be difficult for people with Parkinson’s?**
-
+### Why can it be difficult for people with Parkinson’s? 
 - Decreased hand strength for holding a phone
 - Tremor
-- Softer voice making it harder to be heard
-- Decreased stamina for holding the phone
+- Softer voice may make it more difficult to be heard
+- Decreased stamina for holding the phone  
 
-**What can I try for myself?**
+### What can I try for myself?
 
 - Hand exercises to increase strength and mobility may help with holding a phone.
-  - See hand exercises in the _Writing_ section.
-  - An occupational therapist can provide more specific exercises.
-- Exercises to increase voice volume and clarity may help in conversations.
-  - Speech therapists can identify areas to work on and give exercises; ask your GP for a referral.
-  - **Voice Analyst app:** measures volume and pitch of your voice; useful to track progress with a speech therapist.
-    - Note: There is a fee to download this app.
-  - Singing in a choir, practicing singing (e.g., in the shower), or holding notes loudly and long can help strengthen your voice.
+  - See hand exercises in the above 'Writing' section.
+  - An occupational therapist can provide more specific exercises to complete.
+- Exercises to increase your voice volume or make your speech  more clear may help you in conversations.
+  - Speech therapists can identify what areas you could work on and give you exercises to practise at home. For a referral to a speech therapist, speak with your GP. 
+  - Voice Analyst: an application (app) for your mobile phone or tablet. It allows you to measure the volume and pitch of your voice. Can bring to speech therapist appointments to share your progress and results. 
+    - There is a fee to download this app.
+    - See more information on 'Apps' on this page below.
+  - Singing in a choir, practising singing in the shower, or holding a note long and loud may all be helpful – using your voice is important. 
+
+### What may be helpful about a mobile phone?
+- Mobile phones can offer peace of mind. For example, knowing that you can contact someone straight away, no matter where they are. 
+- Smartphones (a mobile that acts as a small computer and connects with the internet) can have applications (‘apps’) downloaded onto it.
+  - Apps are pieces of software that can be used to perform specific tasks.
+    _Examples:_ writing a note, playing a game, or letting 	you know when your bus is coming.
+  - Smartphones have many different features that could be useful, including the following:
+    -  Voice activation (either built-in on the phone or available as an app). This can allow you to: call someone in your phonebook by saying their name, search the internet, dictate text messages and emails, open apps, and record notes as reminders.
+    -  Global Positioning System (GPS) trackers: allow a nominated person (like a partner, family member or carer) to see on a map where you are. You need to be carrying your smartphone, and it needs to have service in order for this to work.
+    -  Video calling: lets you see and hear each other during a call o Medication manager apps: remind you when your medication is due. They may also let you store medical information.
+    -  Data gathering apps. These are used to measure some movement symptoms and speech. They may be used to inform the person who adjusts your Parkinson’s medications or treatments  
 
 ---
 
-**What may be helpful about a mobile phone?**
-
-- Provides peace of mind by enabling instant contact wherever you are.
-- Smartphones (phones with internet access and apps) offer many useful features:
-
-| Feature                     | Description                                                                                                                 |
-| --------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| **Voice activation**        | Call contacts, search the internet, dictate texts/emails, open apps, record reminders by voice.                             |
-| **GPS trackers**            | Allows a nominated person (partner, family, carer) to see your location on a map (phone must be with you and have service). |
-| **Video calling**           | Lets you see and hear the person you are calling (e.g., Zoom, Skype, Facetime).                                             |
-| **Medication manager apps** | Remind you when to take medication and store medical information.                                                           |
-| **Data gathering apps**     | Measure movement symptoms and speech to help inform Parkinson’s treatment adjustments.                                      |
-
----
-
-### More Information
+## More Information
 
 | Organisation               | Information about                                              | Phone Number         | Website                                                                                                                            |
 | -------------------------- | -------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
