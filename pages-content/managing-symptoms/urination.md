@@ -106,7 +106,8 @@ If finding toilets when out and about is a concern, the ‘National Key Scheme�
 ## My Experience
 People affected by Parkinson’s describe their experiences.
 
-> “I did have a problem with my bladder where, at night-time I was getting up 10, 11, 12 times in the night for a wee. And when I spoke to my doctor about it, she suggested that I cut down liquids or drinks from 6pm onwards. And that works. If I want a sip of water, I’ll have just a sip of water.”  
+> “I did have a problem with my bladder where, at night-time I was getting up 10, 11, 12 times in the night for a wee. And when I spoke to my doctor about it, she suggested that I cut down liquids or drinks from 6pm onwards. And that works. If I want a sip of water, I’ll have just a sip of water.”
+>  
 > _(Person with Parkinson’s)_
 
 ---
