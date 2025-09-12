@@ -1,6 +1,17 @@
 # Nausea
 Nausea can be described as feeling sick and can lead to vomiting.
 
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/RisFXoT2Qg0"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 ---
 
 ## What might be causing it?
@@ -43,6 +54,19 @@ The following may help relieve nausea. If these do not help, there are medicines
 Nausea can occur if you take medications on an empty stomach. Which is why for many medications the advice is to take them with meals. However, with Parkinson’s medications, some people find that it is less effective when taken with a main meal. 
 
 If this is a problem for you, try taking your medication at least half an hour before your main meal. Also, with plenty of water and a small snack, such as a biscuit. 
+
+
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/cOhgQx-GnkY"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 
 ---
 
