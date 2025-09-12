@@ -90,11 +90,13 @@ _Tip: Think about your environment:_
 ## My Experience
 People affected by Parkinson’s describe their experiences.
 
-> “I’ve got some tricks up my sleeve now. Well, I did a very good CBT course and mindfulness, and I use a variety of techniques to unfreeze myself. I use counting for its cueing. I think to myself, I’m going to move on four; I’m going to count one, two, three and four, which is the cha-cha rhythm: one, two, three, cha-cha-cha…[then move forward]. Or you could target; you pick a spot the other side of what is your barrier, and you step onto that, a particular pattern in the carpet.”  
+> “I’ve got some tricks up my sleeve now. Well, I did a very good CBT course and mindfulness, and I use a variety of techniques to unfreeze myself. I use counting for its cueing. I think to myself, I’m going to move on four; I’m going to count one, two, three and four, which is the cha-cha rhythm: one, two, three, cha-cha-cha…[then move forward]. Or you could target; you pick a spot the other side of what is your barrier, and you step onto that, a particular pattern in the carpet.”
+>   
 > _(Person with Parkinson’s)_
 
-> “Sometimes she will freeze, and then if there’s a division, like from the carpet onto that mat, or tiles on the floor, then to get her to step over, tell her to step over that division. Sometimes I’ve told her to step over something that isn’t there, but just to get the idea of moving.”  
-> _(Carer)_
+> “Sometimes she will freeze, and then if there’s a division, like from the carpet onto that mat, or tiles on the floor, then to get her to step over, tell her to step over that division. Sometimes I’ve told her to step over something that isn’t there, but just to get the idea of moving.”
+>   
+> _(Carer of someone with Parkinson's)_
 
 ---
 
