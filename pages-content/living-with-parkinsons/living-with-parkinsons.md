@@ -12,7 +12,12 @@ In this _Living with Parkinson's_ section, you will find information on a variet
   - <a href="/learn/living-with-parkinsons/optimising-wellbeing/social-and-spiritual-life" class="internal-link">_Social & Spiritual Life_</a>
   - <a href="/learn/living-with-parkinsons/optimising-wellbeing/dealing-with-stress-and-challenges" class="internal-link">_Dealing With Stress & Challenges_</a>
   - <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a>
-- _**Practical Advice**_ This page addresses many practical issues you may come across when living with Parkinson’s, including:
+
+- _**Practical Advice**_ Parkinson’s can affect day-to-day activities. But, there is lots of support available and there are many strategies you can try yourself. This section is about being aware of your options and ‘problem solving’ rather than medical aspects. 
+ 
+Remember, asking for help is not a weakness. Part of managing your condition involves knowing when and how to find help. Asking for help can be difficult, but most people want to be helpful but may not know how. 
+
+This page addresses many practical issues you may come across when living with Parkinson’s, including:
   - <a href="/learn/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Appointments & Hospital Stays_</a>
   - <a href="/learn/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a>
   - <a href="/learn/living-with-parkinsons/practical-advice/hobbiess-and-pets" class="internal-link">_Hobbies & Pets_</a>
@@ -23,6 +28,9 @@ In this _Living with Parkinson's_ section, you will find information on a variet
   - <a href="/learn/living-with-parkinsons/practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> 
   - <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a>
   - <a href="/learn/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a>
+
+The information on the Practical Advice pages was correct at the time of publishing. _Live Well with Parkinson’s_ does not take responsibility for the accuracy of information within these pages or that found by visiting a link on this site. The content is for your information and should not be used as legal advice. 
+
 - _**Planning and Future Care**_ guides you through planning for the future, a process that often involves conversations with you, your family and healthcare professionals. This section covers 3 key topics:
   1. _Progression of Symptoms_ (it is important to remember that symptom progression varies widely among individuals with Parkinson’s).
   2. _Future Care Options_ – thinking about your future care and decision making, including Lasting Power of Attorney (LPA) and Living Wills.
