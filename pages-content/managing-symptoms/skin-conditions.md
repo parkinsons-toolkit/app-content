@@ -7,6 +7,18 @@ Conditions that can be more common in people with Parkinson’s are:
 - Wounds or ulcers from delayed healing or from pressure on a particular part of the body.
 - Abnormal moles.
 
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/ErqE8JvtqPY"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
+
 ---
 
 ## What Might Be Causing It?
@@ -47,6 +59,17 @@ Make a GP appointment as soon as possible if:
 - You have a mole that concerns you or has recently changed. Features to look out for are: large size (5mm or more in diameter), irregular edges, multi-coloured, changing, or is asymmetric – for example is lop-sided. 
  
 The other skin conditions discussed here are not urgent, but if bothering you then make a routine GP appointment.
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/pgoxwOrpzdQ"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 
 ---
 
@@ -108,6 +131,17 @@ Check moles regularly (monthly), looking for any changes. You can ask someone el
 - Sun protection: this can be achieved by covering skin with clothing, seeking shade and applying sunscreen. Sunscreen is an additional protection rather than an alternative to covering up
   - Sunscreen must be applied liberally, carefully and repeatedly on exposed skin.
   - UVA in a circle logo indicates that a sunscreen meets the minimum standards for UVA protection. You should use a sun protection factor (SPF) of at least 30 to protect against UVB.
+
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/Av54vxyaWsA"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
 
 ---
 
