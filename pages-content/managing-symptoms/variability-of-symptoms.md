@@ -46,10 +46,12 @@ There are things you can try for yourself (described below). You should discuss 
 ## My Experience
 People affected by Parkinson’s describe their experiences.
 
-> “What I usually do is I’ll sit back and I’ll [..] take deep breaths and then I just sort of think, ‘calm down, just calm down’, you know, and sort of bring myself back again.”  
+> “What I usually do is I’ll sit back and I’ll [..] take deep breaths and then I just sort of think, ‘calm down, just calm down’, you know, and sort of bring myself back again.”
+> 
 > _(Person with Parkinson’s)_
 
-> “We talked to him about changing his medication around, which he did do, and he took them a little bit earlier in the evening so he would feel a little bit more able.”  
+> “We talked to him about changing his medication around, which he did do, and he took them a little bit earlier in the evening so he would feel a little bit more able.”
+> 
 > _(Healthcare Professional)_
 
 ---
