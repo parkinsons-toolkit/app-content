@@ -94,7 +94,8 @@ _Note there is no specific bed or mattress recommended in Parkinson’s but more
 ## My Experience
 People affected by Parkinson’s describe their experiences.
 
-> “I find a back or leg massage relaxes me and helps me drift off to sleep.”  
+> “I find a back or leg massage relaxes me and helps me drift off to sleep.”
+> 
 > _(Person with Parkinson’s)_
 
 ---
