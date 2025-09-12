@@ -73,10 +73,14 @@ Many people with Parkinson’s experience more movement symptoms on one side of 
 These are activities that challenge your balance and practice coordination, ideally undertaken twice a week or more. If you have difficulties with your balance, you should see a physiotherapist for advice on safe activities to engage in. Also see the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page.
 
 
-
 For all of these types of activity, make sure you warm up before undertaking more intense activity to avoid injuries and reduce stiffness. Be mindful of your body to avoid injury. If you are unsure whether an activity is safe, always check with a professional first.
 
 To see what this might look like in real life, pick the person you most relate to. You can find targeted advice about keeping active for each person on the separate pages.
+
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/main/images/linked-image-name.png" alt="example-alt-text" class="example-class">
+
+
 
 ---
 
