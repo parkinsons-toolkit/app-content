@@ -9,6 +9,18 @@ Some people with Parkinson’s have trouble with swallowing or eating. It can be
 
 Swallowing problems range from mild to severe and can happen at any time. If you notice any swallowing difficulties it is important you speak with your GP or Parkinson's specialist team. They can refer you on to specialists for treatment. Untreated swallowing problems can cause more serious health conditions, such as chest infections.
 
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/HzPyqrpuot4"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
 ---
 
 ## What might be causing it?
@@ -64,6 +76,18 @@ _Tip: Swallowing - When swallowing food or drink, following the process below st
 5.	Swallow again to make sure all the food or drink has gone.
 6.	Try licking round the mouth with your tongue to check all the food has gone.
 7.	Repeat steps until you are finished eating or drinking.
+
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/u4Ta8jTvQX8"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 
 ---
 
