@@ -3,6 +3,18 @@ Dystonia is an involuntary muscle contraction (this is different to **Dyskinesia
 
 Dystonia most commonly effects the legs and feet of someone with Parkinson’s. It can cause abnormal postures of limbs or digits. People may notice their toes curling. They may notice their feet turning in at the ankle. They may feel or see their big toe sticking up. Dystonia can also impact the eyelids. It can cause frequent blinking and an intolerance to light. It can affect the head and neck, the vocal cords, and/or the hands.
 
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/GQJEpWqrPes"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
 ---
 
 ## What might be causing it?
@@ -31,7 +43,17 @@ There are various strategies you can try for yourself discussed below. You shoul
 - Breathe slowly in and out during the stretch. Don’t hold your breath.
 - Repeat each stretch 3-4 times, with a brief break between.
 - Try to make this a routine part of your life, several times per week. 
- 
+
+
+ <div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/W0yU3IbK9JY"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
 ---
 
 ## My Experience
