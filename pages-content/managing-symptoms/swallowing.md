@@ -70,7 +70,8 @@ _Tip: Swallowing - When swallowing food or drink, following the process below st
 ## My Experience
 People affected by Parkinson’s describe their experiences.
 
-> “Things like chilli con carne, spaghetti Bolognese because they’re not big pieces of meat. But like if he’s got a chicken breast and when you cut things up … sloppier foods are obviously better than, you know, chunky foods.”  
+> “Things like chilli con carne, spaghetti Bolognese because they’re not big pieces of meat. But like if he’s got a chicken breast and when you cut things up … sloppier foods are obviously better than, you know, chunky foods.”
+> 
 > _(Carer of someone with Parkinson’s)_
 
 ---
