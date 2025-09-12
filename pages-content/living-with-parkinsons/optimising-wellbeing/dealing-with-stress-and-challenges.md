@@ -21,6 +21,18 @@ Achieving a more active lifestyle can be as simple as making small changes to yo
 
 See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page for more guidance or visit <a href="https://www.parkinsons.org.uk/information-and-support/physical-activity-and-exercise" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> and see their exercise page for more advice.  
 
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/h-ggLKNIMss"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
+
 ### Diet
 The food we eat can affect the way we feel, both physically and mentally. And in turn, how we feel can affect the food we eat. So, healthy eating habits are important for improving our mood and general sense of wellbeing.  
 
@@ -33,6 +45,16 @@ Research recommends the following advice on how to follow a healthy, balanced di
 
 See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more guidance.  
 
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/VGAJt0wXWdY"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 ### Sleep
 Getting good-quality sleep is vital for our mental wellbeing. There are a few things you can try to help improve the amount and quality of your sleep, including:  
 - Going to bed at the same time each night  
@@ -44,10 +66,33 @@ Getting good-quality sleep is vital for our mental wellbeing. There are a few th
 
 If you are experiencing sleep disturbance, see the <a href="/learn/managing-symptoms/sleep" class="internal-link">_Sleep Disturbances_</a> page and <a href="/learn/managing-symptoms/dreams" class="internal-link">_Dreams_</a> . 
 
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/b5nuz30j7E4"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
 ### Relaxation
 Doing something relaxing can help to reduce stress and improve your mental wellbeing. Although life can be busy, it is important to try to do things you enjoy. This might be listening to music, reading a book, going for a walk, or getting creative by painting or colouring. You might try to carve out a regular time or times in your daily routine for a relaxation activity.  
 
 See the <a href="https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/relaxation-tips/#.XaRamflKi70" class="external-link" target="_blank" rel="noopener noreferrer">Mind</a> website for tips on how to add relaxation into your daily life. They also describe relaxation exercises you can try. You can find more links to useful information and guidance at the bottom of this page.
+
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/rFQySMQTp8E"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
 
 ### Breathing strategies
 Practising breathing techniques can help you to learn how to breathe more deeply and feel calmer.  
@@ -59,12 +104,35 @@ Here’s a simple breathing exercise you can try, which will take no longer than
 - You may find it useful to count steadily as you breathe; “one, two, three, four, five” as you breathe in and “one, two, three, four, five” as you breathe out. Try to work out what feels comfortable for you.  
 - Repeat for 3–5 minutes  
 
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/RJhQKrRsPdg"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
+
 ### Complementary therapies
 Complementary therapies (e.g., reflexology, aromatherapy or massage) are used alongside other treatments. Some people with Parkinson’s report positive experiences of complementary therapies such as finding them relaxing, improved sleep, and reduced anxiety.  
 
 Some complementary therapies are eaten or applied to the skin. Some of these can interact with other medications you might take. Check with your GP, specialist, or Parkinson's nurse before you use these.  
 
 See our <a href="/learn/treatment-and-therapies/complementary-therapies" class="internal-link">_Complementary Therapies_</a> page for more information.  
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/UUNzYq6WY2s"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 
 ### Problem-Solving Therapy
 Problem-solving therapy (PST) aims to help you cope better with stressful life events (e.g. financial problems, managing with a long-term condition). It does this by teaching you problem-solving skills you can use to help you find solutions to issues.  
@@ -96,6 +164,17 @@ Here is some guidance on how you can work through problem-solving therapy by you
 It’s important to keep in mind that the goal of PST is not to solve all problems. Instead, the goal is to learn more effective problem-solving skills. This will then help you to cope more effectively with life stressors and feel more in control of your life.  
 
 See the <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a> section for more on how to do PST.  
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/m1ou7ybCO0E"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 
 ---
 
