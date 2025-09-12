@@ -9,12 +9,33 @@ People may also experience a compulsion to take more than their prescribed amoun
  
 Others may not realise they are increasingly taking more medication than the amount their healthcare provider has prescribed. It’s important that family members or carers know your prescribed doses so they can spot if you are taking too much. 
 
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/aFV30cbmjaE"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
 ---
 
 ## What might be causing it?
 The chemical dopamine in the brain is affected in Parkinson’s. Dopamine has many roles, including being involved in the brain control of reward and motivation. Medications that affect dopamine messaging in the brain also affect this control. People with Parkinson’s disease are more likely to develop these impulsive and compulsive behaviours if they are prescribed dopamine agonists (including ropinirole, rotigotine, pramipexole, and bromocriptine). These impulsive behaviours can also occur when taking levodopa. These behaviours may develop at any time during Parkinson’s disease, even if people have been on these medications for a long time.
 
 People may also be more likely to develop these behaviours if they are younger at the age of diagnosis or have a history of alcoholism or addictive behaviours in their families. It appears to affect men more than women.
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/yTmr0d5G_B8"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
 
 ---
 
@@ -43,6 +64,18 @@ People may also be more likely to develop these behaviours if they are younger a
 **Look after your mental wellbeing:**
 - Stress, anxiety and depression can make impulsive and compulsive behaviour changes worse.
 - See the _Optimising Wellbeing_ pages found within the <a href="/learn/managing-symptoms/movement" class="internal-link">_Living with Parkinson's_</a> section for tips on keeping well. 
+
+
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/cmC4EvcF7BE"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
 
 ---
 
