@@ -47,7 +47,7 @@ _Live Well with Parkinson's_ Managing Symptoms:
   - <a href="/learn/managing-symptoms/dreams" class="internal-link">_Dream Disturbance_</a>
   - <a href="/learn/managing-symptoms/tiredness" class="internal-link">_Tiredness & Fatigue_</a>
 - **Thinking & Remembering**
-- <a href="/learn/managing-symptoms/thinking-and-remembering" class="internal-link">_Thinking & Remembering_</a>
+  - <a href="/learn/managing-symptoms/thinking-and-remembering" class="internal-link">_Thinking & Remembering_</a>
 - **Unusual Experiences & Behaviours**
   - <a href="/learn/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a>
   - <a href="/learn/managing-symptoms/hallucinations" class="internal-link">_Hallucinations & Related Symptoms_</a>
