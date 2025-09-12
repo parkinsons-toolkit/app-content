@@ -10,6 +10,17 @@ Constipation can make you feel very unwell and, if left untreated, can become se
  
 Constipation can sometimes lead to diarrhoea or leaking of stool. Hard stool gets stuck and only the liquid content comes out. So, although it can seem like diarrhoea, the bowels are very constipated and blocked up. This is known as “overflow diarrhoea” and the best approach to resolve it is to treat the constipation.  
 
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/ZNqgSo3SAb0"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 ---
 
 ## What might be causing it?
@@ -41,6 +52,17 @@ Fibre in your diet helps improve constipation. Eat a variety of fibres.
 - Fruit  
 - Vegetables  
 - Peas, beans, pulses, nuts, seeds  
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/ixPb4apldj0"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 
 ---
 
