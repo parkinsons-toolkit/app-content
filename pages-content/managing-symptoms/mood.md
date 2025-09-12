@@ -181,11 +181,13 @@ For more information, speak with your GP or Parkinson’s nurse, or visit the Re
 
 # My Experience
 
-> “Sometimes I do have a good old moan and I do have a bit of a cry, because I feel so frustrated when I can’t do what I want to do. But then I just have to pick myself up and get going again.”  
-> *(Person with Parkinson’s)*
+> “Sometimes I do have a good old moan and I do have a bit of a cry, because I feel so frustrated when I can’t do what I want to do. But then I just have to pick myself up and get going again.”
+> 
+> _(Person with Parkinson’s)_
 
-> “I can have a bad day, I can have days when my mood swings are not very happy because I don’t feel very well. When I’m not well, I’m obviously not happy. That’s why watching a film sometimes helps because you’re into the film. And you can ignore the fact of how you’re probably feeling. I watch TV to distract. I lie down to distract. I get up and go for a walk around the house. Sometimes go out the front door, have a walk around the block.”  
-> *(Person with Parkinson’s)*
+> “I can have a bad day, I can have days when my mood swings are not very happy because I don’t feel very well. When I’m not well, I’m obviously not happy. That’s why watching a film sometimes helps because you’re into the film. And you can ignore the fact of how you’re probably feeling. I watch TV to distract. I lie down to distract. I get up and go for a walk around the house. Sometimes go out the front door, have a walk around the block.”
+>  
+> _(Person with Parkinson’s)_
 
 ---
 
@@ -248,9 +250,13 @@ Cognitive Behavioural Therapy (CBT) focuses on how your feelings, thoughts, and 
 # My Experience  
 People affected by Parkinson’s describe their experiences.  
 
-> “Sometimes I do have a good old moan and I do have a bit of a cry, because I feel so frustrated when I can’t do what I want to do. But then I just have to pick myself up and get going again.” (Person with Parkinson’s)  
+> “Sometimes I do have a good old moan and I do have a bit of a cry, because I feel so frustrated when I can’t do what I want to do. But then I just have to pick myself up and get going again.”
+>
+> _(Person with Parkinson’s)_  
 
-> “I can have a bad day, I can have days when my mood swings are not very happy because I don’t feel very well. When I’m not well, I’m obviously not happy. That’s why watching a film sometimes helps because you’re into the film. And you can ignore the fact of how you’re probably feeling. I watch TV to distract. I lie down to distract. I get up and go for a walk around the house. Sometimes go out the front door, have a walk around the block.” (Person with Parkinson’s)  
+> “I can have a bad day, I can have days when my mood swings are not very happy because I don’t feel very well. When I’m not well, I’m obviously not happy. That’s why watching a film sometimes helps because you’re into the film. And you can ignore the fact of how you’re probably feeling. I watch TV to distract. I lie down to distract. I get up and go for a walk around the house. Sometimes go out the front door, have a walk around the block.”
+>
+> _(Person with Parkinson’s) _ 
 
 # Further Assessment  
 
@@ -512,9 +518,13 @@ Practical planning and problem-solving can remove some stress and make avoidance
 ## My Experience 
 People affected by Parkinson’s describe their experiences. 
  
-> “In a sense, this is a similar process to a bereavement and you need time to adjust before getting back on an even keel. I worried that the level of anxiety I felt in the weeks after diagnosis were a symptom of Parkinson's and would be with me for life. When a distant friend told me that life would be good again, I remember being really surprised but also encouraged.” (Person with Parkinson’s) 
+> “In a sense, this is a similar process to a bereavement and you need time to adjust before getting back on an even keel. I worried that the level of anxiety I felt in the weeks after diagnosis were a symptom of Parkinson's and would be with me for life. When a distant friend told me that life would be good again, I remember being really surprised but also encouraged.”
+>
+> _(Person with Parkinson’s)_ 
  
-> “It’s weird. There's no reason, absolutely no reason why I should be [anxious]. It just seems to build up and get worse. No, I can't put it down to anything. There's nothing in particular that I can think of that makes it start. It just comes over you. ….I think if I just breathe. What I usually do is I’ll sit back and I’ll sort of take deep breaths and then I just sort of think, ‘calm down, just calm down’, you know, and sort of bring myself back again. So, that’s the only way I can get out of it, really. Or go and sit and do some drawing or go sit and put the television on and takes my mind off it” (Person with Parkinson’s) 
+> “It’s weird. There's no reason, absolutely no reason why I should be [anxious]. It just seems to build up and get worse. No, I can't put it down to anything. There's nothing in particular that I can think of that makes it start. It just comes over you. ….I think if I just breathe. What I usually do is I’ll sit back and I’ll sort of take deep breaths and then I just sort of think, ‘calm down, just calm down’, you know, and sort of bring myself back again. So, that’s the only way I can get out of it, really. Or go and sit and do some drawing or go sit and put the television on and takes my mind off it”
+>
+> _(Person with Parkinson’s)_
  
 ## Further Assessment 
 At times, feelings of anxiety are completely normal. But, anxiety can begin to disrupt your day-to-day life or cause you distress. If this is the case, it is important to seek help from healthcare professionals. 
@@ -697,8 +707,9 @@ There are three main ways to tackle apathy:
 
 ## My Experience
 
-> “I watch TV to distract. I lie down to distract. I get up and go for a walk around the house. Sometimes go out the front door, have a walk around the block.”  
-> *Person with Parkinson’s*
+> “I watch TV to distract. I lie down to distract. I get up and go for a walk around the house. Sometimes go out the front door, have a walk around the block.”
+> 
+> _(Person with Parkinson’s)_
 
 ---
 
