@@ -3,6 +3,17 @@ Stiffness or _rigidity_ is generally felt in the muscles of the body. Muscles do
  
 Slowness of movement also happens in Parkinson’s. This can be seen in someone’s overall movements being slower, for example, their walking or gestures. Repeated movements can also become smaller or slower the more the actions are repeated. This can happen when doing a lot of writing by hand, for example. People with Parkinson’s can also have slower reaction times or take smaller and more shuffling steps. Stiffness, slowness and difficulty with small movements may also contribute to falls and pain. 
 
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/Qzv3zILgOYY"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
 ---
 
 # What might be causing it?
@@ -65,6 +76,17 @@ See <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" 
 ### Warm baths
 - May help relax stiff muscles.
 - _Make sure you are well hydrated if you have warm baths._ 
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/SJB87PMd7gs"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 
 ---
 
