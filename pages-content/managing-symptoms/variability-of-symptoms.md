@@ -9,6 +9,19 @@ People may have times in between doses where they don’t feel as well. This var
 
 For some people, the variability is predictable and in relation to medication. For others, the variability does not follow a pattern, and this can be very challenging to manage. 
 
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/4wd17YOCQB8"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
+
 ---
 
 ## What might be causing it?
@@ -41,6 +54,18 @@ There are things you can try for yourself (described below). You should discuss 
   - If taking levodopa on an empty stomach causes nausea, try taking it with fruit or crackers rather than high protein foods.
 - See <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> for more information about diet. 
 
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/rjaNRWjlL6A"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
 ---
 
 ## My Experience
@@ -53,6 +78,17 @@ People affected by Parkinson’s describe their experiences.
 > “We talked to him about changing his medication around, which he did do, and he took them a little bit earlier in the evening so he would feel a little bit more able.”
 > 
 > _(Healthcare Professional)_
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/QvSy9vRJaEQ"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 
 ---
 
