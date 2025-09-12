@@ -1,24 +1,24 @@
 # Anxiety
-
 Anxiety is the feeling of worry or fear, including a general sense of unease. This feeling can range in intensity from mild to severe.
 
-Everyone can experience feelings of anxiety at some time in their life. Anxiety is a natural response to situations that we find stressful or threatening. For example, this might be about your health, moving house or work-related problems. It may subside once the situation changes or the person becomes used to the situation. But sometimes feelings of anxiety can last for long periods of time and without a clear cause. This can be troubling for the person and can affect their day-to-day life.
+Everyone can experience feelings of anxiety at some time in their life. Anxiety is a natural response to situations that we find stressful or threatening. For example, this might be about your health, moving house or work-related problems. It may subside once the situation changes, or the person becomes used to the situation. But sometimes feelings of anxiety can last for long periods of time and without a clear cause. This can be troubling for the person and can affect their day-to- day life. 
+
+---
 
 ## Common symptoms of anxiety
-
-There are a range of symptoms experienced with anxiety which varies from person to person. Listed below are some of the more common features:
+There are a range of symptoms experienced with anxiety which varies from person to person. Listed below are some of the more common features: 
 
 | Body Sensations                        | Thoughts & Feelings                         | Changes in Behaviour                               |
 |--------------------------------------|--------------------------------------------|---------------------------------------------------|
-| • Muscle pain or tension              | • A sense of dread                          | • Repeated checking or seeking reassurance        |
-| • Heart beating fast, or palpitations| • Constant worry                           | • Avoiding situations or places that are associated with stress or anxiety |
-| • Dizziness                          | • Difficulty concentrating                  | • Restlessness                                     |
-| • Feeling sick                      | • Feeling detached from your environment   |                                                   |
-| • Dry mouth                        | • Feeling on edge and alert to things around you |                                           |
-| • Tingling sensations (particularly in the hands and feet) | • Feeling agitated or irritable            |                                                   |
-| • Difficulty breathing or feeling breathless |                                          |                                                   |
-| • Sweating                         |                                            |                                                   |
-| • Trembling                       |                                            |                                                   |
+| - Muscle pain or tension              | - A sense of dread                          | - Repeated checking or seeking reassurance        |
+| - Heart beating fast, or palpitations| - Constant worry                           | - Avoiding situations or places that are associated with stress or anxiety |
+| - Dizziness                          | - Difficulty concentrating                  | - Restlessness                                     |
+| - Feeling sick                      | - Feeling detached from your environment   |                                                   |
+| - Dry mouth                        | - Feeling on edge and alert to things around you |                                           |
+| - Tingling sensations (particularly in the hands and feet) | - Feeling agitated or irritable            |                                                   |
+| - Difficulty breathing or feeling breathless |                                          |                                                   |
+| - Sweating                         |                                            |                                                   |
+| - Trembling                       |                                            |                                                   |
 
 The body sensations are the physical response to stress and threat. However, the same sensations can be caused by a number of acute and long-term physical health conditions including Parkinson’s.  
 They can also be a side effect of some medications. If someone is experiencing the body sensations without the thoughts and feelings or changes in behaviour, they are unlikely to be anxious.
