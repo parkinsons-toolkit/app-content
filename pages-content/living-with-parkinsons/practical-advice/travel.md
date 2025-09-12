@@ -33,10 +33,10 @@ You will need to inform the DVLA, as this is not something your healthcare profe
 
 ### How do I inform the DVLA?
 There are two ways to inform the DVLA:
-  1. One option is to report your condition online on the government website: (gov.uk)
-  2. The second option is to report your medical condition by completing the “Medical fitness to Drive” (PK1) form. This can be completed online (GOV.UK) printed and sent via the post, using the address on the form. If you need a paper copy or more help, contact the DVLA driver medical enquiries line: tel: 0300 790 6806 
+  1. One option is to report your condition online on the government website: <a href="https://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a>
+  2. The second option is to report your medical condition by completing the “Medical fitness to Drive” (PK1) form. This can be completed online (<a href="https://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a>) printed and sent via the post, using the address on the form. If you need a paper copy or more help, contact the DVLA driver medical enquiries line: tel: 0300 790 6806 
  
-_Please note different medical conditions require different forms to be completed – for more information on this see_ (GOV.UK). 
+_Please note different medical conditions require different forms to be completed – for more information on this see <a href="https://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a>. 
 
 ### What happens next?
 In certain circumstances, the DVLA will sometimes make their decision based only on the information provided from the PK1 form. DVLA state that they typically provide a decision within 6 weeks. If they require more information before making a decision you will receive a letter informing you the decision is still ongoing. 
@@ -113,7 +113,9 @@ The key benefit to getting a Blue Badge is that it lets you park for free:
   - On single or double yellow lines for up to 3 hours.
   - Can be exempt from the congestion charge in Central London – there is an administration fee.
 
-These benefits and parking rules apply to most of the UK but not everywhere in the UK. Examples of where there are different schemes include some airports, e.g. Heathrow Airport, and some central London boroughs, e.g. City of Westminster. The Government website GOV.UK has more information. _Please check with local boroughs guidelines for parking schemes._
+These benefits and parking rules apply to most of the UK but not everywhere in the UK. Examples of where there are different schemes include some airports, e.g. Heathrow Airport, and some central London boroughs, e.g. City of Westminster. The Government website <a href="https://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a> has more information. 
+
+_Please check with local boroughs guidelines for parking schemes._
 
 It is also important to know that the Blue Badge is for street parking. You will need to check the signs for private parking to see if you still have to pay. Such places would be parking in hospitals or supermarkets. You will still have to follow all other standard parking regulations.
 
@@ -121,7 +123,6 @@ It is also important to know that the Blue Badge is for street parking. You will
 Some individuals can receive automatic qualification whilst other people may have to qualify through an assessment.
 
 **<ins>Eligibility for Blue Badge</ins>**
-
 You may **automatically** qualify for a Blue Badge if you meet **any one** of the following:
   - In receipt of the higher rate of the mobility component within the Disability Living Allowance.
   - In receipt of a Personal Independence Payment because you cannot walk more than 500 metres (score of 8 points or less for the “moving around” activity).
@@ -137,7 +138,7 @@ If one or more of the following situations applies, you **might** be asked to do
 If your condition improves and you no longer need the Blue Badge, you must return the badge to the council or you could be fined.
 
 ### How do I apply for a Blue Badge?
-You can apply for your Blue Badge on the [gov.uk](https://www.gov.uk/apply-blue-badge) website, which will direct you to your local council site to apply online. Someone else can apply on your behalf, but they will need access to your supporting documents (e.g., proof of identity, proof of address, a passport-sized photo, and supporting evidence).
+You can apply for your Blue Badge on the <a href="https://www.gov.uk/apply-blue-badge" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK's 'Apply for or renew a Blue Badge'</a> page, which will direct you to your local council site to apply online. Someone else can apply on your behalf, but they will need access to your supporting documents (e.g., proof of identity, proof of address, a passport-sized photo, and supporting evidence).
 
 You will usually need to provide supporting evidence of your medical condition, such as:
   - A letter from your specialist
@@ -152,25 +153,30 @@ The badge typically lasts up to 3 years before you need to renew. You must apply
 When applying for a Blue Badge it is important to clearly explain how your condition impacts your mobility and what risks you face without a Blue Badge. For example, carrying heavy shopping bags leads to balance issues, increasing the risk of falls.
 
 For more detailed information, you can visit:
- - [Citizen's Advice](https://www.citizensadvice.org.uk/benefits/sick-or-disabled-people-and-carers/help-for-disabled-travellers1/)
- - [GOV.UK on Transport Accessibility and Mobility](https://www.gov.uk/transport/transport-accessibility-and-mobility)
+ - <a href="https://www.citizensadvice.org.uk/benefits/sick-or-disabled-people-and-carers/help-for-disabled-travellers1/" class="external-link" target="_blank" rel="noopener noreferrer">Citizen's Advice</a>
+ - <a href="https://www.gov.uk/transport/transport-accessibility-and-mobility" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK on Transport Accessibility and Mobility</a>
 
 If you need help understanding or filling out forms, you can get help from your social worker, nurse, or from the following support services:
- - [Citizen's Advice](https://www.citizensadvice.org.uk/about-us/contact-us/contact-us/contact-us/)
- - [AGE-UK](https://www.ageuk.org.uk/bromleyandgreenwich/our-services/)
- - [Turn2us](https://advicefinder.turn2us.org.uk/)
+ - <a href="https://www.citizensadvice.org.uk/about-us/contact-us/contact-us/contact-us/" class="external-link" target="_blank" rel="noopener noreferrer">Citizen's Advice</a>
+ - <a href="https://www.ageuk.org.uk/bromleyandgreenwich/our-services/" class="external-link" target="_blank" rel="noopener noreferrer">AGE UK</a>
+ - <a href="https://advicefinder.turn2us.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Turn2us</a>
+
+---
 
 ### My Experience
+People affected by Parkinson’s describe their experiences.
 
 > “She also advised me about a Blue Badge. And, I went on the internet, filled the form in, and within a matter of 5 weeks, I had a blue badge.”  
 > _(Person with Parkinson’s)_
+
+---
 
 ### What can I try for myself?
   1. Check eligibility and apply for a Blue Badge.
   2. Plan ahead and check if disabled parking bays are available.
      - This could be done by using BlueBadgeParking.com, or
      - Phoning the place you are visiting, or
-     - By using [BlueBadgeParking.com](https://bluebadgeparking.com/view/48.439567%2C-23.89375%2C59.430675%2C18.29375/road) - a worldwide crowd-sourced database of disabled parking places. The database is edited by the general public to add disabled parking bays not listed on the website. There is also an app available.
+     - By using <a href="https://bluebadgeparking.com/view/48.439567%2C-23.89375%2C59.430675%2C18.29375/road" class="external-link" target="_blank" rel="noopener noreferrer">BlueBadgeParking.com</a> - a worldwide crowd-sourced database of disabled parking places. The database is edited by the general public to add disabled parking bays not listed on the website. There is also an app available.
   3. Make sure you display your Blue Badge correctly on the dashboard showing the hologram and parking clock.
 
 ---
@@ -194,7 +200,7 @@ There are other transport options besides driving that offer travel schemes to h
   - ‘Disabled Person’s Bus Passes’ are available across England.
   - Contact your local council to find out who issues disabled bus passes in your area.
   - In London, the equivalent is a Disabled Person’s ‘Freedom Pass’ rather than a ‘Bus Pass’.
-  - The government website GOV.UK allows you to search for the relevant local council website by postcode; search for “Disabled person bus pass” on the site.
+  - The government website, <a href="https://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a> allows you to search for the relevant local council website by postcode; search for “Disabled person bus pass” on the site.
   - More information about the Freedom Pass for London is available on the London Councils website — see the Freedom Pass section (within “Services”) for details.
   - See extra information below about current eligibility:
     - You have been refused a driving license because of your health
@@ -217,14 +223,14 @@ There are other transport options besides driving that offer travel schemes to h
     - Have a visual or hearing impairment
     - Have epilepsy
 
-For more information and applications, visit [www.railcard.co.uk](https://www.railcard.co.uk).
+For more information and applications, visit <a href="https://www.railcard.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.railcard.co.uk</a>.
 
 **<ins>Dial-a-Ride</ins>**
   - Most councils run a **Dial-a-Ride** service via local council or charities.
   - This is a door-to-door transport service for people who find other transport options difficult.
   - Trips may be for supermarkets, hospital appointments, etc.
   - Find your local council on the government website by entering your postcode under “find local council.”
-  - In London, the **TFL Dial-a-Ride** membership is currently free for permanent or temporary residents of London boroughs. More info at [TFL website](https://tfl.gov.uk/modes/dial-a-ride/).
+  - In London, the **TFL Dial-a-Ride** membership is currently free for permanent or temporary residents of London boroughs. More info at <a href="https://tfl.gov.uk/modes/dial-a-ride/" class="external-link" target="_blank" rel="noopener noreferrer">TFL website</a>.
   - Some applications will require you to provide further information or possibly undergo a mobility assessment to see if you qualify to use that service. 
 
 **<ins>Taxicard Scheme</ins>** 
@@ -241,7 +247,7 @@ For more information and applications, visit [www.railcard.co.uk](https://www.ra
     - In receipt of a War Pension Mobility Supplement
     - Receive the mobility element of the Armed Forces Independence Payment 
   - You don’t have to be the driver; up to 3 named drivers can be registered - the car could be driven by a family member, friend or carer. 
-  - More info, applications, and vehicle search: [Motability website](https://www.motability.co.uk) or phone 0300 456 4566.
+  - More info, applications, and vehicle search: <a href="https://www.motability.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">Motability website</a> or phone 0300 456 4566.
 
   _Please note that Attendance Allowance cannot be used to lease a car through Motability scheme._
 
@@ -250,7 +256,11 @@ For more information and applications, visit [www.railcard.co.uk](https://www.ra
 2. Plan trips carefully as some transport options need advance booking.
 3. Applying for multiple schemes increases your transport options (e.g., if Dial-a-Ride isn’t available, then you can use your Taxicard).
 
+---
+
 ### My Experience
+People affected by Parkinson’s describe their experiences.
+
 > “…the chance to meet with a colleague's neighbour who had Parkinson's for some time. Seeing him still enjoying life—driving, working, travelling—was a big step to helping me get back on my feet after the diagnosis.”  
 > _(Person with Parkinson’s)_
 
@@ -271,9 +281,9 @@ Parkinson’s may make accessing toilets more difficult due to mobility or bladd
 
 ### National Key Scheme
   - Allows people with disabilities to unlock over 9,000 accessible public toilets across the UK.
-  - The key is called a **Radar Key** and can be purchased via the [Disability Rights UK](https://www.disabilityrightsuk.org/radar-keys?srsltid=AfmBOophjHsd-3Hg87Sw7Q3ebdt_t7h-HI0iKErqzf9-Pxg46jZt8qaK) website.
+  - The key is called a **Radar Key** and can be purchased via the <a href="https://www.disabilityrightsuk.org/radar-keys?srsltid=AfmBOophjHsd-3Hg87Sw7Q3ebdt_t7h-HI0iKErqzf9-Pxg46jZt8qaK" class="external-link" target="_blank" rel="noopener noreferrer">Disability Rights UK</a> website.
   - The website also provides a regional list of participating toilets.
-  - The **Urinary Symptoms** pages may also be helpful for additional support.
+  - The <a href="/learn/managing-symptoms/urination" class="internal-link">_**Urinary Symptoms**_</a> pages may also be helpful for additional support.
 
 ---
 
@@ -305,15 +315,15 @@ Flying and travelling abroad with Parkinson’s is still possible, with many peo
 
 ### Going Abroad
 - Plan for possible medical needs while on holiday. There could be instances where you will need to get medical assistance whilst on holiday. Think about how you could access this in advance. 
-- Check country-specific travel advice on the gov.uk website under “foreign travel advice” or contact the embassy of the country you intend to visit.
+- Check country-specific travel advice on the <a href="https://www.gov.uk/foreign-travel-advice" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a> website under “foreign travel advice” or contact the embassy of the country you intend to visit.
 - See your GP or private travel clinic to get any necessary vaccines at least 8 weeks before travel.
   - Some vaccines need time to develop immunity, others need multiple doses given over weeks or months.
-  - You can see more information on the [NHS Travel Vaccinations](https://www.nhs.uk/vaccinations/travel-vaccinations/travel-vaccination-advice/) page or,
-  - Visit the [NHS 'Fit for Travel'](https://www.fitfortravel.nhs.uk/destinations) webpage for more detailed, country-speicifc information on recommended vaccines.
-- The **UK Global Health Insurance Card (GHIC)** has replaced the existing European Health Insurance Card (EHIC) for subsidised healthcare in the EU. The GHIC allows you free or subsidised treatment across the European Economic Area (EEA) countries. This is not a replacement or alternative to travel insurance. You should have both. For more information or to apply visit the [NHS Healthcare Cover Abroad](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/) page.
+  - You can see more information on the <a href="https://www.nhs.uk/vaccinations/travel-vaccinations/travel-vaccination-advice/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Travel Vaccinations</a> page or,
+  - Visit the <a href="https://www.fitfortravel.nhs.uk/destinations" class="external-link" target="_blank" rel="noopener noreferrer">NHS 'Fit for Travel'</a> webpage for more detailed, country-speicifc information on recommended vaccines.
+- The **UK Global Health Insurance Card (GHIC)** has replaced the existing European Health Insurance Card (EHIC) for subsidised healthcare in the EU. The GHIC allows you free or subsidised treatment across the European Economic Area (EEA) countries. This is not a replacement or alternative to travel insurance. You should have both. For more information or to apply visit the <a href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Healthcare Cover Abroad</a> page.
 - There are similar agreements that the UK has with other countries in regard to free or subsidised treatment costs. 
 
-_Note: travel insurance is covered in Legal Matters. _
+_Note: travel insurance is covered in <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a>. _
 
 ### What Can I Try for Myself?
 1. Talk with your GP about your travel plans and seek advice
@@ -326,7 +336,11 @@ _Note: travel insurance is covered in Legal Matters. _
 7. Apply for your Global Health Insurance Card, these have now replaced the European Health Insurance Card. Please note these do not replace travel insurance.
 8. Seek medical treatment if unwell when abroad 
 
+---
+
 ### My Experience
+People affected by Parkinson’s describe their experiences.
+
 > “I take sealed bottles of spares medication on any trip abroad. I take one in my hand baggage and one in my hold luggage. If something happens to either my hand luggage or hold luggage, I still have medication. If nothing happens to either, then I have extra which is handy if I get severely delayed because volcanic ash or a worldwide pandemic halts air travel.”  
 > _(Person with Parkinson’s)_
 
