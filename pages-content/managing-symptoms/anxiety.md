@@ -20,41 +20,47 @@ There are a range of symptoms experienced with anxiety which varies from person 
 | - Sweating                         |                                            |                                                   |
 | - Trembling                       |                                            |                                                   |
 
-The body sensations are the physical response to stress and threat. However, the same sensations can be caused by a number of acute and long-term physical health conditions including Parkinson’s.  
+The body sensations are the physical response to stress and threat. However, the same sensations can be caused by a number of acute and long-term physical health conditions including Parkinson’s.
+
 They can also be a side effect of some medications. If someone is experiencing the body sensations without the thoughts and feelings or changes in behaviour, they are unlikely to be anxious.
 
 Worry is one of the most common features of anxiety in people with Parkinson’s. Some worry is normal. Indeed, a bit of worry can be useful as it forces us to think ahead and plan for stressful events. But worry can become excessive, taking up much of our time as well as our emotional energy. Such worry is often unproductive – it does not lead to solutions to problems. Instead, it traps us in a cycle of ‘what-ifs’ and expecting the worse. While we can sometimes distract ourselves from such worry, it tends to come back – often when we are trying to sleep.
 
 Anxiety also changes our behaviour; we look for ways to reduce unpleasant body sensations and distressing thoughts and feelings. For example, we might be repeatedly check we have done something or ask for reassurance from others. These behaviours can give short-term relief, but they do not break the cycle. The most common behaviour change in anxiety is avoidance. Once we work out what we are afraid of, it makes sense to avoid it. This is OK sometimes. However, it becomes a problem if it leads to us avoiding going out of the house, using public transport or socialising. Although avoidance can lead to a short-term reduction in anxiety, it makes whatever we are avoiding even more frightening.
 
+----
+
 ## What sorts of things are people with Parkinson’s anxious about?
+Uncertainty about the future can be difficult and can cause anxiety and worry. This might be particularly the case with health conditions that have an unpredictable course, such as Parkinson’s. 
+ 
+Some people are generally anxious about any stressful and potentially threatening situation. For others, it is more specific. For example, they may feel very anxious in social situations or in crowded places with lots of strangers around. People will often feel anxious before and during such situations. In a few people, the anxiety may increase very suddenly – a so-called ‘panic attack’. These can be very distressing. A person will often avoid situations where they have had a panic attack in the past. 
 
-Uncertainty about the future can be difficult and can cause anxiety and worry. This might be particularly the case with health conditions that have an unpredictable course, such as Parkinson’s.
-
-Some people are generally anxious about any stressful and potentially threatening situation. For others, it is more specific. For example, they may feel very anxious in social situations or in crowded places with lots of strangers around. People will often feel anxious before and during such situations. In a few people, the anxiety may increase very suddenly – a so-called ‘panic attack’. These can be very distressing. A person will often avoid situations where they have had a panic attack in the past.
+---
 
 ## What might be causing it?
-
 Anxiety can be caused by a combination of factors. Such factors include imbalances in brain chemicals, genetics, and stressful life events. People who have been anxious throughout their life may find that their anxiety has got worse since their Parkinson’s started. This may be due to the brain changes, or because Parkinson’s increases the number of ‘threats’ faced day-to-day. In other words, they may have more to be anxious about.
 
-Some symptoms of Parkinson’s can cause anxiety or make it worse. For example, after a fall or loss of balance, you may develop a fear of falling. See the Balance and Falls page for guidance on this.
+Some symptoms of Parkinson’s can cause anxiety or make it worse. For example, after a fall or loss of balance, you may develop a fear of falling. See the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page for guidance on this. 
+ 
+Some people experience anxiety when their medication is wearing off. This improves once they take their next dose of medication. You can also feel anxious if your medication is wearing off and you experience difficulties moving. You may find that when your movement symptoms are better controlled by medication, your levels of anxiety reduce. 
+ 
+Alcohol, caffeine, and some illicit drugs can make anxiety worse. Withdrawing from a substance or medication can also increase anxiety levels. Hormonal imbalances, such as high thyroid hormone levels, are another possible cause of anxiety. 
 
-Some people experience anxiety when their medication is wearing off. This improves once they take their next dose of medication. You can also feel anxious if your medication is wearing off and you experience difficulties moving. You may find that when your movement symptoms are better controlled by medication, your levels of anxiety reduce.
-
-Alcohol, caffeine, and some illicit drugs can make anxiety worse. Withdrawing from a substance or medication can also increase anxiety levels. Hormonal imbalances, such as high thyroid hormone levels, are another possible cause of anxiety.
+---
 
 ## What should I do about it?
+There are many things you can try to help you deal with anxiety (see ‘What can I try for myself?’). If anxiety is having a big impact on your life, you should speak to a healthcare professional. In some cases, anxiety has a negative impact on other symptoms of Parkinson’s. For example, stress and anxiety can make tremor worse, interfere with walking, and increase the risk of falls. Seeking support early can give you more control and help you manage feelings of anxiety. 
+ 
+Anxiety and depression often occur at the same time, and anxiety can make depression even more difficult to live with. You should seek urgent professional help if you are feeling great emotional distress or are experiencing feelings that are difficult to manage. These can include thoughts of death, suicidal ideas, thoughts of self-harm, panic attacks, flashbacks, and paranoia or hearing voices. You should speak to your GP in the first instance or go to A&E if not available and you are experiencing these. You can normally get an emergency appointment through your GP practice for urgent mental health concerns. 
 
-There are many things you can try to help you deal with anxiety (see ‘What can I try for myself?’). If anxiety is having a big impact on your life, you should speak to a healthcare professional. In some cases, anxiety has a negative impact on other symptoms of Parkinson’s. For example, stress and anxiety can make tremor worse, interfere with walking, and increase the risk of falls. Seeking support early can give you more control and help you manage feelings of anxiety.
+If you need immediate help but don’t want to see your GP or go to A&E, you could: 
+-  Call Samaritans on Freephone 116 123. They're open 24 hours a day and are there to listen
+-  Contact NHS 111 (England) or NHS Direct 0845 46 47 (Wales)
+-   f you are under the care of a local crisis team, contact them 
+ 
+For more details, the charity Mind has information about how to seek urgent mental health support. 
 
-Anxiety and depression often occur at the same time, and anxiety can make depression even more difficult to live with. You should seek urgent professional help if you are feeling great emotional distress or are experiencing feelings that are difficult to manage. These can include thoughts of death, suicidal ideas, thoughts of self-harm, panic attacks, flashbacks, and paranoia or hearing voices. You should speak to your GP in the first instance or go to A&E if not available and you are experiencing these. You can normally get an emergency appointment through your GP practice for urgent mental health concerns.
-
-If you need immediate help but don’t want to see your GP or go to A&E, you could:  
-• Call Samaritans on Freephone 116 123. They're open 24 hours a day and are there to listen  
-• Contact NHS 111 (England) or NHS Direct 0845 46 47 (Wales)  
-• If you are under the care of a local crisis team, contact them  
-
-For more details, the charity Mind has information about how to seek urgent mental health support.
+For more details, the charity <a href="https://www.mind.org.uk/need-urgent-help/" class="external-link" target="_blank" rel="noopener noreferrer">Mind</a> has information about <a href="https://www.mind.org.uk/need-urgent-help/" class="external-link" target="_blank" rel="noopener noreferrer">how to seek urgent mental health support</a>t.
 
 <div class="video-container">
 <iframe 
@@ -66,100 +72,88 @@ For more details, the charity Mind has information about how to seek urgent ment
 </iframe>
 </div>
 
-
+---
 
 ## What can I try for myself?
-
-There are many things you can try to help manage and reduce anxiety. These include:
+There are many things you can try to help manage and reduce anxiety. These include: 
 
 ### Activity
+Being more active can help to combat stress and reduce anxiety. You may choose to do this by going to the gym or going to classes e.g. dance, yoga, or tai chi. But achieving a more active lifestyle can be as simple as making small changes to your everyday routines. For example: 
+- Tidy up a bit faster when doing the housework
+- Extending walks to the shops/other errands a bit further, or going more often
+- Use the stairs instead of the lift or escalator
+- Leave the car at home for short journeys
+- Get off the bus a stop earlier and walking the rest of the journey
 
-Being more active can help to combat stress and reduce anxiety. You may choose to do this by going to the gym or going to classes e.g. dance, yoga, or tai chi. But achieving a more active lifestyle can be as simple as making small changes to your everyday routines. For example:  
-• Tidy up a bit faster when doing the housework  
-• Extending walks to the shops/other errands a bit further, or going more often  
-• Use the stairs instead of the lift or escalator  
-• Leave the car at home for short journeys  
-• Get off the bus a stop earlier and walking the rest of the journey  
-See Keeping Active pages for more guidance.
+See <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> pages for more guidance.
 
 If you have any concerns about safe and suitable exercise routines, discuss with your GP or a physiotherapist who will be able to recommend exercise that is right for you.
 
 ### Diet
-
 Maintaining a healthy, balanced diet is important for everyone. The food we eat can affect the way we feel, both physically and mentally, and how we feel can affect the food we eat. Anxiety can make you feel nauseous, or reduce your appetite, and it is important to still eat healthily if it is affecting you in this way. Some people ‘comfort eat’ when they feel anxious, for example extra sugary foods, which might lead to feeling guilty and increasing anxiety further.
 
 It can help to cut down on the amount of caffeine (found in tea, coffee, and some fizzy drinks) and alcohol you drink. This is because these can make some symptoms of anxiety (e.g. heart racing) worse.
 
-Healthy eating habits can play an important role in improving our mood and general sense of well-being. See Eating Well for more guidance.
+Healthy eating habits can play an important role in improving our mood and general sense of well-being. See <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> for more guidance.
 
 ### Keep socially active
-
 Sharing any worries or fears you may have with a friend or family member may help to reduce anxiety levels. Talking to others with Parkinson’s can also help by sharing your experiences and learning about different coping mechanisms or solutions to similar problems.
 
-You can look out for new opportunities from activities offered through local colleges, churches, leisure facilities, charities, and societies. You can search for activities and groups in your area on the government website gov.uk. Your local library can also be a good source of information about what is available in your area. If you need support with travelling to events, see our Travel page for advice.
+You can look out for new opportunities from activities offered through local colleges, churches, leisure facilities, charities, and societies. You can search for activities and groups in your area on the government website <a href="https://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a>. Your local library can also be a good source of information about what is available in your area. If you need support with travelling to events, see our <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for advice.
 
-Visit our Social & Spiritual Life & Spiritual page for more information on how you can keep socially active.
+Visit our <a href="/learn/living-with-parkinsons/optimising-wellbeing/social-and-spiritual-life" class="internal-link">_Social & Spiritual Life_</a> page for more information on how you can keep socially active.
 
 ### Sleep
-
-Many people with anxiety or worry may find it difficult getting to sleep. Our sleep page has some information on this and what you can try to help.
+Many people with anxiety or worry may find it difficult getting to sleep. Our <a href="/learn/managing-symptoms/sleep" class="internal-link">_Sleep_</a> page has some information on this and what you can try to help.
 
 ### Relaxation
-
 It’s important to try and make time to relax. Try doing things you find restful. This might be listening to music, reading a book, going for a walk, or getting creative by painting or colouring.
 
-See the Mind charity website for more tips on how to incorporate relaxation into your daily life. They also have example relaxation exercises you can try.
+See the <a href="https://www.mind.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Mind</a> charity website for more tips on how to incorporate relaxation into your daily life. They also have example relaxation exercises you can try.
 
 ### Breathing strategies
-
 Calming breathing exercises can help to reduce anxiety. When you feel anxious, you are more likely to take rapid, shallow breaths. This can cause sensations such as increased heart rate, dizziness, and muscle tension. In turn, this can increase feelings of anxiety. So, doing simple breathing exercises can help you to relax and reduce anxiety levels. These exercises work best when they’re practised regularly. You can even make them part of your daily routine (e.g. doing some deep breathing while waiting for the kettle to boil).
 
 Here’s an example of a simple breathing exercise you can try:  
-• Get into a position that you find comfortable (this can be standing, sitting, lying, etc.).  
-• Try to keep your shoulders down and relaxed and place your hand on your stomach.  
-• Breathe in through your nose and out through your mouth. Feel your stomach rise as you breathe in and fall as you breathe out.  
-• You may find it helpful to count steadily as you breathe: ‘one, two, three, four, five’ as you breathe in and ‘one, two, three, four, five’ as you breathe out. Try to work out what feels comfortable for you.  
-• Repeat for 3-5 minutes.
+- Get into a position that you find comfortable (this can be standing, sitting, lying, etc.).
+- Try to keep your shoulders down and relaxed and place your hand on your stomach.
+- Breathe in through your nose and out through your mouth. Feel your stomach rise as you breathe in and fall as you breathe out.
+- You may find it helpful to count steadily as you breathe: ‘one, two, three, four, five’ as you breathe in and ‘one, two, three, four, five’ as you breathe out. Try to work out what feels comfortable for you.
+- Repeat for 3-5 minutes.
 
 ### Mindfulness
-
 Mindfulness encourages you to pay closer attention to the present moment, focusing on your thoughts, feelings, bodily sensations and your environment. By doing this regularly it can help to improve your general emotional well-being.
 
-Mindfulness is often included as part of psychological treatment. It encourages you to notice any stress or anxiety you might be feeling and can help you to deal with this better. Visit the NHS Mental Health & Wellbeing pages for more information on how mindfulness can help our mental well-being. You can find the link in our More Information section below. It also gives guidance on how we can incorporate mindfulness into our day-to-day lives.
+Mindfulness is often included as part of psychological treatment. It encourages you to notice any stress or anxiety you might be feeling and can help you to deal with this better. Visit the <a href="https://www.nhs.uk/conditions/stress-anxiety-depression/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Mental Health & Wellbeing</a> pages for more information on how mindfulness can help our mental well-being. You can find the link in our More Information section below. It also gives guidance on how we can incorporate mindfulness into our day-to-day lives.
 
 ### Complementary therapies
+Complementary therapies include massage, acupuncture and aromatherapy. These therapies have not been tested in clinical trials, but some people with Parkinson’s report having positive experiences of them. These therapies may not directly treat the depression but can be helpful for relaxation and general wellbeing. 
+ 
+Check with your GP, specialist, or Parkinson’s nurse if you wish to take anything by mouth or apply it to your skin as a complementary therapy. 
+ 
+See our <a href="/learn/treatments-and-therapies
+/complementary-therapies" class="internal-link">_Complementary Therapies_</a> page for more information.
 
-Complementary therapies include massage, acupuncture and aromatherapy. These therapies have not been tested in clinical trials, but some people with Parkinson’s report having positive experiences of them. These therapies may not directly treat the anxiety but can be helpful for relaxation and general well-being.
+### Resources for wellbeing and mental health
+There are also lots of apps for your computer, smart phone or tablet which aim to help with anything from managing general wellbeing to targeting more specific health concerns. Most of them have not been tested. If you want to try one, look at the mental health apps and tools in the <a href="https://www.nhs.uk/apps-library/category/mental-health/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Apps Library on the NHS website</a>.
 
-Check with your GP, specialist, or Parkinson’s nurse if you wish to take anything by mouth or apply it to your skin as a complementary therapy.
-
-See our Complementary Therapy page for more information.
-
-## Resources for wellbeing and mental health
-
-There are also lots of apps for your computer, smart phone or tablet which aim to help with anything from managing general wellbeing to targeting more specific health concerns. If you want to try one, look at the mental health apps and tools in the NHS Apps Library on the NHS website.
-
-Here is a selection of self-help leaflets available online that might be helpful. You can find these in our More Information section. Alternatively, there are some books (e.g., ‘The worry cure’ By Robert Leahy). The Reading Well Books on Prescription web page has some other suggestions. Many of these books will be available through your local library or available to buy from local bookstores or online.
+There is a selection of self-help leaflets available online that might be helpful, you can find links to these at the bottom of the page along with other useful resources. Alternatively, there are some books (e.g., ‘The worry cure’ By Robert Leahy). The <a href="https://reading-well.org.uk/books/books-on-prescription" class="external-link" target="_blank" rel="noopener noreferrer">Reading Well Books on Prescription</a> website has some other suggestions. Many of these books will be available through your local library or available to buy from local bookstores or online.
 
 Some books are available in audiobook format, if preferred.
 
-There are also some websites that have a wide range of advice and resources groups. You can pay to become a member of these groups, if you wish. See the More Information section.
+There are also some websites that have a wide range of advice and resources groups. You can pay to become a member of these groups, if you wish. You can find links to more information and guidance about these at the bottom of this page.
 
 ### Self-help Cognitive Behavioural Therapy
-
-Cognitive Behavioural Therapy (CBT) focuses on how your feelings, thoughts, and behaviour all influence each other. In turn, this can lead to or worsen feelings of anxiety (see ‘Further Treatments’ for more information). There are a number of self-help CBT books recommended by the NHS for people with anxiety. You can access many of these at your local library via the ‘Books on Prescription’ scheme. For more information, speak with your GP or Parkinson’s nurse. Or, visit the Reading Well Books on Prescription website.
+Cognitive Behavioural Therapy (CBT) focuses on how your feelings, thoughts, and behaviour all influence each other. In turn, this can lead to or worsen feelings of anxiety (see ‘Further Treatments’ for more information). There are a number of self-help CBT books recommended by the NHS for people with anxiety. You can access many of these at your local library via the ‘Books on Prescription’ scheme. For more information, speak with your GP or Parkinson’s nurse. Or, visit the <a href="https://reading-well.org.uk/books/books-on-prescription" class="external-link" target="_blank" rel="noopener noreferrer">Reading Well Books on Prescription</a> website.
 
 ### Worry management
+There are some simple tricks that we can use to take back control of our repetitive unproductive worry:
+- **‘Worry time’:** worry thoughts can happen at any time. The thing we are worrying about may be important so we feel that deserves our attention. However, it can get in the way of other things. One simple trick is to plan one or two short periods of ‘worry time’ during the day. These are the times that you allow yourself to worry. Because you know that you can come back to the worry later, it is easier to switch it off at the time it pops into your head. Interestingly, when your scheduled worry time comes along, the worry often does not seem so worrying.
+- **Make a note of your worry and come back to it later:** Worries often run through our minds when we have no distractions. Unfortunately, this is often when we are trying to relax or sleep. Keep a notebook beside your bed or arm-chair and jot down a quick note about the worry. Then come back to it later – either during your worry time or in the morning. Again, the worry often seems less powerful
 
-There are some simple tricks that we can use to take back control of our repetitive unproductive worry.
-
-• ‘Worry time’: worry thoughts can happen at any time. The thing we are worrying about may be important so we feel that deserves our attention. However, it can get in the way of other things. One simple trick is to plan one or two short periods of ‘worry time’ during the day. These are the times that you allow yourself to worry. Because you know that you can come back to the worry later, it is easier to switch it off at the time it pops into your head. Interestingly, when your scheduled worry time comes along, the worry often does not seem so worrying.
-
-Make a note of your worry and come back to it later: Worries often run through our minds when we have no distractions. Unfortunately, this is often when we are trying to relax or sleep. Keep a notebook beside your bed or arm-chair and jot down a quick note about the worry. Then come back to it later – either during your worry time or in the morning. Again, the worry often seems less powerful
-
-A small study of self-help, using these and other simple techniques, showed that they can significantly reduce the amount of time that people spend worrying. The study used an short guide published on- line in Australia called ‘What? Me Worry?’ available in our More Information section. 
+A small study of self-help, using these and other simple techniques, showed that they can significantly reduce the amount of time that people spend worrying. The study used a short guide published on- line in Australia called ‘What? Me Worry?’ available in our More Information section. 
  
-## Avoid avoidance 
+### Avoid avoidance 
 Avoidance is a central feature of anxiety. It helps in the short-term but makes things worse overall. It can also restrict important aspects of day-to-day living. 
  
 Avoidance tends to build up gradually and is something that we learn to do – without intending it. 
@@ -167,6 +161,8 @@ We unlearn avoidance if we realise that we can cope with the stressful situation
 Often avoidance is an all-or-none response. For example, if shopping is difficult because of crowds, it is better to change the time or the place to one that is less crowded, rather than avoiding shops completely. This is adapting to the situation rather than avoiding it. 
  
 Practical planning and problem-solving can remove some stress and make avoidance less likely. This advanced thinking is much more productive than worry. Friends and family can often help find solutions to help you do the things that you are tending to avoid. But, it is important that they don’t encourage avoidance thinking that this will help you feel less anxious. 
+
+---
  
 ## My Experience 
 People affected by Parkinson’s describe their experiences. 
@@ -178,65 +174,73 @@ People affected by Parkinson’s describe their experiences.
 > “It’s weird. There's no reason, absolutely no reason why I should be [anxious]. It just seems to build up and get worse. No, I can't put it down to anything. There's nothing in particular that I can think of that makes it start. It just comes over you. ….I think if I just breathe. What I usually do is I’ll sit back and I’ll sort of take deep breaths and then I just sort of think, ‘calm down, just calm down’, you know, and sort of bring myself back again. So, that’s the only way I can get out of it, really. Or go and sit and do some drawing or go sit and put the television on and takes my mind off it”
 >
 > _(Person with Parkinson’s)_
- 
+
+---
+
 ## Further Assessment 
 At times, feelings of anxiety are completely normal. But, anxiety can begin to disrupt your day-to-day life or cause you distress. If this is the case, it is important to seek help from healthcare professionals. 
  
-### Questions 
-- Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your “My Health” section to bring to the appointment. 
-- See extra information below to see things they might ask about with regard to anxiety. 
- 
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+
+**They might ask about:**
   - Are you experiencing any physical symptoms? If so, what are these? 
   - What life events or stressors are happening? 
   - Are there any triggers for your anxiety? 
   - Thoughts or actions related to mood, such as thinking about self-harm or suicide 
   - How anxiety is impacting your life, for example your sleep 
  
-### Track your symptoms in the Symptom and Activity Tracker 
-- This can help you to recall the details and help the professional identify patterns. 
+_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+- This can help you to recall the details and help the professional identify patterns.
 - Monitor when you’re anxious and what’s happening for you at that time. Write down anything that may be related to the anxiety (i.e. things that seem to make your anxiety worse and things that appear to make it better). Make a note of any physical symptoms and when you take your medication. Try to do this for three days – this should be enough to be able to look for a pattern. 
 - It is best not to get too caught up in monitoring your symptoms as this can make anxiety worse. 
  
-## Tests 
+### Tests 
 Tests are not usually needed when assessing for anxiety. But your healthcare professional may wish to examine you or carry out tests, such as blood tests. This would help to rule out other possible causes of your symptoms. 
- 
+
+---
+
 ## Further Treatments 
 Your healthcare professional may be able to give you more specific advice about things you could try yourself. They might also refer you on to another service or discuss the option of medication. 
 
 ### Referral 
 - There is often a waiting time before that next service will see you. Referral would typically be for talking therapies or to mental health teams. 
-- Talking therapies are often first choice for anxiety. 
+- **Talking therapies** are often first choice for anxiety. 
   - They offer a safe, confidential place to talk to a trained professional about any difficulties you are having. 
   - Therapy sessions can be one-to-one with the therapist or in small groups. 
-  - There are various types of talking therapies, but they all aim to improve your well-being. See extra information below about talking therapies. 
-  - **Counselling**: Counselling can help you cope with mild versions of common mental health problems, including anxiety. 
-  - **Cognitive Behavioural Therapy (CBT)**: CBT focuses on how your feelings, thoughts, and behaviour influence each other and can lead to, or worsen, feelings of anxiety. It works by encouraging you to change these patterns by challenging ‘unhelpful’ thoughts and behaviour. There is evidence that CBT is particularly effective in treating anxiety, but it can also help you cope with chronic health problems. CBT typically involves a course of weekly sessions. It can be delivered by a clinical psychologist, psychiatrist, or specially trained nurse. Treatment for mild anxiety can be done via computer from your own home with support from a mental health care professional. 
-  - **Link worker service**: Most areas in England now offer a link worker service. You can ask about this at your GP practice. This is someone who can help link you up to local support available in your area. This might include activities and groups related to your interests, or local low cost counselling or other support options. 
+  - There are various types of talking therapies, but they all aim to improve your well-being. See extra information below about talking therapies.
  
-## Medication 
+### Examples of types of talking therapies
+- **Counselling:** Counselling can help you cope with mild versions of common mental health problems, including anxiety.
+- **Cognitive Behavioural Therapy (CBT)**: CBT focuses on how your feelings, thoughts, and behaviour influence each other and can lead to, or worsen, feelings of anxiety. It works by encouraging you to change these patterns by challenging ‘unhelpful’ thoughts and behaviour. There is evidence that CBT is particularly effective in treating anxiety, but it can also help you cope with chronic health problems. CBT typically involves a course of weekly sessions. It can be delivered by a clinical psychologist, psychiatrist, or specially trained nurse. Treatment for mild anxiety can be done via computer from your own home with support from a mental health care professional.
+- **Link worker service**: Most areas in England now offer a link worker service. You can ask about this at your GP practice. This is someone who can help link you up to local support available in your area. This might include activities and groups related to your interests, or local low cost counselling or other support options. 
+ 
+### Medication 
 - Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication. 
-- Please do not make any changes to your medication regime without speaking with a healthcare professional. 
+- **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 - If severe anxiety is affecting your quality of life, your GP or Parkinson’s specialist team may discuss the option of medication. There are different types of medication available for anxiety and the choice is personal to you. But, there are none specifically recommended for Parkinson’s’ and there have been no clinical trials looking into this. 
-- See extra information below about medication used for anxiety. 
+
+**Some medications used for anxiety:**
+- Selective Serotonin Reuptake Inhibitors (SSRIs), e.g. sertraline and citalopram 
+- Other medications also used for depression, e.g. mirtazapine or Serotonin and norepinephrine reuptake inhibitors (SNRIs) like venlafaxine 
+- Some drugs also used to for pain e.g. gabapentin or pregabalin 
+- Very occasionally, short term use of benzodiazepines
+- - Sometimes beta blockers are used for symptoms of panic. It should be used with caution as it can lower blood pressure. 
  
-  - Selective Serotonin Reuptake Inhibitors (SSRIs), e.g. sertraline and citalopram 
-  - Other medications also used for depression, e.g. mirtazapine or Serotonin and norepinephrine reuptake inhibitors (SNRIs) like venlafaxine 
-  - Some drugs also used to for pain e.g. gabapentin or pregabalin 
-  - Very occasionally, short term use of benzodiazepines 
-  - Sometimes beta blockers are used for symptoms of panic. It should be used with caution as it can lower blood pressure. 
- 
-- See extra information below about some medications that may worsen anxiety. 
- 
-  - Caffeine - this is present in some over-the-counter pain killers and flu remedies 
-  - Some decongestants 
-  - Steroid medication 
-  - Medication used for asthma (e.g. salbutamol) 
-  - Levothyroxine 
+**Some medications that may worsen anxiety:**
+- Caffeine - this is present in some over-the-counter pain killers and flu remedies 
+- Some decongestants 
+- Steroid medication 
+- Medication used for asthma (e.g. salbutamol) 
+- Levothyroxine 
+
+---
 
 ## Key Messages 
 - Anxiety is the feeling of worry or fear, including a general sense of unease. It can range in intensity from mild to severe. 
 - There are many things you can do to help improve your mood, even if you don’t have anxiety. These include exercise, maintaining a healthy diet, improving sleep, and making time to relax. You can also tackle worry and avoidance. 
 - Treatments for anxiety offered by healthcare professionals include talking therapies and medication.
+
+---
 
 ## More Information
 
