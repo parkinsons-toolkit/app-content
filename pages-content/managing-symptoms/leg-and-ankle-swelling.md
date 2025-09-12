@@ -53,7 +53,8 @@ Other non-Parkinson’s causes of leg or ankle swelling can be from:
 ## My Experience
 People affected by Parkinson’s describe their experiences.
 
-> “I take one day at a time and I try to get him out every day if I can, even if it’s around the block to keep his legs moving.”  
+> “I take one day at a time and I try to get him out every day if I can, even if it’s around the block to keep his legs moving.”
+>  
 > _(Carer for someone with Parkinson’s)_
 
 ---
