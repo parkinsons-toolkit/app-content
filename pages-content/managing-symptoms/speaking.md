@@ -102,6 +102,18 @@ _**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">
 ### Tests
 Most cases do not need further tests. Depending on the healthcare professional’s assessment, they may carry out blood tests, a scan of your head or neck, or a camera test to look at your throat and vocal cords.
 
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/QA3kXmBKy5M"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
 ---
 
 ## Further Treatments
