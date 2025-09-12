@@ -1,32 +1,26 @@
-# Reading, Writing and Technology
-
-## Introduction
-
-Reading, writing, and using technology may be more difficult for people with Parkinson’s. This can be due to a combination of factors, which are explored below.
+# Reading, Writing and Technology 
+Reading, writing, and using technology may be more difficult for people with Parkinson’s. This can be due to a combination of factors, and we will explore each issue in detail below. 
 
 ---
 
-### Reading
+## Reading
 
-**Why can it be difficult with Parkinson’s?**  
-Eye movements involved in reading are highly complex and must be coordinated to track words on a page.
+### Why can it be difficult with Parkinson’s?
+Eye movements involved in reading are highly complex and must be coordinated in order to track words on a page. 
+- **Saccadic eye movements** are the rapid eye movements that allow the eyes to quickly jump to a new target. These are important for the eyes to jump to a new line on the page. In Parkinson’s, these movements can be slow, and it can be hard to find the right spot on the next line to continue reading. These eye movements can also become fast if you are experiencing dyskinesias. 
+- **Vergence eye movements** are the eye movements needed for seeing an object up close or far away. These eye movements are important when focusing on a near task, like reading. In Parkinson’s, vergence eye movement can be impaired resulting in the person experiencing double vision. 
+- Other eye problems that can make reading difficult include: 
+  - Slowing of eye lid movement. This means less blinking which can cause dry or irritated eyes or even blurring of vision. 
+  - Spasms of the eyelid muscles can cause involuntary eye closure, called _blepharospasm_.
+  - Some medications used in Parkinson’s can cause dry eyes. 
 
-- **Saccadic eye movements:** Rapid eye movements that allow quick jumps to a new target, important for moving to a new line on the page. In Parkinson’s, these can be slow, making it hard to find the next line. Dyskinesias may cause these movements to become fast.
-- **Vergence eye movements:** Needed for focusing on near or far objects, important for reading. Parkinson’s may impair vergence, causing double vision.
-- Other issues include:
-  - Slowing of eyelid movement, leading to less blinking, causing dry or irritated eyes and blurred vision.
-  - Eyelid spasms (blepharospasm), causing involuntary eye closure.
-  - Some Parkinson’s medications can cause dry eyes.
+### What can I try for myself?
+For dry eyes, over-the-counter ointments and eye drops are available from pharmacists; they can be very helpful. 
 
-**What can I try for myself?**
+### What else may be helpful?
+Have regular eye checks to see if there are problems with near vision as this tends to deteriorate as people age. If a regular eye check is normal or new glasses are prescribed and you are still having problems reading, you may wish to ask your GP, optometrist, or ophthalmologist for a referral to a neuro-ophthalmologist. A neuro-ophthalmologist can do further tests and may prescribe ‘prisms’ (a special kind of glasses). 
 
-- Over-the-counter ointments and eye drops can help with dry eyes.
-
-**What else may be helpful?**
-
-- Regular eye checks for near vision problems, which often worsen with age.
-- If problems persist despite normal eye exams or new glasses, ask your GP, optometrist, or ophthalmologist for a referral to a neuro-ophthalmologist who may prescribe ‘prisms’ (special glasses).
-- See the 5 Senses page for more on visual changes in Parkinson’s.
+See our <a href="/learn/managing-symptoms/five-senses" class="internal-link">5 Senses</a> page for more information on visual changes in Parkinson’s. 
 
 <div class="video-container">
 <iframe 
@@ -40,49 +34,46 @@ Eye movements involved in reading are highly complex and must be coordinated to 
 
 ---
 
-### Writing
+## Writing
 
-**Why can it be difficult?**
-
-- Slower hand movement
-- Increased hand stiffness
-- Decreased dexterity (harder to grip/move a pen)
-- Reduced stamina for writing
+### Why can it be difficult for people with Parkinson’s? 
+You may find writing more difficult if you experience: 
+- Slower movement of hands
+- Increased stiffness in the hands
+- Decreased dexterity in hands - harder to grip and move a pen or pencil
+- Decreased stamina for writing
 - Tremor
 
-**What can I try for myself?**
+### What can I try for myself?
+- Trial a fibre-tip or gel ink pen as these flow most easily
+- Use a pen grip, wide pen, or a pen with a built-in grip to provide a more comfortable and relaxed grip on the pen
+- To improve the size of your writing, you could try:
+  - Using lined paper, or darkly lined paper underneath light paper in order to guide writing o Aiming for the above page line with each upward pen stroke while forming letters o Concentrating on ‘big and slow’ or ‘smooth and slow’ may help with small or feathery writing
+  - Practising hand exercises. At the bottom of this page you can find a link to a YouTube video of hand exercises you can try. 
 
-- Use fibre-tip or gel ink pens that flow easily.
-- Use pens with grips, wide barrels, or built-in grips for comfort.
-- To improve handwriting size:
-  - Use lined or darkly lined paper underneath light paper to guide writing.
-  - Aim to reach the line with upward pen strokes.
-  - Concentrate on making ‘big and slow’ or ‘smooth and slow’ movements.
-  - Practice hand exercises (see below).
+### Hand exercises:
+1.<ins>First Exercise</ins>
+- Put your hands straight out in front of you, shoulder-height, with your palms away from you and fingers extended wide.
+- Turn your hands towards your face, and pull them back to be even with your body at your ribs, making a tight fist with your hands at the same time.
+- Make a fist as you bring your hand in and extending your palm as you extend your hands out. 
+Repeat this 20 times. 
 
-**Hand exercises:**
+2.<ins>Second Exercise</ins>
+- Tap each finger on your right hand to your right thumb and then extend upwards. Do the same on your left hand at the same time.
+- _Explained in detail:_ Tap right pointer finger to your right thumb and your left pointer finger to your left thumb, then extend both pointer fingers to the sky; then tap middle fingers to each thumb, and extend each middle finger to the sky, etc.
+- Repeat this exercise twice on each finger. 
 
-1. **Exercise 1:**
+3.<ins>Third Exercise</ins>
+- Curl fingers down so that the nail area of fingers are touching where the base of the fingers connect to the palm of the hand.
+- Then extend fingers up and out as wide as they can go.
+- Curl and extend 20 times – include your thumb in the curling and extending. 
 
-   - Hold hands straight out in front, shoulder height, palms away, fingers extended wide.
-   - Turn hands toward your face, pull back to ribs while making a tight fist.
-   - Alternate between fist and open palm.
-   - Repeat 20 times.
+### What else may be helpful?
+If your handwriting does not improve despite trying the above suggestions, you could try seeking the advice of an occupational therapist. An occupational therapist can give you more specific hand exercises that may help with writing and other specialised hand tasks. For a referral for occupational therapy, speak to your GP. 
 
-2. **Exercise 2:**
-
-   - Tap each finger to the thumb on both hands simultaneously, then extend fingers upward.
-   - Repeat twice per finger.
-
-3. **Exercise 3:**
-   - Curl fingers so nails touch the palm base, then extend fingers wide.
-   - Repeat 20 times including thumbs.
-
-**What else may be helpful?**
-
-- See an occupational therapist for personalized hand exercises and advice. Ask your GP for a referral.
-- Consider a facsimile signature stamp for legal documents if signing is difficult.
-- Explore alternative communication methods like computers.
+You can also consider: 
+- If you have difficulty writing your signature on documents (prescriptions, passports, banking, etc.), a facsimile signature stamp may be useful. This can be used to create a legal signature with a rubber stamp meaning the person no longer needs to physically write their signature.
+- Alternative ways of communicating (e.g. using a computer). 
 
 <div class="video-container">
 <iframe 
@@ -96,23 +87,21 @@ Eye movements involved in reading are highly complex and must be coordinated to 
 
 ---
 
-### Using Technology
+## Using Technology
 
-**Computers**
+### Computers
+If you struggle to communicate by speaking or writing, you could consider using equipment that may reduce these challenges - like a computer or tablet. But, you may find it challenging to use these if you have a lot of tremor or stiffness. 
 
-- May help if speaking or writing is difficult, but tremor or stiffness can make usage challenging.
+### What can I try for myself?
+- If you use a laptop and find typing on a standard keyboard difficult, try typing on a touchscreen (e.g. tablet or mobile phone).
+- Video call software can be easy to use with little typing needed. E.g. Zoom, Teams, Facetime, Google Meet.
+- You can use talk-to-text software to send messages to friends or family. Talk-to-text means you push a button, talk, and the program takes your verbal words and records them as written words. 
+This means you don’t have to type anything. 
 
-**What can I try?**
-
-- Use a touchscreen device (tablet or smartphone) instead of a standard keyboard.
-- Use video call apps like Zoom, Skype, Facetime, or Google Meet requiring little typing.
-- Use talk-to-text software to convert spoken words into written text.
-
-**Training & Support:**
-
-- Age UK may offer computer training.
-- Online Centres Network provides access and advice on computers across 6,000 UK centres.
-- Local libraries may have training opportunities.
+If using a computer or the internet feels overwhelming, there are training courses available (see More Information for contact details). 
+- **Age UK** may offer a computer training course near you.
+- **Online Centres Network** is made up of many organisations, with the mission to provide access and advice on computers and the internet. They have 6,000 centres around the UK.
+- You could ask at your **local library** to see if they offer computer training opportunities. 
 
 **Choosing a device:**  
 | Device | Pros | Cons |
