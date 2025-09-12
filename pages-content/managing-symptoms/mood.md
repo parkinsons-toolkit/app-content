@@ -166,22 +166,16 @@ See our <a href="/learn/treatments-and-therapies
 /complementary-therapies" class="internal-link">_Complementary Therapies_</a> page for more information. 
 
 ### Resources for Wellbeing and Mental Health
+There are also lots of apps for your computer, smart phone or tablet which aim to help with anything from managing general wellbeing to targeting more specific health concerns. Most of them have not been tested. If you want to try one, look at the mental health apps and tools in the NHS Apps Library on the NHS website. 
+ 
+There are also many books that might be helpful. The Reading Well Books on Prescription website has some ideas. Many of these books will be available through your local library. You can find the link in our More Information section below. 
 
-There are many apps designed to support wellbeing and specific mental health needs. Most are not clinically tested. If interested, explore the NHS Apps Library on the NHS website.
-
-Books can also help. The Reading Well Books on Prescription website offers recommendations, many available via your local library. See More Information below for links.
-
----
-
-# Self-Help Cognitive Behavioural Therapy (CBT)
-
-CBT focuses on how feelings, thoughts, and behaviour influence each other, potentially causing or worsening depression. There are NHS-recommended self-help CBT books for depression, accessible through local libraries via the ‘Books on Prescription’ scheme.
-
-For more information, speak with your GP or Parkinson’s nurse, or visit the Reading Well Books on Prescription website.
+### Self-Help Cognitive Behavioural Therapy (CBT)
+Cognitive Behavioural Therapy (CBT) focuses on how your feelings, thoughts, and behaviour all influence each other. In turn, this can lead to or worsen feelings of depression (see ‘Further Treatments’ for more information). There are a number of self-help CBT books recommended by the NHS for people with depression. You can access many of these at your local library via the ‘Books on Prescription’ scheme. For more information, speak with your GP or Parkinson’s nurse. Or, visit the Reading Well Books on Prescription website. 
 
 ---
 
-# My Experience
+## My Experience
 
 > “Sometimes I do have a good old moan and I do have a bit of a cry, because I feel so frustrated when I can’t do what I want to do. But then I just have to pick myself up and get going again.”
 > 
@@ -193,105 +187,45 @@ For more information, speak with your GP or Parkinson’s nurse, or visit the Re
 
 ---
 
-# Further Assessment
+## Further Assessment
 
-## Questions to Consider
+### Questions
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
-Healthcare professionals may ask:  
-- How often are you affected by low mood and how long does it last?  
-- How is low mood affecting your life?  
-- Are you no longer enjoying things you used to?  
-- Are you feeling hopeless?  
-- Are you tired or lacking energy?  
-- Do you have difficulty concentrating on everyday things (e.g., watching TV)?  
-- Are you comfort eating or losing your appetite?  
-- Are you sleeping more than usual or unable to sleep?  
-- Do you have suicidal thoughts or thoughts of self-harm?  
-- Do you sometimes see or hear things that aren’t really there? Any other unusual experiences?
+**They might ask about:**
+- How often you are affected by low mood and how long does it last?
+- How is low mood affecting your life?
+- Are you no longer getting enjoyment from the things you used to?
+- Are you feeling hopeless?
+- Are you feeling tired or lacking energy?
+- Are you having difficulty concentrating on everyday things (e.g. watching the television)?
+- Are you comfort eating or losing your appetite?
+- Are you sleeping more than usual or unable to sleep?
+- Are you having suicidal thoughts or thoughts of self-harm?
+- Do you sometimes see or hear things that are not really there? Do you have any other unusual experiences? 
+
 
 _**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+- This can help you to recall the details and help the professional identify patterns.
+- If your mood fluctuates during the day, track it over 2-3 days to see when it bothers you most. You could also record your sleep patterns if these vary. You could note any factors that you think may be related (i.e. things that seem to make your mood worse and things that seem to help). Also record when you take your medication as there may be a relationship. 
 
-Tracking symptoms can help recall details and identify patterns. If mood fluctuates, track it over 2-3 days to see when it worsens. Record sleep patterns if variable, note factors affecting mood, and medication times to identify relationships.
-
-## Tests
-
-Your healthcare professional may perform examinations or blood/urine tests to check for other causes of depression, such as thyroid issues or blood imbalances.
+### Tests
+Depending on their assessment, your healthcare professional may wish to examine you and carry out blood or urine tests. Such tests are used to look for other causes of depression, such as thyroid conditions or imbalances in the blood (e.g. high calcium levels).
 
 ---
 
-# Further Treatments
+## Further Treatments
+Your healthcare professional may be able to give you more specific advice about things you could try yourself. They might also refer you on to another service or discuss the option of medication. 
 
-Your healthcare professional can give specific self-help advice, refer you to other services, or discuss medication.
+### Referral
+- Referral would typically be for talking therapies or to mental health teams. Your GP can refer you, and it may also be available through your specialist team. In England you can also self-refer for talking therapies without going through your GP through this <a href="https://www.nhs.uk/service- search/find-a-psychological-therapies-service/" class="external-link" target="_blank" rel="noopener noreferrer">NHS page</a>. There can be a long wait to start therapy on the NHS.
+- Talking therapies offer a safe, confidential place to talk to a trained professional about any difficulties you are having:
+  - Therapy sessions can be one-to-one with the therapist or in small groups.
+  - There is lots of different types of talking therapies, but they all have the same aim of improving your wellbeing.
+ 
+### Examples of types of talking therapies
 
-## Referral
-
-- Typically for talking therapies or mental health teams.  
-- Your GP or specialist can refer you.  
-- In England, you can self-refer for talking therapies via [NHS Psychological Therapies Service](https://www.nhs.uk/service-search/find-a-psychological-therapies-service/).  
-- There may be long waiting times for NHS therapy.
-
-Talking therapies provide a safe, confidential place to discuss difficulties with a trained professional. Sessions may be one-to-one or in small groups. Various types exist but all aim to improve wellbeing.
-
-See additional information on talking therapies for details.
-
-# Complementary Therapies  
-Complementary therapies include massage, acupuncture and aromatherapy. These therapies have not been tested in clinical trials, but some people with Parkinson’s report having positive experiences of them. These therapies may not directly treat the depression but can be helpful for relaxation and general wellbeing.  
-
-Check with your GP, specialist, or Parkinson’s nurse if you wish to take anything by mouth or apply it to your skin as a complementary therapy.  
-
-See our Complementary Therapy page for more information.  
-
-# Resources for Wellbeing and Mental Health  
-There are also lots of apps for your computer, smart phone or tablet which aim to help with anything from managing general wellbeing to targeting more specific health concerns. Most of them have not been tested. If you want to try one, look at the mental health apps and tools in the NHS Apps Library on the NHS website.  
-
-There are also many books that might be helpful. The Reading Well Books on Prescription website has some ideas. Many of these books will be available through your local library. You can find the link in our More Information section below.  
-
-# Self-help Cognitive Behavioural Therapy  
-Cognitive Behavioural Therapy (CBT) focuses on how your feelings, thoughts, and behaviour all influence each other. In turn, this can lead to or worsen feelings of depression (see ‘Further Treatments’ for more information). There are a number of self-help CBT books recommended by the NHS for people with depression. You can access many of these at your local library via the ‘Books on Prescription’ scheme. For more information, speak with your GP or Parkinson’s nurse. Or, visit the Reading Well Books on Prescription website.  
-
-# My Experience  
-People affected by Parkinson’s describe their experiences.  
-
-> “Sometimes I do have a good old moan and I do have a bit of a cry, because I feel so frustrated when I can’t do what I want to do. But then I just have to pick myself up and get going again.”
->
-> _(Person with Parkinson’s)_  
-
-> “I can have a bad day, I can have days when my mood swings are not very happy because I don’t feel very well. When I’m not well, I’m obviously not happy. That’s why watching a film sometimes helps because you’re into the film. And you can ignore the fact of how you’re probably feeling. I watch TV to distract. I lie down to distract. I get up and go for a walk around the house. Sometimes go out the front door, have a walk around the block.”
->
-> _(Person with Parkinson’s) _ 
-
-# Further Assessment  
-
-### Questions  
-- Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your “My Health” section to bring to the appointment.  
-- See extra information below about things they might ask about with regard to mood.  
-
-  - How often you are affected by low mood and how long does it last?  
-  - How is low mood affecting your life?  
-  - Are you no longer getting enjoyment from the things you used to?  
-  - Are you feeling hopeless?  
-  - Are you feeling tired or lacking energy?  
-  - Are you having difficulty concentrating on everyday things (e.g. watching the television)?  
-  - Are you comfort eating or losing your appetite?  
-  - Are you sleeping more than usual or unable to sleep?  
-  - Are you having suicidal thoughts or thoughts of self-harm?  
-  - Do you sometimes see or hear things that are not really there? Do you have any other unusual experiences?  
-
-### Track your symptoms in the Symptom and Activity Tracker  
-- This can help you to recall the details and help the professional identify patterns.  
-- If your mood fluctuates during the day, track it over 2-3 days to see when it bothers you most. You could also record your sleep patterns if these vary. You could note any factors that you think may be related (i.e. things that seem to make your mood worse and things that seem to help). Also record when you take your medication as there may be a relationship.  
-
-### Tests  
-Depending on their assessment, your healthcare professional may wish to examine you and carry out blood or urine tests. Such tests are used to look for other causes of depression, such as thyroid conditions or imbalances in the blood (e.g. high calcium levels).  
-
-# Further Treatments  
-Your healthcare professional may be able to give you more specific advice about things you could try yourself. They might also refer you on to another service or discuss the option of medication.  
-
-### Referral  
-- Referral would typically be for talking therapies or to mental health teams. Your GP can refer you, and it may also be available through your specialist team. In England you can also self-refer for talking therapies without going through your GP through https://www.nhs.uk/service-search/find-a-psychological-therapies-service/. There can be a long wait to start therapy on the NHS.  
-- Talking therapies offer a safe, confidential place to talk to a trained professional about any difficulties you are having.  
-  - Therapy sessions can be one-to-one with the therapist or in small groups.  
-  - There is lots of different types of talking therapies, but they all have the same aim of improving your wellbeing. See extra information below about talking therapies.  
+  - 
 
   - **Counselling:** Counselling can help you cope with mild versions of common mental health problems, including depression. It might also help you to talk about a specific event or cause for your low mood, such as relationship difficulties or a bereavement. Counselling may be available on the NHS. It can also be available for free through your employer. Some charities offer cheap or free talking therapies or group support. This includes Cruse for bereavement care, Relate for relationship counselling and Mind. Some private counsellors also offer discounted rates for those on low incomes. See our More information section for details on how to find a trained and accredited therapist.  
 
