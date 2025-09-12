@@ -1,4 +1,4 @@
-# Mood
+# Low Mood
 <div class="video-container">
 <iframe 
   width="560" 
@@ -8,6 +8,8 @@
   allowfullscreen>
 </iframe>
 </div>
+
+---
 
 ## What’s the difference between low mood and depression?
 Everyone has times when their mood is low, and they feel unhappy about life. This can happen following a difficult event or experience. It is also possible to feel down without there being a clear reason. For some people, these periods of low mood are manageable and gradually pass. For others, low mood may persist for a long time and can affect their day-to-day life. They may find it more difficult to ‘shake it off’, even for a short time. This may indicate depression. When a person is depressed, it can affect their physical health, their appetite, and their sleep. In the same way, when a person is physically unwell it can lower their mood.
@@ -21,6 +23,8 @@ A general low mood may involve feeling sad, but it can also involve feeling emot
 Just because such feelings are common, it does not mean that they have to be accepted as inevitable. Making small changes in your life, such as talking about a difficult situation or increasing the amount sleep you get, can help to improve your mood. It can also help to keep as physically, mentally, and socially active as you can. 
  
 A low mood which persists despite taking positive steps to help manage it can be a sign of depression. Depression is more intense and longer lasting than the short periods of low mood that anyone can experience from time to time. Depression can have the same features as low mood, plus others. 
+
+--
 
 ## Symptoms of depressions
 - Low, flat or empty mood lasting 2 weeks or more
@@ -58,7 +62,7 @@ Depression is more common in people who have many different long-term health con
 
 ---
 
-## What Should I Do About It?
+## What should I do about it?
 There are many things you can try to help you deal with low mood or depression (see below ‘What can I try for myself?’). At times, feelings of low mood are completely normal. But, if you have these feelings for most of the day, every day for more than 2 weeks, you should make an appointment with your GP. Your GP can assess whether your symptoms suggest that you are depressed. Depending on the outcome, they may recommend medication or a talking therapy (see the <a href="/learn/treatments-and-therapies
 /complementary-therapies" class="internal-link">_Complementary Therapies_</a>) page.
 
@@ -89,7 +93,7 @@ For more details, the charity _Mind_ has information about <a href="https://www.
 
 ---
 
-## What Can I Try For Myself?
+## What can I try for myself?
 There are many things you can do that may help to improve your mood. Not all of them help everyone, but they are all worth trying. In most cases, they are important for our health and well- being, not just as a way to manage low mood or depression.
 
 ### Activity  
@@ -140,9 +144,9 @@ It’s important to try and make time to relax. Try doing things you find restfu
 It can also help to practise calming breathing techniques. This can reduce any stress and boost your emotional well-being. See our (see <a href="/learn/living-with-parkinsons/optimising-wellbeing/dealing-with-stress-and-challenges" class="internal-link">_Dealing with Stress and Challenges_</a> page for a simple breathing exercise you can try. 
 
 ### Mindfulness
-Mindfulness encourages you to pay closer attention to the present moment, focusing on your thoughts, feelings, bodily sensations and your environment. Doing this regularly can help to improve your general emotional wellbeing. 
+Mindfulness encourages you to pay closer attention to the present moment, focusing on your thoughts, feelings, bodily sensations and your environment. Doing this regularly can help to improve your general emotional wellbeing.
 
-Mindfulness is often included as part of psychological treatment. It is recommended by the National Institute of Care Excellence (NICE) as a way to help prevent the recurrence of depression in people that have had several episodes over their lifetime. Mindfulness groups and courses are available in some areas. The _Mind_ website gives more information on these and other ways to learn Mindfulness. Visit the NHS Mental Health & Wellbeing pages for more information on how mindfulness can help mental wellbeing. It also gives guidance on how we can incorporate mindfulness into our day-to-day lives. You can find links in our More Information section below.
+Mindfulness is often included as part of psychological treatment. It is recommended by the National Institute of Care Excellence (NICE) as a way to help prevent the recurrence of depression in people that have had several episodes over their lifetime. Mindfulness groups and courses are available in some areas. The <a href="https://www.mind.org.uk/information-support/drugs-and-treatments/mindfulness/how-to-learn-mindfulness/" class="external-link" target="_blank" rel="noopener noreferrer">Mind</a> website gives more information on these and other ways to learn Mindfulness. Visit the <a href="https://www.nhs.uk/conditions/stress-anxiety-depression/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Mental Health & Wellbeing</a> pages for more information on how mindfulness can help mental wellbeing. It also gives guidance on how we can incorporate mindfulness into our day-to-day lives. You can find links in our More Information section below.
 
 ### Keep a Gratitude Diary
 Keeping a diary of the things you’re grateful for may lift your mood have a positive effect on your mental wellbeing. Try to describe one thing you’re grateful for and do this twice a week. You can write about anything that comes to mind, as long as it makes you feel grateful. For example, it could be something very little that has happened or a person that you’re grateful for.
@@ -154,16 +158,14 @@ _Tips for keeping a gratitude diary..._
 - Plan a time when you will write in your diary. Consider setting an alarm on your phone if you find that you are forgetting to write your diary entries
 
 ### Complementary Therapies
+Complementary therapies include massage, acupuncture and aromatherapy. These therapies have not been tested in clinical trials, but some people with Parkinson’s report having positive experiences of them. These therapies may not directly treat the depression but can be helpful for relaxation and general wellbeing. 
+ 
+Check with your GP, specialist, or Parkinson’s nurse if you wish to take anything by mouth or apply it to your skin as a complementary therapy. 
+ 
+See our <a href="/learn/treatments-and-therapies
+/complementary-therapies" class="internal-link">_Complementary Therapies_</a> page for more information. 
 
-Complementary therapies like massage, acupuncture, and aromatherapy may promote relaxation and wellbeing. Though not clinically proven to treat depression, some people with Parkinson’s find them helpful.
-
-Check with your GP, specialist, or Parkinson’s nurse before using anything by mouth or on your skin.
-
-See our Complementary Therapy page for more details.
-
----
-
-# Resources for Wellbeing and Mental Health
+### Resources for Wellbeing and Mental Health
 
 There are many apps designed to support wellbeing and specific mental health needs. Most are not clinically tested. If interested, explore the NHS Apps Library on the NHS website.
 
