@@ -62,6 +62,16 @@ Alcohol, caffeine, and some illicit drugs can make anxiety worse. Withdrawing fr
 
 ## What should I do about it?
 There are many things you can try to help you deal with anxiety (see ‘What can I try for myself?’). If anxiety is having a big impact on your life, you should speak to a healthcare professional. In some cases, anxiety has a negative impact on other symptoms of Parkinson’s. For example, stress and anxiety can make tremor worse, interfere with walking, and increase the risk of falls. Seeking support early can give you more control and help you manage feelings of anxiety. 
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/McK0dzm3uXc"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
  
 Anxiety and depression often occur at the same time, and anxiety can make depression even more difficult to live with. You should seek urgent professional help if you are feeling great emotional distress or are experiencing feelings that are difficult to manage. These can include thoughts of death, suicidal ideas, thoughts of self-harm, panic attacks, flashbacks, and paranoia or hearing voices. You should speak to your GP in the first instance or go to A&E if not available and you are experiencing these. You can normally get an emergency appointment through your GP practice for urgent mental health concerns. 
 
@@ -173,6 +183,16 @@ We unlearn avoidance if we realise that we can cope with the stressful situation
 Often avoidance is an all-or-none response. For example, if shopping is difficult because of crowds, it is better to change the time or the place to one that is less crowded, rather than avoiding shops completely. This is adapting to the situation rather than avoiding it. 
  
 Practical planning and problem-solving can remove some stress and make avoidance less likely. This advanced thinking is much more productive than worry. Friends and family can often help find solutions to help you do the things that you are tending to avoid. But, it is important that they don’t encourage avoidance thinking that this will help you feel less anxious. 
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/IA2Ee8lPAOw"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
 
 ---
  
