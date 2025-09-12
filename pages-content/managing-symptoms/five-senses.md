@@ -7,6 +7,17 @@
 
 Sensory changes are important to identify for safety reasons, particularly if you drive.
 
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/YtWOzmSYlIs"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 ---
 
 ## What might be causing it?
@@ -66,6 +77,16 @@ If you are a driver, see the DVLA ‘standards of vision for driving’. You don
 ---
 
 ## What can I try for myself?
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/o3fD-Pqe8No"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
 
 ### If you have changes in smell and taste
 Although the changes in smell or taste in Parkinson’s cannot be cured, there are things to consider. 
