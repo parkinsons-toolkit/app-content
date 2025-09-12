@@ -146,6 +146,7 @@ If using a computer or the internet feels overwhelming, there are training cours
 - Mobile phones can offer peace of mind. For example, knowing that you can contact someone straight away, no matter where they are. 
 - Smartphones (a mobile that acts as a small computer and connects with the internet) can have applications (‘apps’) downloaded onto it.
   - Apps are pieces of software that can be used to perform specific tasks.
+
     _Examples:_ writing a note, playing a game, or letting 	you know when your bus is coming.
   - Smartphones have many different features that could be useful, including the following:
     -  Voice activation (either built-in on the phone or available as an app). This can allow you to: call someone in your phonebook by saying their name, search the internet, dictate text messages and emails, open apps, and record notes as reminders.
