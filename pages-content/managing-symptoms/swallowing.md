@@ -120,6 +120,20 @@ _**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">
 - Most cases do not need further tests.
 - In other cases, depending on their assessment, your healthcare professional may recommend tests such as a blood test or camera test to look at your food pipe (this is called an endoscopy). 
 
+
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/4B1MjG6vdKg"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
+
 ---
 
 ## Further Treatments
