@@ -3,6 +3,18 @@ Stress can often make symptoms such as tremor worse. Learning how to cope with s
 
 Even when emotionally and mentally healthy, you may still experience negative emotions, these are part of normal life. Having good emotional health means developing the ability to bounce back from difficult situations.  
 
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/l5o8A2eVxNY"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
+
 Below are some suggestions to promote emotional wellbeing and help you feel more in control when dealing with stress. When you have read them through, spend some time thinking about how you might incorporate some of the tips into your routine.  
 
 ---
