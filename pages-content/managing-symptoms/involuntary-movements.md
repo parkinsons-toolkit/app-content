@@ -5,6 +5,17 @@ Some people experience dyskinesia when their medications are at the highest leve
  
 Dyskinesias can range in severity, from some people having it so mildly that they do not notice the movements to others who have severe dyskinesias. Many people with Parkinson’s say their dyskinesias do not bother them, and they would prefer to feel more “on” with dyskinesias and be able to do more, than have fewer dyskinesias but feel more “off” and not be able to do as much. 
 
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/1jFaZq7MgkA"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 ---
 
 ## What might be causing it?
@@ -36,6 +47,18 @@ If you notice particular times when your movements are good (e.g. feeling “on�
 
 ### Explain to others
 You can explain to others that the extra movements are part of your Parkinson’s and nothing to be concerned about.
+
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/gv50lgx8bAQ"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 
 --- 
 
