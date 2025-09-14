@@ -51,6 +51,16 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
 
 ### Nurses
 
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/Ks0IEjicOD8" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 - They must be registered with the _Nursing & Midwifery Council (NMC)_ to work in the UK.
 - Nursing titles vary by place of work but may include:
   - ‘Staff Nurse’ - the initial grade of a fully qualified nurse.
@@ -61,16 +71,6 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
   - **Advanced Nurse Practitioners (ANP)** and **Consultant Nurses**, with further specialist knowledge, skills and experience, including in research, strategic and clinical domains.
 - Some nurses take special training to be able to prescribe medicine. They can then register to do so on their own.
 - Parkinson’s Nurses have specialist experience in Parkinson’s. Focused on Parkinson’s care, symptom management, advice, and support.
-
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/Ks0IEjicOD8" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 ### Occupational Therapists (OTs)
 

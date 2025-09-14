@@ -202,8 +202,6 @@ Avoidance tends to build up gradually and is something that we learn to do – w
 We unlearn avoidance if we realise that we can cope with the stressful situation, even if it is difficult.
 Often avoidance is an all-or-none response. For example, if shopping is difficult because of crowds, it is better to change the time or the place to one that is less crowded, rather than avoiding shops completely. This is adapting to the situation rather than avoiding it.
 
-Practical planning and problem-solving can remove some stress and make avoidance less likely. This advanced thinking is much more productive than worry. Friends and family can often help find solutions to help you do the things that you are tending to avoid. But, it is important that they don’t encourage avoidance thinking that this will help you feel less anxious.
-
 <div class="video-container">
 <iframe
   width="560"
@@ -213,6 +211,8 @@ Practical planning and problem-solving can remove some stress and make avoidance
   allowfullscreen>
 </iframe>
 </div>
+
+Practical planning and problem-solving can remove some stress and make avoidance less likely. This advanced thinking is much more productive than worry. Friends and family can often help find solutions to help you do the things that you are tending to avoid. But, it is important that they don’t encourage avoidance thinking that this will help you feel less anxious.
 
 ---
 
