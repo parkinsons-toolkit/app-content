@@ -2,8 +2,6 @@
 
 Anxiety is the feeling of worry or fear, including a general sense of unease. This feeling can range in intensity from mild to severe.
 
-Everyone can experience feelings of anxiety at some time in their life. Anxiety is a natural response to situations that we find stressful or threatening. For example, this might be about your health, moving house or work-related problems. It may subside once the situation changes, or the person becomes used to the situation. But sometimes feelings of anxiety can last for long periods of time and without a clear cause. This can be troubling for the person and can affect their day-to- day life.
-
 <div class="video-container">
 <iframe
   width="560"
@@ -13,6 +11,8 @@ Everyone can experience feelings of anxiety at some time in their life. Anxiety 
   allowfullscreen>
 </iframe>
 </div>
+
+Everyone can experience feelings of anxiety at some time in their life. Anxiety is a natural response to situations that we find stressful or threatening. For example, this might be about your health, moving house or work-related problems. It may subside once the situation changes, or the person becomes used to the situation. But sometimes feelings of anxiety can last for long periods of time and without a clear cause. This can be troubling for the person and can affect their day-to- day life.
 
 ---
 
