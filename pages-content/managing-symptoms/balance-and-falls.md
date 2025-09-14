@@ -1,4 +1,5 @@
 # Balance & Falls
+
 Falls can be a significant source of concern and stress for some people with Parkinson’s. There are many things that can be done to help prevent them from happening. Falling over is more common in Parkinson’s for a number of reasons, but they can also be reasons not related to Parkinson’s.
 
 <div class="video-container">
@@ -14,7 +15,9 @@ Falls can be a significant source of concern and stress for some people with Par
 ---
 
 ## What might be causing it?
+
 Whether you have Parkinson’s or not, the risk of falls goes up with age. Factors that can make it more likely are:
+
 - Problems with joints, such as arthritis
 - Problems with muscles, this could be from general weakness to a specific muscle disorder.
 - Having had previous falls
@@ -25,6 +28,7 @@ Whether you have Parkinson’s or not, the risk of falls goes up with age. Facto
 - Problems with your vision
 
 **Symptoms of Parkinson’s that can contribute to falls include:**
+
 - Movements being stiffer, slower or smaller. For example, taking smaller steps can cause a person to trip. ‘Freezing’ when walking can also be a problem, especially when turning.
 - A bent posture can affect balance.
 - Involuntary movements (‘dyskinesia’) can change your centre of gravity and affect balance.
@@ -41,6 +45,7 @@ Some medicines make the above symptoms worse, and this can increase your chance 
 Other health conditions can increase your risk of falls, such as arthritis or old injuries. Falls can also come about because of a new illness, such as a urine infection.
 
 **External factors also contribute to balance and falls:**
+
 - Footwear
 - Lighting
 - The surface – e.g. uneven pavement, narrow steps, loose rugs
@@ -49,6 +54,7 @@ Other health conditions can increase your risk of falls, such as arthritis or ol
 ---
 
 ## What should I do about it?
+
 There are lots of things you can try yourself to improve your balance and reduce your risk of falling over.
 
 These symptoms can call for a professional assessment. This is both for the cause(s) and the consequences. It might also include an assessment of your home to look at the environment and safety measures.
@@ -68,6 +74,7 @@ If your falls are associated with worsening movement symptoms, like stiffness or
 </div>
 
 You should seek help **urgently**, via your GP or A&E, if:
+
 1. You have had a potentially serious injury, e.g. if you are unable to get off the floor.
 2. You take blood thinning medication and have had a head injury.
 3. The fall was associated with other significant symptoms, for example:
@@ -84,17 +91,21 @@ You should seek help **urgently**, via your GP or A&E, if:
 ---
 
 ## What can I try for myself?
+
 There are many things you can do for yourself to improve balance, prevent falls and manage the risk surrounding them.
 
 ### Keep Active
+
 It is important to try to stay as active as possible, unless you have been specifically advised otherwise. Staying active helps you maintain muscle strength and balance so reduces your chance of falling over. It is also good for your Parkinson’s and general health.
 
 There are different components to the activitiy you should try to undertake:
+
 - Strength
 - Balance
 - Flexibility
 
 In Parkinson's, specific attention also needs to be given to:
+
 - Making **big** movements.
 - Carrying out more than one task at a time, known as ‘dual-tasking’.
 
@@ -115,6 +126,7 @@ For more on all of these aspects, see the <a href="/learn/living-with-parkinsons
 ---
 
 ## Tips to prevent falls
+
 - Give yourself time.
 - Reduce unnecessary distractions.
 - Where possible, it will also help to address other factors that can contribute such as pain, tiredness and stress.
@@ -123,6 +135,7 @@ For more on all of these aspects, see the <a href="/learn/living-with-parkinsons
 - Get a sight test – see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page for more information.
 
 ### Environment
+
 - Ensure adequate lighting.
 - Try to minimise obstacles, like clutter on the floor or trailing cables.
 - Place furniture in strategic locations in case you need to use it as support as you move around.
@@ -134,12 +147,14 @@ For more on all of these aspects, see the <a href="/learn/living-with-parkinsons
 - Consider the use of a Reacher to pick things up.
 
 ### Safety
+
 - Recognise your limits.
 - Have a back-up plan – how could you get help if you ran into trouble?
   - For example, you could keep your mobile phone in your pocket.
   - Personal alarms and security systems (telecare) are devices that call for help if you have a problem at home.
 
 ### Alarms and Security
+
 - There are a wide range of systems available.
 - You can buy these yourself, either online or from high street shops. Some basic systems may be available through Adult Social Care services.
 - **Basic alarms:** can be worn (e.g. on your wrist or as a pendant) or placed in the home. When you press the alarm, they can either make a loud noise to send a signal to someone.
@@ -153,16 +168,16 @@ More information about these systems is available on the [NHS website](link) and
 ---
 
 ## My Experience
+
 People affected by Parkinson’s describe their experiences.
 
 > “I store things I use daily, like medication or towels, between waist and eye-level, so I can avoid reaching or bending, which can throw me off balance”
->   
+>
 > _(Person with Parkinson’s)_
 
 > “We’ve got buzzers. We’ve got pendants really. It connects to a mainline where they talk to you through the phone. They just say, ‘what’s wrong’? They know your name and everything and then they’ll send a medic or whatever’s needed. It is good. We pay for it, but it’s worth it. It’s not much.”
-> 
+>
 > _(Person with Parkinson’s)_
-
 
 <div class="video-container">
 <iframe
@@ -174,12 +189,12 @@ People affected by Parkinson’s describe their experiences.
 </iframe>
 </div>
 
-
-
 ---
 
 ## Further assessment
+
 What we need to get to the bottom of is:
+
 1. What is causing the falls?
 2. What is the consequence of the falls?
 3. What might be done to reduce the frequency of and impact of falls?
@@ -187,9 +202,11 @@ What we need to get to the bottom of is:
 This is often not a quick process, and you may be referred on to another service for a further assessment.
 
 ### Questions
+
 Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
+
 - Description of before, during and after the fall(s). Did you lose consciousness (‘black out’)? How did you feel just before the fall? How did you feel after the fall?
 - Did someone else see the fall? If so, how did you look before, during or after the fall?
 - Any injuries from the fall(s)?
@@ -200,25 +217,30 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - If possible, it can be helpful for them to speak to someone else who saw the fall.
 
 _**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+
 - This can help you to recall the details and help your health professional look for patterns.
 - For balance problems and falls the nature of the diary will depend on what you are experiencing.
 - If it does not happen often, it would be best to note just when it occurs rather than tracking symptoms all the time. It is helpful to note what actually happened (e.g. “_I was getting up from bed to go to the toilet in the night. It was dark and I tripped over the rug in my bedroom_”), any other symptoms you experienced (e.g. _dizziness_), and anything you notice about the circumstances (e.g. “_I had not slept well last night_”).
 - If falls are occurring very often (daily or multiple times a day) then a 3-5 day period of monitoring may be helpful. This could include symptoms as well as when you take your medication and what your food and drink intake has been. It is helpful to record what you were doing at the time of each fall (e.g. “_I got up from my chair to answer the door_”).
 
 ### Tests
+
 Once a health professional has done an assessment, they may need further tests. This could be to determine the cause of the fall or to evaluate an injury.
 
 ---
 
 ## Further treatments
+
 Once you have spoken to a healthcare professional, they can help reassure you. They can also look into further treatment.
 
 ### Treatment for an underlying cause
+
 - This will vary according to the cause, for example:
   - If they think it is due to low blood pressure, then they may adjust your medication to treat the low blood pressure.
   - If they think you have an infection, they may give you antibiotics.
 
 ### Falls services
+
 - You may be referred to a falls service.
 - A falls service will be run by professionals with different skills working as a team.
 - The teams are designed to:
@@ -230,6 +252,7 @@ Once you have spoken to a healthcare professional, they can help reassure you. T
 - They can also recommend equipment or alarm systems if this is needed.
 
 ### Physiotherapy & Occupational Therapy
+
 - You may be referred to a physiotherapist or occupational therapist. This will likely be if you are not being seen in a falls service. In some areas there are specialist teams for people with conditions like Parkinson’s.
 - See the <a href="/learn/treatments-and-therapies/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page for more information about the different professional roles.
 - They assess your walking and how you transfer between positions (like getting up from a chair).
@@ -246,15 +269,18 @@ They may make recommendations to the Adult Social Care services if this is neede
 Please see the _Practical Advice_ pages found within the <a href="/learn/living-with-parkinsons" class="internal-link">_Living with Parkinson's_</a> section for guidance on daily activities.
 
 ### Adult Social Care Services
+
 - They can assess for extra support, requirements for your home and alarm systems if needed.
 
 ### Medication
+
 - Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication if they have the expertise.
 - **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 - If you are found to have fragile bones (osteoporosis) so at higher risk of breaking bones you may be given medication to treat this.
 - A decision made about medication is based on weighing up the risks and the gains for the individual.
 
 **Medications linked with a higher risk of falls include:**
+
 - Parkinson’s medication
 - Sedating medication – e.g. diazepam, zopiclone
 - Some pain medication – e.g. morphine, oxycodone, gabapentin, amitriptyline
@@ -278,16 +304,19 @@ Please see the _Practical Advice_ pages found within the <a href="/learn/living-
 - Medication used in dementia (e.g. donepezil, rivastigmine).
 
 ### Alexander Technique
+
 - The Alexander Technique is a technique to improve posture and movement that can be taught. It focuses on balance and posture.
 - It can be considered for people with Parkinson’s who have issues with movements or balance.
 - In some areas this is an NHS service but in some areas, it is only available privately.
 
 ### Other specialist services
+
 For specific causes of falls you may be referred to a specialist service. For example if your doctor thinks your falls may be a heart problem, you may be referred to a cardiologist.
 
 ---
 
 ## Key messages
+
 - Issues with balance and falls are seen in Parkinson’s. They may have other causes, so this does warrant a full assessment the first time or if there is a change.
 - Assessment may be through your GP, physiotherapist, a local falls service or a specialist.
 - Physiotherapists have expertise in helping with walking and balance. They can give advice on ways to reduce the risk of falls.

@@ -1,33 +1,36 @@
 # Symptom Management
-Everyone’s experience of Parkinson’s is different. So just because some people have certain symptoms, it does not mean you will. 
- 
-In general, people have more symptoms over time. But, there is no rule about which symptoms happen together or when they might occur. For some people, the uncertainty about how things will look and feel in the future is one of the more difficult aspects of the Parkinson’s diagnosis. Symptoms tend to progress over time, but progression does not mean tomorrow. 
- 
-While the symptoms discussed here can all be associated with Parkinson’s, they can also be for other reasons. A new symptom is not always the result of Parkinson’s. It can be tricky for people with Parkinson’s, as well as for healthcare professionals, to know which symptoms are due to Parkinson’s and which are not. 
- 
-A couple of general patterns that are not rules: 
+
+Everyone’s experience of Parkinson’s is different. So just because some people have certain symptoms, it does not mean you will.
+
+In general, people have more symptoms over time. But, there is no rule about which symptoms happen together or when they might occur. For some people, the uncertainty about how things will look and feel in the future is one of the more difficult aspects of the Parkinson’s diagnosis. Symptoms tend to progress over time, but progression does not mean tomorrow.
+
+While the symptoms discussed here can all be associated with Parkinson’s, they can also be for other reasons. A new symptom is not always the result of Parkinson’s. It can be tricky for people with Parkinson’s, as well as for healthcare professionals, to know which symptoms are due to Parkinson’s and which are not.
+
+A couple of general patterns that are not rules:
+
 - Parkinson’s symptoms tend to develop slowly. If a new symptom has come on very suddenly (e.g. over minutes or hours), it is not likely to be a new Parkinson’s symptom, unless it is in response to a medication. But, people do find that over time their symptoms can become more abrupt. For example, a person’s movements might suddenly ‘stop’. If a new symptom occurs suddenly, an assessment by a healthcare professional can help to find the underlying cause.
-- Symptoms can change in relation to Parkinson’s medication. This is most clear for movement symptoms, but also applies to symptoms like pain and fatigue. There are many possible causes for pain and fatigue, but if these get worse towards the end of a dosing interval and get better after taking medications, then they are more likely to be due to Parkinson’s. 
- 
-You can use _**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_ to track your symptoms over time, as well as track them in relation to medication or meals. This can help to identify whether symptoms are due to Parkinson’s or not. 
- 
+- Symptoms can change in relation to Parkinson’s medication. This is most clear for movement symptoms, but also applies to symptoms like pain and fatigue. There are many possible causes for pain and fatigue, but if these get worse towards the end of a dosing interval and get better after taking medications, then they are more likely to be due to Parkinson’s.
+
+You can use _**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_ to track your symptoms over time, as well as track them in relation to medication or meals. This can help to identify whether symptoms are due to Parkinson’s or not.
+
 The following pages give guidance for things you can try to help your symptoms, but they are not a replacement for healthcare professionals. If you have a new or severe symptom, you should still seek professional advice.
 
 _Live Well with Parkinson's_ Managing Symptoms:
+
 - **Bladder & Bowels**
-  - <a href="/learn/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a> 
-  - <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symtoms_</a> 
+  - <a href="/learn/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a>
+  - <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symtoms_</a>
 - **Mood**
   - <a href="/learn/managing-symptoms/low mood" class="internal-link">_Low Mood_</a>
   - <a href="/learn/managing-symptoms/anxiety" class="internal-link">_Anxiety_</a>
-  - <a href="/learn/managing-symptoms/loss-of-interest-or-drive" class="internal-link">_Loss of Interest or Drive (Apathy)_</a> 
+  - <a href="/learn/managing-symptoms/loss-of-interest-or-drive" class="internal-link">_Loss of Interest or Drive (Apathy)_</a>
 - **Movement, Walking & Balance**
   - <a href="/learn/managing-symptoms/stiffness-slowness-and-small-movements" class="internal-link">_Stiffness, Slowness & Small Movements_</a>
   - <a href="/learn/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements (Dyskinesia)_</a>
   - <a href="/learn/managing-symptoms/tremor" class="internal-link">_Tremor_</a>
   - <a href="/learn/managing-symptoms/freezing" class="internal-link">_Freezing_</a>
   - <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a>
-  <a href="/learn/managing-symptoms/dizziness" class="internal-link">Dizziness</a>
+    <a href="/learn/managing-symptoms/dizziness" class="internal-link">Dizziness</a>
 - **Pain & Uncomfotable Sensations**
   - <a href="/learn/managing-symptoms/pain" class="internal-link">_Pain_</a>
   - <a href="/learn/managing-symptoms/restless-legs" class="internal-link">_Restless Legs_</a>
@@ -58,4 +61,3 @@ _Live Well with Parkinson's_ Managing Symptoms:
   - <a href="/learn/managing-symptoms/variability-of-symptoms" class="internal-link">_Variability of Symptoms_</a>
 - **5 Senses**
   - <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a>
-

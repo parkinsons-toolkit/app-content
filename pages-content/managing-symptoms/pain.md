@@ -1,4 +1,5 @@
 # Pain
+
 Pain may or may not be a problem for you. Pain can be related to Parkinson’s or may be from another cause – sometimes it can be difficult to figure out the difference. Many people report having had pain before their diagnosis of Parkinson’s and it can mask other symptoms. Pain and Parkinson’s is still an area that is being researched.
 
 There are many approaches to treating pain. So, finding out the cause of your pain and addressing it holistically is important to make sure the pain is managed effectively.
@@ -18,12 +19,14 @@ Our bodies are a mixture of complex pathways and mechanisms, and lots of factors
 ---
 
 ## What might be causing it?
+
 Pain that is related to Parkinson’s can be caused by a variety of factors:
+
 - Muscle pain (most common) - muscles feel ‘achy’ and the pain stays in one area.
 - Pain from stiffness – can be in a particular muscle or more general.
-- Muscle cramps and contractions - commonly happen in legs (e.g. the calves). This can happen at any time but tends to occur overnight. Medication wearing off can also cause this. See our <a href="/learn/managing-symptoms/cramps-and-spasms" class="internal-link">_Cramps & Spasms_</a>  page for more information.
+- Muscle cramps and contractions - commonly happen in legs (e.g. the calves). This can happen at any time but tends to occur overnight. Medication wearing off can also cause this. See our <a href="/learn/managing-symptoms/cramps-and-spasms" class="internal-link">_Cramps & Spasms_</a> page for more information.
 - “Central pain” - pain felt in the body, but no cause can be identified and is therefore thought to originate in the brain. As the pain is unexplained, it can be difficult to treat.
-- Nerve pain – typically shooting, burning or tingling pain. This can be caused by peripheral neuropathy (see the <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a>  page) but has many causes.
+- Nerve pain – typically shooting, burning or tingling pain. This can be caused by peripheral neuropathy (see the <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page) but has many causes.
 - Pain related to another symptom (e.g. tummy pain from constipation or pain from tremor).
 - Tight tendons (or ‘stiffness’) caused by postural changes.
 - ‘Frozen shoulder’ can affect people with Parkinson’s and can be painful. For more detail, see the <a href="/learn/managing-symptoms/stiffness-slowness-and-small-movements" class="internal-link">_Stiffness, Slowness & Small Movements_</a> page.
@@ -47,6 +50,7 @@ Certain pain related to Parkinson’s tends to be less bothersome when the Parki
 </div>
 
 ### Muscle pain
+
 - **Simple painkillers.** You can buy paracetamol and ibuprofen from your local chemist, pharmacy or supermarket. Check the packet or with the pharmacist that there are no other medical reasons that you shouldn’t take them. Do not take more than the recommended amount. Ibuprofen is best taken with food. Always check that no other medication you are taking also contain paracetamol or ibuprofen, so as not to take yourself over the recommended daily dose.
 - **Keeping active** is good for preventing pain.
 - **Gentle stretching** may help prevent pain. The stretches themselves should not be painful.
@@ -54,6 +58,7 @@ Certain pain related to Parkinson’s tends to be less bothersome when the Parki
 _Tip: **Hydration**. Some people with Parkinson’s tell us that drinking regularly is helpful._
 
 ### Nerve Pain
+
 - Simple painkillers may help (as above).
 - Regular, gentle exercise can be helpful.
 - Some people find massage and/or a warm heating pad helpful.
@@ -65,7 +70,9 @@ When initially beginning any form of exercise, muscles can feel sore or stiff. I
 ---
 
 ## What should I do about it?
+
 There are many things you can try for yourself but there are some circumstances where you should seek professional help. These include:
+
 - If you have particular symptoms such as sudden change/loss in bladder/bowel function or numbness/weakness in any function. If you experience this, you should contact a healthcare professional straight away.
 - Any new severe pain – this should be assessed by a professional.
 - If you have tried the things below and are still having pain, or the pain is interfering with your daily activities. If this is the case, you should see your GP.
@@ -83,10 +90,11 @@ There are many things you can try for yourself but there are some circumstances 
 ---
 
 ## My Experience
+
 People affected by Parkinson’s describe their experiences.
 
 > _“She just saw the doctor and said, “I’ve got this problem with the pains in my shoulders and down my right side.” And he said, “I’ll make an appointment for you to see the physios.” And this is what’s come about [..] they give her this exercise sheet which she does before she settles down at night.”_
-> 
+>
 > _(Carer for someone with Parkinson’s)_
 
 ---
@@ -94,9 +102,11 @@ People affected by Parkinson’s describe their experiences.
 ## Further Assessment
 
 ### Questions
+
 Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
+
 - Where are you having the pain: a specific body part, or a general area? Does it spread to other areas?
 - When you are having the pain: time of day it usually happens, and timing in relation to medications?
 - Describe the pain: burning, throbbing, aching, pins and needles, etc.
@@ -107,6 +117,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Rate the pain on a scale of 0-10, with 0 being no pain and 10 being the worst. You can record if it changes throughout the day with different activities.
 
 _**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+
 - This can help you to recall the details and help the professional identify patterns.
 - You could monitor when the pain is most bothersome, recording:
   - What it is you feel
@@ -116,24 +127,29 @@ _**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">
 - How long to track for depends on how often the pain is affecting you. If you get pain every day, 3–5 days should be enough to see a pattern.
 
 ### Tests
+
 Depending on their assessment, a healthcare professional may run further tests (e.g. X-rays or scans) if the pain is not thought to be related to Parkinson’s.
 
 ---
 
 ## Further Treatments
+
 Once you have spoken to a healthcare professional, they can help reassure you. They can also look into further treatment.
 
 ### Medication
+
 - Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication if within their expertise.
 - **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 
 **Medications used for pain in Parkinson’s include:**
-  - Pain killers – e.g. paracetamol, ibuprofen, and naproxen. Opiate medication such as codeine may be used (cautiously).
-  - Parkinson’s medication – e.g. Dopamine agonists, and Levodopa
-  - Medication that targets nerve pain – e.g. amitriptyline, gabapentin, pregabalin (all cautiously)
-  - Some joint problems respond to injections into the joint (usually a steroid medication combined with a local anaesthetic).
+
+- Pain killers – e.g. paracetamol, ibuprofen, and naproxen. Opiate medication such as codeine may be used (cautiously).
+- Parkinson’s medication – e.g. Dopamine agonists, and Levodopa
+- Medication that targets nerve pain – e.g. amitriptyline, gabapentin, pregabalin (all cautiously)
+- Some joint problems respond to injections into the joint (usually a steroid medication combined with a local anaesthetic).
 
 ### Referral
+
 - You may be referred on to another service. There is usually a waiting time before that next service will see you.
 - Services you may be referred to include:
   - **Physiotherapy or Occupational therapy**: If pain limits your walking or interferes with daily tasks, you may be referred to these therapy services.
@@ -142,6 +158,7 @@ Once you have spoken to a healthcare professional, they can help reassure you. T
 ---
 
 ## Key Messages
+
 - Pain can be a common issue for people with Parkinson’s, and it may be difficult to tell if pain is due to Parkinson’s or other causes.
 - Regular exercise, massage, stretching, simple painkillers, and Parkinson’s medications (or adjustments to Parkinson’s medications) can be helpful for various causes of pain.
 - Tracking the symptoms can help your healthcare professional determine the cause.

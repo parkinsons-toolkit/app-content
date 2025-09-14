@@ -1,4 +1,5 @@
 # Weight and Appetite Loss
+
 People with Parkinson’s can experience weight loss. Though some people may initially welcome this, excessive weight loss can be bad for both health and wellbeing. Weight loss can be linked to conditions that are not Parkinson’s, and some can be serious. So, it is important that you see your GP if you continue to lose weight.
 
 <div class="video-container">
@@ -14,7 +15,9 @@ People with Parkinson’s can experience weight loss. Though some people may ini
 ---
 
 ## What might be causing it?
+
 Causes of weight loss related to Parkinson’s include:
+
 - Practical issues in making food.
 - Swallowing problems.
 - Increased movements.
@@ -26,7 +29,9 @@ There are many other conditions that might cause weight loss. This can include l
 ---
 
 ## What should I do about it?
+
 You should contact your GP if you:
+
 - Have **persistent**, **unintentional** weight loss of more than 5% of your body weight (this depends on your weight, but is around 3kg or 7lb) over 6–12 months or less.
 - Are struggling to put on weight despite the suggestions below.
 - Are worried about your weight loss.
@@ -60,7 +65,7 @@ If the above do not apply to you, or whilst waiting for your appointment, there 
   - Meals-on-Wheels
   - Ready meal delivery services (such as Wiltshire Farm Foods or Oakhouse Foods)
   - Lunch clubs
-  - Day centres  
+  - Day centres
 
 Consider what would be convenient for you.
 
@@ -71,9 +76,11 @@ There are also tips that may be relevant on the <a href="/learn/managing-symptom
 ## Further assessment
 
 ### Questions
+
 Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They might ask about:**
+
 - Appetite
 - Change in bowel habit
 - Loose stools
@@ -88,11 +95,13 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Lifestyle and diet
 
 _**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+
 - This can help you to recall the details and help your health professional look for patterns.
 - Showing your healthcare workers a record of your daily intake of food and drink for 3 days can help them decide what to suggest next. If you see a dietician, they may ask for a more detailed record.
-- Monitor your weight monthly — it is helpful to have measurements to know how much weight is lost. You can record this in your  <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section.
+- Monitor your weight monthly — it is helpful to have measurements to know how much weight is lost. You can record this in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section.
 
 ### Tests
+
 If the cause for weight loss is not clear, they may run further tests such as blood tests or scans.
 
 ---
@@ -100,15 +109,18 @@ If the cause for weight loss is not clear, they may run further tests such as bl
 ## Further Treatments
 
 ### Referral
+
 Your GP may refer you to another service, depending on your issue:
-  - A dietician
-  - A speech and language therapist, if swallowing is a problem
-  - Occupational therapist or physio, depending on your issue
-  - You may be referred to other medical specialists. This depends on the suspected cause of the weight loss.
+
+- A dietician
+- A speech and language therapist, if swallowing is a problem
+- Occupational therapist or physio, depending on your issue
+- You may be referred to other medical specialists. This depends on the suspected cause of the weight loss.
 
 ---
 
 ## Key Messages
+
 - There are many causes of weight loss, both related and not related to Parkinson’s.
 - Weight loss is seen in Parkinson’s, but it is important that people do not lose a lot of weight. This can have a negative impact on wellbeing and health.
 - You can have a lower appetite as you get older, but weight loss is not a normal part of ageing.

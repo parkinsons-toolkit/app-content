@@ -1,5 +1,7 @@
 # Keeping Active
+
 Research studies have shown broad benefits of exercise in Parkinson’s. Activity is good for many aspects of life:
+
 - Mobility
 - Reducing falls
 - Mood
@@ -26,6 +28,7 @@ Think of your activity and exercises to be like your medication. It is an essent
 ---
 
 ## What is “Keeping Active”?
+
 In general, the more active you are, the better. It is important not to go beyond your limits. However, you <ins>should</ins> feel like you are pushing yourself.
 
 Different people will reach this with different activities. This will change over time.
@@ -38,7 +41,8 @@ Everyone with Parkinson’s should be considered for referral to physiotherapy. 
 ---
 
 ## What should I do?
-Think through what you do now. You can record this on the _My Wellbeing_ page. Then use this page to think about whether it is enough and whether it is the right type of activity. If there is something missing or you want to make a change, the <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a>  page will guide you through.
+
+Think through what you do now. You can record this on the _My Wellbeing_ page. Then use this page to think about whether it is enough and whether it is the right type of activity. If there is something missing or you want to make a change, the <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a> page will guide you through.
 
 <div class="video-container">
 <iframe 
@@ -56,7 +60,7 @@ Think through these 5 components and how they can be built into your routine:
 Try to avoid being sedentary whenever possible. Take breaks from sitting, to move around.
 
 **2. Undertake Activities**
-This is about trying to undertake more intense activity where possible. It is to get your body working harder. Choosing something you enjoy or can fit into your life’s routine gives you the best chance of continuing it. 
+This is about trying to undertake more intense activity where possible. It is to get your body working harder. Choosing something you enjoy or can fit into your life’s routine gives you the best chance of continuing it.
 
 **3. Increase Flexibility**
 This means stretching and doing rotational movements, ideally undertaken daily, for 10–15 minutes. You should work through the different parts of the body. Stretching should feel like a gentle pull on the muscle, not be painful.
@@ -65,24 +69,23 @@ This means stretching and doing rotational movements, ideally undertaken daily, 
 Muscle strengthening requires bearing weight through muscles, ideally undertaken twice a week or more. It should ideally involve all body parts including: legs, hips, chest, tummy, shoulders and arms.
 
 To gain strength, you should push to the point that it would be difficult to repeat the action without help but not push to the point of pain or injury. This will be different for each individual.
-   
+
 Many people with Parkinson’s experience more movement symptoms on one side of the body than the other. When strengthening muscles, try to keep both sides of your body working evenly.
 
 **5. Work on Balance & Coordination**
-   
-These are activities that challenge your balance and practice coordination, ideally undertaken twice a week or more. If you have difficulties with your balance, you should see a physiotherapist for advice on safe activities to engage in. Also see the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page.
 
+These are activities that challenge your balance and practice coordination, ideally undertaken twice a week or more. If you have difficulties with your balance, you should see a physiotherapist for advice on safe activities to engage in. Also see the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page.
 
 For all of these types of activity, make sure you warm up before undertaking more intense activity to avoid injuries and reduce stiffness. Be mindful of your body to avoid injury. If you are unsure whether an activity is safe, always check with a professional first.
 
 To see what this might look like in real life, pick the person you most relate to. You can find targeted advice about keeping active for each person on the separate pages.
-
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/main/images/linked-image-name.png" alt="exercise" class="example-class">
 
 ---
 
 ## Things to Consider in Parkinson’s
+
 In your daily life as well as when doing specific activities, there are a few factors to bear in mind to help your Parkinson’s.
 
 <div class="video-container">
@@ -96,6 +99,7 @@ In your daily life as well as when doing specific activities, there are a few fa
 </div>
 
 ### Size of Movements
+
 - Movements may get smaller with Parkinson’s.
 - Giving attention to this can overcome it.
 - Exaggerate the size of the movements you are making.
@@ -103,12 +107,15 @@ In your daily life as well as when doing specific activities, there are a few fa
 - It can help to look in a mirror as you do some movements to see how big they are.
 
 ### “Dual-tasking”
+
 - This is about practicing ’mental exercise’ at the same time as physical activity.
 - For example, go through the alphabet naming countries beginning with each letter, while throwing a ball from one hand to the other.
 - **Caution**: There is a risk for example of losing balance while you concentrate on something else. It is important to stay within your limits. Perhaps start seated.
 
 ### Don’t forget your hands
+
 Although it does not require intense effort, it is important to remember your hands. There are several things to practice to maintain and improve dexterity:
+
 - Control of force, i.e. grip of small objects.
 - Moving the fingers one by one.
 - Coordinating finger movements, i.e. which fingers move together or separately, and the timing of movements.
@@ -116,6 +123,7 @@ Although it does not require intense effort, it is important to remember your ha
 This could be built into your routine through day-to-day tasks, for example writing, drawing, or manipulating small objects, like handling coins, or screwing nuts onto bolts. Alternatively, you could get creative, modelling with clay or play-dough.
 
 ### Posture
+
 - Try to maintain an awareness of your posture.
 - Try to stand/sit up tall and straight.
 - Be aware of aspects of daily life where it is easy to slip into a poor posture—sitting on the sofa watching TV, sat at a desk, sitting in a car.
@@ -123,6 +131,7 @@ This could be built into your routine through day-to-day tasks, for example writ
 - Some people find using poles helps their posture. Parkinson’s UK has videos about using Nordic walking poles in various types of activities. You can find a link to these videos in our _More Information_ section.
 
 ### A Note about Music
+
 - There has been some research showing benefits of music for people with Parkinson’s.
 - It seems that rhythm or beat of music helps people with Parkinson’s make some movements and so undertake activity. Some people find it more fun too.
 - Consider exercising to music or taking part in dance as part of your exercise.
@@ -130,9 +139,11 @@ This could be built into your routine through day-to-day tasks, for example writ
 ---
 
 ## Putting it all Together
+
 We know this may be overwhelming. There is a lot to consider, but there is also lots of overlap.
 
 **The key message:**
+
 - Try to be thinking about being more active, less sedentary, and stretching out **daily**.
 - A couple of times a week include strengthening and balance in your activities.
 
@@ -141,9 +152,11 @@ This doesn’t happen overnight. You will have built up to this little-by-little
 ---
 
 ## How to do this?
+
 You may find this focus on _Keeping Active_ is new and requires a change to your daily life. Changing life habits and routines is not often easy. Talk to your Live Well with Parkinson’s supporter if this is something that is important to you. You can also use the <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a> pages to work through things that are important to you.
 
 ### Motivation
+
 Think about what motivates you, and how you can embrace that in keeping active.
 
 - **Socialising with others?** – Perhaps a group activity would be best, if this is possible.
@@ -155,8 +168,9 @@ Think about what motivates you, and how you can embrace that in keeping active.
   - Set a target or goal to work toward. Like setting a New Year’s resolution, be specific and realistic. If it’s too hard then it won’t be motivating (and can be the opposite). The best targets have a timeframe to keep you focused and are achievable. You can use the <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a> page to set a target if you think this might help you.
 
 ### Routine
+
 - If you want to do something on a regular basis, you want to make it automatic, like a habit. This takes persistence and repetition over time.
-- For most people it takes about three months to become a habit. 
+- For most people it takes about three months to become a habit.
 - You could try associating the activity with something that is already part of your routine, e.g.:
   - Brushing your teeth
   - Going to the supermarket
@@ -168,14 +182,17 @@ This gives an anchor: each time that part of your routine happens, you also unde
 - You could plan when you are going to undertake the activity and set a prompt. You could add the activity to your <a href="/learn/my-tracker" class="internal-link">_My Tracker_</a> and tick it off when done. Within this site, or through other devices, you could set a reminder.
 
 ### Opportunities
+
 Options vary based on where you live. Someone with local knowledge of activities will be best informed to advise you. People you may want to ask:
 
 **For general activity:**
+
 - Your local gym or sports centre
 - Your local council
 - Your community therapy teams (physiotherapy and occupational therapy)
 
 **For Parkinson’s specific activity:**
+
 - Your community therapy teams (physiotherapy and occupational therapy)
 - A charity – for example Parkinson’s UK
 - Your Parkinson’s specialist team
@@ -183,39 +200,43 @@ Options vary based on where you live. Someone with local knowledge of activities
 ---
 
 ## Overcoming Barriers
+
 Consider what challenges you might face when setting out to keep active. Thinking about them in advance can allow you to prepare or even solve problems before they occur.
 
 If you have tried to increase or maintain activity but it hasn’t gone as you hoped, reflect on why. See if you can really break it down to address the root of the challenge.
 
-Here we discuss some more common barriers... 
+Here we discuss some more common barriers...
 
 ### It all just seems overwhelming
-There are so many things to do and so many things to think about. It is completely normal to find that tough. So, start small and take one step and at a time. Consider what you currently do. What could you do to increase this, just a little bit? Perhaps adding a few more minutes into an activity you already do. Perhaps carrying a heavier bag out on a walk. Little by little you can increase your activity. 
- 
-When it comes to incorporating the different components to your routine, many can be met within one activity. For example, a yoga class will include strength, balance, flexibility, big movements and posture. The <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a> page can also help you with this. 
+
+There are so many things to do and so many things to think about. It is completely normal to find that tough. So, start small and take one step and at a time. Consider what you currently do. What could you do to increase this, just a little bit? Perhaps adding a few more minutes into an activity you already do. Perhaps carrying a heavier bag out on a walk. Little by little you can increase your activity.
+
+When it comes to incorporating the different components to your routine, many can be met within one activity. For example, a yoga class will include strength, balance, flexibility, big movements and posture. The <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a> page can also help you with this.
 
 ### Symptoms
-Parkinson’s has both physical and mental symptoms which can make keeping active more difficult. Optimal control of your symptoms will help you to undertake activity, see the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages for more advice for each. 
+
+Parkinson’s has both physical and mental symptoms which can make keeping active more difficult. Optimal control of your symptoms will help you to undertake activity, see the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages for more advice for each.
 
 - Movement symptoms such as <a href="/learn/managing-symptoms/stiffness-slowness-and-small-movements" class="internal-link">_Stiffness, Slowness & Small Movements_</a>, tend to respond better to medications than some of the non-movement symptoms. Talk to your specialist Parkinson’s team about any symptoms that are preventing you from keeping active.
 - If anxiety or fear are getting in the way of your activity, talk to your GP about how best to control this. For more information see the <a href="/learn/managing-symptoms/mood" class="internal-link">_Mood_</a> page.
 - Some people feel extreme tiredness that doesn’t improve with rest, known as <a href="/learn/managing-symptoms/tiredness" class="internal-link">_Fatigue_</a>. This can put them off undertaking activity, but actually being active improves fatigue. Perhaps think about which time of day is best for you. If <a href="/learn/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a> or <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> are a worry, try going to the toilet before you begin any activity. Perhaps think about where toilets are available, so you have a plan if you were to need it during the activity.
-- <a href="/learn/managing-symptoms/variability-of-symptoms" class="internal-link">_Variability of Symptoms_</a> can be a real challenge for people with Parkinson’s. There are good days and bad days, good hours and bad hours. You could try tracking your symptoms (i.e., using your Tracker in the manual) to see if there is a pattern. Then try to undertake more strenuous activities for the time when you are at your best. Having said that, for some there is no pattern; it is unpredictable. In these cases, you may have to be opportunistic: when you have a good spell, try to maximise what you do with it. 
+- <a href="/learn/managing-symptoms/variability-of-symptoms" class="internal-link">_Variability of Symptoms_</a> can be a real challenge for people with Parkinson’s. There are good days and bad days, good hours and bad hours. You could try tracking your symptoms (i.e., using your Tracker in the manual) to see if there is a pattern. Then try to undertake more strenuous activities for the time when you are at your best. Having said that, for some there is no pattern; it is unpredictable. In these cases, you may have to be opportunistic: when you have a good spell, try to maximise what you do with it.
 
-
-_Parkinson’s UK_ have a range of online video exercise classes specifically for people with Parkinson’s, about tailoring exercise to your symptoms. They include combinations of the above components. Perhaps one of these would suit you, but always check with your physiotherapist if you are unsure. You can find these linked at the bottom of this page, along with other useful resources. 
+_Parkinson’s UK_ have a range of online video exercise classes specifically for people with Parkinson’s, about tailoring exercise to your symptoms. They include combinations of the above components. Perhaps one of these would suit you, but always check with your physiotherapist if you are unsure. You can find these linked at the bottom of this page, along with other useful resources.
 
 ### Time
-Feeling there is not enough time is a common reason people give for not doing exercise or activity. To some extent, this is a question of prioritising. There will be lots of things you are trying to fit into your life. Which are most important to you when you consider the short term and long-term benefits? 
- 
-Another option is whether activity could be achieved through something you are already doing? For example, as listed above, housework and gardening can both be good exercise. Perhaps you can build strength into your walk by carrying something heavy? 
+
+Feeling there is not enough time is a common reason people give for not doing exercise or activity. To some extent, this is a question of prioritising. There will be lots of things you are trying to fit into your life. Which are most important to you when you consider the short term and long-term benefits?
+
+Another option is whether activity could be achieved through something you are already doing? For example, as listed above, housework and gardening can both be good exercise. Perhaps you can build strength into your walk by carrying something heavy?
 
 ## Practical Considerations
+
 Think about what support you might need:
 
 - A **companion** to do the activity with? This could help motivation and make the activity more enjoyable.
 - Support **getting there**? See <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for more information.
-- **Cost?** Most exercise classes and groups have a charge. Some specific classes are provided within physiotherapy services on the NHS but are short term. Many activities arranged by the charity sector are free of charge. Activity does not need to be in an organised group with equipment, so if cost is an obstacle, perhaps think about trying walking and using household items (such as a book) as a weight for building strength. For more information about support available, see <a href="/learn/living-with-parkinsons/practical-advice/finances" class="internal-link">_Finances_</a> page. 
+- **Cost?** Most exercise classes and groups have a charge. Some specific classes are provided within physiotherapy services on the NHS but are short term. Many activities arranged by the charity sector are free of charge. Activity does not need to be in an organised group with equipment, so if cost is an obstacle, perhaps think about trying walking and using household items (such as a book) as a weight for building strength. For more information about support available, see <a href="/learn/living-with-parkinsons/practical-advice/finances" class="internal-link">_Finances_</a> page.
 
 The NHS has a long-term plan to provide Link Workers across the country who would help connect you to the available services, known as “Social Prescribing”. This is at an early stage, but you could ask your GP if it is available in your area.
 
@@ -234,13 +255,14 @@ We know this may be overwhelming. There is a lot to consider, but there is also 
 ---
 
 ## My Experience
+
 People affected by Parkinson’s describe their experiences.
 
 > “...I joined the gym and I go to the gym every other day and then – on the bike and I ride the bike. When I get off the bike, I feel that my legs are all loose and I can walk better.”
 > _(Person with Parkinson’s)_
 
 > “The main thing is occupation of the mind. You mustn’t let yourself sit in the chair and drift into sitting down, you know. That’s why I encourage us to go out”
-> _(Carer of Person with Parkinson’s)_ 
+> _(Carer of Person with Parkinson’s)_
 
 <div class="video-container">
 <iframe 
@@ -251,7 +273,6 @@ People affected by Parkinson’s describe their experiences.
   allowfullscreen>
 </iframe>
 </div>
-
 
 ---
 

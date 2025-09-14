@@ -1,7 +1,9 @@
 # Lifestyle Factors
-As well as managing Parkinson’s, there are general medical recommendations to improve long-term health. The following advice is based on general NHS guidance, tailored for people with Parkinson’s. The focus is on things you can do, or support you can access, that may help to prevent problems in the future. 
+
+As well as managing Parkinson’s, there are general medical recommendations to improve long-term health. The following advice is based on general NHS guidance, tailored for people with Parkinson’s. The focus is on things you can do, or support you can access, that may help to prevent problems in the future.
 
 ## Vaccinations
+
 Vaccinations are medications designed to prevent infections. Vaccination schedules change over time according to the latest scientific research. At present (July 2020), the recommendations for adults with Parkinson’s are:
 
 - **Flu:** Annual influenza vaccination for all people with Parkinson’s (this is universally recommended for those aged 65 years and over). The annual influenza vaccination should be considered for household members and those who care for people with Parkinson’s.
@@ -25,7 +27,9 @@ These are all delivered as injections, usually into the arm. You should have vac
 ## Blood Pressure
 
 ### What is blood pressure?
+
 Your heart pushes blood around the body through a network of blood vessels, similar to the way a pump pushes fluid through pipes. Your blood pressure is recorded as two numbers:
+
 - The first or top number is known as **systolic blood pressure**. This is the pressure as the heart is pushing, i.e. the force of that push.
 - The second or bottom number is known as **diastolic blood pressure**. This is the pressure as the heart relaxes between pushes and the blood is flowing, i.e. the resistance in the pipes themselves.
 
@@ -42,36 +46,43 @@ Your heart pushes blood around the body through a network of blood vessels, simi
 Many factors affect blood pressure. It varies between people and is constantly changing in any one person. This makes it difficult to define “normal” blood pressure. Parkinson’s, as well as medication used for Parkinson’s, can both cause a lower or variable blood pressure. But getting older and many lifestyle factors can cause a higher blood pressure.
 
 ### High blood pressure
+
 - Blood pressure increases with age and certain lifestyle factors. These include smoking, alcohol, caffeine, unhealthy diet, lack of exercise, and increased weight. It is also elevated by stress and pain.
 - Generally, a blood pressure above 140/90mmHg is high for those under 80 years old and above 150/90mmHg for those over 80 years old.
 - High blood pressure usually does not cause any symptoms. But, if left untreated it can cause serious health conditions, such as heart attacks and strokes.
 - A healthy lifestyle will reduce the chance of getting high blood pressure and can lower your blood pressure if it’s high. Many people will need medication to treat high blood pressure. See the <a href="https://www.nhs.uk/conditions/high-blood-pressure-hypertension/" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> for more information.
 
 ### Low blood pressure
+
 - Blood pressure may be low because of: a long-term health condition (e.g. Parkinson’s); medication (including many used to treat Parkinson’s); or an illness (e.g. an infection).
 - Generally, a blood pressure below 90/60mmHg is considered low. But, a _problematic_ low blood pressure is when it causes symptoms.
 
 **Symptoms of low blood pressure include**:
+
 - Feeling lightheaded, faint or dizzy – this may cause you to faint
 - Feeling sick
 - Blurred vision
--  Feeling generally weak
--  Feeling muddled
+- Feeling generally weak
+- Feeling muddled
 
 Low blood pressure does not always require treatment but may do if you are experiencing symptoms. See the <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page for more information. Treatment of any other cause, like infection, is also important.
 
 ### Parkinson’s and blood pressure
+
 Parkinson’s is often linked to low blood pressure or varying blood pressure. Many people experience a drop in blood pressure when they change to a more upright position (i.e. going from sitting to standing). This is known as postural or orthostatic hypotension. For more information on this, see our <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page.
 
 ### When should I get my blood pressure checked?
+
 It is recommended that everyone over the age of 40 years has their blood pressure tested at least every 5 years. It should be checked more frequently if you are at risk of blood pressure problems. Since Parkinson’s and the medication used to treat it both impact on blood pressure, you should have it checked more often. There is no official rule for how frequently you should have your blood pressure checked. This decision will vary according to each person’s circumstance and will be guided by a healthcare professional. It will normally be at least once a year.
 
 ### How can I get my blood pressure checked?
+
 You can have your blood pressure tested at your GP surgery, hospital appointments, and some pharmacies. Or, you can buy your own blood pressure monitor for use at home. The <a href="https://bihsoc.org/#%3A~%3Atext%3DThe%20British%20and%20Irish%20Hypertension%20Society%26text%3DThe%20Society%20comprises%20doctors%2C%20nurses%2Cthe%20forefront%20of%20cardiovascular%20research" class="external-link" target="_blank" rel="noopener noreferrer">British and Irish Hypertension Society</a> and <a href="[https://www.parkinsons.org.uk](http://www.bloodpressureuk.org/Home)" class="external-link" target="_blank" rel="noopener noreferrer">Blood Pressure UK</a> both have advice on validated monitors.
 
 ---
 
 ## Bone Health
+
 - Broken bones, or fractures, are more likely to happen if you have fragile bones and if you fall over.
 - It is recommended that everyone with Parkinson’s take vitamin D supplements to help maintain bone strength.
   - You can buy these from the chemist. If you do not need to take calcium tablets as well, you can buy these as Vitamin D3. We would normally recommend taking a daily dose of 20 or 25 micrograms (μg) which is equivalent to 800 or 1000 units a day (unless your doctor has recommended a different dose). If you are not sure on what dose to take, or if you should take calcium as well, discuss this with your GP.
@@ -107,34 +118,41 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
 </div>
 
 ### Smoking
+
 - Smoking has negative impacts on many aspects of health. It can contribute to symptoms such as fatigue, loss of taste and smell, sexual problems, and low mood and anxiety.
 - Research has shown there are lower rates of smoking in people with Parkinson’s compared with people without Parkinson’s. Why this is the case is not fully understood. But research so far concludes that risks of smoking outweigh the benefits. There is no evidence that smoking will stop or slow Parkinson’s.
 - There are services available to help you stop smoking. See the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> for more details.
 
 ### Alcohol
+
 - This is covered in more detail on our <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page.
 - Guidelines recommend you drink no more than 14 units of alcohol a week (2 units = a pint of beer or a medium glass of wine)
 - If you think you drink too much alcohol, there is lots of support available. See the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> for more information.
 
 ### Cannabis
+
 There is growing interest in the use of cannabis-based products for the treatment of health conditions.
 
 Here are some key points to know about cannabis:
+
 - Cannabis and cannabis-based medications can be prescribed for certain conditions, such as multiple sclerosis, but only under very specific circumstances and with very strict criteria to decide if a patient is suitable.
 - Currently, there is not enough evidence to support the use of cannabis-based products for Parkinson’s disease. However, several research studies are currently taking place to understand if cannabis could be beneficial for people with Parkinson’s and, if so, how.
 - In the UK, Cannabis is classified as a Class-B controlled substance. Having, making, or selling cannabis is illegal; this is due to its potential serious risks to physical and mental health.
 - See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more information on supplements.
 
 **Helpful Resources about Cannabis & Parkinson's:**
+
 - <a href="https://www.parkinsons.org.uk/information-and-support/your-magazine/spotlight/cbd-and-parkinsons#:~:text=Cannabis%2Dbased%20medications%20aren't,the%20eyes%20of%20the%20law" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson’s UK on ‘CBD and Parkinson’s</a>
 - <a href="https://www.parkinsonseurope.org/living-well/therapies/complementary-therapies/cannabis/" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson’s Europe on ‘Complementary Therapies – Cannabis’</a>
 
 ---
 
 ## Vision & Hearing
+
 Addressing sight or hearing deterioration may mean having treatment or aids to improve those senses. Vision and hearing are important for interacting with others and carrying out daily activities.
 
 ### Vision
+
 - It is recommended that everyone has regular sight tests. This is normally every two years but may be more in certain circumstances.
 - At present, the NHS provides free sight tests to people:
   - Aged over 60 years
@@ -158,6 +176,7 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
 </div>
 
 ### Hearing
+
 - You will need a hearing test if you, or someone close to you, notices that your hearing has got worse.
 - At present, hearing tests are provided on the NHS if you notice a problem with your hearing. You can access it by seeing your GP who can refer you to a hearing specialist, though this can take some time.
 - Some large pharmacies or opticians offer hearing tests. This might be free or you may need to pay. You will need to speak with the pharmacy or opticians for more information on this.
@@ -179,7 +198,9 @@ More information about healthcare costs is on our <a href="/learn/living-with-pa
 ---
 
 ## Foot Care
+
 Foot problems can be painful and can affect your walking and balance. Taking care of your feet will help prevent problems in the future.
+
 - Wash your feet daily, but don’t soak them.
 - Dry your feet thoroughly after washing. Too much moisture increases the risk of fungal infection.
 - If you have dry skin, moisturise them but avoid the area between the toes as this is prone to moisture.
@@ -204,7 +225,9 @@ Foot problems can be painful and can affect your walking and balance. Taking car
 ---
 
 ## Dental Care
+
 Taking care of your teeth is really important as poor dental health can lead to pain and infections. It may even lead to difficulties eating and drinking in the long run.
+
 - Brush your teeth twice a day with a fluoride toothpaste and floss daily.
 - Reduce sugar intake
 - Have regular check-ups with your dentist. Dental checks are provided by the NHS for a fee, unless you are on a low income. See the <a href="https://www.nhs.uk/nhs-services/dentists/who-can-get-free-nhs-dental-treatment/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> for more information on who qualifies for free NHS dental care. The frequency of check-up depends on the health of your teeth and gums. Your dentist can advise on this.
@@ -223,9 +246,11 @@ Taking care of your teeth is really important as poor dental health can lead to 
 ---
 
 ## Bowel Care
+
 Avoiding constipation is very important in Parkinson’s. For more information, see the <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> page.
 
 Key ways to avoid constipation:
+
 - Eat plenty of fibre
 - Drink plenty of water
 - Be active
@@ -243,6 +268,7 @@ Key ways to avoid constipation:
 ---
 
 ## Skin Care
+
 - Keep your skin clean, but avoid harsh soaps as they can wash away the natural skin oils.
 - If you have dry skin, avoid harsh alcohol-based washes as they can be irritating and drying.
 - If you have dry skin, moisturise to avoid the skin cracking. Your pharmacist can advise on which creams would be better for this.

@@ -1,4 +1,5 @@
 # Daily Living
+
 Every day activities can become more difficult than they once were. Muscle weakness, tremor and issues with movement or balance can make it harder to do a daily activity that you could do before. Examples include eating and drinking, preparing meals, getting washed and dressed, brushing your teeth, or going to the toilet.
 
 Being able to keep doing these activities is important to keep independent and active.
@@ -18,6 +19,7 @@ There are some tried and tested methods to do this. You could make changes to th
 ---
 
 ## What can I try for myself?
+
 All the tips and strategies here are things you could try for yourself. If you keep having problems, there are certain professionals who can help you: occupational therapists and physiotherapists. They will first want to have an assessment with you. They can then share more strategies and advice on equipment that may help you (discussed further below). Ask your GP or Parkinson’s team about a referral.
 
 <div class="video-container">
@@ -31,12 +33,15 @@ All the tips and strategies here are things you could try for yourself. If you k
 </div>
 
 ### Bathing & showering
+
 These can become more difficult, especially due to concerns over slipping and falling.
+
 - Do not use radiators or toilet roll holders to push/lean on or taps or towel rail to pull up from to help you get up – these can come off the wall and cause a fall.
 - If you do need something to hold on to, adaptations such as grab rails are discussed on the <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page.
 - Shower heads on a hose rather than fixed in place can help you get the water exactly where it’s needed.
 
 ### Moving around the home
+
 - Remove old items from around the home to increase space.
 - Remove loose rugs to prevent trips and falls.
 - You may find it helpful to rearrange furniture to increase the amount of space you have to move around and reduce risk of trips or falls.
@@ -44,7 +49,9 @@ These can become more difficult, especially due to concerns over slipping and fa
 - Also see our <a href="/learn/living-with-parkinsons/practical-advice/mobility" class="internal-link">_Mobility_</a> page for more advice on getting around.
 
 ### Grooming & dental care
+
 Shaving, brushing your hair, applying make-up or brushing your teeth can all become more difficult due to reduced dexterity or grip or additional movements like tremor or dyskinesia.
+
 - Sit at the sink. Sitting on a perching stool or chair can help provide some extra stability.
 - Resting your elbows on the sink edge can increase stability.
 - Consider an electric toothbrush – most have a wider handle, can be heavier and require less detailed movement. You can also try foam tubing to widen the toothbrush handle.
@@ -55,8 +62,10 @@ Shaving, brushing your hair, applying make-up or brushing your teeth can all bec
 Managing dental hygiene is important for the health of your teeth and gums. Poor dental hygiene can worsen symptoms, such as difficulties eating. See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle factors" class="internal-link">_Lifestyle Factors_</a> page for more on this.
 
 ### Dressing
+
 Dressing may become more difficult due to stiffness, reduced dexterity or difficulties balancing.  
 Reduced hand movements can affect fastenings, like buttons and zips.
+
 - Allow yourself time to get dressed.
 - Where possible sit to dress on the edge of the bed or chair.
 - Try Velcro fastenings.
@@ -70,8 +79,10 @@ Reduced hand movements can affect fastenings, like buttons and zips.
 - Try a long handled shoe horn to put shoes on.
 
 ### Using the toilet
+
 Getting up and to the toilet and then getting up from the toilet again can be tricky if your movements are stiffer, slower or less well balanced. This is extra tricky if the toilet seat is lower than knee level.  
 Reduced movements can also make it more difficult to clean yourself after using the toilet.
+
 - Try to remove obstacles from your route to the toilet from your main living area.
 - Some people find a ‘bottom wiper’, which is a long handle aid, helpful.
 - Flushable moist toilet/wet wipes can help with this (although there are concerns these are not environmentally friendly, as can block narrow drainpipes and take a long time to disintegrate).
@@ -79,7 +90,9 @@ Reduced movements can also make it more difficult to clean yourself after using 
 See our <a href="/learn/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a> and <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> pages for more tips.
 
 ### Movements in & around bed
+
 These may be tricky due to stiffness, reduced movements and balance problems.
+
 - Satin sheets can help you turn over in bed
   - You can buy them either off-the-shelf satin sheets or specially designed sheets with satin panels (e.g. a panel of satin going across the middle of the bed where hips would rest)
   - If you use satin sheets or panels, make sure there is an area of friction at either end or sides of the bed so you can get a grip on something
@@ -90,7 +103,9 @@ These may be tricky due to stiffness, reduced movements and balance problems.
 If the issue is about feeling weak or dizzy when getting out of bed, see the <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> symptom page for tips.
 
 ### Eating & drinking
+
 There are a range of steps with regards to food and drink:
+
 - Grocery shopping may be more difficult due to reduced mobility or balance.
   - Consider online deliveries
   - Consider what services are available locally
@@ -110,6 +125,7 @@ There are a range of steps with regards to food and drink:
 ---
 
 ## My Experience
+
 People affected by Parkinson’s describe their experiences.
 
 > “Maybe there’s things for people like my mum, she likes to stay independent – like sometimes she’ll say ‘Do you know what, I want to cook today’, you know like electric tin cutters and things like that to help make your life a bit easier.”  
@@ -118,6 +134,7 @@ People affected by Parkinson’s describe their experiences.
 ---
 
 ### Domestic tasks
+
 Living with Parkinson’s can make daily activities and chores more difficult as the condition progresses. If this is affecting you, there are things you can do and support you can access to help you to maintain your independence.
 
 - **Plan ahead**
@@ -134,6 +151,7 @@ Living with Parkinson’s can make daily activities and chores more difficult as
 ---
 
 ## My Experience
+
 People affected by Parkinson’s describe their experiences.
 
 > “If I’m having people around for dinner, I’ve got to make sure I’ve got a quiet day either side and I’ve got to plan ahead. So I’ll lay the table a couple of days before and I’ll try and shop and do a lot of the preparation before I actually have people round.”  
@@ -142,6 +160,7 @@ People affected by Parkinson’s describe their experiences.
 ---
 
 ## What equipment might help?
+
 Occupational therapists may suggest a rehabilitation approach. They will work with you to learn how to do things with a different approach. However, they may still suggest equipment.
 
 The world of equipment can be overwhelming, and costly. Some equipment may be paid for by the NHS or through your local Social Services, but some you will need to buy yourself.
@@ -159,6 +178,7 @@ _We strongly recommend you speak to an occupational therapist before buying equi
 </div>
 
 ### Equipment for Bathing & Showering
+
 - **Bath & shower seats** can help you get in and out of the bath with less risk of falling and to avoid others doing heavy lifting if you need help. They reduce problems with balance encountered when standing in the shower.
 - Some bath seats sit across the top of the bath, either as a seat or as a simple board, which can be removable or on a hinge – note if on a hinge, it can be more complex and can be lowered into the bath manually or electrically.
   - Seats for shower cubicles can be free standing (stool or chair) or flip-down seat mounted on the wall.
@@ -169,15 +189,17 @@ _We strongly recommend you speak to an occupational therapist before buying equi
 ---
 
 ### My Experience
+
 People affected by Parkinson’s describe their experiences.
 
 > “When I knew I was having a problem getting out of the bath, I worked it out myself that I would have to do something in the bathroom. And I spoke to Age UK to get their advice. And they suggested grab rails. Then came the problem of buying the grab rails and installing them.  
-And one of my neighbours volunteered to.”  
+> And one of my neighbours volunteered to.”  
 > _(Person with Parkinson’s)_
 
 ---
 
 ### Equipment for Toileting
+
 - **Hand-held urinals** are available for both men and women. This can be helpful if you need to urinate urgently but can’t get up quickly enough to go.
 - **Commodes** are moveable toilets without running water – like a chair with a container underneath. These can be useful if you need the toilet urgently or often, especially at night.
 - **Discreet disposable pads** can go in underwear in case of leakage.
@@ -192,6 +214,7 @@ And one of my neighbours volunteered to.”
 Also see the <a href="/learn/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a> and <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> pages for more tips.
 
 ### Bed & Mattress Equipment
+
 These make it easier to get in and out of bed or to reposition in bed. Note ‘grab rails’, fixed to the wall, are discussed within _adaptations_ on the <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page. The height of your bed affects how easy it is to push yourself off the bed or to sit down. The ideal height of the bed surface depends on how tall you are, but many people find raising the bed or mattress helps.
 
 - **Bed raisers** raise the whole bed a few inches:
@@ -200,8 +223,8 @@ These make it easier to get in and out of bed or to reposition in bed. Note ‘g
   - Make sure the bed raisers are stable and well supported
   - The legs of the bed must sit deep within the bed raisers, not rest on top of the raisers, or they might slip off
   - You must be able to touch the floor with your feet
-  
 - **Mattress Variators or Pillow Lifters** help lift you up into a seated position. They are more effective for fairly thin mattresses as thicker mattresses are difficult to bend and can scrunch up in the middle (less helpful and less comfortable). Mattress raisers come in different types:
+
   - Mechanical – can be set to a certain degree of elevation, but are more difficult to reposition
   - Electric – allow you to raise and lower the bed using a handheld control
   - Pneumatic – use air to inflate a pillow-like device under the mattress to raise and lower it. They can be set to inflate only on one side, turning you at the same time.
@@ -212,12 +235,14 @@ These make it easier to get in and out of bed or to reposition in bed. Note ‘g
     - Be aware that in the raised position, a mattress raiser can cause you to slide down and out of the bed
 
 - **Bed levers** or **bed rails** fix to the bed and have a metal handle that extends up the side of the mattress.
+
   - You shouldn't use a bed lever with an air mattress
   - They do require moderate upper body strength to use, and it is best to be trained by a professional to use them
 
 - **Caution** using a bed lever with an adjustable bed or mattress raiser – special consideration is required to ensure it is secure. It is best to get professional advice for this.
 
 ### Beds
+
 - Electric profiling or hospital beds allow you to control your position within the bed: usually allowing you to control an up & down movement of both the head end of the bed and a bend at the knees
 - They can be used to help you sit up from lying down and can help you manage symptoms of dizziness or ankle swelling
 - **Hospital beds** are usually height-adjustable and may have side rails. They may have casters or wheels, which allow the bed to be moved. These can be provided by a health professional such as your district nurse if needed
@@ -228,6 +253,7 @@ These make it easier to get in and out of bed or to reposition in bed. Note ‘g
   - Make sure the controls can be reached easily when lying down
 
 ### Hoists
+
 - These equipment lift a person between a bed and a (wheel) chair, or a bed and a commode, and back
 - There are several types available, e.g.:
   - Mobile
@@ -241,6 +267,7 @@ These make it easier to get in and out of bed or to reposition in bed. Note ‘g
 - Electric lift chairs can be helpful if you have difficulty getting out of a chair as they provide support when going from sitting to standing
 
 ### Cutlery
+
 - Several specialty designs are available:
   - All-in-one knife and fork
   - All-in-one fork and spoon
@@ -256,6 +283,7 @@ These make it easier to get in and out of bed or to reposition in bed. Note ‘g
 - These are often available in high street mobility shops or online. See our advice about buying equipment before you make a purchase.
 
 ### Equipment for Plates & Bowls
+
 - **Plate guards** clip onto the plate and provide an upright ring around it.
   - It stops food from falling off the edge of your plate, and can be used to push the food back onto your fork or spoon by pressing the utensil and food against it.
   - They come in various sizes, colours and materials. Some people prefer styles made of sturdy materials that are easier to wash.
@@ -266,11 +294,14 @@ These make it easier to get in and out of bed or to reposition in bed. Note ‘g
   - Come in a range of colours – you can buy them pre-cut as a placemat, or you can buy the material and cut to the size you need.
 
 ### Cups
+
 As well as usual off-the-shelf lidded cups, there are other specialised designs that can make drinking easier.
+
 - Nosey cups have a section cut out on one side, opposite the position of the mouth when drinking. The cut-out allows the person drinking to tilt and drain the cup more easily with limited neck movement.
 - All of these cups come in different sizes, shapes, and colours and may have handles – consider what you will use it for, so that it is fit-for-purpose (e.g. an appropriate material for hot drinks).
 
 ### Hot Water Devices
+
 - ‘Kettle tippers’ are designed to cradle your kettle. This allows you to pour boiling water out of the kettle without lifting it up.
   - They can reduce risk of spills and burns.
   - They can be used on different common teapot or kettle styles.
@@ -279,12 +310,14 @@ As well as usual off-the-shelf lidded cups, there are other specialised designs 
   - You fill them manually, with a certain amount, then they dispense a specified amount of boiling water.
   - Fairly easy to use.
   - They enable only the amount of water needed to be boiled.
-  
+
 ### Home Access
+
 - **Key turner**: A key turner is a handle that attaches to your keys and provides easier grip and leverage for turning keys.
 - **Key safe**: This is a small secure box, fitted to a wall outside the front door to hold the keys to your home. It requires a code to access: you choose whom to give the code to. This can be very useful as multiple sets of keys do not need to be provided to family members or healthcare professionals. It will also allow people to access the house in case of an emergency.
 
 ### Alarms and Security
+
 - There is a wide range of systems available to either attract attention or contact someone in case of emergency.
 - Basic alarms: can be worn (e.g. on your wrist or as a pendant) or placed in the home. When you press the alarm, they can either make a loud noise or send a signal to someone.
 - Security systems, for example:
@@ -296,6 +329,7 @@ As well as usual off-the-shelf lidded cups, there are other specialised designs 
 ---
 
 ## My Experience
+
 People affected by Parkinson’s describe their experiences:
 
 > “We have a flat mat that you put on the floor. An alarm goes off. If you put it on the floor by the side of the bed, and as soon as you step on it, an alarm goes off. Very loudly.”
@@ -304,9 +338,11 @@ People affected by Parkinson’s describe their experiences:
 ---
 
 ## Advice on Buying Equipment
+
 Standard equipment and smaller adaptations (for example, an additional stair rail or raised toilet seat) recommended by an occupational therapist are often provided free of charge. Some equipment does come with a charge. An Occupational Therapist can assess your needs and advise further.
 
 However, if you are buying your own equipment, here are a few tips:
+
 1. Be informed: The Disabled Living Foundation has a range of fact sheets offering a range of general advice regarding features to look for when considering equipment.
 2. Consider _how_ and _where_ you will use the equipment and the impact on others who use the space.
 3. Try the equipment before you buy it:
@@ -329,7 +365,9 @@ However, if you are buying your own equipment, here are a few tips:
 ---
 
 ## Who Can Help?
+
 If daily tasks are particularly challenging, some people need assistance from a person. The degree of assistance will vary, and as much independence as possible should still be encouraged. There are two main categories to consider discussed here:
+
 - 'Home help'
 - 'Home care'
 
@@ -348,9 +386,11 @@ There is also information on the <a href="/learn/living-with-parkinsons/for-fami
 ---
 
 ## Home Help
+
 ‘Home Help’ refers to support for domestic tasks such as laundry, washing up and cleaning. Local councils do not usually provide this. Many charities offer these services, though there may be a charge.
 
 For example:
+
 - Royal Voluntary Service
 - The British Red Cross
 - Age UK
@@ -360,6 +400,7 @@ Details for all of these and for more information about Home Help can be found a
 ---
 
 ## Home Care
+
 ‘Home Care’ refers to support for personal tasks such as showering, dressing and preparing meals. If you think you might benefit from paid Home Care:
 
 1. The first step is to get a Needs Assessment.
@@ -384,6 +425,7 @@ _Or_
 This way you know who you are getting, but you have legal responsibility as an employer and need to plan for the carer’s holiday and sickness. Note this responsibility is yours if you directly employ the carer, even if you receive financial support from the council. Individual carers do not have to be registered with a regulatory body.
 
 ### Finding a Home Care Agency
+
 1. First find out what is available in your area. Suggested resources:
    - NHS website
    - Your local council
@@ -396,6 +438,7 @@ This way you know who you are getting, but you have legal responsibility as an e
    - Contact the provider to ask more about their service.
 
 ### Directly Employing a Home Care Worker
+
 1. Find out what is available in your area. Suggested resources:
    - NHS website
    - Your local council
@@ -413,6 +456,7 @@ This way you know who you are getting, but you have legal responsibility as an e
 ---
 
 ## For both 'Home help' & 'Home care' – things to Ask About:
+
 - **Cost**: What is the cost? What services incur an extra cost? Does the time of the shift affect the cost (e.g. evenings, weekends, bank holidays)?
 - **Experience**: Do the care workers have experience in supporting someone with similar needs to you? _For an agency:_ How do they allocate the care workers to ensure suitable?
 - **Training**: What training have the care workers had?
@@ -427,6 +471,7 @@ This way you know who you are getting, but you have legal responsibility as an e
 ---
 
 ## Where Can I Get Help?
+
 - **National Health Service (NHS)** – outpatient and community therapy teams, including Occupational Therapists. Referral pathways vary by area. In most places your GP will be able to refer to occupational therapy.
 - **Adult Social Care** – Some occupational therapists work within Adult Social Care services. Other social care professionals, such as social workers, can also help you with advice and equipment. You can find contact details for your social services on your council website or can ask at your GP.
 - **Voluntary sector** – Charities and third sector organisations may be able to help. They can offer some support, and some have short-term equipment hire services.
@@ -437,6 +482,7 @@ For more details see the <a href="/learn/further-support/services-and-groups" cl
 ---
 
 ## My Experience
+
 People affected by Parkinson’s describe their experiences:
 
 > “As an OT, we might assess somebody shopping, cooking, cleaning, to see how they manage washing, transfers in and out of the bath, up and down steps. To see where the difficulty lies and what we could then try to do to lessen that difficulty. And also, we encourage graded activity, somebody who isn’t doing much to gradually get back into doing more.”

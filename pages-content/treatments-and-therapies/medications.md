@@ -1,4 +1,5 @@
 # Medication
+
 There are a range of medicines available to help manage the symptoms of Parkinson’s. At present, no medication is known to change or cure the underlying disease process. However, medication can effectively improve the symptoms. Treating symptoms earlier will help you to keep well and active which is beneficial in the longer term. Medicine can be adjusted to match your own symptoms, needs and preferences.
 
 The underlying changes in Parkinson’s are complex. One characteristic of Parkinson’s is reduced levels of **dopamine**. This is a chemical messenger in the brain. Most of the medicines for Parkinson’s work in different ways to improve dopamine messaging.
@@ -8,11 +9,13 @@ It can take some time to find the best medicine regime for you. Symptoms change,
 It is important not to change your medication without discussing this with your GP or Parkinson’s team first. Any withdrawal from Parkinson’s drugs must be done gradually.
 
 ## Commonly Used Medications
+
 The Symptom Management pages have guidance for dealing with the side effects that are listed below. If you experience side effects, consult these pages and speak to your Parkinson’s specialist team. There are also other possible side effects that can occur. Some medications cannot be used together with other medications. Your prescribing doctor will take this into account when prescribing medication.
 
 ### 1. Levodopa Medications
 
-**What does it do?**  
+**What does it do?**
+
 - Levodopa is converted to dopamine in the body.
 - Levodopa is combined with another medicine into one pill. This other medicine only prevents the levodopa from being broken down before it gets to the brain.
 - This other medicine does not help Parkinson’s symptoms.

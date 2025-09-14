@@ -14,7 +14,7 @@ There are two key areas of the toolkit:
 
 1. **Information** pages (**What is Parkinson’s**, **Treatments & Therapies**, **Living with Parkinson’s**, **Further Support**, **Research**) – where you can click into each page for more information which might interest you.
 
-  _Tip: if there is something specific you are looking for and can’t find it, use the search box to type what you are looking for e.g., Medication. When you find the page, press Crtl + F. This will open a new search box where you can type the words you are looking for e.g. side effects._
+_Tip: if there is something specific you are looking for and can’t find it, use the search box to type what you are looking for e.g., Medication. When you find the page, press Crtl + F. This will open a new search box where you can type the words you are looking for e.g. side effects._
 
 2. **Personalised** pages – which are personal to you and allows you to record your symptoms, set objectives, and more.
 
@@ -28,4 +28,4 @@ There are two key areas of the toolkit:
   5. _**Appointments/calendar**_ (to allow you to store all your healthcare appointments in one place)
   6. _**To-do lists/Notes**_ (to keep all your information in one place and can be used like a diary)
 
-_Live Well with Parkinson’s_ was developed by the Personalised Care for Parkinson’s Disease (PD-Care) team at University College London. For more information on the PD-Care research study, please visit <a href="www.ucl.ac.uk/pd-care" class="external-link" target="_blank" rel="noopener noreferrer">**UCL's PD-Care Study Pages**</a>   or you can ask the research team.
+_Live Well with Parkinson’s_ was developed by the Personalised Care for Parkinson’s Disease (PD-Care) team at University College London. For more information on the PD-Care research study, please visit <a href="www.ucl.ac.uk/pd-care" class="external-link" target="_blank" rel="noopener noreferrer">**UCL's PD-Care Study Pages**</a> or you can ask the research team.

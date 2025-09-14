@@ -24,9 +24,9 @@ Use HTML <a> tags with the `internal-link` class:
 
 Use HTML <a> tags with the `external-link` class:
 
-&lt;a href="https://www.parkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer"&gt;Parkinson's UK&lt;/a&gt;
- 
-&lt;a href="https://www.nhs.uk/conditions/parkinsons-disease" class="external-link" target="_blank" rel="noopener noreferrer"&gt;NHS Information&lt;/a&gt;
+&lt;a href="https://www.parkinsons.org.uk" class="external-link" target="\_blank" rel="noopener noreferrer"&gt;Parkinson's UK&lt;/a&gt;
+
+&lt;a href="https://www.nhs.uk/conditions/parkinsons-disease" class="external-link" target="\_blank" rel="noopener noreferrer"&gt;NHS Information&lt;/a&gt;
 
 _Note_: The `target="_blank" rel="noopener noreferrer` makes sure the link opens in a new tab. Simply remove those attributes if opening in a new tab is not desired.
 

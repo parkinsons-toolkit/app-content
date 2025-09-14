@@ -1,12 +1,14 @@
 # Mobility
+
 Mobility is quite a broad term and includes:
+
 - Walking around
 - Getting up or down stairs
 - Getting in and out of bed
 - Rolling over in bed: ‘bed mobility’
 - Getting up from or sitting down into a chair
- 
-Reduced mobility may make everyday activities more challenging for you than they used to be. There are many things you can do for yourself. It is also advised that you see a physiotherapist or occupational therapist. They will work with you to help you continue doing the things you need and enjoy doing in your daily life. 
+
+Reduced mobility may make everyday activities more challenging for you than they used to be. There are many things you can do for yourself. It is also advised that you see a physiotherapist or occupational therapist. They will work with you to help you continue doing the things you need and enjoy doing in your daily life.
 
 Symptoms of Parkinson’s and factors unrelated to Parkinson’s can all contribute to reduced mobility. These factors are discussed on the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls page_</a>. Treatment of the symptoms causing problems is important for maintaining mobility. Please explore the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages for specific guidance.
 
@@ -25,20 +27,23 @@ A common problem is that difficulties mobilising mean that you are less active. 
 ---
 
 ## What should I do about it?
+
 If you have a sudden decline in your mobility, you should see your GP or contact your Parkinson’s team as soon as possible. There may be an illness, injury or medication that is contributing to it. Please see the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls page_</a> information page if these are concerns.
 
 If you have difficulties moving, you should be referred to a physiotherapist. In the NHS, you usually have to be referred by your GP or Parkinson’s specialist team. You may also benefit from Occupational Therapist or Adult Social Care services.
 
-Appointments with these specialists may be in a hospital, community service, or at home. In some areas there are specialist Parkinson’s teams or rehab services. Your Parkinson’s specialist team or GP should be able to advise. See the  <a href="/learn/treatment-and-therapies/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page for more information about the different services.
+Appointments with these specialists may be in a hospital, community service, or at home. In some areas there are specialist Parkinson’s teams or rehab services. Your Parkinson’s specialist team or GP should be able to advise. See the <a href="/learn/treatment-and-therapies/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page for more information about the different services.
 
 ---
 
 ## What can I try for myself?
 
 ### Keep Active
+
 It is important to try to stay as active as possible, unless you have been advised otherwise. Staying active helps you maintain muscle strength and balance so helps maintain mobility. It is also good for your Parkinson’s and general health. There are different components to the activity you should try to undertake: Strength, balance and flexibility. Mobility requires all of these.
 
 In Parkinson’s, specific attention also needs to be given to:
+
 - Making big movements
 - Carrying out more than one task at a time, known as ‘dual-tasking’.
 
@@ -57,6 +62,7 @@ There may also be specific tasks that you can practice to address specific day-t
 </div>
 
 ### Mobility tips
+
 - Give yourself time.
 - Reduce unnecessary distractions.
 - Where possible, it will also help to address other factors affecting your mobility. This might be pain, tiredness, stress or urinary symptoms. See our <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages for tips for addressing each of these.
@@ -65,6 +71,7 @@ There may also be specific tasks that you can practice to address specific day-t
 - Think about your movements: Parkinson’s can cause movements to get smaller, but some of this can be overcome. Try to think about big movements, including big steps, lifting your feet off the floor, and keep reminding yourself.
 
 ### Environment
+
 - Ensure adequate lighting.
 - Try to minimise obstacles, like clutter on the floor or trailing cables.
 - Consider the surface you are walking on – watch out for wet floor or loose rugs.
@@ -74,6 +81,7 @@ There may also be specific tasks that you can practice to address specific day-t
 - How accessible are the things that you use regularly?
 
 ### Safety
+
 - Recognise your limits.
 - Have a back-up plan – how could you get help if you ran into trouble? This might be for example, keeping your mobile phone in your pocket.
 
@@ -82,16 +90,18 @@ For tips related to daily tasks, including getting in and out of bed, please see
 ---
 
 ## Equipment and Aids
+
 Some people need equipment or aids in order to continue tasks of daily life.
 
 **It is strongly recommended that you see a physiotherapist and occupational therapist to advise on these.**
 
 Before purchasing equipment, consider the following overall tips below:
+
 - Consider how and where you will use the equipment
 - Try the equipment before you buy it
 - Ensure the fit of the equipment is as correct as possible
 - Remember that companies selling equipment could be biased. Health and Social care professionals do not have a financial incentive so are impartial.
-- The <a href="https://www.dlf.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Disabled Living Foundation (DLF)</a> is a charity (not commercial) that provides detailed information about equipment, including places you can try it out and comparisons of products. 
+- The <a href="https://www.dlf.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Disabled Living Foundation (DLF)</a> is a charity (not commercial) that provides detailed information about equipment, including places you can try it out and comparisons of products.
 
 <div class="video-container">
 <iframe 
@@ -104,6 +114,7 @@ Before purchasing equipment, consider the following overall tips below:
 </div>
 
 ### Walking sticks
+
 - Walking sticks are suitable for some people but not for others. It is best to be assessed by a physiotherapist.
 - Some people find them helpful for specific circumstances, e.g. in crowds or for longer outings
 - A benefit may be that others around can see that you need more space
@@ -122,6 +133,7 @@ Before purchasing equipment, consider the following overall tips below:
   - They can be bought at mobility shops, some large pharmacies, or online.
 
 ### Walking frames
+
 - Walking frames are suitable for some people but not for others. It is best to be assessed by a physiotherapist.
 - Walking frames redistribute weight from legs to arms and come in different types.
 - They give a higher level of support than walking sticks
@@ -140,6 +152,7 @@ Before purchasing equipment, consider the following overall tips below:
   - Standing with your arms relaxed by your side, with a slight natural bend at your elbow: The frame hand grips should typically be at the level of the wrist.
 
 ### Wheelchairs
+
 - Some people need to use wheelchairs to get around. It is best to be assessed by a physiotherapist to consider other options first.
 - It might be for occasional use, e.g. bad days, or longer outings, or frequent use.
 - There is a lot to consider when selecting a wheelchair. Wheelchair services can provide more guidance. Considerations include:
@@ -153,11 +166,11 @@ For equipment related to daily tasks, including getting in and out of bed, pleas
 ---
 
 ## My Experience
-People affected by Parkinson’s describe their experiences.  
+
+People affected by Parkinson’s describe their experiences.
 
 > “I mean, I can still walk around the house without using a stick. I use a stick when I walk outside. When I’m really on, I wouldn’t need it. But it’s one of those things whereby it flags to people that you’ve got an issue”
 > _(Person with Parkinson’s)_
-
 
 <div class="video-container">
 <iframe
@@ -168,7 +181,6 @@ People affected by Parkinson’s describe their experiences.
   allowfullscreen>
 </iframe>
 </div>
-
 
 ---
 

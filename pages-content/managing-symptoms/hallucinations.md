@@ -1,4 +1,5 @@
 # Hallucinations & Related Symptoms
+
 Hallucinations, visual illusions, and delusions may occur in people with Parkinson’s. They are most often a side effect of medication, but they can also be a symptom of Parkinson’s, or part of another condition, such as dementia. These issues are not common, but can be upsetting for the person experiencing them, and for their loved ones and carers.
 
 **Hallucinations** are seeing, tasting, smelling, feeling, or hearing things that aren’t there. For example, seeing children or small animals that are not there.
@@ -22,6 +23,7 @@ Hallucinations, visual illusions, and delusions may occur in people with Parkins
 ## What might be causing it?
 
 **Parkinson’s causes of hallucinations, illusions, and delusions:**
+
 - Can occur with certain Parkinson’s medications:
   - Dopamine agonists
   - Levodopa
@@ -32,6 +34,7 @@ Hallucinations, visual illusions, and delusions may occur in people with Parkins
 - Are more common in people experiencing lots of sleeping/waking problems
 
 **Non-Parkinson’s causes of hallucinations, illusions, and delusions:**
+
 - **Delirium**: when someone becomes unwell due to other new stresses on the body, such as from infection or chemical imbalances in the blood. This is more common in older people and those with memory problems. It also causes a change in alertness: someone with delirium may be more drowsy, hyperactive or changing between these.
 - Significant memory problems or dementia.
 - Eyesight problems.
@@ -41,15 +44,18 @@ Hallucinations, visual illusions, and delusions may occur in people with Parkins
 ---
 
 ## What should I do about it?
+
 - If hallucinations are a sudden new problem, you should see your GP promptly (within a couple of days) as there may be something causing it that can be treated. This could be for example an infection.
 - If hallucinations or these other symptoms are more of a gradual problem, it is important to consult your Parkinson’s specialist team or GP as soon as you’re able to as they can cause worry and stress for you and others around you. A change in the medications used for Parkinson’s may help to reduce these symptoms.
 
 ---
 
 ## What can I try for myself?
+
 It is important to discuss the hallucinations, illusions, and/or delusions with your Parkinson’s specialist team or GP. This is so that they can see if any potentially treatable causes could be adding to the problem or if a change in your Parkinson’s medication might help.
 
 **Look at surroundings:**
+
 - Visual illusions can often occur at certain times of day. This could be, for example, around the time evening is starting and lighting is getting low. It may help to turn the room lights on earlier in the evening than usual.
 - If certain objects are frequently mistaken as visual illusions, consider removing these objects from the room or changing the lighting in the room to alter the shadow (it may be worth examining the lighting and how things are arranged at home in case this could be contributing to the problem).
 - Try talking to a close friend or relative if you suspect you are hallucinating or seeing a visual illusion. They may be able to help you to recognise a hallucination or visual illusion and to decrease your anxiety about them.
@@ -66,12 +72,15 @@ It is important to discuss the hallucinations, illusions, and/or delusions with 
 </div>
 
 ---
+
 ## Further Assessment
 
 ### Questions
+
 Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
+
 - When did the problem start?
 - What have you been experiencing?
 - Did it come on suddenly or gradually?
@@ -85,10 +94,12 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - How is your sleep at night?
 
 _**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+
 - This can help you to recall the details and help the professional identify patterns.
 - You could monitor when the hallucinations or related symptoms are happening, and if anything seems to make them worse or better. If there is a change (e.g. they become more upsetting) then note this down.
 
 ### Tests
+
 Tests are often not needed, but depending on their assessment, healthcare professionals may run further tests such as blood tests or a brain scan.
 
 ---
@@ -101,6 +112,7 @@ Tests are often not needed, but depending on their assessment, healthcare profes
 - **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 
 **Medications that may contribute to the problem, which may be reduced or stopped:**
+
 - Parkinson’s medications, in particular anticholinergics (e.g. trihexyphenidyl), amantadine and dopamine agonists (e.g. ropinirole, pramipexole), but also MAO-B inhibitors (e.g. rasagiline), COMT inhibitors (e.g. entacapone) and Levodopa.
 - Steroid medication, e.g. prednisolone
 - Strong pain killers, e.g. codeine, tramadol, morphine
@@ -111,6 +123,7 @@ Tests are often not needed, but depending on their assessment, healthcare profes
 Medication is only used in severe cases where the problem is causing distress.
 
 **Medications that are sometimes used if people have severe hallucinations or delusions:**
+
 - Quetiapine (this is first-line in NICE 2017 guideline if medication is needed).
 - Clozapine (note this requires close monitoring in a specialist service).
 - Rivastigmine.
@@ -119,6 +132,7 @@ Medication is only used in severe cases where the problem is causing distress.
 ---
 
 ## Key messages
+
 - Hallucinations, illusions, and delusions can occur in Parkinson’s. Hallucinations are most commonly a side effect of medication but can also be a symptom of Parkinson’s or other conditions, like dementia.
 - It is important to discuss with your Parkinson’s specialist team if you are experiencing hallucinations, illusions, or delusions.
 
