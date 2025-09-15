@@ -30,7 +30,7 @@ _Live Well with Parkinson's_ Managing Symptoms:
   - <a href="/learn/managing-symptoms/tremor" class="internal-link">_Tremor_</a>
   - <a href="/learn/managing-symptoms/freezing" class="internal-link">_Freezing_</a>
   - <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a>
-    <a href="/learn/managing-symptoms/dizziness" class="internal-link">Dizziness</a>
+  - <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a>
 - **Pain & Uncomfotable Sensations**
   - <a href="/learn/managing-symptoms/pain" class="internal-link">_Pain_</a>
   - <a href="/learn/managing-symptoms/restless-legs" class="internal-link">_Restless Legs_</a>
