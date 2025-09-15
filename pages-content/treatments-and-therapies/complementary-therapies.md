@@ -70,6 +70,11 @@ Here are some key points to know about cannabis:
 - In the UK, Cannabis is classified as a Class-B controlled substance. Having, making, or selling cannabis is illegal; this is due to its potential serious risks to physical and mental health.
 - See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more information on supplements.
 
+**Helpful Resources about Cannabis & Parkinson's:**
+
+- <a href="https://www.parkinsons.org.uk/information-and-support/your-magazine/spotlight/cbd-and-parkinsons#:~:text=Cannabis%2Dbased%20medications%20aren't,the%20eyes%20of%20the%20law" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson’s UK on ‘CBD and Parkinson’s</a>
+- <a href="https://www.parkinsonseurope.org/living-well/therapies/complementary-therapies/cannabis/" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson’s Europe on ‘Complementary Therapies – Cannabis’</a>
+
 ---
 
 ## Potential Benefits
