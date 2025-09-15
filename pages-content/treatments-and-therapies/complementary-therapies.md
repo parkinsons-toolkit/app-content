@@ -1,5 +1,4 @@
 # Complementary Therapies
-
 Complementary therapies are treatments used alongside conventional Western medicine. They differ from **alternative therapies**, which are used instead of conventional medicine. Complementary therapies are generally **holistic**, addressing physical, mental, and emotional health together.
 
 For example, a therapist may suggest lifestyle or dietary changes along with a physical therapy. These therapies aim to boost overall wellbeing, and some people with Parkinson’s report positive experiences.
