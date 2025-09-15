@@ -1,9 +1,5 @@
 # Thinking and Remembering
 
-Difficulties with thinking and remembering are common in Parkinson’s. They can be very worrying for the person experiencing these as well as for those around them. As we get older, we are likely to notice more difficulties with our memory, speed of thinking, and ability to do several things at once. But bigger changes, particularly if they affect day-to-day activities, are not normal and should be discussed with a healthcare professional. Vocabulary and reading do not normally get worse with age. Difficulties with thinking and memory are not always signs of dementia.
-
-For information about more advanced symptoms, including dementia, see the <a href="/learn/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">_Progression of Symptoms_</a> page. 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -12,7 +8,11 @@ For information about more advanced symptoms, including dementia, see the <a hre
   title="YouTube video player" 
   allowfullscreen>
 </iframe>
-</div>
+</div> 
+
+Difficulties with thinking and remembering are common in Parkinson’s. They can be very worrying for the person experiencing these as well as for those around them. As we get older, we are likely to notice more difficulties with our memory, speed of thinking, and ability to do several things at once. But bigger changes, particularly if they affect day-to-day activities, are not normal and should be discussed with a healthcare professional. Vocabulary and reading do not normally get worse with age. Difficulties with thinking and memory are not always signs of dementia.
+
+For information about more advanced symptoms, including dementia, see the <a href="/learn/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">_Progression of Symptoms_</a> page. 
 
 ---
 
