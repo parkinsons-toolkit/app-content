@@ -1,5 +1,15 @@
 # Swallowing Difficulties
 
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/HzPyqrpuot4"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 Some people with Parkinson’s have trouble with swallowing or eating. It can be more difficult to swallow certain foods, drinks, and medications. Your swallowing can be affected in different ways:
 
 - Difficulty keeping food or drink in your mouth
@@ -10,16 +20,6 @@ Some people with Parkinson’s have trouble with swallowing or eating. It can be
 - Feeling like food is getting stuck as it goes down to your stomach
 
 Swallowing problems range from mild to severe and can happen at any time. If you notice any swallowing difficulties it is important you speak with your GP or Parkinson's specialist team. They can refer you on to specialists for treatment. Untreated swallowing problems can cause more serious health conditions, such as chest infections.
-
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/HzPyqrpuot4"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
@@ -165,7 +165,7 @@ Typical referrals for swallowing problems might include:
 - **Physiotherapists** – Hcan provide help with posture while eating.
 - o Depending on the assessment, you may be referred to other hospital specialities (e.g. Ear Nose and Throat specialists or Gastroenterologists) particularly if a non-Parkinson’s cause is suspected.
 
-If you are having significant and progressive difficulties swallowing, there is more information on the _Progression of Symptoms_ page.
+If you are having significant and progressive difficulties swallowing, there is more information on the <a href="/learn/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">_Progression of Symptoms_</a> page.
 
 ---
 
