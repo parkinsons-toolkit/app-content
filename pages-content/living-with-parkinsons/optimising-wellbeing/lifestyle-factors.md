@@ -133,11 +133,6 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
 
 There is growing interest in the use of cannabis-based products for the treatment of health conditions. You can find more about the use of Cannabis on our <a href="/learn/treatments-and-therapies/complementary-therapies" class="internal-link">_Complementary Therapies_</a> page.
 
-**Helpful Resources about Cannabis & Parkinson's:**
-
-- <a href="https://www.parkinsons.org.uk/information-and-support/your-magazine/spotlight/cbd-and-parkinsons#:~:text=Cannabis%2Dbased%20medications%20aren't,the%20eyes%20of%20the%20law" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson’s UK on ‘CBD and Parkinson’s</a>
-- <a href="https://www.parkinsonseurope.org/living-well/therapies/complementary-therapies/cannabis/" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson’s Europe on ‘Complementary Therapies – Cannabis’</a>
-
 ---
 
 ## Vision & Hearing
