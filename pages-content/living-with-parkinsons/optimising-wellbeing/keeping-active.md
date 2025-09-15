@@ -80,7 +80,7 @@ For all of these types of activity, make sure you warm up before undertaking mor
 
 To see what this might look like in real life, pick the person you most relate to. You can find targeted advice about keeping active for each person on the separate pages.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/main/images/linked-image-name.png" alt="exercise" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/main/images/exercise.png" alt="woman exercising" class="exercise-image">
 
 ---
 
