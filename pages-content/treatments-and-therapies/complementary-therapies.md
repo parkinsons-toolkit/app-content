@@ -32,6 +32,7 @@ Some commonly used therapies include:
 - **Physical therapies:** Acupuncture, Acupressure, Alexander Technique, Massage, Osteopathy, Pilates, Qigong, Tai Chi, Yoga, Reflexology
 - **Mind-body therapies:** Meditation, Mindfulness, Visualisation
 - **Creative therapies:** Art Therapy, Music Therapy, Aromatherapy, Reiki
+- Cannabis
 
 ### Physical Therapies
 
@@ -41,6 +42,9 @@ Some commonly used therapies include:
 ### Therapies for Thoughts and Feelings
 
 - **Mindfulness, Meditation, Visualisation:** Focus the mind, reduce stress, and promote relaxation.
+
+### Creative Therapies
+
 - **Music and Art Therapy:** Improve movement, speech, and emotional wellbeing; provide social interaction and a way to express emotions.
 
 <div class="video-container">
@@ -52,6 +56,19 @@ Some commonly used therapies include:
   allowfullscreen>
 </iframe>
 </div>
+
+---
+
+### Cannabis
+
+There is growing interest in the use of cannabis-based products for the treatment of health conditions.
+
+Here are some key points to know about cannabis:
+
+- Cannabis and cannabis-based medications can be prescribed for certain conditions, such as multiple sclerosis, but only under very specific circumstances and with very strict criteria to decide if a patient is suitable.
+- Currently, there is not enough evidence to support the use of cannabis-based products for Parkinson’s disease. However, several research studies are currently taking place to understand if cannabis could be beneficial for people with Parkinson’s and, if so, how.
+- In the UK, Cannabis is classified as a Class-B controlled substance. Having, making, or selling cannabis is illegal; this is due to its potential serious risks to physical and mental health.
+- See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more information on supplements.
 
 ---
 
