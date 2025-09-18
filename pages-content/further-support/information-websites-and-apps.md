@@ -1,88 +1,87 @@
-# Information, Websites & Apps for Parkinson’s
-
-When diagnosed with Parkinson’s, seeking additional information beyond what your healthcare professionals provide can help you better understand the condition and manage symptoms. Information can be found on the **internet, apps, books, libraries, support groups, and organisations** like Citizens Advice. It can be overwhelming, and sometimes contradictory, so always discuss new information with your GP or healthcare team.
+# Information, Websites & Apps
+When diagnosed with Parkinson’s, you may want to seek out extra information to that given by the health professionals supporting you. This can help you to better understand the condition and understand how to manage any symptoms. There are a number of places you can find information. This can be on the internet, from applications (‘apps’), in books, libraries, information organisations such as Citizens Advice, and from support groups. There can be a huge amount of information to take in. This can be especially so when searching the internet or when downloading health apps to your electronic device. The information may seem to be contradictory, and it can sometimes feel confusing to know what information is accurate. It can also be hard to know what information to use for yourself. It is always good to ask the health professionals around you any questions you have, and about the extra information you have found. 
+ 
+This section provides guidance on the different sources of information and some examples of good sources of information.
 
 ---
 
 ## Websites
+There are a lot of websites offering information. Be cautious about carrying out general internet searches and using information from any website without checking that is it accurate and safe. Try to get your information from known reliable sources. Such sources would be government and NHS websites and reputable charities such as Parkinson’s UK and the Cure Parkinson’s Trust in this country. There is also the Parkinson’s Foundation and the Michael J Fox Foundation based in the U.S. but with an international reach. 
 
-Be cautious with general internet searches; aim for **reliable sources** such as government and NHS websites, and reputable charities. Examples include:
+### Parkinson’s UK
+<a href="https://www.parkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> is the leading Parkinson’s charity in the UK. It offers ongoing support for people diagnosed with Parkinson’s and their family members with a network of local advisors and a telephone helpline. The website provides information sheets and latest research updates. It also offers the ‘First Steps’ course for people newly diagnosed with Parkinson’s. 
 
-- **Parkinson’s UK**: Leading UK charity providing support, local advisors, a telephone helpline, information sheets, research updates, and the “First Steps” course for newly diagnosed individuals.  
-  [Website](https://www.parkinsons.org.uk)
+### Cue Parkinson's Trust
+The <a href="https://www.cureparkinsons.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Cure Parkinson's Trust</a> is a smaller UK based charity which is dedicated to supporting research to slow, stop and reverse Parkinson’s. Whether you are interested in taking part in research yourself or just wanting to keep up to date with developments, this is a good place to look. 
 
-- **Cure Parkinson’s Trust**: UK charity supporting research to slow, stop, and reverse Parkinson’s. Good for keeping up with research or participating in studies.  
-  [Website](https://www.cureparkinsons.org.uk)
+### GOV.UK
+<a href="https://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a> is where you can find information regarding government policies and your local services. Any updates in law changes or policies will be found on the government website. 
 
-- **GOV.uk**: Government policies, local services, law updates, and policy changes.  
-  [Website](https://www.gov.uk)
-
-- **NHS**: Information on research, treatments, and local services for Parkinson’s.  
-  [Website](https://www.nhs.uk)
-
-- **International Charities**: Parkinson’s Foundation and Michael J. Fox Foundation (USA-based but international reach).
+### NHS
+The <a href="http://www.nhs.uk/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> provides the latest information regarding research and treatments for Parkinson’s. Local NHS services can also be found using the website.
 
 ---
 
 ## Apps
+An app is a type of software that allows you to perform specific tasks. These can be downloaded to your mobile phone or other electronic device. There are some apps designed to help you deal with your day-to-day symptoms of Parkinson’s. It is difficult to know if an app is useful based on good scientific knowledge and they may be discontinued. However, below are some examples of apps that you may find useful. 
 
-Apps can help manage day-to-day Parkinson’s symptoms, but their effectiveness may vary and some may be discontinued. Recommended by **Our Mobile Health** (in collaboration with Parkinson’s UK):
+### 'Our Mobile Health'
+Our Mobile Health is an organisation made up of health professionals and experts that review and identify the best health-related apps to be used by people. Our Mobile Health worked with Parkinson’s UK to provide a list of recommended apps: 
 
-### Mental Health
+*NHS and 'Our Mobile Health' recommended apps:*
 
-- **Stress & Anxiety Companion**: Breathing exercises, relaxation games, and music.
-- **WorryTree**: Cognitive Behavioural Therapy (CBT) app to record and challenge worries.
-- **Pzizz**: Improves sleep quality using relaxing sounds and music.
-- **Beat Panic**: Uses positive messages and colours to reduce anxiety (currently costs 99p).
-- **Cove**: Creates music to reflect emotions, maintains a personal journal; NHS testing ongoing.
+_Mental Health_
+- Stress & Anxiety Companion: Provides you with breathing exercises to reduce anxiety as well as games and music for relaxation.
+- WorryTree: Based on Cognitive Behavioural Therapy (CBT). The app allows you to record any worries and challenge these.
+- Pzizz: Promotes and encourages better quality of sleep using relaxing noises and music. Aims to quieten your mind to make it easier to fall asleep and stay asleep.
+- Beat Panic: Uses positive messages and colours to help reduce anxiety (Note: currently costs 99p).
+- Cove: Allows you to create music to reflect your emotions. Allows you to express your feeling without having to use words and keeps a personal journal of how you have felt. This is being tested in the NHS. 
 
-### Speech
+_Speech_
+- Beats Medical: Aims to help with your Parkinsonian symptoms – such as mobility, speech and dexterity.
+- Swallow Prompt: Provides reminders to people who may have difficulty remembering to swallow without being prompted. You can set how often you receive the reminder depending on your personal situation.
+- Voice Analyst: Allows you to record your voice and analyse potential changes in pitch and volume over time.
 
-- **Beats Medical**: Helps with mobility, speech, and dexterity.
-- **Swallow Prompt**: Provides reminders for swallowing.
-- **Voice Analyst**: Records and tracks voice changes in pitch and volume over time.
+_Wellbeing_
 
-### Wellbeing
-
-- **KiNDEO**: Creates a life story with photos, videos, and stories, easily shared with carers or loved ones.
+- KiNDEO: Allows you to create a life story for someone. You can add photos, videos and stories to create a record of someone’s life. Then it can be easily viewed by carers or loved ones. 
 
 ---
 
 ## Podcasts
+A Podcast is an audio programme that you can listen to whenever you like on one of your electronic devices.
 
-- **When Life Gives You Parkinson’s**: Hosted by Larry Gifford, sharing personal experiences.
-- **Michael J. Fox Foundation Parkinson’s Podcast**: Various speakers and topics about living with Parkinson’s.
-- **Substantial Matters: Life and Science of Parkinson’s**: Focus on medical treatment, research, and self-help.
+- **When Life Gives You Parkinson’s Podcast**: Podcast presented by <a href="https://curiouscast.ca/" class="external-link" target="_blank" rel="noopener noreferrer">Curious Cast</a>. Larry Gifford is the host and shares his personal experience of juggling work and family life as someone in their 40s living with Parkinson’s disease.
+- **Michael J. Fox Foundation Parkinson’s Podcast**: Podcast presented by <a href="https://www.michaeljfox.org/podcasts" class="external-link" target="_blank" rel="noopener noreferrer">Michael J. Fox Foundation</a>. A series of different speakers and topics surrounding different aspects of life for someone living with Parkinson’s disease. 
+- **Substantial Matters: Life and Science of Parkinson’s Podcast**: Podcast presented by <a href="https://www.parkinson.org/resources-support/online-education/podcast" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson’s Foundation</a> . Each episode will focus of different topics ranging from medical treatment, research and ways to self-help. 
 
 ---
 
 ## Books
-
-- _A Funny Thing Happened on the Way to the Future_ – Michael J. Fox (Autobiography, 2010).
-- _A Parkinson’s Primer_ – John M. Vine (Personal guide, 2017).
-- _Shake Well Before Use_ – Tom Isaacs (Personal journey and fundraising walk, 2007).
+- **‘A Funny Thing Happened on the Way to the Future’ by Michael J. Fox:** Autobiography of Michael J. Fox – an actor who was diagnosed with Parkinson’s at 29 years old in 1991. Published 2010.
+- **‘A Parkinson’s Primer: An Indispensable Guide to Parkinson's Disease for Patients & Their Families’ by John M. Vine:** A Parkinson’s Primer is a book written by someone living with Parkinson’s discussing past experiences and all the information he wished he had known from the start. Non-technical book that is a personal guide for people with Parkinson’s and their family. Published 2017.
+- **‘Shake Well Before Use’ by Tom Isaacs:** Tom Isaacs was diagnosed with Parkinson’s at 27 years old. Seven years later, he walked 4,500 miles around the coastline of Britain to raise money for Parkinson’s research. The book is the story of that walk as well as the personal journey of coming to terms with his Parkinson’s and co-founding the Cure Parkinson’s Trust. Published 2007. 
 
 ---
 
 ## Electronic Devices
+- **Fitbit:** This is a device that you wear on your wrist and can monitor your health and activity. Fitbit can keep track of your steps, provide medication reminders, monitor heart rate, etc. People find them useful to set and maintain targets of physical activity.
+- **Pathfinder:** Pathfinder is a device that attaches to your shoes and provides a laser on the floor. The laser provides a visual cue for the person to continue walking and may reduce the number of times that you freeze. It may also reduce shuffling and improve walking. 
 
-- **Fitbit**: Tracks steps, heart rate, and provides medication reminders.  
-  [Website](https://www.fitbit.com/uk/home)
-- **Pathfinder**: Shoe-mounted laser provides visual cues to reduce freezing, shuffling, and improve walking.  
-  [Website](https://walkwithpath.com/)
-- Other devices under development, e.g., WATCH-PD.
+There are more electronic devices currently being developed and tested, such as WATCH-PD.
 
-> See the Housing page for home adaptations and devices.
+See our <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for any devices or adaptations that might help you in the home. 
 
 ---
 
-## Evaluating Reliability
+## How to know if information is reliable
+Some of the above may be classed as medical devices. Medical devices are devices that are intended to be used for medical purposes. When looking for medical devices that you think may help you, it is important to see if the product has been assessed by the government. In the UK, the Medicines and Healthcare products Regulatory Agency (MHRA) will test medical devices. If the device is judged to be satisfactory and given approval, then the device will be marked with “CE”. If you see any products with the “CE” mark, then you can have confidence that it has been assessed and approved by the government. 
+ 
+If you are looking for apps that could be useful, it is recommended to either try the <a href="https://www.nhs.uk/apps-library/" class="external-link" target="_blank" rel="noopener noreferrer">NHS app library</a> or <a href="https://www.parkinsons.org.uk/information-and-support/apps-and-devices-parkinsons" class="external-link" target="_blank" rel="noopener noreferrer">‘Our Mobile Health’</a>. Be cautious about just using commercial app stores. If looking for information on the internet be cautious about carrying out general internet searches and using information from any website. Try getting your information from known reliable sources such as the websites and charities mentioned above.
 
-- **Medical devices** are assessed by the **MHRA**. Look for the **CE mark** for government-approved devices.
-- For apps, use the **NHS App Library** or **Our Mobile Health**. Be cautious with commercial app stores.
-- Online information should come from trusted sources.
+Remember that each person diagnosed with Parkinson’s will experience the condition differently. 
 
-> Remember: Parkinson’s experiences vary; not all information may apply. Discuss potential tools, apps, and resources with your GP or healthcare team.
+This means that not everything you read will apply to you. It is always worth talking with your GP or the health professionals around you to discuss what information, devices, websites or apps they feel may help you. 
 
 ---
 
