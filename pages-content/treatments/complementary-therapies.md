@@ -1,7 +1,11 @@
 # Complementary Therapies
-Complementary therapies are treatments used alongside conventional Western medicine. They differ from **alternative therapies**, which are used instead of conventional medicine. Complementary therapies are generally **holistic**, addressing physical, mental, and emotional health together.
+**Complementary therapies** are a group of therapies that have until recently stood outside of usual Western healthcare. They are becoming increasingly used together with mainstream medicine. An example would be using acupuncture as well as the more usual pain- killing tablets to help lessen discomfort following surgery. 
 
-For example, a therapist may suggest lifestyle or dietary changes along with a physical therapy. These therapies aim to boost overall wellbeing, and some people with Parkinson’s report positive experiences.
+Complementary therapies are considered different to Alternative Therapies. Alternative Therapies are generally used instead of conventional treatments. An example of this might be using homeopathy or herbal remedies and no conventional medications. These are not discussed here. 
+
+Complementary therapies are generally considered to be holistic. This means they usually include all aspects of physical, mental and emotional health. This is because these are all seen as closely connected. For example, a complementary therapist would look at how a condition affects the whole of someone’s life. They would not just look at a symptom on its own. This might mean that a therapist suggests dietary and lifestyle changes as well as offering a physical therapy. 
+ 
+Complementary therapies are often used to boost physical and emotional wellbeing. Some people with Parkinson’s report having positive experiences of using them.
 
 <div class="video-container">
 <iframe 
@@ -15,7 +19,7 @@ For example, a therapist may suggest lifestyle or dietary changes along with a p
 
 ---
 
-## Examples of Complementary Therapies
+## What are they?
 
 <div class="video-container">
 <iframe 
@@ -27,25 +31,34 @@ For example, a therapist may suggest lifestyle or dietary changes along with a p
 </iframe>
 </div>
 
-Some commonly used therapies include:
-
-- **Physical therapies:** Acupuncture, Acupressure, Alexander Technique, Massage, Osteopathy, Pilates, Qigong, Tai Chi, Yoga, Reflexology
-- **Mind-body therapies:** Meditation, Mindfulness, Visualisation
-- **Creative therapies:** Art Therapy, Music Therapy, Aromatherapy, Reiki
+There are many complementary therapies, and so we cannot provide a complete list. Many complementary therapies have not had rigorous scientific testing, and we are not able to say whether they work or not. It is not possible to recommend or endorse any therapy in particular. Different therapies may work for different people. The following are just some of the better-known complementary therapies available. You may like to look into these further: 
+- Acupuncture
+- Acupressure
+- Alexander technique
+- Aromatherapy
+- Art therapy
 - Cannabis
+- Craniosacral therapy
+- Massage
+- Meditation
+- Mindfulness
+- Music therapy
+- Osteopathy
+- Pilates
+- Reiki
+- Reflexology
+- Tai chi
+- Visualisation
+- Qi gong
+- Yoga 
+ 
+Some of these physical therapies, for example Pilates, are used to improve flexibility, strength, posture, and body awareness. Others, like mindfulness, mainly relate to thoughts and feelings. 
 
 ### Physical Therapies
+Some physical therapies, for example Pilates, Qigong and yoga, are activities that can be carried out alone. They can also be carried out in a group under guidance. These three activities have some variations between them, but all involve stretching, gentle movements, and holding particular postures. They have the aim of improving strength, balance, flexibility, posture and breathing techniques. These are thought to improve general fitness and wellbeing. 
 
-- **Pilates, Yoga, Qigong:** Improve flexibility, strength, balance, posture, and breathing techniques. Can be practiced alone or in groups.
-- **Therapist-led:** Acupuncture, Acupressure, Reflexology, and Osteopathy. Techniques may stimulate nerves, relieve muscle tension, and promote relaxation.
-
-### Therapies for Thoughts and Feelings
-
-- **Mindfulness, Meditation, Visualisation:** Focus the mind, reduce stress, and promote relaxation.
-
-### Creative Therapies
-
-- **Music and Art Therapy:** Improve movement, speech, and emotional wellbeing; provide social interaction and a way to express emotions.
+### Therapies that focus on thoughts and feelings
+These activities include Mindfulness, Meditation and Visualisation. These can be practiced in a group under guidance, or practiced alone. These three examples have variations between them, but in all cases their practice helps focus the mind. For example, the person practicing mindfulness is encouraged to focus only on the present moment. They pay attention to any thoughts and sensations without thinking about what they might mean or getting caught up in them. A similar example is Visualization. This is a practice of imagining or meditating, with a focus on chosen images. The aim of these practices is to focus the mind. This is instead of getting caught up with unhelpful ways of thinking that we sometimes can do, such as thinking about the past or imagining what the future might be. 
 
 <div class="video-container">
 <iframe 
@@ -57,10 +70,7 @@ Some commonly used therapies include:
 </iframe>
 </div>
 
----
-
 ### Cannabis
-
 There is growing interest in the use of cannabis-based products for the treatment of health conditions.
 
 Here are some key points to know about cannabis:
@@ -71,21 +81,13 @@ Here are some key points to know about cannabis:
 - See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more information on supplements.
 
 **Helpful Resources about Cannabis & Parkinson's:**
-
 - <a href="https://www.parkinsons.org.uk/information-and-support/your-magazine/spotlight/cbd-and-parkinsons#:~:text=Cannabis%2Dbased%20medications%20aren't,the%20eyes%20of%20the%20law" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson’s UK on ‘CBD and Parkinson’s</a>
 - <a href="https://www.parkinsonseurope.org/living-well/therapies/complementary-therapies/cannabis/" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson’s Europe on ‘Complementary Therapies – Cannabis’</a>
 
 ---
 
 ## Potential Benefits
-
-Research is limited, but smaller studies and patient reports suggest:
-
-- Increased sense of wellbeing and relaxation
-- Improved posture, strength, balance, flexibility, and muscle tone
-- Reduced pain, stress, and muscle tension
-- Improved control over symptoms and condition
-- Social and creative engagement
+As will be discussed in the section below 'How do I know if it is trustworthy?' research studies are helpful in showing if certain therapies can be suggested as being helpful. Few Complementary therapies have been rigorously researched. There is a need for more research. Particularly research into their use by people with Parkinson’s. Some smaller studies have been carried out, and people with Parkinson’s report having found certain therapies helpful. A Parkinson’s UK survey of people with Parkinson’s reported a range of benefits from having used a variety of Complementary therapies. Benefits included a sense of wellbeing, increased relaxation and a sense of control of their condition and symptoms. If you are interested in reading more, please follow the link at the bottom of the page. 
 
 **Examples from Parkinson’s UK research:**
 
