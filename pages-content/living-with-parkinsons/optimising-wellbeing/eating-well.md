@@ -12,10 +12,6 @@ There is no diet that is specifically recommended for Parkinson’s, but diet ca
 </iframe>
 </div>
 
-
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/main/images/food-fibre.jpg" alt="Fibrous-food" class="example-class">
-
-
 ---
 
 ## What is a balanced diet in more detail?
@@ -103,6 +99,8 @@ Constipation is a common symptom experienced by people with Parkinson’s. It ca
 - Increase fibre intake (high fibre foods are listed at the end of this page)
 
 _See the <a href="/learn/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a> page for more details._
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/main/images/food-fibre.jpg" alt="Fibrous-food" class="example-class">
 
 ---
 
