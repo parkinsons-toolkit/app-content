@@ -12,6 +12,10 @@ There is no diet that is specifically recommended for Parkinson’s, but diet ca
 </iframe>
 </div>
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/main/images/food-fibre.jpg" alt="Fibrous-food" class="example-class">
+
+
 ---
 
 ## What is a balanced diet in more detail?
