@@ -287,6 +287,25 @@ In the UK, there is a split between **_Healthcare_** (National Health Service, N
 ### Private Social Care
 
 As indicated above, social care is not necessarily provided as a free public service. To request a Needs Assessment, Contact your local council Adult Social Care department. If care is recommended, they will conduct a Financial Assessment. This determines if the council will contribute to the cost or not.
+**Home Help:** 
+‘Home Help’ refers to support for domestic tasks such as laundry, washing up and cleaning. This is not usually provided by local councils, though they may be able to recommend local providers. Many charities offer these services, some have a charge.
+
+**Home Care:** 
+‘Home Care’ refers to support for personal tasks such as showering, dressing and preparing meals. 
+The options for arranging this:
+- If the council are contributing (following financial assessment), they can arrange Home Care for you.
+- If the council are contributing (following financial assessment), you can request ‘direct payment’ of your personal budget and arrange the Home Care yourself.
+- If the council are not contributing (following financial assessment), you will need to arrange Home Care yourself, with support from the council.
+- You can choose to arrange your own Home Care without contacting the council.
+
+Home Care workers can either be:
+- **Through a Home Care Agency:** Agencies arrange for trained carers to visit you in your home, but it may not always be the same carer. The agency holds responsibility as the employer of the carer. The agency must be registered with the Care Quality Commission (CQC). 
+_Or_ 
+- **Directly employed by you:** This way you know who you are getting, but you have legal responsibility as an employer. You will need to plan for the Home Care Worker’s holiday and sickness. Note employer responsibility is yours if you directly employ the carer, even if you receive financial support from the council. Note individual Home Care Workers do not have to be registered with a regulatory body. 
+
+See the <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page to see advice on how to find Home Care workers. 
+ 
+See the <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page to see more about responsibilities as an employer. 
 
 ---
 
