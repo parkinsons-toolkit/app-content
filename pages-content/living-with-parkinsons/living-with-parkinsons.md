@@ -57,7 +57,7 @@ In this _Living with Parkinson's_ section, you will find information on a variet
   **What is end of life care?**
   End of life care involves treatment, care and support for people who are nearing the end of their life. It is an important part of palliative care. It is for people who are thought to be in the last year of life, but this timeframe can be difficult to predict. Some people might only receive end of life care in their last weeks or days. 
 
-This section has broken this information down into 3 key topics:
+  This section has broken this information down into 3 key topics:
   1. <a href="/learn/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">_Progression of Symptoms_</a> - things that **might** happen in more advanced Parkinson’s, though everyone is different and the symptoms are not certain to happen.
   2. <a href="/learn/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_End of Life_</a> – thinking about your future care and decision making, including Lasting Power of Attorney (LPA) and Advanced Care Planning.
   3. <a href="/learn/living-with-parkinsons/planning-and-future-care/end-of-life" class="internal-link">_End of Life Planning_</a> – things you might want to think about to ensure your wishes are respected at the end of your life.
