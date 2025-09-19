@@ -287,10 +287,13 @@ In the UK, there is a split between **_Healthcare_** (National Health Service, N
 ### Private Social Care
 
 As indicated above, social care is not necessarily provided as a free public service. To request a Needs Assessment, Contact your local council Adult Social Care department. If care is recommended, they will conduct a Financial Assessment. This determines if the council will contribute to the cost or not.
+
 **Home Help:** 
+
 ‘Home Help’ refers to support for domestic tasks such as laundry, washing up and cleaning. This is not usually provided by local councils, though they may be able to recommend local providers. Many charities offer these services, some have a charge.
 
 **Home Care:** 
+
 ‘Home Care’ refers to support for personal tasks such as showering, dressing and preparing meals. 
 The options for arranging this:
 - If the council are contributing (following financial assessment), they can arrange Home Care for you.
