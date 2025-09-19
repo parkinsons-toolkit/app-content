@@ -78,7 +78,6 @@ People affected by Parkinson’s describe their experiences.
 ---
 
 ### How to find a support group: 
-
 - Ask your Parkinson’s team about local support groups they may be aware of.
 - Charity sector:
   - <a href="https://www.parkinsons.org.uk/information-and-support/local-groups" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> have around 365 local support groups across the country (Telephone: 0808 800 0303).
@@ -150,16 +149,14 @@ For more information and suggested resources check out these websites:
   - **<a href="www.bps.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">British Psychological Society’s (BPS) Directory of Charted Psychologists:</a>** Telephone: 0116 254 9568 (9am – 5pm, Monday – Friday not including bank holidays) 
   - **<a href="www.babcp.com" class="external-link" target="_blank" rel="noopener noreferrer">British Association for Behavioural and Cognitive Psychotherapies (BABCP):</a>** Telephone: 01455 883 300 (9am – 5pm, Monday – Friday not including bank holidays)
 - **Counselling:**
-  - **<a href="www.babcp.com" class="external-link" target="_blank" rel="noopener noreferrer">British Association for Counselling and 
-Psychotherapy (BACP) 
-:</a>**
-  - **BACP**: 01455 883 300, [www.bacp.co.uk](https://www.bacp.co.uk)
-  - **National Counselling Society**: [www.nationalcounsellingsociety.org](https://www.nationalcounsellingsociety.org)
-  - **UK Council for Psychotherapy**: [www.psychotherapy.org.uk](https://www.psychotherapy.org.uk)
+  - **<a href="https://www.bacp.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">British Association for Counselling and Psychotherapy (BACP):</a>** Telephone: 01455 883 300 (9am – 5pm, Monday – Friday not including bank holidays)
+  - **<a href="https://www.nationalcounsellingsociety.org" class="external-link" target="_blank" rel="noopener noreferrer">National Counselling Society</a>**
+  - **<a href="https://www.psychotherapy.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">UK Council for Psychotherapy</a>**
 - **Sexual & Relationship Therapy:**
-  - **BACP**: 01455 883 300, [www.bacp.co.uk](https://www.bacp.co.uk)
-  - **College of Sexual and Relationship Therapists**: 020 8543 2707, [www.cosrt.org.uk](https://www.cosrt.org.uk)
-- Urgent support: **Samaritans** 116 123, [www.samaritans.org](https://www.samaritans.org)
+  - **<a href="https://www.bacp.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">British Association for Counselling and Psychotherapy (BACP):</a>** Telephone: 01455 883 300 (9am – 5pm, Monday – Friday not including bank holidays)
+  - **<a href="www.cosrt.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">College of Sexual and Relationship Therapists:</a>** Telephone: 020 8543 2707
+
+
 
 ### Travel
 
