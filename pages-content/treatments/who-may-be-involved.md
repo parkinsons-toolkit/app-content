@@ -163,7 +163,7 @@ Note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, th
 ### Speech & Language Therapists (SLTs)
 
 - Healthcare professionals that are trained in issues with communication and swallowing.
-- They must be registered with the _Health and Care Professions Council (HCPC)_ to work in the UK.
+- They must be registered with the Health and Care Professions Council (HCPC) to work in the UK.
 - The role can be to:
   - Diagnose and assess problems with communication or swallowing.
   - Give treatment and teach strategies to deal with this
@@ -262,7 +262,7 @@ In the UK, there is a split between **_Healthcare_** (National Health Service, N
   - Carers coming to your home to help you wash and dress
   - Supported living environments
   - Assistance with home adaptations
-- There are some cases where provision for social care needs are covered by the NHS. This is known as _Continuing Healthcare (CHC)_. Please see the Finances page for more information.
+- There are some cases where provision for social care needs are covered by the NHS. This is known as _Continuing Healthcare (CHC)_. Please see the <a href="/learn/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page for more information.
 
 ## Private Healthcare
 
