@@ -126,7 +126,6 @@ As research evolves, we will learn more, and understanding these research princi
 --
 
 ## New Drug and Treatment Trials
-
 There are lots of drug and treatment trials taking place in Parkinson’s disease today! Some studies aim to improve current treatments, while others focus on discovering new treatments or potential cures. As Parkinson’s affects everyone differently, it is likely that no single treatment will work for all patients.
 
 Scientists are exploring a wide range of treatment options to slow down or stop the progression of Parkinson’s. The graphic to the side represents the various research directions being explored. Several boxes are left blank to show that the list is not exhaustive – new treatment options are emerging quickly.
@@ -141,7 +140,6 @@ For more inofrmation on Stem Cell Therapy:
 While trials are still ongoing to better understand how effective it is, the CUE1 device, unlike most products still being researched, can be bought privately – there is currently a waiting list.
 
 ### Useful Resources to Stay Updated on the Latest Research
-
 <a href="https://www.parkinsons.org.uk/research" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> offers a wealth of information on what causes Parkinson’s and the latest research developments. You can explore sections on the underlying science as well as updates on new studies.
 
 Below is a picture to represent the range of avenues scientists are taking to explore treatment options that can help stop Parkinson’s disease progressing. Several boxes have been left blank as this is by no means all-inclusive and new avenues are developing quite quickly:
