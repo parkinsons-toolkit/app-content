@@ -459,7 +459,7 @@ You might want to plan for the future, sometimes known as advance care planning.
 - _**Advanced Statement:**_ This is a written statement that sets down your preferences, wishes, beliefs and values about your future care.
 - _**Planning for end of life:**_ The person with Parkinson’s may wish to put their affairs, in order to feel reassured that their wishes are known. This can involve making wills, LPAs and/or Advance Decision. In Scotland this is known as an Advanced Directive, and used to be called a Living Will. The person with Parkinson’s might also want to consider what would be a ‘good death’ for them, in terms of feeling at peace. They might wish to consult palliative care services, which can be accessed through the GP or Parkinson’s nurse.
 
-Further information can be found in the _Legal, End of life and Future Care_ pages.
+Further information can be found in the _Planning and Future Care_ pages found within the <a href="/learn/living-with-parkinsons" class="internal-link">_Living with Parkinson's_</a> section.
 
 _**Tips for coping with the future:**_
 
