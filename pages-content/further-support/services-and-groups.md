@@ -104,56 +104,59 @@ ealth and Social Care services are monitored by the Care Quality Commission (CQC
 
 ### Home Care
 ‘Home Care’ refers to support for personal tasks such as showering, dressing and preparing meals. 
-- This may be provided or part-provided by local councils. This will depend on your circumstances. Contact your local council Adult Social Care department for an assessment. They should be able to offer advice even if not providing Home Care. 
-•	The **<a href="https://www.nhs.uk/service-search/other-services/Care-at-home/LocationSearch/1833/" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a>** has a service directory to search by location. 
-•	You could also try calling the United Kingdom Homecare Association (UKHCA) on 020 8661 8188 or use their **<a href="https://service directory" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a>**.
-•	**Which? Later Life Care** also has an online <a href="https://www.which.co.uk/later-life-care/care-services-directory" class="external-link" target="_blank" rel="noopener noreferrer">Care Services Directory</a> to search by location. 
-•	You could use a Broker or Introductory Care Agency. These help you find the Home Care Worker, but you still directly employ them. Find out more on the <a href="https://www.parkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Which? Later Life Care </a>.
+
+This may be provided or part-provided by local councils. This will depend on your circumstances. Contact your local council Adult Social Care department for an assessment. They should be able to offer advice even if not providing Home Care. 
+
+- The **<a href="https://www.nhs.uk/service-search/other-services/Care-at-home/LocationSearch/1833/" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a>** has a service directory to search by location.
+- You could also try calling the United Kingdom Homecare Association (UKHCA) on 020 8661 8188 or use their **<a href="https://service directory" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a>**.
+- **Which? Later Life Care** also has an online <a href="https://www.which.co.uk/later-life-care/care-services-directory" class="external-link" target="_blank" rel="noopener noreferrer">Care Services Directory</a> to search by location.
+- You could use a Broker or Introductory Care Agency. These help you find the Home Care Worker, but you still directly employ them. Find out more on the <a href="www.which.co.uk/later-life-care/home- care/organising-home-care/introductory- care-agencies-and-service-brokers-al6z49k4pv1h" class="external-link" target="_blank" rel="noopener noreferrer">Which? Later Life Care 'something' page</a>.
 
 ### Home Help
 ‘Home Help’ refers to support for domestic tasks such as laundry, washing up and cleaning. 
 
 This is not usually provided by local councils. Many charities offer these services, though there may be a charge. For example: 
-- **Royal Voluntary Service**: 0808 196 3646, [www.royalvoluntaryservice.org.uk](https://www.royalvoluntaryservice.org.uk/our-services/supporting-people)- **British Red Cross**: 0344 871 1111, [www.redcross.org.uk](https://www.redcross.org.uk/get-help/get-support-at-home)
-- **Age UK**: 0800 678 1602, [www.ageuk.org.uk/services/in-your-area/home-help](https://www.ageuk.org.uk/services/in-your-area/home-help/)
+- **<a href="www.royalvoluntaryservice.org.uk/ourservices/supporting-people" class="external-link" target="_blank" rel="noopener noreferrer">Royal Voluntary Service:</a>** 0808 196 3646 (line open 8am to 8pm)
+- **<a href="https://www.redcross.org.uk/get-help/get-support-at-home" class="external-link" target="_blank" rel="noopener noreferrer">British Red Cross:</a>** 0344 871 1111 (there are also telephone numbers by region available on the website)
+- **<a href="https://www.ageuk.org.uk/services/in-your-area/home-help/" class="external-link" target="_blank" rel="noopener noreferrer">Age UK:</a>** 0800 678 1602 (line open 8am to 7pm) - Different services are offered in different regions. You can enter your postcode to their website to see what is available locally.
 
 For more information and suggested resources check out these websites:
-- [HousingCare.org](https://www.housingcare.org/),
-- [Independent Age](https://www.independentage.org/get-advice/support-care/help-at-home/getting-extra-help-at-home)
+- <a href="https://www.housingcare.org/" class="external-link" target="_blank" rel="noopener noreferrer">HousingCare.org</a>
+- <a href="https://www.independentage.org/get-advice/support-care/help-at-home/getting-extra-help-at-home" class="external-link" target="_blank" rel="noopener noreferrer">Independent Age</a>
 
 ### Occupational Therapy
 - Ask your GP or Parkinson’s team about a referral to NHS services.
-- To look for a private OT, look at the British Association and Royal College of Occupational Therapists 
-
-- Private OT: [Royal College of Occupational Therapists](https://www.rcot.co.uk), 020 7357 6480
+- To look for a private OT, look at the <a href="https://www.rcot.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">British Association and Royal College of Occupational Therapists</a> (Telephone: 020 7357 6480).
 
 ### Physiotherapy
-
-- NHS referral via GP or Parkinson’s team.
-- Workplace options: ask HR, manager, or OH.
-- Private physiotherapist: [Chartered Society of Physiotherapy](https://www.csp.org.uk/), 020 7306 6666
+- Ask your GP or Parkinson’s team about a referral to NHS services.
+- Physiotherapy may be available through your workplace: ask your manager, HR or OH.
+- To look for a private physiotherapist, look at the <a href="www.csp.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Chartered Society of Physiotherapy (CSP)</a> (Telephone: 020 7306 6666).
 
 ### Speech & Language Therapy
-
-- NHS referral via GP or Parkinson’s team.
-- Private therapist: [ASLTIP](https://www.asltip.com/), 020 3002 3704
+- Ask your GP or Parkinson’s team about a referral to NHS services.
+- To look for a private speech & language therapist: try the <a href="www.asltip.com/" class="external-link" target="_blank" rel="noopener noreferrer">Association of Speech and Language Therapists in Independent Practice</a> (Telephone: 020 3002 3704).
 
 ### Dietitian
-
-- NHS referral via GP or Parkinson’s team.
-- Private dietitian: [Association of UK Dietitians](https://www.bda.uk.com/about-dietetics/find-a-dietitian-near-me.html), 0121 200 8080
+- Ask your GP or Parkinson’s team about a referral to NHS services.
+- To look for a private dietitian try the <a href="www.bda.uk.com/about-dietetics/find-a-dietitian-near-me.html" class="external-link" target="_blank" rel="noopener noreferrer">Association of UK Dietitians</a> (Telephone: 0121 200 8080). 
 
 ### Psychological Therapy
+- Ask your GP or Parkinson’s team about a referral to NHS services (e.g., IAPT services).
+- Some employers provide free therapy or counselling for their employees.
 
-- NHS: referral via GP (e.g., IAPT services).
-- Private CBT:
-  - **BPS Directory**: 0116 254 9568, [www.bps.org.uk](https://www.bps.org.uk/public/find-psychologist)
-  - **BABCP**: 01455 883 300, [www.babcp.com](https://www.babcp.com)
-- Counselling:
+**Private sector:**
+- **Cognitive Behavioural Therapy** 
+  - **<a href="www.bps.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">British Psychological Society’s (BPS) Directory of Charted Psychologists:</a>** Telephone: 0116 254 9568 (9am – 5pm, Monday – Friday not including bank holidays) 
+  - **<a href="www.babcp.com" class="external-link" target="_blank" rel="noopener noreferrer">British Association for Behavioural and Cognitive Psychotherapies (BABCP):</a>** Telephone: 01455 883 300 (9am – 5pm, Monday – Friday not including bank holidays)
+- **Counselling:**
+  - **<a href="www.babcp.com" class="external-link" target="_blank" rel="noopener noreferrer">British Association for Counselling and 
+Psychotherapy (BACP) 
+:</a>**
   - **BACP**: 01455 883 300, [www.bacp.co.uk](https://www.bacp.co.uk)
   - **National Counselling Society**: [www.nationalcounsellingsociety.org](https://www.nationalcounsellingsociety.org)
   - **UK Council for Psychotherapy**: [www.psychotherapy.org.uk](https://www.psychotherapy.org.uk)
-- Sexual & Relationship Therapy:
+- **Sexual & Relationship Therapy:**
   - **BACP**: 01455 883 300, [www.bacp.co.uk](https://www.bacp.co.uk)
   - **College of Sexual and Relationship Therapists**: 020 8543 2707, [www.cosrt.org.uk](https://www.cosrt.org.uk)
 - Urgent support: **Samaritans** 116 123, [www.samaritans.org](https://www.samaritans.org)
