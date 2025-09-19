@@ -11,8 +11,7 @@ Here we offer some guidance on what sort of support is out there. We also indica
 ## General Resources
 
 ### Your Parkinson’s team or your GP
-
-- _Note you can record their contact details in the About Me section._
+- _Note you can record their contact details in the <a href="/learn/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section._
 - They are available to help with health-related issues and can direct you to other services in the area.
 - Your Parkinson’s team should know if there are any support groups connected with the hospital. They may know about support groups outside the hospital too.
 - If you can’t get through to the team you know health advice is available via the NHS 111 telephone service, <a href="111.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS 111 online</a> downloading the NHS App or using the <a href="www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a>. However please note that the call handler is not usually a clinician and may not have much experience of Parkinson’s. 
@@ -156,27 +155,40 @@ For more information and suggested resources check out these websites:
   - **<a href="https://www.bacp.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">British Association for Counselling and Psychotherapy (BACP):</a>** Telephone: 01455 883 300 (9am – 5pm, Monday – Friday not including bank holidays)
   - **<a href="www.cosrt.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">College of Sexual and Relationship Therapists:</a>** Telephone: 020 8543 2707
 
-
+- If you need to talk to someone urgently the <a href="www.samaritans.org/" class="external-link" target="_blank" rel="noopener noreferrer">Samaritans</a> telephone line is open 24 hours a day.
+- Note this is not therapy but there is someone to talk to: Telephone: 116 123 There are more helplines available on our Anxiety and Depression pages.
+- Some charity sector providers offer counselling:
+  - <a href="www.mind.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Mind</a> for mental health problem
+  - <a href="www.cruse.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Cruse</a> for bereavement care
+  - <a href="www.relate.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Relate</a> for relationship counselling
 
 ### Travel
-
-- **Driving**: DVLA, 0300 790 6806, [www.gov.uk/dvla](https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency)
-- **Rail travel**: 0345 605 0525, [Disabled Persons Railcard](https://www.disabledpersons-railcard.co.uk/)
-- **Toilet key**: Disability Rights UK, 0330 995 0400, [www.disabilityrightsuk.org](https://www.disabilityrightsuk.org/)
-- **Motability**: 0300 456 4566, [www.motability.co.uk](https://www.motability.co.uk/)
+- **Driving**:
+  - <a href="www.gov.uk/dvla" class="external-link" target="_blank" rel="noopener noreferrer">Driving and Vehicle Licensing Agency (DVLA)</a> - Phone for DVLA drivers' medical enquiries: 0300 790 6806
+- **Rail travel**:
+  - <a href="https://www.disabledpersons-railcard.co.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Disabled Persons Railcard</a> - Telephone: 0345 605 0525
+- **Toilet key**:
+  - <a href="https://www.disabilityrightsuk.org/" class="external-link" target="_blank" rel="noopener noreferrer">Disability Rights UK</a> - Telephone: 0330 995 0400
+- **Cars, scooters or wheelchairs with adaptations:**
+  - <a href="https://www.motability.co.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Motability</a> - Telephone: 0300 456 4566
 
 ---
 
 ## Accessing Private Services
+Information about what is provided on the NHS is available on the <a href="www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a>. If you would like to pursue private services, do check out our tips on the <a href="/learn/treatments/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page. In most cases, to access private services and have this paid under insurance, you still need a referral from your GP. 
 
-- Check NHS information first: [www.nhs.uk](https://www.nhs.uk)
-- Referral from GP often required for insurance coverage.
-- Private healthcare does **not affect your NHS rights**.
-- Tips for choosing a private provider:
-  - Confirm the correct profession (dietitian vs nutritionist, psychologist vs psychotherapist vs psychiatrist).
-  - Check specialist expertise.
-  - Ensure provider is registered; review CQC reports ([www.cqc.org.uk](https://www.cqc.org.uk)).
-  - Professional Standards Authority maintains accredited voluntary registers for non-legal professions.
+Accessing private healthcare does not stop your right to NHS healthcare, but they must be separate. 
+
+The NHS does not subsidise private healthcare. 
+
+**Tips for choosing a private service:**
+- Ensure they are the profession that you are seeking, for example: Dietitians and nutritionists are not the same; Psychologists, psychotherapists and psychiatrists are not the same. (See details of professional roles on the <a href="/learn/treatments/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page).
+- Look up the expertise of the provider. For example, does a private doctor have specialist expertise in Parkinson’s?
+- Check that the provider is registered.
+  - Most healthcare providers are legally required to be registered with a regulatory body as detailed on the<a href="/learn/treatments/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page.
+- The Professional Standards Authority holds a list of accredited voluntary registers which they have independently assessed against their own standards. They cover professions that are not regulated by law, such as psychotherapists.
+  - Review the reports for the provider by the <a href="www.cqc.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Care Quality Commission (CQC)</a>
+  - Some professionals work across both NHS and private services whereas others just work in one. 
 
 ```
 
