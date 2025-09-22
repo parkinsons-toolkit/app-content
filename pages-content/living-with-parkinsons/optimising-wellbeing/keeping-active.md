@@ -38,7 +38,7 @@ Different people will reach this with different activities. This will change ove
 
 Everyone with Parkinson’s should be considered for referral to physiotherapy. This is even if you do not have trouble with symptoms. It can be helpful to tailor the recommendations about activity for you.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/couple-stretch.jpg" alt="example-alt-text" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/couple-stretch.jpg" alt="couple-stretching" class="example-class">
 
 ---
 
