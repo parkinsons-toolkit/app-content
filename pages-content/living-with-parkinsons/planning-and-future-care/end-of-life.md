@@ -95,6 +95,7 @@ There can be practical difficulties in moving to a new place of care if someone 
   - For some people, it doesn’t feel like home. o Some people have negative associations with care homes.
 - Care homes allow planned visits so you or your family could look around to help make this decision. 
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/end-of-life.jpg" alt="hospice-bed" class="example-class">
 
 ### Hospice
 - Hospices are places that provide specialist care. They support people with a life-limiting or terminal illness. The focus is on improving quality of life.
