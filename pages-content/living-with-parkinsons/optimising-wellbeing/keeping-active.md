@@ -177,6 +177,9 @@ Think about what motivates you, and how you can embrace that in keeping active.
   - A scheduled TV programme
   - Waiting for a kettle to boil
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/routine.jpg" alt="routine" class="example-class">
+
+
 This gives an anchor: each time that part of your routine happens, you also undertake the activity. This makes you more likely to remember to do it regularly.
 
 - You could plan when you are going to undertake the activity and set a prompt. You could add the activity to your <a href="/learn/my-tracker" class="internal-link">_My Tracker_</a> and tick it off when done. Within this site, or through other devices, you could set a reminder.
