@@ -43,6 +43,9 @@ See our <a href="/learn/managing-symptoms/five-senses" class="internal-link">5 S
 
 ### Why can it be difficult for people with Parkinson’s?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/writing.jpg" alt="writing" class="example-class">
+
+
 You may find writing more difficult if you experience:
 
 - Slower movement of hands
@@ -147,6 +150,9 @@ If using a computer or the internet feels overwhelming, there are training cours
 - Tremor
 - Softer voice may make it more difficult to be heard
 - Decreased stamina for holding the phone
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/showing-phone.jpg" alt="phone" class="example-class">
+
 
 ### What can I try for myself?
 
