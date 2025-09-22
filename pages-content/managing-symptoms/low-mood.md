@@ -259,6 +259,9 @@ Your healthcare professional may be able to give you more specific advice about 
 - **Cognitive Behavioural Therapy (CBT):** CBT aims to help you understand how your feelings, thoughts, and behaviour influence each other. Your therapist will aim to teach you skills in identifying and overcoming ‘unhelpful’ or negative thoughts to help you cope better and reduce symptoms of depression. CBT typically involves a course of weekly sessions and may be delivered by a clinical psychologist, psychiatrist, or specially trained nurse. For people with milder depression, treatment can be done via computer from your own home with support from a mental health care professional. CBT for depression will include looking to help associated problems such as sleep, lack of physical activity, and social isolation. CBT is available on the NHS by <a href="https://www.nhs.uk/service-search/find-a-psychological-therapies-service/" class="external-link" target="_blank" rel="noopener noreferrer">self-referral</a> or through your GP.
 - **Other therapies:** While CBT is the most commonly offered therapy, other therapies might also be available and recommended. A wide range of other therapies exist. The <a href="https://www.bacp.co.uk/about-therapy/types-of-therapy/" class="external-link" target="_blank" rel="noopener noreferrer">British Association for Counselling and Psychotherapy (BACP)</a> has an A-Z of therapies, which explains what they are. You can talk to your GP or NHS psychological therapy service about other types of therapy available in your area.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/talking-therapy.jpg" alt="talking-therapy" class="example-class">
+
+
 ### Medication
 
 - Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication.
