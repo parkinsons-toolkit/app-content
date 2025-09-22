@@ -213,7 +213,7 @@ People affected by Parkinson’s describe their experiences.
 
 Also see the <a href="/learn/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a> and <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> pages for more tips.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/rail-from-housing" alt="grab-rails" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/rail-from-housing.jpg" alt="grab-rails" class="example-class">
 
 
 ### Bed & Mattress Equipment
