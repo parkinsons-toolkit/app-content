@@ -40,6 +40,9 @@ Connecting with others can give you a sense of belonging and reduce loneliness, 
 - **Use the internet and social media:** If you are not already doing this, the internet offers many ways to stay connected, from staying in touch with family to finding local events. You can re-connect with old friends using social network sites (e.g. Facebook) or connect with younger family members using their favourite social media App (e.g. Snapchat). You could create a ‘group chat’ for family or friends using a messaging App (e.g. WhatsApp). You could also use online forums to find people with similar interests. If you would like to learn how to use a computer, contact your local library or council. Or contact Age UK, who offer local training sessions.
 - **If you are feeling very lonely**, there are services that can help. Most GP practices now have access to a link worker. This person can help you to find something that suits you to help with feeling lonely. You can ask your GP practice reception about this. Some areas have services to connect you to volunteers who can help too. You can also call <a href="https://www.thesilverline.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">The Silver Line</a> on 0800 4 70 80 90, which is a confidential service open 24 hours a day, 7 days a week. It is designed to offer conversation, friendship, provide advice and link callers to local groups or services.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/lady-child-ball.jpg" alt="lady-child" class="example-class">
+
+
 ### Practical tips
 
 <div class="video-container">
