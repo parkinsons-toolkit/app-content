@@ -93,7 +93,7 @@ If you are experiencing sleep disturbance, see the <a href="/learn/managing-symp
 
 ### Relaxation
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/main/images/relaxing-mindful.jpg" alt="relaxing" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/relaxing-mindful.jpg" alt="relaxing" class="example-class">
 
 
 Doing something relaxing can help to reduce stress and improve your mental wellbeing. Although life can be busy, it is important to try to do things you enjoy. This might be listening to music, reading a book, going for a walk, or getting creative by painting or colouring. You might try to carve out a regular time or times in your daily routine for a relaxation activity.
