@@ -22,6 +22,8 @@ Most people with Parkinson’s who experience dystonia have ‘secondary’ dyst
 
 Some people with Parkinson’s notice dystonia when their medication levels are low. This may be at the end of the day, or in between doses. It could be early in the morning before they have taken any medications. They may have dystonia when their medication levels are at the highest in their bodies, but this is less common.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/cramp.jpg" alt="cramp" class="example-class">
+
 ---
 
 ## What should I do about it?
