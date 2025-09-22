@@ -216,6 +216,9 @@ Parkinson’s doesn’t tend to make people gain weight, but there are few reaso
 - Ensure ½ your plate is vegetables/salad, ¼ lean protein and ¼ wholemeal or low GI carbohydrate
 - Avoid very low calorie diets as this can contribute to decreased energy levels
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/food-fibre.jpg" alt="example-alt-text" class="example-class">
+
+
 ---
 
 ## Supplements
@@ -289,6 +292,10 @@ There has been a lot of interest in supplements as a way of slowing down Parkins
 ## Understanding Food Groups
 
 You can learn more about the five food groups below by exploring the <a href="https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Eatwell Guide</a>.
+
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/eat-well-guide.jpg" alt="example-alt-text" class="example-class">
+
 
 ### Fruit/Vegetables
 
