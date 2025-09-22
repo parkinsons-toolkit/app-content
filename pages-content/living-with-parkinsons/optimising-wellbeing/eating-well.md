@@ -100,8 +100,6 @@ Constipation is a common symptom experienced by people with Parkinson’s. It ca
 
 _See the <a href="/learn/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a> page for more details._
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/main/images/food-fibre.jpg" alt="Fibrous food" class="example-class">
-
 ---
 
 ## Diet and low blood pressure
