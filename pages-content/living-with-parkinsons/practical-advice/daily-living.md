@@ -213,8 +213,6 @@ People affected by Parkinson’s describe their experiences.
 
 Also see the <a href="/learn/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a> and <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> pages for more tips.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/rail-from-housing.jpg" alt="grab-rails" class="example-class">
-
 
 ### Bed & Mattress Equipment
 
@@ -318,6 +316,9 @@ As well as usual off-the-shelf lidded cups, there are other specialised designs 
 
 - **Key turner**: A key turner is a handle that attaches to your keys and provides easier grip and leverage for turning keys.
 - **Key safe**: This is a small secure box, fitted to a wall outside the front door to hold the keys to your home. It requires a code to access: you choose whom to give the code to. This can be very useful as multiple sets of keys do not need to be provided to family members or healthcare professionals. It will also allow people to access the house in case of an emergency.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/rail-from-housing.jpg" alt="grab-rails" class="example-class">
+
 
 ### Alarms and Security
 
