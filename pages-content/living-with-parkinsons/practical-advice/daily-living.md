@@ -213,6 +213,9 @@ People affected by Parkinson’s describe their experiences.
 
 Also see the <a href="/learn/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a> and <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> pages for more tips.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/rail-from-housing" alt="grab-rails" class="example-class">
+
+
 ### Bed & Mattress Equipment
 
 These make it easier to get in and out of bed or to reposition in bed. Note ‘grab rails’, fixed to the wall, are discussed within _adaptations_ on the <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page. The height of your bed affects how easy it is to push yourself off the bed or to sit down. The ideal height of the bed surface depends on how tall you are, but many people find raising the bed or mattress helps.
