@@ -67,7 +67,7 @@ Many factors affect blood pressure. It varies between people and is constantly c
 
 Low blood pressure does not always require treatment but may do if you are experiencing symptoms. See the <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page for more information. Treatment of any other cause, like infection, is also important.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blood-pressure-machiene" alt="blood-pressure-machiene" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blood-pressure-machine" alt="blood-pressure-machine" class="example-class">
 
 
 ### Parkinson’s and blood pressure
