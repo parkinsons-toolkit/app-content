@@ -34,7 +34,7 @@ _Note_: The `target="_blank" rel="noopener noreferrer` makes sure the link opens
 
 Images can be stored in `./images` and inserted into the markdown files directly with:
 
-`<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/main/images/linked-image-name.png" alt="example-alt-text" class="example-class">`
+`<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/linked-image-name.png" alt="example-alt-text" class="example-class">`
 
 The branch name in the image URL will automatically be replaced with either `main` or `dev` during the web application runtime.
 
