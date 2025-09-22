@@ -45,6 +45,9 @@ At times your Parkinson’s might affect your ability to enjoy your hobbies. Thi
 
 There are many reasons why it’s important to maintain a hobby or find a new one. For example, it gives you a chance to socialise with other people who may have similar interests. It also provides a mental escape and an opportunity to take a break from daily tasks. Doing something you enjoy has been shown to reduce stress and benefit your wellbeing.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/tennis.jpg" alt="tennis" class="example-class">
+
+
 There are several tips that may help you to continue with different hobbies:
 
 ### Plan ahead
@@ -131,6 +134,8 @@ Anyone who has a pet, will know that pets become an integral part of a family. W
 - **Improved wellbeing** — Research has shown that having a pet is linked to reduced depression and improved wellbeing. Making sure that a pet is well cared for everyday can be very rewarding and also a reminder to look after yourself.
 - **Increased activity** — Pets will almost always encourage you to be more active. The increased activity may just be an extra trip downstairs to let the cat out in the morning or a jog around the park with the dog. Regular exercise is linked to improved symptoms in people living with Parkinson’s.
 - **Service dogs** — Dogs can be trained to help owners with Parkinson’s symptoms (e.g. helping you to keep balance). Service dogs can also alert other people if you have an accident at home. See <a href="https://www.assistancedogs.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Assistance Dogs UK</a> for guidance on how to apply for a service dog. You can find more details and resources at the bottoms of this page.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/man-with-dog.jpg" alt="man-and-dog" class="example-class">
 
 ---
 
