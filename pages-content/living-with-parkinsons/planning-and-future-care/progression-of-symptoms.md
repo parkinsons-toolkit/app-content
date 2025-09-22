@@ -38,10 +38,10 @@ It is normal to feel grief. It is helpful to acknowledge your grief. Understandi
 
 ---
 
-## My Experience\*
+## My Experience
 
 > “The more I said, ‘Parkinson’s is doing this,’ you may be more angry and frustrated. But to be able to think that it’s a disease and I’m living with it and I have to go and change my life around it, you sort of understand that I have to accept that, because it’s not going to go away. It’s going to stay there. So it’s better for me to deal with it like that.”
->
+> 
 > _Person with Parkinson’s_
 
 <div class="video-container">
@@ -75,21 +75,23 @@ But generally, over time, symptoms tend to change:
 
 ### What can be done
 
-- Speak with your Parkinson’s specialist team:
-  - Adjust medications or add new ones
-  - Consider options such as:
-    - Apomorphine injections
-    - Deep Brain Stimulation (DBS)
-    - Intestinal medication delivery via a tube
-- If no medical or surgical option helps, adapting to unpredictable symptoms may be necessary
-- For daily activity difficulties, request a referral to an Occupational Therapist
+Speak with your Parkinson’s specialist team:
+- There may be adjustments to medication that could help, or the addition of new medications.
+- Depending on your circumstances, there may be other options, such as:
+  - Medication by injection, ‘apomorphine’ - see the see our <a href="/learn/treatments/medications" class="internal-link">_Medications_</a> page for more information.
+  - More invasive options such as Deep Brain Stimulation – see our <a href="/learn/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page for more information.
+  - An operation to put a tube into your gut, so that medication can be given directly into your digestive system – see our <a href="/learn/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page for more information. 
+
+However, there may not be any suitable medical or surgical way to improve the pattern of your condition. This means that adapting to deal with the unpredictable symptoms may be required. Many find this hard. 
+ 
+If the symptoms are affecting your ability to undertake daily activities or tasks, then you can speak to your GP. You can ask them to refer you to an Occupational Therapist who may be able to recommend strategies, equipment or support to help you deal with these difficulties. 
 
 ---
 
 ## My Experience\*\*
 
 > “I did try to keep a diary about the Parkinson’s… because I thought when I go back to the Parkinson’s clinic I could look back and say last week he was like this. It can help see changes, and get help.”
->
+> 
 > _(Carer of someone with Parkinson’s)_
 
 ---
@@ -107,11 +109,11 @@ But generally, over time, symptoms tend to change:
 
 ### What can be done
 
-- See your GP or Parkinson’s specialist team for assessment. Assessments may be conducted by a specialist service, often called a Memory Clinic.
+- See your GP or Parkinson’s specialist team for assessment. Assessments may be conducted by a specialist service, often called a _Memory Clinic_.
 - There are medication options that have been shown to improve symptoms in dementia. These are generally started by a Parkinson’s specialist or a dementia specialist.
 - Memory clinic services vary by area. They will generally have support services connected to them, or they can give you the details of services that can help you.
-- Day-to-day strategies for memory difficulties are discussed on the Thinking & Remembering page.
-- **Prepare:** over time dementia can affect a person’s ability to make decisions. If someone no longer has the ‘mental capacity’ to make decisions about their care, then decisions will be made on their behalf. Prepare by thinking ahead and making your wishes known. You can record your wishes in advance or appoint someone to take decisions for you. See the Future Care Options for things to consider, and the Legal Matters page for the formal process.
+- Day-to-day strategies for memory difficulties are discussed on the <a href="/learn/managing-symptoms/thinking-concentration-and-memory" class="internal-link">_Thinking, Concentration & Memory_</a> page.
+- **Prepare:** over time dementia can affect a person’s ability to make decisions. If someone no longer has the ‘mental capacity’ to make decisions about their care, then decisions will be made on their behalf. Prepare by thinking ahead and making your wishes known. You can record your wishes in advance or appoint someone to take decisions for you. See the <a href="/learn/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_Future Care Options_</a> page for things to consider, and the <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page for the formal process. 
 
 <div class="video-container">
 <iframe 
@@ -156,13 +158,14 @@ Swallowing problems are common in Parkinson’s but exist along a range of sever
 
 ### What can be done
 
-- Guidance for self-help strategies for less severe symptoms is on the Swallowing Difficulties page.
+- Guidance for self-help strategies for less severe symptoms is on the <a href="/learn/managing-symptoms/swallowing" class="internal-link">_Swallowing Difficulties_</a> page.
 - If you have not already done so, or if the situation has changed, talk to your GP about referral to a Speech & Language Therapist (SLT) for a further assessment.
 - If food or drink makes someone cough, encourage the cough to help clear the food or drink from the airway.
 - SLT’s may make recommendations. These may be changes in consistency of the food and drink you take in. Such changes are to reduce the risk of aspiration pneumonia.
-- There are medical options that could be used for artificial feeding and hydration. However, they do not remove the risk of saliva going down the wrong way. Artificial feeding and hydration comes with risks and tube insertion may be distressing.
+- There are medical options that could be used for artificial feeding and hydration. However, they do not remove the risk of saliva _going down the wrong way._ Artificial feeding and hydration comes with risks and tube insertion may be distressing.
 - Some people prefer to accept the risk of food or drink going down the wrong way, so continue to eat and drink by mouth.
-- More information on artificial feeding is on the Future Care Options page.
+- More information on artificial feeding is on the <a href="/learn/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_Future Care Options_</a> page. 
+
 
 ---
 
