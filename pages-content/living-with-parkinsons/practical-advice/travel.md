@@ -239,6 +239,9 @@ There are other transport options besides driving that offer travel schemes to h
   - You do not have arms or cannot use your arms
   - You struggle to walk very far because of a disability or illness
   - You are partially sighted or blind, deaf, or unable to speak
+ 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/bus.jpg" alt="bus" class="example-class">
+
 
 **<ins>Rail Travel</ins>**
 
@@ -323,6 +326,9 @@ Parkinson’s may make accessing toilets more difficult due to mobility or bladd
 - The key is called a **Radar Key** and can be purchased via the <a href="https://www.disabilityrightsuk.org/radar-keys?srsltid=AfmBOophjHsd-3Hg87Sw7Q3ebdt_t7h-HI0iKErqzf9-Pxg46jZt8qaK" class="external-link" target="_blank" rel="noopener noreferrer">Disability Rights UK</a> website.
 - The website also provides a regional list of participating toilets.
 - The <a href="/learn/managing-symptoms/urination" class="internal-link">_**Urinary Symptoms**_</a> pages may also be helpful for additional support.
+
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/toilet-sign.jpg" alt="toilet-sign" class="example-class">
 
 ---
 
