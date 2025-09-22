@@ -82,8 +82,6 @@ For all of these types of activity, make sure you warm up before undertaking mor
 
 To see what this might look like in real life, pick the person you most relate to. You can find targeted advice about keeping active for each person on the separate pages.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/Physio.jpg" alt="physio-exercise" class="example-class">
-
 ---
 
 ## Things to Consider in Parkinson’s
@@ -198,6 +196,9 @@ Options vary based on where you live. Someone with local knowledge of activities
 - Your community therapy teams (physiotherapy and occupational therapy)
 - A charity – for example Parkinson’s UK
 - Your Parkinson’s specialist team
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/Physio.jpg" alt="physio-exercise" class="example-class">
+
 
 ---
 
