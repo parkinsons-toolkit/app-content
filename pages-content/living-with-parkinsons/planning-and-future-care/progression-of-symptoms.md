@@ -166,7 +166,6 @@ Swallowing problems are common in Parkinson’s but exist along a range of sever
 - Some people prefer to accept the risk of food or drink going down the wrong way, so continue to eat and drink by mouth.
 - More information on artificial feeding is on the <a href="/learn/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_Future Care Options_</a> page. 
 
-
 ---
 
 ## Further Information & Support
