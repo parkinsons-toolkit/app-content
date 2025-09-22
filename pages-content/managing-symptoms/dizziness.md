@@ -37,6 +37,8 @@ Dizziness is seen in a range of other conditions, including inner ear problems (
 
 Symptoms that are not typical of dizziness related to Parkinson’s include: difficulty in hearing, ringing in your ears (tinnitus) and bad headaches.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dizzy.jpg" alt="dizzy" class="example-class">
+
 ---
 
 ## What should I do about it?
