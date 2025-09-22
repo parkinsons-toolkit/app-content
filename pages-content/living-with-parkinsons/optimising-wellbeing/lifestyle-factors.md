@@ -67,6 +67,9 @@ Many factors affect blood pressure. It varies between people and is constantly c
 
 Low blood pressure does not always require treatment but may do if you are experiencing symptoms. See the <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page for more information. Treatment of any other cause, like infection, is also important.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blood-pressure-machiene" alt="blood-pressure-machiene" class="example-class">
+
+
 ### Parkinson’s and blood pressure
 
 Parkinson’s is often linked to low blood pressure or varying blood pressure. Many people experience a drop in blood pressure when they change to a more upright position (i.e. going from sitting to standing). This is known as postural or orthostatic hypotension. For more information on this, see our <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page.
