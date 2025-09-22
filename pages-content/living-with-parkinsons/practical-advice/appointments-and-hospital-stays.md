@@ -36,6 +36,10 @@ Hospitals and GP surgeries should have interpretation services available. This w
 
 It is helpful to think about what you are expecting from the appointment. It is also helpful to think about any specific questions you wish to ask. Many people find it helpful to write them down. Appointment times can feel very short, and the healthcare professional will have questions to ask you. It is helpful to both understand each other’s expectations at the start. It may not be possible to cover everything in that one appointment. It is helpful to think if you can prioritise your concerns, perhaps by writing a numbered list.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gp-appointment.jpg" alt="appointment" class="example-class">
+
+
+
 ### What to bring?
 
 - Any medication you need to take during the time you will be at the appointment. Also some water to take them with.
@@ -108,6 +112,9 @@ Whichever way you go into hospital it is important for staff to know you have Pa
 - **Clothes & toiletries**: Bring your normal clothes to get dressed into if you are well enough or when leaving hospital. You may also want to bring your own pyjamas, dressing gown and well-fitting slippers. If staying overnight, you will also need toiletries e.g. toothbrush, toothpaste, soap, shampoo, flannel etc.
 - **Other items**: Visitors can be restricted in hospital wards, due to a risk of infection. To help with feeling lonely, some people like to bring photographs of their pet or close family or friends. It also helps to have a ‘smart’ device such as a smart phone or a tablet, you can use to see your family or friends. The staff can help you with using this if you are unfamiliar with using these.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hospital.jpg" alt="hospital" class="example-class">
+
+
 #### Sharing information
 
 When someone is going to stay in the hospital, personal and health information is recorded as a standard process. Accurate up-to-date information is essential to provide the best care. If an admission is planned, information may be asked in advance, but if it is unplanned, it will be asked on arrival. In addition to administrative details, expect to be asked about:
@@ -139,6 +146,9 @@ It is important for staff to know you have Parkinson’s and know your specific 
 ### Who’s who?
 
 You will probably encounter lots of different professionals during your hospital stay. See <a href="/learn/treatments-and-therapies/who-may-be-involved" class="internal-link">_Who May Be Involved_</a> for more guidance on roles but always feel free to ask.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/nurse.jpg" alt="nurse" class="example-class">
+
 
 ### Responsibilities you may still have outside hospital
 
