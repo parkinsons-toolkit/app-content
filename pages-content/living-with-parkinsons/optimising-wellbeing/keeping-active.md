@@ -84,6 +84,8 @@ To see what this might look like in real life, pick the person you most relate t
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/main/images/Physio.jpg" alt="physio exercise" class="exercise-image">
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/Physio.jpg" alt="example-alt-text" class="example-class">
+
 ---
 
 ## Things to Consider in Parkinson’s
