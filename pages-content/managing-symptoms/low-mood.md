@@ -27,6 +27,9 @@ Just because such feelings are common, it does not mean that they have to be acc
 
 A low mood which persists despite taking positive steps to help manage it can be a sign of depression. Depression is more intense and longer lasting than the short periods of low mood that anyone can experience from time to time. Depression can have the same features as low mood, plus others.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gloomy-waters.jpg" alt="looking-over-water" class="example-class">
+
+
 --
 
 ## Symptoms of depressions
