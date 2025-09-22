@@ -62,3 +62,24 @@ Benefits of Self-Management:
 
 - Understanding your condition can empower you to ask questions and be more involved in making decisions about your health.
 - Helps you to monitor your condition, know when to get help and who to speak to. This can give you a greater sense of control and cut down your appointments.
+
+## Making Changes & Keeping on Track
+
+Although everyone’s condition and circumstances are different, everyone has ups and downs. This can make it hard to ‘follow a plan’. There are different ways to approach this difficulty. 
+ 
+Tips to consider: 
+1.	**Think about what is important to you:** Focus on things that are important to you to keep you motivated. 
+2.	**Break it down:** If a task or ambition feels big, break it down into a series of smaller steps. 
+3.	**Set a realistic target or aim:** This is like making a New Year resolution. It should be specific and something you can achieve, so that you feel encouraged when you meet it. 
+4.	**Work with your body:** Try to use the good times and don’t be too hard on yourself during the difficult times. If symptoms are getting in the way, read the symptom pages for tips on managing them. 
+5.	**Record progress:** Some people find it helpful to keep a log of what they are doing. 
+- You could add your planned actions in <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders & Notes_</a> and check it off when completed.
+- You could enter your activities to the <a href="/learn/my-tracker" class="internal-link">_My Tracker_</a> to keep a record. 
+This can also help you see which times are better for you than others. 
+6.	**Reflect:** If something is not going as you’d hoped, think about why. What could you do differently? You might need to break it down into even smaller steps to make progress. 
+7.	**Reward:** If it’s going well, reward yourself. 
+8.	**Forming a habit:** If you want to do something on a regular basis, you want to make it automatic, like a habit. This takes persistence over time. For most people it takes about 3months for a regular activity to become a habit. To help:
+- You could try associating the task with something that is already part of your routine, like brushing your teeth, or watching a scheduled TV programme. This gives an anchor. 
+ 
+The <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a> section in your manual will guide you through this process. 
+
