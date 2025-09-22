@@ -1,5 +1,4 @@
 # Preparing for End of Life
-
 Regardless of health conditions, for many people, the thought of dying is wrapped up in fear and uncertainty. Attitudes are influenced by culture, religion, family and our life experiences. 
 
 If you are ready to think about your future, there are some things you can think about now. These can be a positive and empowering way to prepare. 
@@ -71,7 +70,6 @@ The <a href="/learn/living-with-parkinsons/practical-advice/housing" class="inte
 There can be practical difficulties in moving to a new place of care if someone is dying. Understanding preferences can help to plan for it where possible. When making such decisions it is helpful to know what **Palliative Care** services are and what they can offer. 
 
 ### Own home or home of a loved one
-
 - There are services available to help support care at home at the end of life.
 - Services may have different options for end of life care compared to earlier in life.
 - Equipment can be supplied or recommended to support staying at home.
@@ -87,7 +85,6 @@ There can be practical difficulties in moving to a new place of care if someone 
   - Some people feel lonely if they live alone. 
 
 ### Care home
-
 - Many nursing homes have experience of caring for people at the end of life.
 - Sometimes 	additional 	specialist 	support 	is offered by a community Palliative Care team.
 - Some people prefer this option:
@@ -100,7 +97,6 @@ There can be practical difficulties in moving to a new place of care if someone 
 
 
 ### Hospice
-
 - Hospices are places that provide specialist care. They support people with a life-limiting or terminal illness. The focus is on improving quality of life.
 - They are primarily charity-funded care, and are a limited resource.
 - Some people prefer this option. The advantages are:
@@ -113,7 +109,6 @@ There can be practical difficulties in moving to a new place of care if someone 
 - You can visit most hospices to help make this decision. 
 
 ### Hospital
-
 - Many people spend the end of their life in hospital.
 - Many hospitals try to allocate a single room where possible when someone is at the end of life, but this is not always possible.
 - Some people prefer this option:
@@ -190,15 +185,13 @@ After the death of someone there are a number of tasks that will need to be comp
 ### Organ and Tissue Donation
 - Many people are in need of organ transplants or tissues.
 - The NHS have a register for those who are willing to donate their organs and tissues after their death.
-- You can join this register when you register with a GP, apply for a driving licence, or by contacting them directly: organdonation.nhs.uk
+- You can join this register when you register with a GP, apply for a driving licence, or by contacting them directly: <a href="https://www.organdonation.nhs.uk/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.organdonation.nhs.uk/</a>
 - You should also discuss your wishes with your loved ones as they would be contacted about it. 
 
 ## Donation to medical science
-- You can arrange to leave your body for medical research or training.  
-  See: [Human Tissue Authority – Body Donation](https://www.hta.gov.uk/donating-your-body)
-- Parkinson’s research may involve studying the brains of people who had Parkinson’s after death.
-- Parkinson’s UK supports a **Brain Bank** at Imperial College London.  
-  More info: [Parkinson’s UK Brain Bank](https://www.parkinsons.org.uk/research/donate-your-brain)
+- You can arrange to leave your body for medical science: that is for research or training. For more information go to  <a href="https://www.hta.gov.uk/guidance-public/body-organ-and-tissue-donation/body-donation-medical-schools" class="external-link" target="_blank" rel="noopener noreferrer">HTA (Human Tissue Authority) – Body Donation</a>.
+- Much research into Parkinson’s is ongoing. Some research looks at the bodies of people who had Parkinson’s after they have died to help understand the condition better
+- The charity Parkinson’s UK support a Brain Bank dedicated to Parkinson’s research, based at Imperial College London. For more information, see the <a href="https://www.parkinsons.org.uk/research/parkinsons-uk-brain-bank" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK Brain Bank Website</a>.
 
 ---
 
