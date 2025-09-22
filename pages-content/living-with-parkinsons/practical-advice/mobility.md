@@ -87,6 +87,9 @@ There may also be specific tasks that you can practice to address specific day-t
 
 For tips related to daily tasks, including getting in and out of bed, please see the <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/walking-with-sticks.jpg" alt="walking-with-sticks" class="example-class">
+
+
 ---
 
 ## Equipment and Aids
