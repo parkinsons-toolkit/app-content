@@ -72,6 +72,10 @@ This section will outline the different types of power of attorney and other com
 - **Enduring Power of Attorney (EPA)**
   - Enduring Power of Attorney (EPA) was used before lasting power of attorney replaced it in October 2007. EPA cover finances. If you signed an EPA before 1st October 2007 then it should still be valid, but you may want to make a LPA to reflect other decisions.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/lady-on-computer.jpg" alt="computer" class="example-class">
+
+
+
 ### When should I consider this?
 
 Lasting power of attorney is a decision that everyone should consider as they get older as soon as possible. You may decide that you do not want a power of attorney. You will need to choose a specific person or people whom you trust to be your power of attorney (e.g. partner, child, friend). Either way it is important to put your wishes in place as soon as possible.
@@ -100,6 +104,10 @@ Deputyship is a similar role to someone who is an attorney. Similar to lasting p
 
 1. Becoming a deputy costs more money.
 2. Deputyship requires an annual deputyship report to be sent to the Court of Protection. This is to make sure the person acting as deputy is acting in your best interests. This may offer a sense of protection for some.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/legal-advice.jpg" alt="legal-advice" class="example-class">
+
+
 
 ### What if I do not want to make a lasting power of attorney?
 
