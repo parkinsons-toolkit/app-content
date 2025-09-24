@@ -32,7 +32,7 @@ Receiving a diagnosis of Parkinson’s will probably make you feel emotional. Yo
 
 ## What do I need to do?
 
-If you are a driver, you are legally obliged to inform the DVLA of your diagnosis. This does not mean you have to stop driving, unless your doctor tells you to stop. See the <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Trave_</a> page for more guidance.
+If you are a driver, you are legally obliged to inform the DVLA of your diagnosis. This does not mean you have to stop driving, unless your doctor tells you to stop. See the <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for more guidance.
 
 ### Parkinson's Information
 
