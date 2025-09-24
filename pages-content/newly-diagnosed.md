@@ -74,7 +74,7 @@ People affected by Parkinson’s describe their experiences:
 >
 > _(Person with Parkinson’s)_
 
-> “For me, taking part in research projects has been a big factor in coming to terms with the diagnosis. It’s heartening to know that there are so many skilled scientists beavering away towards a cure and I’ve found that joining forces with these researchers has been a really positive experience. Your neurologist may be able to suggest projects in which you can get involved but you could also look at the <a href="https://cureparkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Cure Parkinson’s Trust</a> site or the research section of the <a href="https://https://parkinsons.org.uk/research" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> site.”
+> “For me, taking part in research projects has been a big factor in coming to terms with the diagnosis. It’s heartening to know that there are so many skilled scientists beavering away towards a cure and I’ve found that joining forces with these researchers has been a really positive experience. Your neurologist may be able to suggest projects in which you can get involved but you could also look at the <a href="https://cureparkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Cure Parkinson’s Trust</a> site or the research section of the <a href="https://www.parkinsons.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> site.”
 >
 > _(Person with Parkinson’s)_
 
