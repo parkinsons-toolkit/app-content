@@ -105,6 +105,8 @@ Parkinsonism is a term used to describe a group of symptoms namely: bradykinesia
 
 ## Useful Organisations & Contacts
 
+Please also see the <a href="/learn/further-support/services-and-groups" class="internal-link">_Services & Groups_</a> page for sources of support or our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page. 
+
 | Organisation           | About                                                                                                                                                                                                 | Phone Number     | Website                                                                                                                                                                                                                   |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Parkinson’s Foundation | This American organisation has information about Parkinson’s and symptoms.                                                                                                                          | --               | Homepage: https://www.parkinson.org/  <br> <br> Types of Parkinson's: https://www.parkinson.org/understanding-parkinsons/what-is-parkinsons/types-parkinsonisms                                                               |
