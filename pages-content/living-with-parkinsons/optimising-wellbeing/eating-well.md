@@ -377,7 +377,7 @@ Because it can be difficult to eat enough vitamin D, a daily 10 mcg supplement o
 
 ---
 
-## More Information
+## Useful Organisations & Contatcs
 
 Please look at the bottom of the table for further information about call charges.
 
@@ -396,3 +396,5 @@ Please look at the bottom of the table for further information about call charge
 
 - _Calls to 0121 200 8080 may cost up to 13p/min from landlines, and between 3p–55p/min from mobile phones. You may get this call for free depending on your phone provider._
 - **Calls to 0300 123 1110 may cost up to 10p/min from landlines, and between 3p–40p/min from mobile phones. You may get this call for free depending on your phone provider.**
+
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
