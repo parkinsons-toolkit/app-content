@@ -72,6 +72,9 @@ It is important you practise the following with a clear voice, as rehearsing wit
 - **Reading aloud:** Whether it is stories, poetry or the news, try reading it out loud rather than in your head to exercise your speech.
 - **Apps:** Some people use an app on their phone or computer to show how many decibels they use when speaking. This can help you realise how quiet or loud you are talking. Normal conversation is around 60 – 70 decibels. If you are interested in this, ask your therapist, who may be able to advise you further.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/speech-therapy.jpg" alt="speech" class="example-class">
+
+
 ---
 
 ## My Experience
