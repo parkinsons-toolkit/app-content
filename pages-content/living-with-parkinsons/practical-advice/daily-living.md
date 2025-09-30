@@ -122,6 +122,10 @@ There are a range of steps with regards to food and drink:
   - Special equipment has been developed for these difficulties – see below.
 - For difficulties in swallowing, please see the <a href="/learn/managing-symptoms/swallowing" class="internal-link">Swallowing Difficulties</a> symptom page.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/daily_living_cultery.jpg" alt="cutlery-wider-handles" class="example-class">
+
+
 ---
 
 ## My Experience
@@ -329,6 +333,10 @@ As well as usual off-the-shelf lidded cups, there are other specialised designs 
   - Sensors that detect if you fall over.
 - More information about these systems is available on the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> and the <a href="https://www.which.co.uk/later-life-care" class="external-link" target="_blank" rel="noopener noreferrer">Which? Later Life Care website</a>.
 - If falls are a concern, please also see the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page.
+
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/daily_living_wrist_alarm.jpg" alt="wrist-alarm" class="example-class">
+
 
 ---
 
