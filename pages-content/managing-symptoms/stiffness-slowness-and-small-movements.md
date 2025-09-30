@@ -61,6 +61,9 @@ See <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" 
 - Work through the different parts of the body.
 - Try to make this a routine part of your life, several times per week.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/stretch-physio.jpg" alt="stretch" class="example-class">
+
+
 ### Shoulder movements
 
 - To help keep the shoulders moving well, give them specific attention
