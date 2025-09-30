@@ -106,6 +106,7 @@ _**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">
 
 If your healthcare professional suspects a non-Parkinson’s cause of sweating, they may arrange some further tests. These may be, for example, to check your thyroid hormone levels.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/man-sweating.png" alt="man-sweating" class="example-class">
 ---
 
 ## Further Treatments
