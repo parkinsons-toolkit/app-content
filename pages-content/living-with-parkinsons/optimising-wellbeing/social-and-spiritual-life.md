@@ -137,6 +137,10 @@ When someone has Parkinson’s, it is common for relationship roles to change. F
 - Keep communicating with each other. Parkinson’s can affect communication in different ways, whether it’s verbal, written, or facial expressions. But it’s important to try to keep these channels open as much as possible
 - Ask for help if you’re finding it hard to manage problems. Professionals such as Parkinson’s specialist nurses, counsellors, and psychologists can offer support and guidance.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/social_and_spiritual_couple_dancing_2.jpg" alt="couple-dancing" class="example-class">
+
+
 ### Intimate relationships
 
 If you are in a relationship, sexual problems can affect both the person with Parkinson’s and their partner. Finding out one of you has a long-term condition can change your physical relationship. The need for intimacy may become more or less important. It can also impact your sexual self-esteem; the person with Parkinson’s may feel less desirable while their partner might worry about being too demanding by wanting sex.
