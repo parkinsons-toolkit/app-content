@@ -8,6 +8,8 @@ Poor sleep leads to feeling less well in the daytime and can worsen other diffic
 - Difficulty moving in bed
 - A possible association with breathing changes during sleep
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/awake-in-bed.jpg" alt="awake-in-bed" class="example-class">
+
 **Other issues that may affect your sleep include:**
 
 - Urinary Symptoms
