@@ -1,7 +1,5 @@
 # What is Parkinson's?
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/main/images/brain-dopamine.png" alt="Brain diagram showing dopamine pathways in Parkinson's disease" class="hero-image">
-
 Parkinson’s is a chronic condition that causes difficulties with movements. It can also cause a range of other symptoms. Parkinson’s is an extremely varied condition. It affects each person uniquely. Different symptoms may occur at different times. Each symptom may respond differently to treatments.
 
 _Parkinsonism_ is a broad term. It covers a range of conditions that have features similar to Parkinson's. When speaking about Parkinson’s, people are usually referring to Idiopathic Parkinson’s Disease. This is one type of Parkinsonism, but there are a number of others.
