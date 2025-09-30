@@ -142,6 +142,8 @@ There is growing interest in the use of cannabis-based products for the treatmen
 
 Addressing sight or hearing deterioration may mean having treatment or aids to improve those senses. Vision and hearing are important for interacting with others and carrying out daily activities.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/snellen-chart.jpg" alt="Snellen-chart" class="example-class">
+
 ### Vision
 
 - It is recommended that everyone has regular sight tests. This is normally every two years but may be more in certain circumstances.
