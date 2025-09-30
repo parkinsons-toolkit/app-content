@@ -119,6 +119,9 @@ _Tip 2: All sorts of fluid count towards your daily amount, it doesn’t have to
 
 **Caution: If you have been advised to limit your fluid intake for another health reason (e.g. heart or kidney disease), then speak to your healthcare professional first.**
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/glass-of-water.jpg" alt="water" class="example-class">
+
+
 Certain fruits help draw water into the bowel to soften the stool. Increasing intake of these helps constipation:
 
 - Apples
