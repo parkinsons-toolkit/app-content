@@ -6,6 +6,8 @@
 - **Sight:** some people with Parkinson’s experience problems with focusing, seeing two of something (double vision), dry eyes, or changes to how they see colour. Parkinson’s is not known to cause loss of sight.
 - **Hearing:** research has so far shown mixed results about changes to hearing in Parkinson’s. Hearing loss is associated with increasing age.
 
+- <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/5-senses.PNG" alt="5-senses" class="example-class">
+
 Sensory changes are important to identify for safety reasons, particularly if you drive.
 
 <div class="video-container">
