@@ -141,6 +141,10 @@ There are also **peer support networks** where both people with Parkinson’s an
 
 By planning ahead, you and your family can face the future with greater confidence, knowing that your care will reflect your personal wishes and that you have the support you need.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/future_care_relax_and_future.jpg" alt="couple-on-beach" class="example-class">
+
+
 ---
 
 ## What if more support is neededed?
@@ -212,6 +216,9 @@ This funding is also from the NHS/State. It is for people who are assessed as _n
 ---
 
 ## Medical Decisions
+
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/future_care_remote_consultation.jpg" alt="remote-consultation" class="example-class">
 
 ### Medical decisions about food & drink 
 - Provision of food and drink by mouth is considered ‘basic care’, so will always be provided.
