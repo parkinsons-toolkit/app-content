@@ -38,6 +38,8 @@ Apathy tends to affect activities that we do less often, especially where we can
 **Chores**
 There are always things that need doing about the house, in the garden or wherever. These may be things that you have done in the past but have stopped doing. There may be other chores that a family member does that you could take over or help with. These may not be fun but they are useful and often provide an opportunity for some physical activity. You may want to sit down with people in your family to work out what chores you can do and agree a time when they will be done.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gardening.jpg" alt="gardening" class="example-class">
+
 **Hobbies and Pastimes**
 When a person has apathy, hobbies and pastimes are often one of the first things to be affected. Sometimes these have become difficult because of Parkinson’s. Even if you cannot do all the things you used to enjoy, find a few that you can still do and build one or two of these into your routine. 
  
