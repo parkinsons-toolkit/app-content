@@ -141,6 +141,9 @@ To be eligible to claim, carers must:
 
 ## Other financial support…
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/money.jpg" alt="money" class="example-class">
+
 ### Universal Credit
 
 Universal Credit is a **means-tested** benefit to cover basic living expenses for those out of work or receiving a low income. Extra money may be given to carers and people unable to work due to having a disability or health condition, such as Parkinson’s.
