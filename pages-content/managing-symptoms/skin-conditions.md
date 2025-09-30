@@ -90,6 +90,8 @@ The other skin conditions discussed here are not urgent, but if bothering you th
 - For eyelids: Clean them daily with cotton buds moistened with baby shampoo.
 - Avoid irritants on face and body.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/washing-hair.jpg" alt="hair" class="example-class">
+
 ### Oily Skin
 
 - Wash your face with a mild soap twice daily in warm water and rinse in cool water.
