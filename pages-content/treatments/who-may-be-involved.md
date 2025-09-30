@@ -293,6 +293,9 @@ In the UK, there is a split between **_Healthcare_** (National Health Service, N
   - Some professionals work across both NHS and private services whereas others just work in one.
 - More information is available on the NHS website.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/mobility; young professional helping older man.jpg" alt="private-healthcare" class="example-class">
+
+
 ### Private Social Care
 
 As indicated above, social care is not necessarily provided as a free public service. To request a Needs Assessment, Contact your local council Adult Social Care department. If care is recommended, they will conduct a Financial Assessment. This determines if the council will contribute to the cost or not.
