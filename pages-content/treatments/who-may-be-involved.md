@@ -111,6 +111,9 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
   - They can conduct reviews of medications.
   - Some pharmacists will offer other services, such as travel or flu vaccinations.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/Pharmacist.jpg" alt="pharmacist" class="example-class">
+
+
 ### Physiotherapists
 
 Also known as _Physical Therapists_
@@ -159,6 +162,9 @@ Note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, th
   - _Social Care Wales_
   - _Scottish Social Services Council_
   - _Northern Ireland Social Care Council_
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/Social Worker with PPE.jpg" alt="social-worker" class="example-class">
+
 
 ### Speech & Language Therapists (SLTs)
 
