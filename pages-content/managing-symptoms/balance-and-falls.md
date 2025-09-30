@@ -109,6 +109,8 @@ There are different components to the activitiy you should try to undertake:
 - Balance
 - Flexibility
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/exercising.jpg" alt="exercising" class="example-class">
+
 In Parkinson's, specific attention also needs to be given to:
 
 - Making **big** movements.
