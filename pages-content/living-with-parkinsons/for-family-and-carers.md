@@ -372,6 +372,10 @@ _**Tips for coping with changes in relationships:**_
 - Ask the person with Parkinson’s what they are willing or not willing to allow you to help with
 - Keep talking
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/for_famies_and_carers_people_walking_in_park.jpg" alt="walk-in-park" class="example-class">
+
+
 ---
 
 ## Coping with changes to sexual relationships
