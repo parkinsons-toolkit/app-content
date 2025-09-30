@@ -6,6 +6,8 @@
 
 Intermittent injections of a medicine called apomorphine (a dopamine agonist). The injections go into the skin, a bit like an epi-pen or insulin pen. The medication works quickly, in 5-10 minutes. It lasts for about 40 minutes.  
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/apomorphine.jpg" alt="apomorphine" class="example-class">
+
 ### Who is it for?
 
 You may be able to have this treatment if:
@@ -248,6 +250,9 @@ This method is currently under research for the treatment of tremor. It is not y
 Duodopa is a gel form of levodopa that is pumped directly into the gut, where levodopa is best absorbed. A tube is surgically inserted from outside the body, through the skin, into the stomach, and then into the required part of the gut. The tube remains in place long-term, and the person (and/or carer) will be taught how to care for it.
 
 A pump regulates the amount of medication delivered. The pump is usually worn for 16 hours per day and disconnected for 8 hours. Medication packs are kept in the fridge when not in use.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/duopoda-2.jpg" alt="duodopa" class="example-class">
+
 
 ### Who is it for?
 
