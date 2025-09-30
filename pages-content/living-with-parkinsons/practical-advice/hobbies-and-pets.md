@@ -150,6 +150,9 @@ If you are struggling to care for a pet alone, there are some strategies you can
 - **Re-home pet with a family member** — Another option may be to have your pet live with a family member. You would need to discuss this with them to make sure they are happy with this. This way you should be able to continue seeing your pet but without the added responsibility of caring for him/her every day.
 - **Get some support** — If there is no family or friends who can help, there are a number of organisations that might be able to help (see below).
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hobbies_pets_karla_with_dog.jpg" alt="woman-with-dog" class="example-class">
+
 ---
 
 ## What support is available?
