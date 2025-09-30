@@ -162,6 +162,9 @@ Mindfulness encourages you to pay closer attention to the present moment, focusi
 
 Mindfulness is often included as part of psychological treatment. It encourages you to notice any stress or anxiety you might be feeling and can help you to deal with this better. Visit the <a href="https://www.nhs.uk/conditions/stress-anxiety-depression/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Mental Health & Wellbeing</a> pages for more information on how mindfulness can help our mental well-being. You can find the link in our More Information section below. It also gives guidance on how we can incorporate mindfulness into our day-to-day lives.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/anxiety_landscape_with_reflection.JPG" alt="landscape-with-reflection" class="example-class">
+
+
 ### Complementary therapies
 
 Complementary therapies include massage, acupuncture and aromatherapy. These therapies have not been tested in clinical trials, but some people with Parkinson’s report having positive experiences of them. These therapies may not directly treat the depression but can be helpful for relaxation and general wellbeing.
