@@ -103,7 +103,7 @@ Parkinsonism is a term used to describe a group of symptoms namely: bradykinesia
 
 ## Useful Organisations & Contacts
 
-Please also see the <a href="/learn/further-support/services-and-groups" class="internal-link">_Services & Groups_</a> page for sources of support or our <a href="/learn/further-support/resources" class="internal-link">_Services and Groups_</a> page. 
+Please also see the <a href="/learn/further-support/services-and-groups" class="internal-link">_Services & Groups_</a> page for more sources of support or our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page. 
 
 | Organisation           | About                                                                                                                                                                                                                                   | Phone Number     | Website                                                                                                                                                                                                 |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
