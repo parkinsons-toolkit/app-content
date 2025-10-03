@@ -148,36 +148,5 @@ Below is a picture to represent the range of avenues scientists are taking to ex
 
 ---
 
-## More Information
+## Useful Organisations & Contacts
 
-Organisation Information about
-Organisation Phone Number Website
-National Online service which Find Research Studies:
-Institute for provides information bepartofresearch.nihr.ac.uk
-
-Health about what research Information about Taking Part in
-Research is and what studies Research:
-(NIHR)
-
-you can take part in.
-
-www.nihr.ac.uk/patients-carers-and- the-public/i-want-to-take-part-in-a- study.htm
-
-The NIHR also has a page dedicated to explaining why you should take part in research and the importance of research.
-NHS The NHS offers compact information about taking part in clinical trials. www.nhs.uk/conditions/clinical-trials/
-
-Parkinson’s UK You can find research studies taking place in your local area.
-
-They also have a leaflet introducing taking part in research. 0808 800
-0303
-Free helpline: open 9am- 7pm (Mon-
-Fri), 10am-
-2pm (Sat) Find Local Research: www.parkinsons.org.uk/research/take- part-research
-Enter your postcode to find research in your area.
-
-Introduction to Research: www.parkinsons.org.uk/sites/default/fil es/2018-
-06/CS2512%20Introduction%20to%20r esearch%20leaflet%20DL%202018%20
-WEB%20FILE%20PAGES.pdf
-
-For more information: Stem cell therapy: https://www.mayoclinic.org/tests-procedures/bone-marrow-transplant/
-https://www.parkinson.org/advancing-research/our-research/npj-parkinsons-journal
