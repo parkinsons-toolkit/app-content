@@ -120,7 +120,7 @@ There are a range of steps with regards to food and drink:
   - Consider sports bottles, cups that have a narrow nozzle, or cups with lids (e.g. travel cups or ‘sip cups’) to reduce the risk of spillages.
   - Place foods or liquids in smaller containers to make them easier to grab and handle. For example, it’s easier to manage a pint of milk rather than a larger, heavier 4 pint milk carton.
   - Special equipment has been developed for these difficulties – see below.
-- For difficulties in swallowing, please see the <a href="/learn/managing-symptoms/swallowing" class="internal-link">Swallowing Difficulties</a> symptom page.
+- For difficulties in swallowing, please see the <a href="/learn/managing-symptoms/swallowing" class="internal-link">_Swallowing Difficulties_</a> symptom page.
 
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/daily_living_cultery.jpg" alt="cutlery-wider-handles" class="example-class">
