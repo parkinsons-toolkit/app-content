@@ -329,17 +329,14 @@ You will need long term follow-up at the specialist centre for your Duodopa trea
 
 ---
 
-## More information
+## Useful Organisations & Contacts
 
-| Organisation   | Information                                                            | Phone Number                                                 | Website                                                                                                                                                               |
-| -------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| NHS            | Information about Duodopa Infusions (plain language summary pages 4-5) | –                                                            | [Link](https://www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2015/07/d04-p-e.pdf)                                                                      |
-| Parkinson’s UK | Leaflets on Apomorphine injections, pumps, and Deep Brain Stimulation  | 0808 800 0303 (Free helpline: Mon-Fri 9am–7pm, Sat 10am–2pm) | [Apomorphine](https://www.parkinsons.org.uk/information-and-support/apomorphine), [DBS](https://www.parkinsons.org.uk/information-and-support/deep-brain-stimulation) |
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
 
-```
-
-
+| Organisation   | About                                                                                                                                                              | Phone Number  | Website                                                                                                                                                                                                                                                                                                  |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| NHS            | This NHS paper provides information about Duodopa Infusions. <br><br>(See pages 4-5 for a plain language summary)                                                  | --            | Clinical Commissioning Policy: Levodopa-Carbidopa Intestinal Gel (LCIG): <a href="https://www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2015/07/d04-p-e.pdf" class="external-link" target="_blank" rel="noopener noreferrer">www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2015/07/d04-p-e.pdf</a>       |
+| Parkinson’s UK | Parkinson’s UK provides PDF leaflets with information on Apomorphine injections and pumps. There is also information on Deep Brain Stimulation. The leaflets discuss advantages, disadvantages and where to seek the treatments.  | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | Apomorphine: <a href="https://www.parkinsons.org.uk/information-and-support/apomorphine" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/apomorphine</a><br><br>Deep Brain Stimulation: <a href="https://www.parkinsons.org.uk/information-and-support/deep-brain-stimulation" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/deep-brain-stimulation</a> |
 
 
-
-```
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
