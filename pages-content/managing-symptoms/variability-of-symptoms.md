@@ -152,13 +152,11 @@ Try to monitor your symptoms for about 3 days. Types of things you could record 
 
 ---
 
-## More Information
+## Useful Organisations & Contacts
 
-| Organisation                                    | Information                                                                        | Phone Number                                             | Website                                                                                                                         |
-| ----------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| European Parkinson’s Disease Association (EPDA) | In-depth info on motor fluctuations, wearing off, and tips to manage               | –                                                        | [EPDA Motor Fluctuations](https://www.epda.eu.com/about-parkinsons/symptoms/motor-symptoms/wearing-off-and-motor-fluctuations/) |
-| Parkinson’s UK                                  | Support and info about dyskinesia and wearing off, including causes and management | 0808 800 0303 (Free, open 9am–7pm Mon–Fri, 10am–2pm Sat) | [Parkinson’s UK Dyskinesia & Wearing Off](https://www.parkinsons.org.uk/information-and-support/dyskinesia-and-wearing)         |
+| Organisation    | About                                                                                                                                                                                     | Phone Number  | Website                                                                                                                                                                                                 |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Parkinson’s UK  | Offers support and information about dyskinesia and wearing off, including causes and how to manage them. <br><br>You can read this information online, print it or have it mailed to you.  | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/dyskinesia-and-wearing" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/dyskinesia-and-wearing</a> |
 
-```
 
-```
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
