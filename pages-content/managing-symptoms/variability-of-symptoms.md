@@ -49,7 +49,7 @@ There are things you can try for yourself (described below). You should discuss 
 
 - Stress can increase the variability of symptoms, so finding ways to stay relaxed even when stressed can be helpful.
 - Complementary therapies such as massage, acupuncture, and aromatherapy may be helpful.
-- See our <a href="/learn/managing-symptoms/mood" class="internal-link">Mood</a> page for more information.
+- See our <a href="/learn/managing-symptoms/mood" class="internal-link">_Mood_</a> page for more information.
 
 ### Medication-Meal Timing
 
