@@ -145,12 +145,11 @@ You may be referred on to another service, e.g. dietician or gastroenterologist.
 
 ---
 
-# More Information
+## Useful Organisations & Contacts
 
-| Organisation               | Information about                                                        | Phone Number | Website                                                                                                                                                                                                        |
-| -------------------------- | ------------------------------------------------------------------------ | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Parkinson’s Foundation** | US-based organisation providing information about nausea and Parkinson’s | –            | [www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Gastrointestinal-Issues](https://www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Gastrointestinal-Issues) |
+| Organisation           | About                                                                                                                | Phone Number | Website                                                                                                                                                                                                 |
+|------------------------|----------------------------------------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Parkinson’s Foundation | Provides information about constipation as a non-movement symptom of Parkinson’s, including causes and management. | --           | <a href="https://www.parkinson.org/understanding-parkinsons/non-movement-symptoms/constipation" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinson.org/understanding-parkinsons/non-movement-symptoms/constipation</a> |
 
-```
 
-```
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
