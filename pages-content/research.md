@@ -133,7 +133,7 @@ Scientists are exploring a wide range of treatment options to slow down or stop 
 For more inofrmation on Stem Cell Therapy:
 
 - <a href="https://www.mayoclinic.org/tests-procedures/bone-marrow-transplant/" class="external-link" target="_blank" rel="noopener noreferrer">Mayo Clinic: Stem Cell Therapy Overview</a>
-- <a href="ttps://www.parkinson.org/advancing-research/our-research/npj-parkinsons-journal" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's Foundation: Reserach on Stem Cells</a>
+- <a href="https://www.parkinson.org/advancing-research/our-research/npj-parkinsons-journal" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's Foundation: Research on Stem Cells</a>
 
 **Example: CUE1 Devices** – Devices such as the CUE1 can come in many different shapes and forms to help manage Parkinson’s symptoms. The CUE1, an example that people with Parkinson’s often ask about, is worn on the chest and delivers focussed vibrations (vibrotactile stimulation) to help with motor symptoms in Parkinson’s. Learn more about the <a href="https://charconeurotech.com" class="external-link" target="_blank" rel="noopener noreferrer">CUE1 device</a>.
 
