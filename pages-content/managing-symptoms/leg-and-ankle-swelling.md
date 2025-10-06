@@ -161,11 +161,11 @@ You may be given reassurance or more specific advice about things you could try 
 
 ---
 
-# More Information
+## Useful Organisations & Contacts
 
-| Organisation       | Information about                                                                                 | Phone Number                                                          | Website                                                                                                                |
-| ------------------ | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **NHS**            | Offers compact information about swollen ankles, feet and legs, and self-care options             | —                                                                     | [nhs.uk/conditions/oedema](https://www.nhs.uk/conditions/oedema/)                                                      |
-| **Parkinson’s UK** | Information about foot care, swelling, footwear and more. Available online, in print, or by mail. | **0808 800 0303**<br>Free helpline: Mon–Fri (9am–7pm), Sat (10am–2pm) | [parkinsons.org.uk/information-and-support/foot-care](https://www.parkinsons.org.uk/information-and-support/foot-care) |
+| Organisation   | About                                                                                                                                                                             | Phone Number  | Website                                                                                                                                                                                                 |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| NHS            | Offers compact information about swollen ankles, feet and legs (oedema). There are some ways to ease swelling yourself.                                                         | --            | <a href="https://www.nhs.uk/conditions/oedema/" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/conditions/oedema/</a>                                                          |
+| Parkinson’s UK | Has information about foot care for Parkinson’s and discusses swelling, footwear and more. You can view this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)  | <a href="https://www.parkinsons.org.uk/information-and-support/foot-care" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/foot-care</a>        |
 
----
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
