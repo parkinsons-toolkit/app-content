@@ -133,12 +133,10 @@ Having consulted a healthcare professional, they may offer reassurance, advice o
 
 ---
 
-## Additional Resources
+## Useful Organisations & Contacts
 
-| Organisation                               | Information About                                                                               | Website                                                                                                                                   |
-| ------------------------------------------ | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **American Parkinson Disease Association** | Provides detailed information about sleep problems in Parkinson’s, including dream disturbances | [apdaparkinson.org/what-is-parkinsons/symptoms/sleep-problems](https://www.apdaparkinson.org/what-is-parkinsons/symptoms/sleep-problems/) |
+| Organisation                   | About                                                                                                                            | Phone Number | Website                                                                                                                                                                                      |
+|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| American Parkinson Disease Association | This American organisation provides detailed information about possible sleep problems in relation to Parkinson’s, including dream disturbance. | --           | <a href="https://www.apdaparkinson.org/what-is-parkinsons/symptoms/sleep-problems/" class="external-link" target="_blank" rel="noopener noreferrer">www.apdaparkinson.org/what-is-parkinsons/symptoms/sleep-problems/</a> |
 
-```
-
-```
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
