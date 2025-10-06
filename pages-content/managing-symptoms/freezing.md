@@ -180,7 +180,10 @@ Research is ongoing to look for new ways of managing freezing, including the use
 
 ---
 
-| Organisation                        | Phone Number  | Website                                                                                         | Details                                                                                          |
-| ----------------------------------- | ------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| European Parkinson’s Disease Assoc. | Not listed    | [EPDA Freezing Info](https://www.epda.eu.com/about-parkinsons/symptoms/motor-symptoms/freezing) | Discusses freezing, its treatments, and compensation strategies to restore walking.              |
-| Parkinson’s UK                      | 0808 800 0303 | [Parkinson’s UK Freezing Info](https://www.parkinsons.org.uk/information-and-support/freezing)  | Offers info on causes, treatments, and cues. Helpline open Mon–Fri 9–7, Sat 10–2. Print or mail. |
+## Useful Organisations & Contacts
+
+| Organisation    | Information                                                                                                                                                                                                                                                                                       | Phone Number  | Website                                                                                                                                                                                                 |
+|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Parkinson’s UK  | Provides in-depth information about freezing: its causes, treatments, useful cues and general support. <br><br>You can read information online, print it or ask it to be mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/freezing" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/freezing</a> |
+
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
