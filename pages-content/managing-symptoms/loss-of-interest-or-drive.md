@@ -119,10 +119,10 @@ It is usually not needed to take tests to assess apathy.
 
 ---
 
-## More Information
+## Useful Organisations & Contacts
 
-| Organisation | Information about | Phone Number | Website |
-|--------------|-------------------|--------------|---------|
-| **European Parkinson’s Disease Association** | Discusses apathy in relation to Parkinson’s, including treatment and diagnosis. | — | [www.epda.eu.com/about-parkinsons/symptoms/non-motor-symptoms/apathy](https://www.epda.eu.com/about-parkinsons/symptoms/non-motor-symptoms/apathy/) |
-| **Parkinson’s UK** | Offers “Advanced Parkinson’s Booklet” with information and support for apathy (mentioned on page 21). Available online, in print, or by post. | 0808 800 0303<br>Free helpline: open 9am–7pm (Mon–Fri), 10am–2pm (Sat) | [www.parkinsons.org.uk/information-and-support/advanced-parkinsons](https://www.parkinsons.org.uk/information-and-support/advanced-parkinsons) |
-```
+| Organisation   | About                                                                                                                                                                                                                                   | Phone Number  | Website                                                                                                                                                                                                                       |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Parkinson’s UK | This downloadable booklet from Parkinson’s UK provides detailed information and practical guidance for people living with advanced Parkinson’s, including symptom management, care options, and planning for future needs, with information about apathy available on page 21. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/sites/default/files/2018-09/PKB003%20Advanced%20Parkinson%27s%20WEB.pdf" class="external-link" target="_blank" rel="noopener noreferrer">Download the booklet (See Page 21 for information about Apathy)</a> |
+
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
