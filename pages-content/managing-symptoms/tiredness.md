@@ -211,13 +211,11 @@ For most drugs causing drowsiness, combining them with drinking alcohol will mak
 
 ---
 
-## More Information
+## Useful Organisations & Contacts
 
-| Organisation              | Information                                                                                | Phone                                                        | Website                                                                                                            |
-| ------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| Michael J. Fox Foundation | Offers resources on fatigue and sleep in Parkinson’s, including tips and ongoing research. | –                                                            | [michaeljfox.org/news/fatigue-sleep](https://www.michaeljfox.org/news/fatigue-sleep)                               |
-| Parkinson’s UK            | Covers fatigue, treatment options, workplace rights, and driving advice.                   | 0808 800 0303 (Free Helpline, Mon-Fri 9am-7pm, Sat 10am-2pm) | [parkinsons.org.uk/information-and-support/fatigue](https://www.parkinsons.org.uk/information-and-support/fatigue) |
+| Organisation           | About                                                                                                                                                                                          | Phone Number  | Website                                                                                                                                                                                                                           |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Michael J. Fox Foundation | This American organisation is committed to researching Parkinson’s. They provide information about topics such as fatigue and sleep, including steps to ease fatigue, tips for sleep, and ongoing research. | --            | <a href="https://www.michaeljfox.org/news/fatigue-sleep" class="external-link" target="_blank" rel="noopener noreferrer">www.michaeljfox.org/news/fatigue-sleep</a>                                                                 |
+| Parkinson’s UK         | Explores fatigue in Parkinson’s, covering its causes, treatment options, and practical advice on managing work, driving, and daily activities.  | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/fatigue" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/fatigue</a>                                     |
 
-```
-
-```
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
