@@ -1,6 +1,4 @@
-# Movement
-
-## Tremor
+# Tremor
 
 Tremor is an uncontrollable, involuntary movement of a part of the body. Around one in three people with Parkinson’s never experience tremor. For others, it may be the most noticeable symptom. It may start in one area, like the right hand, and then gradually spread to another area on the same side of the body, like the right leg; it can eventually move to the other side of the body.
 
