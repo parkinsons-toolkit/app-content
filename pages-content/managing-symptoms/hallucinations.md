@@ -138,13 +138,11 @@ Medication is only used in severe cases where the problem is causing distress.
 
 ---
 
-### More information
+## Useful Organisations & Contacts
 
-| Organisation                             | Information about                                                                                                                                                           | Phone Number                                                        | Website                                                                                                                                                                                  |
-| ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| European Parkinson’s Disease Association | Provides in-depth information about hallucinations and their treatments. It also has a section for family, friends and carers.                                              |                                                                     | [www.epda.eu.com/about-parkinsons/symptoms/non-motor-symptoms/hallucinations-and-delusions/](www.epda.eu.com/about-parkinsons/symptoms/non-motor-symptoms/hallucinations-and-delusions/) |
-| Parkinson’s UK                           | Provides information about hallucinations and delusions, including causes and ways to manage these. You can view this information online, print it or get it mailed to you. | 0808 800 0303 Free helpline: open 9am-7pm (Mon-Fri), 10am-2pm (Sat) | [www.parkinsons.org.uk/information-and-support/hallucinations-and-delusions-side-effect](www.parkinsons.org.uk/information-and-support/hallucinations-and-delusions-side-effect)         |
+| Organisation    | About                                                                                                                                                                                     | Phone Number  | Website                                                                                                                                                                                                 |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Parkinson’s UK  | Provides information about hallucinations and delusions, including causes and ways to manage these. <br><br>You can view this information online, print it or get it mailed to you.  | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/hallucinations-and-delusions-side-effect" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/hallucinations-and-delusions-side-effect</a> |
 
-```
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
 
-```
