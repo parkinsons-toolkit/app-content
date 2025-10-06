@@ -219,7 +219,7 @@ To be eligible to claim, you must:
 
 If you are off sick for more than 7 consecutive days you will need to provide a ‘fit note’ (also called a doctor’s certificate or ‘sick’ note). Your GP or hospital doctor will be able to issue you a fit note.
 
-For more information on benefits and how to apply for them, visit <a href="https://www.gov.uk/browse/benefits" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK: Benefits</a>. You can also get help and advice from the charity <a href="https://www.citizensadvice.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">‘Citizens Advice’</a>. You can find links in our More Information section below.
+For more information on benefits and how to apply for them, visit <a href="https://www.gov.uk/browse/benefits" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK: Benefits</a>. You can also get help and advice from the charity <a href="https://www.citizensadvice.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Citizens Advice</a>. You can find links in our More Information section below.
 
 ---
 
@@ -301,7 +301,7 @@ How to apply for the NHS Low Income Scheme:
 
 - You will need to complete an HC1 application form, which you can get online or from NHS hospitals, dentists, opticians, and Jobcentres.
 - You can also call **0345 603 1108** and select the option for ‘health publications’ to get a copy sent to you with a pre-paid return envelope.
-- For further guidance on how to apply, visit the <ins>NHS Business Services Authority</ins> website.
+- For further guidance on how to apply, visit the <a href="https://services.nhsbsa.nhs.uk/buy-prescription-prepayment-certificate/start" class="external-link" target="_blank" rel="noopener noreferrer">NHS Business Services Authority</a> website.
 
 **Prescription Prepayment Certificate (PPC)**
 If you do not qualify for free prescriptions and need prescription items regularly, you could save money with a Prescription Prepayment Certificate (PPC). A PPC enables you to get as many NHS prescriptions as you need for a set price.
@@ -334,6 +334,8 @@ To qualify for help under this scheme, you must meet the following criteria:
   allowfullscreen>
 </iframe>
 </div>
+
+
 
 Visit the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> for more information about help with travel costs under the HTCS.
 
