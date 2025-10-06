@@ -103,6 +103,7 @@ Please look at the bottom of the table for further information about call charge
 | When Life Gives You Parkinson’s | Podcast presented by Curious Cast. Larry Gifford is the host and shares his personal experience of juggling work and family life as someone in their 40s living with Parkinson’s.                                                                                                                                                                                                  | --                  | <a href="https://curiouscast.ca/podcast/160/when-life-gives-you-parkinsons/" class="external-link" target="_blank" rel="noopener noreferrer">https://curiouscast.ca/podcast/160/when-life-gives-you-parkinsons/</a>                                                                             |
 
 **Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
+
 *** Calls cost between 10p–20p/minute from landlines, between 3p–65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page. 
