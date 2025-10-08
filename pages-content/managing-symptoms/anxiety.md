@@ -40,6 +40,10 @@ Worry is one of the most common features of anxiety in people with Parkinson’s
 
 Anxiety also changes our behaviour; we look for ways to reduce unpleasant body sensations and distressing thoughts and feelings. For example, we might be repeatedly check we have done something or ask for reassurance from others. These behaviours can give short-term relief, but they do not break the cycle. The most common behaviour change in anxiety is avoidance. Once we work out what we are afraid of, it makes sense to avoid it. This is OK sometimes. However, it becomes a problem if it leads to us avoiding going out of the house, using public transport or socialising. Although avoidance can lead to a short-term reduction in anxiety, it makes whatever we are avoiding even more frightening.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/sky-tree.jpg" alt="sky-and-tree" class="example-class">
+
+
 ---
 
 ## What sorts of things are people with Parkinson’s anxious about?
