@@ -25,7 +25,7 @@ For dry eyes, over-the-counter ointments and eye drops are available from pharma
 
 Have regular eye checks to see if there are problems with near vision as this tends to deteriorate as people age. If a regular eye check is normal or new glasses are prescribed and you are still having problems reading, you may wish to ask your GP, optometrist, or ophthalmologist for a referral to a neuro-ophthalmologist. A neuro-ophthalmologist can do further tests and may prescribe ‘prisms’ (a special kind of glasses).
 
-See our <a href="/learn/managing-symptoms/five-senses" class="internal-link">5 Senses</a> page for more information on visual changes in Parkinson’s.
+See our <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page for more information on visual changes in Parkinson’s.
 
 <div class="video-container">
 <iframe 
