@@ -43,7 +43,7 @@ There are two ways to inform the DVLA:
 1. One option is to report your condition online on the government website: <a href="https://www.gov.uk/government/publications/pk1-online-confidential-medical-information" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a>
 2. The second option is to report your medical condition by completing the “Medical fitness to Drive” (PK1) form. This can be completed online (<a href="https://assets.publishing.service.gov.uk/media/6842f8e24d039a010411f071/pk1-confidential-medical-information.pdf" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a>) printed and sent via the post, using the address on the form. If you need a paper copy or more help, contact the DVLA driver medical enquiries line: tel: 0300 790 6806
 
-\_Please note different medical conditions require different forms to be completed – for more information on this see <a href="https://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a>.
+Please note different medical conditions require different forms to be completed – for more information on this see <a href="https://www.gov.uk/transport/driving-and-medical-conditions" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a>.
 
 ### What happens next?
 
