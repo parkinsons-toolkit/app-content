@@ -45,6 +45,10 @@ There are things you can try for yourself (described below). You should discuss 
 
 - Some people find that their off periods are worse after an exhausting day. Plan ahead so you can rest after you have had an exhausting day, if you experience that.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/reading-notes.jpg" alt="planning" class="example-class">
+
+
+
 ### Manage Stress
 
 - Stress can increase the variability of symptoms, so finding ways to stay relaxed even when stressed can be helpful.
