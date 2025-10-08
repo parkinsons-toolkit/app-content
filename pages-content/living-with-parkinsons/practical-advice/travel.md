@@ -132,7 +132,7 @@ The key benefit to getting a Blue Badge is that it lets you park for free:
 - On single or double yellow lines for up to 3 hours.
 - Can be exempt from the congestion charge in Central London – there is an administration fee.
 
-These benefits and parking rules apply to most of the UK but not everywhere in the UK. Examples of where there are different schemes include some airports, e.g. Heathrow Airport, and some central London boroughs, e.g. City of Westminster. The Government website <a href="https://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a> has more information.
+These benefits and parking rules apply to most of the UK but not everywhere in the UK. Examples of where there are different schemes include some airports, e.g. Heathrow Airport, and some central London boroughs, e.g. City of Westminster. The Government website <a href="https://www.gov.uk/health-conditions-and-driving" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a> has more information.
 
 _Please check with local boroughs guidelines for parking schemes._
 
