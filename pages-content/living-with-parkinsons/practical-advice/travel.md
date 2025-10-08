@@ -258,7 +258,7 @@ There are other transport options besides driving that offer travel schemes to h
   - Have a visual or hearing impairment
   - Have epilepsy
 
-For more information and applications, visit <a href="https://www.railcard.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.railcard.co.uk</a>.
+For more information and applications, visit <a href="https://www.disabledpersons-railcard.co.uk/" class="external-link" target="_blank" rel="noopener noreferrer">www.railcard.co.uk</a>.
 
 **<ins>Dial-a-Ride</ins>**
 
