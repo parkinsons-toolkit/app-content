@@ -51,7 +51,7 @@ See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-acti
 
 The food we eat can affect the way we feel, both physically and mentally. And in turn, how we feel can affect the food we eat. So, healthy eating habits are important for improving our mood and general sense of wellbeing.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dietician" alt="dieticiam" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dietitian" alt="dietician" class="example-class">
 
 Research recommends the following advice on how to follow a healthy, balanced diet:
 
