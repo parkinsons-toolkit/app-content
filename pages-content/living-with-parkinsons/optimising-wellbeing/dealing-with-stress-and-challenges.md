@@ -159,6 +159,8 @@ See our <a href="/learn/treatment-and-therapies/complementary-therapies" class="
 
 Problem-solving therapy (PST) aims to help you cope better with stressful life events (e.g. financial problems, managing with a long-term condition). It does this by teaching you problem-solving skills you can use to help you find solutions to issues.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/metronome.jpg" alt="metronome" class="example-class">
+
 Here is some guidance on how you can work through problem-solving therapy by yourself:
 
 1. **Choosing a problem**
