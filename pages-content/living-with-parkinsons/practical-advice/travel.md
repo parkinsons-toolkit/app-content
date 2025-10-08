@@ -285,7 +285,7 @@ For more information and applications, visit <a href="https://www.disabledperson
   - In receipt of a War Pension Mobility Supplement
   - Receive the mobility element of the Armed Forces Independence Payment
 - You don’t have to be the driver; up to 3 named drivers can be registered - the car could be driven by a family member, friend or carer.
-- More info, applications, and vehicle search: <a href="https://www.motability.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">Motability website</a> or phone 0300 456 4566.
+- More info, applications, and vehicle search: <a href="https://www.motability.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">Motability website</a>.
 
 _Please note that Attendance Allowance cannot be used to lease a car through Motability scheme._
 
