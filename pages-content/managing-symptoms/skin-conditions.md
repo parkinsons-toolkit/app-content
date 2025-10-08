@@ -36,9 +36,6 @@ Conditions that can be more common in people with Parkinson’s are:
 - It is not known for sure why seborrheic dermatitis is more common in people with Parkinson’s. It may be that people with Parkinson’s produce more sebum than normal.
 - Seborrhoeic dermatitis is more common in men overall. This is likely a result of male hormones increasing sebum production.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/skin-care.jpg" alt="skin-care" class="example-class">
-
-
 ### Wounds & Ulcers
 
 - People with Parkinson’s can have ‘peripheral neuropathy’. This causes decreased sensation in the extremities. See the <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page for more information.
