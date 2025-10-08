@@ -130,7 +130,7 @@ Although it does not require intense effort, it is important to remember your ha
 
 This could be built into your routine through day-to-day tasks, for example writing, drawing, or manipulating small objects, like handling coins, or screwing nuts onto bolts. Alternatively, you could get creative, modelling with clay or play-dough.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/resustance-band.jpg" alt="resistence-band" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/resistance-band.jpg" alt="resistance-band" class="example-class">
 
 ### Posture
 
