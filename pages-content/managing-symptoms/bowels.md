@@ -52,6 +52,11 @@ There are many things you can try for yourself, but there are some circumstances
 
 Fibre in your diet helps improve constipation. Eat a variety of fibres.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/drinking-water.png" alt="drinking-water" class="example-class">
+
+
+
 **Fibre is in:**
 
 - Wholegrain – many breakfast cereals, whole-wheat pasta, wholegrain bread and oats, barley and rye
