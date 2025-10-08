@@ -39,6 +39,9 @@ There are various strategies you can try for yourself discussed below. You shoul
 - Relaxing techniques like a warm bath, yoga, or massage may help.
 - Eyelid dystonia is also called blepharospasm. It may respond to: pressure on the eyebrows, lying down, or chewing.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/therapy-assistant.jpg" alt="therapy-assistant" class="example-class">
+
 ### Stretching
 
 - It is best to be guided by your physiotherapist about specific stretches.
