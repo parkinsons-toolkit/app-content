@@ -88,6 +88,11 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
 
 - Broken bones, or fractures, are more likely to happen if you have fragile bones and if you fall over.
 - It is recommended that everyone with Parkinson’s take vitamin D supplements to help maintain bone strength.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/sunshine.jpg" alt="Vitamin-D-sunshine" class="example-class">
+
+
+
   - You can buy these from the chemist. If you do not need to take calcium tablets as well, you can buy these as Vitamin D3. We would normally recommend taking a daily dose of 20 or 25 micrograms (μg) which is equivalent to 800 or 1000 units a day (unless your doctor has recommended a different dose). If you are not sure on what dose to take, or if you should take calcium as well, discuss this with your GP.
   - If you are particularly at risk, your GP may do a blood test to check your vitamin D level. If they are low, you may need a higher dose of vitamin D to bring your levels back up to normal.
 - As people get older, in particular women, their bones can become less dense and more brittle. If this is higher than expected for your age, you may be diagnosed with Osteoporosis. If your bones are thinner, this makes them more likely to fracture from low impact injuries (e.g. breaking your wrist after falling).
