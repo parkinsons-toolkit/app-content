@@ -30,7 +30,7 @@ Being diagnosed with Parkinson’s disease does not automatically mean you have 
 
 ### What should I do?
 
-It is a legal requirement to tell the Driving and Vehicle Licensing Agency (DVLA) of your medical condition as soon as possible. It is a criminal offence to not tell the DVLA of a medical condition that may affect your driving. Not telling them could result in a fine of up to £1,000 or prosecution if you are involved in an accident. It is also important to discuss your medication with your Parkinson’s specialist team or GP and how this may affect your ability to drive. This could be, for example, drowsiness, or feeling too sleepy in the daytime. Not declaring a health condition would mean your motor insurance is not valid. It is an offense to withhold information from your insurance company and so they should also be notified. See the Legal Matters page for more information about insurance.
+It is a legal requirement to tell the Driving and Vehicle Licensing Agency (DVLA) of your medical condition as soon as possible. It is a criminal offence to not tell the DVLA of a medical condition that may affect your driving. Not telling them could result in a fine of up to £1,000 or prosecution if you are involved in an accident. It is also important to discuss your medication with your Parkinson’s specialist team or GP and how this may affect your ability to drive. This could be, for example, drowsiness, or feeling too sleepy in the daytime. Not declaring a health condition would mean your motor insurance is not valid. It is an offense to withhold information from your insurance company and so they should also be notified. See the <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">\_Legal Matters_</a> page for more information about insurance.
 
 ### Will my GP or specialist talk with the DVLA?
 
@@ -84,7 +84,7 @@ The DVLA will typically inform you of one of four decisions:
 
 However, if you do not agree with the decision because the information provided was not understood correctly or you feel it is not a true reflection of your condition, you have a right to appeal. The DVLA decision letter will outline the details of who you can contact. You will need to give the reasons why you feel the original decision was wrong.
 
-You may need to have a new medical examination or driving assessment in order for the DVLA to reconsider their decision. If you do not agree with their second decision you have a right to appeal to the magistrates’ court. This appeal must be made within 6 months from when the license was taken away or refused. You must inform the DVLA that you will be appealing to the court. For more information please read the Legal Matters [LINK] document.
+You may need to have a new medical examination or driving assessment in order for the DVLA to reconsider their decision. If you do not agree with their second decision you have a right to appeal to the magistrates’ court. This appeal must be made within 6 months from when the license was taken away or refused. You must inform the DVLA that you will be appealing to the court. For more information please read the <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">\_Legal Matters_</a> page.
 
 ### Summary of the decision making process
 
@@ -372,7 +372,7 @@ Flying and travelling abroad with Parkinson’s is still possible, with many peo
 - The **UK Global Health Insurance Card (GHIC)** has replaced the existing European Health Insurance Card (EHIC) for subsidised healthcare in the EU. The GHIC allows you free or subsidised treatment across the European Economic Area (EEA) countries. This is not a replacement or alternative to travel insurance. You should have both. For more information or to apply visit the <a href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Healthcare Cover Abroad</a> page.
 - There are similar agreements that the UK has with other countries in regard to free or subsidised treatment costs.
 
-_Note: travel insurance is covered in <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">\_Legal Matters_</a>. \_
+Note: travel insurance is covered in <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">\_Legal Matters_</a>.
 
 ### What Can I Try for Myself?
 
