@@ -181,8 +181,6 @@ If using a computer or the internet feels overwhelming, there are training cours
     - Video calling: lets you see and hear each other during a call o Medication manager apps: remind you when your medication is due. They may also let you store medical information.
     - Data gathering apps. These are used to measure some movement symptoms and speech. They may be used to inform the person who adjusts your Parkinson’s medications or treatments
 
----
-
 <div class="video-container">
 <iframe
   width="560"
@@ -193,28 +191,21 @@ If using a computer or the internet feels overwhelming, there are training cours
 </iframe>
 </div>
 
-## More Information
-
-| Organisation               | Information about                                              | Phone Number         | Website                                                                                                                            |
-| -------------------------- | -------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **Age UK**                 | Advice on technology, internet use, and local training.        | 0800 678 1602 (Free) | [Age UK Technology and Internet](https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/)                   |
-|                            | Video calling advice.                                          |                      | [Video Calling at Age UK](https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/video-calling/)            |
-| **AgeSpace**               | Guides for older adults on Skype, WhatsApp, online safety.     |                      | [AgeSpace Technology](https://agespace.org/tech)                                                                                   |
-|                            | Skype beginner’s guide.                                        |                      | [Skype Guide](https://agespace.org/tech/skype-beginners-guide)                                                                     |
-|                            | WhatsApp setup guide.                                          |                      | [WhatsApp Guide](https://agespace.org/tech/whatsapp-set-up-guide)                                                                  |
-| **Elders Action Network**  | Guidance on using Zoom video calls.                            |                      | [Zoom Instructions](https://eldersaction.org/zoom-instructions/)                                                                   |
-| **Online Centres Network** | Digital skills and confidence training.                        | 0114 349 1666 \*     | [Find a Centre](https://www.onlinecentresnetwork.org/ournetwork/find-centre#/map)                                                  |
-| **Parkinson’s UK**         | Info on communication problems and tech aids for Parkinson’s.  | 0808 800 0303 (Free) | [Parkinson’s UK Speech and Communication](https://www.parkinsons.org.uk/information-and-support/speech-and-communication-problems) |
-| **Which? Later Life Care** | Reviews of technology and easy-to-use phones for older adults. |                      | [Which? Later Life Care](https://www.which.co.uk/later-life-care/home-care/technology-to-keep-you-safe)                            |
-|                            | Technology product reviews.                                    |                      | [Which? Technology](https://www.which.co.uk/technology)                                                                            |
-| **YouTube**                | Video: “7 Helpful Hand Exercises for Parkinson’s.”             |                      | [Hand Exercises Video](https://www.youtube.com/watch?v=Ez2GeaMa4c8)                                                                |
-
-\* Call charges may apply: up to 13p/min from landlines, 3p-55p/min from mobiles. Check with your provider.
-
 ---
 
-If you need help or training to use technology, local libraries, community centers, or Age UK branches may offer courses or support.
+## Useful Organisations & Contacts
 
-```
+Please look at the bottom of the table for further information about call charges. 
 
-```
+| Organisation | About | Phone Number | Website |
+|--------------|-------|--------------|---------|
+| Age UK | Advice about using technology and the internet. You can call the freephone number to find your nearest Age UK branch and ask about local training opportunities.  | 0800 678 1602<br><br> Free support and advice helpline (Open 8am- 7pm, 365 days a year) | Making the most of the internet: <a href="https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/" class="external-link" target="_blank" rel="noopener noreferrer">www.ageuk.org.uk/information-advice/work-learning/technology-internet/</a> <br><br> How to make a video call: <a href="https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/video-calling/" class="external-link" target="_blank" rel="noopener noreferrer">www.ageuk.org.uk/information-advice/work-learning/technology-internet/video-calling/</a> |
+| AgeSpace | Provides instructions and guidance for older adults using technology. <br><br> There are instructions for using and setting up WhatsApp as well as information on staying safe online. | -- | Using Technology in Older Age: <a href="https://www.agespace.org/tech" class="external-link" target="_blank" rel="noopener noreferrer">www.agespace.org/tech</a> <br><br> WhatsApp Instructions: <a href="https://www.agespace.org/tech/whatsapp-set-up-guide" class="external-link" target="_blank" rel="noopener noreferrer">www.agespace.org/tech/whatsapp-set-up-guide</a> |
+| Parkinson’s UK | Provides information about and ways to manage communication problems with Parkinson’s. There is a specific section on tips to help with handwriting and communication technology. This can be read online, printed out, or mailed to you. | 0808 800 0303 <br><br> Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/speech-and-communication-problems" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/speech-and-communication-problems</a> |
+| Which? | Provides unbiased advice to consumers for a fee. They can help with a wide range of areas, including choosing what technology devices to buy. They also provide information on technological aids in later life, such as assistive technology and easy-to-use mobile phones.  | 029 2267 0000** <br><br> (Open Monday to Friday 9am-5pm, Saturday 9am-1pm) <br><br> Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider. | <a href="https://www.which.co.uk/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.which.co.uk/</a> |
+| YouTube | Many organisations and individuals use the platform YouTube to share videos on a wide range of topics. This video is: “7 Helpful Hand Exercises for Parkinson’s”. | -- | Helpful Hand Exercises for Parkinson's (to Improve Handwriting, Flexibility, and Dexterity): <a href="https://www.youtube.com/watch?v=Ez2GeaMa4c8" class="external-link" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=Ez2GeaMa4c8</a> |
+
+**Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
+
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+
