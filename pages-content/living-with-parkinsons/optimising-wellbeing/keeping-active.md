@@ -66,6 +66,8 @@ Try to avoid being sedentary whenever possible. Take breaks from sitting, to mov
 
 This is about trying to undertake more intense activity where possible. It is to get your body working harder. Choosing something you enjoy or can fit into your life’s routine gives you the best chance of continuing it.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/treadmill.jpg" alt="treadmill" class="example-class">
+
 **3. Increase Flexibility**
 
 This means stretching and doing rotational movements, ideally undertaken daily, for 10–15 minutes. You should work through the different parts of the body. Stretching should feel like a gentle pull on the muscle, not be painful.
@@ -127,6 +129,8 @@ Although it does not require intense effort, it is important to remember your ha
 - Coordinating finger movements, i.e. which fingers move together or separately, and the timing of movements.
 
 This could be built into your routine through day-to-day tasks, for example writing, drawing, or manipulating small objects, like handling coins, or screwing nuts onto bolts. Alternatively, you could get creative, modelling with clay or play-dough.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/resustance-band.jpg" alt="resistence-band" class="example-class">
 
 ### Posture
 
