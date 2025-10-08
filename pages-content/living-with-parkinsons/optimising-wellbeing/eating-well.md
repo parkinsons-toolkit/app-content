@@ -159,6 +159,10 @@ Some people with Parkinson’s will notice they may have trouble with swallowing
 - Thicker soups, yoghurts or blended foods/fruits can also allow you to take in more fluid in a form that is easier to swallow.
 - Smaller meals may not be as nutritionally complete, so if you are having issues with gaining or maintaining weight, please consult your GP or Parkinson’s specialist team.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/making-tea.jpg" alt="making-tea" class="example-class">
+
+
 ---
 
 ## Maintaining healthy weight
