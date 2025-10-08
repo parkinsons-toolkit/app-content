@@ -24,6 +24,9 @@ Below are some suggestions to promote emotional wellbeing and help you feel more
 
 Being more active can help to combat stress. For some people, Parkinson’s makes it tricky to stay active. You may have to adapt the type of activity you do. Some may choose to go to the gym or join a sports team; others may need something they can do at home. One effect of the COVID pandemic has been a considerable increase in the amount and range of exercise classes available online, through platforms such as Zoom.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/yoga-stretch" alt="yoga" class="example-class">
+
+
 Achieving a more active lifestyle can be as simple as making small changes to your everyday routines, for example:
 
 - Tidying up a bit faster when doing the housework
@@ -47,6 +50,8 @@ See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-acti
 ### Diet
 
 The food we eat can affect the way we feel, both physically and mentally. And in turn, how we feel can affect the food we eat. So, healthy eating habits are important for improving our mood and general sense of wellbeing.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dietician" alt="dieticiam" class="example-class">
 
 Research recommends the following advice on how to follow a healthy, balanced diet:
 
