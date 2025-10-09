@@ -190,7 +190,7 @@ See our <a href="/learn/treatments-and-therapies
 
 ### Resources for Wellbeing and Mental Health
 
-There are also lots of apps for your computer, smart phone or tablet which aim to help with anything from managing general wellbeing to targeting more specific health concerns. Most of them have not been tested. If you want to try one, look at the mental health apps and tools in the <a href="https://www.nhs.uk/apps-library/category/mental-health/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Apps Library on the NHS website</a>.
+There are also lots of apps for your computer, smart phone or tablet which aim to help with anything from managing general wellbeing to targeting more specific health concerns. Most of them have not been tested. If you want to try one, the NHS link to recommended apps throughout the NHS website.
 
 There are also many books that might be helpful. The <a href="https://reading-well.org.uk/books/books-on-prescription" class="external-link" target="_blank" rel="noopener noreferrer">Reading Well Books on Prescription</a> website has some ideas. Many of these books will be available through your local library. You can find the link in our More Information section below.
 
