@@ -217,25 +217,12 @@ For various reasons, some people can no longer be looked after at home and need 
 
 People affected by Parkinson’s describe their experiences.
 
-_“…for anyone that is a carer, they must have something for themselves, either exercise or going out for coffee with friends. You have to do that.”_  
-— Carer of someone with Parkinson’s
+> _“…for anyone that is a carer, they must have something for themselves, either exercise or going out for coffee with friends. You have to do that.”_
+> _(Carer of someone with Parkinson’s)_
 
 ---
 
-### More Information
+## Useful Organisations & Contacts
 
-| Organisation                          | Information                                               | Phone Number  | Website                                                                                          |
-| ------------------------------------- | --------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------ |
-| **Age UK**                            | Support for older people, workplace rights, job searching | 0800 678 1602 | [ageuk.org.uk](https://www.ageuk.org.uk/information-advice/work-learning/discrimination-rights/) |
-| **Carers UK**                         | Advice and support for carers                             | 020 7378 4999 | [carersuk.org](https://www.carersuk.org/home)                                                    |
-| **Carers Trust**                      | Information and support for carers                        | 0300 772 9600 | [carers.org](https://carers.org/)                                                                |
-| **Citizens Advice**                   | Free confidential advice on money, legal, housing         | 03444 111 444 | [citizensadvice.org.uk](https://www.citizensadvice.org.uk/)                                      |
-| **Equality Advisory Support Service** | Advice on inequality and rights                           | 0808 800 0082 | [equalityadvisoryservice.com](https://www.equalityadvisoryservice.com)                           |
-| **Fit For Work**                      | Work-related health management support                    | 0800 032 6235 | [fitforwork.org](https://www.fitforwork.org)                                                     |
-| **Gov.uk**                            | Information on workplace discrimination                   | —             | [gov.uk](https://www.gov.uk/discrimination-your-rights)                                          |
-| **Parkinson’s UK**                    | Information and advice about Parkinson’s and work         | 0808 800 0303 | [parkinsons.org.uk](https://www.parkinsons.org.uk/information-and-support/work-and-parkinsons)   |
-| **U3A**                               | Learning opportunities for older adults                   | 020 8466 6139 | [u3a.org.uk](https://www.u3a.org.uk)                                                             |
+Please look at the bottom of the table for further information about call charges.
 
-_Note:_ Call costs vary by phone provider; some may be free.
-
----
