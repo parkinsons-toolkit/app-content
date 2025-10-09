@@ -368,7 +368,7 @@ Flying and travelling abroad with Parkinson’s is still possible, with many peo
 - See your GP or private travel clinic to get any necessary vaccines at least 8 weeks before travel.
   - Some vaccines need time to develop immunity, others need multiple doses given over weeks or months.
   - You can see more information on the <a href="https://www.nhs.uk/vaccinations/travel-vaccinations/travel-vaccination-advice/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Travel Vaccinations</a> page or,
-  - Visit the <a href="https://www.fitfortravel.nhs.uk/destinations" class="external-link" target="_blank" rel="noopener noreferrer">NHS 'Fit for Travel'</a> webpage for more detailed, country-speicifc information on recommended vaccines.
+  - Visit the <a href="https://travelhealthpro.org.uk/contact" class="external-link" target="_blank" rel="noopener noreferrer">Travel Health Pro</a> webpage for more detailed, country-speicifc information on recommended vaccines.
 - The **UK Global Health Insurance Card (GHIC)** has replaced the existing European Health Insurance Card (EHIC) for subsidised healthcare in the EU. The GHIC allows you free or subsidised treatment across the European Economic Area (EEA) countries. This is not a replacement or alternative to travel insurance. You should have both. For more information or to apply visit the <a href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Healthcare Cover Abroad</a> page.
 - There are similar agreements that the UK has with other countries in regard to free or subsidised treatment costs.
 
