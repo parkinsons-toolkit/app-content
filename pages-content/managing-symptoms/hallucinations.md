@@ -44,6 +44,8 @@ Hallucinations, visual illusions, and delusions may occur in people with Parkins
 - Mental health conditions such as schizophrenia or severe depression.
 - Sleep problems.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hallucination.jpg" alt="hallucination-delirium" class="example-class">
 ---
 
 ## What should I do about it?
