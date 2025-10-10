@@ -160,6 +160,9 @@ There are two main types of documentation to record future wishes. One is a **st
 - Your GP, solicitor or Citizens Advice should be able to provide you with advice should you have questions around setting out your statement of wishes but they will remind you that no-one has to follow them and they may get lost or be unavailable.
 - Important to Consider: statements of wishes are not legally binding. Whoever is making decisions should try to respect what you have said as best as possible. However, there may be times the decision will go against the statement. For example: you may have said you would like to stay at home, rather than go into a care home. However, it may become too difficult or unsafe for you to be cared for at home. Therefore, it may be in your best interests to move to a care home. You may say you would always prefer a bath rather than a shower. While that may not be possible always, it might help someone thinking about what to ask a care worker to help you with.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/advanced-decision.jpg" alt="advanced-decision" class="example-class">
+
+
 **Advance decision**
 
 - An advance decision instructs health and care professionals and family to follow your wishes about refusing treatment. This can be helpful at a time when you may no longer be able to communicate or make the decision.
