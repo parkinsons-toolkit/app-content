@@ -76,6 +76,9 @@ If you decide you would like to tell your colleagues, there are several ways you
 - Organise for an expert (e.g. Parkinson’s nurse, Parkinson’s UK representative) from the local area to visit your work. They may be able to give information to the team and answer any questions.
 - Remember, there is no pressure to tell your colleagues if you do not feel comfortable to do so.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/work-meeting.jpg" alt="work-meeting" class="example-class">
+
+
 ---
 
 ## Adjustments at Work
