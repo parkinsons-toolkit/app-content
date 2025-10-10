@@ -78,6 +78,10 @@ Reduced hand movements can affect fastenings, like buttons and zips.
 - Elastic shoelaces can be easier.
 - Try a long handled shoe horn to put shoes on.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dressing.jpg" alt="dressing" class="example-class">
+
+
 ### Using the toilet
 
 Getting up and to the toilet and then getting up from the toilet again can be tricky if your movements are stiffer, slower or less well balanced. This is extra tricky if the toilet seat is lower than knee level.  
@@ -189,6 +193,9 @@ _We strongly recommend you speak to an occupational therapist before buying equi
 - There are many different types: Small, waterproof stools to large, electrically powered seats.
 - The seat that is best for you will depend on your shower or bath unit and your own preferences.
 - The next step up from these equipment suggestions are more significant changes to your bathroom. See the <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for information about adaptations.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/shower-seat.jpg" alt="shower-seat" class="example-class">
+
 
 ---
 
@@ -408,6 +415,9 @@ For example:
 - Age UK
 
 Details for all of these and for more information about Home Help can be found at the end of this section in the _More Information_ section.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/home-care.jpg" alt="home-care" class="example-class">
+
 
 ---
 
