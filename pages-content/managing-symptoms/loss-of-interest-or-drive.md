@@ -20,6 +20,8 @@ that might be apathy.
 ## What might be causing it?
 Apathy is a symptom of Parkinson’s as well as other neurological conditions. There is evidence that it is linked to the levels of dopamine in the brain. This link is different from how we know dopamine affects movement. Apathy in Parkinson’s can be present by itself. It can also be linked to low mood, memory and thinking problems. 
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/apathy.jpg" alt="loss-of-drive" class="example-class">
+
 ---
 
 ## What should I do about it?
