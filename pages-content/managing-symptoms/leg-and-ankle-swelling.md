@@ -31,6 +31,8 @@ Other non-Parkinson’s causes of leg or ankle swelling can be from:
 - Problems with major organs, such as your heart, liver, or kidney – these are usually either already known about or associated with other symptoms.
 - Side effects of non-Parkinson’s medications (e.g. some blood pressure tablets).
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/leg-ankle-swelling.jpg" alt="leg-ankle-swelling" class="example-class">
+
 ---
 
 ## What Should I Do About It?
