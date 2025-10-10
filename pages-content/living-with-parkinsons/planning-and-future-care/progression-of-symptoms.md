@@ -108,7 +108,7 @@ If the symptoms are affecting your ability to undertake daily activities or task
 - As for Parkinson’s, a Dementia diagnosis can cause grief.
 
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dementia-jpg" alt="brain-scan" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dementia.jpg" alt="brain-scan" class="example-class">
 
 
 ### What can be done
