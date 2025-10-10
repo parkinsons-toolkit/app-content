@@ -87,7 +87,6 @@ These do not change the symptom but help reduce risks:
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/low-blood-pressure.jpg" alt="low-blood-pressure" class="example-class">
 
 
-
 For more information about blood pressure (including how to measure it), see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page.
 
 <div class="video-container">
