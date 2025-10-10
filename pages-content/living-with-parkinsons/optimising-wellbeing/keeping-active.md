@@ -90,6 +90,10 @@ For all of these types of activity, make sure you warm up before undertaking mor
 
 To see what this might look like in real life, pick the person you most relate to. You can find targeted advice about keeping active for each person on the separate pages.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/active.jpg" alt="active" class="example-class">
+
+
 ---
 
 ## Things to Consider in Parkinson’s
