@@ -236,6 +236,10 @@ The best way to get vitamins and minerals in your diet is by eating a well-balan
 
 Some vitamins and supplements can interact with your Parkinson’s medications or other medications. **Before purchasing any ‘over the counter’ mineral or vitamin supplements from chemists or health food shops, be sure to consult with a pharmacist, your GP, or Parkinson’s specialist team.**
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/supplements.jpg" alt="supplements" class="example-class">
+
+
 ### Should I take supplements?
 
 - If you are found to have low levels of certain vitamins or minerals you may be advised to take supplements for a time, but in most cases, there are adequate nutrients in normal food intake.
