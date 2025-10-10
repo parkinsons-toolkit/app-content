@@ -160,13 +160,14 @@ Here’s an example of a simple breathing exercise you can try:
 - You may find it helpful to count steadily as you breathe: ‘one, two, three, four, five’ as you breathe in and ‘one, two, three, four, five’ as you breathe out. Try to work out what feels comfortable for you.
 - Repeat for 3-5 minutes.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/breathing-exercise.jpg" alt="breathing-exercise" class="example-class">
+
+
 ### Mindfulness
 
 Mindfulness encourages you to pay closer attention to the present moment, focusing on your thoughts, feelings, bodily sensations and your environment. By doing this regularly it can help to improve your general emotional well-being.
 
 Mindfulness is often included as part of psychological treatment. It encourages you to notice any stress or anxiety you might be feeling and can help you to deal with this better. Visit the <a href="https://www.nhs.uk/conditions/stress-anxiety-depression/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Mental Health & Wellbeing</a> pages for more information on how mindfulness can help our mental well-being. You can find the link in our More Information section below. It also gives guidance on how we can incorporate mindfulness into our day-to-day lives.
-
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/anxiety_landscape_with_reflection.JPG" alt="landscape-with-reflection" class="example-class">
 
 
 ### Complementary therapies
@@ -187,6 +188,9 @@ There is a selection of self-help leaflets available online that might be helpfu
 Some books are available in audiobook format, if preferred.
 
 There are also some websites that have a wide range of advice and resources groups. You can pay to become a member of these groups, if you wish. You can find links to more information and guidance about these at the bottom of this page.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/anxiety_landscape_with_reflection.JPG" alt="landscape-with-reflection" class="example-class">
+
 
 ### Self-help Cognitive Behavioural Therapy
 
