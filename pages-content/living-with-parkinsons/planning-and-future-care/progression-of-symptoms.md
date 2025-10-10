@@ -107,6 +107,10 @@ If the symptoms are affecting your ability to undertake daily activities or task
 - There is huge variation in symptoms in people. Dementia is sometimes related with changes in behaviour (e.g. agitation), mood (e.g. depression) or perceptions (e.g. hallucinations).
 - As for Parkinson’s, a Dementia diagnosis can cause grief.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dementia-jpg" alt="brain-scan" class="example-class">
+
+
 ### What can be done
 
 - See your GP or Parkinson’s specialist team for assessment. Assessments may be conducted by a specialist service, often called a _Memory Clinic_.
