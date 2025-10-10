@@ -2,6 +2,10 @@
 
 Stress can often make symptoms such as tremor worse. Learning how to cope with stressful life events can help you to manage symptoms and maintain a good quality of life.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/overcome-stress.jpg" alt="overcome-stress" class="example-class">
+
+
+
 Even when emotionally and mentally healthy, you may still experience negative emotions, these are part of normal life. Having good emotional health means developing the ability to bounce back from difficult situations.
 
 <div class="video-container">
@@ -159,7 +163,7 @@ See our <a href="/learn/treatment-and-therapies/complementary-therapies" class="
 
 Problem-solving therapy (PST) aims to help you cope better with stressful life events (e.g. financial problems, managing with a long-term condition). It does this by teaching you problem-solving skills you can use to help you find solutions to issues.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/metronome.jpg" alt="metronome" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/problem-solve.jpg" alt="problem-solve" class="example-class">
 
 Here is some guidance on how you can work through problem-solving therapy by yourself:
 
