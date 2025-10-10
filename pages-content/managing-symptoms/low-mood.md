@@ -140,6 +140,10 @@ Socialising can improve your mood. Staying in contact with friends and family me
 
 Look out for new opportunities from activities offered through local colleges, places of worship (e.g. churches, mosques, temples), community centres, leisure facilities, charities and societies (e.g. your local U3A group). Your local library can be a good source of information about what is available in your area. We have listed some other possible sources in our _Practical Advice_ pages which you can within the <a href="/learn/living-with-parkinsons" class="internal-link">_Living with Parkinson's_</a> section. If you need support speicifally with travelling to events, see our <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for advice.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/mental-health-support.jpg" alt="mental-health-support" class="example-class">
+
+
+
 Visit our <a href="/learn/living-with-parkinsons/optimising-wellbeing
 /social-and-spiritual-life" class="internal-link">_Social & Spiritual Life_</a> page for more information on how you can keep socially active.
 
