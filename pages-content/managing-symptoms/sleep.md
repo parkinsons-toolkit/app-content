@@ -85,6 +85,10 @@ If you or your partner notice the breathing pattern change as described above (p
 - Nylon or satin sheets as well as light-weight bed covers, can be more comfortable and can make moving in bed easier. It is best not to have both satin Pyjamas and sheets as they can slide on each other very quickly. Ideally maintain some area of friction at the edge of the bed for grip.
 - If you can, involve a partner, particularly if you need help getting in and out of bed.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/sleeping-man.jpg" alt="sleeping-man" class="example-class">
+
+
+
 ### Things to avoid
 
 - **Caffeine:** This is in tea, coffee, chocolate, cocoa, coca cola, some over-the-counter painkillers and ‘cold and flu’ remedies so check the label carefully. Reducing caffeine in the 4 hours before bed, as well as reducing the total daily intake, is advised.
