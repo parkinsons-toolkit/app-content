@@ -30,6 +30,10 @@ Memory and thinking problems can be symptoms of Parkinson’s, but not all of th
 
 <ins>**Dementia**</ins> is a broad term used to describe gradual impairments of thinking, memory and other brain functions that are impacting day-to-day life. Dementia has lots of different types and causes, one of which is Parkinson’s. But not all thinking and memory problems in Parkinson’s are, or lead to, dementia.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/thinking.jpg" alt="thinking" class="example-class">
+
+
 Other causes of memory and thinking problems that appear gradually include:
 
 - Depression and anxiety
