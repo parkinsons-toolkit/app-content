@@ -275,6 +275,10 @@ Some medications given in the hospital (for example medicines to reduce pain) ca
 
 Local hospital policies widely vary, from parking charges through to visiting hours. Different ways of communicating information to friends and relatives are used in different hospitals. If you want more information about how something works in your hospital, ask a member or staff or try looking at the hospital website. There are however a few areas that are the same across the NHS that it may be helpful to know about.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hospital.jpg" alt="hospital" class="example-class">
+
+
 ### Single rooms and open wards
 
 Single rooms are not standard for NHS care. Availability of single rooms varies place to place. They are sometimes required due to the risk of infection spread and for some specific personal circumstances. There may also be reasons for not using a single room. This might be, for example, the space needed for equipment, risk of isolation, or so that staff can more easily observe someone’s condition. If you are unsure why you are in a particular room or bed, talk to your named nurse or the nurse in charge. If you wish to be cared for in a private hospital or on a private wing of an NHS hospital, then you or your family can arrange it if practical. Sometimes you may be put in a close observation ward due to having Parkinson’s. As these wards tend to have a nurse around at all times, they will also tend to have people with dementia in them. Do not be alarmed if this is the case.
