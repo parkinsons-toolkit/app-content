@@ -127,7 +127,7 @@ As Parkinson’s can affect your walking this section aims to provide you with h
 
 The Blue Badge Scheme aims to help people with mobility issues (as either the driver or passenger of a car) to park closer to their destination. The blue badge is linked to the individual rather than a vehicle and so can be used in any car you are travelling in. This includes hire cars or taxis.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/bliue-badge.jpg" alt="blue-badge" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blue-badge.jpg" alt="blue-badge" class="example-class">
 
 The key benefit to getting a Blue Badge is that it lets you park for free:
 
