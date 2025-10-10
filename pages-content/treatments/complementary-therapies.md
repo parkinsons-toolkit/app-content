@@ -54,6 +54,10 @@ There are many complementary therapies, and so we cannot provide a complete list
  
 Some of these physical therapies, for example Pilates, are used to improve flexibility, strength, posture, and body awareness. Others, like mindfulness, mainly relate to thoughts and feelings. 
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/reiki.jpg" alt="reiki" class="example-class">
+
+
 ### Physical Therapies
 Some physical therapies, for example Pilates, Qigong and yoga, are activities that can be carried out alone. They can also be carried out in a group under guidance. These three activities have some variations between them, but all involve stretching, gentle movements, and holding particular postures. They have the aim of improving strength, balance, flexibility, posture and breathing techniques. These are thought to improve general fitness and wellbeing. 
 
