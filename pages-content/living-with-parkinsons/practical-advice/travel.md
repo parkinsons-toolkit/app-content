@@ -32,6 +32,8 @@ Being diagnosed with Parkinson’s disease does not automatically mean you have 
 
 It is a legal requirement to tell the Driving and Vehicle Licensing Agency (DVLA) of your medical condition as soon as possible. It is a criminal offence to not tell the DVLA of a medical condition that may affect your driving. Not telling them could result in a fine of up to £1,000 or prosecution if you are involved in an accident. It is also important to discuss your medication with your Parkinson’s specialist team or GP and how this may affect your ability to drive. This could be, for example, drowsiness, or feeling too sleepy in the daytime. Not declaring a health condition would mean your motor insurance is not valid. It is an offense to withhold information from your insurance company and so they should also be notified. See the <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">\_Legal Matters_</a> page for more information about insurance.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/driving.jpg" alt="driving" class="example-class">
+
 ### Will my GP or specialist talk with the DVLA?
 
 You will need to inform the DVLA, as this is not something your healthcare professionals can do. Healthcare professionals are only allowed to share your personal medical information with your consent, or if or if there is thought to be a public safety risk. This would be if they think you are unsafe to drive, for example. If, in such a situation, you continue to drive, they are required to break confidentiality and notify the DVLA. The DVLA may later ask for further information from your Parkinson’s specialist or GP with your permission as described below.
@@ -124,6 +126,8 @@ As Parkinson’s can affect your walking this section aims to provide you with h
 ### The Blue Badge Scheme
 
 The Blue Badge Scheme aims to help people with mobility issues (as either the driver or passenger of a car) to park closer to their destination. The blue badge is linked to the individual rather than a vehicle and so can be used in any car you are travelling in. This includes hire cars or taxis.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/bliue-badge.jpg" alt="blue-badge" class="example-class">
 
 The key benefit to getting a Blue Badge is that it lets you park for free:
 
