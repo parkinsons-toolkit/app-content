@@ -84,6 +84,10 @@ People affected by Parkinson’s describe their experiences.
 
 As your Parkinson's progresses, you may notice a change in your relationships. This might be with your partner, family, friends, colleagues, and so on. These changes may be positive or negative. For example, you may become more distant to some friends but build deeper connections with others.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/support.jpg" alt="support" class="example-class">
+
+
+
 ### Family and friends
 
 When you feel ready, you may wish to have an honest conversation with your friends about your condition. It might be helpful to try to maintain closest connections with people who are supportive and willing to learn more about Parkinson’s.
@@ -197,6 +201,9 @@ Spirituality and religion vary from person to person. It can provide someone wit
 </div>
 
 If you have Parkinson’s, or care for someone that does, it can be difficult to attend religious meetings, due to practical and emotional challenges. There are many benefits of staying connected with your religious group/meetings so explore ways to overcome barriers to attending these (e.g. ask a friend to support you attending). If you need to arrange transport to attend religious gatherings, see our <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for advice. In response to the Coronavirus pandemic, many places of worship have offered online services, which are a great help to those with mobility difficulties.
+
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/bible.jpg" alt="reading-bible" class="example-class">
 
 ---
 
