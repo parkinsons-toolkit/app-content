@@ -187,6 +187,9 @@ After the death of someone there are a number of tasks that will need to be comp
 - Bereavement support is offered by many charities as well as local hospice and NHS services. For example, you could look at the Cruse Bereavement Care charity website.
 - Try looking at the <a href="https://www.nhs.uk/" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> (search “bereavement”) or speak to your GP for more information.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/berevement.jog" alt="berevement" class="example-class">
+
+
 ### Organ and Tissue Donation
 - Many people are in need of organ transplants or tissues.
 - The NHS have a register for those who are willing to donate their organs and tissues after their death.
