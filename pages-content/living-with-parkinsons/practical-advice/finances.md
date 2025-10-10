@@ -38,6 +38,8 @@ If you are struggling to manage your finances, you may find these suggestions he
   - It’s important to apply for LPA while you still have mental capacity (you’re able to make decisions). If you lose decision-making capacity before having an LPA in place, someone will have to apply to the Court of Protection to manage your money. This can be a slow and expensive process.
   - See our <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page for more information about the different types of LPA and how to set these up.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/managing-finances.jpg" alt="managing-finances" class="example-class">
+
 ---
 
 ## Government Benefits
@@ -263,6 +265,9 @@ People affected by Parkinson’s describe their experiences.
 ### Medical exemption
 
 People with Parkinson’s often need to pay multiple prescription charges. This is because of the number of medications prescribed for the management of motor and non-motor symptoms, and this number increases as the condition progresses.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/prescription.jpg" alt="pharmacy-prescription" class="example-class">
+
 
 You can get free prescriptions if you or your partner receive any of the following, or if you’re under the age of 20 and the dependant of someone receiving any of the following:
 
