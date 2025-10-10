@@ -32,6 +32,8 @@ Slow movements can be the result of other problems too – for example due to pa
 
 There are many things you can try for yourself as described below. Although there are some circumstances where you should seek professional help. If you are having problems turning over in bed, getting dressed, or walking, it is time to speak to your GP or Parkinson’s specialist team. Similarly, if stiffness and slowness are bothering you, and you don’t see improvement by one month of following the advice below, seek help from your GP or Parkinson’s specialist team.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/stiffness.jpg" alt="stiffness" class="example-class">
+
 ---
 
 # What can I try for myself?
