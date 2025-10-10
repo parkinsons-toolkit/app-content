@@ -171,6 +171,9 @@ For more information about these symptoms, see the <a href="/learn/managing-symp
 
 Deep Brain Stimulation is a highly specialised treatment that is only done at specialist centres, which may not be your local hospital. If your Parkinson’s specialist team think it might be a good treatment for you, they can refer you to a specialist centre. Please be aware there are often long waiting times before you get an appointment.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/neurologist.jpg" alt="DBS-appointment" class="example-class">
+
+
 The initial appointment is to see if the specialists think it might be a good treatment for you and to discuss it with you in more detail.
 
 If they think it could be a good treatment for you, and you wish to proceed, there will be an assessment process at the specialist centre. This is likely to involve:
