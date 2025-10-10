@@ -67,6 +67,9 @@ Share your thoughts and views with these people.
 
 An LPA allows you to legally appoint someone you trust, such as a family member or close friend, to make decisions on your behalf if you’re no longer able to. 
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/power-of-attorney.jpg" alt="power-of-attorney" class="example-class">
+
+
 There are two separate types of LPA, one for **health and care decisions** and another for **financial matters**:
 - **Health & Welfare LPA**: An LPA for Health & Welfare would become your voice if you were unable to make health and care related decisions.
 - **Property & Financial Affairs LPA**: Manages money, property, and financial matters.
@@ -267,6 +270,10 @@ The decision about which to take should consider what the medicine is for, the p
 Note: Oxygen is also a medicine and must be prescribed. It has risks and benefits, so the same principles apply.
 
 A person may make the decision that they no longer want to go to hospital for medical care. This may mean that they make the decision that they are happy to have tablet antibiotics, which can be given at home. However, they may decide not have antibiotics which must be given directly into a vein, which would normally require hospital admission.
+
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/medical-decision.jpg" alt="medical-decision" class="example-class">
+
 
 ### Medical decisions about critical care interventions
 Critical Care Interventions are those which are given for life threatening illness, in a closely monitored hospital environment. There are various different machines that are used in certain circumstances to treat critical illness. The machines are designed to do the role of the body organs that are not working properly. Examples include:
