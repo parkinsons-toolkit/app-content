@@ -135,6 +135,9 @@ Before purchasing equipment, consider the following overall tips below:
   - You may be able to borrow or get one for free through the NHS
   - They can be bought at mobility shops, some large pharmacies, or online.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/walking-stick.jpg" alt="walking-stick" class="example-class">
+
+
 ### Walking frames
 
 - Walking frames are suitable for some people but not for others. It is best to be assessed by a physiotherapist.
@@ -153,6 +156,8 @@ Before purchasing equipment, consider the following overall tips below:
   - Brakes – how they work and if your hands have any difficulty using them
 - The fit of the walking frame is very important. You should consult a physiotherapist but as a rough guide:
   - Standing with your arms relaxed by your side, with a slight natural bend at your elbow: The frame hand grips should typically be at the level of the wrist.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/walking-frame.jpg" alt="walking-frame" class="example-class">
 
 ### Wheelchairs
 
