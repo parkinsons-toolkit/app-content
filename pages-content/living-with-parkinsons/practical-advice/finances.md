@@ -38,7 +38,7 @@ If you are struggling to manage your finances, you may find these suggestions he
   - It’s important to apply for LPA while you still have mental capacity (you’re able to make decisions). If you lose decision-making capacity before having an LPA in place, someone will have to apply to the Court of Protection to manage your money. This can be a slow and expensive process.
   - See our <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page for more information about the different types of LPA and how to set these up.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/managing-finances.jpg" alt="managing-finances" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/manage-finances.jpg" alt="managing-finances" class="example-class">
 
 ---
 
