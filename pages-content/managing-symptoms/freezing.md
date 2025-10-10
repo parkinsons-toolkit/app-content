@@ -110,6 +110,9 @@ b) _Sound cues_, for example:
 - Listen to music with a good beat.
 - _Prevention_: count or sing as you go through doorways or other spots that trigger you to freeze. Use the momentum of the rhythm to carry you through.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/metronome.jpg" alt="metronome" class="example-class">
+
+
 c) Imagine a cue, for example:
 
 - Imagine a sound (i.e. a beat, metronome or rhythmic music).
