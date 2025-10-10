@@ -45,6 +45,10 @@ Your heart pushes blood around the body through a network of blood vessels, simi
 
 Many factors affect blood pressure. It varies between people and is constantly changing in any one person. This makes it difficult to define “normal” blood pressure. Parkinson’s, as well as medication used for Parkinson’s, can both cause a lower or variable blood pressure. But getting older and many lifestyle factors can cause a higher blood pressure.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blood-pressure.jpg" alt="blood-pressure" class="example-class">
+
+
 ### High blood pressure
 
 - Blood pressure increases with age and certain lifestyle factors. These include smoking, alcohol, caffeine, unhealthy diet, lack of exercise, and increased weight. It is also elevated by stress and pain.
@@ -181,6 +185,9 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
 - There are some simple hearing tests online if you are not sure if you have hearing difficulties. These tests can advise whether you need a full formal test or not.
 - Hearing problems are often not preventable. You can help to protect your hearing by minimising loud noise exposure. Be mindful of how loud your music plays, time spent at noisy events, and potential noise exposure at work.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hearing.jpg" alt="hearing-aid" class="example-class">
+
+
 More information about healthcare costs is on our <a href="/learn/living-with-parkinsons/practical-advice-finances" class="internal-link">_Finances_</a> page. For more information about sight and hearing problems, see our <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page.
 
 <div class="video-container">
@@ -225,6 +232,8 @@ Foot problems can be painful and can affect your walking and balance. Taking car
 ## Dental Care
 
 Taking care of your teeth is really important as poor dental health can lead to pain and infections. It may even lead to difficulties eating and drinking in the long run.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/floss.jpg" alt="flossing" class="example-class">
 
 - Brush your teeth twice a day with a fluoride toothpaste and floss daily.
 - Reduce sugar intake
