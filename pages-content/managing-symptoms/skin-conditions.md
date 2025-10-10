@@ -52,6 +52,9 @@ Prolonged pressure through an area of skin can cause damage. This is more likely
 
 All of these skin issues are seen in people who don’t have Parkinson’s as well. And people with Parkinson’s can also get skin conditions that are completely unrelated to their Parkinson’s. Wounds and ulcers are more common in people who have decreased sensation for other medical reasons. An example of this would be those with diabetes.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/checking-moles.jpg" alt="checking-moles" class="example-class">
+
+
 ---
 
 ## What Should I Do About It?
