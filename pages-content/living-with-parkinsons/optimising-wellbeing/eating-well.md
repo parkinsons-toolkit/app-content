@@ -47,6 +47,10 @@ _Including Sinemet, Madopar, Stalevo._
 
 Some people notice that when they eat a protein-rich meal and take levodopa at the same time, their levodopa doesn’t work as well – it doesn’t kick in as quickly or doesn’t last as long as usual. This may occur because levodopa and protein are absorbed in the same area of the intestine, so taking them at the same time may mean that less levodopa is absorbed or absorbed more slowly.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/protein.jpg" alt="protein" class="example-class">
+
+
 **Dietary advice:**
 
 - You should not stop eating protein altogether.
@@ -99,6 +103,9 @@ Constipation is a common symptom experienced by people with Parkinson’s. It ca
 - Increase fibre intake (high fibre foods are listed at the end of this page)
 
 _See the <a href="/learn/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a> page for more details._
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/water-constipation.jpg" alt="drink-water" class="example-class">
+
 
 ---
 
