@@ -88,6 +88,10 @@ There are several tips that may help you to continue with different hobbies:
 - You may find it helpful to meet up with other people in groups for living with Parkinson’s. For example, if you’re feeling frustrated because you’re no longer able to do an activity to the level you once could, other people may be able to share how they manage this. By attending a Parkinson’s specific group, you can talk to, and share advice with, others who have been in a similar situation to you. The organisers of these social groups will also have experience of being able to adapt activities to help you make them more enjoyable again.
 - _Example:_ You enjoy golf but are finding it more difficult to get around the course due to problems walking. In some areas there are indoor golf groups designed for people who are older or have Parkinson’s. Instead of playing 18 full holes, members take part in putting tournaments or mini- golf with adapted golf clubs (e.g. clubs with extra wide grip). Not everyone takes part, some are happy to watch and comment.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/golf-with-friends.jpg" alt="golf-with-friends" class="example-class">
+
+
 ---
 
 ## My Experience
