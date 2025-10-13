@@ -118,15 +118,5 @@ If your iron levels are low:
 
 ---
 
-## More Information
+## Useful Organisations & Contacts
 
-| Organisation                                 | Information                                                                                                                           | Phone Number  | Website                                                                                                     |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------------------- |
-| **European Parkinson’s Disease Association** | In-depth information about RLS and Parkinson’s, including self-help strategies.                                                       | –             | [www.epda.eu.com](https://www.epda.eu.com/about-parkinsons/symptoms/motor-symptoms/restless-legs-syndrome/) |
-| **NHS**                                      | Information about RLS symptoms and treatments.                                                                                        | –             | [www.nhs.uk/conditions/restless-legs-syndrome](https://www.nhs.uk/conditions/restless-legs-syndrome/)       |
-| **Parkinson’s UK**                           | Support and advice on RLS in Parkinson’s. Info available online, print, or download. Helpline open Mon–Fri (9am–7pm), Sat (10am–2pm). | 0808 800 0303 | [www.parkinsons.org.uk/restless-legs](https://www.parkinsons.org.uk/information-and-support/restless-legs)  |
-| **RLS UK**                                   | Charity offering information and treatment details for RLS.                                                                           | –             | [www.rls-uk.org](https://www.rls-uk.org/)                                                                   |
-
-```
-
-```
