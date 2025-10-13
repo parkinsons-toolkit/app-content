@@ -6,8 +6,6 @@ Restless leg syndrome can feel like:
 - A pins and needles sensation in your legs
 - A burning sensation in your legs
 
-These sensations usually occur in the evening while you are relaxing. Moving your legs will likely make them immediately feel better, but the sensations will return once they are still again. Because these feelings tend to occur or get worse at night, they can disrupt people’s sleeping schedules.
-
 <div class="video-container">
 <iframe
   width="560"
@@ -17,6 +15,10 @@ These sensations usually occur in the evening while you are relaxing. Moving you
   allowfullscreen>
 </iframe>
 </div>
+
+These sensations usually occur in the evening while you are relaxing. Moving your legs will likely make them immediately feel better, but the sensations will return once they are still again. Because these feelings tend to occur or get worse at night, they can disrupt people’s sleeping schedules.
+
+
 
 ---
 
