@@ -34,7 +34,7 @@ Some Parkinson’s medicines (e.g. dopamine agonists) can cause ‘hypersexualit
 
 ---
 
-## What Should I Do About It?
+## What should I do about itt?
 
 At times, issues with sexual function are normal and may improve on their own. But if they don’t, there are things you can try that might help (see section ‘What can I try for myself?’).
 
@@ -54,7 +54,7 @@ If the problems are more frequent and bother you, talk to your GP or Parkinson�
 
 ---
 
-## What Can I Try for Myself?
+## What can I try for myself?
 
 ### Movement Problems
 
@@ -164,15 +164,9 @@ Other treatments for erectile dysfunction:
 
 ---
 
-## Useful Organisations & Resources
+## Useful Organisations & Contacts
 
-| Organisation              | Info                                                    | Contact       | Website                                                                                                                                                                                                                                     |
-| ------------------------- | ------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Michael J. Fox Foundation | Sexual & reproductive health with Parkinson’s           | –             | [michaeljfox.org/news/reproductive-health](https://www.michaeljfox.org/news/reproductive-health)                                                                                                                                            |
-| NHS                       | Pelvic floor exercises, vaginal dryness                 | –             | [Pelvic Floor Exercises](https://www.nhs.uk/common-health-questions/womens-health/what-are-pelvic-floor-exercises/), [Vaginal Dryness](https://www.nhs.uk/conditions/vaginal-dryness/)                                                      |
-| Parkinson’s UK            | Advice on sex, sexual problems, pregnancy & Parkinson’s | 0808 800 0303 | [Sex & Parkinson’s](https://www.parkinsons.org.uk/information-and-support/sex-and-parkinsons), [Pregnancy & Parkinson’s](https://www.parkinsons.org.uk/information-and-support/your-magazine/stories/pregnancy-and-parkinsons-ellies-story) |
-| Relate                    | Relationship counselling                                | –             | [Find your nearest Relate](https://www.relate.org.uk/find-your-nearest-relate)                                                                                                                                                              |
 
-```
 
-```
+
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
