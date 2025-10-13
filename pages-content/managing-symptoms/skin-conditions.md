@@ -21,7 +21,7 @@ Conditions that can be more common in people with Parkinson’s are:
 
 ---
 
-## What Might Be Causing It?
+## What might be causing it?
 
 ### Oily Skin
 
@@ -57,7 +57,7 @@ All of these skin issues are seen in people who don’t have Parkinson’s as we
 
 ---
 
-## What Should I Do About It?
+## What should I do about it?
 
 There are many things you can try for yourself as below, but there are some circumstances where you should seek professional help.
 
@@ -81,7 +81,7 @@ The other skin conditions discussed here are not urgent, but if bothering you th
 
 ---
 
-## What Can I Try for Myself?
+## What can I try for myself?
 
 ### Seborrhoeic Dermatitis
 
@@ -211,23 +211,9 @@ If skin cancer is suspected, you will be referred to a skin specialist: a dermat
 
 ---
 
-## More Information
-
-| Organisation                             | Information                                     | Phone Number  | Website                                                                                                                              |
-| ---------------------------------------- | ----------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Bose, Petsko & Eliezer (2018)            | Research article on Parkinson’s and melanoma    | -             | [PMC Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6130416/)                                                                 |
-| British Association of Dermatologists    | Seborrhoeic dermatitis info and management tips | -             | [BAD Leaflet](https://www.bad.org.uk/for-the-public/patient-information-leaflets/seborrhoeic-dermatitis)                             |
-| European Parkinson’s Disease Association | Skin and sweating with Parkinson’s              | -             | [EPDA Skin & Sweating](https://www.epda.eu.com/about-parkinsons/symptoms/non-motor-symptoms/skin-and-sweating/)                      |
-| NHS                                      | Skin safety in sun, moles, when to see GP       | -             | [Sun Safety](https://www.nhs.uk/live-well/healthy-body/sunscreen-and-sun-safety/) <br> [Moles](https://www.nhs.uk/conditions/moles/) |
-| Parkinson’s UK                           | Skin conditions and support for Parkinson’s     | 0808 800 0303 | [Parkinson’s UK Skin & Sweating](https://www.parkinsons.org.uk/information-and-support/skin-and-sweating)                            |
-
-```
+## Useful Organisations & Contacts
 
 
 
 
-
-
-
-
-```
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page. 
