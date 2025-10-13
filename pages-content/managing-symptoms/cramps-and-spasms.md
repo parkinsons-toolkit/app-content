@@ -124,28 +124,13 @@ Possible adjustments that may be considered:
 
 ---
 
-## Key Messages
+## Useful Organisations & Contacts
 
-- Cramps or spasms, known as dystonia, are experienced by some people with Parkinson’s.
-- Medical treatment depends on when they happen, so a diary can be helpful.
+| Organisation   | About                                                                                                                                                                                                                                                | Phone Number     | Website                                                                                                                                                                                                                                                   |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dystonia UK    | Offers comprehensive support, information, and advocacy for people affected by dystonia, including resources on diagnosis, treatment, personal stories, and community events.                                                                       | --               | <a href="https://www.dystonia.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.dystonia.org.uk</a>                                                                                                                             |
+| NHS            | The NHS has compact information on causes, living with dystonia and when to speak to a GP.                                                                                                                     | --               | <a href="https://www.nhs.uk/conditions/dystonia/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/conditions/dystonia/</a>                                                                                             |
+| Parkinson’s UK | Provides information about muscle cramps and dystonia in Parkinson’s, outlining causes, symptoms, and treatment options to help manage discomfort and improve mobility.<br><br>You can view this online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)   | <a href="https://www.parkinsons.org.uk/information-and-support/muscle-cramps-and-dystonia" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/muscle-cramps-and-dystonia</a>           |
 
----
 
-# More Information
-
-Please look at the bottom of the table for further information about call charges.
-
-| Organisation       | Information about                                                                                                                                 | Phone Number                                                               | Website                                                                                                                                                      |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Dystonia UK**    | Offers support to people with dystonia through information on causes and treatments as well as local support groups.                              | 020 7793 3651                                                              | [www.dystonia.org.uk](http://www.dystonia.org.uk)                                                                                                            |
-| **NHS**            | The NHS has compact information on causes, living with dystonia and when to speak to a GP.                                                        | –                                                                          | [www.nhs.uk/conditions/dystonia/](https://www.nhs.uk/conditions/dystonia/)                                                                                   |
-| **Parkinson’s UK** | Provides information about causes of dystonia with Parkinson’s and how to manage it. You can view this online, print it or have it mailed to you. | 0808 800 0303<br>**Free helpline:** open 9am–7pm (Mon–Fri), 10am–2pm (Sat) | [www.parkinsons.org.uk/information-and-support/dystonia-and-muscle-cramps](https://www.parkinsons.org.uk/information-and-support/dystonia-and-muscle-cramps) |
-
----
-
-\* Calls cost up to 13p/minute from landlines, between 3p–55p/minute from mobile phones.  
-You may get this call for free depending on your phone provider.
-
-```
-
-```
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
