@@ -107,6 +107,7 @@ _**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">
 If your healthcare professional suspects a non-Parkinson’s cause of sweating, they may arrange some further tests. These may be, for example, to check your thyroid hormone levels.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/man-sweating.png" alt="man-sweating" class="example-class">
+
 ---
 
 ## Further Treatments
@@ -152,13 +153,5 @@ Sometimes people just need a medication change during hot weather.
 
 ## Useful Organisations & Resources
 
-| Organisation                                    | Information                                  | Phone Number  | Website                                                                                                                            |
-| ----------------------------------------------- | -------------------------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| British Association of Dermatologists           | Leaflet on hyperhidrosis causes & treatments | –             | [www.bad.org.uk/shared/get-file.ashx?id=93&itemtype=document](https://www.bad.org.uk/shared/get-file.ashx?id=93&itemtype=document) |
-| European Parkinson’s Disease Association (EPDA) | In-depth info on sweating and Parkinson’s    | –             | [EPDA Skin & Sweating](https://www.epda.eu.com/about-parkinsons/symptoms/non-motor-symptoms/skin-and-sweating/)                    |
-| NHS                                             | Information about hyperhidrosis              | –             | [NHS Hyperhidrosis](https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/)                                               |
-| Parkinson’s UK                                  | Advice on sweating problems                  | 0808 800 0303 | [Parkinson’s UK Skin & Sweating](https://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems)                 |
 
-```
-
-```
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page. 
