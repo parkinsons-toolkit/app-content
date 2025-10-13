@@ -45,7 +45,7 @@ There are always things that need doing about the house, in the garden or wherev
 **Hobbies and Pastimes**
 When a person has apathy, hobbies and pastimes are often one of the first things to be affected. Sometimes these have become difficult because of Parkinson’s. Even if you cannot do all the things you used to enjoy, find a few that you can still do and build one or two of these into your routine. 
  
-For more advice, see our <a href="/learn/living-with-parkinsons/practical-advice/hobbiess-and-pets" class="internal-link">_Hobbies & Pets_</a> page. 
+For more advice, see our <a href="/learn/living-with-parkinsons/practical-advice/hobbies-and-pets" class="internal-link">_Hobbies & Pets_</a> page. 
 
 **Physical Activity**
 Apathy tends to lead to physical inactivity and that has consequences. While it is important for everyone to keep active, it is especially important when a person is apathetic. Even if they are able to get up and move around, they may spend much of their time sitting. Chores, hobbies and pastimes can offer chances to be more active. You can also build in a small amount of exercise into your routine. 
