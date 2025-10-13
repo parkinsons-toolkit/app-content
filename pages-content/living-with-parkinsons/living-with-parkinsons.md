@@ -6,7 +6,7 @@ In this _Living with Parkinson's_ section, you will find information on a variet
 
   The advice to keep active, eat well and stay social is, of course, applicable to everyone. The guidance in this section is intended to help you continue to lead a full life after your Parkinson’s diagnosis, with any challenges it presents. We also want to highlight the current research showing the extent to which exercise can improve mobility and overall quality of life in people with Parkinson’s.
 
-  It also includes a <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle factors" class="internal-link">_Lifestyle Factors_</a> subsection, which offers general medical recommendations to improve long-term health, such as bone health and blood pressure management.
+  It also includes a <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> subsection, which offers general medical recommendations to improve long-term health, such as bone health and blood pressure management.
 
   - <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a>
   - <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a>
