@@ -238,8 +238,5 @@ You may be referred to another service, see below typical referrals:
 | **RNIB**         | Advice and support for people affected by sight loss. Helpline available Mon–Fri (8am–8pm), Sat (9am–1pm). | 0303 123 9999\*\* | [www.rnib.org.uk/advice](https://www.rnib.org.uk/advice)                                                                                                                                                                                                  |
 | **Gov.uk**       | Practical information about driving with medical conditions.                                               | –                 | [Driving & Medical Conditions](https://www.gov.uk/driving-medical-conditions) <br> [Parkinson’s and Driving](https://www.gov.uk/parkinsons-disease-and-driving)                                                                                           |
 
-\* Calls cost up to 13p/min from landlines, 3p–55p/min from mobiles. Some providers may include calls free.
 
-```
-
-```
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
