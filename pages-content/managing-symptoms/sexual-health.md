@@ -16,19 +16,19 @@ Many people do not feel comfortable talking about sex, meaning sexual problems m
 
 ---
 
-## What Might Be Causing It?
+## What might be causing it?
 
 At times, it is completely normal to have issues with sex. Different factors can influence it, including tiredness and mood. Normal ageing also causes physical changes that affect the ability to have or enjoy sex. After the menopause women have lower oestrogen levels. This can cause less lubrication and sometimes the lining of the vagina can become sensitive or inflamed. This can make sex painful. Health conditions and medicines can affect sexual function in different ways, such as pain from arthritis or pelvic problems after childbirth. Diabetes, heart disease, smoking and excess alcohol can also lead to sexual difficulties.
 
 Parkinson's can impact on a person's sex life in various ways:
 
 - **Movement problems** (e.g. slowed movements or difficulties coordinating movements).
-  • **Fatigue** can lower your sex drive (libido).
-  • **Bladder or bowel problems** may make you or your partner nervous about engaging in sexual activity.
-  • **Medication:** some medications (e.g. those used to treat depression) can impact sexual desire, arousal levels, and ability to orgasm.
-  • **Reduced sex drive (libido)** can occur as a result of the psychological and emotional impact of managing a long-term condition or as a direct result of Parkinson’s. Tiredness and depression, which are common in Parkinson’s, can also reduce sex drive.
-  • **Reduced arousal and orgasm:** Parkinson’s can affect the body’s sexual function.
-  • **Confidence.**
+  - **Fatigue** can lower your sex drive (libido).
+  - **Bladder or bowel problems** may make you or your partner nervous about engaging in sexual activity.
+  - **Medication:** some medications (e.g. those used to treat depression) can impact sexual desire, arousal levels, and ability to orgasm.
+  - **Reduced sex drive (libido)** can occur as a result of the psychological and emotional impact of managing a long-term condition or as a direct result of Parkinson’s. Tiredness and depression, which are common in Parkinson’s, can also reduce sex drive.
+  - **Reduced arousal and orgasm:** Parkinson’s can affect the body’s sexual function.
+  - **Confidence.**
 
 Some Parkinson’s medicines (e.g. dopamine agonists) can cause ‘hypersexuality’. This is a marked increase in sexual interest, arousal, and behaviour. It might mean having more sexual thoughts or desire for different sexual practices. See the <a href="/learn/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page for more information.
 
