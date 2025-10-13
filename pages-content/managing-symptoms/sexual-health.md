@@ -175,6 +175,6 @@ Other treatments for erectile dysfunction:
 | Relate                     | Relate is a UK-based charity offering relationship support through counselling, advice, and resources for individuals, couples, and families. The website provides access to services covering communication issues, separation, parenting, and sex therapy. | 0300 100 1234* <br><br>Calls cost up to 10p/minute from landlines, between 3p- 40p/minute from mobile phones.  | <a href="https://www.relate.org.uk/which-service-right-you" class="external-link" target="_blank" rel="noopener noreferrer">https://www.relate.org.uk/which-service-right-you</a>                                                                                                               |
 
 
-*Calls cost up to 10p/minute from landlines, between 3p- 40p/minute from mobile phones.
+*Calls cost up to 10p/minute from landlines, between 3p- 40p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
