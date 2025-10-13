@@ -140,4 +140,5 @@ Your GP may refer you to another service, depending on your issue:
 
 \* Calls cost up to 13p/minute from landlines, between 3p–55p/minute from mobile phones. You may get this call for free dependent on your phone provider.
 
----
+
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
