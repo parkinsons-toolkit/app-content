@@ -1,6 +1,6 @@
 # Cramps & Spasms (Dystonia)
 
-Dystonia is an involuntary muscle contraction (this is different to **Dyskinesia** which refers to involuntary _movements_). Dystonia is caused by incorrect brain signals. Muscles become tighter or shorter than usual, making them stiff. Dystonia can involve twisting movements or spasms. Dystonia can feel painful or uncomfortable. Not everyone who has Parkinson’s will experience it.
+Dystonia is an involuntary muscle contraction (this is different to **Dyskinesia** which refers to <a href="/learn/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements_</a>). Dystonia is caused by incorrect brain signals. Muscles become tighter or shorter than usual, making them stiff. Dystonia can involve twisting movements or spasms. Dystonia can feel painful or uncomfortable. Not everyone who has Parkinson’s will experience it.
 
 Dystonia most commonly effects the legs and feet of someone with Parkinson’s. It can cause abnormal postures of limbs or digits. People may notice their toes curling. They may notice their feet turning in at the ankle. They may feel or see their big toe sticking up. Dystonia can also impact the eyelids. It can cause frequent blinking and an intolerance to light. It can affect the head and neck, the vocal cords, and/or the hands.
 
