@@ -82,7 +82,7 @@ There are many things you can try for yourself, but there are times when you sho
 
 If you have a new concern about sensory changes, don’t automatically blame it on your age or Parkinson’s. Your GP or Parkinson’s specialist team can assess if more tests are needed.
 
-If you are a driver, see the DVLA ‘standards of vision for driving’. You don’t need to notify the DVLA about changes in colour vision, or about long or short sightedness if you can meet these standards. If you have other problems with your sight, you should notify the DVLA. There is more guidance about this available on the<a href="https://www.gov.uk/driving-eyesight-rules" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK website</a>.
+If you are a driver, see the DVLA ‘standards of vision for driving’. You don’t need to notify the DVLA about changes in colour vision, or about long or short sightedness if you can meet these standards. If you have other problems with your sight, you should notify the DVLA. There is more guidance about this available on the <a href="https://www.gov.uk/driving-eyesight-rules" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK website</a>.
 
 ---
 
@@ -228,7 +228,7 @@ You may be referred to another service, see below typical referrals:
 
 ---
 
-## More Information
+## Useful Organisations & Contacts
 
 | Organisation     | Information                                                                                                | Phone Number      | Website                                                                                                                                                                                                                                                   |
 | ---------------- | ---------------------------------------------------------------------------------------------------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
