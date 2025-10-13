@@ -73,7 +73,7 @@ If the above do not apply to you, or whilst waiting for your appointment, there 
 
 Consider what would be convenient for you.
 
-There are also tips that may be relevant on the <a href="/learn/managing-symptoms/saliva" class="internal-link">_Saliva_</a>, <a href="/learn/managing-symptoms/saliva" class="internal-link">_Swallowing Difficulties_</a> and <a href="/learn/managing-symptoms/nausea" class="internal-link">Nausea</a> symptom pages if these are leading you to eat less. If maintaining weight is difficult because of practical aspects of buying, preparing or eating food then see the Daily Living page for guidance.
+There are also tips that may be relevant on the <a href="/learn/managing-symptoms/saliva" class="internal-link">_Saliva_</a>, <a href="/learn/managing-symptoms/swallowing" class="internal-link">_Swallowing Difficulties_</a> and <a href="/learn/managing-symptoms/nausea" class="internal-link">Nausea</a> symptom pages if these are leading you to eat less. If maintaining weight is difficult because of practical aspects of buying, preparing or eating food then see the Daily Living page for guidance.
 
 ---
 
