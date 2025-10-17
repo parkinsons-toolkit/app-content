@@ -127,7 +127,7 @@ There are a range of steps with regards to food and drink:
 - For difficulties in swallowing, please see the <a href="/learn/managing-symptoms/swallowing" class="internal-link">_Swallowing Difficulties_</a> symptom page.
 
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/daily_living_cultery.jpg" alt="cutlery-wider-handles" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/cultery.jpg" alt="cutlery-wider-handles" class="example-class">
 
 
 ---
@@ -342,7 +342,7 @@ As well as usual off-the-shelf lidded cups, there are other specialised designs 
 - If falls are a concern, please also see the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page.
 
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/daily_living_wrist_alarm.jpg" alt="wrist-alarm" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/wrist-alarm.jpg" alt="wrist-alarm" class="example-class">
 
 
 ---
