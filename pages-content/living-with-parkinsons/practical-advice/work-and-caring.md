@@ -206,6 +206,11 @@ So, when you feel ready, try to be clear and specific in describing your symptom
 
 If your children would like to talk to someone about how to deal with the news of a parent having Parkinson’s, or want more information, they can visit the <a href="https://www.parkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> website. Or, they can contact your local Parkinson’s UK support service (see the bottom of this page for contact details).
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/family.jpg" alt="children" class="example-class">
+
+
+
 ### Carers
 
 You may provide care for someone, or you may find in time one of your friends or family becomes a carer for you. There is support available for carers and a good place to start is <a href="https://www.carersuk.org/home" class="external-link" target="_blank" rel="noopener noreferrer">Carer's UK</a> or the <a href="https://carers.org/" class="external-link" target="_blank" rel="noopener noreferrer">Carer's Trust</a>. They have websites with useful information and contact details for local groups in your area. There is also information on our <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page on tips and equipment people with Parkinson’s can try to help them remain as independent as possible in everyday tasks.
