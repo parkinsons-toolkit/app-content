@@ -193,7 +193,7 @@ In the UK at this time:
 - There are different arrangements that can be made around payment. Some people prefer to have more control. Others prefer to have payments directly managed by the Social Care services. 
 
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/professional-helping.png" alt="professional-helping" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/carer.jpg" alt="professional-helping" class="example-class">
 
 
 ### Continuing healthcare
