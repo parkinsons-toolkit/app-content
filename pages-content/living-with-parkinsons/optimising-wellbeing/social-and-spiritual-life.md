@@ -147,7 +147,7 @@ When someone has Parkinson’s, it is common for relationship roles to change. F
 - Ask for help if you’re finding it hard to manage problems. Professionals such as Parkinson’s specialist nurses, counsellors, and psychologists can offer support and guidance.
 
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/social_and_spiritual_couple_dancing_2.jpg" alt="couple-dancing" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dancing-couple.jpg" alt="couple-dancing" class="example-class">
 
 
 ### Intimate relationships
