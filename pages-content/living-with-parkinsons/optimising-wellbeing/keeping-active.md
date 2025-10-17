@@ -214,7 +214,7 @@ Options vary based on where you live. Someone with local knowledge of activities
 - A charity – for example Parkinson’s UK
 - Your Parkinson’s specialist team
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/Physio.jpg" alt="physio-exercise" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/physio.jpg" alt="physio-exercise" class="example-class">
 
 
 ---
