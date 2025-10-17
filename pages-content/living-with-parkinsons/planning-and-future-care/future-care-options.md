@@ -192,6 +192,10 @@ In the UK at this time:
 - The financial thresholds change with time. Check online at gov.uk or ask your social worker.
 - There are different arrangements that can be made around payment. Some people prefer to have more control. Others prefer to have payments directly managed by the Social Care services. 
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/professional-helping.png" alt="professional-helping" class="example-class">
+
+
 ### Continuing healthcare
 NHS Continuing Healthcare (CHC) delivers complex levels of care when necessary and is paid for by the NHS/state. It covers the full cost of care for those who meet the criteria, based on health needs. This is typically in a situation of very complex healthcare needs. Parkinson’s itself does not make someone eligible for NHS Continuing Healthcare, but they may be eligible if they have complications and other healthcare conditions. Since health needs change over time, the eligibility can also change. CHC is coordinated through the Clinical Commissioning Group (CCG). You can look up your local CCG in the Service Directory on the NHS Website. 
  
