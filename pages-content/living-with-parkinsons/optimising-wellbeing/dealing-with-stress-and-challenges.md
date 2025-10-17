@@ -30,6 +30,9 @@ Being more active can help to combat stress. For some people, Parkinson’s make
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/yoga-stretch.jpg" alt="yoga" class="example-class">
 
+
+Achieving a more active lifestyle can be as simple as making small changes to your everyday routines, for example:
+
 <div class="video-container">
 <iframe
   width="560"
@@ -39,7 +42,7 @@ Being more active can help to combat stress. For some people, Parkinson’s make
   allowfullscreen>
 </iframe>
 </div>
-Achieving a more active lifestyle can be as simple as making small changes to your everyday routines, for example:
+
 
 - Tidying up a bit faster when doing the housework
 - Walk one or two flights of stairs if possible and then take the lift
@@ -57,6 +60,15 @@ The food we eat can affect the way we feel, both physically and mentally. And in
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dietitian.jpg" alt="dietician" class="example-class">
 
+
+Research recommends the following advice on how to follow a healthy, balanced diet:
+
+- Eat at least 5 portions of a variety of fruit and vegetables every day (e.g., try adding an extra portion of vegetables to your dinner or add a fruit snack into your day)
+- Eat healthy portions of food
+- Eat the right balance of food groups (carbohydrates, dairy, meat, fish, etc.)
+- Eat regular meals (e.g., breakfast, lunch and dinner)
+- Drink plenty of fluids (at least 6–8 glasses a day)
+
 <div class="video-container">
 <iframe
   width="560"
@@ -66,14 +78,6 @@ The food we eat can affect the way we feel, both physically and mentally. And in
   allowfullscreen>
 </iframe>
 </div>
-
-Research recommends the following advice on how to follow a healthy, balanced diet:
-
-- Eat at least 5 portions of a variety of fruit and vegetables every day (e.g., try adding an extra portion of vegetables to your dinner or add a fruit snack into your day)
-- Eat healthy portions of food
-- Eat the right balance of food groups (carbohydrates, dairy, meat, fish, etc.)
-- Eat regular meals (e.g., breakfast, lunch and dinner)
-- Drink plenty of fluids (at least 6–8 glasses a day)
 
 See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more guidance.
 
