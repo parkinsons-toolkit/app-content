@@ -73,6 +73,9 @@ There are several tips that may help you to continue with different hobbies:
 - There may come a time when doing an activity, you love is too difficult. Take time to think about ways you can change the activity while keeping it similar enough for you to enjoy.
 - _Example:_ You enjoy cycling and are part of a social group. But balancing on the bike is now difficult. You could think about alternatives such as joining an indoor spin class or indoor cycling group. This way, you can still enjoy the social aspect and the benefit of cycling without the risk of losing balance on a road.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gym.jpg" alt="gym" class="example-class">
+
+
 ### Involve other people
 
 - You may find it difficult to perform a hobby to the level that you once could. It may be enjoyable and helpful to involve other people in the hobbies you enjoy.
