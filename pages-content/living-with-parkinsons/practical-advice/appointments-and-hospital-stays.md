@@ -267,7 +267,7 @@ Managing medications around surgery can be complicated. This is particularly so 
 Some medications given in the hospital (for example medicines to reduce pain) can interact with the medications you take for your Parkinson’s. They can cause confusion, dizziness or nausea, for example. It is important to always let staff know if you don’t feel right in any way.
 
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hospital-help.jpg" alt="hospital-tests" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hospital-support.jpg" alt="hospital-tests" class="example-class">
 
 
 ---
