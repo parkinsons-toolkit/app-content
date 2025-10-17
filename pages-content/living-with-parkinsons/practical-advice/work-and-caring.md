@@ -93,8 +93,8 @@ Working a lot of hours every week may be challenging for you. If it becomes too 
 
 Depending on the type of job you have and your symptoms, there may be duties that need to be delegated to other colleagues. This may also involve taking on new duties that are manageable for you. For example, as a teacher you may decide to reduce the number of your teaching hours due to speech difficulties. Instead, you may be able to do more administrative work. So, it can help to talk with your manager about what duties you can still do and if your role may need to change.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/work.jpg alt="working" class="example-class">
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/work.jpg" alt="working" class="example-class">
 
 ### Support
 
