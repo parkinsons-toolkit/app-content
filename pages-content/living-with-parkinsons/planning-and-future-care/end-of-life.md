@@ -179,7 +179,7 @@ This can understandably be a very upsetting and disorientating time. It is helpf
 
 ### Practical tasks 
 After the death of someone there are a number of tasks that will need to be completed. 
-- Practical tasks after someone dies includes registering the death and making funeral arrangements. Further information about practical tasks can be found on the <a href="https://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Government website/a> – Search “what to do after someone dies”.
+- Practical tasks after someone dies includes registering the death and making funeral arrangements. Further information about practical tasks can be found on the <a href="https://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Government website</a> – Search “what to do after someone dies”.
 
 ### Bereavement
 - Every person processes bereavement differently. It can be a difficult time for everyone.
