@@ -168,6 +168,9 @@ To be eligible to claim, you must:
 - Not be in education (unless you’re claiming a disability benefit)
 - Have accepted a claimant commitment.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/benefits.jpg" alt="lady-on-phone" class="example-class">
+
+
 **Employment and Support Allowance (ESA)**
 Employment and Support Allowance can help if you’re not able to work as much due to a disability or health condition.
 
