@@ -33,6 +33,7 @@ Note a _nutritionist_ is not the same as a _dietitian_ (though some nutritionist
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/Doctors.jpg" alt="doctors" class="example-class">
 
 
+
 ### Healthcare Assistants (HCAs)
 
 Also known as _nursing assistants_, _nursing auxiliaries_ or _auxiliary nurses_.
