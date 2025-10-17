@@ -104,10 +104,6 @@ Make it clear to your employer what support you would like if, for example, you 
 
 It is important for your employer to understand that Parkinson’s is a progressive condition. It is also worth making them aware that the severity of your symptoms can change quickly within the same day. Ideally, there needs to be a level of flexibility. For example, some weeks you may work less than your agreed hours but other weeks more.
 
-Once you and your employer have agreed on some workplace adjustments, it is best to get this in writing and signed by both parties. This is known as a workplace adjustment agreement.
-
-If you are a member of your trade union at work, you can ask them for support. For example, if you didn’t feel comfortable speaking to your employer alone you can ask a trade union representative to attend meetings with you. They can also help you learn more about your legal rights.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -117,6 +113,11 @@ If you are a member of your trade union at work, you can ask them for support. F
   allowfullscreen>
 </iframe>
 </div>
+
+Once you and your employer have agreed on some workplace adjustments, it is best to get this in writing and signed by both parties. This is known as a workplace adjustment agreement.
+
+If you are a member of your trade union at work, you can ask them for support. For example, if you didn’t feel comfortable speaking to your employer alone you can ask a trade union representative to attend meetings with you. They can also help you learn more about your legal rights.
+
 
 ---
 
@@ -134,8 +135,6 @@ If you are off work for 7 days or less, when you return to work your employer ca
 
 ### Fit Notes
 
-You can get a fit note from a GP or hospital doctor. This service is free of charge if requested after the 7 days. If your employer agrees, a similar document can be provided by a physiotherapist, podiatrist or occupational therapist instead. This is called an Allied Health Professional (AHP) Health and Work Report. The fit note will say whether you are ‘not fit for work’ or ‘may be fit for work’. If it says ‘may be fit for work’, you need to discuss with your employer whether there are adjustments that could be made to help you return to work (for example, different hours or tasks). You should keep the original note and offer your employer to take a copy, if required.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -146,6 +145,9 @@ You can get a fit note from a GP or hospital doctor. This service is free of cha
 </iframe>
 </div>
 
+You can get a fit note from a GP or hospital doctor. This service is free of charge if requested after the 7 days. If your employer agrees, a similar document can be provided by a physiotherapist, podiatrist or occupational therapist instead. This is called an Allied Health Professional (AHP) Health and Work Report. The fit note will say whether you are ‘not fit for work’ or ‘may be fit for work’. If it says ‘may be fit for work’, you need to discuss with your employer whether there are adjustments that could be made to help you return to work (for example, different hours or tasks). You should keep the original note and offer your employer to take a copy, if required.
+
+
 ### Annual Leave
 
 If you do not qualify for statutory sick pay but you still need paid time off work, the other option could be to use some of your annual leave or holiday.
@@ -155,9 +157,6 @@ If you do not qualify for statutory sick pay but you still need paid time off wo
 ## Voluntary Work
 
 For some people, voluntary work offers a great balance between working and being retired. You can have a sense of responsibility and achieve a sense of purpose without the stress of a full-time paid job. Some voluntary work can also be very flexible. So, on days or weeks where you are feeling good you can do more hours and on weeks that are worse you can do less hours. This is something you can decide with the scheme or activity co-ordinator.
-
-The added benefit of volunteering is that it can boost your confidence and day-to-day wellbeing.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -167,6 +166,11 @@ The added benefit of volunteering is that it can boost your confidence and day-t
   allowfullscreen>
 </iframe>
 </div>
+
+The added benefit of volunteering is that it can boost your confidence and day-to-day wellbeing.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/volunteer.jpg" alt="volunteering" class="example-class">
+
 
 ### Deciding Where to Volunteer
 
