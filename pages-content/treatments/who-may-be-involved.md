@@ -167,7 +167,7 @@ Note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, th
   - _Scottish Social Services Council_
   - _Northern Ireland Social Care Council_
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/Social Worker with PPE.jpg" alt="social-worker" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/social-worker-ppe.jpg" alt="social-worker" class="example-class">
 
 
 ### Speech & Language Therapists (SLTs)
