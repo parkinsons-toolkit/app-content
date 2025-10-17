@@ -53,6 +53,10 @@ Much can be improved with equipment rather than needing adaptations, see the <a 
 - **Built in hoists** – Hoists are equipment that lift a person between a bed and a (wheel) chair, or a bed and a commode, and back. They are discussed in more detail on the <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page. There are types that are built-in, called **Gantry hoists**. These are attached to the floor in a frame.  
   Through floor or ceiling track hoists can be built into the ceiling.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/adaptations.jpg" alt="adaptations" class="example-class">
+
+
 ### Bathroom Adaptations
 
 Instead of, or as well as bathroom equipment, adaptations include:
