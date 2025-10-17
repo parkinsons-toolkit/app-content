@@ -115,7 +115,7 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
   - They can conduct reviews of medications.
   - Some pharmacists will offer other services, such as travel or flu vaccinations.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/Pharmacist.jpg" alt="pharmacist" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/pharmacist.jpg" alt="pharmacist" class="example-class">
 
 
 ### Physiotherapists
@@ -293,8 +293,6 @@ In the UK, there is a split between **_Healthcare_** (National Health Service, N
   - Review the reports for the provider by the _Care Quality Commission (CQC)_ – website below.
   - Some professionals work across both NHS and private services whereas others just work in one.
 - More information is available on the NHS website.
-
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/mobility; young professional helping older man.jpg" alt="private-healthcare" class="example-class">
 
 
 ### Private Social Care
