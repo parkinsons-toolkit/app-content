@@ -189,7 +189,7 @@ Some books are available in audiobook format, if preferred.
 
 There are also some websites that have a wide range of advice and resources groups. You can pay to become a member of these groups, if you wish. You can find links to more information and guidance about these at the bottom of this page.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/anxiety_landscape_with_reflection.JPG" alt="landscape-with-reflection" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/anxiety-landscape.jpg" alt="landscape-with-reflection" class="example-class">
 
 
 ### Self-help Cognitive Behavioural Therapy
