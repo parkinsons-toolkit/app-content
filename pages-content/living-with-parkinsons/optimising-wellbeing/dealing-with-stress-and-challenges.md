@@ -30,7 +30,15 @@ Being more active can help to combat stress. For some people, Parkinson’s make
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/yoga-stretch.jpg" alt="yoga" class="example-class">
 
-
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/h-ggLKNIMss"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
 Achieving a more active lifestyle can be as simple as making small changes to your everyday routines, for example:
 
 - Tidying up a bit faster when doing the housework
@@ -41,31 +49,13 @@ Achieving a more active lifestyle can be as simple as making small changes to yo
 
 See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page for more guidance or visit <a href="https://www.parkinsons.org.uk/information-and-support/physical-activity-and-exercise" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> and see their exercise page for more advice.
 
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/h-ggLKNIMss"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
+
 
 ### Diet
 
 The food we eat can affect the way we feel, both physically and mentally. And in turn, how we feel can affect the food we eat. So, healthy eating habits are important for improving our mood and general sense of wellbeing.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dietitian.jpg" alt="dietician" class="example-class">
-
-Research recommends the following advice on how to follow a healthy, balanced diet:
-
-- Eat at least 5 portions of a variety of fruit and vegetables every day (e.g., try adding an extra portion of vegetables to your dinner or add a fruit snack into your day)
-- Eat healthy portions of food
-- Eat the right balance of food groups (carbohydrates, dairy, meat, fish, etc.)
-- Eat regular meals (e.g., breakfast, lunch and dinner)
-- Drink plenty of fluids (at least 6–8 glasses a day)
-
-See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more guidance.
 
 <div class="video-container">
 <iframe
@@ -77,7 +67,29 @@ See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well"
 </iframe>
 </div>
 
+Research recommends the following advice on how to follow a healthy, balanced diet:
+
+- Eat at least 5 portions of a variety of fruit and vegetables every day (e.g., try adding an extra portion of vegetables to your dinner or add a fruit snack into your day)
+- Eat healthy portions of food
+- Eat the right balance of food groups (carbohydrates, dairy, meat, fish, etc.)
+- Eat regular meals (e.g., breakfast, lunch and dinner)
+- Drink plenty of fluids (at least 6–8 glasses a day)
+
+See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more guidance.
+
+
+
 ### Sleep
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/b5nuz30j7E4"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
 
 Getting good-quality sleep is vital for our mental wellbeing. There are a few things you can try to help improve the amount and quality of your sleep, including:
 
@@ -90,24 +102,10 @@ Getting good-quality sleep is vital for our mental wellbeing. There are a few th
 
 If you are experiencing sleep disturbance, see the <a href="/learn/managing-symptoms/sleep" class="internal-link">_Sleep Disturbances_</a> page and <a href="/learn/managing-symptoms/dreams" class="internal-link">_Dreams_</a> .
 
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/b5nuz30j7E4"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
 
 ### Relaxation
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/relaxing-mindful.jpg" alt="relaxing" class="example-class">
-
-
-Doing something relaxing can help to reduce stress and improve your mental wellbeing. Although life can be busy, it is important to try to do things you enjoy. This might be listening to music, reading a book, going for a walk, or getting creative by painting or colouring. You might try to carve out a regular time or times in your daily routine for a relaxation activity.
-
-See the <a href="https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/relaxation-tips/#.XaRamflKi70" class="external-link" target="_blank" rel="noopener noreferrer">Mind</a> website for tips on how to add relaxation into your daily life. They also describe relaxation exercises you can try. You can find more links to useful information and guidance at the bottom of this page.
 
 <div class="video-container">
 <iframe
@@ -119,17 +117,15 @@ See the <a href="https://www.mind.org.uk/information-support/tips-for-everyday-l
 </iframe>
 </div>
 
+Doing something relaxing can help to reduce stress and improve your mental wellbeing. Although life can be busy, it is important to try to do things you enjoy. This might be listening to music, reading a book, going for a walk, or getting creative by painting or colouring. You might try to carve out a regular time or times in your daily routine for a relaxation activity.
+
+See the <a href="https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/relaxation-tips/#.XaRamflKi70" class="external-link" target="_blank" rel="noopener noreferrer">Mind</a> website for tips on how to add relaxation into your daily life. They also describe relaxation exercises you can try. You can find more links to useful information and guidance at the bottom of this page.
+
+
+
 ### Breathing strategies
 
 Practising breathing techniques can help you to learn how to breathe more deeply and feel calmer.
-
-Here’s a simple breathing exercise you can try, which will take no longer than 5 minutes:
-
-- Get into a position you find comfortable (this can be standing, sitting, lying, etc.)
-- Try to keep your shoulders down and relaxed. Place your hand on your stomach.
-- Breathe in through your nose and out through your mouth. Feel your stomach rise as you breathe in and fall as you breathe out.
-- You may find it useful to count steadily as you breathe; “one, two, three, four, five” as you breathe in and “one, two, three, four, five” as you breathe out. Try to work out what feels comfortable for you.
-- Repeat for 3–5 minutes
 
 <div class="video-container">
 <iframe
@@ -141,13 +137,19 @@ Here’s a simple breathing exercise you can try, which will take no longer than
 </iframe>
 </div>
 
+Here’s a simple breathing exercise you can try, which will take no longer than 5 minutes:
+
+- Get into a position you find comfortable (this can be standing, sitting, lying, etc.)
+- Try to keep your shoulders down and relaxed. Place your hand on your stomach.
+- Breathe in through your nose and out through your mouth. Feel your stomach rise as you breathe in and fall as you breathe out.
+- You may find it useful to count steadily as you breathe; “one, two, three, four, five” as you breathe in and “one, two, three, four, five” as you breathe out. Try to work out what feels comfortable for you.
+- Repeat for 3–5 minutes
+
+
+
 ### Complementary therapies
 
 Complementary therapies (e.g., reflexology, aromatherapy or massage) are used alongside other treatments. Some people with Parkinson’s report positive experiences of complementary therapies such as finding them relaxing, improved sleep, and reduced anxiety.
-
-Some complementary therapies are eaten or applied to the skin. Some of these can interact with other medications you might take. Check with your GP, specialist, or Parkinson's nurse before you use these.
-
-See our <a href="/learn/treatment-and-therapies/complementary-therapies" class="internal-link">_Complementary Therapies_</a> page for more information.
 
 <div class="video-container">
 <iframe
@@ -158,6 +160,12 @@ See our <a href="/learn/treatment-and-therapies/complementary-therapies" class="
   allowfullscreen>
 </iframe>
 </div>
+
+Some complementary therapies are eaten or applied to the skin. Some of these can interact with other medications you might take. Check with your GP, specialist, or Parkinson's nurse before you use these.
+
+See our <a href="/learn/treatment-and-therapies/complementary-therapies" class="internal-link">_Complementary Therapies_</a> page for more information.
+
+
 
 ### Problem-Solving Therapy
 
@@ -192,10 +200,6 @@ Here is some guidance on how you can work through problem-solving therapy by you
      - Is the step realistic?
      - Have new problems occurred which I didn’t plan for at the beginning?
 
-It’s important to keep in mind that the goal of PST is not to solve all problems. Instead, the goal is to learn more effective problem-solving skills. This will then help you to cope more effectively with life stressors and feel more in control of your life.
-
-See the <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a> section for more on how to do problem solving therapy.
-
 <div class="video-container">
 <iframe
   width="560"
@@ -206,6 +210,12 @@ See the <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a> s
 </iframe>
 </div>
 
+It’s important to keep in mind that the goal of PST is not to solve all problems. Instead, the goal is to learn more effective problem-solving skills. This will then help you to cope more effectively with life stressors and feel more in control of your life.
+
+See the <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a> section for more on how to do problem solving therapy.
+
+
+
 ---
 
 ## My Experience
@@ -215,10 +225,6 @@ People affected by Parkinson’s describe their experiences.
 > “Sometimes I find if things get too stressful for me or I’m having a bad day I get a colouring book – you know those adult ones? Or people do word searches, write down their thoughts or go for a walk; just different ways people can deal with if they’re having a bad day or.”  
 > _(Person with Parkinson’s)_
 
-> “When you sit there with Parkinson’s, you think, ‘I can’t do that, I can’t do this, I can’t go here,  
-> I can’t go there. I can’t eat this,’ what about all the things you can do, you forget. I don’t dwell  
-> on the bad stuff, and the good stuff sometimes takes my mind away from the bad stuff. I can manage it a little bit better.”  
-> _(Person with Parkinson’s)_
 
 <div class="video-container">
 <iframe
@@ -229,6 +235,12 @@ People affected by Parkinson’s describe their experiences.
   allowfullscreen>
 </iframe>
 </div>
+
+> “When you sit there with Parkinson’s, you think, ‘I can’t do that, I can’t do this, I can’t go here,  
+> I can’t go there. I can’t eat this,’ what about all the things you can do, you forget. I don’t dwell  
+> on the bad stuff, and the good stuff sometimes takes my mind away from the bad stuff. I can manage it a little bit better.”  
+> _(Person with Parkinson’s)_
+
 
 ---
 
