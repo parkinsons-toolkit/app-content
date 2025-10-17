@@ -119,7 +119,7 @@ Stress is something we all encounter. Life changes, such as personal problems, r
 To overcome stress or prevent too much stress, there are lots of practical steps you can take. At heart of this is looking after yourself and your wellbeing.
 
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/end_of_life_rainbow.jpg" alt="rainbow" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/rainbow.jpg" alt="rainbow" class="example-class">
 
 ---
 
