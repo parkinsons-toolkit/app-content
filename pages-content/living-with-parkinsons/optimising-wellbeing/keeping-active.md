@@ -150,6 +150,8 @@ This could be built into your routine through day-to-day tasks, for example writ
 - It seems that rhythm or beat of music helps people with Parkinson’s make some movements and so undertake activity. Some people find it more fun too.
 - Consider exercising to music or taking part in dance as part of your exercise.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/active-dance.jpg" alt="dancing" class="example-class">
+
 ---
 
 ## Putting it all Together
