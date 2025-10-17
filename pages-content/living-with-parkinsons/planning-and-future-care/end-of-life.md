@@ -4,7 +4,7 @@ Regardless of health conditions, for many people, the thought of dying is wrappe
 If you are ready to think about your future, there are some things you can think about now. These can be a positive and empowering way to prepare. 
 
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/for_famies_and_carers_candles_bereavement.jpg" alt="candles" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/candles.jpg" alt="candles" class="example-class">
 
 
 ---
