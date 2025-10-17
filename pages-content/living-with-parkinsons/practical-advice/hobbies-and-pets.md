@@ -155,7 +155,7 @@ If you are struggling to care for a pet alone, there are some strategies you can
 - **Get some support** — If there is no family or friends who can help, there are a number of organisations that might be able to help (see below).
 
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hobbies_pets_karla_with_dog.jpg" alt="woman-with-dog" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dog.jpg" alt="woman-with-dog" class="example-class">
 
 ---
 
