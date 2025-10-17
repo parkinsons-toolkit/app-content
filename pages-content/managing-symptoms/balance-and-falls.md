@@ -271,7 +271,7 @@ Once you have spoken to a healthcare professional, they can help reassure you. T
   - Extra support, e.g. carers
   - Alarm systems
  
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/OT.jpg" alt="occupational-therapy" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/ot.jpg" alt="occupational-therapy" class="example-class">
 
 They may make recommendations to the Adult Social Care services if this is needed.
 
