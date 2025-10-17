@@ -112,9 +112,6 @@ Whichever way you go into hospital it is important for staff to know you have Pa
 - **Clothes & toiletries**: Bring your normal clothes to get dressed into if you are well enough or when leaving hospital. You may also want to bring your own pyjamas, dressing gown and well-fitting slippers. If staying overnight, you will also need toiletries e.g. toothbrush, toothpaste, soap, shampoo, flannel etc.
 - **Other items**: Visitors can be restricted in hospital wards, due to a risk of infection. To help with feeling lonely, some people like to bring photographs of their pet or close family or friends. It also helps to have a ‘smart’ device such as a smart phone or a tablet, you can use to see your family or friends. The staff can help you with using this if you are unfamiliar with using these.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hospital.jpg" alt="hospital" class="example-class">
-
-
 #### Sharing information
 
 When someone is going to stay in the hospital, personal and health information is recorded as a standard process. Accurate up-to-date information is essential to provide the best care. If an admission is planned, information may be asked in advance, but if it is unplanned, it will be asked on arrival. In addition to administrative details, expect to be asked about:
