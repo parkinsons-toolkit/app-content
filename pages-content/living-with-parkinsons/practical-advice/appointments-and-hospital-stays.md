@@ -266,14 +266,15 @@ Managing medications around surgery can be complicated. This is particularly so 
 
 Some medications given in the hospital (for example medicines to reduce pain) can interact with the medications you take for your Parkinson’s. They can cause confusion, dizziness or nausea, for example. It is important to always let staff know if you don’t feel right in any way.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hospital-help.jpg" alt="hospital-tests" class="example-class">
+
+
 ---
 
 ## Hospital policies
 
 Local hospital policies widely vary, from parking charges through to visiting hours. Different ways of communicating information to friends and relatives are used in different hospitals. If you want more information about how something works in your hospital, ask a member or staff or try looking at the hospital website. There are however a few areas that are the same across the NHS that it may be helpful to know about.
-
-
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hospital.jpg" alt="hospital" class="example-class">
 
 
 ### Single rooms and open wards
@@ -283,6 +284,8 @@ Single rooms are not standard for NHS care. Availability of single rooms varies 
 ### Risk assessment for blood clots
 
 Everyone staying in hospital is assessed for their risk of developing blood clots. This is a medical ‘risk-benefit decision process’ that guides the formulation of a plan. This plan may sometimes involve a small daily injection of a blood thinning medicine to reduce the risk of blood clots. If you have any questions, ask the team looking after you.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hospital.jpg" alt="hospital" class="example-class">
 
 ### Preventing spread of infection
 
