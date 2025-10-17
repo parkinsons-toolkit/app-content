@@ -156,6 +156,10 @@ Living with Parkinson’s can make daily activities and chores more difficult as
 - **Adapt your approach**
   - If energy or balance are significant concerns, try sitting down while doing tasks such as ironing, washing, and folding to reduce the risk of falls and amount of energy used.
 
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/washing.jpg" alt="hanging-washing" class="example-class">
+
+
 ---
 
 ## My Experience
