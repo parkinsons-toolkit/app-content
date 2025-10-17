@@ -7,7 +7,7 @@ Here you'll find a comprehensive collection of all the resources mentioned or li
 To make things easy to navigate, all resources on this page are grouped by organisation and listed in alphabetical order. This allows you to quickly find materials from familiar names or explore new ones at your own pace.
 
 ## Looking for something specific? 
-If you're searching for resources related to a particular topic, such as managing specific symptoms, accessing legal advice, or exploring therapies, we recommend visiting the relevant section of the toolkit. At the bottom of each topic page, you’ll find a curated list of useful organisations and contacts tailored to that subject.
+If you're searching for resources related to a particular topic, such as managing specific symptoms, accessing legal advice, or exploring therapies, we recommend visiting the relevant section of the toolkit. At the bottom of each page, you’ll find a handpicked list of organisations and contacts that can offer support and guidance.
 
 **Please look at the bottom of the table for further information about call charges.**
 
