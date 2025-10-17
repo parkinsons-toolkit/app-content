@@ -273,7 +273,7 @@ Some medications given in the hospital (for example medicines to reduce pain) ca
 Local hospital policies widely vary, from parking charges through to visiting hours. Different ways of communicating information to friends and relatives are used in different hospitals. If you want more information about how something works in your hospital, ask a member or staff or try looking at the hospital website. There are however a few areas that are the same across the NHS that it may be helpful to know about.
 
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hospital-hall.jpg" alt="hospital" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hospital.jpg" alt="hospital" class="example-class">
 
 
 ### Single rooms and open wards
