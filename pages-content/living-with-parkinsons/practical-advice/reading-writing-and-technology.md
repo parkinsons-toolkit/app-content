@@ -108,7 +108,7 @@ You can also consider:
 
 If you struggle to communicate by speaking or writing, you could consider using equipment that may reduce these challenges - like a computer or tablet. But, you may find it challenging to use these if you have a lot of tremor or stiffness.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/computers.jpg" alt="computer" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/computer.jpg" alt="computer" class="example-class">
 
 
 ### What can I try for myself?
