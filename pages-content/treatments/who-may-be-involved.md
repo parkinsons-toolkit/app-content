@@ -30,7 +30,7 @@ Note a _nutritionist_ is not the same as a _dietitian_ (though some nutritionist
   - 'Foundation Doctors' are in their first two years of training after graduating from university medical school. They will be gaining broad experience across a range of specialties and settings.
   - Other terms that you may see include ‘Fellow’, ‘Trust Grade’ or ‘Associate Specialist’.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/Doctors.jpg" alt="doctors" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/doctors.jpg" alt="doctors" class="example-class">
 
 
 
