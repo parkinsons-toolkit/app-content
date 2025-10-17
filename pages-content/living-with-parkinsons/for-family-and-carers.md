@@ -382,7 +382,7 @@ _**Tips for coping with changes in relationships:**_
 - Keep talking
 
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/for_famies_and_carers_people_walking_in_park.jpg" alt="walk-in-park" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/park.jpg" alt="walk-in-park" class="example-class">
 
 
 ---
