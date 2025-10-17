@@ -183,6 +183,9 @@ _Tips for keeping a gratitude diary..._
 - Try to include as much detail as possible about _why_ you’re grateful.
 - Plan a time when you will write in your diary. Consider setting an alarm on your phone if you find that you are forgetting to write your diary entries
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/diary.jpg" alt="gratitude-diary" class="example-class">
+
+
 ### Complementary Therapies
 
 Complementary therapies include massage, acupuncture and aromatherapy. These therapies have not been tested in clinical trials, but some people with Parkinson’s report having positive experiences of them. These therapies may not directly treat the depression but can be helpful for relaxation and general wellbeing.
