@@ -123,7 +123,7 @@ It is beyond the scope of this website to outline all current studies in Parkins
 
 As research evolves, we will learn more, and understanding these research principles may make help you feel more confident in following future research developments.
 
---
+---
 
 ## New Drug and Treatment Trials
 There are lots of drug and treatment trials taking place in Parkinson’s disease today! Some studies aim to improve current treatments, while others focus on discovering new treatments or potential cures. As Parkinson’s affects everyone differently, it is likely that no single treatment will work for all patients.
