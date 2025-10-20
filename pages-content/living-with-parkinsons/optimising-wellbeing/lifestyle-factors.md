@@ -131,15 +131,15 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
 
 ### Smoking
 
-- Smoking has negative impacts on many aspects of health. It can contribute to symptoms such as fatigue, loss of taste and smell, sexual problems, and low mood and anxiety.
-- Research has shown there are lower rates of smoking in people with Parkinson’s compared with people without Parkinson’s. Why this is the case is not fully understood. But research so far concludes that risks of smoking outweigh the benefits. There is no evidence that smoking will stop or slow Parkinson’s.
-- There are services available to help you stop smoking. See the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> for more details.
+- Smoking has negative impacts on many aspects of health. It can contribute to symptoms such as fatigue, loss of taste and smell, sexual problems, and increased feelings of low mood and anxiety.
+- People with Parkinson’s tend to smoke less than those without. Some studies suggest lower rates of Parkinson’s among smokers, but there is no evidence that smoking prevents or slows its progression. The health risks of smoking outweigh any potential benefits.
+- There are services available to help you stop smoking. See the <a href="https://www.nhs.uk/better-health/quit-smoking/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> on quitting smoking for more details.
 
 ### Alcohol
 
 - This is covered in more detail on our <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page.
 - Guidelines recommend you drink no more than 14 units of alcohol a week (2 units = a pint of beer or a medium glass of wine)
-- If you think you drink too much alcohol, there is lots of support available. See the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> for more information.
+- If you think you drink too much alcohol, there is lots of support available. See the <a href="https://www.nhs.uk/better-health/drink-less/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> for more information.
 
 ### Cannabis
 
