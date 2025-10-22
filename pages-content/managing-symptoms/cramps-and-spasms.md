@@ -1,9 +1,5 @@
 # Cramps & Spasms (Dystonia)
 
-Dystonia is an involuntary muscle contraction (this is different to **Dyskinesia** which refers to <a href="/learn/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements_</a>). Dystonia is caused by incorrect brain signals. Muscles become tighter or shorter than usual, making them stiff. Dystonia can involve twisting movements or spasms. Dystonia can feel painful or uncomfortable. Not everyone who has Parkinson’s will experience it.
-
-Dystonia most commonly effects the legs and feet of someone with Parkinson’s. It can cause abnormal postures of limbs or digits. People may notice their toes curling. They may notice their feet turning in at the ankle. They may feel or see their big toe sticking up. Dystonia can also impact the eyelids. It can cause frequent blinking and an intolerance to light. It can affect the head and neck, the vocal cords, and/or the hands.
-
 <div class="video-container">
 <iframe
   width="560"
@@ -13,6 +9,12 @@ Dystonia most commonly effects the legs and feet of someone with Parkinson’s. 
   allowfullscreen>
 </iframe>
 </div>
+
+
+Dystonia is an involuntary muscle contraction (this is different to **Dyskinesia** which refers to <a href="/learn/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements_</a>). Dystonia is caused by incorrect brain signals. Muscles become tighter or shorter than usual, making them stiff. Dystonia can involve twisting movements or spasms. Dystonia can feel painful or uncomfortable. Not everyone who has Parkinson’s will experience it.
+
+Dystonia most commonly effects the legs and feet of someone with Parkinson’s. It can cause abnormal postures of limbs or digits. People may notice their toes curling. They may notice their feet turning in at the ankle. They may feel or see their big toe sticking up. Dystonia can also impact the eyelids. It can cause frequent blinking and an intolerance to light. It can affect the head and neck, the vocal cords, and/or the hands.
+
 
 ---
 
@@ -44,14 +46,6 @@ There are various strategies you can try for yourself discussed below. You shoul
 
 ### Stretching
 
-- It is best to be guided by your physiotherapist about specific stretches.
-- Stretching should feel like a gentle pull on the muscle, not be painful. If you experience pain, speak to your physiotherapist, GP or Parkinson’s specialist team.
-- Work through the different parts of the body. You may wish to pay particular attention to the parts of the body where you get cramps or spasms.
-- Hold each stretch for 10-30 seconds, keeping it still and steady.
-- Breathe slowly in and out during the stretch. Don’t hold your breath.
-- Repeat each stretch 3-4 times, with a brief break between.
-- Try to make this a routine part of your life, several times per week.
-
  <div class="video-container">
 <iframe
   width="560"
@@ -61,6 +55,16 @@ There are various strategies you can try for yourself discussed below. You shoul
   allowfullscreen>
 </iframe>
 </div>
+
+- It is best to be guided by your physiotherapist about specific stretches.
+- Stretching should feel like a gentle pull on the muscle, not be painful. If you experience pain, speak to your physiotherapist, GP or Parkinson’s specialist team.
+- Work through the different parts of the body. You may wish to pay particular attention to the parts of the body where you get cramps or spasms.
+- Hold each stretch for 10-30 seconds, keeping it still and steady.
+- Breathe slowly in and out during the stretch. Don’t hold your breath.
+- Repeat each stretch 3-4 times, with a brief break between.
+- Try to make this a routine part of your life, several times per week.
+
+
 ---
 
 ## My Experience
