@@ -8,12 +8,6 @@ Other people with Parkinson’s may experience dry mouth. This can lead to denta
 
 ## What might be causing it?
 
-In Parkinson’s, as the movements slow down, so does the natural tendency to swallow. If less saliva is swallowed, it can pool in the mouth and lead to drooling. This may especially happen when people are focussed on doing something else, like a hobby or watching TV. Some people may find it hard to seal their lips or may have a head-down posture, both of which make it harder to control the flow of saliva.
-
-Other conditions can cause problems with saliva. Either due to excess fluid in the mouth or due to weakness in face muscles. Problems controlling saliva in Parkinson’s tend to occur over time. Sudden new problems are less likely to be Parkinson’s. Allergies or infections (like a cold) can lead to excess fluid. The symptoms tend to be mild and short term. Also, drooling tends to happen when asleep. They tend to cause other symptoms too, like sneezing and a runny nose. Weakness of the face can occur for many reasons. This includes after a stroke or injury.
-
-Parkinson's drugs and other drugs can cause a dry mouth. Breathing through the mouth can cause a dry mouth. It can happen when dehydrated from smoking, or after surgery, or injury to the face or neck.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -23,6 +17,14 @@ Parkinson's drugs and other drugs can cause a dry mouth. Breathing through the m
   allowfullscreen>
 </iframe>
 </div>
+
+In Parkinson’s, as the movements slow down, so does the natural tendency to swallow. If less saliva is swallowed, it can pool in the mouth and lead to drooling. This may especially happen when people are focussed on doing something else, like a hobby or watching TV. Some people may find it hard to seal their lips or may have a head-down posture, both of which make it harder to control the flow of saliva.
+
+Other conditions can cause problems with saliva. Either due to excess fluid in the mouth or due to weakness in face muscles. Problems controlling saliva in Parkinson’s tend to occur over time. Sudden new problems are less likely to be Parkinson’s. Allergies or infections (like a cold) can lead to excess fluid. The symptoms tend to be mild and short term. Also, drooling tends to happen when asleep. They tend to cause other symptoms too, like sneezing and a runny nose. Weakness of the face can occur for many reasons. This includes after a stroke or injury.
+
+Parkinson's drugs and other drugs can cause a dry mouth. Breathing through the mouth can cause a dry mouth. It can happen when dehydrated from smoking, or after surgery, or injury to the face or neck.
+
+
 
 ---
 
@@ -37,6 +39,17 @@ Note if you have <ins>new</ins> weakness in the face, you should see your GP. <i
 ---
 
 ## What can I try for myself?
+
+
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/gWtEblF4Gi0" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
 
 ### For too much saliva:
 
@@ -54,15 +67,6 @@ Note if you have <ins>new</ins> weakness in the face, you should see your GP. <i
 - Stretch lips into a wide smile, hold for a count of four, and relax.
 - More exercises are available online at Parkinson’s UK o These exercises promote awareness of your lips and remind you to hold lips firmly together to hold saliva in.
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/gWtEblF4Gi0" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 ### For dry mouth:
 
