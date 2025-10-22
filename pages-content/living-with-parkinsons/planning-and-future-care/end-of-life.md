@@ -37,6 +37,16 @@ Consider legal and financial matters. Are there loose ends to tie up? Are there 
  
 The Citizen’s Advice website has more information on the legal and financial aspects. Their local offices can help you find a solicitor if you do not have one. 
 
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/xBkhJC4Zlto" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 Legal and financial details that are helpful to securely record: 
 - Your records of wishes (as above).
 - Bank account, debit cards, credit cards.
@@ -55,16 +65,6 @@ Other practical considerations:
 - Health contacts.
 - Carer or care agency contacts.
 - Employer details. 
-
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/xBkhJC4Zlto" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
@@ -113,15 +113,6 @@ There can be practical difficulties in moving to a new place of care if someone 
   - Since they are a limited resource, it is not always possible to go to a hospice for end of life care.
 - You can visit most hospices to help make this decision. 
 
-### Hospital
-- Many people spend the end of their life in hospital.
-- Many hospitals try to allocate a single room where possible when someone is at the end of life, but this is not always possible.
-- Some people prefer this option:
-  - There is always a member of staff around.
-- However:
-  - Hospitals are more likely to be noisy and less peaceful.
-  - Private rooms are not guaranteed. 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -131,6 +122,16 @@ There can be practical difficulties in moving to a new place of care if someone 
   allowfullscreen>
 </iframe>
 </div>
+
+### Hospital
+- Many people spend the end of their life in hospital.
+- Many hospitals try to allocate a single room where possible when someone is at the end of life, but this is not always possible.
+- Some people prefer this option:
+  - There is always a member of staff around.
+- However:
+  - Hospitals are more likely to be noisy and less peaceful.
+  - Private rooms are not guaranteed. 
+
 ---
 
 ## Medicines towards end of life 
@@ -142,15 +143,6 @@ A person’s _usual medication_ may not be appropriate if they are nearing end o
 
 This is a delicate balancing act. Parkinson’s medicines are used to improve symptoms and so in general should be continued. They should be optimised where possible, to achieve best control of symptoms. The benefits and side effects must be considered, and these can change over time. 
 
-Conditions also change over time: for example, many people develop difficulty in swallowing pills. This may require a change, for example to medicine given as a patch on the skin (e.g. rotigotine patch). 
- 
-If someone is nearing end of their life, it is good to prepare for symptoms that may happen. This may involve getting medicine just in case it is needed. These ‘anticipatory’ medicines may include medicine to control pain, breathlessness, distress or agitation, nausea and secretions. These are considered for anyone near the end of life and are not specific to any medical condition. However, the _choice_ of these medicines should take Parkinson’s into consideration:
-- Haloperidol, metoclopramide and prochlorperazine (used for sickness) should generally be avoided even in palliative care for people with Parkinson’s. They can worsen Parkinson’s symptoms.
-- Alternatives such as cyclizine or ondansetron should be considered for nausea.
-- Domperidone is suitable in Parkinson’s (but is not given by injection). 
-
-When a person is dying, they may not be able to take pills so small injections may be used. These injections go just under the skin, rather than via a drip into a vein. If the medicine injection is needed very regularly, a ‘pump’ to give the medicine continuously under the skin may be considered. 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -160,12 +152,20 @@ When a person is dying, they may not be able to take pills so small injections m
   allowfullscreen>
 </iframe>
 </div>
+
+Conditions also change over time: for example, many people develop difficulty in swallowing pills. This may require a change, for example to medicine given as a patch on the skin (e.g. rotigotine patch). 
+ 
+If someone is nearing end of their life, it is good to prepare for symptoms that may happen. This may involve getting medicine just in case it is needed. These ‘anticipatory’ medicines may include medicine to control pain, breathlessness, distress or agitation, nausea and secretions. These are considered for anyone near the end of life and are not specific to any medical condition. However, the _choice_ of these medicines should take Parkinson’s into consideration:
+- Haloperidol, metoclopramide and prochlorperazine (used for sickness) should generally be avoided even in palliative care for people with Parkinson’s. They can worsen Parkinson’s symptoms.
+- Alternatives such as cyclizine or ondansetron should be considered for nausea.
+- Domperidone is suitable in Parkinson’s (but is not given by injection). 
+
+When a person is dying, they may not be able to take pills so small injections may be used. These injections go just under the skin, rather than via a drip into a vein. If the medicine injection is needed very regularly, a ‘pump’ to give the medicine continuously under the skin may be considered. 
+
+
 ---
 
 ## After Death
-
-### Who to contact after the death of a loved one 
-This can understandably be a very upsetting and disorientating time. It is helpful to know in advance who it would be helpful to contact when the time comes. These include the GP, the nursing home manager, or the nursing staff if it occurred in hospital. Also, the Palliative care or Parkinson’s nurse will be able to offer support and advice. You may also like to contact the leader of your faith organisation e.g. priest, rabbi or minister. They can help you to find a funeral director, who will be able to advise further. 
 
 <div class="video-container">
 <iframe 
@@ -176,6 +176,10 @@ This can understandably be a very upsetting and disorientating time. It is helpf
   allowfullscreen>
 </iframe>
 </div>
+
+### Who to contact after the death of a loved one 
+This can understandably be a very upsetting and disorientating time. It is helpful to know in advance who it would be helpful to contact when the time comes. These include the GP, the nursing home manager, or the nursing staff if it occurred in hospital. Also, the Palliative care or Parkinson’s nurse will be able to offer support and advice. You may also like to contact the leader of your faith organisation e.g. priest, rabbi or minister. They can help you to find a funeral director, who will be able to advise further. 
+
 
 ### Practical tasks 
 After the death of someone there are a number of tasks that will need to be completed. 
