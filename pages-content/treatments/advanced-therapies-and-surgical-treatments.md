@@ -255,6 +255,16 @@ This method is currently under research for the treatment of tremor. It is not y
 
 ### What is it?
 
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/BNtQCc1nKyI" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 Duodopa is a gel form of levodopa that is pumped directly into the gut, where levodopa is best absorbed. A tube is surgically inserted from outside the body, through the skin, into the stomach, and then into the required part of the gut. The tube remains in place long-term, and the person (and/or carer) will be taught how to care for it.
 
 A pump regulates the amount of medication delivered. The pump is usually worn for 16 hours per day and disconnected for 8 hours. Medication packs are kept in the fridge when not in use.
@@ -321,16 +331,6 @@ Once the tube is safe to use, tablet medications are reduced down and discontinu
 
 
 ### What do I do if I have a problem afterwards?
-
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/BNtQCc1nKyI" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 You will need long term follow-up at the specialist centre for your Duodopa treatment. 
  When you have the procedure and are set up with the equipment, you will be given contact details for who to contact if there are any problems. You should carry the details of your treatment on you so that the specialist team can be contacted if there is an emergency. 
