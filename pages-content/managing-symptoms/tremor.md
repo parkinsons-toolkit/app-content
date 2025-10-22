@@ -1,7 +1,5 @@
 # Tremor
 
-Tremor is an uncontrollable, involuntary movement of a part of the body. Around one in three people with Parkinson’s never experience tremor. For others, it may be the most noticeable symptom. It may start in one area, like the right hand, and then gradually spread to another area on the same side of the body, like the right leg; it can eventually move to the other side of the body.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -11,6 +9,10 @@ Tremor is an uncontrollable, involuntary movement of a part of the body. Around 
   allowfullscreen>
 </iframe>
 </div>
+
+
+Tremor is an uncontrollable, involuntary movement of a part of the body. Around one in three people with Parkinson’s never experience tremor. For others, it may be the most noticeable symptom. It may start in one area, like the right hand, and then gradually spread to another area on the same side of the body, like the right leg; it can eventually move to the other side of the body.
+
 
 ---
 
@@ -41,6 +43,16 @@ There are many things you can try for yourself as below. If despite these, the t
 
 ## What can I try for myself?
 
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/2lS-tewM2i0" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 You may find different things that make the tremor more or less pronounced. Some things that have been researched are listed below.
 
 _These may make tremor less pronounced:_
@@ -63,19 +75,22 @@ Sometimes tremors can make specific tasks more difficult. Extra adaptations, sup
 - Technology – some people find touch screen difficult to control with a tremor and find using a mouse easier; others use voice control. Most smartphones allow for voice dictation instead of typing. Similarly using a device such as an Alexa can be helpful. See our <a href="/learn/living-with-parkinsons
   /practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> page for more ideas.
 
+
+
+---
+
+## My Experience
+
 <div class="video-container">
 <iframe 
   width="560" 
   height="315" 
-  src="https://www.youtube-nocookie.com/embed/2lS-tewM2i0" 
+  src="https://www.youtube-nocookie.com/embed/JFPKlqQxNjQ" 
   title="YouTube video player" 
   allowfullscreen>
 </iframe>
 </div>
 
----
-
-## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
@@ -87,15 +102,6 @@ People affected by Parkinson’s describe their experiences.
 >
 > _(Person with Parkinson’s)_
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/JFPKlqQxNjQ" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
