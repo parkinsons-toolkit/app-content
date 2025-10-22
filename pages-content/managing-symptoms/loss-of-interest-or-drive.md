@@ -1,8 +1,4 @@
 # Loss of Interest or Drive
-Loss of interest or drive is sometimes called _apathy_. It is not the same as feeling low or depressed, although loss of interest can also be part of depression. Sometimes to an outsider, apathy can even be confused with laziness, but it can in fact be a symptom of Parkinson’s. For some people apathy mainly affects their engagement with activities such as hobbies or pastimes. For others it can affect more routine day-to-day activities such as taking care of themselves. 
- 
-There are times when we all avoid doing things because they are too difficult. However, this is not the same as apathy. Apathy is when a person <ins>can</ins> do something, especially when encouraged by others, but does not do so if left to themselves. They are not avoiding it – simply they have no wish to do it or cannot make a start. If you feel like you have lost your spark, or can’t be bothered to do anything: 
-that might be apathy. 
 
 <div class="video-container">
 <iframe
@@ -13,6 +9,12 @@ that might be apathy.
   allowfullscreen>
 </iframe>
 </div>
+
+Loss of interest or drive is sometimes called _apathy_. It is not the same as feeling low or depressed, although loss of interest can also be part of depression. Sometimes to an outsider, apathy can even be confused with laziness, but it can in fact be a symptom of Parkinson’s. For some people apathy mainly affects their engagement with activities such as hobbies or pastimes. For others it can affect more routine day-to-day activities such as taking care of themselves. 
+ 
+There are times when we all avoid doing things because they are too difficult. However, this is not the same as apathy. Apathy is when a person <ins>can</ins> do something, especially when encouraged by others, but does not do so if left to themselves. They are not avoiding it – simply they have no wish to do it or cannot make a start. If you feel like you have lost your spark, or can’t be bothered to do anything: 
+that might be apathy. 
+
 
 
 ---
@@ -32,6 +34,17 @@ Even if your interest and drive is low, it is important to remain active. Managi
 ---
 
 ## What can I try for myself?
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/TJGkmgtusEI"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 There are three main ways to tackle apathy. First, by establishing a routine so that the activity becomes more of a ‘habit’. Second, by building a menu of things that you can select from to do. Third, by agreeing with other people that they are allowed to remind or prompt you when you are not being active.
 
 ### Establishing a Routine
@@ -63,16 +76,6 @@ Someone with apathy may either not start or be unable to finish them.
 
 ### The importance of prompts and reminders
 One of the key features of apathy is that a person tends not to do things if left to their own devices. Routines and menus can help, but usually there is a need for prompts and reminders. Family members can sometimes be reluctant to do this, perhaps because they don’t want to ‘nag’. However, this is important in apathy. Prompts and reminders may involve talking through the planned routine	for the day, or encouragement to look at the menu if activity seems to have stopped. 
-
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/TJGkmgtusEI"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
 
 
 ---
