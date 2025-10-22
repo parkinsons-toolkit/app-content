@@ -37,6 +37,17 @@ If you experience only nausea, you could try some of the things below. If it doe
 
 ## What can I try for myself?
 
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/cOhgQx-GnkY"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 The following may help relieve nausea. If these do not help, there are medicines that can be used.
 
 **Things to do:**
@@ -60,16 +71,6 @@ The following may help relieve nausea. If these do not help, there are medicines
 - Do not wear clothes that are tight around your waist
 
 ### Nausea after taking Parkinson’s medication
-
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/cOhgQx-GnkY"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
 
 Nausea can occur if you take medications on an empty stomach. Which is why for many medications the advice is to take them with meals. However, with Parkinson’s medications, some people find that it is less effective when taken with a main meal.
 
