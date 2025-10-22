@@ -1,11 +1,5 @@
 # Restless Legs
 
-Restless leg syndrome can feel like:
-
-- An irresistible urge to move your legs
-- A pins and needles sensation in your legs
-- A burning sensation in your legs
-
 <div class="video-container">
 <iframe
   width="560"
@@ -15,6 +9,14 @@ Restless leg syndrome can feel like:
   allowfullscreen>
 </iframe>
 </div>
+
+Restless leg syndrome can feel like:
+
+- An irresistible urge to move your legs
+- A pins and needles sensation in your legs
+- A burning sensation in your legs
+
+
 
 These sensations usually occur in the evening while you are relaxing. Moving your legs will likely make them immediately feel better, but the sensations will return once they are still again. Because these feelings tend to occur or get worse at night, they can disrupt people’s sleeping schedules.
 
@@ -44,13 +46,6 @@ Mild cases of restless leg may be treated with lifestyle changes, but more moder
 
 ## What Can I Try for Myself?
 
-- Leg massage, walking and stretching. See the <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page for tips on stretching.
-- Warm or cool compresses on the legs.
-- Taking a warm bath in the evening. Make sure you are well hydrated first.
-- Avoiding alcohol, caffeine, and smoking (particularly in the evening, when symptoms tend to be worse).
-- Establishing regular sleeping habits.
-- Maintaining a cool sleeping space.
-
 <div class="video-container">
 <iframe
   width="560"
@@ -60,6 +55,15 @@ Mild cases of restless leg may be treated with lifestyle changes, but more moder
   allowfullscreen>
 </iframe>
 </div>
+
+
+- Leg massage, walking and stretching. See the <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page for tips on stretching.
+- Warm or cool compresses on the legs.
+- Taking a warm bath in the evening. Make sure you are well hydrated first.
+- Avoiding alcohol, caffeine, and smoking (particularly in the evening, when symptoms tend to be worse).
+- Establishing regular sleeping habits.
+- Maintaining a cool sleeping space.
+
 
 ---
 
