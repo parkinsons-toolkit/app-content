@@ -1,7 +1,5 @@
 # Leg or Ankle Swelling
 
-Leg or ankle swelling can commonly occur in people with Parkinson’s. Extra fluid from around the body can settle in the ankles or lower legs. This can be uncomfortable to walk with, make the skin feel tight, legs feel heavy, or shoes feel tight. This extra fluid is known as _oedema_. Muscle movements in the legs help to push some of the fluid back around the body.
-
 <div class="video-container">
 <iframe
   width="560"
@@ -11,6 +9,10 @@ Leg or ankle swelling can commonly occur in people with Parkinson’s. Extra flu
   allowfullscreen>
 </iframe>
 </div>
+
+
+Leg or ankle swelling can commonly occur in people with Parkinson’s. Extra fluid from around the body can settle in the ankles or lower legs. This can be uncomfortable to walk with, make the skin feel tight, legs feel heavy, or shoes feel tight. This extra fluid is known as _oedema_. Muscle movements in the legs help to push some of the fluid back around the body.
+
 
 ---
 
@@ -64,10 +66,6 @@ Other non-Parkinson’s causes of leg or ankle swelling can be from:
 
 ### Select shoes carefully
 
-- Wear shoes that can be loosened during the course of the day as swelling may get worse as the day goes on.
-- Make sure your shoes can still hold firmly onto your feet as the swelling goes up and down. If they get too loose, they might become a tripping or falling hazard, and if they are too tight you won’t be able to fasten them.
-- Shop for shoes when your swelling is at its worst so you know the shoes will always fit.
-
 <div class="video-container">
 <iframe
   width="560"
@@ -77,6 +75,12 @@ Other non-Parkinson’s causes of leg or ankle swelling can be from:
   allowfullscreen>
 </iframe>
 </div>
+
+
+- Wear shoes that can be loosened during the course of the day as swelling may get worse as the day goes on.
+- Make sure your shoes can still hold firmly onto your feet as the swelling goes up and down. If they get too loose, they might become a tripping or falling hazard, and if they are too tight you won’t be able to fasten them.
+- Shop for shoes when your swelling is at its worst so you know the shoes will always fit.
+
 
 ---
 
