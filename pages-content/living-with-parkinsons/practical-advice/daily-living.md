@@ -1,11 +1,5 @@
 # Daily Living
 
-Every day activities can become more difficult than they once were. Muscle weakness, tremor and issues with movement or balance can make it harder to do a daily activity that you could do before. Examples include eating and drinking, preparing meals, getting washed and dressed, brushing your teeth, or going to the toilet.
-
-Being able to keep doing these activities is important to keep independent and active.
-
-There are some tried and tested methods to do this. You could make changes to the way you do things, to your environment, or to the adaptive equipment you use. There are NHS, social care and voluntary sector professionals that can help you (see More Information at the bottom of this pag). Please also see our <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for information about making adaptations to your home and guidance about different types of accommodation.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -16,11 +10,15 @@ There are some tried and tested methods to do this. You could make changes to th
 </iframe>
 </div>
 
+Every day activities can become more difficult than they once were. Muscle weakness, tremor and issues with movement or balance can make it harder to do a daily activity that you could do before. Examples include eating and drinking, preparing meals, getting washed and dressed, brushing your teeth, or going to the toilet.
+
+Being able to keep doing these activities is important to keep independent and active.
+
+There are some tried and tested methods to do this. You could make changes to the way you do things, to your environment, or to the adaptive equipment you use. There are NHS, social care and voluntary sector professionals that can help you (see More Information at the bottom of this pag). Please also see our <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for information about making adaptations to your home and guidance about different types of accommodation.
+
 ---
 
 ## What can I try for myself?
-
-All the tips and strategies here are things you could try for yourself. If you keep having problems, there are certain professionals who can help you: occupational therapists and physiotherapists. They will first want to have an assessment with you. They can then share more strategies and advice on equipment that may help you (discussed further below). Ask your GP or Parkinson’s team about a referral.
 
 <div class="video-container">
 <iframe 
@@ -31,6 +29,10 @@ All the tips and strategies here are things you could try for yourself. If you k
   allowfullscreen>
 </iframe>
 </div>
+
+All the tips and strategies here are things you could try for yourself. If you keep having problems, there are certain professionals who can help you: occupational therapists and physiotherapists. They will first want to have an assessment with you. They can then share more strategies and advice on equipment that may help you (discussed further below). Ask your GP or Parkinson’s team about a referral.
+
+
 
 ### Bathing & showering
 
@@ -173,12 +175,6 @@ People affected by Parkinson’s describe their experiences.
 
 ## What equipment might help?
 
-Occupational therapists may suggest a rehabilitation approach. They will work with you to learn how to do things with a different approach. However, they may still suggest equipment.
-
-The world of equipment can be overwhelming, and costly. Some equipment may be paid for by the NHS or through your local Social Services, but some you will need to buy yourself.
-
-_We strongly recommend you speak to an occupational therapist before buying equipment. They will assess your needs, talk about different strategies and recommend the equipment that is best for you. They can then guide you through how to get the equipment if this is needed._
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -188,6 +184,14 @@ _We strongly recommend you speak to an occupational therapist before buying equi
   allowfullscreen>
 </iframe>
 </div>
+
+Occupational therapists may suggest a rehabilitation approach. They will work with you to learn how to do things with a different approach. However, they may still suggest equipment.
+
+The world of equipment can be overwhelming, and costly. Some equipment may be paid for by the NHS or through your local Social Services, but some you will need to buy yourself.
+
+_We strongly recommend you speak to an occupational therapist before buying equipment. They will assess your needs, talk about different strategies and recommend the equipment that is best for you. They can then guide you through how to get the equipment if this is needed._
+
+
 
 ### Equipment for Bathing & Showering
 
@@ -362,6 +366,17 @@ People affected by Parkinson’s describe their experiences:
 
 ## Advice on Buying Equipment
 
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/vJqrYWOc4Wg" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
+
 Standard equipment and smaller adaptations (for example, an additional stair rail or raised toilet seat) recommended by an occupational therapist are often provided free of charge. Some equipment does come with a charge. An Occupational Therapist can assess your needs and advise further.
 
 However, if you are buying your own equipment, here are a few tips:
@@ -375,26 +390,10 @@ However, if you are buying your own equipment, here are a few tips:
 4. Make sure the _fit_ of the equipment is correct.
 5. Local pharmacies and disability shops sell equipment. Short term hire can be possible from local organisations, such as the Red Cross Society.
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/vJqrYWOc4Wg" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
 ## Who Can Help?
-
-If daily tasks are particularly challenging, some people need assistance from a person. The degree of assistance will vary, and as much independence as possible should still be encouraged. There are two main categories to consider discussed here:
-
-- 'Home help'
-- 'Home care'
-
-There is also information on the <a href="/learn/living-with-parkinsons/for-family-and-carers" class="internal-link">_Guidance for Family & Carers_</a> page for people who are supporting someone they know.
 
 <div class="video-container">
 <iframe 
@@ -405,6 +404,15 @@ There is also information on the <a href="/learn/living-with-parkinsons/for-fami
   allowfullscreen>
 </iframe>
 </div>
+
+If daily tasks are particularly challenging, some people need assistance from a person. The degree of assistance will vary, and as much independence as possible should still be encouraged. There are two main categories to consider discussed here:
+
+- 'Home help'
+- 'Home care'
+
+There is also information on the <a href="/learn/living-with-parkinsons/for-family-and-carers" class="internal-link">_Guidance for Family & Carers_</a> page for people who are supporting someone they know.
+
+
 
 ---
 
