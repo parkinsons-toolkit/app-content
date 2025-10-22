@@ -1,7 +1,5 @@
 # Balance & Falls
 
-Falls can be a significant source of concern and stress for some people with Parkinson’s. There are many things that can be done to help prevent them from happening. Falling over is more common in Parkinson’s for a number of reasons, but they can also be reasons not related to Parkinson’s.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -11,6 +9,10 @@ Falls can be a significant source of concern and stress for some people with Par
   allowfullscreen>
 </iframe>
 </div>
+
+
+Falls can be a significant source of concern and stress for some people with Parkinson’s. There are many things that can be done to help prevent them from happening. Falling over is more common in Parkinson’s for a number of reasons, but they can also be reasons not related to Parkinson’s.
+
 
 ---
 
@@ -60,13 +62,6 @@ Other health conditions can increase your risk of falls, such as arthritis or ol
 
 ## What should I do about it?
 
-There are lots of things you can try yourself to improve your balance and reduce your risk of falling over.
-
-These symptoms can call for a professional assessment. This is both for the cause(s) and the consequences. It might also include an assessment of your home to look at the environment and safety measures.
-
-If you develop new symptoms of imbalance or falls, or have had a rapid change in the pattern of your falls you should see your GP as soon as possible.
-
-If your falls are associated with worsening movement symptoms, like stiffness or slowness of movement, or you have had a recent change in your Parkinson’s medication, you should consult your Parkinson’s team.
 
 <div class="video-container">
 <iframe 
@@ -77,6 +72,15 @@ If your falls are associated with worsening movement symptoms, like stiffness or
   allowfullscreen>
 </iframe>
 </div>
+
+There are lots of things you can try yourself to improve your balance and reduce your risk of falling over.
+
+These symptoms can call for a professional assessment. This is both for the cause(s) and the consequences. It might also include an assessment of your home to look at the environment and safety measures.
+
+If you develop new symptoms of imbalance or falls, or have had a rapid change in the pattern of your falls you should see your GP as soon as possible.
+
+If your falls are associated with worsening movement symptoms, like stiffness or slowness of movement, or you have had a recent change in your Parkinson’s medication, you should consult your Parkinson’s team.
+
 
 You should seek help **urgently**, via your GP or A&E, if:
 
@@ -96,6 +100,16 @@ You should seek help **urgently**, via your GP or A&E, if:
 ---
 
 ## What can I try for myself?
+
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/AZ-41WphacA" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
 
 There are many things you can do for yourself to improve balance, prevent falls and manage the risk surrounding them.
 
@@ -120,15 +134,7 @@ Exercises to achieve these need to be tailored to your ability and needs.
 
 For more on all of these aspects, see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page.
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/AZ-41WphacA" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
+
 
 ---
 
@@ -176,6 +182,17 @@ More information about these systems is available on the [NHS website](link) and
 
 ## My Experience
 
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/xBxyCijaaPY"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
 People affected by Parkinson’s describe their experiences.
 
 > “I store things I use daily, like medication or towels, between waist and eye-level, so I can avoid reaching or bending, which can throw me off balance”
@@ -186,15 +203,6 @@ People affected by Parkinson’s describe their experiences.
 >
 > _(Person with Parkinson’s)_
 
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/xBxyCijaaPY"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
