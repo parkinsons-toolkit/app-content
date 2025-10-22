@@ -1,14 +1,5 @@
 # 5 Senses
 
-- **Smell:** many people with Parkinson’s experience smell loss or a reduction in their sense of smell.
-- **Taste:** taste is closely linked with smell. Some people with Parkinson’s notice changes in their sense of taste.
-- **Touch:** touch is not directly affected by Parkinson’s. People with Parkinson’s can have peripheral neuropathy (a nerve condition) which may be related to treatment of Parkinson’s. You might also have increased sensitivity and pain.
-- **Sight:** some people with Parkinson’s experience problems with focusing, seeing two of something (double vision), dry eyes, or changes to how they see colour. Parkinson’s is not known to cause loss of sight.
-- **Hearing:** research has so far shown mixed results about changes to hearing in Parkinson’s. Hearing loss is associated with increasing age.
-
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/5-senses.PNG" alt="5-senses" class="example-class">
-
-Sensory changes are important to identify for safety reasons, particularly if you drive.
 
 <div class="video-container">
 <iframe
@@ -19,6 +10,17 @@ Sensory changes are important to identify for safety reasons, particularly if yo
   allowfullscreen>
 </iframe>
 </div>
+
+
+- **Smell:** many people with Parkinson’s experience smell loss or a reduction in their sense of smell.
+- **Taste:** taste is closely linked with smell. Some people with Parkinson’s notice changes in their sense of taste.
+- **Touch:** touch is not directly affected by Parkinson’s. People with Parkinson’s can have peripheral neuropathy (a nerve condition) which may be related to treatment of Parkinson’s. You might also have increased sensitivity and pain.
+- **Sight:** some people with Parkinson’s experience problems with focusing, seeing two of something (double vision), dry eyes, or changes to how they see colour. Parkinson’s is not known to cause loss of sight.
+- **Hearing:** research has so far shown mixed results about changes to hearing in Parkinson’s. Hearing loss is associated with increasing age.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/5-senses.PNG" alt="5-senses" class="example-class">
+
+Sensory changes are important to identify for safety reasons, particularly if you drive.
 
 ---
 
