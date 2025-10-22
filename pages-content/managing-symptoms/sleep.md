@@ -1,5 +1,16 @@
 # Sleep Disturbances
 
+
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/GSF6CmOtgEQ" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 Poor sleep leads to feeling less well in the daytime and can worsen other difficulties, like low mood, concentration and balance. It may also affect those close to you.
 
 **Parkinson’s can affect sleep in several different ways. Here we cover:**
@@ -21,27 +32,10 @@ Poor sleep leads to feeling less well in the daytime and can worsen other diffic
 
 These are covered on their own symptom page, found within the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> section. Difficulties in getting in or out of bed is covered on the <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page.
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/GSF6CmOtgEQ" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
 ## What might be causing it?
-
-If someone with Parkinson’s experiences sleep disturbance, it is most likely due to Parkinson’s itself.
-
-It is at least partly thought to be caused by altered levels of the chemical messenger dopamine. Dopamine plays a role in sleep patterns as well as impacting movements.
-
-There are other factors than can worsen sleep problems, such as medications or lifestyle factors. Depression also causes sleep disturbance.
-
-_Obstructive sleep apnoea_ is a breathing condition that is thought to be slightly more common in people with Parkinson’s than those without. It is a change in the pattern of breathing. It causes a pause, followed by catch-up breaths. This could be a gasp, loud snore, a few quick breaths or a choking noise. Although they might not realise it, the person is briefly woken by this, and so their sleep is disrupted, and they tend to get very sleepy in the daytime.
 
 <div class="video-container">
 <iframe 
@@ -52,6 +46,16 @@ _Obstructive sleep apnoea_ is a breathing condition that is thought to be slight
   allowfullscreen>
 </iframe>
 </div>
+
+
+If someone with Parkinson’s experiences sleep disturbance, it is most likely due to Parkinson’s itself.
+
+It is at least partly thought to be caused by altered levels of the chemical messenger dopamine. Dopamine plays a role in sleep patterns as well as impacting movements.
+
+There are other factors than can worsen sleep problems, such as medications or lifestyle factors. Depression also causes sleep disturbance.
+
+_Obstructive sleep apnoea_ is a breathing condition that is thought to be slightly more common in people with Parkinson’s than those without. It is a change in the pattern of breathing. It causes a pause, followed by catch-up breaths. This could be a gasp, loud snore, a few quick breaths or a choking noise. Although they might not realise it, the person is briefly woken by this, and so their sleep is disrupted, and they tend to get very sleepy in the daytime.
+
 
 ---
 
