@@ -1,8 +1,5 @@
 # Social and Spiritual Life
 
-Some people with Parkinson’s withdraw from social activities. This can make the person feel more isolated and lower in mood.
-
-Connecting with others can give you a sense of belonging and reduce loneliness, which are vital for health and wellbeing. Talking with friends and family about your condition can be a great form of support. It’s important to build and maintain positive relationships with those around you.
 
 <div class="video-container">
 <iframe 
@@ -13,6 +10,11 @@ Connecting with others can give you a sense of belonging and reduce loneliness, 
   allowfullscreen>
 </iframe>
 </div>
+
+Some people with Parkinson’s withdraw from social activities. This can make the person feel more isolated and lower in mood.
+
+Connecting with others can give you a sense of belonging and reduce loneliness, which are vital for health and wellbeing. Talking with friends and family about your condition can be a great form of support. It’s important to build and maintain positive relationships with those around you.
+
 
 ---
 
@@ -90,10 +92,6 @@ As your Parkinson's progresses, you may notice a change in your relationships. T
 
 ### Family and friends
 
-When you feel ready, you may wish to have an honest conversation with your friends about your condition. It might be helpful to try to maintain closest connections with people who are supportive and willing to learn more about Parkinson’s.
-
-It may be tempting to withdraw from friendships. However, it’s important to stay connected with those around you as they can be a great source of happiness and support.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -104,9 +102,13 @@ It may be tempting to withdraw from friendships. However, it’s important to st
 </iframe>
 </div>
 
-### Romantic relationships
+When you feel ready, you may wish to have an honest conversation with your friends about your condition. It might be helpful to try to maintain closest connections with people who are supportive and willing to learn more about Parkinson’s.
 
-If you have Parkinson’s, or are caring for someone who does, you may find it affects your relationships. But there are things you can do which may help you either improve or adjust to these changes.
+It may be tempting to withdraw from friendships. However, it’s important to stay connected with those around you as they can be a great source of happiness and support.
+
+
+
+### Romantic relationships
 
 <div class="video-container">
 <iframe 
@@ -117,6 +119,8 @@ If you have Parkinson’s, or are caring for someone who does, you may find it a
   allowfullscreen>
 </iframe>
 </div>
+
+If you have Parkinson’s, or are caring for someone who does, you may find it affects your relationships. But there are things you can do which may help you either improve or adjust to these changes.
 
 #### First reactions
 
@@ -152,6 +156,16 @@ When someone has Parkinson’s, it is common for relationship roles to change. F
 
 ### Intimate relationships
 
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/RBt7R9lIZSA" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 If you are in a relationship, sexual problems can affect both the person with Parkinson’s and their partner. Finding out one of you has a long-term condition can change your physical relationship. The need for intimacy may become more or less important. It can also impact your sexual self-esteem; the person with Parkinson’s may feel less desirable while their partner might worry about being too demanding by wanting sex.
 
 Changes in sexual relationships can happen to any couple at any time, regardless of whether someone has a long-term condition. These challenges may resolve themselves. But, if this is not the case, a couple may wish to try:
@@ -163,15 +177,7 @@ If you both feel comfortable, it can help to have open, but sensitive, discussio
 
 For more information on Parkinson’s and sexual function, see our <a href="/learn/managing-symptoms/sexual-health" class="internal-link">_Sexual Health_</a> page.
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/RBt7R9lIZSA" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
+
 
 ### Where can I go for information and support?
 
@@ -218,6 +224,17 @@ People affected by Parkinson’s describe their experiences.
 
 ### Fasting
 
+
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/JvkozIL8a5c" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 A religious practice that has particular challenges for people with Parkinson’s is fasting, for example for Ramadan. Fasting is thought to be safe for healthy individuals to practise. But, if you are older or have a chronic condition (such as Parkinson’s) you are advised to avoid fasting. Religious texts generally allow you to break fasting for these reasons due to the negative impact it can have on health. Fasting may cause someone with Parkinson's to have dehydration, weight loss, and metabolic changes. If medicines are not taken due to the fast, this can worsen symptoms and may cause withdrawal effects.
 
 You should speak with your specialist if you are planning on fasting. They may be able to suggest adjustments to your treatment, including:
@@ -231,15 +248,6 @@ These adjustments will not be suitable for everyone. Options will vary depending
 
 You should have a\*consultation one month after the end of a period of fasting like Ramadan. The specialist can then make sure control of the condition has been regained. They can also make any further adjustments to treatment if needed.
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/JvkozIL8a5c" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
