@@ -46,6 +46,17 @@ If you have new weakness in your face, you should consult your GP. Very sudden w
 
 ## What can I try for myself?
 
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/u4Ta8jTvQX8"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
 ### Planning ahead
 
 - Plan meals for when your medication is working
@@ -90,15 +101,6 @@ _Tip: Swallowing - When swallowing food or drink, following the process below st
 6. Try licking round the mouth with your tongue to check all the food has gone.
 7. Repeat steps until you are finished eating or drinking.
 
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/u4Ta8jTvQX8"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
@@ -113,6 +115,17 @@ People affected by Parkinson’s describe their experiences.
 ---
 
 ## Further Assessment
+
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/4B1MjG6vdKg"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
 
 ### Questions
 
@@ -136,15 +149,6 @@ _**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">
 - Most cases do not need further tests.
 - In other cases, depending on their assessment, your healthcare professional may recommend tests such as a blood test or camera test to look at your food pipe (this is called an endoscopy).
 
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/4B1MjG6vdKg"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
