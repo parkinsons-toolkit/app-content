@@ -1,7 +1,5 @@
 # Housing
 
-Some people can have difficulties with living well within their home. For example, difficulties with climbing stairs, or their bathroom. This section covers home adaptations that can help support you to live independently within your own home. It also covers your options if your home is no longer suitable for you.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -12,6 +10,10 @@ Some people can have difficulties with living well within their home. For exampl
 </iframe>
 </div>
 
+
+Some people can have difficulties with living well within their home. For example, difficulties with climbing stairs, or their bathroom. This section covers home adaptations that can help support you to live independently within your own home. It also covers your options if your home is no longer suitable for you.
+
+
 ## Staying in your Own Home
 
 For many people, the preference is to stay at home which can be helped by making small changes. Equipment and adaptations to your home, can help you stay independent at home for longer. Equipment is discussed on the <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page, and below we cover possible home adaptations.
@@ -19,10 +21,6 @@ For many people, the preference is to stay at home which can be helped by making
 In some cases, Home Support or Home Care Workers may also help. ‘Home Help’ refers to support for domestic tasks such as laundry, washing up and cleaning. ‘Home Care’ refers to support for personal tasks such as showering, dressing and preparing meals. See the <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page for more information.
 
 ## Home adaptations
-
-Before making major changes or buying equipment, seek advice from a physiotherapist or occupational therapist. Occupational therapists work with you to help maintain your health and independence. They may show you different ways to make certain tasks easier or suggest other practical changes. If appropriate, they can carry out an assessment and recommend what options are most suitable for you. Contact your GP, Parkinson’s nurse, Parkinson’s specialist, local social services, or social work department to arrange a home visit from an occupational therapist.
-
-Your GP may also be able to refer you to rehabilitation and reablement services in the community, if available.
 
 <div class="video-container">
 <iframe 
@@ -33,6 +31,12 @@ Your GP may also be able to refer you to rehabilitation and reablement services 
   allowfullscreen>
 </iframe>
 </div>
+
+Before making major changes or buying equipment, seek advice from a physiotherapist or occupational therapist. Occupational therapists work with you to help maintain your health and independence. They may show you different ways to make certain tasks easier or suggest other practical changes. If appropriate, they can carry out an assessment and recommend what options are most suitable for you. Contact your GP, Parkinson’s nurse, Parkinson’s specialist, local social services, or social work department to arrange a home visit from an occupational therapist.
+
+Your GP may also be able to refer you to rehabilitation and reablement services in the community, if available.
+
+
 
 There are many options for equipment and aids to support you in tasks for day-to-day living. These are covered on the <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page. Options for more significant changes to your home are discussed here:
 
