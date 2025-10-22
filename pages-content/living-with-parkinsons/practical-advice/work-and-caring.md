@@ -102,7 +102,6 @@ Make it clear to your employer what support you would like if, for example, you 
 
 ### Flexibility
 
-It is important for your employer to understand that Parkinson’s is a progressive condition. It is also worth making them aware that the severity of your symptoms can change quickly within the same day. Ideally, there needs to be a level of flexibility. For example, some weeks you may work less than your agreed hours but other weeks more.
 
 <div class="video-container">
 <iframe 
@@ -113,6 +112,9 @@ It is important for your employer to understand that Parkinson’s is a progress
   allowfullscreen>
 </iframe>
 </div>
+
+
+It is important for your employer to understand that Parkinson’s is a progressive condition. It is also worth making them aware that the severity of your symptoms can change quickly within the same day. Ideally, there needs to be a level of flexibility. For example, some weeks you may work less than your agreed hours but other weeks more.
 
 Once you and your employer have agreed on some workplace adjustments, it is best to get this in writing and signed by both parties. This is known as a workplace adjustment agreement.
 
@@ -156,7 +158,6 @@ If you do not qualify for statutory sick pay but you still need paid time off wo
 
 ## Voluntary Work
 
-For some people, voluntary work offers a great balance between working and being retired. You can have a sense of responsibility and achieve a sense of purpose without the stress of a full-time paid job. Some voluntary work can also be very flexible. So, on days or weeks where you are feeling good you can do more hours and on weeks that are worse you can do less hours. This is something you can decide with the scheme or activity co-ordinator.
 <div class="video-container">
 <iframe 
   width="560" 
@@ -166,6 +167,9 @@ For some people, voluntary work offers a great balance between working and being
   allowfullscreen>
 </iframe>
 </div>
+
+For some people, voluntary work offers a great balance between working and being retired. You can have a sense of responsibility and achieve a sense of purpose without the stress of a full-time paid job. Some voluntary work can also be very flexible. So, on days or weeks where you are feeling good you can do more hours and on weeks that are worse you can do less hours. This is something you can decide with the scheme or activity co-ordinator.
+
 
 The added benefit of volunteering is that it can boost your confidence and day-to-day wellbeing.
 
