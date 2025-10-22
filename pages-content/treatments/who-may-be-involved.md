@@ -78,12 +78,6 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
 
 ### Occupational Therapists (OTs)
 
-- They must be registered with the _Health and Care Professions Council (HCPC)_ to work in the UK.
-- They are healthcare professionals that are trained to help improve your ability to do everyday tasks.
-- The role inccludes:
-  - Teaching problem solving and adaptive strategies.
-  - Advising on equipment for dealing with difficulties.
-- OTs can undergo further training to become an ‘Advanced Clinical Practitioner’.
 
 <div class="video-container">
 <iframe 
@@ -94,6 +88,14 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
   allowfullscreen>
 </iframe>
 </div>
+
+- They must be registered with the _Health and Care Professions Council (HCPC)_ to work in the UK.
+- They are healthcare professionals that are trained to help improve your ability to do everyday tasks.
+- The role inccludes:
+  - Teaching problem solving and adaptive strategies.
+  - Advising on equipment for dealing with difficulties.
+- OTs can undergo further training to become an ‘Advanced Clinical Practitioner’.
+
 
 ### Parkinson’s Practitioner
 
@@ -122,15 +124,6 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
 
 Also known as _Physical Therapists_
 
-- They are healthcare professionals trained to help improve movement and function and reduce the risk of injury. They take a patient centred, holistic approach.
-- Physiotherapists can assess, treat and give advice at all stages of Parkinson’s.
-- They must be registered with the _Health and Care Professions Council (HCPC)_ to work in the UK.
-- The role includes:
-  - They can diagnose and assess of problems in movement and function; o They can give education and advice on this.
-  - They can give treatments. This could be exercises and movements, or movement strategies that are tailored to you.
-  - They can also use manual therapy, equipment and specialist techniques.
-- They can undergo further training to become an ‘Advanced Clinical Practitioner’.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -140,6 +133,17 @@ Also known as _Physical Therapists_
   allowfullscreen>
 </iframe>
 </div>
+
+- They are healthcare professionals trained to help improve movement and function and reduce the risk of injury. They take a patient centred, holistic approach.
+- Physiotherapists can assess, treat and give advice at all stages of Parkinson’s.
+- They must be registered with the _Health and Care Professions Council (HCPC)_ to work in the UK.
+- The role includes:
+  - They can diagnose and assess of problems in movement and function; o They can give education and advice on this.
+  - They can give treatments. This could be exercises and movements, or movement strategies that are tailored to you.
+  - They can also use manual therapy, equipment and specialist techniques.
+- They can undergo further training to become an ‘Advanced Clinical Practitioner’.
+
+
 
 ### Psychologists
 
@@ -172,14 +176,6 @@ Note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, th
 
 ### Speech & Language Therapists (SLTs)
 
-- Healthcare professionals that are trained in issues with communication and swallowing.
-- They must be registered with the Health and Care Professions Council (HCPC) to work in the UK.
-- The role can be to:
-  - Diagnose and assess problems with communication or swallowing.
-  - Give treatment and teach strategies to deal with this
-  - Give advice on equipment or interventions that might be needed.
-- They can undergo further training to become an ‘Advanced Clinical Practitioner’.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -190,16 +186,19 @@ Note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, th
 </iframe>
 </div>
 
+- Healthcare professionals that are trained in issues with communication and swallowing.
+- They must be registered with the Health and Care Professions Council (HCPC) to work in the UK.
+- The role can be to:
+  - Diagnose and assess problems with communication or swallowing.
+  - Give treatment and teach strategies to deal with this
+  - Give advice on equipment or interventions that might be needed.
+- They can undergo further training to become an ‘Advanced Clinical Practitioner’.
+
+
+
 ### Therapy Assistants
 
 Also known as _Therapy Support Workers_ or _Rehabilitation Assistants_
-
-- They support the work of a registered therapist or dietitian, under their guidance. They may work across a range of therapy types at any one time.
-- They work in community services or hospitals, with much of the training being on the job.
-- Their role can be to:
-  - Work on exercises with people.
-  - Help people use aids and equipment.
-  - Weigh people or help to record food intake.
 
 <div class="video-container">
 <iframe 
@@ -210,6 +209,15 @@ Also known as _Therapy Support Workers_ or _Rehabilitation Assistants_
   allowfullscreen>
 </iframe>
 </div>
+
+- They support the work of a registered therapist or dietitian, under their guidance. They may work across a range of therapy types at any one time.
+- They work in community services or hospitals, with much of the training being on the job.
+- Their role can be to:
+  - Work on exercises with people.
+  - Help people use aids and equipment.
+  - Weigh people or help to record food intake.
+
+
 
 ---
 
