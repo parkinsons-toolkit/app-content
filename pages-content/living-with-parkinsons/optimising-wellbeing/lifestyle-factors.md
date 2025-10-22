@@ -4,14 +4,6 @@ As well as managing Parkinson’s, there are general medical recommendations to 
 
 ## Vaccinations
 
-Vaccinations are medications designed to prevent infections. Vaccination schedules change over time according to the latest scientific research. At present (July 2020), the recommendations for adults with Parkinson’s are:
-
-- **Flu:** Annual influenza vaccination for all people with Parkinson’s (this is universally recommended for those aged 65 years and over). The annual influenza vaccination should be considered for household members and those who care for people with Parkinson’s.
-- **Pneumonia:** One-off vaccination\* for all people with Parkinson’s (this is universally recommended for those aged 65 years and over). There is no vaccine that works against all the bugs that cause pneumonia, but this targets the most common cause. \* People who don’t have a working spleen or have chronic kidney disease may require boosters every 5 years.
-- **Shingles:** One-off vaccination when you are 70 years old.
-
-These are all delivered as injections, usually into the arm. You should have vaccines if you are allergic to the ingredients or are ill at the time. More information can be found on the NHS website, under ‘Vaccinations’.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -22,16 +14,21 @@ These are all delivered as injections, usually into the arm. You should have vac
 </iframe>
 </div>
 
+
+Vaccinations are medications designed to prevent infections. Vaccination schedules change over time according to the latest scientific research. At present (July 2020), the recommendations for adults with Parkinson’s are:
+
+- **Flu:** Annual influenza vaccination for all people with Parkinson’s (this is universally recommended for those aged 65 years and over). The annual influenza vaccination should be considered for household members and those who care for people with Parkinson’s.
+- **Pneumonia:** One-off vaccination\* for all people with Parkinson’s (this is universally recommended for those aged 65 years and over). There is no vaccine that works against all the bugs that cause pneumonia, but this targets the most common cause. \* People who don’t have a working spleen or have chronic kidney disease may require boosters every 5 years.
+- **Shingles:** One-off vaccination when you are 70 years old.
+
+These are all delivered as injections, usually into the arm. You should have vaccines if you are allergic to the ingredients or are ill at the time. More information can be found on the NHS website, under ‘Vaccinations’.
+
+
 ---
 
 ## Blood Pressure
 
 ### What is blood pressure?
-
-Your heart pushes blood around the body through a network of blood vessels, similar to the way a pump pushes fluid through pipes. Your blood pressure is recorded as two numbers:
-
-- The first or top number is known as **systolic blood pressure**. This is the pressure as the heart is pushing, i.e. the force of that push.
-- The second or bottom number is known as **diastolic blood pressure**. This is the pressure as the heart relaxes between pushes and the blood is flowing, i.e. the resistance in the pipes themselves.
 
 <div class="video-container">
 <iframe 
@@ -42,6 +39,12 @@ Your heart pushes blood around the body through a network of blood vessels, simi
   allowfullscreen>
 </iframe>
 </div>
+
+Your heart pushes blood around the body through a network of blood vessels, similar to the way a pump pushes fluid through pipes. Your blood pressure is recorded as two numbers:
+
+- The first or top number is known as **systolic blood pressure**. This is the pressure as the heart is pushing, i.e. the force of that push.
+- The second or bottom number is known as **diastolic blood pressure**. This is the pressure as the heart relaxes between pushes and the blood is flowing, i.e. the resistance in the pipes themselves.
+
 
 Many factors affect blood pressure. It varies between people and is constantly changing in any one person. This makes it difficult to define “normal” blood pressure. Parkinson’s, as well as medication used for Parkinson’s, can both cause a lower or variable blood pressure. But getting older and many lifestyle factors can cause a higher blood pressure.
 
@@ -95,16 +98,6 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/sunshine.jpg" alt="Vitamin-D-sunshine" class="example-class">
 
-
-
-  - You can buy these from the chemist. If you do not need to take calcium tablets as well, you can buy these as Vitamin D3. We would normally recommend taking a daily dose of 20 or 25 micrograms (μg) which is equivalent to 800 or 1000 units a day (unless your doctor has recommended a different dose). If you are not sure on what dose to take, or if you should take calcium as well, discuss this with your GP.
-  - If you are particularly at risk, your GP may do a blood test to check your vitamin D level. If they are low, you may need a higher dose of vitamin D to bring your levels back up to normal.
-- As people get older, in particular women, their bones can become less dense and more brittle. If this is higher than expected for your age, you may be diagnosed with Osteoporosis. If your bones are thinner, this makes them more likely to fracture from low impact injuries (e.g. breaking your wrist after falling).
-- If you have sustained a broken bone from a low impact injury, your GP should assess your bone health.
-  - They will take into account your height, weight and risk factors (e.g. smoking).
-  - Depending on the outcome of this assessment, they may want to do blood tests and/or a bone scan (called a DXA scan).
-- There are medications that can help to strengthen bones if they are found to be low density. They may also prescribe combined calcium and vitamin D3 tablets.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -114,6 +107,16 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
   allowfullscreen>
 </iframe>
 </div>
+
+  - You can buy these from the chemist. If you do not need to take calcium tablets as well, you can buy these as Vitamin D3. We would normally recommend taking a daily dose of 20 or 25 micrograms (μg) which is equivalent to 800 or 1000 units a day (unless your doctor has recommended a different dose). If you are not sure on what dose to take, or if you should take calcium as well, discuss this with your GP.
+  - If you are particularly at risk, your GP may do a blood test to check your vitamin D level. If they are low, you may need a higher dose of vitamin D to bring your levels back up to normal.
+- As people get older, in particular women, their bones can become less dense and more brittle. If this is higher than expected for your age, you may be diagnosed with Osteoporosis. If your bones are thinner, this makes them more likely to fracture from low impact injuries (e.g. breaking your wrist after falling).
+- If you have sustained a broken bone from a low impact injury, your GP should assess your bone health.
+  - They will take into account your height, weight and risk factors (e.g. smoking).
+  - Depending on the outcome of this assessment, they may want to do blood tests and/or a bone scan (called a DXA scan).
+- There are medications that can help to strengthen bones if they are found to be low density. They may also prescribe combined calcium and vitamin D3 tablets.
+
+
 
 ---
 
@@ -155,6 +158,17 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
 
 ### Vision
 
+
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/B81MLwwb3YE" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 - It is recommended that everyone has regular sight tests. This is normally every two years but may be more in certain circumstances.
 - At present, the NHS provides free sight tests to people:
   - Aged over 60 years
@@ -167,17 +181,19 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
   - Protect your eyes from the sun (i.e. wear sunglasses)
   - When using computer or phone screens, try to blink regularly and give your eyes breaks. You could do this by looking out of the window for a few minutes. People with Parkinson’s often blink less without realising so may need to make more of a conscious effort to blink.
 
+
+### Hearing
+
 <div class="video-container">
 <iframe 
   width="560" 
   height="315" 
-  src="https://www.youtube-nocookie.com/embed/B81MLwwb3YE" 
+  src="https://www.youtube-nocookie.com/embed/Ez0AQfwj2do" 
   title="YouTube video player" 
   allowfullscreen>
 </iframe>
 </div>
 
-### Hearing
 
 - You will need a hearing test if you, or someone close to you, notices that your hearing has got worse.
 - At present, hearing tests are provided on the NHS if you notice a problem with your hearing. You can access it by seeing your GP who can refer you to a hearing specialist, though this can take some time.
@@ -190,19 +206,20 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
 
 More information about healthcare costs is on our <a href="/learn/living-with-parkinsons/practical-advice-finances" class="internal-link">_Finances_</a> page. For more information about sight and hearing problems, see our <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page.
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/Ez0AQfwj2do" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
 ## Foot Care
+
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/QeaPR7t3rC4" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
 
 Foot problems can be painful and can affect your walking and balance. Taking care of your feet will help prevent problems in the future.
 
@@ -217,28 +234,11 @@ Foot problems can be painful and can affect your walking and balance. Taking car
 - Apply caution in communal areas: shared showers (e.g. at the gym) and swimming pool areas are associated with foot infections.
 - If you notice a problem with your feet, such as an infection, get it treated promptly so it does not develop complications. Some treatments are available from the pharmacy, or you can see your GP or practice nurse. In some cases, you will be referred to a foot specialist, known as a podiatrist.
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/QeaPR7t3rC4" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
+
 
 ---
 
 ## Dental Care
-
-Taking care of your teeth is really important as poor dental health can lead to pain and infections. It may even lead to difficulties eating and drinking in the long run.
-
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/floss.jpg" alt="flossing" class="example-class">
-
-- Brush your teeth twice a day with a fluoride toothpaste and floss daily.
-- Reduce sugar intake
-- Have regular check-ups with your dentist. Dental checks are provided by the NHS for a fee, unless you are on a low income. See the <a href="https://www.nhs.uk/nhs-services/dentists/who-can-get-free-nhs-dental-treatment/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> for more information on who qualifies for free NHS dental care. The frequency of check-up depends on the health of your teeth and gums. Your dentist can advise on this.
-- Don’t delay treatments if you have a problem. Many dental treatments are available on the NHS, but most will require a contribution to the cost which can vary in amount depending on the treatment needed. People in receipt of certain financial benefits are entitled to free NHS dental treatment.
 
 <div class="video-container">
 <iframe 
@@ -250,17 +250,21 @@ Taking care of your teeth is really important as poor dental health can lead to 
 </iframe>
 </div>
 
+Taking care of your teeth is really important as poor dental health can lead to pain and infections. It may even lead to difficulties eating and drinking in the long run.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/floss.jpg" alt="flossing" class="example-class">
+
+- Brush your teeth twice a day with a fluoride toothpaste and floss daily.
+- Reduce sugar intake
+- Have regular check-ups with your dentist. Dental checks are provided by the NHS for a fee, unless you are on a low income. See the <a href="https://www.nhs.uk/nhs-services/dentists/who-can-get-free-nhs-dental-treatment/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> for more information on who qualifies for free NHS dental care. The frequency of check-up depends on the health of your teeth and gums. Your dentist can advise on this.
+- Don’t delay treatments if you have a problem. Many dental treatments are available on the NHS, but most will require a contribution to the cost which can vary in amount depending on the treatment needed. People in receipt of certain financial benefits are entitled to free NHS dental treatment.
+
+
+
 ---
 
 ## Bowel Care
 
-Avoiding constipation is very important in Parkinson’s. For more information, see the <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> page.
-
-Key ways to avoid constipation:
-
-- Eat plenty of fibre
-- Drink plenty of water
-- Be active
 
 <div class="video-container">
 <iframe 
@@ -272,17 +276,18 @@ Key ways to avoid constipation:
 </iframe>
 </div>
 
+Avoiding constipation is very important in Parkinson’s. For more information, see the <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> page.
+
+Key ways to avoid constipation:
+
+- Eat plenty of fibre
+- Drink plenty of water
+- Be active
+
+
 ---
 
 ## Skin Care
-
-- Keep your skin clean, but avoid harsh soaps as they can wash away the natural skin oils.
-- If you have dry skin, avoid harsh alcohol-based washes as they can be irritating and drying.
-- If you have dry skin, moisturise to avoid the skin cracking. Your pharmacist can advise on which creams would be better for this.
-- If you have oily skin, use water-based products instead of oil-based products.
-- Avoid prolonged pressure through a single area of skin (e.g. sitting in the same position for a long time) as this can damage the skin.
-- Some sun exposure is good and helps your body maintain vitamin D levels. However excessive sun exposure increases the risk of skin damage and skin cancer. See the NHS website <a href="https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> for some tips on safe sun exposure.
-- See our <a href="/learn/managing-symptoms/skin-conditions" class="internal-link">_Skin Conditions_</a> page for more information on this.
 
 <div class="video-container">
 <iframe 
@@ -293,6 +298,16 @@ Key ways to avoid constipation:
   allowfullscreen>
 </iframe>
 </div>
+
+- Keep your skin clean, but avoid harsh soaps as they can wash away the natural skin oils.
+- If you have dry skin, avoid harsh alcohol-based washes as they can be irritating and drying.
+- If you have dry skin, moisturise to avoid the skin cracking. Your pharmacist can advise on which creams would be better for this.
+- If you have oily skin, use water-based products instead of oil-based products.
+- Avoid prolonged pressure through a single area of skin (e.g. sitting in the same position for a long time) as this can damage the skin.
+- Some sun exposure is good and helps your body maintain vitamin D levels. However excessive sun exposure increases the risk of skin damage and skin cancer. See the NHS website <a href="https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> for some tips on safe sun exposure.
+- See our <a href="/learn/managing-symptoms/skin-conditions" class="internal-link">_Skin Conditions_</a> page for more information on this.
+
+
 
 ---
 
