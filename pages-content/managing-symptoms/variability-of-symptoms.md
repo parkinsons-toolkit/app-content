@@ -1,5 +1,16 @@
 # Variability of Symptoms
 
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/4wd17YOCQB8"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
 Variability of symptoms occurs when people with Parkinson’s change from having good, consistent control of their symptoms to having less consistent, less predictable control. This change in control may happen slowly over time or may be more of a sudden change.
 
 A medication dose may not last as long as it did it in the past. People refer to this as the medication ‘wearing off’. Some people notice their tablets don’t ‘kick in’ right away after taking them. Others notice their medications don’t work as smoothly as they did before.
@@ -11,15 +22,6 @@ People may have times in between doses where they don’t feel as well. This var
 
 For some people, the variability is predictable and in relation to medication. For others, the variability does not follow a pattern, and this can be very challenging to manage.
 
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/4wd17YOCQB8"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
@@ -36,6 +38,17 @@ There are things you can try for yourself (described below). You should discuss 
 ---
 
 ## What can I try for myself?
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/rjaNRWjlL6A"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 
 ### Make the most of ‘on’ time
 
@@ -63,19 +76,20 @@ There are things you can try for yourself (described below). You should discuss 
   - If taking levodopa on an empty stomach causes nausea, try taking it with fruit or crackers rather than high protein foods.
 - See <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> for more information about diet.
 
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/rjaNRWjlL6A"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
 ## My Experience
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/QvSy9vRJaEQ"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
 
 People affected by Parkinson’s describe their experiences.
 
@@ -87,15 +101,7 @@ People affected by Parkinson’s describe their experiences.
 >
 > _(Healthcare Professional)_
 
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/QvSy9vRJaEQ"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
+
 
 ---
 
