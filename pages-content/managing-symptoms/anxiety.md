@@ -92,16 +92,6 @@ For more details, the charity Mind has information about how to seek urgent ment
 
 For more details, the charity <a href="https://www.mind.org.uk/need-urgent-help/" class="external-link" target="_blank" rel="noopener noreferrer">Mind</a> has information about <a href="https://www.mind.org.uk/need-urgent-help/" class="external-link" target="_blank" rel="noopener noreferrer">how to seek urgent mental health support</a>t.
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/K46rVNlXyqU" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
-
 ---
 
 ## What can I try for myself?
