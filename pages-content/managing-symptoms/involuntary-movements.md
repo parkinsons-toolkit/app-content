@@ -1,11 +1,5 @@
 # Involuntary Movements (Dyskinesia)
 
-‘Dyskinesias’ are typically quick muscle movements that you cannot control. These movements include wriggling, writhing, twisting, head bobbing, or swaying motions. They can affect one part of the body (e.g. the trunk), arms or legs, or the whole body.
-
-Some people experience dyskinesia when their medications are at the highest levels in the body. Others have dyskinesia when their medications are at the lowest levels in the body (i.e. just before or just after taking medication).
-
-Dyskinesias can range in severity, from some people having it so mildly that they do not notice the movements to others who have severe dyskinesias. Many people with Parkinson’s say their dyskinesias do not bother them, and they would prefer to feel more “on” with dyskinesias and be able to do more, than have fewer dyskinesias but feel more “off” and not be able to do as much.
-
 <div class="video-container">
 <iframe
   width="560"
@@ -15,6 +9,14 @@ Dyskinesias can range in severity, from some people having it so mildly that the
   allowfullscreen>
 </iframe>
 </div>
+
+‘Dyskinesias’ are typically quick muscle movements that you cannot control. These movements include wriggling, writhing, twisting, head bobbing, or swaying motions. They can affect one part of the body (e.g. the trunk), arms or legs, or the whole body.
+
+Some people experience dyskinesia when their medications are at the highest levels in the body. Others have dyskinesia when their medications are at the lowest levels in the body (i.e. just before or just after taking medication).
+
+Dyskinesias can range in severity, from some people having it so mildly that they do not notice the movements to others who have severe dyskinesias. Many people with Parkinson’s say their dyskinesias do not bother them, and they would prefer to feel more “on” with dyskinesias and be able to do more, than have fewer dyskinesias but feel more “off” and not be able to do as much.
+
+
 
 ---
 
@@ -40,6 +42,16 @@ There are some ideas below for how to manage your dyskinesia. But if they are im
 
 ## What can I try for myself?
 
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/gv50lgx8bAQ"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 ### Managing Stress
 
 - Like many Parkinson’s symptoms, dyskinesias are worse when stressed. Finding ways to stay relaxed can be helpful.
@@ -53,15 +65,6 @@ If you notice particular times when your movements are good (e.g. feeling “on�
 
 You can explain to others that the extra movements are part of your Parkinson’s and nothing to be concerned about.
 
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/gv50lgx8bAQ"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
