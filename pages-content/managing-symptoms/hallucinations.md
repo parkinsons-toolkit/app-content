@@ -1,13 +1,5 @@
 # Hallucinations & Related Symptoms
 
-Hallucinations, visual illusions, and delusions may occur in people with Parkinson’s. They are most often a side effect of medication, but they can also be a symptom of Parkinson’s, or part of another condition, such as dementia. These issues are not common, but can be upsetting for the person experiencing them, and for their loved ones and carers.
-
-**Hallucinations** are seeing, tasting, smelling, feeling, or hearing things that aren’t there. For example, seeing children or small animals that are not there.
-
-**Visual illusions** are mistaking real objects for things that they are not. This might be, for example, seeing an umbrella on the floor and thinking it is a snake or seeing a coat hanging on a door and thinking it is a person.
-
-**Delusions** are strongly held thoughts or beliefs that are not based on reality. For example, someone may have paranoid thoughts or beliefs about a carer or another close contact. This can make them suspicious or mistrust the carer or close contact. Delusions may also include jealous thoughts or beliefs of having special powers. These could potentially lead to unusual or unsafe behaviour. People who are experiencing severe delusions may be convinced they are true and may find it difficult to tell what is real or not in their daily lives.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -17,6 +9,16 @@ Hallucinations, visual illusions, and delusions may occur in people with Parkins
   allowfullscreen>
 </iframe>
 </div>
+
+
+Hallucinations, visual illusions, and delusions may occur in people with Parkinson’s. They are most often a side effect of medication, but they can also be a symptom of Parkinson’s, or part of another condition, such as dementia. These issues are not common, but can be upsetting for the person experiencing them, and for their loved ones and carers.
+
+**Hallucinations** are seeing, tasting, smelling, feeling, or hearing things that aren’t there. For example, seeing children or small animals that are not there.
+
+**Visual illusions** are mistaking real objects for things that they are not. This might be, for example, seeing an umbrella on the floor and thinking it is a snake or seeing a coat hanging on a door and thinking it is a person.
+
+**Delusions** are strongly held thoughts or beliefs that are not based on reality. For example, someone may have paranoid thoughts or beliefs about a carer or another close contact. This can make them suspicious or mistrust the carer or close contact. Delusions may also include jealous thoughts or beliefs of having special powers. These could potentially lead to unusual or unsafe behaviour. People who are experiencing severe delusions may be convinced they are true and may find it difficult to tell what is real or not in their daily lives.
+
 
 ---
 
@@ -61,11 +63,6 @@ It is important to discuss the hallucinations, illusions, and/or delusions with 
 
 **Look at surroundings:**
 
-- Visual illusions can often occur at certain times of day. This could be, for example, around the time evening is starting and lighting is getting low. It may help to turn the room lights on earlier in the evening than usual.
-- If certain objects are frequently mistaken as visual illusions, consider removing these objects from the room or changing the lighting in the room to alter the shadow (it may be worth examining the lighting and how things are arranged at home in case this could be contributing to the problem).
-- Try talking to a close friend or relative if you suspect you are hallucinating or seeing a visual illusion. They may be able to help you to recognise a hallucination or visual illusion and to decrease your anxiety about them.
-- If you can recognise a visual illusion or a hallucination for what it is and it is actually not disturbing to you, then perhaps no further action is needed.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -75,6 +72,13 @@ It is important to discuss the hallucinations, illusions, and/or delusions with 
   allowfullscreen>
 </iframe>
 </div>
+
+- Visual illusions can often occur at certain times of day. This could be, for example, around the time evening is starting and lighting is getting low. It may help to turn the room lights on earlier in the evening than usual.
+- If certain objects are frequently mistaken as visual illusions, consider removing these objects from the room or changing the lighting in the room to alter the shadow (it may be worth examining the lighting and how things are arranged at home in case this could be contributing to the problem).
+- Try talking to a close friend or relative if you suspect you are hallucinating or seeing a visual illusion. They may be able to help you to recognise a hallucination or visual illusion and to decrease your anxiety about them.
+- If you can recognise a visual illusion or a hallucination for what it is and it is actually not disturbing to you, then perhaps no further action is needed.
+
+
 
 ---
 
