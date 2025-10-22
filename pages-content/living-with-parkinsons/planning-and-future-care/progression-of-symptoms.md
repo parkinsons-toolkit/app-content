@@ -1,11 +1,5 @@
 # Progression of Symptoms in Parkinson’s
 
-Everyone’s experience of Parkinson’s is different. Just because some people experience the symptoms described here does not mean that you will.
-
-In general, over time people may experience more symptoms, but there is no rule about which symptoms or when. For some, the uncertainty about how things will look and feel in the future is one of the most difficult parts of the Parkinson’s diagnosis.
-
-_Progression_ may involve the development of new symptoms or the worsening of existing symptoms. It may include an increasing difficulty controlling symptoms. Here we discuss challenges around progression and some of the more advanced symptoms. For other symptoms see the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -15,6 +9,14 @@ _Progression_ may involve the development of new symptoms or the worsening of ex
   allowfullscreen>
 </iframe>
 </div>
+
+
+Everyone’s experience of Parkinson’s is different. Just because some people experience the symptoms described here does not mean that you will.
+
+In general, over time people may experience more symptoms, but there is no rule about which symptoms or when. For some, the uncertainty about how things will look and feel in the future is one of the most difficult parts of the Parkinson’s diagnosis.
+
+_Progression_ may involve the development of new symptoms or the worsening of existing symptoms. It may include an increasing difficulty controlling symptoms. Here we discuss challenges around progression and some of the more advanced symptoms. For other symptoms see the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages.
+
 
 ---
 
@@ -40,10 +42,6 @@ It is normal to feel grief. It is helpful to acknowledge your grief. Understandi
 
 ## My Experience
 
-> “The more I said, ‘Parkinson’s is doing this,’ you may be more angry and frustrated. But to be able to think that it’s a disease and I’m living with it and I have to go and change my life around it, you sort of understand that I have to accept that, because it’s not going to go away. It’s going to stay there. So it’s better for me to deal with it like that.”
-> 
-> _Person with Parkinson’s_
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -53,6 +51,12 @@ It is normal to feel grief. It is helpful to acknowledge your grief. Understandi
   allowfullscreen>
 </iframe>
 </div>
+
+> “The more I said, ‘Parkinson’s is doing this,’ you may be more angry and frustrated. But to be able to think that it’s a disease and I’m living with it and I have to go and change my life around it, you sort of understand that I have to accept that, because it’s not going to go away. It’s going to stay there. So it’s better for me to deal with it like that.”
+> 
+> _Person with Parkinson’s_
+
+
 
 ---
 
@@ -113,11 +117,6 @@ If the symptoms are affecting your ability to undertake daily activities or task
 
 ### What can be done
 
-- See your GP or Parkinson’s specialist team for assessment. Assessments may be conducted by a specialist service, often called a _Memory Clinic_.
-- There are medication options that have been shown to improve symptoms in dementia. These are generally started by a Parkinson’s specialist or a dementia specialist.
-- Memory clinic services vary by area. They will generally have support services connected to them, or they can give you the details of services that can help you.
-- Day-to-day strategies for memory difficulties are discussed on the <a href="/learn/managing-symptoms/thinking-concentration-and-memory" class="internal-link">_Thinking, Concentration & Memory_</a> page.
-- **Prepare:** over time dementia can affect a person’s ability to make decisions. If someone no longer has the ‘mental capacity’ to make decisions about their care, then decisions will be made on their behalf. Prepare by thinking ahead and making your wishes known. You can record your wishes in advance or appoint someone to take decisions for you. See the <a href="/learn/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_Future Care Options_</a> page for things to consider, and the <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page for the formal process. 
 
 <div class="video-container">
 <iframe 
@@ -129,11 +128,16 @@ If the symptoms are affecting your ability to undertake daily activities or task
 </iframe>
 </div>
 
+- See your GP or Parkinson’s specialist team for assessment. Assessments may be conducted by a specialist service, often called a _Memory Clinic_.
+- There are medication options that have been shown to improve symptoms in dementia. These are generally started by a Parkinson’s specialist or a dementia specialist.
+- Memory clinic services vary by area. They will generally have support services connected to them, or they can give you the details of services that can help you.
+- Day-to-day strategies for memory difficulties are discussed on the <a href="/learn/managing-symptoms/thinking-concentration-and-memory" class="internal-link">_Thinking, Concentration & Memory_</a> page.
+- **Prepare:** over time dementia can affect a person’s ability to make decisions. If someone no longer has the ‘mental capacity’ to make decisions about their care, then decisions will be made on their behalf. Prepare by thinking ahead and making your wishes known. You can record your wishes in advance or appoint someone to take decisions for you. See the <a href="/learn/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_Future Care Options_</a> page for things to consider, and the <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page for the formal process. 
+
 ---
 
 ## Swallowing Problems & Chest Infections
 
-Swallowing problems are common in Parkinson’s but exist along a range of severity.When swallowing problems are more severe, there is a risk of food, drink or even saliva _‘going down the wrong way’_.
 
 <div class="video-container">
 <iframe 
@@ -144,6 +148,9 @@ Swallowing problems are common in Parkinson’s but exist along a range of sever
   allowfullscreen>
 </iframe>
 </div>
+
+Swallowing problems are common in Parkinson’s but exist along a range of severity.When swallowing problems are more severe, there is a risk of food, drink or even saliva _‘going down the wrong way’_.
+
 
 ### How swallowing works
 
