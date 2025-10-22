@@ -1,9 +1,5 @@
 # Sexual Function
 
-Sexual problems can happen with Parkinson’s, but not everyone will experience these. Some people notice changes physically, emotionally, or with sexual drive.
-
-Many people do not feel comfortable talking about sex, meaning sexual problems may be missed and not addressed.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -13,6 +9,12 @@ Many people do not feel comfortable talking about sex, meaning sexual problems m
   allowfullscreen>
 </iframe>
 </div>
+
+Sexual problems can happen with Parkinson’s, but not everyone will experience these. Some people notice changes physically, emotionally, or with sexual drive.
+
+Many people do not feel comfortable talking about sex, meaning sexual problems may be missed and not addressed.
+
+
 
 ---
 
@@ -34,13 +36,7 @@ Some Parkinson’s medicines (e.g. dopamine agonists) can cause ‘hypersexualit
 
 ---
 
-## What should I do about itt?
-
-At times, issues with sexual function are normal and may improve on their own. But if they don’t, there are things you can try that might help (see section ‘What can I try for myself?’).
-
-If the problems are more frequent and bother you, talk to your GP or Parkinson’s specialist team. Many people are embarrassed by talking about sex - but remember these conversations are private and confidential. There are possible changes that can be made to medication that may improve your symptoms so do not be afraid to talk about it.
-
-**Hypersexuality:** If very mild, some couples may feel happy about the increase in sexual activity. But if sexual desires feel out of control, out of character or cause noticeable changes in behaviour then this should be addressed. Speak to your Parkinson’s specialist team urgently if this is the case. For more information, see the <a href="/learn/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page.
+## What should I do about it?
 
 <div class="video-container">
 <iframe 
@@ -51,6 +47,14 @@ If the problems are more frequent and bother you, talk to your GP or Parkinson�
   allowfullscreen>
 </iframe>
 </div>
+
+At times, issues with sexual function are normal and may improve on their own. But if they don’t, there are things you can try that might help (see section ‘What can I try for myself?’).
+
+If the problems are more frequent and bother you, talk to your GP or Parkinson’s specialist team. Many people are embarrassed by talking about sex - but remember these conversations are private and confidential. There are possible changes that can be made to medication that may improve your symptoms so do not be afraid to talk about it.
+
+**Hypersexuality:** If very mild, some couples may feel happy about the increase in sexual activity. But if sexual desires feel out of control, out of character or cause noticeable changes in behaviour then this should be addressed. Speak to your Parkinson’s specialist team urgently if this is the case. For more information, see the <a href="/learn/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page.
+
+
 
 ---
 
