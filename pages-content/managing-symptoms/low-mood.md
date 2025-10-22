@@ -92,6 +92,17 @@ In some situations, depression can need urgent attention. This may be if you are
 - Repeated thoughts of death or suicidal ideas
 - Thoughts of self-harm or harming others
 
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/K46rVNlXyqU" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
+
 If you or a family member feels there is an immediate risk, you should go to your nearest Accident and Emergency (A&E) department. There will be a trained mental health care professional available that you can see. If you cannot get to A&E yourself, you or someone else can call 999 and ask for an ambulance.
 
 If you need immediate help but don’t want to go to A&E, you could:
