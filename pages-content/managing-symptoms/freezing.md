@@ -1,7 +1,5 @@
 # Freezing
 
-Freezing is a sudden feeling that you can’t start or complete a movement. Most people have "freezing of gait" meaning freezing happens when walking. People describe feeling their feet are glued to the ground and unable to move, but they’re still able to move their arms. It can happen at the start of a movement or in the middle of a movement (e.g. when you are starting to walk or in the middle of walking). Sometimes freezing can happen while eating, writing, or when you are rushing to do something. It is important to address freezing because it can impact on confidence and can contribute to falls.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -11,6 +9,10 @@ Freezing is a sudden feeling that you can’t start or complete a movement. Most
   allowfullscreen>
 </iframe>
 </div>
+
+
+Freezing is a sudden feeling that you can’t start or complete a movement. Most people have "freezing of gait" meaning freezing happens when walking. People describe feeling their feet are glued to the ground and unable to move, but they’re still able to move their arms. It can happen at the start of a movement or in the middle of a movement (e.g. when you are starting to walk or in the middle of walking). Sometimes freezing can happen while eating, writing, or when you are rushing to do something. It is important to address freezing because it can impact on confidence and can contribute to falls.
+
 
 ---
 
@@ -34,8 +36,6 @@ There are things you can try for yourself but there are some situations where yo
 
 ## What can I try for myself?
 
-The best thing to do if you think you can feel yourself freezing is to stop moving and hold on to your balance. Freezing can be a frightening feeling, but if you try to keep moving or become agitated you may fall.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -45,6 +45,9 @@ The best thing to do if you think you can feel yourself freezing is to stop movi
   allowfullscreen>
 </iframe>
 </div>
+
+The best thing to do if you think you can feel yourself freezing is to stop moving and hold on to your balance. Freezing can be a frightening feeling, but if you try to keep moving or become agitated you may fall.
+
 
 There are different techniques that you can try. Some aim to overcome freezing when it happens, others aim to prevent it. You may find some work for you and others don’t. It is good to try out different strategies and see which suits you best. You might even find your own way to apply the principles.
 
