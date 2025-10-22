@@ -1,9 +1,5 @@
 # Hobbies & Pets
 
-Hobbies and pets provide many people with a sense of purpose and enjoyment. Hobbies enable us to enjoy an activity that is a break from our day-to-day routine. For many people it helps to keep on doing hobbies or start new ones, no matter your age or circumstances. It is seen as a way to keep up or improve your wellbeing.
-
-Having a pet can also help to improve wellbeing. When diagnosed with Parkinson’s, there may be some challenges in taking part in hobbies or looking after a pet in the ways that we used to. Lots of people with Parkinson’s still enjoy their hobbies and look after their pets for many years. This information sheet provides tips and advice on how best to maintain your hobbies and take care of your pets in these new circumstances.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -13,6 +9,12 @@ Having a pet can also help to improve wellbeing. When diagnosed with Parkinson�
   allowfullscreen>
 </iframe>
 </div>
+
+Hobbies and pets provide many people with a sense of purpose and enjoyment. Hobbies enable us to enjoy an activity that is a break from our day-to-day routine. For many people it helps to keep on doing hobbies or start new ones, no matter your age or circumstances. It is seen as a way to keep up or improve your wellbeing.
+
+Having a pet can also help to improve wellbeing. When diagnosed with Parkinson’s, there may be some challenges in taking part in hobbies or looking after a pet in the ways that we used to. Lots of people with Parkinson’s still enjoy their hobbies and look after their pets for many years. This information sheet provides tips and advice on how best to maintain your hobbies and take care of your pets in these new circumstances.
+
+
 
 ---
 
@@ -27,8 +29,6 @@ People affected by Parkinson’s describe their experiences.
 
 ## Maintaining hobbies
 
-At times your Parkinson’s might affect your ability to enjoy your hobbies. This might be due to problems getting about (mobility), or tremors or other symptoms. But, for your own physical and mental wellbeing, it’s important that Parkinson’s doesn’t become the sole focus of your life. Even if you are finding your hobby more difficult, there are often ways you can continue to enjoy the activity. This might be by speaking to an occupational therapist or thinking of ways to adapt the activity to make it easier for you. So, try to continue doing your hobbies or take on new ones that you enjoy, whatever they may be. Below we outline some things you can try yourself and what support is available.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -38,6 +38,10 @@ At times your Parkinson’s might affect your ability to enjoy your hobbies. Thi
   allowfullscreen>
 </iframe>
 </div>
+
+At times your Parkinson’s might affect your ability to enjoy your hobbies. This might be due to problems getting about (mobility), or tremors or other symptoms. But, for your own physical and mental wellbeing, it’s important that Parkinson’s doesn’t become the sole focus of your life. Even if you are finding your hobby more difficult, there are often ways you can continue to enjoy the activity. This might be by speaking to an occupational therapist or thinking of ways to adapt the activity to make it easier for you. So, try to continue doing your hobbies or take on new ones that you enjoy, whatever they may be. Below we outline some things you can try yourself and what support is available.
+
+
 
 ---
 
@@ -122,8 +126,6 @@ Occupational therapists may be able to work with you to help maintain your healt
 
 ## Caring for pets
 
-Anyone who has a pet, will know that pets become an integral part of a family. Whether you already have a pet or are thinking about getting a pet, there are several things to consider. There are many benefits to having a pet, but pets do come with some challenges. This section will discuss these benefits and provide advice on how to care for a pet and seek support, if needed.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -133,6 +135,10 @@ Anyone who has a pet, will know that pets become an integral part of a family. W
   allowfullscreen>
 </iframe>
 </div>
+
+Anyone who has a pet, will know that pets become an integral part of a family. Whether you already have a pet or are thinking about getting a pet, there are several things to consider. There are many benefits to having a pet, but pets do come with some challenges. This section will discuss these benefits and provide advice on how to care for a pet and seek support, if needed.
+
+
 
 ### Benefits of having a pet
 
