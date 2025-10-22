@@ -4,8 +4,6 @@
 
 ## Appointments
 
-Most people with Parkinson’s remain under the care of a specialist (usually a Neurologist or Geriatrician) for life. They usually see them every 6–12 months. In addition, in many areas there are also Parkinson’s Nurse Specialists, working either in the community or in the hospital. Some of these specialist nurses hold outpatient appointments, and most do telephone calls. A few will see people in their own homes. You may also have appointments with other teams, either in relation to your Parkinson’s or for other health reasons.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -15,6 +13,8 @@ Most people with Parkinson’s remain under the care of a specialist (usually a 
   allowfullscreen>
 </iframe>
 </div>
+
+Most people with Parkinson’s remain under the care of a specialist (usually a Neurologist or Geriatrician) for life. They usually see them every 6–12 months. In addition, in many areas there are also Parkinson’s Nurse Specialists, working either in the community or in the hospital. Some of these specialist nurses hold outpatient appointments, and most do telephone calls. A few will see people in their own homes. You may also have appointments with other teams, either in relation to your Parkinson’s or for other health reasons.
 
 Appointments can be stressful, and stress tends to make Parkinson’s symptoms worse. The best way to reduce the stress and make the most out of your appointment is to plan ahead. Here are some things you may wish to consider beforehand:
 
@@ -80,13 +80,6 @@ Of course, while no preparation is needed for your appointments, you can make th
 
 ## Staying in Hospital
 
-There are many different reasons people need to stay in hospital. As well as being a stressful time, the different environment means there are lots of things to think about. Here we discuss how to make the hospital stays as smooth as possible. Going into hospital can be planned or unplanned.
-
-A planned stay is called an **Elective Admission**. This would be for a planned knee operation for example.  
-An unplanned stay is due to an **Emergency Admission**. An example of this would be following a fall.
-
-Whichever way you go into hospital it is important for staff to know you have Parkinson’s. This is to make sure you have appropriate care throughout your hospital stay. Remember, the hospital has to follow your timetable for your medication, so you must let them know what times you take your medication.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -96,6 +89,14 @@ Whichever way you go into hospital it is important for staff to know you have Pa
   allowfullscreen>
 </iframe>
 </div>
+
+There are many different reasons people need to stay in hospital. As well as being a stressful time, the different environment means there are lots of things to think about. Here we discuss how to make the hospital stays as smooth as possible. Going into hospital can be planned or unplanned.
+
+A planned stay is called an **Elective Admission**. This would be for a planned knee operation for example.  
+An unplanned stay is due to an **Emergency Admission**. An example of this would be following a fall.
+
+Whichever way you go into hospital it is important for staff to know you have Parkinson’s. This is to make sure you have appropriate care throughout your hospital stay. Remember, the hospital has to follow your timetable for your medication, so you must let them know what times you take your medication.
+
 
 ### Preparation
 
@@ -149,16 +150,6 @@ You will probably encounter lots of different professionals during your hospital
 
 ### Responsibilities you may still have outside hospital
 
-Many people worry about things that they have left at home if they are admitted to hospital. Although it is good to have motivation for your recovery, it is preferable to minimise anxiety around things back at home. Some things to think about:
-
-- **Work**: Can you or a friend or relative let your workplace know that you will be off sick.
-- **Dependents**: If you normally care for someone, is there someone who can step in to help while you are in hospital? If they are a vulnerable adult or a child then social services can provide emergency care. Tell the team looking after you and they can notify social services. The following website provides information about the sorts of support they can offer: <a href="https://www.nhs.uk/conditions/social-care-and-support-guide/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Social care and support guide</a>
-- **Pets**: Is there someone who can step in to help while you are in hospital?
-- **Security and safety**: If you are worried about whether you locked the door, or left the cooker on, is there someone who could check to put your mind at ease? Is there someone who can check on your home whilst you are in hospital?
-- **Bills**: Is there someone who can step in to help while you are in hospital?
-
-See <a href="/learn/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a>, and <a href="/learn/living-with-parkinsons/practical-advice/hobbiess-and-pets" class="internal-link">_Hobbies & Pets_</a> for more guidance.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -169,11 +160,21 @@ See <a href="/learn/living-with-parkinsons/practical-advice/work-and-caring" cla
 </iframe>
 </div>
 
+Many people worry about things that they have left at home if they are admitted to hospital. Although it is good to have motivation for your recovery, it is preferable to minimise anxiety around things back at home. Some things to think about:
+
+- **Work**: Can you or a friend or relative let your workplace know that you will be off sick.
+- **Dependents**: If you normally care for someone, is there someone who can step in to help while you are in hospital? If they are a vulnerable adult or a child then social services can provide emergency care. Tell the team looking after you and they can notify social services. The following website provides information about the sorts of support they can offer: <a href="https://www.nhs.uk/conditions/social-care-and-support-guide/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Social care and support guide</a>
+- **Pets**: Is there someone who can step in to help while you are in hospital?
+- **Security and safety**: If you are worried about whether you locked the door, or left the cooker on, is there someone who could check to put your mind at ease? Is there someone who can check on your home whilst you are in hospital?
+- **Bills**: Is there someone who can step in to help while you are in hospital?
+
+See <a href="/learn/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a>, and <a href="/learn/living-with-parkinsons/practical-advice/hobbiess-and-pets" class="internal-link">_Hobbies & Pets_</a> for more guidance.
+
+
+
 ---
 
 ## Minimising Hospital Risks
-
-Unfortunately, complications do happen. The hospital is different to the place where you usually live and has different risks. Here are some suggestions to help reduce these risks.
 
 <div class="video-container">
 <iframe 
@@ -184,6 +185,10 @@ Unfortunately, complications do happen. The hospital is different to the place w
   allowfullscreen>
 </iframe>
 </div>
+
+Unfortunately, complications do happen. The hospital is different to the place where you usually live and has different risks. Here are some suggestions to help reduce these risks.
+
+
 
 ### Medication
 
