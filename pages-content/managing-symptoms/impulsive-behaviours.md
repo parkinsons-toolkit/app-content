@@ -1,15 +1,5 @@
 # Impulsive Behaviours
 
-‘Impulsive’ and ‘compulsive’ behaviours occur when someone has difficulty controlling urges or desires. This means they behave in a way that is out of character or undertake activities that they would not normally do. The individual may not be aware of the problem.
-
-People with impulsive and compulsive behaviours are driven to things that give instant reward. Examples of these behaviours or activities include sexual behaviours, gambling, binge eating and obsessive shopping. Other people may simply spend excessive amounts of time pursuing a hobby or with DIY in a way that interferes with other activities. People may also feel the need to take objects apart, or to continuously hold or handle objects in their hands. Note, the ‘reward’ might not be what you expect. For example, the act of gambling might give the ‘reward’ rather than winning, or the act of shopping rather than the product bought.
-
-**Why does this happen?** The behaviour or activity bring feelings of pleasure. Stopping the behaviour or activity brings feelings of tension and restarting the behaviour or activity relieves that tension. It is normal for behaviour to be driven by ‘rewards’ but disruption to the normal control can lead to impulsive behaviours, like an addiction. Sometimes people may continue to do the behaviour or activity even after the feeling of pleasure or reward they originally felt has gone.
-
-People may also experience a compulsion to take more than their prescribed amount of Parkinson’s medications. They may be addicted to the way it makes them feel. This is called ‘dopamine dysregulation syndrome’. If their healthcare provider tries to reduce it to the amount they are supposed to take, this may cause upset feelings, cravings for the medication, or reduced mobility. Sometimes people will not accept a reduction in medication: they may become aggressive or secretly hoard medications.
-
-Others may not realise they are increasingly taking more medication than the amount their healthcare provider has prescribed. It’s important that family members or carers know your prescribed doses so they can spot if you are taking too much.
-
 <div class="video-container">
 <iframe
   width="560"
@@ -20,13 +10,21 @@ Others may not realise they are increasingly taking more medication than the amo
 </iframe>
 </div>
 
+‘Impulsive’ and ‘compulsive’ behaviours occur when someone has difficulty controlling urges or desires. This means they behave in a way that is out of character or undertake activities that they would not normally do. The individual may not be aware of the problem.
+
+People with impulsive and compulsive behaviours are driven to things that give instant reward. Examples of these behaviours or activities include sexual behaviours, gambling, binge eating and obsessive shopping. Other people may simply spend excessive amounts of time pursuing a hobby or with DIY in a way that interferes with other activities. People may also feel the need to take objects apart, or to continuously hold or handle objects in their hands. Note, the ‘reward’ might not be what you expect. For example, the act of gambling might give the ‘reward’ rather than winning, or the act of shopping rather than the product bought.
+
+**Why does this happen?** The behaviour or activity bring feelings of pleasure. Stopping the behaviour or activity brings feelings of tension and restarting the behaviour or activity relieves that tension. It is normal for behaviour to be driven by ‘rewards’ but disruption to the normal control can lead to impulsive behaviours, like an addiction. Sometimes people may continue to do the behaviour or activity even after the feeling of pleasure or reward they originally felt has gone.
+
+People may also experience a compulsion to take more than their prescribed amount of Parkinson’s medications. They may be addicted to the way it makes them feel. This is called ‘dopamine dysregulation syndrome’. If their healthcare provider tries to reduce it to the amount they are supposed to take, this may cause upset feelings, cravings for the medication, or reduced mobility. Sometimes people will not accept a reduction in medication: they may become aggressive or secretly hoard medications.
+
+Others may not realise they are increasingly taking more medication than the amount their healthcare provider has prescribed. It’s important that family members or carers know your prescribed doses so they can spot if you are taking too much.
+
+
+
 ---
 
 ## What might be causing it?
-
-The chemical dopamine in the brain is affected in Parkinson’s. Dopamine has many roles, including being involved in the brain control of reward and motivation. Medications that affect dopamine messaging in the brain also affect this control. People with Parkinson’s disease are more likely to develop these impulsive and compulsive behaviours if they are prescribed dopamine agonists (including ropinirole, rotigotine, pramipexole, and bromocriptine). These impulsive behaviours can also occur when taking levodopa. These behaviours may develop at any time during Parkinson’s disease, even if people have been on these medications for a long time.
-
-People may also be more likely to develop these behaviours if they are younger at the age of diagnosis or have a history of alcoholism or addictive behaviours in their families. It appears to affect men more than women.
 
 <div class="video-container">
 <iframe
@@ -37,6 +35,11 @@ People may also be more likely to develop these behaviours if they are younger a
   allowfullscreen>
 </iframe>
 </div>
+
+The chemical dopamine in the brain is affected in Parkinson’s. Dopamine has many roles, including being involved in the brain control of reward and motivation. Medications that affect dopamine messaging in the brain also affect this control. People with Parkinson’s disease are more likely to develop these impulsive and compulsive behaviours if they are prescribed dopamine agonists (including ropinirole, rotigotine, pramipexole, and bromocriptine). These impulsive behaviours can also occur when taking levodopa. These behaviours may develop at any time during Parkinson’s disease, even if people have been on these medications for a long time.
+
+People may also be more likely to develop these behaviours if they are younger at the age of diagnosis or have a history of alcoholism or addictive behaviours in their families. It appears to affect men more than women.
+
 
 ---
 
@@ -71,9 +74,6 @@ People may also be more likely to develop these behaviours if they are younger a
 
 **Look after your mental wellbeing:**
 
-- Stress, anxiety and depression can make impulsive and compulsive behaviour changes worse.
-- See the _Optimising Wellbeing_ pages found within the <a href="/learn/managing-symptoms/movement" class="internal-link">_Living with Parkinson's_</a> section for tips on keeping well.
-
 <div class="video-container">
 <iframe
   width="560"
@@ -83,6 +83,11 @@ People may also be more likely to develop these behaviours if they are younger a
   allowfullscreen>
 </iframe>
 </div>
+
+
+- Stress, anxiety and depression can make impulsive and compulsive behaviour changes worse.
+- See the _Optimising Wellbeing_ pages found within the <a href="/learn/managing-symptoms/movement" class="internal-link">_Living with Parkinson's_</a> section for tips on keeping well.
+
 
 ---
 
