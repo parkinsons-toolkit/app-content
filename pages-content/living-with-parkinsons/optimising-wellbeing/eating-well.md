@@ -1,7 +1,5 @@
 # Eating Well
 
-There is no diet that is specifically recommended for Parkinson’s, but diet can make a difference for symptoms related to Parkinson’s, such as overall mood, constipation, and blood pressure. Diet can also affect some of the medications used for Parkinson’s.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -11,6 +9,9 @@ There is no diet that is specifically recommended for Parkinson’s, but diet ca
   allowfullscreen>
 </iframe>
 </div>
+
+There is no diet that is specifically recommended for Parkinson’s, but diet can make a difference for symptoms related to Parkinson’s, such as overall mood, constipation, and blood pressure. Diet can also affect some of the medications used for Parkinson’s.
+
 
 ---
 
@@ -281,15 +282,6 @@ There has been a lot of interest in supplements as a way of slowing down Parkins
 
 ## When to see a dietician?
 
-- When you can no longer maintain your body weight after trying out the “underweight” dietary advice above.
-- If you have lost a significant amount of weight without trying, then you should see your GP or Parkinson’s specialist team.
-  - Approximately 3kg or 7lb or clothes no longer fitting, over 6–12 months is significant, though it depends on your starting weight.
-  - Try monitoring and writing down your weight every month – this will help you to monitor your own weight, but will also be useful for your GP/dietitian.
-- If you notice other signs of weight loss this may be reason to see a dietitian, e.g.:
-  - Looser fitting clothes and/or belt
-  - Jewellery no longer fitting
-  - Looser fitting dentures
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -299,6 +291,17 @@ There has been a lot of interest in supplements as a way of slowing down Parkins
   allowfullscreen>
 </iframe>
 </div>
+
+- When you can no longer maintain your body weight after trying out the “underweight” dietary advice above.
+- If you have lost a significant amount of weight without trying, then you should see your GP or Parkinson’s specialist team.
+  - Approximately 3kg or 7lb or clothes no longer fitting, over 6–12 months is significant, though it depends on your starting weight.
+  - Try monitoring and writing down your weight every month – this will help you to monitor your own weight, but will also be useful for your GP/dietitian.
+- If you notice other signs of weight loss this may be reason to see a dietitian, e.g.:
+  - Looser fitting clothes and/or belt
+  - Jewellery no longer fitting
+  - Looser fitting dentures
+
+
 
 ---
 
