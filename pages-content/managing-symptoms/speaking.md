@@ -1,7 +1,5 @@
 # Speech Difficulties
 
-Speech difficulties are common in Parkinson’s. They include a range of symptoms. But not everyone with Parkinson’s will have the issues discussed in this section. Problems with speech include quiet, slurred, hoarse-sounding voice; monotone; and difficulty with tongue and lip movements. It may feel like you are wearing a mask.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -11,6 +9,10 @@ Speech difficulties are common in Parkinson’s. They include a range of symptom
   allowfullscreen>
 </iframe>
 </div>
+
+
+Speech difficulties are common in Parkinson’s. They include a range of symptoms. But not everyone with Parkinson’s will have the issues discussed in this section. Problems with speech include quiet, slurred, hoarse-sounding voice; monotone; and difficulty with tongue and lip movements. It may feel like you are wearing a mask.
+
 
 ---
 
@@ -24,12 +26,6 @@ There are reasons other than Parkinson’s that cause changes in speech. It coul
 
 ## What should I do about it?
 
-There are things you can do yourself to improve your speech. If symptoms are progressing and affecting your life, or you are worried about related symptoms, see your GP. You should discuss your concerns with your Parkinson’s specialist team at your next appointment.
-
-If you have a new hoarse voice that has lasted more than three weeks you should see your GP.
-
-<ins>Very sudden</ins> changes in speech, usually with weakness of one side of the face, could be a stroke. In this case, call for an ambulance using 999. Very sudden means occurring like a ‘snap of the fingers’.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -39,6 +35,14 @@ If you have a new hoarse voice that has lasted more than three weeks you should 
   allowfullscreen>
 </iframe>
 </div>
+
+
+There are things you can do yourself to improve your speech. If symptoms are progressing and affecting your life, or you are worried about related symptoms, see your GP. You should discuss your concerns with your Parkinson’s specialist team at your next appointment.
+
+If you have a new hoarse voice that has lasted more than three weeks you should see your GP.
+
+<ins>Very sudden</ins> changes in speech, usually with weakness of one side of the face, could be a stroke. In this case, call for an ambulance using 999. Very sudden means occurring like a ‘snap of the fingers’.
+
 
 ---
 
