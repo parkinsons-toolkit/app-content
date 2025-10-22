@@ -1,7 +1,5 @@
 # Legal Matters
 
-There are several legal arrangements that everyone should consider at some stage in their lives. It helps to put these in place as soon as possible. This may involve insurance, power of attorney, decisions about how they wish to be treated and making a will. This section will discuss these legal aspects in some detail. For information about employment please see the section <a href="/learn/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a>.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -12,6 +10,10 @@ There are several legal arrangements that everyone should consider at some stage
 </iframe>
 </div>
 
+
+There are several legal arrangements that everyone should consider at some stage in their lives. It helps to put these in place as soon as possible. This may involve insurance, power of attorney, decisions about how they wish to be treated and making a will. This section will discuss these legal aspects in some detail. For information about employment please see the section <a href="/learn/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a>.
+
+
 ---
 
 ## Insurance
@@ -19,12 +21,6 @@ There are several legal arrangements that everyone should consider at some stage
 Many of us have some type of insurance whether that be house or home insurance or policies covering car, travel or funeral plans. You will need to inform some of your insurance companies if diagnosed with Parkinson’s disease.
 
 ### What should I do?
-
-There are several steps for you to go through once you have received a diagnosis of Parkinson’s:
-
-1. Contact relevant insurance companies (e.g., life, critical illness, driving and travel insurances), as having Parkinson’s can affect your policies. Your insurance may be invalid if you do not tell them.
-2. It may help to offer or to provide a relevant medical report. This allows the insurance company to have a better understanding of your situation. Your GP or specialist will be able to provide this report.
-3. Someone from the insurance company may want to talk with you. This may be to decide at what cost they are willing to provide insurance, or they may want you to change your policy or cancel it. You can contact Citizen’s Advice if you need help with insurance and legal matters. The Discrimination section below may be helpful if you feel that you are not being treated fairly by your insurance company due to your diagnosis of Parkinson’s.
 
 <div class="video-container">
 <iframe 
@@ -35,6 +31,14 @@ There are several steps for you to go through once you have received a diagnosis
   allowfullscreen>
 </iframe>
 </div>
+
+There are several steps for you to go through once you have received a diagnosis of Parkinson’s:
+
+1. Contact relevant insurance companies (e.g., life, critical illness, driving and travel insurances), as having Parkinson’s can affect your policies. Your insurance may be invalid if you do not tell them.
+2. It may help to offer or to provide a relevant medical report. This allows the insurance company to have a better understanding of your situation. Your GP or specialist will be able to provide this report.
+3. Someone from the insurance company may want to talk with you. This may be to decide at what cost they are willing to provide insurance, or they may want you to change your policy or cancel it. You can contact Citizen’s Advice if you need help with insurance and legal matters. The Discrimination section below may be helpful if you feel that you are not being treated fairly by your insurance company due to your diagnosis of Parkinson’s.
+
+
 
 ---
 
@@ -49,10 +53,7 @@ This may be because you:
 - retain information given to you,
 - communicate your decision to others.
 
-Power of attorney provides someone that you trust with the legal power to make decisions in your best interests. However, a power of attorney can only be arranged when you have the ability and understanding to do so, that is you are assessed as having mental capacity. Therefore, it is important to decide as early as possible whether you want to have someone acting on your behalf, in your best interests in the future and if so, who that person or people would be.
-
-This section will outline the different types of power of attorney and other common questions surrounding powers of attorney. The information relates to England and Wales (Mental Capacity Act 2005).
-
+  
 <div class="video-container">
 <iframe 
   width="560" 
@@ -62,6 +63,11 @@ This section will outline the different types of power of attorney and other com
   allowfullscreen>
 </iframe>
 </div>
+
+Power of attorney provides someone that you trust with the legal power to make decisions in your best interests. However, a power of attorney can only be arranged when you have the ability and understanding to do so, that is you are assessed as having mental capacity. Therefore, it is important to decide as early as possible whether you want to have someone acting on your behalf, in your best interests in the future and if so, who that person or people would be.
+
+This section will outline the different types of power of attorney and other common questions surrounding powers of attorney. The information relates to England and Wales (Mental Capacity Act 2005).
+
 
 ### Types of Power of Attorney
 
@@ -137,8 +143,6 @@ It is important to understand that it is your decision. You should not feel pres
 
 ## Formally Recording Future Wishes
 
-You can make a record of your wishes for how you would like to be treated in the future – for example if you can no longer tell anyone. This can be used in a situation in the future where you may not be able to decide for yourself. You can choose whether you would prefer a formal document that is signed and legally binding, or an informal non-legal document that outlines your preferences. These future wishes might cover health and care.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -148,6 +152,10 @@ You can make a record of your wishes for how you would like to be treated in the
   allowfullscreen>
 </iframe>
 </div>
+
+
+You can make a record of your wishes for how you would like to be treated in the future – for example if you can no longer tell anyone. This can be used in a situation in the future where you may not be able to decide for yourself. You can choose whether you would prefer a formal document that is signed and legally binding, or an informal non-legal document that outlines your preferences. These future wishes might cover health and care.
+
 
 ### Types of documentation to record future wishes
 
@@ -231,7 +239,6 @@ People affected by Parkinson’s describe their experiences.
 
 ## Wills
 
-Taking the time to make a will can make sure your property and money are given to the people you want and divided in the ways you want. Without making a will, the law will decide who gets what.
 
 <div class="video-container">
 <iframe 
@@ -242,6 +249,9 @@ Taking the time to make a will can make sure your property and money are given t
   allowfullscreen>
 </iframe>
 </div>
+
+
+Taking the time to make a will can make sure your property and money are given to the people you want and divided in the ways you want. Without making a will, the law will decide who gets what.
 
 ### When should I consider this?
 
@@ -270,8 +280,6 @@ If you decide you would like to make your will, there are a number of steps:
 
 ## Discrimination
 
-If you have a disability, such as Parkinson’s, you have rights that protect you from being wrongfully treated under the Equality Act 2010. This law helps to enforce and promote your rights to ensure you are not treated wrongfully based on your diagnosis of Parkinson’s.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -281,6 +289,10 @@ If you have a disability, such as Parkinson’s, you have rights that protect yo
   allowfullscreen>
 </iframe>
 </div>
+
+If you have a disability, such as Parkinson’s, you have rights that protect you from being wrongfully treated under the Equality Act 2010. This law helps to enforce and promote your rights to ensure you are not treated wrongfully based on your diagnosis of Parkinson’s.
+
+
 
 ### What should I do?
 
