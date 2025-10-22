@@ -69,7 +69,7 @@ a) **Attention & Thinking**
 
 _Plan method_
 
-[diagram]
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/freezing-diagram.png" alt="plan-method-freezing" class="example-class">
 
 Reducing distractions may make this easier.
 
