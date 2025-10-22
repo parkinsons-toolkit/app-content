@@ -130,6 +130,16 @@ When you start apomorphine pump treatment you will be given details for who to c
 
 ### What is it?
 
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/pFqoj-g-v_0" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 Deep Brain Stimulation (DBS) is used in specific cases to treat tremor or other movement problems in Parkinson’s. Electrodes which give electrical impulses are placed in certain areas of the brain. Wires connect the electrodes to a pulse generator, usually implanted in the chest. This pulse generator runs on battery and is set up by a specialist to deliver electrical energy to ease symptoms.
 
 DBS is not a cure; it does not slow the progression of Parkinson’s.
@@ -157,15 +167,6 @@ You may be considered for DBS if you:
 - Low mood
 - Memory or thinking problems
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/pFqoj-g-v_0" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 For more information about these symptoms, see the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Mananging Symptoms_</a> pages.
 
