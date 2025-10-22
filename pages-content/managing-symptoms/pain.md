@@ -1,11 +1,5 @@
 # Pain
 
-Pain may or may not be a problem for you. Pain can be related to Parkinson’s or may be from another cause – sometimes it can be difficult to figure out the difference. Many people report having had pain before their diagnosis of Parkinson’s and it can mask other symptoms. Pain and Parkinson’s is still an area that is being researched.
-
-There are many approaches to treating pain. So, finding out the cause of your pain and addressing it holistically is important to make sure the pain is managed effectively.
-
-Our bodies are a mixture of complex pathways and mechanisms, and lots of factors can influence pain.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -15,6 +9,14 @@ Our bodies are a mixture of complex pathways and mechanisms, and lots of factors
   allowfullscreen>
 </iframe>
 </div>
+
+Pain may or may not be a problem for you. Pain can be related to Parkinson’s or may be from another cause – sometimes it can be difficult to figure out the difference. Many people report having had pain before their diagnosis of Parkinson’s and it can mask other symptoms. Pain and Parkinson’s is still an area that is being researched.
+
+There are many approaches to treating pain. So, finding out the cause of your pain and addressing it holistically is important to make sure the pain is managed effectively.
+
+Our bodies are a mixture of complex pathways and mechanisms, and lots of factors can influence pain.
+
+
 
 ---
 
@@ -74,11 +76,6 @@ When initially beginning any form of exercise, muscles can feel sore or stiff. I
 
 ## What should I do about it?
 
-There are many things you can try for yourself but there are some circumstances where you should seek professional help. These include:
-
-- If you have particular symptoms such as sudden change/loss in bladder/bowel function or numbness/weakness in any function. If you experience this, you should contact a healthcare professional straight away.
-- Any new severe pain – this should be assessed by a professional.
-- If you have tried the things below and are still having pain, or the pain is interfering with your daily activities. If this is the case, you should see your GP.
 
 <div class="video-container">
 <iframe 
@@ -89,6 +86,13 @@ There are many things you can try for yourself but there are some circumstances 
   allowfullscreen>
 </iframe>
 </div>
+
+There are many things you can try for yourself but there are some circumstances where you should seek professional help. These include:
+
+- If you have particular symptoms such as sudden change/loss in bladder/bowel function or numbness/weakness in any function. If you experience this, you should contact a healthcare professional straight away.
+- Any new severe pain – this should be assessed by a professional.
+- If you have tried the things below and are still having pain, or the pain is interfering with your daily activities. If this is the case, you should see your GP.
+
 
 ---
 
