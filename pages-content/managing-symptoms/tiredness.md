@@ -1,14 +1,5 @@
 # Tiredness and Fatigue
 
-_Tiredness_ affects everyone now and then. It tends to have an obvious cause, such as poor sleep.
-
-Tiredness often goes away with rest.
-
-_Fatigue_ is more than simple tiredness. It can affect people in different ways. Sometimes it can be mild. Sometimes it can feel overwhelming. You may have a lack of energy and exhaustion. It can go on for a long time and impact day-to-day activity.
-
-Fatigue affects up to half of people with Parkinson’s. The exact cause of this is unknown but lots of factors can contribute.
-
-_Daytime sleepiness_ is falling asleep or feeling like you might fall asleep during the day.
 
 <div class="video-container">
 <iframe 
@@ -19,6 +10,17 @@ _Daytime sleepiness_ is falling asleep or feeling like you might fall asleep dur
   allowfullscreen>
 </iframe>
 </div>
+
+
+_Tiredness_ affects everyone now and then. It tends to have an obvious cause, such as poor sleep.
+
+Tiredness often goes away with rest.
+
+_Fatigue_ is more than simple tiredness. It can affect people in different ways. Sometimes it can be mild. Sometimes it can feel overwhelming. You may have a lack of energy and exhaustion. It can go on for a long time and impact day-to-day activity.
+
+Fatigue affects up to half of people with Parkinson’s. The exact cause of this is unknown but lots of factors can contribute.
+
+_Daytime sleepiness_ is falling asleep or feeling like you might fall asleep during the day.
 
 ---
 
@@ -61,7 +63,6 @@ If you are falling asleep during tasks, it is important to consider your safety.
 
 ## What Can I Try for Myself?
 
-There are some simple strategies that may help. You may have tried some of these already.
 
 <div class="video-container">
 <iframe 
@@ -72,6 +73,9 @@ There are some simple strategies that may help. You may have tried some of these
   allowfullscreen>
 </iframe>
 </div>
+
+There are some simple strategies that may help. You may have tried some of these already.
+
 
 ### In day-to-day life
 
