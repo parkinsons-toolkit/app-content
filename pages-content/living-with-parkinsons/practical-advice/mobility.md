@@ -8,12 +8,6 @@ Mobility is quite a broad term and includes:
 - Rolling over in bed: ‘bed mobility’
 - Getting up from or sitting down into a chair
 
-Reduced mobility may make everyday activities more challenging for you than they used to be. There are many things you can do for yourself. It is also advised that you see a physiotherapist or occupational therapist. They will work with you to help you continue doing the things you need and enjoy doing in your daily life.
-
-Symptoms of Parkinson’s and factors unrelated to Parkinson’s can all contribute to reduced mobility. These factors are discussed on the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls page_</a>. Treatment of the symptoms causing problems is important for maintaining mobility. Please explore the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages for specific guidance.
-
-A common problem is that difficulties mobilising mean that you are less active. Being less active then leads to muscle weakness and stiffness. Muscle weakness and stiffness then leads to more difficulty in mobilising. Lack of confidence and fear of falling also feeds into this cycle. It is important to break this cycle.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -23,6 +17,14 @@ A common problem is that difficulties mobilising mean that you are less active. 
   allowfullscreen>
 </iframe>
 </div>
+
+Reduced mobility may make everyday activities more challenging for you than they used to be. There are many things you can do for yourself. It is also advised that you see a physiotherapist or occupational therapist. They will work with you to help you continue doing the things you need and enjoy doing in your daily life.
+
+Symptoms of Parkinson’s and factors unrelated to Parkinson’s can all contribute to reduced mobility. These factors are discussed on the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls page_</a>. Treatment of the symptoms causing problems is important for maintaining mobility. Please explore the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages for specific guidance.
+
+A common problem is that difficulties mobilising mean that you are less active. Being less active then leads to muscle weakness and stiffness. Muscle weakness and stiffness then leads to more difficulty in mobilising. Lack of confidence and fear of falling also feeds into this cycle. It is important to break this cycle.
+
+
 
 ---
 
@@ -40,6 +42,17 @@ Appointments with these specialists may be in a hospital, community service, or 
 
 ### Keep Active
 
+
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/yqz7SToA3vE" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 It is important to try to stay as active as possible, unless you have been advised otherwise. Staying active helps you maintain muscle strength and balance so helps maintain mobility. It is also good for your Parkinson’s and general health. There are different components to the activity you should try to undertake: Strength, balance and flexibility. Mobility requires all of these.
 
 In Parkinson’s, specific attention also needs to be given to:
@@ -51,15 +64,6 @@ Exercises to achieve these need to be tailored to your ability and needs. For mo
 
 There may also be specific tasks that you can practice to address specific day-to-day challenges. Physiotherapists and Occupational therapists help identify these where possible.
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/yqz7SToA3vE" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 ### Mobility tips
 
@@ -98,14 +102,6 @@ Some people need equipment or aids in order to continue tasks of daily life.
 
 **It is strongly recommended that you see a physiotherapist and occupational therapist to advise on these.**
 
-Before purchasing equipment, consider the following overall tips below:
-
-- Consider how and where you will use the equipment
-- Try the equipment before you buy it
-- Ensure the fit of the equipment is as correct as possible
-- Remember that companies selling equipment could be biased. Health and Social care professionals do not have a financial incentive so are impartial.
-- The <a href="https://www.dlf.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Disabled Living Foundation (DLF)</a> is a charity (not commercial) that provides detailed information about equipment, including places you can try it out and comparisons of products.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -115,6 +111,16 @@ Before purchasing equipment, consider the following overall tips below:
   allowfullscreen>
 </iframe>
 </div>
+
+
+Before purchasing equipment, consider the following overall tips below:
+
+- Consider how and where you will use the equipment
+- Try the equipment before you buy it
+- Ensure the fit of the equipment is as correct as possible
+- Remember that companies selling equipment could be biased. Health and Social care professionals do not have a financial incentive so are impartial.
+- The <a href="https://www.dlf.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Disabled Living Foundation (DLF)</a> is a charity (not commercial) that provides detailed information about equipment, including places you can try it out and comparisons of products.
+
 
 ### Walking sticks
 
@@ -175,10 +181,6 @@ For equipment related to daily tasks, including getting in and out of bed, pleas
 
 ## My Experience
 
-People affected by Parkinson’s describe their experiences.
-
-> “I mean, I can still walk around the house without using a stick. I use a stick when I walk outside. When I’m really on, I wouldn’t need it. But it’s one of those things whereby it flags to people that you’ve got an issue”
-> _(Person with Parkinson’s)_
 
 <div class="video-container">
 <iframe
@@ -189,6 +191,12 @@ People affected by Parkinson’s describe their experiences.
   allowfullscreen>
 </iframe>
 </div>
+
+People affected by Parkinson’s describe their experiences.
+
+> “I mean, I can still walk around the house without using a stick. I use a stick when I walk outside. When I’m really on, I wouldn’t need it. But it’s one of those things whereby it flags to people that you’ve got an issue”
+> _(Person with Parkinson’s)_
+
 
 ---
 
