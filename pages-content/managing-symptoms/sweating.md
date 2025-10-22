@@ -1,7 +1,5 @@
 # Sweating Difficulties
 
-Sweating is normal and helps your body regulate its temperature. Some people with Parkinson’s may have problems with sweating. They may experience too much sweat being produced, which is called _hyperhidrosis_. Alternatively, they may experience not enough sweat being produced, which is called _hypohidrosis_. Underproduction of sweat can cause overheating. Because people with Parkinson’s can also have a decreased sense of smell, they might not be aware of body odours caused by excessive sweating.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -11,6 +9,9 @@ Sweating is normal and helps your body regulate its temperature. Some people wit
   allowfullscreen>
 </iframe>
 </div>
+
+Sweating is normal and helps your body regulate its temperature. Some people with Parkinson’s may have problems with sweating. They may experience too much sweat being produced, which is called _hyperhidrosis_. Alternatively, they may experience not enough sweat being produced, which is called _hypohidrosis_. Underproduction of sweat can cause overheating. Because people with Parkinson’s can also have a decreased sense of smell, they might not be aware of body odours caused by excessive sweating.
+
 
 ---
 
@@ -48,7 +49,6 @@ This can occur in Parkinson’s for example:
 
 ## What should I do about it?
 
-Excessive sweating can be very challenging to deal with. There are some suggestions for ways to manage it below. If sweating is still very bothersome, despite having tried these things regularly for a month or so, discuss with your GP or Parkinson’s specialist team. You should seek help more urgently if you are _**not**_ producing sweat and feeling faint or dizzy in warm situations.
 
 <div class="video-container">
 <iframe 
@@ -59,6 +59,9 @@ Excessive sweating can be very challenging to deal with. There are some suggesti
   allowfullscreen>
 </iframe>
 </div>
+
+Excessive sweating can be very challenging to deal with. There are some suggestions for ways to manage it below. If sweating is still very bothersome, despite having tried these things regularly for a month or so, discuss with your GP or Parkinson’s specialist team. You should seek help more urgently if you are _**not**_ producing sweat and feeling faint or dizzy in warm situations.
+
 
 ---
 
