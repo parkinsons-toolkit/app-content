@@ -1,7 +1,5 @@
 # Finances
 
-Having Parkinson’s, or caring for someone who does, can impact on your finances. For example, you may need to reduce your hours at work or pay for cleaners or special equipment in the home. Managing financially may become more difficult as the condition progresses. There is some help available so it can help to know what you might be entitled to.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -11,6 +9,10 @@ Having Parkinson’s, or caring for someone who does, can impact on your finance
   allowfullscreen>
 </iframe>
 </div>
+
+
+Having Parkinson’s, or caring for someone who does, can impact on your finances. For example, you may need to reduce your hours at work or pay for cleaners or special equipment in the home. Managing financially may become more difficult as the condition progresses. There is some help available so it can help to know what you might be entitled to.
+
 
 ---
 
@@ -44,10 +46,6 @@ If you are struggling to manage your finances, you may find these suggestions he
 
 ## Government Benefits
 
-There are a number of benefits you may be entitled to. These can help with extra costs of living with Parkinson’s.
-
-This section outlines the financial support available to people living with Parkinson’s, carers, and other sources of assistance they may be entitled to.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -57,6 +55,12 @@ This section outlines the financial support available to people living with Park
   allowfullscreen>
 </iframe>
 </div>
+
+There are a number of benefits you may be entitled to. These can help with extra costs of living with Parkinson’s.
+
+This section outlines the financial support available to people living with Parkinson’s, carers, and other sources of assistance they may be entitled to.
+
+
 
 If you find these complicated don’t worry, there are several sources of help available – see the bottom of this page for more details and links to these sources.
 
@@ -274,6 +278,16 @@ People with Parkinson’s often need to pay multiple prescription charges. This 
 
 You can get free prescriptions if you or your partner receive any of the following, or if you’re under the age of 20 and the dependant of someone receiving any of the following:
 
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/ZNU7HCv4mnM" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 - Universal Credit
 - Income-related Employment and Support Allowance (ESA)
 - Income Support
@@ -284,15 +298,7 @@ If you are age 60 or over, you are entitled to free prescriptions. If you have a
 
 To check if you’re entitled to free NHS prescriptions and help with other NHS costs, you can use the <a href="https://www.nhsbsa.nhs.uk/check-if-youre-eligible-help" class="external-link" target="_blank" rel="noopener noreferrer">online NHS eligibility checker</a>.
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/ZNU7HCv4mnM" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
+
 
 ### What help is there if I don’t qualify for free prescriptions?
 
@@ -323,16 +329,6 @@ If you do not qualify for free prescriptions and need prescription items regular
 
 ## Help with Travel Costs
 
-If you are referred for health service treatment at an NHS hospital or similar place, you may be able to claim a refund of reasonable travel costs under the Healthcare Travel Costs Scheme (HTCS). This may also cover the travel costs of an extra person if you need someone with you.
-
-You should use the cheapest, most appropriate means of transport, which in most cases will be public transport. You may be able to claim the cost of a taxi fare or cost of car fuel, but this must be agreed with the hospital beforehand.
-
-To qualify for help under this scheme, you must meet the following criteria:
-
-1. At the time of the appointment, you or your partner **must receive qualifying benefits or allowances listed on the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a>, or meet the eligibility criteria for the NHS Low Income Scheme (HC2 certificate)**. If you have a HC3 certificate under the Low Income Scheme then you may be entitled to a partial refund of travel costs.
-2. You must have a **referral from a healthcare professional** to a specialist or a hospital for NHS treatment or tests.
-3. **Your appointment must be on a separate visit** to when the referral was made.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -343,6 +339,15 @@ To qualify for help under this scheme, you must meet the following criteria:
 </iframe>
 </div>
 
+If you are referred for health service treatment at an NHS hospital or similar place, you may be able to claim a refund of reasonable travel costs under the Healthcare Travel Costs Scheme (HTCS). This may also cover the travel costs of an extra person if you need someone with you.
+
+You should use the cheapest, most appropriate means of transport, which in most cases will be public transport. You may be able to claim the cost of a taxi fare or cost of car fuel, but this must be agreed with the hospital beforehand.
+
+To qualify for help under this scheme, you must meet the following criteria:
+
+1. At the time of the appointment, you or your partner **must receive qualifying benefits or allowances listed on the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a>, or meet the eligibility criteria for the NHS Low Income Scheme (HC2 certificate)**. If you have a HC3 certificate under the Low Income Scheme then you may be entitled to a partial refund of travel costs.
+2. You must have a **referral from a healthcare professional** to a specialist or a hospital for NHS treatment or tests.
+3. **Your appointment must be on a separate visit** to when the referral was made.
 
 
 Visit the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> for more information about help with travel costs under the HTCS.
@@ -353,10 +358,6 @@ Visit the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel
 
 ### Equipment
 
-Funding for equipment depends on the type of equipment you need and what funding is available in your local area or from other funding sources.
-
-Some local British Red Cross groups can loan out equipment, including wheelchairs. They may deliver and collect the equipment for you at an extra charge if you can’t travel to your local store.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -366,6 +367,12 @@ Some local British Red Cross groups can loan out equipment, including wheelchair
   allowfullscreen>
 </iframe>
 </div>
+
+Funding for equipment depends on the type of equipment you need and what funding is available in your local area or from other funding sources.
+
+Some local British Red Cross groups can loan out equipment, including wheelchairs. They may deliver and collect the equipment for you at an extra charge if you can’t travel to your local store.
+
+
 
 ### Home Adaptations
 
