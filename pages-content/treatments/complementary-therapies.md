@@ -1,12 +1,6 @@
 # Complementary Therapies
 **Complementary therapies** are a group of therapies that have until recently stood outside of usual Western healthcare. They are becoming increasingly used together with mainstream medicine. An example would be using acupuncture as well as the more usual pain- killing tablets to help lessen discomfort following surgery. 
 
-Complementary therapies are considered different to Alternative Therapies. Alternative Therapies are generally used instead of conventional treatments. An example of this might be using homeopathy or herbal remedies and no conventional medications. These are not discussed here. 
-
-Complementary therapies are generally considered to be holistic. This means they usually include all aspects of physical, mental and emotional health. This is because these are all seen as closely connected. For example, a complementary therapist would look at how a condition affects the whole of someone’s life. They would not just look at a symptom on its own. This might mean that a therapist suggests dietary and lifestyle changes as well as offering a physical therapy. 
- 
-Complementary therapies are often used to boost physical and emotional wellbeing. Some people with Parkinson’s report having positive experiences of using them.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -16,6 +10,13 @@ Complementary therapies are often used to boost physical and emotional wellbeing
   allowfullscreen>
 </iframe>
 </div>
+
+Complementary therapies are considered different to Alternative Therapies. Alternative Therapies are generally used instead of conventional treatments. An example of this might be using homeopathy or herbal remedies and no conventional medications. These are not discussed here. 
+
+Complementary therapies are generally considered to be holistic. This means they usually include all aspects of physical, mental and emotional health. This is because these are all seen as closely connected. For example, a complementary therapist would look at how a condition affects the whole of someone’s life. They would not just look at a symptom on its own. This might mean that a therapist suggests dietary and lifestyle changes as well as offering a physical therapy. 
+ 
+Complementary therapies are often used to boost physical and emotional wellbeing. Some people with Parkinson’s report having positive experiences of using them.
+
 
 ---
 
@@ -62,7 +63,6 @@ Some of these physical therapies, for example Pilates, are used to improve flexi
 Some physical therapies, for example Pilates, Qigong and yoga, are activities that can be carried out alone. They can also be carried out in a group under guidance. These three activities have some variations between them, but all involve stretching, gentle movements, and holding particular postures. They have the aim of improving strength, balance, flexibility, posture and breathing techniques. These are thought to improve general fitness and wellbeing. 
 
 ### Therapies that focus on thoughts and feelings
-These activities include Mindfulness, Meditation and Visualisation. These can be practiced in a group under guidance, or practiced alone. These three examples have variations between them, but in all cases their practice helps focus the mind. For example, the person practicing mindfulness is encouraged to focus only on the present moment. They pay attention to any thoughts and sensations without thinking about what they might mean or getting caught up in them. A similar example is Visualization. This is a practice of imagining or meditating, with a focus on chosen images. The aim of these practices is to focus the mind. This is instead of getting caught up with unhelpful ways of thinking that we sometimes can do, such as thinking about the past or imagining what the future might be. 
 
 <div class="video-container">
 <iframe 
@@ -73,6 +73,9 @@ These activities include Mindfulness, Meditation and Visualisation. These can be
   allowfullscreen>
 </iframe>
 </div>
+
+These activities include Mindfulness, Meditation and Visualisation. These can be practiced in a group under guidance, or practiced alone. These three examples have variations between them, but in all cases their practice helps focus the mind. For example, the person practicing mindfulness is encouraged to focus only on the present moment. They pay attention to any thoughts and sensations without thinking about what they might mean or getting caught up in them. A similar example is Visualization. This is a practice of imagining or meditating, with a focus on chosen images. The aim of these practices is to focus the mind. This is instead of getting caught up with unhelpful ways of thinking that we sometimes can do, such as thinking about the past or imagining what the future might be. 
+
 
 ### Cannabis
 There is growing interest in the use of cannabis-based products for the treatment of health conditions.
@@ -110,13 +113,8 @@ A review of studies using acupuncture, a therapy which is discussed above, sugge
 
 ### Therapies that focus on thoughts and feelings 
 In recent years there has been an increase of interest in the inter-relationship between the mind and the body. Many of the physical practices described above help with relaxation. In the same way it is increasingly being shown that our thoughts can drive our emotions and behaviours. These in turn can then impact physical health. It has been suggested that practices like Mindfulness can help us better understand ourselves, and this body-mind relationship. Mindfulness is recommended by the NHS as one of the five steps to mental wellbeing. 
- 
-Meditation, for example, has been used worldwide for thousands of years. Although often thought to be linked with religion and spirituality, it is described as being beneficial to mood and stress. It is increasingly used for health reasons. Research scans of the brain have shown changes in brain activity during meditation. 
-It has been suggested that music can improve movement and speech. It can also help people to relax. Some people with Parkinson’s find that listening to strong rhythmic music can improve their walking, prevent hesitations and overcome ‘freezing’ episodes. In general, research suggests that music seems to help people with conditions such as Parkinson’s to improve their emotional sense of wellbeing. 
- 
-It has been suggested that doing creative activities can help people focus their mind and relax. Doing creative activities can also help people express their emotions in a positive way. Art can also be used this way. Art Therapy is a form of psychotherapy that uses art as a way of communicating feelings and thoughts. Therapies that take place in groups, for example art or music therapy, can be social. Some people can find it supportive to be with others who have the same condition. Group activities in a variety of settings are used to help people relax or talk about their feelings or ideas. 
 
-<div class="video-container">
+ <div class="video-container">
 <iframe 
   width="560" 
   height="315" 
@@ -125,6 +123,13 @@ It has been suggested that doing creative activities can help people focus their
   allowfullscreen>
 </iframe>
 </div>
+
+Meditation, for example, has been used worldwide for thousands of years. Although often thought to be linked with religion and spirituality, it is described as being beneficial to mood and stress. It is increasingly used for health reasons. Research scans of the brain have shown changes in brain activity during meditation. 
+It has been suggested that music can improve movement and speech. It can also help people to relax. Some people with Parkinson’s find that listening to strong rhythmic music can improve their walking, prevent hesitations and overcome ‘freezing’ episodes. In general, research suggests that music seems to help people with conditions such as Parkinson’s to improve their emotional sense of wellbeing. 
+ 
+It has been suggested that doing creative activities can help people focus their mind and relax. Doing creative activities can also help people express their emotions in a positive way. Art can also be used this way. Art Therapy is a form of psychotherapy that uses art as a way of communicating feelings and thoughts. Therapies that take place in groups, for example art or music therapy, can be social. Some people can find it supportive to be with others who have the same condition. Group activities in a variety of settings are used to help people relax or talk about their feelings or ideas. 
+
+
 
 ---
 
@@ -149,13 +154,8 @@ If your healthcare team have no objections and support your use of a particular 
 
 ## How do I access these? 
 Some complementary therapies are available on the NHS. For example, massage, aromatherapy and acupuncture are available through some hospitals, GP practices, physiotherapists, pain clinics and hospices. Osteopathy and mindfulness groups are also sometimes available through referral by GP practices. Some local Parkinson’s UK groups offer relaxation therapies. Some offer regular creative sessions, including art classes. If you are interested in doing something creative an Occupational therapists may also be able to offer advice and suggestions. 
- 
-If you are caring for someone with Parkinson’s, you may be able to access low cost or free therapies. These may be available through the NHS, local councils and charities in some areas. Many carers find that complementary therapies offer an enjoyable way to reduce stress and have time for themselves. 
-GP’s or local Parkinson’s UK supporter may be able to advise. 
- 
-You may have to pay to see a complementary therapist if the therapy you are interested in is not available on the NHS or through Parkinson’s UK local groups. You may be able to find a suitable therapist through your healthcare professional, or local Parkinson’s UK advisor. Your local council or library may have information about nearby classes. Before enrolling with a complementary therapist, it is worth making sure they are reputable and insured. Where relevant, that they belong to a regulatory body. You should not feel embarrassed to ask them this information, and about their qualifications. The <a href="https://www.cnhc.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Complementary and Natural 	Healthcare 	Council (CNHC)</a> have a register of approved practitioners, which may be a helpful way of finding someone suitable. The <a href="https://www.acupuncture.org.uk/find" class="external-link" target="_blank" rel="noopener noreferrer">British Acupuncture Council (BAC)</a> has a register of acupuncturists all over the UK who must adhere a strict code of practice to be a member. 
 
-<div class="video-container">
+ <div class="video-container">
 <iframe 
   width="560" 
   height="315" 
@@ -164,6 +164,13 @@ You may have to pay to see a complementary therapist if the therapy you are inte
   allowfullscreen>
 </iframe>
 </div>
+
+If you are caring for someone with Parkinson’s, you may be able to access low cost or free therapies. These may be available through the NHS, local councils and charities in some areas. Many carers find that complementary therapies offer an enjoyable way to reduce stress and have time for themselves. 
+GP’s or local Parkinson’s UK supporter may be able to advise. 
+ 
+You may have to pay to see a complementary therapist if the therapy you are interested in is not available on the NHS or through Parkinson’s UK local groups. You may be able to find a suitable therapist through your healthcare professional, or local Parkinson’s UK advisor. Your local council or library may have information about nearby classes. Before enrolling with a complementary therapist, it is worth making sure they are reputable and insured. Where relevant, that they belong to a regulatory body. You should not feel embarrassed to ask them this information, and about their qualifications. The <a href="https://www.cnhc.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Complementary and Natural 	Healthcare 	Council (CNHC)</a> have a register of approved practitioners, which may be a helpful way of finding someone suitable. The <a href="https://www.acupuncture.org.uk/find" class="external-link" target="_blank" rel="noopener noreferrer">British Acupuncture Council (BAC)</a> has a register of acupuncturists all over the UK who must adhere a strict code of practice to be a member. 
+
+
 
 ### How do I know if it is trustworthy? 
 To understand whether a therapy is safe and effective, we need to check the evidence for it. Conventional medications and healthcare products go through a rigorous scientific process. This is to prove safety and effectiveness before they can be prescribed by doctors. This process is managed by the government agency Medicines and Healthcare products Regulatory Agency (MHRA). This is not the case for complementary therapies. Although more research studies are being done into the effectiveness of complementary therapies they are not tested in the same way. 
