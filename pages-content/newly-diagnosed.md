@@ -52,6 +52,17 @@ If you do tell others, bear in mind that they will have a reaction too. That rea
 
 ## My Experience
 
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/mYWzzCHBFHg"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
 People affected by Parkinson’s describe their experiences:
 
 > “Be gentle with yourself. In the following few weeks - perhaps not straight away - you may well be knocked off your feet by waves of anxiety and panic; this is normal, and it will ease. It'll be the shock and not the Parkinson's - you won't feel like this forever. Hang on in there.”
@@ -82,15 +93,6 @@ People affected by Parkinson’s describe their experiences:
 >
 > _(Person with Parkinson’s)_
 
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/mYWzzCHBFHg"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
