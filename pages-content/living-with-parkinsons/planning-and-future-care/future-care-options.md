@@ -19,6 +19,17 @@ This is not always easy. It requires:
 - Self-evaluation
 - Being honest with yourself.
 
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/olv0s5Hs8Ak" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
+
 There are many people who can support you with this. Consider the people in your life, personal or professional. Who might be able to listen and offer insight? However, remember someone else’s viewpoint may not be right for you. 
  
 You may find it easier to accept help if you also think about things you can do for yourself. Try to make sure that people around you know this too. This will help them understand your decisions and will help you stay in control. 
@@ -38,15 +49,7 @@ Also consider charity services, such as the Parkinson’s UK helpline, or Age UK
 
 See the <a href="/learn/further-support/further-support" class="internal-link">_Further Support_</a> pages for more ideas. 
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/olv0s5Hs8Ak" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
+
 
 ---
 
@@ -75,10 +78,6 @@ There are two separate types of LPA, one for **health and care decisions** and a
 - **Health & Welfare LPA**: An LPA for Health & Welfare would become your voice if you were unable to make health and care related decisions.
 - **Property & Financial Affairs LPA**: Manages money, property, and financial matters.
 
-Having an LPA in place means that, if the time comes when you need help making choices, someone who understands your preferences can step in. This can relieve a great deal of stress for you and your family, knowing that someone is prepared to act in your best interests.
-
-If you were unable to make these decisions yourself and did not have an LPA, then professionals take this responsibility. The decisions must be made in your _best interests_. Professionals are obliged to try to find out what your wishes would have been. To do this, they will look for any recorded wishes and will speak to people close to you. 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -88,6 +87,11 @@ If you were unable to make these decisions yourself and did not have an LPA, the
   allowfullscreen>
 </iframe>
 </div>
+
+Having an LPA in place means that, if the time comes when you need help making choices, someone who understands your preferences can step in. This can relieve a great deal of stress for you and your family, knowing that someone is prepared to act in your best interests.
+
+If you were unable to make these decisions yourself and did not have an LPA, then professionals take this responsibility. The decisions must be made in your _best interests_. Professionals are obliged to try to find out what your wishes would have been. To do this, they will look for any recorded wishes and will speak to people close to you. 
+
 
 ---
 
@@ -119,8 +123,6 @@ For more information on Advance Decisions and Lasting Power of Attorney, see the
 
 ## Why Future Care Planning is Important
 
-While it can be emotionally challenging to think about future care, making these decisions early can provide peace of mind. It reduces uncertainty for both you and your loved ones, allowing them to support you in ways that align with your values. Having these discussions also helps avoid last-minute decisions during times of crisis, when emotions are high.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -130,6 +132,9 @@ While it can be emotionally challenging to think about future care, making these
   allowfullscreen>
 </iframe>
 </div>
+
+While it can be emotionally challenging to think about future care, making these decisions early can provide peace of mind. It reduces uncertainty for both you and your loved ones, allowing them to support you in ways that align with your values. Having these discussions also helps avoid last-minute decisions during times of crisis, when emotions are high.
+
 
 ---
 
@@ -247,12 +252,6 @@ Tubes for food and drink are sometimes called ‘Artificial Nutrition & Hydratio
 - **Gastrostomy – (sometimes called ‘PEG’ or ‘RIG’):** These are tubes inserted by a surgical procedure. This sometimes involves a camera being inserted from the mouth (endoscopic guided) and sometimes involves special x-rays (radiologically guided) to guide placement. The tube connects from outside the body, through the skin into the stomach. The tubes can be used for food, water and/or medicine. Sometimes the tube is extended on the inside to reach into the small intestine (sometimes called PEG-J). This is the same method as for Duodopa, discussed on the <a href="/learn/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page.
 - **Intravenous nutrition:** In very specific circumstances, liquid food can be given through a big drip into a big vein (such as in the neck). Food given in this way has significant risks related to it. It is therefore only undertaken in very special circumstances, such as for people whose bowels don’t work.
 
-In general, people are awake for insertion of drip lines and NG or NJ tubes. Gastrostomy insertion usually involves local anaesthetic injection into the skin and sedating medicine via a drip.
-
-Small drips and NG/NJ tubes are **short-term options**. The insertion can be uncomfortable or even painful but most people get used to them once they are in. Sometimes they become dislodged and need to be re-inserted. There is a very small risk of infection or bleeding from these procedures.
-
-Gastrostomy tubes are longer term, but involve a more invasive procedure and higher risk of complication. This can include infection. They too can sometimes become dislodged and need to be re-inserted. They can also be distressing if someone becomes confused or has a cognitive impairment.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -262,6 +261,14 @@ Gastrostomy tubes are longer term, but involve a more invasive procedure and hig
   allowfullscreen>
 </iframe>
 </div>
+
+In general, people are awake for insertion of drip lines and NG or NJ tubes. Gastrostomy insertion usually involves local anaesthetic injection into the skin and sedating medicine via a drip.
+
+Small drips and NG/NJ tubes are **short-term options**. The insertion can be uncomfortable or even painful but most people get used to them once they are in. Sometimes they become dislodged and need to be re-inserted. There is a very small risk of infection or bleeding from these procedures.
+
+Gastrostomy tubes are longer term, but involve a more invasive procedure and higher risk of complication. This can include infection. They too can sometimes become dislodged and need to be re-inserted. They can also be distressing if someone becomes confused or has a cognitive impairment.
+
+
 
 ### Medical decisions about medication
 
@@ -308,14 +315,6 @@ Considering this, decisions around CPR are not straightforward. The default is t
 
 ### Your rights regarding medical decisions
 
-- A person has a right to decline any medical treatment, assuming:
-  - They are able to make the decision, known as having mental capacity. o They are appropriately informed.
-  - They take the decision voluntarily.
-- If a person is unable to make decisions for themselves (they lack capacity), then the principles discussed above in Decisions about your Care are applied.
-- UK law does not give the right to demand a treatment that is not thought to be medically suitable. Professionals may not offer treatments where the risks are considered to outweigh the benefits.
-- ‘Advanced Decision to refuse life sustaining treatment’ is a legal record declining potentially life- saving treatment, such as those discussed above. There are specific rules about recording these.
-- Good communication with and from healthcare professionals is key to this: talk to those involved in your care. 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -325,6 +324,15 @@ Considering this, decisions around CPR are not straightforward. The default is t
   allowfullscreen>
 </iframe>
 </div>
+
+- A person has a right to decline any medical treatment, assuming:
+  - They are able to make the decision, known as having mental capacity. o They are appropriately informed.
+  - They take the decision voluntarily.
+- If a person is unable to make decisions for themselves (they lack capacity), then the principles discussed above in Decisions about your Care are applied.
+- UK law does not give the right to demand a treatment that is not thought to be medically suitable. Professionals may not offer treatments where the risks are considered to outweigh the benefits.
+- ‘Advanced Decision to refuse life sustaining treatment’ is a legal record declining potentially life- saving treatment, such as those discussed above. There are specific rules about recording these.
+- Good communication with and from healthcare professionals is key to this: talk to those involved in your care. 
+
 
 ---
 
@@ -344,14 +352,8 @@ Within their expertise, professionals should let you know about the likelihood o
 
 ### Changes over time
 The **likelihood** of the risks and benefits changes over time, in particular based on your health and age. Biologically, people who are older with more health conditions are less likely to recover as well from illness. They are also more likely to get harm or side effects from treatments. 
+
  
-Most people also find the **importance** of risks and benefits changes, i.e. their priorities change. 
-- In general, earlier in life most people prioritise length of life. They would be willing to accept higher risks of treatment (such as temporary pain) in order to preserve life.
-- Later in life, many people shift to prioritise quality of life. This might mean not wanting a painful treatment, even if it is aimed at giving a longer life.
-- When people are nearing the end of life, many prioritise comfort and environment. This may be having loved ones around, rather than medical interventions. 
-
-As such, decisions about treatments change over time. It is helpful to consider your own priorities and let those around you know what these are. As these views change, keep your loved ones and the professionals who are involved in your care updated with your views. 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -361,6 +363,14 @@ As such, decisions about treatments change over time. It is helpful to consider 
   allowfullscreen>
 </iframe>
 </div>
+
+
+Most people also find the **importance** of risks and benefits changes, i.e. their priorities change. 
+- In general, earlier in life most people prioritise length of life. They would be willing to accept higher risks of treatment (such as temporary pain) in order to preserve life.
+- Later in life, many people shift to prioritise quality of life. This might mean not wanting a painful treatment, even if it is aimed at giving a longer life.
+- When people are nearing the end of life, many prioritise comfort and environment. This may be having loved ones around, rather than medical interventions. 
+
+As such, decisions about treatments change over time. It is helpful to consider your own priorities and let those around you know what these are. As these views change, keep your loved ones and the professionals who are involved in your care updated with your views. 
 
 ---
 
