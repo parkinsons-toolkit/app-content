@@ -18,6 +18,16 @@ For information about more advanced symptoms, including dementia, see the <a hre
 
 ## What might be causing it?
 
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/QRXmfb5HZXg" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 Memory and thinking problems can be symptoms of Parkinson’s, but not all of them are. The difficulties in Parkinson’s tend to come on slowly.
 
 <ins>**Parkinson’s**</ins> tends to affect the following components of thinking:
@@ -50,15 +60,7 @@ Memory and thinking problems, or confusion, can also occur as sudden changes in 
 - Medications
 - Abnormal blood chemistry (e.g. high or low blood sugar levels).
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/QRXmfb5HZXg" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
+
 
 ---
 
@@ -72,7 +74,6 @@ If the onset of your symptoms has been more gradual (weeks to months) then there
 
 ## What can I try for myself?
 
-There are many things you can try to help you manage difficulties with memory and thinking.
 
 <div class="video-container">
 <iframe 
@@ -83,6 +84,9 @@ There are many things you can try to help you manage difficulties with memory an
   allowfullscreen>
 </iframe>
 </div>
+
+There are many things you can try to help you manage difficulties with memory and thinking.
+
 
 ### Take Your Time
 
