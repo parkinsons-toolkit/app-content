@@ -1,13 +1,5 @@
 # Skin Conditions
 
-Skin conditions affect many people across the population.
-
-Conditions that can be more common in people with Parkinson’s are:
-
-- Oily skin.
-- Seborrhoeic dermatitis: areas of the skin become red, itchy, and sore. The skin can peel or flake and can develop thick crusts or scales.
-- Wounds or ulcers from delayed healing or from pressure on a particular part of the body.
-- Abnormal moles.
 
 <div class="video-container">
 <iframe
@@ -18,6 +10,17 @@ Conditions that can be more common in people with Parkinson’s are:
   allowfullscreen>
 </iframe>
 </div>
+
+
+Skin conditions affect many people across the population.
+
+Conditions that can be more common in people with Parkinson’s are:
+
+- Oily skin.
+- Seborrhoeic dermatitis: areas of the skin become red, itchy, and sore. The skin can peel or flake and can develop thick crusts or scales.
+- Wounds or ulcers from delayed healing or from pressure on a particular part of the body.
+- Abnormal moles.
+
 
 ---
 
@@ -59,15 +62,6 @@ All of these skin issues are seen in people who don’t have Parkinson’s as we
 
 ## What should I do about it?
 
-There are many things you can try for yourself as below, but there are some circumstances where you should seek professional help.
-
-Make a GP appointment as soon as possible if:
-
-- You have an area of your skin with a wound that isn’t healing properly.
-- You have a crusting or roughened spot/raised area or rash that isn’t healing or is getting larger.
-- You have a mole that concerns you or has recently changed. Features to look out for are: large size (5mm or more in diameter), irregular edges, multi-coloured, changing, or is asymmetric – for example is lop-sided.
-
-The other skin conditions discussed here are not urgent, but if bothering you then make a routine GP appointment.
 
 <div class="video-container">
 <iframe
@@ -79,9 +73,30 @@ The other skin conditions discussed here are not urgent, but if bothering you th
 </iframe>
 </div>
 
+
+There are many things you can try for yourself as below, but there are some circumstances where you should seek professional help.
+
+Make a GP appointment as soon as possible if:
+
+- You have an area of your skin with a wound that isn’t healing properly.
+- You have a crusting or roughened spot/raised area or rash that isn’t healing or is getting larger.
+- You have a mole that concerns you or has recently changed. Features to look out for are: large size (5mm or more in diameter), irregular edges, multi-coloured, changing, or is asymmetric – for example is lop-sided.
+
+The other skin conditions discussed here are not urgent, but if bothering you then make a routine GP appointment.
+
 ---
 
 ## What can I try for myself?
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/Av54vxyaWsA"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
 
 ### Seborrhoeic Dermatitis
 
@@ -148,15 +163,7 @@ Check moles regularly (monthly), looking for any changes. You can ask someone el
   - Sunscreen must be applied liberally, carefully and repeatedly on exposed skin.
   - UVA in a circle logo indicates that a sunscreen meets the minimum standards for UVA protection. You should use a sun protection factor (SPF) of at least 30 to protect against UVB.
 
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/Av54vxyaWsA"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
+
 
 ---
 
