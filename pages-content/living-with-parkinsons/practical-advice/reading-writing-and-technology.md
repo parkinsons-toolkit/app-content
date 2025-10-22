@@ -23,10 +23,6 @@ For dry eyes, over-the-counter ointments and eye drops are available from pharma
 
 ### What else may be helpful?
 
-Have regular eye checks to see if there are problems with near vision as this tends to deteriorate as people age. If a regular eye check is normal or new glasses are prescribed and you are still having problems reading, you may wish to ask your GP, optometrist, or ophthalmologist for a referral to a neuro-ophthalmologist. A neuro-ophthalmologist can do further tests and may prescribe ‘prisms’ (a special kind of glasses).
-
-See our <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page for more information on visual changes in Parkinson’s.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -36,6 +32,13 @@ See our <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 
   allowfullscreen>
 </iframe>
 </div>
+
+
+
+Have regular eye checks to see if there are problems with near vision as this tends to deteriorate as people age. If a regular eye check is normal or new glasses are prescribed and you are still having problems reading, you may wish to ask your GP, optometrist, or ophthalmologist for a referral to a neuro-ophthalmologist. A neuro-ophthalmologist can do further tests and may prescribe ‘prisms’ (a special kind of glasses).
+
+See our <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page for more information on visual changes in Parkinson’s.
+
 
 ---
 
@@ -85,13 +88,6 @@ You may find writing more difficult if you experience:
 
 ### What else may be helpful?
 
-If your handwriting does not improve despite trying the above suggestions, you could try seeking the advice of an occupational therapist. An occupational therapist can give you more specific hand exercises that may help with writing and other specialised hand tasks. For a referral for occupational therapy, speak to your GP.
-
-You can also consider:
-
-- If you have difficulty writing your signature on documents (prescriptions, passports, banking, etc.), a facsimile signature stamp may be useful. This can be used to create a legal signature with a rubber stamp meaning the person no longer needs to physically write their signature.
-- Alternative ways of communicating (e.g. using a computer).
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -101,6 +97,15 @@ You can also consider:
   allowfullscreen>
 </iframe>
 </div>
+
+
+If your handwriting does not improve despite trying the above suggestions, you could try seeking the advice of an occupational therapist. An occupational therapist can give you more specific hand exercises that may help with writing and other specialised hand tasks. For a referral for occupational therapy, speak to your GP.
+
+You can also consider:
+
+- If you have difficulty writing your signature on documents (prescriptions, passports, banking, etc.), a facsimile signature stamp may be useful. This can be used to create a legal signature with a rubber stamp meaning the person no longer needs to physically write their signature.
+- Alternative ways of communicating (e.g. using a computer).
+
 
 ---
 
@@ -112,6 +117,17 @@ If you struggle to communicate by speaking or writing, you could consider using 
 
 
 ### What can I try for myself?
+
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/qihdTF6UUXs" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 
 - If you use a laptop and find typing on a standard keyboard difficult, try typing on a touchscreen (e.g. tablet or mobile phone).
 - Video call software can be easy to use with little typing needed. E.g. Zoom, Teams, Facetime, Google Meet.
@@ -133,15 +149,6 @@ If using a computer or the internet feels overwhelming, there are training cours
 
 <a href="https://try.which.co.uk/which-brand-2/?source_code=911CUJ&Incl_CustomerList&gclid=EAIaIQobChMI9KLNz_aP6QIV0u3tCh1jbgosEAAYASAAEgJnQPD_BwE&gclsrc=aw.ds" class="external-link" target="_blank" rel="noopener noreferrer">‘Which?’</a> is a not-for-profit, independent service that provides unbiased advice to consumers for a fee. They can help with a wide range of areas, including choosing what technology devices to buy. They also provide information on technological aids in later life, such as assistive technology and easy-to-use mobile phones. Visit their webpage for more details. You can find the link in the More Information section.
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/qihdTF6UUXs" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
@@ -171,6 +178,17 @@ If using a computer or the internet feels overwhelming, there are training cours
 
 ### What may be helpful about a mobile phone?
 
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/i4OjWSkPfSY"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
 - Mobile phones can offer peace of mind. For example, knowing that you can contact someone straight away, no matter where they are.
 - Smartphones (a mobile that acts as a small computer and connects with the internet) can have applications (‘apps’) downloaded onto it.
 
@@ -184,15 +202,6 @@ If using a computer or the internet feels overwhelming, there are training cours
     - Video calling: lets you see and hear each other during a call o Medication manager apps: remind you when your medication is due. They may also let you store medical information.
     - Data gathering apps. These are used to measure some movement symptoms and speech. They may be used to inform the person who adjusts your Parkinson’s medications or treatments
 
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/i4OjWSkPfSY"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
