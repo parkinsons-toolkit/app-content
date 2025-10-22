@@ -9,12 +9,6 @@ Research studies have shown broad benefits of exercise in Parkinson’s. Activit
 - Bowels
 - Overall health, including cardiovascular health
 
-It doesn’t have to be a chore. Many people wonder how much and what type of activity they should do. They may wonder how to achieve it alongside their Parkinson’s. This will be different for each person. You may have questions after reading through the information below. If so, please speak to your physiotherapist, your GP or your Parkinson’s team.
-
-You should be cautious about suddenly significantly increasing your activity levels, particularly if you have other health conditions such as heart disease. If you are considering a drastic lifestyle change, discuss with a healthcare professional first for advice.
-
-Think of your activity and exercises to be like your medication. It is an essential part of treatment for your Parkinson’s. This advice is for everyone. The sooner activity is part of your life, the better.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -24,6 +18,13 @@ Think of your activity and exercises to be like your medication. It is an essent
   allowfullscreen>
 </iframe>
 </div>
+
+It doesn’t have to be a chore. Many people wonder how much and what type of activity they should do. They may wonder how to achieve it alongside their Parkinson’s. This will be different for each person. You may have questions after reading through the information below. If so, please speak to your physiotherapist, your GP or your Parkinson’s team.
+
+You should be cautious about suddenly significantly increasing your activity levels, particularly if you have other health conditions such as heart disease. If you are considering a drastic lifestyle change, discuss with a healthcare professional first for advice.
+
+Think of your activity and exercises to be like your medication. It is an essential part of treatment for your Parkinson’s. This advice is for everyone. The sooner activity is part of your life, the better.
+
 
 ---
 
@@ -44,8 +45,6 @@ Everyone with Parkinson’s should be considered for referral to physiotherapy. 
 
 ## What should I do?
 
-Think through what you do now. You can record this on the _My Wellbeing_ page. Then use this page to think about whether it is enough and whether it is the right type of activity. If there is something missing or you want to make a change, the <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a> page will guide you through.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -55,6 +54,10 @@ Think through what you do now. You can record this on the _My Wellbeing_ page. T
   allowfullscreen>
 </iframe>
 </div>
+
+Think through what you do now. You can record this on the _My Wellbeing_ page. Then use this page to think about whether it is enough and whether it is the right type of activity. If there is something missing or you want to make a change, the <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a> page will guide you through.
+
+
 
 Think through these 5 components and how they can be built into your routine:
 
@@ -98,8 +101,6 @@ To see what this might look like in real life, pick the person you most relate t
 
 ## Things to Consider in Parkinson’s
 
-In your daily life as well as when doing specific activities, there are a few factors to bear in mind to help your Parkinson’s.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -109,6 +110,9 @@ In your daily life as well as when doing specific activities, there are a few fa
   allowfullscreen>
 </iframe>
 </div>
+
+In your daily life as well as when doing specific activities, there are a few factors to bear in mind to help your Parkinson’s.
+
 
 ### Size of Movements
 
@@ -260,8 +264,6 @@ Think about what support you might need:
 - Support **getting there**? See <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for more information.
 - **Cost?** Most exercise classes and groups have a charge. Some specific classes are provided within physiotherapy services on the NHS but are short term. Many activities arranged by the charity sector are free of charge. Activity does not need to be in an organised group with equipment, so if cost is an obstacle, perhaps think about trying walking and using household items (such as a book) as a weight for building strength. For more information about support available, see <a href="/learn/living-with-parkinsons/practical-advice/finances" class="internal-link">_Finances_</a> page.
 
-The NHS has a long-term plan to provide Link Workers across the country who would help connect you to the available services, known as “Social Prescribing”. This is at an early stage, but you could ask your GP if it is available in your area.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -272,19 +274,14 @@ The NHS has a long-term plan to provide Link Workers across the country who woul
 </iframe>
 </div>
 
+The NHS has a long-term plan to provide Link Workers across the country who would help connect you to the available services, known as “Social Prescribing”. This is at an early stage, but you could ask your GP if it is available in your area.
+
+
 We know this may be overwhelming. There is a lot to consider, but there is also lots of overlap.
 
 ---
 
 ## My Experience
-
-People affected by Parkinson’s describe their experiences.
-
-> “...I joined the gym and I go to the gym every other day and then – on the bike and I ride the bike. When I get off the bike, I feel that my legs are all loose and I can walk better.”
-> _(Person with Parkinson’s)_
-
-> “The main thing is occupation of the mind. You mustn’t let yourself sit in the chair and drift into sitting down, you know. That’s why I encourage us to go out”
-> _(Carer of Person with Parkinson’s)_
 
 <div class="video-container">
 <iframe 
@@ -295,6 +292,16 @@ People affected by Parkinson’s describe their experiences.
   allowfullscreen>
 </iframe>
 </div>
+
+People affected by Parkinson’s describe their experiences.
+
+> “...I joined the gym and I go to the gym every other day and then – on the bike and I ride the bike. When I get off the bike, I feel that my legs are all loose and I can walk better.”
+> _(Person with Parkinson’s)_
+
+> “The main thing is occupation of the mind. You mustn’t let yourself sit in the chair and drift into sitting down, you know. That’s why I encourage us to go out”
+> _(Carer of Person with Parkinson’s)_
+
+
 
 ---
 
