@@ -34,6 +34,16 @@ A low mood which persists despite taking positive steps to help manage it can be
 
 ## Symptoms of depressions
 
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/24m6L9Rpj8U" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 - Low, flat or empty mood lasting 2 weeks or more
 - No longer getting enjoyment from the things you used to
 - Feeling hopeless
@@ -44,15 +54,6 @@ A low mood which persists despite taking positive steps to help manage it can be
 
 People may feel ‘tired of life’ and that it is not worth living, but not actually want to die. Occasionally, people with more severe depression may have thoughts of harming themselves or taking their own life.
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/24m6L9Rpj8U" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
@@ -71,6 +72,16 @@ Depression is more common in people who have many different long-term health con
 ---
 
 ## What should I do about it?
+
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/1j2cv2BFgMc" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
 
 There are many things you can try to help you deal with low mood or depression (see below ‘What can I try for myself?’). At times, feelings of low mood are completely normal. But, if you have these feelings for most of the day, every day for more than 2 weeks, you should make an appointment with your GP. Your GP can assess whether your symptoms suggest that you are depressed. Depending on the outcome, they may recommend medication or a talking therapy (see the <a href="/learn/treatments-and-therapies
 /complementary-therapies" class="internal-link">_Complementary Therapies_</a>) page.
@@ -91,16 +102,6 @@ If you need immediate help but don’t want to go to A&E, you could:
 - Contact your local crisis team (CRHT), if you’re under their care.
 
 For more details, the charity _Mind_ has information about <a href="https://www.mind.org.uk/need-urgent-help/" class="external-link" target="_blank" rel="noopener noreferrer">how to seek urgent mental health support</a>.
-
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/1j2cv2BFgMc" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
