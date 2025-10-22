@@ -1,5 +1,16 @@
 # Urinary Symptoms
 
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/3MYeEwL-nPc" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
+
 Urinary symptoms are common in Parkinson’s. There are also many other conditions that affect the urinary tract, so not all urinary symptoms are due to the Parkinson’s.
 
 Common symptoms:
@@ -11,15 +22,6 @@ Common symptoms:
 - _**Stress incontinence**_ – Some people, particularly women who have had children, can experience a leakage of urine if they e.g. laugh, cough, sneeze or exercise. This is usually due to weakened pelvic floor muscles and is not related to Parkinson’s.
 - _**Nocturia**_ – This is needing to pass urine more than twice during the night (once or twice is considered normal).
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/3MYeEwL-nPc" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
@@ -40,6 +42,17 @@ Parkinson’s can cause most of the symptoms listed above. It does not however c
 
 ## What should I do about it?
 
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/5_x3ZIiAA60" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
+
 There are many things you can try for yourself as below, but there are some circumstances where you should seek professional help:
 
 1. If you are very ill with new urinary symptoms, if you have a fever and shivery bouts or backache, if there is lots of blood in your urine, or you are confused or drowsy then you should contact your GP straight away, call 111 or go to A&E.
@@ -57,15 +70,6 @@ There are many things you can try for yourself as below, but there are some circ
 - Feeling of dragging down below
 - Stress incontinence – leakage when you e.g., laugh or cough
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/5_x3ZIiAA60" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
