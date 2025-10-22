@@ -1,7 +1,5 @@
 # Guidance for Families and Carers
 
-If a loved one is told that they have Parkinson’s it is an adjustment for you both. Whether you are reading this following a recent diagnosis or after they have had Parkinson’s for a while, we hope this section will provide useful information on how to support the person with Parkinson’s by supporting yourself.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -11,6 +9,8 @@ If a loved one is told that they have Parkinson’s it is an adjustment for you 
   allowfullscreen>
 </iframe>
 </div>
+
+If a loved one is told that they have Parkinson’s it is an adjustment for you both. Whether you are reading this following a recent diagnosis or after they have had Parkinson’s for a while, we hope this section will provide useful information on how to support the person with Parkinson’s by supporting yourself.
 
 We know Parkinson’s is progressive and a complex condition. This means that your role and involvement will change over time and there will be different challenges along the way. Everyone’s journey is unique and will depend on your personal situation. It will also depend on your relationship to that person (partner, sister, brother, child or friend). You are likely to experience a range of emotions, which is normal and expected. Supporting a loved one with Parkinson’s can be a rewarding experience. There will also be more difficult experiences. These may cause you to have challenging feelings to cope with, such as:
 
@@ -70,8 +70,6 @@ People affected by Parkinson’s describe their experiences:
 
 ## Coping with stress
 
-Stress is something we all encounter. Life changes, such as personal problems, relationship difficulties, pressures at work or moving to a new house, can all cause stress. A certain level of stress can be good for the body: it is motivating and alerts the mind. However, if stress becomes overwhelming or goes on for a long time, it can take its toll both physically and emotionally. In supporting someone with Parkinson’s, it is likely you will be exposed to many more things that cause you stress. It is important to be aware of the signs of stress and address them where possible.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -81,6 +79,10 @@ Stress is something we all encounter. Life changes, such as personal problems, r
   allowfullscreen>
 </iframe>
 </div>
+
+Stress is something we all encounter. Life changes, such as personal problems, relationship difficulties, pressures at work or moving to a new house, can all cause stress. A certain level of stress can be good for the body: it is motivating and alerts the mind. However, if stress becomes overwhelming or goes on for a long time, it can take its toll both physically and emotionally. In supporting someone with Parkinson’s, it is likely you will be exposed to many more things that cause you stress. It is important to be aware of the signs of stress and address them where possible.
+
+
 
 ### Signs of stress
 
@@ -170,10 +172,6 @@ People affected by Parkinson’s describe their experiences.
 
 ## Coping with low mood and depression
 
-Everyone experiences low mood from time to time. When this becomes persistent and interferes with your life, then it may be diagnosed as depression. Depressive feelings are very common and typically follow a loss, such as bereavement, divorce or job loss. Usually this is temporary and something we can recover from naturally. Occasionally we may need additional support.
-
-Caring for someone with Parkinson’s can put you at risk of depression. This is because you may be exposed to more losses and more things you find stressful. Also, you may not be able to do the activities that can keep low mood and depression at bay. It is important to appreciate the effects of depression are very real and can really interfere with your caring role. Depression can build up gradually, so you may not realise how much it is affecting you. Knowing what the symptoms are, who you should talk to and what treatments are available, can help you deal with depression quickly.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -183,6 +181,12 @@ Caring for someone with Parkinson’s can put you at risk of depression. This is
   allowfullscreen>
 </iframe>
 </div>
+
+
+Everyone experiences low mood from time to time. When this becomes persistent and interferes with your life, then it may be diagnosed as depression. Depressive feelings are very common and typically follow a loss, such as bereavement, divorce or job loss. Usually this is temporary and something we can recover from naturally. Occasionally we may need additional support.
+
+Caring for someone with Parkinson’s can put you at risk of depression. This is because you may be exposed to more losses and more things you find stressful. Also, you may not be able to do the activities that can keep low mood and depression at bay. It is important to appreciate the effects of depression are very real and can really interfere with your caring role. Depression can build up gradually, so you may not realise how much it is affecting you. Knowing what the symptoms are, who you should talk to and what treatments are available, can help you deal with depression quickly.
+
 
 ### Signs of depression
 
@@ -220,9 +224,6 @@ People affected by Parkinson’s describe their experiences.
 
 ## Coping with anxiety
 
-Anxiety is a very normal emotion; it is our response to threat. For humans, threat can come in many different forms: physical, emotional or social. The threat can be in the here and now, in the past or in the future. At a biological level, when a threat is detected, adrenaline is rushed into our bloodstream. This helps us to run away from the threat. We have a well-developed threat system. This means this fight/flight response happens whether the danger is real, or when we think there is danger even if there is none. It is the body's alarm and way of surviving. It is what keeps us safe.
-
-Like most emotional problems, caring for someone with Parkinson’s means that you are at increased risk of developing anxiety. Typically, this is experienced as anxiety or worry about lots of different things. Carers can also experience acute attacks of anxiety (panic attacks). They can also have anxiety that occurs in certain situations, for example feeling really anxious about social activities.
 
 <div class="video-container">
 <iframe 
@@ -233,6 +234,11 @@ Like most emotional problems, caring for someone with Parkinson’s means that y
   allowfullscreen>
 </iframe>
 </div>
+
+Anxiety is a very normal emotion; it is our response to threat. For humans, threat can come in many different forms: physical, emotional or social. The threat can be in the here and now, in the past or in the future. At a biological level, when a threat is detected, adrenaline is rushed into our bloodstream. This helps us to run away from the threat. We have a well-developed threat system. This means this fight/flight response happens whether the danger is real, or when we think there is danger even if there is none. It is the body's alarm and way of surviving. It is what keeps us safe.
+
+Like most emotional problems, caring for someone with Parkinson’s means that you are at increased risk of developing anxiety. Typically, this is experienced as anxiety or worry about lots of different things. Carers can also experience acute attacks of anxiety (panic attacks). They can also have anxiety that occurs in certain situations, for example feeling really anxious about social activities.
+
 
 ### Signs of anxiety
 
@@ -265,6 +271,17 @@ _**Tips for coping with anxiety:**_
 
 ## Coping with uncertainty
 
+
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/DdJ4UqXTdoI" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 A common source of stress and anxiety for the person with Parkinson’s and their loved ones is uncertainty around the future. We all feel more comfortable when we have certainty in our life and Parkinson’s can be unpredictable. Over time, the Parkinson’s will progress, but no one is able to predict how or when. Even day-to-day symptoms can vary a great deal. It is natural to try to prepare for these changes, but trying to prepare for everything that might happen is impossible.
 
 _**Tips for coping with uncertainty:**_
@@ -277,15 +294,6 @@ _**Tips for coping with uncertainty:**_
 - _**Develop a good support network:**_ Worry often escalates when you underestimate your ability to cope with things. You can help yourself feel more secure and able to cope with the future no matter how uncertain it may seem by strengthening your relationships. Also strengthening other resources, you can draw upon.
 - _**Try to enjoy the here and now:**_ It is understandable to be concerned about the future, and it is sensible to think through some of your concerns. However, do not let these distract you from making the most out of the here and now.
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/DdJ4UqXTdoI" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
@@ -303,6 +311,16 @@ People affected by Parkinson’s describe their experiences.
 
 ## Coping with guilt
 
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/IM3zVcLVpEw" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 Guilt is one of the most common emotions experienced by people supporting those with Parkinson’s. There can be many things to feel guilty about. There are no simple ways to get around this. You may feel that you should be doing more. You may feel that you should be doing something better in your caring role. It may be that you think you should not complain about anything because the person with Parkinson’s is worse off than you. It may be that you are doing something the person with Parkinson’s would like to do but cannot. However, the fact you feel guilty probably reflects that you a good carer. It is important to not let guilt, or comments from others, act as a barrier to looking after yourself. It is also important that guilt does not stop you expressing your feelings in some way or if you are in a position to, talking with the person you care for.
 
 _**Tips for managing guilt:**_
@@ -316,21 +334,11 @@ _**Tips for managing guilt:**_
   - _Talk online/telephone:_ People often find it helpful to talk to people who don't know them when sharing feelings of guilt. Online groups or forums can be helpful in these situations. There are also charities you can call for free where you can talk your thoughts through, especially if you suddenly feel overwhelmed by them, for example the Samaritans.
   - _Talk to your GP:_ They may be able to refer you to a counselling service or give you information about local support groups. You can also self-refer to some services in some locations. Details of psychological services (IAPT) can be found on the NHS website.
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/IM3zVcLVpEw" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
+
 
 ---
 
 ## Coping with loss and grief
-
-While it can be difficult, it is important that you acknowledge the losses you experience when supporting someone with Parkinson’s. Experiencing these losses can be thought of as a grieving process. In Parkinson’s, there can be different losses that occur at different times and stages. Therefore, the grieving process can be ongoing or repeating. It can be helpful to think about the different stages of grief. When do this it is important to remember that not everyone experiences all of the stages, or goes through them in this order:
 
 <div class="video-container">
 <iframe 
@@ -341,6 +349,10 @@ While it can be difficult, it is important that you acknowledge the losses you e
   allowfullscreen>
 </iframe>
 </div>
+
+While it can be difficult, it is important that you acknowledge the losses you experience when supporting someone with Parkinson’s. Experiencing these losses can be thought of as a grieving process. In Parkinson’s, there can be different losses that occur at different times and stages. Therefore, the grieving process can be ongoing or repeating. It can be helpful to think about the different stages of grief. When do this it is important to remember that not everyone experiences all of the stages, or goes through them in this order:
+
+
 
 _**Tips for coping with loss and grief:**_
 
@@ -404,13 +416,6 @@ A few ways Parkinson’s can affect sexual relationships are:
 
 _**Tips for coping with changes in sexual relationships:**_
 
-- Think about altering what you do together to take account of changing physical abilities.
-- Make sure medications are at their most effective to reduce the interference from any symptoms.
-- Find different ways to be intimate with each other.
-- Maintain a good relationship outside of sex.
-- Speak to your health professionals if concerned. This is particularly important if there are issues with increased sex drive, because this can escalate if left unchecked.
-- Consider talking to your GP or Parkinson’s nurse about medications if you are concerned about any of the physical aspects (e.g. incontinence or erectile dysfunction).
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -420,6 +425,15 @@ _**Tips for coping with changes in sexual relationships:**_
   allowfullscreen>
 </iframe>
 </div>
+
+- Think about altering what you do together to take account of changing physical abilities.
+- Make sure medications are at their most effective to reduce the interference from any symptoms.
+- Find different ways to be intimate with each other.
+- Maintain a good relationship outside of sex.
+- Speak to your health professionals if concerned. This is particularly important if there are issues with increased sex drive, because this can escalate if left unchecked.
+- Consider talking to your GP or Parkinson’s nurse about medications if you are concerned about any of the physical aspects (e.g. incontinence or erectile dysfunction).
+
+
 
 ---
 
