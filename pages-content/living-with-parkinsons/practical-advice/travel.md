@@ -1,5 +1,17 @@
 # Travel
 
+
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/50PhrlyjGzI" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
+
 This section aims to provide the key information that you should think about when travelling.
 
 This will include key issues around;
@@ -11,16 +23,6 @@ This will include key issues around;
 - Flying and travelling abroad
 
 It will also include other options for getting around and advice for travelling.
-
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/50PhrlyjGzI" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
@@ -111,8 +113,6 @@ As already stated, you must inform DVLA of your medical condition. These are som
 
 ## Parking
 
-As Parkinson’s can affect your walking this section aims to provide you with helpful information and options. These will help make it possible to park closer to the services and places that you are visiting.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -122,6 +122,10 @@ As Parkinson’s can affect your walking this section aims to provide you with h
   allowfullscreen>
 </iframe>
 </div>
+
+As Parkinson’s can affect your walking this section aims to provide you with helpful information and options. These will help make it possible to park closer to the services and places that you are visiting.
+
+
 
 ### The Blue Badge Scheme
 
@@ -216,8 +220,6 @@ People affected by Parkinson’s describe their experiences.
 
 ## Using public transport
 
-There are other transport options besides driving that offer travel schemes to help you get around and make travelling easier. These schemes can assist you in attending hospital appointments, shopping, or visiting friends, helping you maintain your day-to-day activities.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -227,6 +229,10 @@ There are other transport options besides driving that offer travel schemes to h
   allowfullscreen>
 </iframe>
 </div>
+
+There are other transport options besides driving that offer travel schemes to help you get around and make travelling easier. These schemes can assist you in attending hospital appointments, shopping, or visiting friends, helping you maintain your day-to-day activities.
+
+
 
 ### What can I do?
 
@@ -312,8 +318,6 @@ People affected by Parkinson’s describe their experiences.
 
 ## Finding Toilets When Out and About
 
-Parkinson’s may make accessing toilets more difficult due to mobility or bladder symptoms.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -323,6 +327,10 @@ Parkinson’s may make accessing toilets more difficult due to mobility or bladd
   allowfullscreen>
 </iframe>
 </div>
+
+Parkinson’s may make accessing toilets more difficult due to mobility or bladder symptoms.
+
+
 
 ### National Key Scheme
 
@@ -350,11 +358,6 @@ Flying and travelling abroad with Parkinson’s is still possible, with many peo
 
 ### Can I Fly?
 
-- Parkinson’s does not stop someone from flying. It is important however to consider that symptoms may make it more difficult (e.g. stiffness or walking problems) or be made worse (e.g. anxiety, sleep).
-- If you are flying, it is important to stay hydrated to reduce symptoms. Therefore, drink plenty of fluids to prevent dehydration.
-- You may want to book a seat at the front of the plane, or in a seat where you can have extra leg room.
-- It is against the law within England and Europe for an airline to prevent anyone booking or boarding a flight due to a disability.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -364,6 +367,13 @@ Flying and travelling abroad with Parkinson’s is still possible, with many peo
   allowfullscreen>
 </iframe>
 </div>
+
+- Parkinson’s does not stop someone from flying. It is important however to consider that symptoms may make it more difficult (e.g. stiffness or walking problems) or be made worse (e.g. anxiety, sleep).
+- If you are flying, it is important to stay hydrated to reduce symptoms. Therefore, drink plenty of fluids to prevent dehydration.
+- You may want to book a seat at the front of the plane, or in a seat where you can have extra leg room.
+- It is against the law within England and Europe for an airline to prevent anyone booking or boarding a flight due to a disability.
+
+
 
 ### Going Abroad
 
