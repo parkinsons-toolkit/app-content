@@ -1,9 +1,5 @@
 # Stiffness, Slowness & Small Movements
 
-Stiffness or _rigidity_ is generally felt in the muscles of the body. Muscles don’t stretch or relax as they usually do. This can cause feelings of pain or tightness in people’s muscles. People with Parkinson’s may notice they have difficulty with small movements of their hands. This may be when buttoning buttons, shaving their face or writing with a pen. They may also have trouble rolling over in bed or getting out of a chair. Facial muscles may also be stiff, and a person with Parkinson’s may have less facial expression than they used to.
-
-Slowness of movement also happens in Parkinson’s. This can be seen in someone’s overall movements being slower, for example, their walking or gestures. Repeated movements can also become smaller or slower the more the actions are repeated. This can happen when doing a lot of writing by hand, for example. People with Parkinson’s can also have slower reaction times or take smaller and more shuffling steps. Stiffness, slowness and difficulty with small movements may also contribute to falls and pain.
-
 <div class="video-container">
 <iframe
   width="560"
@@ -13,6 +9,12 @@ Slowness of movement also happens in Parkinson’s. This can be seen in someone�
   allowfullscreen>
 </iframe>
 </div>
+
+
+Stiffness or _rigidity_ is generally felt in the muscles of the body. Muscles don’t stretch or relax as they usually do. This can cause feelings of pain or tightness in people’s muscles. People with Parkinson’s may notice they have difficulty with small movements of their hands. This may be when buttoning buttons, shaving their face or writing with a pen. They may also have trouble rolling over in bed or getting out of a chair. Facial muscles may also be stiff, and a person with Parkinson’s may have less facial expression than they used to.
+
+Slowness of movement also happens in Parkinson’s. This can be seen in someone’s overall movements being slower, for example, their walking or gestures. Repeated movements can also become smaller or slower the more the actions are repeated. This can happen when doing a lot of writing by hand, for example. People with Parkinson’s can also have slower reaction times or take smaller and more shuffling steps. Stiffness, slowness and difficulty with small movements may also contribute to falls and pain.
+
 
 ---
 
@@ -37,6 +39,17 @@ There are many things you can try for yourself as described below. Although ther
 ---
 
 # What can I try for myself?
+
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/SJB87PMd7gs"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
 
 ### Activity
 
@@ -91,15 +104,6 @@ See <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" 
 - May help relax stiff muscles.
 - _Make sure you are well hydrated if you have warm baths._
 
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/SJB87PMd7gs"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
