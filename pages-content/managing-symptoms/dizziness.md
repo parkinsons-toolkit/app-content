@@ -1,5 +1,15 @@
 # Dizziness
 
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/OWfkgb2J1F8"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 Dizziness is often a difficult symptom to describe. It can also be difficult to work out the cause. People use a range of words to describe how they feel, and the medical terminology is complicated. Symptoms of dizziness can be difficult to distinguish from headaches, visual disturbances, or tiredness.
 
 Although it can be difficult to decide which group dizziness symptoms fit into, there are two main types of dizziness:
@@ -13,15 +23,7 @@ Although it can be difficult to decide which group dizziness symptoms fit into, 
 
 Many people experience balance problems or falls for other reasons. See the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page for more information.
 
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/OWfkgb2J1F8"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
+
 
 ---
 
@@ -52,6 +54,18 @@ Assessment of dizziness is more urgent if it is happening very frequently or cau
 ## What can I try for myself?
 
 ### General
+
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/WNIn6kQCULY"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 
 - It is important that you do not stop all activity due to your symptoms. Maintaining activity is really important. You might need to pause and rest if you get dizzy but try to stay active as much as possible.
 - Try to reduce your intake of alcohol as this can make all types of dizziness worse.
@@ -88,16 +102,6 @@ These do not change the symptom but help reduce risks:
 
 
 For more information about blood pressure (including how to measure it), see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page.
-
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/WNIn6kQCULY"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
 
 ---
 
