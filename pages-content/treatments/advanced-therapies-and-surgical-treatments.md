@@ -10,6 +10,17 @@ Intermittent injections of a medicine called apomorphine (a dopamine agonist). T
 
 ### Who is it for?
 
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/dlap3NhcAkg" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
+
 You may be able to have this treatment if:
 
 - You are diagnosed with Parkinson’s and have specific difficulties, such as:
@@ -22,15 +33,6 @@ You may be able to have this treatment if:
 - People (or their carers) are able to give themselves injections (after being trained). If people with Parkinson’s or carers are not able to give injections, an apomorphine pump may be considered.
 - A pump may be able to be supported by a district nurse or another nurse.
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/dlap3NhcAkg" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
 
 ### What should I expect from the assessment process?
 
@@ -110,8 +112,6 @@ _Many side effects of apomorphine are typical for dopamine agonists, and should 
 
 ### What do I do if I have a problem afterwards?
 
-When you start apomorphine pump treatment you will be given details for who to contact if there is a problem. This may be a trained community nurse or the team at the specialist centre. You should carry the details of your treatment and your specialist team on you to contact if necessary. If you experience side effects, discuss them with your specialist team as soon as they occur.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -121,6 +121,8 @@ When you start apomorphine pump treatment you will be given details for who to c
   allowfullscreen>
 </iframe>
 </div>
+
+When you start apomorphine pump treatment you will be given details for who to contact if there is a problem. This may be a trained community nurse or the team at the specialist centre. You should carry the details of your treatment and your specialist team on you to contact if necessary. If you experience side effects, discuss them with your specialist team as soon as they occur.
 
 ---
 
@@ -155,8 +157,6 @@ You may be considered for DBS if you:
 - Low mood
 - Memory or thinking problems
 
-For more information about these symptoms, see the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Mananging Symptoms_</a> pages.
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -166,6 +166,10 @@ For more information about these symptoms, see the <a href="/learn/managing-symp
   allowfullscreen>
 </iframe>
 </div>
+
+For more information about these symptoms, see the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Mananging Symptoms_</a> pages.
+
+
 
 ### What should I expect from the assessment process?
 
@@ -317,9 +321,6 @@ Once the tube is safe to use, tablet medications are reduced down and discontinu
 
 ### What do I do if I have a problem afterwards?
 
-You will need long term follow-up at the specialist centre for your Duodopa treatment. 
- When you have the procedure and are set up with the equipment, you will be given contact details for who to contact if there are any problems. You should carry the details of your treatment on you so that the specialist team can be contacted if there is an emergency. 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -329,6 +330,11 @@ You will need long term follow-up at the specialist centre for your Duodopa trea
   allowfullscreen>
 </iframe>
 </div>
+
+You will need long term follow-up at the specialist centre for your Duodopa treatment. 
+ When you have the procedure and are set up with the equipment, you will be given contact details for who to contact if there are any problems. You should carry the details of your treatment on you so that the specialist team can be contacted if there is an emergency. 
+
+
 
 ---
 
