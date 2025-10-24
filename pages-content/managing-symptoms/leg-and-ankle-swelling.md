@@ -10,9 +10,7 @@
 </iframe>
 </div>
 
-
 Leg or ankle swelling can commonly occur in people with Parkinson’s. Extra fluid from around the body can settle in the ankles or lower legs. This can be uncomfortable to walk with, make the skin feel tight, legs feel heavy, or shoes feel tight. This extra fluid is known as _oedema_. Muscle movements in the legs help to push some of the fluid back around the body.
-
 
 ---
 
@@ -76,11 +74,9 @@ Other non-Parkinson’s causes of leg or ankle swelling can be from:
 </iframe>
 </div>
 
-
 - Wear shoes that can be loosened during the course of the day as swelling may get worse as the day goes on.
 - Make sure your shoes can still hold firmly onto your feet as the swelling goes up and down. If they get too loose, they might become a tripping or falling hazard, and if they are too tight you won’t be able to fasten them.
 - Shop for shoes when your swelling is at its worst so you know the shoes will always fit.
-
 
 ---
 
@@ -169,9 +165,9 @@ You may be given reassurance or more specific advice about things you could try 
 
 ## Useful Organisations & Contacts
 
-| Organisation   | About                                                                                                                                                                             | Phone Number  | Website                                                                                                                                                                                                 |
-|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NHS            | Offers compact information about swollen ankles, feet and legs (oedema). There are some ways to ease swelling yourself.                                                         | --            | <a href="https://www.nhs.uk/conditions/oedema/" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/conditions/oedema/</a>                                                          |
-| Parkinson’s UK | Has information about foot care for Parkinson’s and discusses swelling, footwear and more. You can view this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)  | <a href="https://www.parkinsons.org.uk/information-and-support/foot-care" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/foot-care</a>        |
+| Organisation   | About                                                                                                                                                               | Phone Number                                                                                                                                           | Website                                                                                                                                                                                               |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NHS            | Offers compact information about swollen ankles, feet and legs (oedema). There are some ways to ease swelling yourself.                                             | --                                                                                                                                                     | <a href="https://www.nhs.uk/conditions/oedema/" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/conditions/oedema/</a>                                                     |
+| Parkinson’s UK | Has information about foot care for Parkinson’s and discusses swelling, footwear and more. You can view this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/foot-care" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/foot-care</a> |
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

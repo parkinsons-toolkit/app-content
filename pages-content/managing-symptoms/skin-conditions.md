@@ -1,6 +1,5 @@
 # Skin Conditions
 
-
 <div class="video-container">
 <iframe
   width="560"
@@ -11,7 +10,6 @@
 </iframe>
 </div>
 
-
 Skin conditions affect many people across the population.
 
 Conditions that can be more common in people with Parkinson’s are:
@@ -20,7 +18,6 @@ Conditions that can be more common in people with Parkinson’s are:
 - Seborrhoeic dermatitis: areas of the skin become red, itchy, and sore. The skin can peel or flake and can develop thick crusts or scales.
 - Wounds or ulcers from delayed healing or from pressure on a particular part of the body.
 - Abnormal moles.
-
 
 ---
 
@@ -57,11 +54,9 @@ All of these skin issues are seen in people who don’t have Parkinson’s as we
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/checking-moles.jpg" alt="checking-moles" class="example-class">
 
-
 ---
 
 ## What should I do about it?
-
 
 <div class="video-container">
 <iframe
@@ -72,7 +67,6 @@ All of these skin issues are seen in people who don’t have Parkinson’s as we
   allowfullscreen>
 </iframe>
 </div>
-
 
 There are many things you can try for yourself as below, but there are some circumstances where you should seek professional help.
 
@@ -163,8 +157,6 @@ Check moles regularly (monthly), looking for any changes. You can ask someone el
   - Sunscreen must be applied liberally, carefully and repeatedly on exposed skin.
   - UVA in a circle logo indicates that a sunscreen meets the minimum standards for UVA protection. You should use a sun protection factor (SPF) of at least 30 to protect against UVB.
 
-
-
 ---
 
 ## Further Assessment
@@ -220,12 +212,10 @@ If skin cancer is suspected, you will be referred to a skin specialist: a dermat
 
 ## Useful Organisations & Contacts
 
-| Organisation                   | About                                                                                                                                                                                                                                                | Phone Number     | Website                                                                                                                                                                                                                                                                                                                                 |
-|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bose, Petsko and Eliezer (2018) | This research article explores the connection between Parkinson’s and Melanoma.                                                                                                                               | --               | <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6130416/" class="external-link" target="_blank" rel="noopener noreferrer">https://pmc.ncbi.nlm.nih.gov/articles/PMC6130416/</a>                                                                                                                                                     |
-| NHS                            | The NHS offers guidance on sun safety to prevent skin damage, explain how to spot and manage changes in moles, and provide information on melanoma symptoms, diagnosis, and treatment.                                                             | --               | Staying Safe in the Sun: <a href="https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety</a><br><br>Melanoma: <a href="https://www.nhs.uk/conditions/melanoma-skin-cancer" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/conditions/melanoma-skin-cancer</a><br><br>Moles: <a href="https://www.nhs.uk/conditions/moles/" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/conditions/moles/</a> |
-| Parkinson’s UK                 | Provides information and support about how Parkinson’s can affect the skin and sweating, offering tips on managing dryness, excessive sweating, and related discomfort. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)    | <a href="https://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems</a>                                                                                       |
+| Organisation                    | About                                                                                                                                                                                  | Phone Number                                                                                                                                           | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bose, Petsko and Eliezer (2018) | This research article explores the connection between Parkinson’s and Melanoma.                                                                                                        | --                                                                                                                                                     | <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6130416/" class="external-link" target="_blank" rel="noopener noreferrer">https://pmc.ncbi.nlm.nih.gov/articles/PMC6130416/</a>                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| NHS                             | The NHS offers guidance on sun safety to prevent skin damage, explain how to spot and manage changes in moles, and provide information on melanoma symptoms, diagnosis, and treatment. | --                                                                                                                                                     | Staying Safe in the Sun: <a href="https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety</a><br><br>Melanoma: <a href="https://www.nhs.uk/conditions/melanoma-skin-cancer" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/conditions/melanoma-skin-cancer</a><br><br>Moles: <a href="https://www.nhs.uk/conditions/moles/" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/conditions/moles/</a> |
+| Parkinson’s UK                  | Provides information and support about how Parkinson’s can affect the skin and sweating, offering tips on managing dryness, excessive sweating, and related discomfort.                | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems</a>                                                                                                                                                                                                                                                                                                                                                               |
 
-
-
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page. 
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

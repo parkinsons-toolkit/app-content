@@ -23,8 +23,6 @@ Although it can be difficult to decide which group dizziness symptoms fit into, 
 
 Many people experience balance problems or falls for other reasons. See the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page for more information.
 
-
-
 ---
 
 ## What might be causing it?
@@ -55,7 +53,6 @@ Assessment of dizziness is more urgent if it is happening very frequently or cau
 
 ### General
 
-
 <div class="video-container">
 <iframe
   width="560"
@@ -65,7 +62,6 @@ Assessment of dizziness is more urgent if it is happening very frequently or cau
   allowfullscreen>
 </iframe>
 </div>
-
 
 - It is important that you do not stop all activity due to your symptoms. Maintaining activity is really important. You might need to pause and rest if you get dizzy but try to stay active as much as possible.
 - Try to reduce your intake of alcohol as this can make all types of dizziness worse.
@@ -99,7 +95,6 @@ These do not change the symptom but help reduce risks:
   Speak with your GP before you try this.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/low-blood-pressure.jpg" alt="low-blood-pressure" class="example-class">
-
 
 For more information about blood pressure (including how to measure it), see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page.
 
@@ -177,9 +172,9 @@ See the see the <a href="/learn/managing-symptoms/mood" class="internal-link">_M
 
 ## Useful Organisations & Contacts
 
-| Organisation           | About                                                                                                                                                                                                                                          | Phone Number  | Website                                                                                                                                                                                                                              |
-|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Parkinson’s Foundation | This is an American organisation, providing information about how vertigo and dizziness can affect people with Parkinson’s, outlining possible causes and management strategies. It forms part of a broader resource on non-movement symptoms associated with the condition. | --            | <a href="https://www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Vertigo-Dizziness-Parkinsons" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Vertigo-Dizziness-Parkinsons</a> |
-| Parkinson’s UK         | Provides information about falls and dizziness, their causes, treatments and potential hazards in the home. <br><br>You can read information online, print it or ask it to be mailed to you.  | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/falls-and-dizziness" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/falls-and-dizziness</a>                       |
+| Organisation           | About                                                                                                                                                                                                                                                                        | Phone Number                                                                                                                                           | Website                                                                                                                                                                                                                                                                                             |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Parkinson’s Foundation | This is an American organisation, providing information about how vertigo and dizziness can affect people with Parkinson’s, outlining possible causes and management strategies. It forms part of a broader resource on non-movement symptoms associated with the condition. | --                                                                                                                                                     | <a href="https://www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Vertigo-Dizziness-Parkinsons" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Vertigo-Dizziness-Parkinsons</a> |
+| Parkinson’s UK         | Provides information about falls and dizziness, their causes, treatments and potential hazards in the home. <br><br>You can read information online, print it or ask it to be mailed to you.                                                                                 | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/falls-and-dizziness" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/falls-and-dizziness</a>                                                                           |
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

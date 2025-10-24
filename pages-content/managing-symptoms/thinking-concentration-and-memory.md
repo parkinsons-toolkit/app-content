@@ -8,11 +8,11 @@
   title="YouTube video player" 
   allowfullscreen>
 </iframe>
-</div> 
+</div>
 
 Difficulties with thinking and remembering are common in Parkinson’s. They can be very worrying for the person experiencing these as well as for those around them. As we get older, we are likely to notice more difficulties with our memory, speed of thinking, and ability to do several things at once. But bigger changes, particularly if they affect day-to-day activities, are not normal and should be discussed with a healthcare professional. Vocabulary and reading do not normally get worse with age. Difficulties with thinking and memory are not always signs of dementia.
 
-For information about more advanced symptoms, including dementia, see the <a href="/learn/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">_Progression of Symptoms_</a> page. 
+For information about more advanced symptoms, including dementia, see the <a href="/learn/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">_Progression of Symptoms_</a> page.
 
 ---
 
@@ -40,9 +40,7 @@ Memory and thinking problems can be symptoms of Parkinson’s, but not all of th
 
 <ins>**Dementia**</ins> is a broad term used to describe gradual impairments of thinking, memory and other brain functions that are impacting day-to-day life. Dementia has lots of different types and causes, one of which is Parkinson’s. But not all thinking and memory problems in Parkinson’s are, or lead to, dementia.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/thinking.jpg" alt="thinking" class="example-class">
-
 
 Other causes of memory and thinking problems that appear gradually include:
 
@@ -60,8 +58,6 @@ Memory and thinking problems, or confusion, can also occur as sudden changes in 
 - Medications
 - Abnormal blood chemistry (e.g. high or low blood sugar levels).
 
-
-
 ---
 
 ## What should I do about it?
@@ -74,7 +70,6 @@ If the onset of your symptoms has been more gradual (weeks to months) then there
 
 ## What can I try for myself?
 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -86,7 +81,6 @@ If the onset of your symptoms has been more gradual (weeks to months) then there
 </div>
 
 There are many things you can try to help you manage difficulties with memory and thinking.
-
 
 ### Take Your Time
 
@@ -199,11 +193,10 @@ There are benefits and risks of all medication so you should speak to your healt
 
 ## Useful Oranisations & Contacts
 
-| Organisation                  | About                                                                                                                                                                                                                                                                                                                                                                     | Phone Number     | Website                                                                                                                                                                                                                                                                                                                                 |
-|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Age UK                        | Outlines befriending services that offer regular companionship and support to help older people feel less isolated and more connected.                                                                                                                                                                                 | 0800 678 1602  <br><br>Free support and advice helpline (Open 8am- 7pm, 365 days a year)   | <a href="http://www.ageuk.org.uk/services/befriending-services/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.ageuk.org.uk/services/befriending-services/</a>                                                                                                                                             |
-| Parkinson’s UK                | These Parkinson’s UK resources offer information on thinking and memory changes, access to local befriending and support services via postcode search, and a call companion service providing regular friendly chats to reduce isolation. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)   | Thinking and memory changes: <a href="https://www.parkinsons.org.uk/information-and-support/thinking-and-memory-changes" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/thinking-and-memory-changes</a><br><br>Befriending and other local support services can be found after entering your postcode: <a href="https://localsupport.parkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">localsupport.parkinsons.org.uk</a><br><br>Call companions: <a href="https://www.parkinsons.org.uk/information-and-support/call-companions" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/call-companions</a> |
-| The Michael J. Fox Foundation | This American organisation has information on thinking and memory problems, with details of current testing and ways to boost your brain health.                                                                                                                                                                                                                                                 | --               | <a href="https://www.michaeljfox.org/news/memory-thinking-changes" class="external-link" target="_blank" rel="noopener noreferrer">www.michaeljfox.org/news/memory-thinking-changes</a>                                                                                                                                                 |
-
+| Organisation                  | About                                                                                                                                                                                                                                     | Phone Number                                                                                                                                           | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Age UK                        | Outlines befriending services that offer regular companionship and support to help older people feel less isolated and more connected.                                                                                                    | 0800 678 1602 <br><br>Free support and advice helpline (Open 8am- 7pm, 365 days a year)                                                                | <a href="http://www.ageuk.org.uk/services/befriending-services/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.ageuk.org.uk/services/befriending-services/</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Parkinson’s UK                | These Parkinson’s UK resources offer information on thinking and memory changes, access to local befriending and support services via postcode search, and a call companion service providing regular friendly chats to reduce isolation. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | Thinking and memory changes: <a href="https://www.parkinsons.org.uk/information-and-support/thinking-and-memory-changes" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/thinking-and-memory-changes</a><br><br>Befriending and other local support services can be found after entering your postcode: <a href="https://localsupport.parkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">localsupport.parkinsons.org.uk</a><br><br>Call companions: <a href="https://www.parkinsons.org.uk/information-and-support/call-companions" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/call-companions</a> |
+| The Michael J. Fox Foundation | This American organisation has information on thinking and memory problems, with details of current testing and ways to boost your brain health.                                                                                          | --                                                                                                                                                     | <a href="https://www.michaeljfox.org/news/memory-thinking-changes" class="external-link" target="_blank" rel="noopener noreferrer">www.michaeljfox.org/news/memory-thinking-changes</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

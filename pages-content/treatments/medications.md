@@ -10,7 +10,6 @@ It is important not to change your medication without discussing this with your 
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/medication.jpg" alt="medication" class="example-class">
 
-
 ---
 
 ## Commonly Used Medications
@@ -20,6 +19,7 @@ The <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_
 ### 1. Levodopa Medications
 
 **What does it do?**
+
 - Levodopa is converted to dopamine in the body.
 - Levodopa is combined with another medicine into one pill. This other medicine only prevents the levodopa from being broken down before it gets to the brain.
 - This other medicine does not help Parkinson’s symptoms.
@@ -33,14 +33,16 @@ The <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_
 | Co-careldopa | Caramet®, Sinemet®, Lecado®, Duodopa® (intestinal gel form) | Levodopa + carbidopa   | • Tablets <br> • Controlled release tablets <br> • Modified release tablets <br> • Intestinal gel form (brand name Duodopa®, see additional information below) |
 | Co-beneldopa | Madopar®                                                    | Levodopa + benserazide | • Capsules <br> • Dispersible tablets <br> • Controlled release capsules                                                                                       |
 
-**Who is it for?** 
+**Who is it for?**
+
 - Levodopa can be used at all stages of Parkinson’s.
 - Duodopa® intestinal gel is given directly into the gut via a tube – see <a href="/learn/treatments/advanced-and-surgical-treatments" class="internal-link">_Advanced & Surgical Treatments_</a> page for more information. It is used for complex movement problems.
 
 **What are the side effects?**  
-Not all patients will experience side effects while taking levodopa.  
+Not all patients will experience side effects while taking levodopa.
 
-The more common are:  
+The more common are:
+
 - Nausea (feeling sick) or vomiting – this usually goes away after a couple of weeks. It may be eased by taking the medicine with a small amount of food. Some people use an anti-sickness medicine (e.g. Domperidone) short-term when first starting levodopa.
 - Low blood pressure - which can cause symptoms of dizziness or feeling generally weak or faint.
 - Sleepiness.
@@ -51,7 +53,8 @@ Food can affect how levodopa gets absorbed into your body. For some people this 
 
 ### 2. Dopamine Agonist Medications
 
-**What do they do?**  
+**What do they do?**
+
 - Dopamine agonists mimic the action of dopamine.
 
 **Dopamine agonist medications**
@@ -63,13 +66,15 @@ Food can affect how levodopa gets absorbed into your body. For some people this 
 | Rotigotine   | Neupro®                                                                                         | • Skin patch                                                                |
 | Apomorphine  | Apo-go®, Dacepton®                                                                              | • Pre-filled pen for intermittent injection <br> • Continuous infusion pump |
 
-**Who are they for?**  
+**Who are they for?**
+
 - They can be used at all stages of Parkinson’s and come in a variety of forms.
 - Rotigotine is given as a skin patch so may be used if swallowing tablets is a problem.
 - Apomorphine is given by injection or infusion pump. It is used for more complex movement problems. More information about the pump can be found on the <a href="/learn/treatments/advanced-and-surgical-treatments" class="internal-link">_Advanced & Surgical Treatments_</a> page.
 
 **What are the side effects?**  
-Not all patients will experience side effects while taking dopamine agonist medicines. The more common are:  
+Not all patients will experience side effects while taking dopamine agonist medicines. The more common are:
+
 - Sleepiness. Some people may fall asleep suddenly, known as “Sleep Attacks”
 - Nausea (feeling sick).
 - Low blood pressure, which can cause symptoms of dizziness or feeling generally weak or faint.
@@ -79,7 +84,8 @@ Not all patients will experience side effects while taking dopamine agonist medi
 
 ### 3. MAO-B Inhibitor Medications
 
-**What do they do?**  
+**What do they do?**
+
 - These reduce the body’s natural breakdown of dopamine so the dopamine you have stays around longer.
 
 | Generic Name | Brand Names         | Forms Available                                                       |
@@ -87,15 +93,18 @@ Not all patients will experience side effects while taking dopamine agonist medi
 | Rasagiline   | Azilect®            | • Tablets                                                             |
 | Selegiline   | Eldepryl®, Zelapar® | • Eldepryl - tablets <br> • Zelapar – tablets that dissolve on tongue |
 
-**Who are they for?**  
+**Who are they for?**
+
 - They can be used at all stages of Parkinson’s.
 
-**What are the side effects?**  
+**What are the side effects?**
+
 - Side effects are rare but can include abnormal dreams, constipation and a dry mouth.
 
 ### 4. COMT Inhibitor Medications
 
-**What do they do?**  
+**What do they do?**
+
 - These reduce the body’s natural breakdown of levodopa, so it remains effective for longer and helps the levodopa to work more smoothly.
 
 | Generic Name                | Brand Names                  | Forms Available |
@@ -106,10 +115,12 @@ Not all patients will experience side effects while taking dopamine agonist medi
 | Opicapone                   | Ongentys®                    | Tablets         |
 
 **Who are they for?**
+
 - These are used alongside levodopa and must be taken at the same time.
 - Opicapone is a once a day medication.
 
-***What are the side effects?***
+**_What are the side effects?_**
+
 - These medications may cause upset stomach or bowels. Adding fibre to your diet may be helpful as the body adjusts.
 - As this medication increases the amount of levodopa in the blood, the side effects listed for levodopa may occur.
 - Urine may turn reddish-brown, which is harmless.
@@ -126,11 +137,13 @@ Not all patients will experience side effects while taking dopamine agonist medi
 | Amantadine   | Symmetrel®  | • Capsules • Syrup |
 
 **What does it do?**
+
 - It isn’t known exactly how this type of drug works for Parkinson’s, but it is likely to have several actions.
 - It is sometimes used to manage <a href="/learn/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements (Dyskinesia)_</a>.
 - It is not used in people who have epilepsy, have had stomach ulcers, or who have significant memory or thinking problems.
 
 **What are the side effects?**
+
 - Side effects can include leg swelling, dizziness, dry mouth, hallucinations, confusion and sleep problems.
 
 ### 2) Anticholinergics
@@ -141,10 +154,12 @@ Not all patients will experience side effects while taking dopamine agonist medi
 | Procyclidine               | Kemadrin®   | • Tablets • Syrup • Solution for injection |
 
 **What does it do?**
+
 - These medications work on a different chemical messenger: acetylcholine.
 - They are normally used for tremor, and may help with other symptoms, but their use is limited by side effects.
 
 **What are the side effects?**
+
 - Side effects can include memory problems and mental health problems.
 - Other side effects may be constipation, difficulty passing urine and dry mouth.
 
@@ -272,14 +287,14 @@ _These are general principles relevant to Parkinson’s medication:_
 **The question to ask yourself is: Am I due another dose very soon?**
 
 - **Yes ➔ Skip a dose.**  
- _For example:_
+  _For example:_
   Mr X normally takes levodopa every 4 hours: at 8am, 12pm, 4pm, and 8pm.  
-  Mr X missed the 8am dose and realised at 11:30am.  
-  Mr X could take the dose at 11:30am and skip the 12pm dose.
+   Mr X missed the 8am dose and realised at 11:30am.  
+   Mr X could take the dose at 11:30am and skip the 12pm dose.
 
 - **No ➔ Take the missed dose as soon as you remember.**  
   Adjust the rest of your doses for the day to be similar spacing to your normal regime. You may need to bring them slightly closer together (e.g. 30 minutes closer).
-  _For example:_ 
+  _For example:_
   Mr X normally takes levodopa every 4 hours: at 8am, 12pm, 4pm, and 8pm.  
   Mr X missed the 8am dose and realised at 10:30am.  
   Mr X could take the dose at 10:30am and adjust the later doses to be every 3.5–4 hours: 2pm, 5:30pm, and 9:30pm.
@@ -291,6 +306,7 @@ If you miss a tablet later in the day, you may not be able to easily fit all the
 ---
 
 ## My Experience
+
 People affected by Parkinson’s describe their experiences:
 
 > “I find the tablets hard to swallow. I got used to having ice cream with them now that works nicely. I learnt that by trial and error.”
@@ -306,9 +322,7 @@ People affected by Parkinson’s describe their experiences:
 - Medication management aids can help you to stay on top of your medication schedule.
 - **Note:** Some medicines should not be stored outside of their original packaging. Check with the pharmacist before changing their storage.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/medication-organiser.jpg" alt="medication-organiser" class="example-class">
-
 
 ### Pill organisers
 
@@ -332,7 +346,7 @@ People affected by Parkinson’s describe their experiences:
 
 - Portable devices that hold a small number of medication doses (usually enough for one day).
 - They may have a small alarm to remind you when to take your medication.
-- They can be useful to ensure you have the medicines you need when you are out and about. 
+- They can be useful to ensure you have the medicines you need when you are out and about.
 
 ### Medication alerts
 
@@ -340,22 +354,22 @@ People affected by Parkinson’s describe their experiences:
 - Some pill organisers have alert functions.
 - Some advanced devices can send a text message to an emergency contact number if you don’t take a dose within a specified timeframe.
 - Many people find timers on mobile phones or digital watches useful.
-- Some people prefer vibrating alerts instead of sound or light, to draw less attention. 
+- Some people prefer vibrating alerts instead of sound or light, to draw less attention.
 
 ### How to get these?
 
 - In some select cases, simple pill organisers are provided through the NHS. Speak to your GP or pharmacist to see if you are eligible.
 - You can buy them yourself. There are many options online or in supermarkets and chemists.
-- You must check your medicines are suitable to be stored in them first. Speak to your pharmacist about this. 
+- You must check your medicines are suitable to be stored in them first. Speak to your pharmacist about this.
 
 ### How to choose?
 
 - If you have difficulty using your hands, you might prefer a design that has larger compartments and buttons.
 - Simpler pill organisers are better if you have difficulty with your memory or thinking.
 - Look for alarms that are easy to set and reset automatically for the next dose.
-- Many have ‘pre-set’ alarms that repeat daily. This may or may not be suitable for you, depending  on your medication schedule. 
+- Many have ‘pre-set’ alarms that repeat daily. This may or may not be suitable for you, depending on your medication schedule.
 
-There are also other possible side effects that can occur, and some medications cannot be used together with other medications. Your prescribing doctor will take this into account when prescribing medication. 
+There are also other possible side effects that can occur, and some medications cannot be used together with other medications. Your prescribing doctor will take this into account when prescribing medication.
 
 ---
 
@@ -373,15 +387,15 @@ There are also other possible side effects that can occur, and some medications 
 
 ## Useful Organisations & Contacts
 
-Please look at the bottom of the table for further information about call charges. 
+Please look at the bottom of the table for further information about call charges.
 
-| Organisation           | About                                                                                                                                                                                                                                                                                                                                                       | Phone Number     | Website                                                                                                                                                                                                                                                   |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| British Red Cross      | The British Red Cross provides emergency support, first aid training, refugee services, and community assistance across the UK to help people in crisis. <br><br>An online shop selling items for assisted daily living. You can search for specific items, such as ‘medication’ in the designated search bar.| 0344 871 11 11**  <br><br>Calls cost up to 16p/minute from landlines, between 3p–65p/minute from mobile phones. You may get this call for free depending on your phone provider.    | Homepage: <a href="https://www.redcross.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.redcross.org.uk</a><br>Store: <a href="https://store.redcross.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">store.redcross.org.uk</a> |
-| Disability Rights UK   | Explains who is eligible for free prescriptions and other health-related benefits in the UK, with guidance on medical exemption certificates, prepayment options, and support for people with disabilities.                             | 0330 995 0400** <br><br>Calls cost up to 16p/minute from landlines, between 3p–65p/minute from mobile phones. You may get this call for free depending on your phone provider.     | <a href="https://www.disabilityrightsuk.org/prescription-chargeshealth-benefits" class="external-link" target="_blank" rel="noopener noreferrer">www.disabilityrightsuk.org/prescription-chargeshealth-benefits</a>                                     |
-| NHS                    | Offers compact information about treatment for Parkinson’s. It discusses different types of medication.                                                                                                                                                                                                                                                     | --               | <a href="https://www.nhs.uk/conditions/parkinsons-disease/treatment/" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/conditions/parkinsons-disease/treatment/</a>                                                           |
-| Parkinson’s UK         | Provides detailed information about Parkinson’s drugs and medications, including how they work, possible side effects, and tips for managing treatment effectively. <br><br>You can read this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am–6pm and Saturday, 10am–1pm)    | <a href="https://www.parkinsons.org.uk/information-and-support/parkinsons-drugs" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/parkinsons-drugs</a>                                     |
+| Organisation         | About                                                                                                                                                                                                                                                                                                          | Phone Number                                                                                                                                                                      | Website                                                                                                                                                                                                                                                                             |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| British Red Cross    | The British Red Cross provides emergency support, first aid training, refugee services, and community assistance across the UK to help people in crisis. <br><br>An online shop selling items for assisted daily living. You can search for specific items, such as ‘medication’ in the designated search bar. | 0344 871 11 11\*\* <br><br>Calls cost up to 16p/minute from landlines, between 3p–65p/minute from mobile phones. You may get this call for free depending on your phone provider. | Homepage: <a href="https://www.redcross.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.redcross.org.uk</a><br>Store: <a href="https://store.redcross.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">store.redcross.org.uk</a> |
+| Disability Rights UK | Explains who is eligible for free prescriptions and other health-related benefits in the UK, with guidance on medical exemption certificates, prepayment options, and support for people with disabilities.                                                                                                    | 0330 995 0400\*\* <br><br>Calls cost up to 16p/minute from landlines, between 3p–65p/minute from mobile phones. You may get this call for free depending on your phone provider.  | <a href="https://www.disabilityrightsuk.org/prescription-chargeshealth-benefits" class="external-link" target="_blank" rel="noopener noreferrer">www.disabilityrightsuk.org/prescription-chargeshealth-benefits</a>                                                                 |
+| NHS                  | Offers compact information about treatment for Parkinson’s. It discusses different types of medication.                                                                                                                                                                                                        | --                                                                                                                                                                                | <a href="https://www.nhs.uk/conditions/parkinsons-disease/treatment/" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/conditions/parkinsons-disease/treatment/</a>                                                                                       |
+| Parkinson’s UK       | Provides detailed information about Parkinson’s drugs and medications, including how they work, possible side effects, and tips for managing treatment effectively. <br><br>You can read this information online, print it or have it mailed to you.                                                           | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am–6pm and Saturday, 10am–1pm)                                  | <a href="https://www.parkinsons.org.uk/information-and-support/parkinsons-drugs" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/parkinsons-drugs</a>                                                                 |
 
-** Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
+\*\* Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

@@ -16,11 +16,7 @@ Restless leg syndrome can feel like:
 - A pins and needles sensation in your legs
 - A burning sensation in your legs
 
-
-
 These sensations usually occur in the evening while you are relaxing. Moving your legs will likely make them immediately feel better, but the sensations will return once they are still again. Because these feelings tend to occur or get worse at night, they can disrupt people’s sleeping schedules.
-
-
 
 ---
 
@@ -30,9 +26,7 @@ These sensations usually occur in the evening while you are relaxing. Moving you
 - Non-Parkinson’s causes of restless leg include low iron, reduced kidney function, or pregnancy; but most cases of restless leg don’t have a clear cause. It can also run in families.
 - Alcohol, smoking, caffeine, and some medications tend to make the symptoms of restless leg worse.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/restless-legs.jpg" alt="restless-legs" class="example-class">
-
 
 ---
 
@@ -56,14 +50,12 @@ Mild cases of restless leg may be treated with lifestyle changes, but more moder
 </iframe>
 </div>
 
-
 - Leg massage, walking and stretching. See the <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page for tips on stretching.
 - Warm or cool compresses on the legs.
 - Taking a warm bath in the evening. Make sure you are well hydrated first.
 - Avoiding alcohol, caffeine, and smoking (particularly in the evening, when symptoms tend to be worse).
 - Establishing regular sleeping habits.
 - Maintaining a cool sleeping space.
-
 
 ---
 
@@ -126,11 +118,10 @@ If your iron levels are low:
 
 ## Useful Organisations & Contacts
 
-| Organisation   | About                                                                                                                                                                                                                                                | Phone Number     | Website                                                                                                                                                                                                                                                   |
-|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NHS            | Offers compact information about restless legs syndrome, including its symptoms, causes, and treatment options to help manage discomfort and improve sleep.                                                                                         | --               | <a href="https://www.nhs.uk/conditions/restless-legs-syndrome/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/conditions/restless-legs-syndrome/</a>                                                               |
-| Parkinson’s UK | Explains restless legs syndrome, its connection to Parkinson’s, and offers advice on managing symptoms through lifestyle changes and medical support.<br><br>You can read it online, print it out or download it. | 808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)     | <a href="https://www.parkinsons.org.uk/information-and-support/restless-legs-syndrome" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/restless-legs-syndrome</a>                  |
-| RLS UK         | A charity Supporting People with Restless Legs Syndrome & Periodic Limb Movement Disorder. It has lots of helpful information and details on different treatments.                                                                                   | --               | <a href="https://www.rls-uk.org" class="external-link" target="_blank" rel="noopener noreferrer">www.rls-uk.org</a>                                                                                                                                       |
-
+| Organisation   | About                                                                                                                                                                                                             | Phone Number                                                                                                                                          | Website                                                                                                                                                                                                                                 |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NHS            | Offers compact information about restless legs syndrome, including its symptoms, causes, and treatment options to help manage discomfort and improve sleep.                                                       | --                                                                                                                                                    | <a href="https://www.nhs.uk/conditions/restless-legs-syndrome/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/conditions/restless-legs-syndrome/</a>                                               |
+| Parkinson’s UK | Explains restless legs syndrome, its connection to Parkinson’s, and offers advice on managing symptoms through lifestyle changes and medical support.<br><br>You can read it online, print it out or download it. | 808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/restless-legs-syndrome" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/restless-legs-syndrome</a> |
+| RLS UK         | A charity Supporting People with Restless Legs Syndrome & Periodic Limb Movement Disorder. It has lots of helpful information and details on different treatments.                                                | --                                                                                                                                                    | <a href="https://www.rls-uk.org" class="external-link" target="_blank" rel="noopener noreferrer">www.rls-uk.org</a>                                                                                                                     |
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

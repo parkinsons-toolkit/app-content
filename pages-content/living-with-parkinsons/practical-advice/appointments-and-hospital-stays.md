@@ -38,8 +38,6 @@ It is helpful to think about what you are expecting from the appointment. It is 
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gp-appointment.jpg" alt="appointment" class="example-class">
 
-
-
 ### What to bring?
 
 - Any medication you need to take during the time you will be at the appointment. Also some water to take them with.
@@ -97,7 +95,6 @@ An unplanned stay is due to an **Emergency Admission**. An example of this would
 
 Whichever way you go into hospital it is important for staff to know you have Parkinson’s. This is to make sure you have appropriate care throughout your hospital stay. Remember, the hospital has to follow your timetable for your medication, so you must let them know what times you take your medication.
 
-
 ### Preparation
 
 - If you know you are going to be admitted to hospital, discuss with your Parkinson’s specialist team in advance, if possible.
@@ -147,7 +144,6 @@ You will probably encounter lots of different professionals during your hospital
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/nurse.jpg" alt="nurse" class="example-class">
 
-
 ### Responsibilities you may still have outside hospital
 
 <div class="video-container">
@@ -170,8 +166,6 @@ Many people worry about things that they have left at home if they are admitted 
 
 See <a href="/learn/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a>, and <a href="/learn/living-with-parkinsons/practical-advice/hobbiess-and-pets" class="internal-link">_Hobbies & Pets_</a> for more guidance.
 
-
-
 ---
 
 ## Minimising Hospital Risks
@@ -187,8 +181,6 @@ See <a href="/learn/living-with-parkinsons/practical-advice/work-and-caring" cla
 </div>
 
 Unfortunately, complications do happen. The hospital is different to the place where you usually live and has different risks. Here are some suggestions to help reduce these risks.
-
-
 
 ### Medication
 
@@ -271,16 +263,13 @@ Managing medications around surgery can be complicated. This is particularly so 
 
 Some medications given in the hospital (for example medicines to reduce pain) can interact with the medications you take for your Parkinson’s. They can cause confusion, dizziness or nausea, for example. It is important to always let staff know if you don’t feel right in any way.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hospital-support.jpg" alt="hospital-tests" class="example-class">
-
 
 ---
 
 ## Hospital policies
 
 Local hospital policies widely vary, from parking charges through to visiting hours. Different ways of communicating information to friends and relatives are used in different hospitals. If you want more information about how something works in your hospital, ask a member or staff or try looking at the hospital website. There are however a few areas that are the same across the NHS that it may be helpful to know about.
-
 
 ### Single rooms and open wards
 

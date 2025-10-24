@@ -10,7 +10,6 @@
 </iframe>
 </div>
 
-
 Nausea can be described as feeling sick and can lead to vomiting.
 
 ---
@@ -37,7 +36,6 @@ If you experience only nausea, you could try some of the things below. If it doe
 
 ## What can I try for myself?
 
-
 <div class="video-container">
 <iframe
   width="560"
@@ -61,7 +59,6 @@ The following may help relieve nausea. If these do not help, there are medicines
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/ginger.jpg" alt="ginger" class="example-class">
 
-
 **Things to avoid:**
 
 - Do not eat strong-smelling food
@@ -75,8 +72,6 @@ The following may help relieve nausea. If these do not help, there are medicines
 Nausea can occur if you take medications on an empty stomach. Which is why for many medications the advice is to take them with meals. However, with Parkinson’s medications, some people find that it is less effective when taken with a main meal.
 
 If this is a problem for you, try taking your medication at least half an hour before your main meal. Also, with plenty of water and a small snack, such as a biscuit.
-
-
 
 ---
 
@@ -151,9 +146,8 @@ You may be referred on to another service, e.g. dietician or gastroenterologist.
 
 ## Useful Organisations & Contacts
 
-| Organisation           | About                                                                                                                | Phone Number | Website                                                                                                                                                                                                 |
-|------------------------|----------------------------------------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Organisation           | About                                                                                                              | Phone Number | Website                                                                                                                                                                                                                                                   |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Parkinson’s Foundation | Provides information about constipation as a non-movement symptom of Parkinson’s, including causes and management. | --           | <a href="https://www.parkinson.org/understanding-parkinsons/non-movement-symptoms/constipation" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinson.org/understanding-parkinsons/non-movement-symptoms/constipation</a> |
-
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

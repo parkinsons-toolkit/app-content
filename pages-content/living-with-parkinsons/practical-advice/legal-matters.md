@@ -10,9 +10,7 @@
 </iframe>
 </div>
 
-
 There are several legal arrangements that everyone should consider at some stage in their lives. It helps to put these in place as soon as possible. This may involve insurance, power of attorney, decisions about how they wish to be treated and making a will. This section will discuss these legal aspects in some detail. For information about employment please see the section <a href="/learn/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a>.
-
 
 ---
 
@@ -38,8 +36,6 @@ There are several steps for you to go through once you have received a diagnosis
 2. It may help to offer or to provide a relevant medical report. This allows the insurance company to have a better understanding of your situation. Your GP or specialist will be able to provide this report.
 3. Someone from the insurance company may want to talk with you. This may be to decide at what cost they are willing to provide insurance, or they may want you to change your policy or cancel it. You can contact Citizen’s Advice if you need help with insurance and legal matters. The Discrimination section below may be helpful if you feel that you are not being treated fairly by your insurance company due to your diagnosis of Parkinson’s.
 
-
-
 ---
 
 ## Powers of Attorney
@@ -53,7 +49,6 @@ This may be because you:
 - retain information given to you,
 - communicate your decision to others.
 
-  
 <div class="video-container">
 <iframe 
   width="560" 
@@ -68,7 +63,6 @@ Power of attorney provides someone that you trust with the legal power to make d
 
 This section will outline the different types of power of attorney and other common questions surrounding powers of attorney. The information relates to England and Wales (Mental Capacity Act 2005).
 
-
 ### Types of Power of Attorney
 
 - **Ordinary Power of Attorney** is for financial decisions only and is only valid if this is drawn up while you still have ability to make decisions. For example: Someone may still be able to manage their money. However, they would prefer a trusted person to make a decision if they were planning to be out of the country for some time – for example. Jane, for instance, is going back to Jamaica for a long holiday, she appoints her niece Donna to deal with a specific matter concerning her house sale while she is away. A solicitor will help with drawing up such a document giving Donna the power to sign relevant legal papers while her aunt is away.
@@ -79,8 +73,6 @@ This section will outline the different types of power of attorney and other com
   - Enduring Power of Attorney (EPA) was used before lasting power of attorney replaced it in October 2007. EPA cover finances. If you signed an EPA before 1st October 2007 then it should still be valid, but you may want to make a LPA to reflect other decisions.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/lady-on-computer.jpg" alt="computer" class="example-class">
-
-
 
 ### When should I consider this?
 
@@ -112,8 +104,6 @@ Deputyship is a similar role to someone who is an attorney. Similar to lasting p
 2. Deputyship requires an annual deputyship report to be sent to the Court of Protection. This is to make sure the person acting as deputy is acting in your best interests. This may offer a sense of protection for some.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/legal-advice.jpg" alt="legal-advice" class="example-class">
-
-
 
 ### What if I do not want to make a lasting power of attorney?
 
@@ -153,9 +143,7 @@ It is important to understand that it is your decision. You should not feel pres
 </iframe>
 </div>
 
-
 You can make a record of your wishes for how you would like to be treated in the future – for example if you can no longer tell anyone. This can be used in a situation in the future where you may not be able to decide for yourself. You can choose whether you would prefer a formal document that is signed and legally binding, or an informal non-legal document that outlines your preferences. These future wishes might cover health and care.
-
 
 ### Types of documentation to record future wishes
 
@@ -169,7 +157,6 @@ There are two main types of documentation to record future wishes. One is a **st
 - Important to Consider: statements of wishes are not legally binding. Whoever is making decisions should try to respect what you have said as best as possible. However, there may be times the decision will go against the statement. For example: you may have said you would like to stay at home, rather than go into a care home. However, it may become too difficult or unsafe for you to be cared for at home. Therefore, it may be in your best interests to move to a care home. You may say you would always prefer a bath rather than a shower. While that may not be possible always, it might help someone thinking about what to ask a care worker to help you with.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/advanced-decision.jpg" alt="advanced-decision" class="example-class">
-
 
 **Advance decision**
 
@@ -239,7 +226,6 @@ People affected by Parkinson’s describe their experiences.
 
 ## Wills
 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -249,7 +235,6 @@ People affected by Parkinson’s describe their experiences.
   allowfullscreen>
 </iframe>
 </div>
-
 
 Taking the time to make a will can make sure your property and money are given to the people you want and divided in the ways you want. Without making a will, the law will decide who gets what.
 
@@ -292,8 +277,6 @@ If you decide you would like to make your will, there are a number of steps:
 
 If you have a disability, such as Parkinson’s, you have rights that protect you from being wrongfully treated under the Equality Act 2010. This law helps to enforce and promote your rights to ensure you are not treated wrongfully based on your diagnosis of Parkinson’s.
 
-
-
 ### What should I do?
 
 If you feel that you have been wrongfully treated (e.g. by your employer, the police or any other organisation), you have a right to make a formal complaint:
@@ -307,20 +290,20 @@ If you feel that you have been wrongfully treated (e.g. by your employer, the po
 
 ## Useful Organisations & Contacts
 
-Please look at the bottom of the table for further information about call charges. 
+Please look at the bottom of the table for further information about call charges.
 
-| Organisation | About | Phone Number | Website |
-|--------------|-------|--------------|---------|
-| Age UK | Provides guidance on key legal matters for older people, including how to set up a Power of Attorney and ensure their affairs are managed according to their wishes.  | 0800 678 1602 <br><br> Free support and advice helpline (Open 8am- 7pm, 365 days a year) | Legal Issues: <a href="http://www.ageuk.org.uk/northern-ireland/information-advice/money-matters/legal-issues/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.ageuk.org.uk/northern-ireland/information-advice/money-matters/legal-issues/</a> <br><br> Power of Attorney: <a href="http://www.ageuk.org.uk/northern-ireland/information-advice/money-matters/legal-issues/power-of-attorney/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.ageuk.org.uk/northern-ireland/information-advice/money-matters/legal-issues/power-of-attorney/</a> |
-| Citizens Advice | This organisation provides advice for various issues. You can find a local Citizens Advice by entering your postcode into the search tool on their website, chat to an advisor online or call the phone line. | Adviceline (England): 0800 144 8848 <br> Advicelink (Wales): 0800 702 2020 <br><br> Calls to Adviceline are free from both mobiles and landlines. Through this national phone service, you can connect with an adviser who will link you to your local Citizens Advice. (Open 9am - 5pm, Monday-Friday) | <a href="https://www.citizensadvice.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">www.citizensadvice.org.uk/</a> |
-| GOV.UK | Court of Protection: Information and applying to become deputy if someone has lost ability to make their own decisions. <br><br> Office of the Public Guardian: Helps people in England and Wales to stay in control of decisions about their health and finance and make important decisions for others who cannot decide for themselves.  | Court of Protection: 0300 456 4600 <br><br> Office of the Public Guardian: 0300 456 0300 <br><br> Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.| Court of Protection: <a href="https://www.gov.uk/courts-tribunals/court-of-protection" class="external-link" target="_blank" rel="noopener noreferrer">https://www.gov.uk/courts-tribunals/court-of-protection</a> <br><br> Office of the Public Guardian: <a href="https://www.gov.uk/government/organisations/office-of-the-public-guardian" class="external-link" target="_blank" rel="noopener noreferrer">https://www.gov.uk/government/organisations/office-of-the-public-guardian</a> |
-| Equality Advisory & Support Service (EASS) | Helpline that advises people on issues relating to inequality and rights across England.  | 0808 800 0082 <br><br> EASS Free helpline (Open Monday to Friday, 9am-7pm, Saturday, 10am-2pm) | <a href="https://www.equalityadvisoryservice.com/" class="external-link" target="_blank" rel="noopener noreferrer">www.equalityadvisoryservice.com/</a> |
-| General Practice (GP) | Your local GP can provide advice on how best to word your statement of wishes or advance decision | -- | -- |
-| Hourglass | Charity that provides information and advice to older people who may be experiencing harm, abuse or exploitation.  | 0808 808 8141 <br><br> Free 247 Helpline| <a href="https://wearehourglass.org/" class="external-link" target="_blank" rel="noopener noreferrer">https://wearehourglass.org/</a> |
-| The Law Society | Find a Solicitor through an official database that lists solicitors. | -- | <a href="https://solicitors.lawsociety.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">solicitors.lawsociety.org.uk/</a> |
-| National Free Wills Network | Provides free Will writing services to the charities’ known supporters. | -- | <a href="https://www.nationalfreewills.net/" class="external-link" target="_blank" rel="noopener noreferrer">www.nationalfreewills.net/</a> |
-| Parkinson’s UK | This can provide information and advice on how to complete the power of attorney process and other matters. They also have links to free will services. <br><br> You can view this information online, print it or have it mailed to you. | 808 800 0303 <br><br> Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)  | Power of Attorney: <a href="https://www.parkinsons.org.uk/information-and-support/making-power-attorney" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/making-power-attorney</a> <br><br> Free Will Services: <a href="https://www.parkinsons.org.uk/get-involved/parkinsons-uk-free-will-services" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/get-involved/parkinsons-uk-free-will-services</a> |
+| Organisation                               | About                                                                                                                                                                                                                                                                                                                                      | Phone Number                                                                                                                                                                                                                                                                                            | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Age UK                                     | Provides guidance on key legal matters for older people, including how to set up a Power of Attorney and ensure their affairs are managed according to their wishes.                                                                                                                                                                       | 0800 678 1602 <br><br> Free support and advice helpline (Open 8am- 7pm, 365 days a year)                                                                                                                                                                                                                | Legal Issues: <a href="http://www.ageuk.org.uk/northern-ireland/information-advice/money-matters/legal-issues/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.ageuk.org.uk/northern-ireland/information-advice/money-matters/legal-issues/</a> <br><br> Power of Attorney: <a href="http://www.ageuk.org.uk/northern-ireland/information-advice/money-matters/legal-issues/power-of-attorney/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.ageuk.org.uk/northern-ireland/information-advice/money-matters/legal-issues/power-of-attorney/</a> |
+| Citizens Advice                            | This organisation provides advice for various issues. You can find a local Citizens Advice by entering your postcode into the search tool on their website, chat to an advisor online or call the phone line.                                                                                                                              | Adviceline (England): 0800 144 8848 <br> Advicelink (Wales): 0800 702 2020 <br><br> Calls to Adviceline are free from both mobiles and landlines. Through this national phone service, you can connect with an adviser who will link you to your local Citizens Advice. (Open 9am - 5pm, Monday-Friday) | <a href="https://www.citizensadvice.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">www.citizensadvice.org.uk/</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| GOV.UK                                     | Court of Protection: Information and applying to become deputy if someone has lost ability to make their own decisions. <br><br> Office of the Public Guardian: Helps people in England and Wales to stay in control of decisions about their health and finance and make important decisions for others who cannot decide for themselves. | Court of Protection: 0300 456 4600 <br><br> Office of the Public Guardian: 0300 456 0300 <br><br> Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.                                                | Court of Protection: <a href="https://www.gov.uk/courts-tribunals/court-of-protection" class="external-link" target="_blank" rel="noopener noreferrer">https://www.gov.uk/courts-tribunals/court-of-protection</a> <br><br> Office of the Public Guardian: <a href="https://www.gov.uk/government/organisations/office-of-the-public-guardian" class="external-link" target="_blank" rel="noopener noreferrer">https://www.gov.uk/government/organisations/office-of-the-public-guardian</a>                                                                                                              |
+| Equality Advisory & Support Service (EASS) | Helpline that advises people on issues relating to inequality and rights across England.                                                                                                                                                                                                                                                   | 0808 800 0082 <br><br> EASS Free helpline (Open Monday to Friday, 9am-7pm, Saturday, 10am-2pm)                                                                                                                                                                                                          | <a href="https://www.equalityadvisoryservice.com/" class="external-link" target="_blank" rel="noopener noreferrer">www.equalityadvisoryservice.com/</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| General Practice (GP)                      | Your local GP can provide advice on how best to word your statement of wishes or advance decision                                                                                                                                                                                                                                          | --                                                                                                                                                                                                                                                                                                      | --                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Hourglass                                  | Charity that provides information and advice to older people who may be experiencing harm, abuse or exploitation.                                                                                                                                                                                                                          | 0808 808 8141 <br><br> Free 247 Helpline                                                                                                                                                                                                                                                                | <a href="https://wearehourglass.org/" class="external-link" target="_blank" rel="noopener noreferrer">https://wearehourglass.org/</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| The Law Society                            | Find a Solicitor through an official database that lists solicitors.                                                                                                                                                                                                                                                                       | --                                                                                                                                                                                                                                                                                                      | <a href="https://solicitors.lawsociety.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">solicitors.lawsociety.org.uk/</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| National Free Wills Network                | Provides free Will writing services to the charities’ known supporters.                                                                                                                                                                                                                                                                    | --                                                                                                                                                                                                                                                                                                      | <a href="https://www.nationalfreewills.net/" class="external-link" target="_blank" rel="noopener noreferrer">www.nationalfreewills.net/</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Parkinson’s UK                             | This can provide information and advice on how to complete the power of attorney process and other matters. They also have links to free will services. <br><br> You can view this information online, print it or have it mailed to you.                                                                                                  | 808 800 0303 <br><br> Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)                                                                                                                                                  | Power of Attorney: <a href="https://www.parkinsons.org.uk/information-and-support/making-power-attorney" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/making-power-attorney</a> <br><br> Free Will Services: <a href="https://www.parkinsons.org.uk/get-involved/parkinsons-uk-free-will-services" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/get-involved/parkinsons-uk-free-will-services</a>                                                                                               |
 
-**Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.
+\*\*Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

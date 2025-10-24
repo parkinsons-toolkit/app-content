@@ -32,8 +32,6 @@ There are some tried and tested methods to do this. You could make changes to th
 
 All the tips and strategies here are things you could try for yourself. If you keep having problems, there are certain professionals who can help you: occupational therapists and physiotherapists. They will first want to have an assessment with you. They can then share more strategies and advice on equipment that may help you (discussed further below). Ask your GP or Parkinson’s team about a referral.
 
-
-
 ### Bathing & showering
 
 These can become more difficult, especially due to concerns over slipping and falling.
@@ -80,9 +78,7 @@ Reduced hand movements can affect fastenings, like buttons and zips.
 - Elastic shoelaces can be easier.
 - Try a long handled shoe horn to put shoes on.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dressing.jpg" alt="dressing" class="example-class">
-
 
 ### Using the toilet
 
@@ -128,9 +124,7 @@ There are a range of steps with regards to food and drink:
   - Special equipment has been developed for these difficulties – see below.
 - For difficulties in swallowing, please see the <a href="/learn/managing-symptoms/swallowing" class="internal-link">_Swallowing Difficulties_</a> symptom page.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/cultery.jpg" alt="cutlery-wider-handles" class="example-class">
-
 
 ---
 
@@ -158,9 +152,7 @@ Living with Parkinson’s can make daily activities and chores more difficult as
 - **Adapt your approach**
   - If energy or balance are significant concerns, try sitting down while doing tasks such as ironing, washing, and folding to reduce the risk of falls and amount of energy used.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/washing.jpg" alt="hanging-washing" class="example-class">
-
 
 ---
 
@@ -191,8 +183,6 @@ The world of equipment can be overwhelming, and costly. Some equipment may be pa
 
 _We strongly recommend you speak to an occupational therapist before buying equipment. They will assess your needs, talk about different strategies and recommend the equipment that is best for you. They can then guide you through how to get the equipment if this is needed._
 
-
-
 ### Equipment for Bathing & Showering
 
 - **Bath & shower seats** can help you get in and out of the bath with less risk of falling and to avoid others doing heavy lifting if you need help. They reduce problems with balance encountered when standing in the shower.
@@ -203,7 +193,6 @@ _We strongly recommend you speak to an occupational therapist before buying equi
 - The next step up from these equipment suggestions are more significant changes to your bathroom. See the <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for information about adaptations.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/shower-seat.jpg" alt="shower-seat" class="example-class">
-
 
 ---
 
@@ -231,7 +220,6 @@ People affected by Parkinson’s describe their experiences.
 - **Grab rails** – various types of rails can be installed to help you get on and off the toilet. See the <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for more details on home adaptations.
 
 Also see the <a href="/learn/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a> and <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> pages for more tips.
-
 
 ### Bed & Mattress Equipment
 
@@ -338,7 +326,6 @@ As well as usual off-the-shelf lidded cups, there are other specialised designs 
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/rail-from-housing.jpg" alt="grab-rails" class="example-class">
 
-
 ### Alarms and Security
 
 - There is a wide range of systems available to either attract attention or contact someone in case of emergency.
@@ -349,9 +336,7 @@ As well as usual off-the-shelf lidded cups, there are other specialised designs 
 - More information about these systems is available on the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> and the <a href="https://www.which.co.uk/later-life-care" class="external-link" target="_blank" rel="noopener noreferrer">Which? Later Life Care website</a>.
 - If falls are a concern, please also see the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/wrist-alarm.jpg" alt="wrist-alarm" class="example-class">
-
 
 ---
 
@@ -376,7 +361,6 @@ People affected by Parkinson’s describe their experiences:
 </iframe>
 </div>
 
-
 Standard equipment and smaller adaptations (for example, an additional stair rail or raised toilet seat) recommended by an occupational therapist are often provided free of charge. Some equipment does come with a charge. An Occupational Therapist can assess your needs and advise further.
 
 However, if you are buying your own equipment, here are a few tips:
@@ -389,7 +373,6 @@ However, if you are buying your own equipment, here are a few tips:
    - The same website offers guidance on suppliers and allows you to compare products. You can search “askSARA” on their website for more information.
 4. Make sure the _fit_ of the equipment is correct.
 5. Local pharmacies and disability shops sell equipment. Short term hire can be possible from local organisations, such as the Red Cross Society.
-
 
 ---
 
@@ -412,8 +395,6 @@ If daily tasks are particularly challenging, some people need assistance from a 
 
 There is also information on the <a href="/learn/living-with-parkinsons/for-family-and-carers" class="internal-link">_Guidance for Family & Carers_</a> page for people who are supporting someone they know.
 
-
-
 ---
 
 ## Home Help
@@ -429,7 +410,6 @@ For example:
 Details for all of these and for more information about Home Help can be found at the end of this section in the _More Information_ section.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/home-care.jpg" alt="home-care" class="example-class">
-
 
 ---
 
@@ -528,20 +508,20 @@ People affected by Parkinson’s describe their experiences:
 
 Please also see the <a href="/learn/further-support/services-and-groups" class="internal-link">_Services & Groups_</a> page for sources of support or our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
 
-Please look at the bottom of the table for further information about call charges. 
+Please look at the bottom of the table for further information about call charges.
 
-| Organisation                    | About                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Phone Number     | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Age UK                         | Provides information, advice, and services to support older people across the UK, promoting wellbeing, independence, and age-friendly communities. <br><br>Home Help: Different services are offered in different regions. You can enter your postcode into the Age UK website to see what is available locally.                                                                                                                                                                                                                            | 0800 678 1602 <br><br>Free support and advice helpline (Open 8am–7pm, 365 days a year)     | Age UK homepage: <a href="https://www.ageuk.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.ageuk.org.uk</a><br><br>Home Help: <a href="http://www.ageuk.org.uk/services/in-your-area/home-help/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.ageuk.org.uk/services/in-your-area/home-help/</a>                                                                                                                                                                                    |
-| Royal College of Occupational Therapists | Provides information about occupational therapy and helps users find private occupational therapists across the UK.<br><br>Most occupational therapists work for the NHS or local authorities, and their services are free of charge.                                                                                                                                                                                                                                        | 020 3141 4600** <br><br> (Open Monday to Friday, 9am–5pm). <br><br>  Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider. | <a href="https://www.rcot.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.rcot.co.uk</a>                                                                                                                                                                                                                                                                                                                                                                                 |
-| British Red Cross              | Information about how the British Red Cross can support people at home with short-term care, mobility aids, and practical help after a hospital stay or health crisis, offering Home Help services depending on the area.                                                                                                                    | 0344 871 11 11** <br><br> (Note: there are also local phone numbers available on the website). <br><br> Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.  | British Red Cross homepage: <a href="https://www.redcross.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.redcross.org.uk</a><br><br>Home Help: <a href="https://www.redcross.org.uk/get-help/get-support-at-home" class="external-link" target="_blank" rel="noopener noreferrer">www.redcross.org.uk/get-help/get-support-at-home</a>                                                                                                                                                           |
-| Royal Voluntary Service         | Royal Voluntary Service supports people through community-based help, including companionship, transport, practical assistance at home, and offers Home Help services depending on the area.                                                                                                                                                                                                                                                                                                                                                                                                | --               | <a href="https://www.royalvoluntaryservice.org.uk/our-services/supporting-people" class="external-link" target="_blank" rel="noopener noreferrer">www.royalvoluntaryservice.org.uk/our-services/supporting-people</a>                                                                                                                                                                                                                                                                                     |
-| Disabled Living Foundation      | Disabled Living Foundation offers impartial information and downloadable factsheets to help people choose daily living equipment and mobility aids.                                                                                                                                      | 0300 999 0004* <br><br>Helpline (Open 9am - 5pm, Monday-Friday). <br><br> Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider. <br><br>Search ‘AskSARA’ to find suitable equipment and suppliers.         | <a href="https://www.dlf.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.dlf.org.uk</a>                                                                                                                                                                                                                                                                                                                                                                                 |
-| Parkinson’s UK                | Guidance on daily living equipment that can help people with Parkinson’s manage everyday tasks more safely and independently. <br><br>You can read this information online, print it or have it mailed to you.                                                                                                                                                                        | 0808 800 0303  <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm).    | <a href="https://www.parkinsons.org.uk/information-and-support/daily-living-equipment" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/daily-living-equipment</a>                                                                                                                                                                                                                               |
-| Elderly Accommodation Counsel  | Charity offering advice and support for older people, helping them find housing options and support services tailored to their needs across the UK. <br><br>They have a separate website which acts as a directory of housing and care service.                                                                                                                                                                                                                                                                                                  | --               | <a href="http://www.eac.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.eac.org.uk/</a><br><br>Directory of Housing and Care Service: <a href="https://www.housingcare.org/" class="external-link" target="_blank" rel="noopener noreferrer">www.housingcare.org</a>                                                                                                                                                                        |
+| Organisation                             | About                                                                                                                                                                                                                                                                                                            | Phone Number                                                                                                                                                                                                                                                                                         | Website                                                                                                                                                                                                                                                                                                                                                             |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Age UK                                   | Provides information, advice, and services to support older people across the UK, promoting wellbeing, independence, and age-friendly communities. <br><br>Home Help: Different services are offered in different regions. You can enter your postcode into the Age UK website to see what is available locally. | 0800 678 1602 <br><br>Free support and advice helpline (Open 8am–7pm, 365 days a year)                                                                                                                                                                                                               | Age UK homepage: <a href="https://www.ageuk.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.ageuk.org.uk</a><br><br>Home Help: <a href="http://www.ageuk.org.uk/services/in-your-area/home-help/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.ageuk.org.uk/services/in-your-area/home-help/</a>          |
+| Royal College of Occupational Therapists | Provides information about occupational therapy and helps users find private occupational therapists across the UK.<br><br>Most occupational therapists work for the NHS or local authorities, and their services are free of charge.                                                                            | 020 3141 4600\*\* <br><br> (Open Monday to Friday, 9am–5pm). <br><br> Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.                                                                         | <a href="https://www.rcot.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.rcot.co.uk</a>                                                                                                                                                                                                                                                 |
+| British Red Cross                        | Information about how the British Red Cross can support people at home with short-term care, mobility aids, and practical help after a hospital stay or health crisis, offering Home Help services depending on the area.                                                                                        | 0344 871 11 11\*\* <br><br> (Note: there are also local phone numbers available on the website). <br><br> Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.                                     | British Red Cross homepage: <a href="https://www.redcross.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.redcross.org.uk</a><br><br>Home Help: <a href="https://www.redcross.org.uk/get-help/get-support-at-home" class="external-link" target="_blank" rel="noopener noreferrer">www.redcross.org.uk/get-help/get-support-at-home</a> |
+| Royal Voluntary Service                  | Royal Voluntary Service supports people through community-based help, including companionship, transport, practical assistance at home, and offers Home Help services depending on the area.                                                                                                                     | --                                                                                                                                                                                                                                                                                                   | <a href="https://www.royalvoluntaryservice.org.uk/our-services/supporting-people" class="external-link" target="_blank" rel="noopener noreferrer">www.royalvoluntaryservice.org.uk/our-services/supporting-people</a>                                                                                                                                               |
+| Disabled Living Foundation               | Disabled Living Foundation offers impartial information and downloadable factsheets to help people choose daily living equipment and mobility aids.                                                                                                                                                              | 0300 999 0004\* <br><br>Helpline (Open 9am - 5pm, Monday-Friday). <br><br> Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider. <br><br>Search ‘AskSARA’ to find suitable equipment and suppliers. | <a href="https://www.dlf.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.dlf.org.uk</a>                                                                                                                                                                                                                                                 |
+| Parkinson’s UK                           | Guidance on daily living equipment that can help people with Parkinson’s manage everyday tasks more safely and independently. <br><br>You can read this information online, print it or have it mailed to you.                                                                                                   | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm).                                                                                                                                              | <a href="https://www.parkinsons.org.uk/information-and-support/daily-living-equipment" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/daily-living-equipment</a>                                                                                                                                     |
+| Elderly Accommodation Counsel            | Charity offering advice and support for older people, helping them find housing options and support services tailored to their needs across the UK. <br><br>They have a separate website which acts as a directory of housing and care service.                                                                  | --                                                                                                                                                                                                                                                                                                   | <a href="http://www.eac.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.eac.org.uk/</a><br><br>Directory of Housing and Care Service: <a href="https://www.housingcare.org/" class="external-link" target="_blank" rel="noopener noreferrer">www.housingcare.org</a>                                                            |
 
-*Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.
+\*Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-**Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
+\*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

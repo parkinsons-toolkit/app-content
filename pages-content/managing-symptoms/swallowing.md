@@ -33,7 +33,6 @@ Swallowing difficulties in Parkinson’s tends to happen gradually. Sudden probl
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/swallowing.jpg" alt="swallowing" class="example-class">
 
-
 ---
 
 ## What should I do about it?
@@ -55,7 +54,6 @@ If you have new weakness in your face, you should consult your GP. Very sudden w
   allowfullscreen>
 </iframe>
 </div>
-
 
 ### Planning ahead
 
@@ -101,7 +99,6 @@ _Tip: Swallowing - When swallowing food or drink, following the process below st
 6. Try licking round the mouth with your tongue to check all the food has gone.
 7. Repeat steps until you are finished eating or drinking.
 
-
 ---
 
 ## My Experience
@@ -115,7 +112,6 @@ People affected by Parkinson’s describe their experiences.
 ---
 
 ## Further Assessment
-
 
 <div class="video-container">
 <iframe
@@ -148,7 +144,6 @@ _**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">
 
 - Most cases do not need further tests.
 - In other cases, depending on their assessment, your healthcare professional may recommend tests such as a blood test or camera test to look at your food pipe (this is called an endoscopy).
-
 
 ---
 
@@ -185,11 +180,10 @@ If you are having significant and progressive difficulties swallowing, there is 
 
 ## MUseful Organisations & Contacts
 
-| Organisation           | About                                                                                                                                                                                                                                                | Phone Number     | Website                                                                                                                                                                                                                                                   |
-|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NHS                    | The NHS offers compact advice on swallowing problems and discusses when to see the GP.                                                                                                                         | --               | <a href="https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/</a>                                                     |
-| Parkinson’s Foundation | This American organisation has in-depth information about swallowing and Parkinson’s, discussing symptoms and treatments.                                                                                      | --               | <a href="http://www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Speech-and-Swallowing-Problems" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Speech-and-Swallowing-Problems</a> |
-| Parkinson’s UK         | Provides advice on managing eating, swallowing difficulties, and saliva control, with tips on staying safe, comfortable, and well-nourished.<br><br>You can read this information online, print it or have it mailed to you. | 808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)     | <a href="https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-managing-saliva" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-managing-saliva</a> |
-
+| Organisation           | About                                                                                                                                                                                                                        | Phone Number                                                                                                                                          | Website                                                                                                                                                                                                                                                                                                       |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NHS                    | The NHS offers compact advice on swallowing problems and discusses when to see the GP.                                                                                                                                       | --                                                                                                                                                    | <a href="https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/</a>                                                                                                           |
+| Parkinson’s Foundation | This American organisation has in-depth information about swallowing and Parkinson’s, discussing symptoms and treatments.                                                                                                    | --                                                                                                                                                    | <a href="http://www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Speech-and-Swallowing-Problems" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Speech-and-Swallowing-Problems</a> |
+| Parkinson’s UK         | Provides advice on managing eating, swallowing difficulties, and saliva control, with tips on staying safe, comfortable, and well-nourished.<br><br>You can read this information online, print it or have it mailed to you. | 808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-managing-saliva" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-managing-saliva</a>                                         |
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

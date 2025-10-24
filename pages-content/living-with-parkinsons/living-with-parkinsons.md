@@ -36,30 +36,33 @@ In this _Living with Parkinson's_ section, you will find information on a variet
 - _**Planning and Future Care**_ guides you through planning for the future, a process that often involves conversations with you, your family and healthcare professionals. Thinking about the future can be scary, but one way of dealing with the fear is to take control and plan for it. Everyone gets older. Anyone can become seriously ill. The uncertainty of those situations can be less frightening if you have prepared for them in advance.
 
   **“Good Housekeeping”**
+
   - Consider and convey your wishes
   - Write a will
   - Appoint a Lasting Power of Attorney
-  - Organise your documents 
- 
-  The practical aspects of these topics are discussed in the Practical Advice section under <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a>. Here we provide guidance on _**things to consider for the future**_. There are a lot of reasons why people find themselves unable to make or share their decisions. In such cases those around them have to take decisions on their behalf. Whether you have Parkinson’s or not, recording your future wishes is a way to make sure they can be considered when decisions about your care are made. Thinking ahead, and sharing your thoughts and wishes with family, friends and care professionals can help make sure decisions are based on your personal wishes. 
- 
-  Part of planning for your future may include considering ‘palliative’ and ‘end-of-life’ care options. 
- 
+  - Organise your documents
+
+  The practical aspects of these topics are discussed in the Practical Advice section under <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a>. Here we provide guidance on _**things to consider for the future**_. There are a lot of reasons why people find themselves unable to make or share their decisions. In such cases those around them have to take decisions on their behalf. Whether you have Parkinson’s or not, recording your future wishes is a way to make sure they can be considered when decisions about your care are made. Thinking ahead, and sharing your thoughts and wishes with family, friends and care professionals can help make sure decisions are based on your personal wishes.
+
+  Part of planning for your future may include considering ‘palliative’ and ‘end-of-life’ care options.
+
   **What is palliative care?**
   Palliative care is treatment, care and support for people with a life-limiting illness. The aim of palliative care is to help you to have a good quality of life – this includes being as well and active as possible. It can involve:
+
   - managing physical symptoms such as pain
   - emotional, spiritual and psychological support
   - social care, including help with things like washing, dressing or eating
-  - support for your family and friends. 
- 
-  A life-limiting illness is an illness that cannot be cured. You can receive palliative care at any stage in your illness. Having palliative care does not necessarily mean that you’re likely to die soon – some people receive palliative care for years. You can also have palliative care alongside treatments, therapies and medicines aimed at controlling your illness. 
- 
+  - support for your family and friends.
+
+  A life-limiting illness is an illness that cannot be cured. You can receive palliative care at any stage in your illness. Having palliative care does not necessarily mean that you’re likely to die soon – some people receive palliative care for years. You can also have palliative care alongside treatments, therapies and medicines aimed at controlling your illness.
+
   **What is end of life care?**
-  End of life care involves treatment, care and support for people who are nearing the end of their life. It is an important part of palliative care. It is for people who are thought to be in the last year of life, but this timeframe can be difficult to predict. Some people might only receive end of life care in their last weeks or days. 
+  End of life care involves treatment, care and support for people who are nearing the end of their life. It is an important part of palliative care. It is for people who are thought to be in the last year of life, but this timeframe can be difficult to predict. Some people might only receive end of life care in their last weeks or days.
 
   This section has broken this information down into 3 key topics:
+
   1. <a href="/learn/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">_Progression of Symptoms_</a> - things that **might** happen in more advanced Parkinson’s, though everyone is different and the symptoms are not certain to happen.
   2. <a href="/learn/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_Future Care Options_</a> – thinking about your future care and decision making, including Lasting Power of Attorney (LPA) and Advanced Care Planning.
   3. <a href="/learn/living-with-parkinsons/planning-and-future-care/end-of-life" class="internal-link">_End of Life Planning_</a> – things you might want to think about to ensure your wishes are respected at the end of your life.
-    
+
 - <a href="/learn/living-with-parkinsons/for-family-and-carers" class="internal-link">_Guidance for Families and Carers_</a> This section offers support for your family and caregivers, with resources on managing stress, anxiety, low mood, uncertainty, guilt, loss and changing relationships. It also discusses coping with changes, planning for the future and accepting help.

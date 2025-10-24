@@ -14,7 +14,6 @@ As well as managing Parkinson’s, there are general medical recommendations to 
 </iframe>
 </div>
 
-
 Vaccinations are medications designed to prevent infections. Vaccination schedules change over time according to the latest scientific research. At present (July 2020), the recommendations for adults with Parkinson’s are:
 
 - **Flu:** Annual influenza vaccination for all people with Parkinson’s (this is universally recommended for those aged 65 years and over). The annual influenza vaccination should be considered for household members and those who care for people with Parkinson’s.
@@ -22,7 +21,6 @@ Vaccinations are medications designed to prevent infections. Vaccination schedul
 - **Shingles:** One-off vaccination when you are 70 years old.
 
 These are all delivered as injections, usually into the arm. You should have vaccines if you are allergic to the ingredients or are ill at the time. More information can be found on the NHS website, under ‘Vaccinations’.
-
 
 ---
 
@@ -45,12 +43,9 @@ Your heart pushes blood around the body through a network of blood vessels, simi
 - The first or top number is known as **systolic blood pressure**. This is the pressure as the heart is pushing, i.e. the force of that push.
 - The second or bottom number is known as **diastolic blood pressure**. This is the pressure as the heart relaxes between pushes and the blood is flowing, i.e. the resistance in the pipes themselves.
 
-
 Many factors affect blood pressure. It varies between people and is constantly changing in any one person. This makes it difficult to define “normal” blood pressure. Parkinson’s, as well as medication used for Parkinson’s, can both cause a lower or variable blood pressure. But getting older and many lifestyle factors can cause a higher blood pressure.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blood-pressure.jpg" alt="blood-pressure" class="example-class">
-
 
 ### High blood pressure
 
@@ -75,7 +70,6 @@ Many factors affect blood pressure. It varies between people and is constantly c
 Low blood pressure does not always require treatment but may do if you are experiencing symptoms. See the <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page for more information. Treatment of any other cause, like infection, is also important.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blood-pressure-machine.jpg" alt="blood-pressure-machine" class="example-class">
-
 
 ### Parkinson’s and blood pressure
 
@@ -108,15 +102,13 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
 </iframe>
 </div>
 
-  - You can buy these from the chemist. If you do not need to take calcium tablets as well, you can buy these as Vitamin D3. We would normally recommend taking a daily dose of 20 or 25 micrograms (μg) which is equivalent to 800 or 1000 units a day (unless your doctor has recommended a different dose). If you are not sure on what dose to take, or if you should take calcium as well, discuss this with your GP.
-  - If you are particularly at risk, your GP may do a blood test to check your vitamin D level. If they are low, you may need a higher dose of vitamin D to bring your levels back up to normal.
+- You can buy these from the chemist. If you do not need to take calcium tablets as well, you can buy these as Vitamin D3. We would normally recommend taking a daily dose of 20 or 25 micrograms (μg) which is equivalent to 800 or 1000 units a day (unless your doctor has recommended a different dose). If you are not sure on what dose to take, or if you should take calcium as well, discuss this with your GP.
+- If you are particularly at risk, your GP may do a blood test to check your vitamin D level. If they are low, you may need a higher dose of vitamin D to bring your levels back up to normal.
 - As people get older, in particular women, their bones can become less dense and more brittle. If this is higher than expected for your age, you may be diagnosed with Osteoporosis. If your bones are thinner, this makes them more likely to fracture from low impact injuries (e.g. breaking your wrist after falling).
 - If you have sustained a broken bone from a low impact injury, your GP should assess your bone health.
   - They will take into account your height, weight and risk factors (e.g. smoking).
   - Depending on the outcome of this assessment, they may want to do blood tests and/or a bone scan (called a DXA scan).
 - There are medications that can help to strengthen bones if they are found to be low density. They may also prescribe combined calcium and vitamin D3 tablets.
-
-
 
 ---
 
@@ -158,7 +150,6 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
 
 ### Vision
 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -181,7 +172,6 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
   - Protect your eyes from the sun (i.e. wear sunglasses)
   - When using computer or phone screens, try to blink regularly and give your eyes breaks. You could do this by looking out of the window for a few minutes. People with Parkinson’s often blink less without realising so may need to make more of a conscious effort to blink.
 
-
 ### Hearing
 
 <div class="video-container">
@@ -194,7 +184,6 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
 </iframe>
 </div>
 
-
 - You will need a hearing test if you, or someone close to you, notices that your hearing has got worse.
 - At present, hearing tests are provided on the NHS if you notice a problem with your hearing. You can access it by seeing your GP who can refer you to a hearing specialist, though this can take some time.
 - Some large pharmacies or opticians offer hearing tests. This might be free or you may need to pay. You will need to speak with the pharmacy or opticians for more information on this.
@@ -203,9 +192,7 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hearing.jpg" alt="hearing-aid" class="example-class">
 
-
 More information about healthcare costs is on our <a href="/learn/living-with-parkinsons/practical-advice-finances" class="internal-link">_Finances_</a> page. For more information about sight and hearing problems, see our <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page.
-
 
 ---
 
@@ -234,8 +221,6 @@ Foot problems can be painful and can affect your walking and balance. Taking car
 - Apply caution in communal areas: shared showers (e.g. at the gym) and swimming pool areas are associated with foot infections.
 - If you notice a problem with your feet, such as an infection, get it treated promptly so it does not develop complications. Some treatments are available from the pharmacy, or you can see your GP or practice nurse. In some cases, you will be referred to a foot specialist, known as a podiatrist.
 
-
-
 ---
 
 ## Dental Care
@@ -259,12 +244,9 @@ Taking care of your teeth is really important as poor dental health can lead to 
 - Have regular check-ups with your dentist. Dental checks are provided by the NHS for a fee, unless you are on a low income. See the <a href="https://www.nhs.uk/nhs-services/dentists/who-can-get-free-nhs-dental-treatment/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> for more information on who qualifies for free NHS dental care. The frequency of check-up depends on the health of your teeth and gums. Your dentist can advise on this.
 - Don’t delay treatments if you have a problem. Many dental treatments are available on the NHS, but most will require a contribution to the cost which can vary in amount depending on the treatment needed. People in receipt of certain financial benefits are entitled to free NHS dental treatment.
 
-
-
 ---
 
 ## Bowel Care
-
 
 <div class="video-container">
 <iframe 
@@ -283,7 +265,6 @@ Key ways to avoid constipation:
 - Eat plenty of fibre
 - Drink plenty of water
 - Be active
-
 
 ---
 
@@ -307,15 +288,13 @@ Key ways to avoid constipation:
 - Some sun exposure is good and helps your body maintain vitamin D levels. However excessive sun exposure increases the risk of skin damage and skin cancer. See the NHS website <a href="https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> for some tips on safe sun exposure.
 - See our <a href="/learn/managing-symptoms/skin-conditions" class="internal-link">_Skin Conditions_</a> page for more information on this.
 
-
-
 ---
 
 ## Useful Organisations & Contacts
 
-| Organisation    | About                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Phone Number  | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NHS             | The NHS Live Well pages offer NHS advice about healthy living, including guidance on eating a balanced diet, maintaining a healthy weight, staying active, high blood pressure, quitting smoking, and drinking less alcohol. There is also information and advice about looking after your teeth and gums and specific seasonal health advice.                                                                                                                                                                                                                          | --            | <a href="https://www.nhs.uk/live-well/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/live-well/</a>                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Parkinson’s UK  | Parkinson’s UK’s ‘information and support pages’ cover wide-ranging information and support resources for people affected by Parkinson’s, including guidance on symptoms, care, lifestyle, and services. These include topics such as skin problems, foot care, eye problems, low blood pressure, dental issues and bowel care. You can read this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)| Information and support homepage: <a href="https://www.parkinsons.org.uk/information-and-support" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support</a><br><br>Skin and sweating problems: <a href="http://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems</a><br><br>Foot Care: <a href="http://www.parkinsons.org.uk/information-and-support/foot-care" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinsons.org.uk/information-and-support/foot-care</a><br><br>Eye Problems: <a href="https://www.parkinsons.org.uk/information-and-support/eye-problems" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/eye-problems</a><br><br>Low Blood Pressure: <a href="https://www.parkinsons.org.uk/information-and-support/low-blood-pressure" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/low-blood-pressure</a><br><br>Bowel Problems: <a href="https://www.parkinsons.org.uk/information-and-support/bladder-and-bowel-problems" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/bladder-and-bowel-problems</a> |
+| Organisation   | About                                                                                                                                                                                                                                                                                                                                                                                                    | Phone Number                                                                                                                                           | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NHS            | The NHS Live Well pages offer NHS advice about healthy living, including guidance on eating a balanced diet, maintaining a healthy weight, staying active, high blood pressure, quitting smoking, and drinking less alcohol. There is also information and advice about looking after your teeth and gums and specific seasonal health advice.                                                           | --                                                                                                                                                     | <a href="https://www.nhs.uk/live-well/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/live-well/</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Parkinson’s UK | Parkinson’s UK’s ‘information and support pages’ cover wide-ranging information and support resources for people affected by Parkinson’s, including guidance on symptoms, care, lifestyle, and services. These include topics such as skin problems, foot care, eye problems, low blood pressure, dental issues and bowel care. You can read this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | Information and support homepage: <a href="https://www.parkinsons.org.uk/information-and-support" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support</a><br><br>Skin and sweating problems: <a href="http://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems</a><br><br>Foot Care: <a href="http://www.parkinsons.org.uk/information-and-support/foot-care" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinsons.org.uk/information-and-support/foot-care</a><br><br>Eye Problems: <a href="https://www.parkinsons.org.uk/information-and-support/eye-problems" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/eye-problems</a><br><br>Low Blood Pressure: <a href="https://www.parkinsons.org.uk/information-and-support/low-blood-pressure" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/low-blood-pressure</a><br><br>Bowel Problems: <a href="https://www.parkinsons.org.uk/information-and-support/bladder-and-bowel-problems" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/bladder-and-bowel-problems</a> |
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

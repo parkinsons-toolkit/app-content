@@ -32,8 +32,6 @@ Note a _nutritionist_ is not the same as a _dietitian_ (though some nutritionist
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/doctors.jpg" alt="doctors" class="example-class">
 
-
-
 ### Healthcare Assistants (HCAs)
 
 Also known as _nursing assistants_, _nursing auxiliaries_ or _auxiliary nurses_.
@@ -78,7 +76,6 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
 
 ### Occupational Therapists (OTs)
 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -95,7 +92,6 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
   - Teaching problem solving and adaptive strategies.
   - Advising on equipment for dealing with difficulties.
 - OTs can undergo further training to become an ‘Advanced Clinical Practitioner’.
-
 
 ### Parkinson’s Practitioner
 
@@ -119,7 +115,6 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/pharmacist.jpg" alt="pharmacist" class="example-class">
 
-
 ### Physiotherapists
 
 Also known as _Physical Therapists_
@@ -142,8 +137,6 @@ Also known as _Physical Therapists_
   - They can give treatments. This could be exercises and movements, or movement strategies that are tailored to you.
   - They can also use manual therapy, equipment and specialist techniques.
 - They can undergo further training to become an ‘Advanced Clinical Practitioner’.
-
-
 
 ### Psychologists
 
@@ -173,7 +166,6 @@ Note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, th
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/social-worker-ppe.jpg" alt="social-worker" class="example-class">
 
-
 ### Speech & Language Therapists (SLTs)
 
 <div class="video-container">
@@ -193,8 +185,6 @@ Note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, th
   - Give treatment and teach strategies to deal with this
   - Give advice on equipment or interventions that might be needed.
 - They can undergo further training to become an ‘Advanced Clinical Practitioner’.
-
-
 
 ### Therapy Assistants
 
@@ -216,8 +206,6 @@ Also known as _Therapy Support Workers_ or _Rehabilitation Assistants_
   - Work on exercises with people.
   - Help people use aids and equipment.
   - Weigh people or help to record food intake.
-
-
 
 ---
 
@@ -302,32 +290,33 @@ In the UK, there is a split between **_Healthcare_** (National Health Service, N
   - Some professionals work across both NHS and private services whereas others just work in one.
 - More information is available on the NHS website.
 
-
 ### Private Social Care
 
 As indicated above, social care is not necessarily provided as a free public service. To request a Needs Assessment, Contact your local council Adult Social Care department. If care is recommended, they will conduct a Financial Assessment. This determines if the council will contribute to the cost or not.
 
-**Home Help:** 
+**Home Help:**
 
 ‘Home Help’ refers to support for domestic tasks such as laundry, washing up and cleaning. This is not usually provided by local councils, though they may be able to recommend local providers. Many charities offer these services, some have a charge.
 
-**Home Care:** 
+**Home Care:**
 
-‘Home Care’ refers to support for personal tasks such as showering, dressing and preparing meals. 
+‘Home Care’ refers to support for personal tasks such as showering, dressing and preparing meals.
 The options for arranging this:
+
 - If the council are contributing (following financial assessment), they can arrange Home Care for you.
 - If the council are contributing (following financial assessment), you can request ‘direct payment’ of your personal budget and arrange the Home Care yourself.
 - If the council are not contributing (following financial assessment), you will need to arrange Home Care yourself, with support from the council.
 - You can choose to arrange your own Home Care without contacting the council.
 
 Home Care workers can either be:
-- **Through a Home Care Agency:** Agencies arrange for trained carers to visit you in your home, but it may not always be the same carer. The agency holds responsibility as the employer of the carer. The agency must be registered with the Care Quality Commission (CQC). 
-_Or_ 
-- **Directly employed by you:** This way you know who you are getting, but you have legal responsibility as an employer. You will need to plan for the Home Care Worker’s holiday and sickness. Note employer responsibility is yours if you directly employ the carer, even if you receive financial support from the council. Note individual Home Care Workers do not have to be registered with a regulatory body. 
 
-See the <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page to see advice on how to find Home Care workers. 
- 
-See the <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page to see more about responsibilities as an employer. 
+- **Through a Home Care Agency:** Agencies arrange for trained carers to visit you in your home, but it may not always be the same carer. The agency holds responsibility as the employer of the carer. The agency must be registered with the Care Quality Commission (CQC).
+  _Or_
+- **Directly employed by you:** This way you know who you are getting, but you have legal responsibility as an employer. You will need to plan for the Home Care Worker’s holiday and sickness. Note employer responsibility is yours if you directly employ the carer, even if you receive financial support from the council. Note individual Home Care Workers do not have to be registered with a regulatory body.
+
+See the <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page to see advice on how to find Home Care workers.
+
+See the <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page to see more about responsibilities as an employer.
 
 ---
 
@@ -347,21 +336,20 @@ See the <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" c
 
 ## Useful Organisations & Contacts
 
-Please look at the bottom of the table for further information about call charges. 
+Please look at the bottom of the table for further information about call charges.
 
-| Organisation | About | Phone Number | Website |
-|-------------|-------|--------------|---------|
-| Care Quality Commission (CQC) | The CQC is an independent organisation that inspects and regulates health and social care services. They publish ratings for each service which can be found on their website and can help you decide which home care services you may want to use. | -- | <a href="https://www.cqc.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.cqc.org.uk</a> |
-| General Medical Council | Provides information on how doctors in the UK are regulated, including guidance on professional standards, registration, licensing, and patient safety. | -- | <a href="https://www.gmc-uk.org" class="external-link" target="_blank" rel="noopener noreferrer">www.gmc-uk.org</a> |
-| General Pharmaceutical Council | Provides information on how pharmacists and pharmacy technicians in Great Britain are regulated, including standards for education, practice, and public safety. | -- | <a href="https://www.pharmacyregulation.org" class="external-link" target="_blank" rel="noopener noreferrer">www.pharmacyregulation.org</a> |
-| GOV.UK | You can use the government website to find your local council by entering your postcard into the designated search function. | -- | <a href="https://www.gov.uk/find-local-council" class="external-link" target="_blank" rel="noopener noreferrer">www.gov.uk/find-local-council</a> |
-| NHS | These NHS pages explain how to access a wide range of NHS services and provide guidance on arranging paid home care support, including what to expect and how to get help. | -- | NHS Services: <a href="https://www.nhs.uk/nhs-services/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/nhs-services/</a><br><br>Help at home from a paid carer: <a href="https://www.nhs.uk/social-care-and-support/care-services-equipment-and-care-homes/homecare/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/social-care-and-support/care-services-equipment-and-care-homes/homecare/</a> |
-| Professional Standards Authority for Health and Social Care | Provides oversight of health and social care regulators in the UK, promoting patient safety and public confidence through standards, accreditation, and accountability. | 020 7389 8030** <br><br>Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider. | <a href="https://www.professionalstandards.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">www.professionalstandards.org.uk/</a> |
-| Social Work England | Provides information on the regulation of social workers in England, including professional standards, registration, education, and public protection.<br><br>Registration and advice (Open 9am-5pm Monday, Wednesday, Thursday and Friday, 10am-5pm Tuesday) | 0114 349 4308** <br><br>Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.| <a href="https://www.socialworkengland.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">www.socialworkengland.org.uk/</a> |
-| Health and Care Professions Council | Provides information on the regulation of health and care professionals in the UK, including registration, standards, and fitness to practise. | -- | <a href="https://www.hcpc-uk.org" class="external-link" target="_blank" rel="noopener noreferrer">www.hcpc-uk.org</a> |
-| The Nursing and Midwifery Council | Provides information on the regulation of nurses and midwives in the UK, including professional standards, registration, education, and public protection. | -- | <a href="https://www.nmc.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">www.nmc.org.uk/</a> |
+| Organisation                                                | About                                                                                                                                                                                                                                                         | Phone Number                                                                                                                                                                     | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Care Quality Commission (CQC)                               | The CQC is an independent organisation that inspects and regulates health and social care services. They publish ratings for each service which can be found on their website and can help you decide which home care services you may want to use.           | --                                                                                                                                                                               | <a href="https://www.cqc.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.cqc.org.uk</a>                                                                                                                                                                                                                                                                                                                                                        |
+| General Medical Council                                     | Provides information on how doctors in the UK are regulated, including guidance on professional standards, registration, licensing, and patient safety.                                                                                                       | --                                                                                                                                                                               | <a href="https://www.gmc-uk.org" class="external-link" target="_blank" rel="noopener noreferrer">www.gmc-uk.org</a>                                                                                                                                                                                                                                                                                                                                                        |
+| General Pharmaceutical Council                              | Provides information on how pharmacists and pharmacy technicians in Great Britain are regulated, including standards for education, practice, and public safety.                                                                                              | --                                                                                                                                                                               | <a href="https://www.pharmacyregulation.org" class="external-link" target="_blank" rel="noopener noreferrer">www.pharmacyregulation.org</a>                                                                                                                                                                                                                                                                                                                                |
+| GOV.UK                                                      | You can use the government website to find your local council by entering your postcard into the designated search function.                                                                                                                                  | --                                                                                                                                                                               | <a href="https://www.gov.uk/find-local-council" class="external-link" target="_blank" rel="noopener noreferrer">www.gov.uk/find-local-council</a>                                                                                                                                                                                                                                                                                                                          |
+| NHS                                                         | These NHS pages explain how to access a wide range of NHS services and provide guidance on arranging paid home care support, including what to expect and how to get help.                                                                                    | --                                                                                                                                                                               | NHS Services: <a href="https://www.nhs.uk/nhs-services/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/nhs-services/</a><br><br>Help at home from a paid carer: <a href="https://www.nhs.uk/social-care-and-support/care-services-equipment-and-care-homes/homecare/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/social-care-and-support/care-services-equipment-and-care-homes/homecare/</a> |
+| Professional Standards Authority for Health and Social Care | Provides oversight of health and social care regulators in the UK, promoting patient safety and public confidence through standards, accreditation, and accountability.                                                                                       | 020 7389 8030\*\* <br><br>Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider. | <a href="https://www.professionalstandards.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">www.professionalstandards.org.uk/</a>                                                                                                                                                                                                                                                                                                                  |
+| Social Work England                                         | Provides information on the regulation of social workers in England, including professional standards, registration, education, and public protection.<br><br>Registration and advice (Open 9am-5pm Monday, Wednesday, Thursday and Friday, 10am-5pm Tuesday) | 0114 349 4308\*\* <br><br>Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider. | <a href="https://www.socialworkengland.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">www.socialworkengland.org.uk/</a>                                                                                                                                                                                                                                                                                                                          |
+| Health and Care Professions Council                         | Provides information on the regulation of health and care professionals in the UK, including registration, standards, and fitness to practise.                                                                                                                | --                                                                                                                                                                               | <a href="https://www.hcpc-uk.org" class="external-link" target="_blank" rel="noopener noreferrer">www.hcpc-uk.org</a>                                                                                                                                                                                                                                                                                                                                                      |
+| The Nursing and Midwifery Council                           | Provides information on the regulation of nurses and midwives in the UK, including professional standards, registration, education, and public protection.                                                                                                    | --                                                                                                                                                                               | <a href="https://www.nmc.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">www.nmc.org.uk/</a>                                                                                                                                                                                                                                                                                                                                                      |
 
-
-** Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
+\*\* Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

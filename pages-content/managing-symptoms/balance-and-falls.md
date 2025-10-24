@@ -10,9 +10,7 @@
 </iframe>
 </div>
 
-
 Falls can be a significant source of concern and stress for some people with Parkinson’s. There are many things that can be done to help prevent them from happening. Falling over is more common in Parkinson’s for a number of reasons, but they can also be reasons not related to Parkinson’s.
-
 
 ---
 
@@ -40,10 +38,7 @@ Whether you have Parkinson’s or not, the risk of falls goes up with age. Facto
 - Problems with sight, such as seeing double.
 - Bladder and bowel symptoms that can lead you to rush to get to the toilet.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/posture.jpg" alt="posture" class="example-class">
-
-
 
 There is more information on these on their respective symptom pages, found within <a href="/learn/managing-symptoms" class="internal-link">_Managing Symptoms_</a>.
 
@@ -62,7 +57,6 @@ Other health conditions can increase your risk of falls, such as arthritis or ol
 
 ## What should I do about it?
 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -80,7 +74,6 @@ These symptoms can call for a professional assessment. This is both for the caus
 If you develop new symptoms of imbalance or falls, or have had a rapid change in the pattern of your falls you should see your GP as soon as possible.
 
 If your falls are associated with worsening movement symptoms, like stiffness or slowness of movement, or you have had a recent change in your Parkinson’s medication, you should consult your Parkinson’s team.
-
 
 You should seek help **urgently**, via your GP or A&E, if:
 
@@ -133,8 +126,6 @@ In Parkinson's, specific attention also needs to be given to:
 Exercises to achieve these need to be tailored to your ability and needs.
 
 For more on all of these aspects, see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page.
-
-
 
 ---
 
@@ -192,7 +183,6 @@ More information about these systems is available on the [NHS website](link) and
 </iframe>
 </div>
 
-
 People affected by Parkinson’s describe their experiences.
 
 > “I store things I use daily, like medication or towels, between waist and eye-level, so I can avoid reaching or bending, which can throw me off balance”
@@ -202,7 +192,6 @@ People affected by Parkinson’s describe their experiences.
 > “We’ve got buzzers. We’ve got pendants really. It connects to a mainline where they talk to you through the phone. They just say, ‘what’s wrong’? They know your name and everything and then they’ll send a medic or whatever’s needed. It is good. We pay for it, but it’s worth it. It’s not much.”
 >
 > _(Person with Parkinson’s)_
-
 
 ---
 
@@ -278,7 +267,7 @@ Once you have spoken to a healthcare professional, they can help reassure you. T
   - Equipment or adaptations, e.g. rails
   - Extra support, e.g. carers
   - Alarm systems
- 
+
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/ot.jpg" alt="occupational-therapy" class="example-class">
 
 They may make recommendations to the Adult Social Care services if this is needed.
@@ -342,9 +331,9 @@ For specific causes of falls you may be referred to a specialist service. For ex
 
 ## Useful Organisations & Contacts
 
-| Organisation   | About                                                                                                                                                                                                                                                | Phone Number     | Website                                                                                                                                                                                                                                                                                                                                 |
-|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NHS            | Provides more general information about falls (not specific to Parkinson’s). There is also guidance on preventing falls.                                                                                                                             | --               | Information about Falls: <a href="https://www.nhs.uk/conditions/falls/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/conditions/falls/</a><br><br>Information about Alarms and Security: <a href="http://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/personal-alarms-security-systems-and-keysafes/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/personal-alarms-security-systems-and-keysafes/</a> |
-| Parkinson’s UK | Provides information about falls and dizziness, their causes, treatments and potential hazards in the home.<br><br>Information can be read online, printed out, or mailed to you.  | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)   | <a href="http://www.parkinsons.org.uk/information-and-support/falls-and-dizziness" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinsons.org.uk/information-and-support/falls-and-dizziness</a>                                                                                                       |
+| Organisation   | About                                                                                                                                                                             | Phone Number                                                                                                                                           | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NHS            | Provides more general information about falls (not specific to Parkinson’s). There is also guidance on preventing falls.                                                          | --                                                                                                                                                     | Information about Falls: <a href="https://www.nhs.uk/conditions/falls/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/conditions/falls/</a><br><br>Information about Alarms and Security: <a href="http://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/personal-alarms-security-systems-and-keysafes/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/personal-alarms-security-systems-and-keysafes/</a> |
+| Parkinson’s UK | Provides information about falls and dizziness, their causes, treatments and potential hazards in the home.<br><br>Information can be read online, printed out, or mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="http://www.parkinsons.org.uk/information-and-support/falls-and-dizziness" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinsons.org.uk/information-and-support/falls-and-dizziness</a>                                                                                                                                                                                                                                                                                                                                                                                |
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

@@ -10,9 +10,7 @@
 </iframe>
 </div>
 
-
 Freezing is a sudden feeling that you can’t start or complete a movement. Most people have "freezing of gait" meaning freezing happens when walking. People describe feeling their feet are glued to the ground and unable to move, but they’re still able to move their arms. It can happen at the start of a movement or in the middle of a movement (e.g. when you are starting to walk or in the middle of walking). Sometimes freezing can happen while eating, writing, or when you are rushing to do something. It is important to address freezing because it can impact on confidence and can contribute to falls.
-
 
 ---
 
@@ -47,7 +45,6 @@ There are things you can try for yourself but there are some situations where yo
 </div>
 
 The best thing to do if you think you can feel yourself freezing is to stop moving and hold on to your balance. Freezing can be a frightening feeling, but if you try to keep moving or become agitated you may fall.
-
 
 There are different techniques that you can try. Some aim to overcome freezing when it happens, others aim to prevent it. You may find some work for you and others don’t. It is good to try out different strategies and see which suits you best. You might even find your own way to apply the principles.
 
@@ -114,7 +111,6 @@ b) _Sound cues_, for example:
 - _Prevention_: count or sing as you go through doorways or other spots that trigger you to freeze. Use the momentum of the rhythm to carry you through.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/metronome.jpg" alt="metronome" class="example-class">
-
 
 c) Imagine a cue, for example:
 
@@ -188,8 +184,8 @@ Research is ongoing to look for new ways of managing freezing, including the use
 
 ## Useful Organisations & Contacts
 
-| Organisation    | Information                                                                                                                                                                                                                                                                                       | Phone Number  | Website                                                                                                                                                                                                 |
-|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Parkinson’s UK  | Provides in-depth information about freezing: its causes, treatments, useful cues and general support. <br><br>You can read information online, print it or ask it to be mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/freezing" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/freezing</a> |
+| Organisation   | Information                                                                                                                                                                             | Phone Number                                                                                                                                           | Website                                                                                                                                                                                             |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Parkinson’s UK | Provides in-depth information about freezing: its causes, treatments, useful cues and general support. <br><br>You can read information online, print it or ask it to be mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/freezing" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/freezing</a> |
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

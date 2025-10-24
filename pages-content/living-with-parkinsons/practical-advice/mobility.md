@@ -24,8 +24,6 @@ Symptoms of Parkinson’s and factors unrelated to Parkinson’s can all contrib
 
 A common problem is that difficulties mobilising mean that you are less active. Being less active then leads to muscle weakness and stiffness. Muscle weakness and stiffness then leads to more difficulty in mobilising. Lack of confidence and fear of falling also feeds into this cycle. It is important to break this cycle.
 
-
-
 ---
 
 ## What should I do about it?
@@ -41,7 +39,6 @@ Appointments with these specialists may be in a hospital, community service, or 
 ## What can I try for myself?
 
 ### Keep Active
-
 
 <div class="video-container">
 <iframe 
@@ -63,7 +60,6 @@ In Parkinson’s, specific attention also needs to be given to:
 Exercises to achieve these need to be tailored to your ability and needs. For more on all of these aspects, see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page.
 
 There may also be specific tasks that you can practice to address specific day-to-day challenges. Physiotherapists and Occupational therapists help identify these where possible.
-
 
 ### Mobility tips
 
@@ -93,7 +89,6 @@ For tips related to daily tasks, including getting in and out of bed, please see
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/walking-with-sticks.jpg" alt="walking-with-sticks" class="example-class">
 
-
 ---
 
 ## Equipment and Aids
@@ -112,7 +107,6 @@ Some people need equipment or aids in order to continue tasks of daily life.
 </iframe>
 </div>
 
-
 Before purchasing equipment, consider the following overall tips below:
 
 - Consider how and where you will use the equipment
@@ -120,7 +114,6 @@ Before purchasing equipment, consider the following overall tips below:
 - Ensure the fit of the equipment is as correct as possible
 - Remember that companies selling equipment could be biased. Health and Social care professionals do not have a financial incentive so are impartial.
 - The <a href="https://www.dlf.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Disabled Living Foundation (DLF)</a> is a charity (not commercial) that provides detailed information about equipment, including places you can try it out and comparisons of products.
-
 
 ### Walking sticks
 
@@ -142,7 +135,6 @@ Before purchasing equipment, consider the following overall tips below:
   - They can be bought at mobility shops, some large pharmacies, or online.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/walking-stick.jpg" alt="walking-stick" class="example-class">
-
 
 ### Walking frames
 
@@ -181,7 +173,6 @@ For equipment related to daily tasks, including getting in and out of bed, pleas
 
 ## My Experience
 
-
 <div class="video-container">
 <iframe
   width="560"
@@ -197,22 +188,21 @@ People affected by Parkinson’s describe their experiences.
 > “I mean, I can still walk around the house without using a stick. I use a stick when I walk outside. When I’m really on, I wouldn’t need it. But it’s one of those things whereby it flags to people that you’ve got an issue”
 > _(Person with Parkinson’s)_
 
-
 ---
 
 ## Useful Organisations & Contacts
 
-Please look at the bottom of the table for further information about call charges. 
+Please look at the bottom of the table for further information about call charges.
 
-| Organisation | About | Phone Number | Website |
-|--------------|-------|--------------|---------|
-| Age UK | Provides information, advice, and services to support older people across the UK, promoting wellbeing, independence, and age-friendly communities.  | 0800 678 1602 <br><br> Free support and advice helpline (Open 8am- 7pm, 365 days a year) | <a href="https://www.ageuk.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.ageuk.org.uk</a> |
-| British Red Cross | Information about how the British Red Cross can support people at home with short-term care, mobility aids, and practical help after a hospital stay or health crisis.  | 0344 871 11 11** <br><br> (Note: there are also local phone numbers available on the website) <br><br> Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider. | <a href="https://www.redcross.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.redcross.org.uk</a> |
-| Disabled Living Foundation | Disabled Living Foundation offers impartial information and downloadable factsheets to help people choose daily living equipment and mobility aids. | 0300 999 0004*  <br><br> Helpline (Open 9am - 5pm, Monday-Friday) <br><br> Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.  | <a href="https://www.dlf.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.dlf.org.uk</a> <br><br> Search ‘AskSARA’ to find suitable equipment and suppliers. |
-| Parkinson’s UK | They have in-depth information on mobility equipment and many other topics that can be read online, printed out, or mailed to you.  | 0808 800 0303 <br><br> Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="http://www.parkinsons.org.uk/information-and-support/daily-living-equipment" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinsons.org.uk/information-and-support/daily-living-equipment</a> |
+| Organisation               | About                                                                                                                                                                  | Phone Number                                                                                                                                                                                                                                                    | Website                                                                                                                                                                                                                               |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Age UK                     | Provides information, advice, and services to support older people across the UK, promoting wellbeing, independence, and age-friendly communities.                     | 0800 678 1602 <br><br> Free support and advice helpline (Open 8am- 7pm, 365 days a year)                                                                                                                                                                        | <a href="https://www.ageuk.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.ageuk.org.uk</a>                                                                                                               |
+| British Red Cross          | Information about how the British Red Cross can support people at home with short-term care, mobility aids, and practical help after a hospital stay or health crisis. | 0344 871 11 11\*\* <br><br> (Note: there are also local phone numbers available on the website) <br><br> Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider. | <a href="https://www.redcross.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.redcross.org.uk</a>                                                                                                         |
+| Disabled Living Foundation | Disabled Living Foundation offers impartial information and downloadable factsheets to help people choose daily living equipment and mobility aids.                    | 0300 999 0004\* <br><br> Helpline (Open 9am - 5pm, Monday-Friday) <br><br> Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.                               | <a href="https://www.dlf.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.dlf.org.uk</a> <br><br> Search ‘AskSARA’ to find suitable equipment and suppliers.                                               |
+| Parkinson’s UK             | They have in-depth information on mobility equipment and many other topics that can be read online, printed out, or mailed to you.                                     | 0808 800 0303 <br><br> Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)                                                                                                         | <a href="http://www.parkinsons.org.uk/information-and-support/daily-living-equipment" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinsons.org.uk/information-and-support/daily-living-equipment</a> |
 
-*Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.
+\*Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-**Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
+\*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

@@ -12,7 +12,6 @@
 
 Sweating is normal and helps your body regulate its temperature. Some people with Parkinson’s may have problems with sweating. They may experience too much sweat being produced, which is called _hyperhidrosis_. Alternatively, they may experience not enough sweat being produced, which is called _hypohidrosis_. Underproduction of sweat can cause overheating. Because people with Parkinson’s can also have a decreased sense of smell, they might not be aware of body odours caused by excessive sweating.
 
-
 ---
 
 ## What might be causing it?
@@ -49,7 +48,6 @@ This can occur in Parkinson’s for example:
 
 ## What should I do about it?
 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -61,7 +59,6 @@ This can occur in Parkinson’s for example:
 </div>
 
 Excessive sweating can be very challenging to deal with. There are some suggestions for ways to manage it below. If sweating is still very bothersome, despite having tried these things regularly for a month or so, discuss with your GP or Parkinson’s specialist team. You should seek help more urgently if you are _**not**_ producing sweat and feeling faint or dizzy in warm situations.
-
 
 ---
 
@@ -156,10 +153,9 @@ Sometimes people just need a medication change during hot weather.
 
 ## Useful Organisations & Contacts
 
-| Organisation   | About                                                                                                                                                                                                                                                | Phone Number     | Website                                                                                                                                                                                                                                                   |
-|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NHS            | Explains excessive sweating (hyperhidrosis), including its causes, symptoms, and treatment options such as lifestyle changes, medications, and specialist procedures.                                                                                 | --               | <a href="http://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/</a>                                                                                     |
-| Parkinson’s UK | Provides information about how Parkinson’s can affect the skin and sweating, offering advice on managing symptoms such as excessive sweating, oily skin, and dryness. | 0808 800 0303  <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)  | <a href="https://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems</a>                                                 |
-
+| Organisation   | About                                                                                                                                                                 | Phone Number                                                                                                                                           | Website                                                                                                                                                                                                                                         |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NHS            | Explains excessive sweating (hyperhidrosis), including its causes, symptoms, and treatment options such as lifestyle changes, medications, and specialist procedures. | --                                                                                                                                                     | <a href="http://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/</a>                                     |
+| Parkinson’s UK | Provides information about how Parkinson’s can affect the skin and sweating, offering advice on managing symptoms such as excessive sweating, oily skin, and dryness. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems</a> |
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

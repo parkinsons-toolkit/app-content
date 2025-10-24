@@ -20,8 +20,6 @@ People may also experience a compulsion to take more than their prescribed amoun
 
 Others may not realise they are increasingly taking more medication than the amount their healthcare provider has prescribed. It’s important that family members or carers know your prescribed doses so they can spot if you are taking too much.
 
-
-
 ---
 
 ## What might be causing it?
@@ -39,7 +37,6 @@ Others may not realise they are increasingly taking more medication than the amo
 The chemical dopamine in the brain is affected in Parkinson’s. Dopamine has many roles, including being involved in the brain control of reward and motivation. Medications that affect dopamine messaging in the brain also affect this control. People with Parkinson’s disease are more likely to develop these impulsive and compulsive behaviours if they are prescribed dopamine agonists (including ropinirole, rotigotine, pramipexole, and bromocriptine). These impulsive behaviours can also occur when taking levodopa. These behaviours may develop at any time during Parkinson’s disease, even if people have been on these medications for a long time.
 
 People may also be more likely to develop these behaviours if they are younger at the age of diagnosis or have a history of alcoholism or addictive behaviours in their families. It appears to affect men more than women.
-
 
 ---
 
@@ -84,10 +81,8 @@ People may also be more likely to develop these behaviours if they are younger a
 </iframe>
 </div>
 
-
 - Stress, anxiety and depression can make impulsive and compulsive behaviour changes worse.
-- See the _Optimising Wellbeing_ pages found within the <a href="/learn/managing-symptoms/movement" class="internal-link">_Living with Parkinson's_</a> section for tips on keeping well.
-
+- See the _Optimising Wellbeing_ pages found within the <a href="/learn/managing-symptoms/tremor" class="internal-link">_Living with Parkinson's_</a> section for tips on keeping well.
 
 ---
 
@@ -115,9 +110,8 @@ People may also be more likely to develop these behaviours if they are younger a
 
 ## Useful Organisations & Contacts
 
-| Organisation    | About                                                                                                                                                                                         | Phone Number  | Website                                                                                                                                                                                                 |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Parkinson’s UK  | Offer support and advice about impulsive and compulsive behaviours with Parkinson’s. There is information about causes, types of behaviours and speaking to your GP about them. <br><br>You can read this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)  | <a href="https://www.parkinsons.org.uk/information-and-support/impulsive-and-compulsive-behaviours-parkinsons" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/impulsive-and-compulsive-behaviours-parkinsons</a> |
+| Organisation   | About                                                                                                                                                                                                                                                            | Phone Number                                                                                                                                           | Website                                                                                                                                                                                                                                                                         |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Parkinson’s UK | Offer support and advice about impulsive and compulsive behaviours with Parkinson’s. There is information about causes, types of behaviours and speaking to your GP about them. <br><br>You can read this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/impulsive-and-compulsive-behaviours-parkinsons" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/impulsive-and-compulsive-behaviours-parkinsons</a> |
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
-

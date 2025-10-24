@@ -10,7 +10,6 @@
 </iframe>
 </div>
 
-
 Variability of symptoms occurs when people with Parkinson’s change from having good, consistent control of their symptoms to having less consistent, less predictable control. This change in control may happen slowly over time or may be more of a sudden change.
 
 A medication dose may not last as long as it did it in the past. People refer to this as the medication ‘wearing off’. Some people notice their tablets don’t ‘kick in’ right away after taking them. Others notice their medications don’t work as smoothly as they did before.
@@ -21,7 +20,6 @@ People may have times in between doses where they don’t feel as well. This var
 - Being ‘off’: when you are not moving, thinking, or feeling well These refer to movement or ‘motor’ symptoms (e.g. tremor, slowness, and stiffness) and ‘non-motor’ symptoms (e.g. anxiety, low mood, sweating, and restlessness).
 
 For some people, the variability is predictable and in relation to medication. For others, the variability does not follow a pattern, and this can be very challenging to manage.
-
 
 ---
 
@@ -49,7 +47,6 @@ There are things you can try for yourself (described below). You should discuss 
 </iframe>
 </div>
 
-
 ### Make the most of ‘on’ time
 
 - Make the most of time when you are feeling ‘on’ and schedule your activities for these times.
@@ -59,8 +56,6 @@ There are things you can try for yourself (described below). You should discuss 
 - Some people find that their off periods are worse after an exhausting day. Plan ahead so you can rest after you have had an exhausting day, if you experience that.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/reading-notes.jpg" alt="planning" class="example-class">
-
-
 
 ### Manage Stress
 
@@ -75,7 +70,6 @@ There are things you can try for yourself (described below). You should discuss 
   - Some people find that taking their levodopa 30 minutes before their protein meal allows their medication to kick in before they start eating.
   - If taking levodopa on an empty stomach causes nausea, try taking it with fruit or crackers rather than high protein foods.
 - See <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> for more information about diet.
-
 
 ---
 
@@ -100,8 +94,6 @@ People affected by Parkinson’s describe their experiences.
 > “We talked to him about changing his medication around, which he did do, and he took them a little bit earlier in the evening so he would feel a little bit more able.”
 >
 > _(Healthcare Professional)_
-
-
 
 ---
 
@@ -164,9 +156,8 @@ Try to monitor your symptoms for about 3 days. Types of things you could record 
 
 ## Useful Organisations & Contacts
 
-| Organisation    | About                                                                                                                                                                                     | Phone Number  | Website                                                                                                                                                                                                 |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Parkinson’s UK  | Offers support and information about dyskinesia and wearing off, including causes and how to manage them. <br><br>You can read this information online, print it or have it mailed to you.  | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/dyskinesia-and-wearing" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/dyskinesia-and-wearing</a> |
-
+| Organisation   | About                                                                                                                                                                                      | Phone Number                                                                                                                                           | Website                                                                                                                                                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Parkinson’s UK | Offers support and information about dyskinesia and wearing off, including causes and how to manage them. <br><br>You can read this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/dyskinesia-and-wearing" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/dyskinesia-and-wearing</a> |
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

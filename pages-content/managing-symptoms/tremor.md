@@ -10,9 +10,7 @@
 </iframe>
 </div>
 
-
 Tremor is an uncontrollable, involuntary movement of a part of the body. Around one in three people with Parkinson’s never experience tremor. For others, it may be the most noticeable symptom. It may start in one area, like the right hand, and then gradually spread to another area on the same side of the body, like the right leg; it can eventually move to the other side of the body.
-
 
 ---
 
@@ -35,7 +33,6 @@ Whatever the cause, most tremors get worse when the individual is anxious or str
 ## What should I do about it?
 
 There are many things you can try for yourself as below. If despite these, the tremor is very bothersome, speak to your Parkinson’s specialist team routinely about possible changes to your treatment. Unfortunately, treatments and strategies do not completely stop the tremor. The aim is to minimise the impact on daily life.
-
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/tremor.jpg" alt="tremor" class="example-class">
 
@@ -75,8 +72,6 @@ Sometimes tremors can make specific tasks more difficult. Extra adaptations, sup
 - Technology – some people find touch screen difficult to control with a tremor and find using a mouse easier; others use voice control. Most smartphones allow for voice dictation instead of typing. Similarly using a device such as an Alexa can be helpful. See our <a href="/learn/living-with-parkinsons
   /practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> page for more ideas.
 
-
-
 ---
 
 ## My Experience
@@ -91,7 +86,6 @@ Sometimes tremors can make specific tasks more difficult. Extra adaptations, sup
 </iframe>
 </div>
 
-
 People affected by Parkinson’s describe their experiences.
 
 > “For me, my tremor can lead to tension/aching in the whole arm and shoulder. As it is primarily a resting tremor, I find it helpful to have something like a squeeze ball or fir cone to hold in the hand. Also, I find that using my hand for, say, knitting releases the tension in the arm.”
@@ -101,7 +95,6 @@ People affected by Parkinson’s describe their experiences.
 > “A couple of things occur to me from my own experience of tremor; things I didn’t realise when I was first diagnosed. One is that some skills are so engrained in the motor memory that they seem to bypass tremor. So, for some people, their tremor disappears when they are driving, riding a bicycle, playing golf or playing an instrument. So keep practising those scales! It’s a ‘use it or lose it’ thing. Also, being diagnosed with a tremor doesn’t draw a line under acquiring new skills. I was inspired to start learning the piano by a woman I met on a Parkinson’s Patients Committee who had taken up the saxophone. I’m now working on my Grade Three pieces.”
 >
 > _(Person with Parkinson’s)_
-
 
 ---
 
@@ -172,9 +165,8 @@ Having consulted a healthcare professional, they may offer reassurance or furthe
 
 ## Useful Organisations & Contacts
 
-| Organisation   | About                                                                                                                                                                    | Phone Number  | Website                                                                                                                                                                                                 |
-|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Parkinson’s UK | Explains the different types of tremor experienced in Parkinson’s, how they progress, and ways to manage their impact on daily life.  | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/tremor" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/tremor</a> |
+| Organisation   | About                                                                                                                                | Phone Number                                                                                                                                           | Website                                                                                                                                                                                                 |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Parkinson’s UK | Explains the different types of tremor experienced in Parkinson’s, how they progress, and ways to manage their impact on daily life. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/tremor" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/tremor</a> |
 
- 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

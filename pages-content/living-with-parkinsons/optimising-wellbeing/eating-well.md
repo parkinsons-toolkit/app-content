@@ -12,7 +12,6 @@
 
 There is no diet that is specifically recommended for Parkinson’s, but diet can make a difference for symptoms related to Parkinson’s, such as overall mood, constipation, and blood pressure. Diet can also affect some of the medications used for Parkinson’s.
 
-
 ---
 
 ## What is a balanced diet in more detail?
@@ -48,9 +47,7 @@ _Including Sinemet, Madopar, Stalevo._
 
 Some people notice that when they eat a protein-rich meal and take levodopa at the same time, their levodopa doesn’t work as well – it doesn’t kick in as quickly or doesn’t last as long as usual. This may occur because levodopa and protein are absorbed in the same area of the intestine, so taking them at the same time may mean that less levodopa is absorbed or absorbed more slowly.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/protein.jpg" alt="protein" class="example-class">
-
 
 **Dietary advice:**
 
@@ -106,7 +103,6 @@ Constipation is a common symptom experienced by people with Parkinson’s. It ca
 _See the <a href="/learn/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a> page for more details._
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/water-constipation.jpg" alt="drink-water" class="example-class">
-
 
 ---
 
@@ -167,9 +163,7 @@ Some people with Parkinson’s will notice they may have trouble with swallowing
 - Thicker soups, yoghurts or blended foods/fruits can also allow you to take in more fluid in a form that is easier to swallow.
 - Smaller meals may not be as nutritionally complete, so if you are having issues with gaining or maintaining weight, please consult your GP or Parkinson’s specialist team.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/making-tea.jpg" alt="making-tea" class="example-class">
-
 
 ---
 
@@ -228,7 +222,6 @@ Parkinson’s doesn’t tend to make people gain weight, but there are few reaso
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/food-fibre.jpg" alt="example-alt-text" class="example-class">
 
-
 ---
 
 ## Supplements
@@ -237,9 +230,7 @@ The best way to get vitamins and minerals in your diet is by eating a well-balan
 
 Some vitamins and supplements can interact with your Parkinson’s medications or other medications. **Before purchasing any ‘over the counter’ mineral or vitamin supplements from chemists or health food shops, be sure to consult with a pharmacist, your GP, or Parkinson’s specialist team.**
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/supplements.jpg" alt="supplements" class="example-class">
-
 
 ### Should I take supplements?
 
@@ -301,17 +292,13 @@ There has been a lot of interest in supplements as a way of slowing down Parkins
   - Jewellery no longer fitting
   - Looser fitting dentures
 
-
-
 ---
 
 ## Understanding Food Groups
 
 You can learn more about the five food groups below by exploring the <a href="https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Eatwell Guide</a>.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/eat-well-guide.jpg" alt="example-alt-text" class="example-class">
-
 
 ### Fruit/Vegetables
 
@@ -397,11 +384,11 @@ Because it can be difficult to eat enough vitamin D, a daily 10 mcg supplement o
 
 ## Useful Organisations & Contatcs
 
-| Organisation     | About                                                                                                                                                                                                                                                                                                                                                                     | Phone Number     | Website                                                                                                                                                                                                 |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Age UK           | Advice on healthy eating for older adults, offering practical tips, nutritional guidance, and information on fluid intake and budget-friendly choices. You can explore this content online or download their 'Healthy living’ guide.                                                                                    | 0800 678 1602 <br><br>Free support and advice helpline (Open 8am–7pm, 365 days a year)     | <a href="http://www.ageuk.org.uk/information-advice/health-wellbeing/healthy-eating/healthy-eating-guide/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.ageuk.org.uk/information-advice/health-wellbeing/healthy-eating/healthy-eating-guide/</a> |
-| Drinkaware       | This is an independent charity that provides evidence-based information, tools, and support to help people make informed choices about alcohol.                                                               | 0300 123 1110 <br><br>Free confidential helpline for anyone who is concerned about their drinking, or someone else's (weekdays 9am–8pm, weekends 11am–4pm)      | <a href="https://www.drinkaware.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">https://www.drinkaware.co.uk</a>                                                               |
-| NHS              | The NHS Live Well pages offer practical advice on healthy living, including guidance on balanced diets, maintaining a healthy weight, staying active, quitting smoking, and reducing alcohol intake. There is also support for alcohol addiction.                                                                                                                                                                                        | --               | NHS Live Well: <a href="https://www.nhs.uk/live-well" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/live-well</a> <br><br>The Eatwell Guide: <a href="https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/</a> <br><br>NHS alcohol advice: <a href="https://www.nhs.uk/live-well/alcohol-advice/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/live-well/alcohol-advice/</a> |
-| Parkinson’s UK   | Provides details of how diet and nutrition can affect life with Parkinson’s and offers practical guidance for managing food-related challenges.                                                                                                         | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)      | <a href="https://www.parkinsons.org.uk/information-and-support/diet" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/diet</a>     |
-                                                                                                                                                                                                                                                                                                                                                                                                                                        
+| Organisation   | About                                                                                                                                                                                                                                             | Phone Number                                                                                                                                               | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Age UK         | Advice on healthy eating for older adults, offering practical tips, nutritional guidance, and information on fluid intake and budget-friendly choices. You can explore this content online or download their 'Healthy living’ guide.              | 0800 678 1602 <br><br>Free support and advice helpline (Open 8am–7pm, 365 days a year)                                                                     | <a href="http://www.ageuk.org.uk/information-advice/health-wellbeing/healthy-eating/healthy-eating-guide/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.ageuk.org.uk/information-advice/health-wellbeing/healthy-eating/healthy-eating-guide/</a>                                                                                                                                                                                                                                                                                                                                                               |
+| Drinkaware     | This is an independent charity that provides evidence-based information, tools, and support to help people make informed choices about alcohol.                                                                                                   | 0300 123 1110 <br><br>Free confidential helpline for anyone who is concerned about their drinking, or someone else's (weekdays 9am–8pm, weekends 11am–4pm) | <a href="https://www.drinkaware.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">https://www.drinkaware.co.uk</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| NHS            | The NHS Live Well pages offer practical advice on healthy living, including guidance on balanced diets, maintaining a healthy weight, staying active, quitting smoking, and reducing alcohol intake. There is also support for alcohol addiction. | --                                                                                                                                                         | NHS Live Well: <a href="https://www.nhs.uk/live-well" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/live-well</a> <br><br>The Eatwell Guide: <a href="https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/</a> <br><br>NHS alcohol advice: <a href="https://www.nhs.uk/live-well/alcohol-advice/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/live-well/alcohol-advice/</a> |
+| Parkinson’s UK | Provides details of how diet and nutrition can affect life with Parkinson’s and offers practical guidance for managing food-related challenges.                                                                                                   | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)     | <a href="https://www.parkinsons.org.uk/information-and-support/diet" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/diet</a>                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

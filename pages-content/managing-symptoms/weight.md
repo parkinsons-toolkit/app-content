@@ -1,6 +1,5 @@
 # Weight and Appetite Loss
 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -10,7 +9,6 @@
   allowfullscreen>
 </iframe>
 </div>
-
 
 People with Parkinson’s can experience weight loss. Though some people may initially welcome this, excessive weight loss can be bad for both health and wellbeing. Weight loss can be linked to conditions that are not Parkinson’s, and some can be serious. So, it is important that you see your GP if you continue to lose weight.
 
@@ -28,9 +26,7 @@ Causes of weight loss related to Parkinson’s include:
 
 There are many other conditions that might cause weight loss. This can include loss of appetite with depression, side effects of some medications and various health conditions. If you have lost a lot of weight without meaning to, your doctor may need to check you don’t have a serious health condition, such as a cancer. Some people as they get older have a reduced sense of taste and a lower appetite. As a result, they might eat smaller portions and lose weight. However, weight loss is not a normal part of ageing and should be checked out.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/scales.png" alt="scales" class="example-class">
-
 
 ---
 
@@ -136,11 +132,10 @@ Your GP may refer you to another service, depending on your issue:
 
 ## Useful Organisations & Contacts
 
-| Organisation | About | Phone Number | Website |
-|--------------|-------|--------------|---------|
-| British Dietetic Association (BDA) | Provides a wide range of downloadable food fact sheets offering expert, evidence-based dietary advice on health conditions, nutrition, and balanced eating. | -- | <a href="https://www.bda.uk.com/food-health/food-facts/all-food-fact-sheets.html" class="external-link" target="_blank" rel="noopener noreferrer">www.bda.uk.com/food-health/food-facts/all-food-fact-sheets.html</a> |
-| NHS | Provides practical advice and support for managing your weight through healthy eating, physical activity, and lifestyle changes. | -- | <a href="https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/</a> |
-| Parkinson’s UK | Offers dietary guidance to support symptom management, overall health, and medication effectiveness for people living with Parkinson’s.<br><br>You can view this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/diet" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/diet</a> |
-
+| Organisation                       | About                                                                                                                                                                                                                   | Phone Number                                                                                                                                           | Website                                                                                                                                                                                                               |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| British Dietetic Association (BDA) | Provides a wide range of downloadable food fact sheets offering expert, evidence-based dietary advice on health conditions, nutrition, and balanced eating.                                                             | --                                                                                                                                                     | <a href="https://www.bda.uk.com/food-health/food-facts/all-food-fact-sheets.html" class="external-link" target="_blank" rel="noopener noreferrer">www.bda.uk.com/food-health/food-facts/all-food-fact-sheets.html</a> |
+| NHS                                | Provides practical advice and support for managing your weight through healthy eating, physical activity, and lifestyle changes.                                                                                        | --                                                                                                                                                     | <a href="https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/</a>     |
+| Parkinson’s UK                     | Offers dietary guidance to support symptom management, overall health, and medication effectiveness for people living with Parkinson’s.<br><br>You can view this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/diet" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/diet</a>                           |
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

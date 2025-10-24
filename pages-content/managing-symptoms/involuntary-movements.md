@@ -16,8 +16,6 @@ Some people experience dyskinesia when their medications are at the highest leve
 
 Dyskinesias can range in severity, from some people having it so mildly that they do not notice the movements to others who have severe dyskinesias. Many people with Parkinson’s say their dyskinesias do not bother them, and they would prefer to feel more “on” with dyskinesias and be able to do more, than have fewer dyskinesias but feel more “off” and not be able to do as much.
 
-
-
 ---
 
 ## What might be causing it?
@@ -64,7 +62,6 @@ If you notice particular times when your movements are good (e.g. feeling “on�
 ### Explain to others
 
 You can explain to others that the extra movements are part of your Parkinson’s and nothing to be concerned about.
-
 
 ---
 
@@ -152,11 +149,11 @@ See <a href="/learn/treatments-and-therapies/medications" class="internal-link">
 
 Please look at the bottom of the table for further information about call charges.
 
-| Organisation | About | Phone Number | Website |
-|--------------|-------|--------------|---------|
-| Mind | Mind is a mental health charity with advice on how to improve your wellbeing, including relaxation exercises to manage stress. | 0300 123 3393* <br><br>For information about support and services available. (Infoline is open 9am-6p, Mon-Fri). <br><br>Calls cost up to 10p/minute from landlines, between 3p- 40p/minute from mobile phones. | https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/#.XaRamflKi70 |
-| Parkinson’s UK | Provides information about causes of Dyskinesia and how to manage it. There is also information on complementary therapies, such as massage therapy. <br><br>You can view this information online, print it or have it mailed to you. | 808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | Dyskinesia and wearing off: <br>https://www.parkinsons.org.uk/information-and-support/dyskinesia-and-wearing <br><br>Complementary therapies: https://www.parkinsons.org.uk/information-and-support/complementary-therapies |
+| Organisation   | About                                                                                                                                                                                                                                 | Phone Number                                                                                                                                                                                                     | Website                                                                                                                                                                                                                     |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mind           | Mind is a mental health charity with advice on how to improve your wellbeing, including relaxation exercises to manage stress.                                                                                                        | 0300 123 3393\* <br><br>For information about support and services available. (Infoline is open 9am-6p, Mon-Fri). <br><br>Calls cost up to 10p/minute from landlines, between 3p- 40p/minute from mobile phones. | https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/#.XaRamflKi70                                                                                                                               |
+| Parkinson’s UK | Provides information about causes of Dyskinesia and how to manage it. There is also information on complementary therapies, such as massage therapy. <br><br>You can view this information online, print it or have it mailed to you. | 808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)                                                            | Dyskinesia and wearing off: <br>https://www.parkinsons.org.uk/information-and-support/dyskinesia-and-wearing <br><br>Complementary therapies: https://www.parkinsons.org.uk/information-and-support/complementary-therapies |
 
-*Calls cost up to 10p/minute from landlines, between 3p- 40p/minute from mobile phones. You may get this call for free depending on your phone provider. 
+\*Calls cost up to 10p/minute from landlines, between 3p- 40p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page. 
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

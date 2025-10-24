@@ -1,6 +1,5 @@
 # Tiredness and Fatigue
 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -10,7 +9,6 @@
   allowfullscreen>
 </iframe>
 </div>
-
 
 _Tiredness_ affects everyone now and then. It tends to have an obvious cause, such as poor sleep.
 
@@ -35,7 +33,6 @@ Another common cause of fatigue or tiredness are stress or feeling low, which ca
 Less common causes of fatigue include some medical problems such as anaemia, diabetes or thyroid problems.
 
 If you suddenly feel very tired or lacking in energy this may indicate that you are unwell from something else such as an infection. However, in this case you would probably have other symptoms too, e.g. fever.
-
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/tiredness.jpg" alt="tired" class="example-class">
 
@@ -63,7 +60,6 @@ If you are falling asleep during tasks, it is important to consider your safety.
 
 ## What Can I Try for Myself?
 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -75,7 +71,6 @@ If you are falling asleep during tasks, it is important to consider your safety.
 </div>
 
 There are some simple strategies that may help. You may have tried some of these already.
-
 
 ### In day-to-day life
 
@@ -220,9 +215,9 @@ For most drugs causing drowsiness, combining them with drinking alcohol will mak
 
 ## Useful Organisations & Contacts
 
-| Organisation           | About                                                                                                                                                                                          | Phone Number  | Website                                                                                                                                                                                                                           |
-|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Michael J. Fox Foundation | This American organisation is committed to researching Parkinson’s. They provide information about topics such as fatigue and sleep, including steps to ease fatigue, tips for sleep, and ongoing research. | --            | <a href="https://www.michaeljfox.org/news/fatigue-sleep" class="external-link" target="_blank" rel="noopener noreferrer">www.michaeljfox.org/news/fatigue-sleep</a>                                                                 |
-| Parkinson’s UK         | Explores fatigue in Parkinson’s, covering its causes, treatment options, and practical advice on managing work, driving, and daily activities.  | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/fatigue" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/fatigue</a>                                     |
+| Organisation              | About                                                                                                                                                                                                       | Phone Number                                                                                                                                           | Website                                                                                                                                                                                           |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Michael J. Fox Foundation | This American organisation is committed to researching Parkinson’s. They provide information about topics such as fatigue and sleep, including steps to ease fatigue, tips for sleep, and ongoing research. | --                                                                                                                                                     | <a href="https://www.michaeljfox.org/news/fatigue-sleep" class="external-link" target="_blank" rel="noopener noreferrer">www.michaeljfox.org/news/fatigue-sleep</a>                               |
+| Parkinson’s UK            | Explores fatigue in Parkinson’s, covering its causes, treatment options, and practical advice on managing work, driving, and daily activities.                                                              | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/fatigue" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/fatigue</a> |
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

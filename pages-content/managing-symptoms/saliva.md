@@ -24,8 +24,6 @@ Other conditions can cause problems with saliva. Either due to excess fluid in t
 
 Parkinson's drugs and other drugs can cause a dry mouth. Breathing through the mouth can cause a dry mouth. It can happen when dehydrated from smoking, or after surgery, or injury to the face or neck.
 
-
-
 ---
 
 ## What should I do about it?
@@ -39,7 +37,6 @@ Note if you have <ins>new</ins> weakness in the face, you should see your GP. <i
 ---
 
 ## What can I try for myself?
-
 
 <div class="video-container">
 <iframe 
@@ -66,7 +63,6 @@ Note if you have <ins>new</ins> weakness in the face, you should see your GP. <i
 - Close your lips tight for a count of four, relax, and then repeat five times.
 - Stretch lips into a wide smile, hold for a count of four, and relax.
 - More exercises are available online at Parkinson’s UK o These exercises promote awareness of your lips and remind you to hold lips firmly together to hold saliva in.
-
 
 ### For dry mouth:
 
@@ -182,9 +178,9 @@ Note: research does _not_ support the effectiveness of acupuncture or electrosti
 
 ## Useful Organisations & Contacts
 
-| Organisation           | About                                                                                                                                                                                                                       | Phone Number  | Website                                                                                                                                                                                                                         |
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Parkinson’s Foundation | This American organisation provides detailed information on drooling as a movement-related symptom of Parkinson’s, including its causes, impact, and strategies for management.                                            | --            | <a href="https://www.parkinson.org/Understanding-Parkinsons/Symptoms/Movement-Symptoms/Drooling" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinson.org/Understanding-Parkinsons/Symptoms/Movement-Symptoms/Drooling</a>     |
-| Parkinson’s UK         | Offers advice on managing eating, swallowing, and saliva control difficulties in Parkinson’s, including practical tips and information on when to seek professional support.  | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-saliva-control" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-saliva-control</a> |
+| Organisation           | About                                                                                                                                                                           | Phone Number                                                                                                                                           | Website                                                                                                                                                                                                                                                             |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Parkinson’s Foundation | This American organisation provides detailed information on drooling as a movement-related symptom of Parkinson’s, including its causes, impact, and strategies for management. | --                                                                                                                                                     | <a href="https://www.parkinson.org/Understanding-Parkinsons/Symptoms/Movement-Symptoms/Drooling" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinson.org/Understanding-Parkinsons/Symptoms/Movement-Symptoms/Drooling</a>         |
+| Parkinson’s UK         | Offers advice on managing eating, swallowing, and saliva control difficulties in Parkinson’s, including practical tips and information on when to seek professional support.    | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-saliva-control" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-saliva-control</a> |
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

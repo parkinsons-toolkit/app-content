@@ -17,7 +17,7 @@ For example:
 - Writing or using technology may be harder due to motor symptoms.
 - Working long hours can increase fatigue and cause symptoms to vary.
 
-This should not stop you from working if you wish to continue. You may need to adapt your job slightly or find ways to manage these work-related issues. For more advice, see our <a href="/learn/managing-symptoms/movement" class="internal-link">_Managing Symptoms_</a> and <a href="/learn/living-with-parkinsons/practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> pages.
+This should not stop you from working if you wish to continue. You may need to adapt your job slightly or find ways to manage these work-related issues. For more advice, see our <a href="/learn/managing-symptoms/tremor" class="internal-link">_Managing Symptoms_</a> and <a href="/learn/living-with-parkinsons/practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> pages.
 
 You can speak to your GP or specialist about ways to help you better manage your symptoms for the type of work you do.
 
@@ -78,7 +78,6 @@ If you decide you would like to tell your colleagues, there are several ways you
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/work-meeting.jpg" alt="work-meeting" class="example-class">
 
-
 ---
 
 ## Adjustments at Work
@@ -93,7 +92,6 @@ Working a lot of hours every week may be challenging for you. If it becomes too 
 
 Depending on the type of job you have and your symptoms, there may be duties that need to be delegated to other colleagues. This may also involve taking on new duties that are manageable for you. For example, as a teacher you may decide to reduce the number of your teaching hours due to speech difficulties. Instead, you may be able to do more administrative work. So, it can help to talk with your manager about what duties you can still do and if your role may need to change.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/work.jpg" alt="working" class="example-class">
 
 ### Support
@@ -101,7 +99,6 @@ Depending on the type of job you have and your symptoms, there may be duties tha
 Make it clear to your employer what support you would like if, for example, you are having a day where your symptoms are particularly bothersome. For example, you may want counselling support through work or to work from home a few days each week.
 
 ### Flexibility
-
 
 <div class="video-container">
 <iframe 
@@ -113,13 +110,11 @@ Make it clear to your employer what support you would like if, for example, you 
 </iframe>
 </div>
 
-
 It is important for your employer to understand that Parkinson’s is a progressive condition. It is also worth making them aware that the severity of your symptoms can change quickly within the same day. Ideally, there needs to be a level of flexibility. For example, some weeks you may work less than your agreed hours but other weeks more.
 
 Once you and your employer have agreed on some workplace adjustments, it is best to get this in writing and signed by both parties. This is known as a workplace adjustment agreement.
 
 If you are a member of your trade union at work, you can ask them for support. For example, if you didn’t feel comfortable speaking to your employer alone you can ask a trade union representative to attend meetings with you. They can also help you learn more about your legal rights.
-
 
 ---
 
@@ -149,7 +144,6 @@ If you are off work for 7 days or less, when you return to work your employer ca
 
 You can get a fit note from a GP or hospital doctor. This service is free of charge if requested after the 7 days. If your employer agrees, a similar document can be provided by a physiotherapist, podiatrist or occupational therapist instead. This is called an Allied Health Professional (AHP) Health and Work Report. The fit note will say whether you are ‘not fit for work’ or ‘may be fit for work’. If it says ‘may be fit for work’, you need to discuss with your employer whether there are adjustments that could be made to help you return to work (for example, different hours or tasks). You should keep the original note and offer your employer to take a copy, if required.
 
-
 ### Annual Leave
 
 If you do not qualify for statutory sick pay but you still need paid time off work, the other option could be to use some of your annual leave or holiday.
@@ -170,11 +164,9 @@ If you do not qualify for statutory sick pay but you still need paid time off wo
 
 For some people, voluntary work offers a great balance between working and being retired. You can have a sense of responsibility and achieve a sense of purpose without the stress of a full-time paid job. Some voluntary work can also be very flexible. So, on days or weeks where you are feeling good you can do more hours and on weeks that are worse you can do less hours. This is something you can decide with the scheme or activity co-ordinator.
 
-
 The added benefit of volunteering is that it can boost your confidence and day-to-day wellbeing.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/volunteer.jpg" alt="volunteering" class="example-class">
-
 
 ### Deciding Where to Volunteer
 
@@ -217,10 +209,7 @@ So, when you feel ready, try to be clear and specific in describing your symptom
 
 If your children would like to talk to someone about how to deal with the news of a parent having Parkinson’s, or want more information, they can visit the <a href="https://www.parkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> website. Or, they can contact your local Parkinson’s UK support service (see the bottom of this page for contact details).
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/family.jpg" alt="children" class="example-class">
-
-
 
 ### Carers
 
@@ -236,8 +225,7 @@ For various reasons, some people can no longer be looked after at home and need 
 
 People affected by Parkinson’s describe their experiences.
 
-> _“…for anyone that is a carer, they must have something for themselves, either exercise or going out for coffee with friends. You have to do that.”_
-> _(Carer of someone with Parkinson’s)_
+> _“…for anyone that is a carer, they must have something for themselves, either exercise or going out for coffee with friends. You have to do that.”_ > _(Carer of someone with Parkinson’s)_
 
 ---
 
@@ -245,17 +233,17 @@ People affected by Parkinson’s describe their experiences.
 
 Please look at the bottom of the table for further information about call charges.
 
-| Organisation | About | Phone Number | Website |
-|-------------|-------|--------------|---------|
-| Age UK | Provides information and support offer support for older adults navigating employment, covering job-seeking advice and guidance on workplace rights and protection from age-related discrimination. | 0800 678 1602<br><br>Free support and advice helpline (Open 8am- 7pm, 365 days a year) | Discrimination and Rights in the Workplace: <a href="https://www.ageuk.org.uk/information-advice/work-learning/discrimination-rights/" class="external-link" target="_blank" rel="noopener noreferrer">www.ageuk.org.uk/information-advice/work-learning/discrimination-rights/</a><br><br>Looking for Jobs: <a href="http://www.ageuk.org.uk/information-advice/work-learning/looking-for-work/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.ageuk.org.uk/information-advice/work-learning/looking-for-work/</a> |
-| Carer’s UK | Provides information, support, and advocacy for unpaid carers, helping them navigate their rights, access resources, and connect with others in similar roles. | 0808 808 7777<br><br>Free helpline (Open 9am - 6pm, Monday-Friday) | <a href="https://www.carersuk.org/home" class="external-link" target="_blank" rel="noopener noreferrer">www.carersuk.org/home</a> |
-| Carers Trust | Offers support, funding, and resources for unpaid carers across the UK, partnering with local organisations to improve carers’ wellbeing and advocate for their rights. | 0300 772 9600** <br><br>(Open Monday–Friday, 9am–5pm).<br><br>Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider. | <a href="https://carers.org/" class="external-link" target="_blank" rel="noopener noreferrer">carers.org/</a> |
-| Citizens Advice | This organisation provides advice for various issues. You can find a local Citizens Advice by entering your postcode into the search tool on their website, chat to an advisor online or call the phone line.  | Adviceline (England): 0800 144 8848<br>Advicelink (Wales): 0800 702 2020<br><br>Calls to Adviceline are free from both mobiles and landlines. Through this national phone service, you can connect with an adviser who will link you to your local Citizens Advice. (Open 9am - 5pm, Monday-Friday) | <a href="https://www.citizensadvice.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">www.citizensadvice.org.uk/</a> |
-| Equality Advisory & Support Service (EASS) | Helpline that advises people on issues relating to inequality and rights across England. | 0808 800 0082<br><br>EASS Free helpline (Open Monday to Friday, 9am-7pm, Saturday, 10am-2pm) | <a href="https://www.equalityadvisoryservice.com" class="external-link" target="_blank" rel="noopener noreferrer">www.equalityadvisoryservice.com</a> |
-| GOV.UK | Provides information regarding the types of discrimination in the workplace. | -- | <a href="https://www.gov.uk/discrimination-your-rights" class="external-link" target="_blank" rel="noopener noreferrer">www.gov.uk/discrimination-your-rights</a> |
-| Parkinson’s UK | Provides information and advice about working with Parkinson’s and other topics.<br><br>You can read this information online, print it or have it mailed to you. | 0808 800 0303<br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/work-and-parkinsons" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/work-and-parkinsons</a> |
-| U3A | Encourages older adults to come together and continue their enjoyment of learning in various subjects. | 020 8466 6139**<br><br>(Open Monday-Friday, 9.30am- 4.30pm) | <a href="https://www.u3a.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.u3a.org.uk</a> |
+| Organisation                               | About                                                                                                                                                                                                         | Phone Number                                                                                                                                                                                                                                                                                        | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Age UK                                     | Provides information and support offer support for older adults navigating employment, covering job-seeking advice and guidance on workplace rights and protection from age-related discrimination.           | 0800 678 1602<br><br>Free support and advice helpline (Open 8am- 7pm, 365 days a year)                                                                                                                                                                                                              | Discrimination and Rights in the Workplace: <a href="https://www.ageuk.org.uk/information-advice/work-learning/discrimination-rights/" class="external-link" target="_blank" rel="noopener noreferrer">www.ageuk.org.uk/information-advice/work-learning/discrimination-rights/</a><br><br>Looking for Jobs: <a href="http://www.ageuk.org.uk/information-advice/work-learning/looking-for-work/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.ageuk.org.uk/information-advice/work-learning/looking-for-work/</a> |
+| Carer’s UK                                 | Provides information, support, and advocacy for unpaid carers, helping them navigate their rights, access resources, and connect with others in similar roles.                                                | 0808 808 7777<br><br>Free helpline (Open 9am - 6pm, Monday-Friday)                                                                                                                                                                                                                                  | <a href="https://www.carersuk.org/home" class="external-link" target="_blank" rel="noopener noreferrer">www.carersuk.org/home</a>                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Carers Trust                               | Offers support, funding, and resources for unpaid carers across the UK, partnering with local organisations to improve carers’ wellbeing and advocate for their rights.                                       | 0300 772 9600\*\* <br><br>(Open Monday–Friday, 9am–5pm).<br><br>Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.                                                                              | <a href="https://carers.org/" class="external-link" target="_blank" rel="noopener noreferrer">carers.org/</a>                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Citizens Advice                            | This organisation provides advice for various issues. You can find a local Citizens Advice by entering your postcode into the search tool on their website, chat to an advisor online or call the phone line. | Adviceline (England): 0800 144 8848<br>Advicelink (Wales): 0800 702 2020<br><br>Calls to Adviceline are free from both mobiles and landlines. Through this national phone service, you can connect with an adviser who will link you to your local Citizens Advice. (Open 9am - 5pm, Monday-Friday) | <a href="https://www.citizensadvice.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">www.citizensadvice.org.uk/</a>                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Equality Advisory & Support Service (EASS) | Helpline that advises people on issues relating to inequality and rights across England.                                                                                                                      | 0808 800 0082<br><br>EASS Free helpline (Open Monday to Friday, 9am-7pm, Saturday, 10am-2pm)                                                                                                                                                                                                        | <a href="https://www.equalityadvisoryservice.com" class="external-link" target="_blank" rel="noopener noreferrer">www.equalityadvisoryservice.com</a>                                                                                                                                                                                                                                                                                                                                                                                            |
+| GOV.UK                                     | Provides information regarding the types of discrimination in the workplace.                                                                                                                                  | --                                                                                                                                                                                                                                                                                                  | <a href="https://www.gov.uk/discrimination-your-rights" class="external-link" target="_blank" rel="noopener noreferrer">www.gov.uk/discrimination-your-rights</a>                                                                                                                                                                                                                                                                                                                                                                                |
+| Parkinson’s UK                             | Provides information and advice about working with Parkinson’s and other topics.<br><br>You can read this information online, print it or have it mailed to you.                                              | 0808 800 0303<br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)                                                                                                                                               | <a href="https://www.parkinsons.org.uk/information-and-support/work-and-parkinsons" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/work-and-parkinsons</a>                                                                                                                                                                                                                                                                                                                        |
+| U3A                                        | Encourages older adults to come together and continue their enjoyment of learning in various subjects.                                                                                                        | 020 8466 6139\*\*<br><br>(Open Monday-Friday, 9.30am- 4.30pm)                                                                                                                                                                                                                                       | <a href="https://www.u3a.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.u3a.org.uk</a>                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
-**Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
+\*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

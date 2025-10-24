@@ -22,8 +22,6 @@ Constipation can make you feel very unwell and, if left untreated, can become se
 
 Constipation can sometimes lead to diarrhoea or leaking of stool. Hard stool gets stuck and only the liquid content comes out. So, although it can seem like diarrhoea, the bowels are very constipated and blocked up. This is known as “overflow diarrhoea” and the best approach to resolve it is to treat the constipation.
 
-
-
 ---
 
 ## What might be causing it?
@@ -54,10 +52,7 @@ There are many things you can try for yourself, but there are some circumstances
 
 Fibre in your diet helps improve constipation. Eat a variety of fibres.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/fibre-foods-bowel.jpg" alt="high-fibre" class="example-class">
-
-
 
 **Fibre is in:**
 
@@ -75,8 +70,6 @@ Fibre in your diet helps improve constipation. Eat a variety of fibres.
 - Fruit
 - Vegetables
 - Peas, beans, pulses, nuts, seeds
-
-
 
 ---
 
@@ -129,7 +122,6 @@ _Tip 2: All sorts of fluid count towards your daily amount, it doesn’t have to
 **Caution: If you have been advised to limit your fluid intake for another health reason (e.g. heart or kidney disease), then speak to your healthcare professional first.**
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/glass-of-water.jpg" alt="water" class="example-class">
-
 
 Certain fruits help draw water into the bowel to soften the stool. Increasing intake of these helps constipation:
 
@@ -275,18 +267,17 @@ You may be referred on to another service for specialist input. Referrals for bo
 
 ## Useful Organisations & Contacts
 
-Please look at the bottom of the table for further information about call charges.  
+Please look at the bottom of the table for further information about call charges.
 
-| Organisation                     | About                                                                                                                                                                                                                                         | Phone Number     | Website                                                                                                                                                                                                                                                   |
-|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bladder and Bowel Community      | This organisation briefly explains the ‘Bristol Stool Chart’ and has a link to the chart to download.                                                                                                                                         | --               | <a href="https://www.bladderandbowel.org/bowel/bowel-resources/bristol-stool-form-scale/" class="external-link" target="_blank" rel="noopener noreferrer">www.bladderandbowel.org/bowel/bowel-resources/bristol-stool-form-scale/</a>                 |
-| British Nutrition Foundation     | Information about fibre content in nutrition, which helps improve constipation.                                                                                                                                                               | --               | <a href="https://www.nutrition.org.uk/nutritional-information/fibre/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nutrition.org.uk/nutritional-information/fibre/</a>                                                  |
-| Disability Rights UK             | RADAR Key page explains how disabled people can obtain a key that provides access to thousands of locked accessible toilets across the UK.| 0330 995 0400**  <br><br>Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.  | <a href="https://www.disabilityrightsuk.org/radar-keys" class="external-link" target="_blank" rel="noopener noreferrer">https://www.disabilityrightsuk.org/radar-keys</a>                                                                               |
-| The Great British Toilet Map     | An interactive map showing public toilets around the UK. You can set filters such as ‘Accessible’, ‘Radar Key’ and ‘Free’.                                                                                                                    | --               | <a href="https://www.toiletmap.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.toiletmap.org.uk</a>                                                                                                                          |
-| NHS                              | Provides more general information about constipation in terms of causes, treatments and when to see the GP.                                                                                                                                   | --               | <a href="https://www.nhs.uk/conditions/constipation/" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/conditions/constipation/</a>                                                                                           |
-| Parkinson’s UK                   | This charity provides information on managing bladder and bowel problems with Parkinson’s.<br><br>This can be read online, printed out, or mailed to you. | 808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)    | <a href="https://www.parkinsons.org.uk/information-and-support/your-magazine/spotlight/managing-bladder-and-bowel-problems" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/your-magazine/spotlight/managing-bladder-and-bowel-problems</a> |
+| Organisation                 | About                                                                                                                                                     | Phone Number                                                                                                                                                                     | Website                                                                                                                                                                                                                                                                                                           |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bladder and Bowel Community  | This organisation briefly explains the ‘Bristol Stool Chart’ and has a link to the chart to download.                                                     | --                                                                                                                                                                               | <a href="https://www.bladderandbowel.org/bowel/bowel-resources/bristol-stool-form-scale/" class="external-link" target="_blank" rel="noopener noreferrer">www.bladderandbowel.org/bowel/bowel-resources/bristol-stool-form-scale/</a>                                                                             |
+| British Nutrition Foundation | Information about fibre content in nutrition, which helps improve constipation.                                                                           | --                                                                                                                                                                               | <a href="https://www.nutrition.org.uk/nutritional-information/fibre/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nutrition.org.uk/nutritional-information/fibre/</a>                                                                                                             |
+| Disability Rights UK         | RADAR Key page explains how disabled people can obtain a key that provides access to thousands of locked accessible toilets across the UK.                | 0330 995 0400\*\* <br><br>Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider. | <a href="https://www.disabilityrightsuk.org/radar-keys" class="external-link" target="_blank" rel="noopener noreferrer">https://www.disabilityrightsuk.org/radar-keys</a>                                                                                                                                         |
+| The Great British Toilet Map | An interactive map showing public toilets around the UK. You can set filters such as ‘Accessible’, ‘Radar Key’ and ‘Free’.                                | --                                                                                                                                                                               | <a href="https://www.toiletmap.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.toiletmap.org.uk</a>                                                                                                                                                                                   |
+| NHS                          | Provides more general information about constipation in terms of causes, treatments and when to see the GP.                                               | --                                                                                                                                                                               | <a href="https://www.nhs.uk/conditions/constipation/" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/conditions/constipation/</a>                                                                                                                                                     |
+| Parkinson’s UK               | This charity provides information on managing bladder and bowel problems with Parkinson’s.<br><br>This can be read online, printed out, or mailed to you. | 808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)                            | <a href="https://www.parkinsons.org.uk/information-and-support/your-magazine/spotlight/managing-bladder-and-bowel-problems" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/your-magazine/spotlight/managing-bladder-and-bowel-problems</a> |
 
-**Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
+\*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
-

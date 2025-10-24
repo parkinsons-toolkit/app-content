@@ -10,13 +10,11 @@
 </iframe>
 </div>
 
-
 Everyone’s experience of Parkinson’s is different. Just because some people experience the symptoms described here does not mean that you will.
 
 In general, over time people may experience more symptoms, but there is no rule about which symptoms or when. For some, the uncertainty about how things will look and feel in the future is one of the most difficult parts of the Parkinson’s diagnosis.
 
 _Progression_ may involve the development of new symptoms or the worsening of existing symptoms. It may include an increasing difficulty controlling symptoms. Here we discuss challenges around progression and some of the more advanced symptoms. For other symptoms see the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages.
-
 
 ---
 
@@ -53,10 +51,8 @@ It is normal to feel grief. It is helpful to acknowledge your grief. Understandi
 </div>
 
 > “The more I said, ‘Parkinson’s is doing this,’ you may be more angry and frustrated. But to be able to think that it’s a disease and I’m living with it and I have to go and change my life around it, you sort of understand that I have to accept that, because it’s not going to go away. It’s going to stay there. So it’s better for me to deal with it like that.”
-> 
+>
 > _Person with Parkinson’s_
-
-
 
 ---
 
@@ -80,22 +76,23 @@ But generally, over time, symptoms tend to change:
 ### What can be done
 
 Speak with your Parkinson’s specialist team:
+
 - There may be adjustments to medication that could help, or the addition of new medications.
 - Depending on your circumstances, there may be other options, such as:
   - Medication by injection, ‘apomorphine’ - see the see our <a href="/learn/treatments/medications" class="internal-link">_Medications_</a> page for more information.
   - More invasive options such as Deep Brain Stimulation – see our <a href="/learn/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page for more information.
-  - An operation to put a tube into your gut, so that medication can be given directly into your digestive system – see our <a href="/learn/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page for more information. 
+  - An operation to put a tube into your gut, so that medication can be given directly into your digestive system – see our <a href="/learn/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page for more information.
 
-However, there may not be any suitable medical or surgical way to improve the pattern of your condition. This means that adapting to deal with the unpredictable symptoms may be required. Many find this hard. 
- 
-If the symptoms are affecting your ability to undertake daily activities or tasks, then you can speak to your GP. You can ask them to refer you to an Occupational Therapist who may be able to recommend strategies, equipment or support to help you deal with these difficulties. 
+However, there may not be any suitable medical or surgical way to improve the pattern of your condition. This means that adapting to deal with the unpredictable symptoms may be required. Many find this hard.
+
+If the symptoms are affecting your ability to undertake daily activities or tasks, then you can speak to your GP. You can ask them to refer you to an Occupational Therapist who may be able to recommend strategies, equipment or support to help you deal with these difficulties.
 
 ---
 
 ## My Experience\*\*
 
 > “I did try to keep a diary about the Parkinson’s… because I thought when I go back to the Parkinson’s clinic I could look back and say last week he was like this. It can help see changes, and get help.”
-> 
+>
 > _(Carer of someone with Parkinson’s)_
 
 ---
@@ -111,12 +108,9 @@ If the symptoms are affecting your ability to undertake daily activities or task
 - There is huge variation in symptoms in people. Dementia is sometimes related with changes in behaviour (e.g. agitation), mood (e.g. depression) or perceptions (e.g. hallucinations).
 - As for Parkinson’s, a Dementia diagnosis can cause grief.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dementia.jpg" alt="brain-scan" class="example-class">
 
-
 ### What can be done
-
 
 <div class="video-container">
 <iframe 
@@ -132,12 +126,11 @@ If the symptoms are affecting your ability to undertake daily activities or task
 - There are medication options that have been shown to improve symptoms in dementia. These are generally started by a Parkinson’s specialist or a dementia specialist.
 - Memory clinic services vary by area. They will generally have support services connected to them, or they can give you the details of services that can help you.
 - Day-to-day strategies for memory difficulties are discussed on the <a href="/learn/managing-symptoms/thinking-concentration-and-memory" class="internal-link">_Thinking, Concentration & Memory_</a> page.
-- **Prepare:** over time dementia can affect a person’s ability to make decisions. If someone no longer has the ‘mental capacity’ to make decisions about their care, then decisions will be made on their behalf. Prepare by thinking ahead and making your wishes known. You can record your wishes in advance or appoint someone to take decisions for you. See the <a href="/learn/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_Future Care Options_</a> page for things to consider, and the <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page for the formal process. 
+- **Prepare:** over time dementia can affect a person’s ability to make decisions. If someone no longer has the ‘mental capacity’ to make decisions about their care, then decisions will be made on their behalf. Prepare by thinking ahead and making your wishes known. You can record your wishes in advance or appoint someone to take decisions for you. See the <a href="/learn/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_Future Care Options_</a> page for things to consider, and the <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page for the formal process.
 
 ---
 
 ## Swallowing Problems & Chest Infections
-
 
 <div class="video-container">
 <iframe 
@@ -150,7 +143,6 @@ If the symptoms are affecting your ability to undertake daily activities or task
 </div>
 
 Swallowing problems are common in Parkinson’s but exist along a range of severity.When swallowing problems are more severe, there is a risk of food, drink or even saliva _‘going down the wrong way’_.
-
 
 ### How swallowing works
 
@@ -175,22 +167,21 @@ Swallowing problems are common in Parkinson’s but exist along a range of sever
 - SLT’s may make recommendations. These may be changes in consistency of the food and drink you take in. Such changes are to reduce the risk of aspiration pneumonia.
 - There are medical options that could be used for artificial feeding and hydration. However, they do not remove the risk of saliva _going down the wrong way._ Artificial feeding and hydration comes with risks and tube insertion may be distressing.
 - Some people prefer to accept the risk of food or drink going down the wrong way, so continue to eat and drink by mouth.
-- More information on artificial feeding is on the <a href="/learn/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_Future Care Options_</a> page. 
+- More information on artificial feeding is on the <a href="/learn/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_Future Care Options_</a> page.
 
 ---
 
 ## Useful Organisations & Contacts
 
-Please look at the bottom of the table for further information about call charges. 
+Please look at the bottom of the table for further information about call charges.
 
-| Organisation       | About                                                                                                                                                                                                                                                | Phone Number     | Website                                                                                                                                                                                                                                                                                                                                 |
-|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Age UK             | Provides information and support for older adults with dementia. They discuss financial support, housing and emotional support.                                              | 0800 678 1602 <br><br>Free support and advice helpline (Open 8am- 7pm, 365 days a year)   | <a href="https://www.ageuk.org.uk/information-advice/health-wellbeing/conditions-illnesses/dementia/getting-care-and-support/" class="external-link" target="_blank" rel="noopener noreferrer">www.ageuk.org.uk/information-advice/health-wellbeing/conditions-illnesses/dementia/getting-care-and-support/</a> |
-| Alzheimer’s Society | Offers support, information, and advocacy for people affected by dementia, including guidance on care, research, and ways to get involved.| 0333 150 3456** <br><br>Dementia Support (Open Monday-Wednesday, 9am-8pm, Thursday-Friday, 9am-5pm, Saturday-Sunday, 10am- 4pm)<br><br>Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.  | <a href="https://www.alzheimers.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.alzheimers.org.uk</a>                                                                                                                                                                                                     |
-| Dementia UK        | Provides specialist support and information for families affected by dementia, including access to Admiral Nurses who offer expert guidance on care, symptoms, and emotional wellbeing. | 0800 888 6678 <br><br>Free helpline (Open Monday-Friday, 9am-9pm, Saturday, 9am-5pm)   | <a href="https://www.dementiauk.org" class="external-link" target="_blank" rel="noopener noreferrer">www.dementiauk.org</a>                                                                                                                                                                                                           |
-| Parkinson’s UK     | Provide information on cognitive and memory changes associated with Parkinson’s, offer guidance on managing swallowing difficulties, and explain how the condition typically progresses over time.<br><br>You can read this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)   | Thinking and memory changes: <a href="https://www.parkinsons.org.uk/information-and-support/thinking-and-memory-changes" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/thinking-and-memory-changes</a><br><br>Swallowing: <a href="https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-managing-saliva" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-managing-saliva</a><br><br>How does Parkinson’s progress: <a href="https://www.parkinsons.org.uk/information-and-support/how-does-parkinsons-progress" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/how-does-parkinsons-progress</a> |
+| Organisation        | About                                                                                                                                                                                                                                                                              | Phone Number                                                                                                                                                                                                                                                                                    | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Age UK              | Provides information and support for older adults with dementia. They discuss financial support, housing and emotional support.                                                                                                                                                    | 0800 678 1602 <br><br>Free support and advice helpline (Open 8am- 7pm, 365 days a year)                                                                                                                                                                                                         | <a href="https://www.ageuk.org.uk/information-advice/health-wellbeing/conditions-illnesses/dementia/getting-care-and-support/" class="external-link" target="_blank" rel="noopener noreferrer">www.ageuk.org.uk/information-advice/health-wellbeing/conditions-illnesses/dementia/getting-care-and-support/</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Alzheimer’s Society | Offers support, information, and advocacy for people affected by dementia, including guidance on care, research, and ways to get involved.                                                                                                                                         | 0333 150 3456\*\* <br><br>Dementia Support (Open Monday-Wednesday, 9am-8pm, Thursday-Friday, 9am-5pm, Saturday-Sunday, 10am- 4pm)<br><br>Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider. | <a href="https://www.alzheimers.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.alzheimers.org.uk</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Dementia UK         | Provides specialist support and information for families affected by dementia, including access to Admiral Nurses who offer expert guidance on care, symptoms, and emotional wellbeing.                                                                                            | 0800 888 6678 <br><br>Free helpline (Open Monday-Friday, 9am-9pm, Saturday, 9am-5pm)                                                                                                                                                                                                            | <a href="https://www.dementiauk.org" class="external-link" target="_blank" rel="noopener noreferrer">www.dementiauk.org</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Parkinson’s UK      | Provide information on cognitive and memory changes associated with Parkinson’s, offer guidance on managing swallowing difficulties, and explain how the condition typically progresses over time.<br><br>You can read this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)                                                                                                                                          | Thinking and memory changes: <a href="https://www.parkinsons.org.uk/information-and-support/thinking-and-memory-changes" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/thinking-and-memory-changes</a><br><br>Swallowing: <a href="https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-managing-saliva" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-managing-saliva</a><br><br>How does Parkinson’s progress: <a href="https://www.parkinsons.org.uk/information-and-support/how-does-parkinsons-progress" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/how-does-parkinsons-progress</a> |
 
-
-** Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
+\*\* Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

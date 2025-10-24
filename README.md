@@ -18,7 +18,7 @@ Use HTML <a> tags with the `internal-link` class:
 
 &lt;a href="/learn/what-is-parkinsons" class="internal-link"&gt;What is Parkinson's&lt;/a&gt;
 
-&lt;a href="/learn/managing-symptoms/movement" class="internal-link"&gt;Movement Issues&lt;/a&gt;
+&lt;a href="/learn/managing-symptoms/tremor" class="internal-link"&gt;Tremor&lt;/a&gt;
 
 #### External Links (To Other Websites)
 

@@ -33,12 +33,9 @@ For dry eyes, over-the-counter ointments and eye drops are available from pharma
 </iframe>
 </div>
 
-
-
 Have regular eye checks to see if there are problems with near vision as this tends to deteriorate as people age. If a regular eye check is normal or new glasses are prescribed and you are still having problems reading, you may wish to ask your GP, optometrist, or ophthalmologist for a referral to a neuro-ophthalmologist. A neuro-ophthalmologist can do further tests and may prescribe ‘prisms’ (a special kind of glasses).
 
 See our <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page for more information on visual changes in Parkinson’s.
-
 
 ---
 
@@ -47,7 +44,6 @@ See our <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 
 ### Why can it be difficult for people with Parkinson’s?
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/writing.jpg" alt="writing" class="example-class">
-
 
 You may find writing more difficult if you experience:
 
@@ -98,14 +94,12 @@ You may find writing more difficult if you experience:
 </iframe>
 </div>
 
-
 If your handwriting does not improve despite trying the above suggestions, you could try seeking the advice of an occupational therapist. An occupational therapist can give you more specific hand exercises that may help with writing and other specialised hand tasks. For a referral for occupational therapy, speak to your GP.
 
 You can also consider:
 
 - If you have difficulty writing your signature on documents (prescriptions, passports, banking, etc.), a facsimile signature stamp may be useful. This can be used to create a legal signature with a rubber stamp meaning the person no longer needs to physically write their signature.
 - Alternative ways of communicating (e.g. using a computer).
-
 
 ---
 
@@ -114,7 +108,6 @@ You can also consider:
 If you struggle to communicate by speaking or writing, you could consider using equipment that may reduce these challenges - like a computer or tablet. But, you may find it challenging to use these if you have a lot of tremor or stiffness.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/computer.jpg" alt="computer" class="example-class">
-
 
 ### What can I try for myself?
 
@@ -127,7 +120,6 @@ If you struggle to communicate by speaking or writing, you could consider using 
   allowfullscreen>
 </iframe>
 </div>
-
 
 - If you use a laptop and find typing on a standard keyboard difficult, try typing on a touchscreen (e.g. tablet or mobile phone).
 - Video call software can be easy to use with little typing needed. E.g. Zoom, Teams, Facetime, Google Meet.
@@ -149,7 +141,6 @@ If using a computer or the internet feels overwhelming, there are training cours
 
 <a href="https://try.which.co.uk/which-brand-2/?source_code=911CUJ&Incl_CustomerList&gclid=EAIaIQobChMI9KLNz_aP6QIV0u3tCh1jbgosEAAYASAAEgJnQPD_BwE&gclsrc=aw.ds" class="external-link" target="_blank" rel="noopener noreferrer">‘Which?’</a> is a not-for-profit, independent service that provides unbiased advice to consumers for a fee. They can help with a wide range of areas, including choosing what technology devices to buy. They also provide information on technological aids in later life, such as assistive technology and easy-to-use mobile phones. Visit their webpage for more details. You can find the link in the More Information section.
 
-
 ---
 
 ## Using Technology - Mobile Phones
@@ -162,7 +153,6 @@ If using a computer or the internet feels overwhelming, there are training cours
 - Decreased stamina for holding the phone
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/showing-phone.jpg" alt="phone" class="example-class">
-
 
 ### What can I try for myself?
 
@@ -188,7 +178,6 @@ If using a computer or the internet feels overwhelming, there are training cours
 </iframe>
 </div>
 
-
 - Mobile phones can offer peace of mind. For example, knowing that you can contact someone straight away, no matter where they are.
 - Smartphones (a mobile that acts as a small computer and connects with the internet) can have applications (‘apps’) downloaded onto it.
 
@@ -202,22 +191,20 @@ If using a computer or the internet feels overwhelming, there are training cours
     - Video calling: lets you see and hear each other during a call o Medication manager apps: remind you when your medication is due. They may also let you store medical information.
     - Data gathering apps. These are used to measure some movement symptoms and speech. They may be used to inform the person who adjusts your Parkinson’s medications or treatments
 
-
 ---
 
 ## Useful Organisations & Contacts
 
-Please look at the bottom of the table for further information about call charges. 
+Please look at the bottom of the table for further information about call charges.
 
-| Organisation | About | Phone Number | Website |
-|--------------|-------|--------------|---------|
-| Age UK | Advice about using technology and the internet. You can call the freephone number to find your nearest Age UK branch and ask about local training opportunities.  | 0800 678 1602<br><br> Free support and advice helpline (Open 8am- 7pm, 365 days a year) | Making the most of the internet: <a href="https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/" class="external-link" target="_blank" rel="noopener noreferrer">www.ageuk.org.uk/information-advice/work-learning/technology-internet/</a> <br><br> How to make a video call: <a href="https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/video-calling/" class="external-link" target="_blank" rel="noopener noreferrer">www.ageuk.org.uk/information-advice/work-learning/technology-internet/video-calling/</a> |
-| AgeSpace | Provides instructions and guidance for older adults using technology. <br><br> There are instructions for using and setting up WhatsApp as well as information on staying safe online. | -- | Using Technology in Older Age: <a href="https://www.agespace.org/tech" class="external-link" target="_blank" rel="noopener noreferrer">www.agespace.org/tech</a> <br><br> WhatsApp Instructions: <a href="https://www.agespace.org/tech/whatsapp-set-up-guide" class="external-link" target="_blank" rel="noopener noreferrer">www.agespace.org/tech/whatsapp-set-up-guide</a> |
-| Parkinson’s UK | Provides information about and ways to manage communication problems with Parkinson’s. There is a specific section on tips to help with handwriting and communication technology. This can be read online, printed out, or mailed to you. | 0808 800 0303 <br><br> Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/speech-and-communication-problems" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/speech-and-communication-problems</a> |
-| Which? | Provides unbiased advice to consumers for a fee. They can help with a wide range of areas, including choosing what technology devices to buy. They also provide information on technological aids in later life, such as assistive technology and easy-to-use mobile phones.  | 029 2267 0000** <br><br> (Open Monday to Friday 9am-5pm, Saturday 9am-1pm) <br><br> Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider. | <a href="https://www.which.co.uk/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.which.co.uk/</a> |
-| YouTube | Many organisations and individuals use the platform YouTube to share videos on a wide range of topics. This video is: “7 Helpful Hand Exercises for Parkinson’s”. | -- | Helpful Hand Exercises for Parkinson's (to Improve Handwriting, Flexibility, and Dexterity): <a href="https://www.youtube.com/watch?v=Ez2GeaMa4c8" class="external-link" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=Ez2GeaMa4c8</a> |
+| Organisation   | About                                                                                                                                                                                                                                                                        | Phone Number                                                                                                                                                                                                                                 | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Age UK         | Advice about using technology and the internet. You can call the freephone number to find your nearest Age UK branch and ask about local training opportunities.                                                                                                             | 0800 678 1602<br><br> Free support and advice helpline (Open 8am- 7pm, 365 days a year)                                                                                                                                                      | Making the most of the internet: <a href="https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/" class="external-link" target="_blank" rel="noopener noreferrer">www.ageuk.org.uk/information-advice/work-learning/technology-internet/</a> <br><br> How to make a video call: <a href="https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/video-calling/" class="external-link" target="_blank" rel="noopener noreferrer">www.ageuk.org.uk/information-advice/work-learning/technology-internet/video-calling/</a> |
+| AgeSpace       | Provides instructions and guidance for older adults using technology. <br><br> There are instructions for using and setting up WhatsApp as well as information on staying safe online.                                                                                       | --                                                                                                                                                                                                                                           | Using Technology in Older Age: <a href="https://www.agespace.org/tech" class="external-link" target="_blank" rel="noopener noreferrer">www.agespace.org/tech</a> <br><br> WhatsApp Instructions: <a href="https://www.agespace.org/tech/whatsapp-set-up-guide" class="external-link" target="_blank" rel="noopener noreferrer">www.agespace.org/tech/whatsapp-set-up-guide</a>                                                                                                                                                                                          |
+| Parkinson’s UK | Provides information about and ways to manage communication problems with Parkinson’s. There is a specific section on tips to help with handwriting and communication technology. This can be read online, printed out, or mailed to you.                                    | 0808 800 0303 <br><br> Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)                                                                                      | <a href="https://www.parkinsons.org.uk/information-and-support/speech-and-communication-problems" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/speech-and-communication-problems</a>                                                                                                                                                                                                                                                                                                                   |
+| Which?         | Provides unbiased advice to consumers for a fee. They can help with a wide range of areas, including choosing what technology devices to buy. They also provide information on technological aids in later life, such as assistive technology and easy-to-use mobile phones. | 029 2267 0000\*\* <br><br> (Open Monday to Friday 9am-5pm, Saturday 9am-1pm) <br><br> Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider. | <a href="https://www.which.co.uk/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.which.co.uk/</a>                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| YouTube        | Many organisations and individuals use the platform YouTube to share videos on a wide range of topics. This video is: “7 Helpful Hand Exercises for Parkinson’s”.                                                                                                            | --                                                                                                                                                                                                                                           | Helpful Hand Exercises for Parkinson's (to Improve Handwriting, Flexibility, and Dexterity): <a href="https://www.youtube.com/watch?v=Ez2GeaMa4c8" class="external-link" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=Ez2GeaMa4c8</a>                                                                                                                                                                                                                                                                                                              |
 
-**Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
+\*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
-

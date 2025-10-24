@@ -4,7 +4,7 @@
 
 ### What is it?
 
-Intermittent injections of a medicine called apomorphine (a dopamine agonist). The injections go into the skin, a bit like an epi-pen or insulin pen. The medication works quickly, in 5-10 minutes. It lasts for about 40 minutes.  
+Intermittent injections of a medicine called apomorphine (a dopamine agonist). The injections go into the skin, a bit like an epi-pen or insulin pen. The medication works quickly, in 5-10 minutes. It lasts for about 40 minutes.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/apomorphine.jpg" alt="apomorphine" class="example-class">
 
@@ -20,7 +20,6 @@ Intermittent injections of a medicine called apomorphine (a dopamine agonist). T
 </iframe>
 </div>
 
-
 You may be able to have this treatment if:
 
 - You are diagnosed with Parkinson’s and have specific difficulties, such as:
@@ -32,7 +31,6 @@ You may be able to have this treatment if:
 - You do not need more than a certain number of injections per day. If more are needed, a pump may be considered (see below).
 - People (or their carers) are able to give themselves injections (after being trained). If people with Parkinson’s or carers are not able to give injections, an apomorphine pump may be considered.
 - A pump may be able to be supported by a district nurse or another nurse.
-
 
 ### What should I expect from the assessment process?
 
@@ -167,17 +165,13 @@ You may be considered for DBS if you:
 - Low mood
 - Memory or thinking problems
 
-
 For more information about these symptoms, see the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Mananging Symptoms_</a> pages.
-
-
 
 ### What should I expect from the assessment process?
 
 Deep Brain Stimulation is a highly specialised treatment that is only done at specialist centres, which may not be your local hospital. If your Parkinson’s specialist team think it might be a good treatment for you, they can refer you to a specialist centre. Please be aware there are often long waiting times before you get an appointment.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/neurologist.jpg" alt="DBS-appointment" class="example-class">
-
 
 The initial appointment is to see if the specialists think it might be a good treatment for you and to discuss it with you in more detail.
 
@@ -235,12 +229,13 @@ The settings of your stimulator can be adjusted to provide the best results. Adj
 ---
 
 ## My Experience
+
 People affected by Parkinson’s describe their experiences:
 
 > “We always came back to the fact that if we’ve tried medication and I still had problems, there’s the operation. We Googled it and my son found out about it. I didn’t want to have the operation because I thought it was too risky. But then it came to a stage where I thought yes, I have to have that. I had the professor who was really good, and then the Parkinson’s nurse. They were really helpful and kind of guided me, saying, you know, ‘Now’s the time for you to have the surgery because your body is sort of showing you that it’s not lasting enough on the tablets and then surgery’s an option if you want to go for it.’ Because you think, ‘Well I went into every avenue of the pills.’ I saw videos of the operation, of the DBS system.  
-So once I had the operation, you know, I could talk to you now probably longer than before. And now I’m more able to sort of express myself in an easy speech. It’s a bit better since I had the stimulator put in. And then the, doing things without getting tired too much.  
-Like they said, the operation will manage your symptoms and that’s what it’s doing. I’m managing my symptoms better than I was without the operation. They gave me quite a lot of support, the DBS team.”
-> 
+> So once I had the operation, you know, I could talk to you now probably longer than before. And now I’m more able to sort of express myself in an easy speech. It’s a bit better since I had the stimulator put in. And then the, doing things without getting tired too much.  
+> Like they said, the operation will manage your symptoms and that’s what it’s doing. I’m managing my symptoms better than I was without the operation. They gave me quite a lot of support, the DBS team.”
+>
 > _(Person with Parkinson’s)_
 
 ---
@@ -271,16 +266,16 @@ A pump regulates the amount of medication delivered. The pump is usually worn fo
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/duopoda-2.jpg" alt="duodopa" class="example-class">
 
-
 ### Who is it for?
 
-You may be able to have Duodopa infusion if: 
+You may be able to have Duodopa infusion if:
+
 - You are diagnosed with Parkinson’s and have specific difficulties, such as:
   - Significant periods where the medication has become less effective, ‘off’ periods.
   - Disabling involuntary movements, ‘dyskinesias’, at times when the medication is otherwise working well.
 - Your symptoms respond well to levodopa.
   - Symptoms that don’t get better with levodopa don’t tend to improve with Duodopa either. These may include problems with speaking, swallowing, falling due to loss of postural reflexes, or ‘freezing’ when the medication is otherwise working well (‘on’ periods). These may also include other non-motor symptoms such as apathy, drooling of saliva, constipation, or sleep disturbances, etc.
-- You (or someone supporting you) are available to accept and immediately refrigerate deliveries of the medication. You must also have space to store the medication in the fridge. 
+- You (or someone supporting you) are available to accept and immediately refrigerate deliveries of the medication. You must also have space to store the medication in the fridge.
 
 **Duodopa is not suitable if you have certain problems, including:**
 
@@ -288,33 +283,33 @@ You may be able to have Duodopa infusion if:
 - Conditions that make the surgery high risk
 - Problems which would prevent the person from being able to connect and disconnect the pump safely. This does not apply is there is someone else available to support you.
 
-The goal of this treatment is to have people feel at their best for more of the time. Duodopa doesn’t make people better than their current best other than potentially reducing dykinesias. 
+The goal of this treatment is to have people feel at their best for more of the time. Duodopa doesn’t make people better than their current best other than potentially reducing dykinesias.
 
 ### What should I expect from the assessment process
 
-Duodopa is a highly specialised treatment that is only managed at specialist centres, which may not be your local hospital. If your Parkinson’s team think it might be a good treatment for you, they can refer you to a specialist centre. Please be aware there are often long waiting times before you get an appointment. The first appointment is to see if the specialists also think it might be a good treatment for you and to discuss it with you in more detail. 
- 
-If they think it might be a good treatment for you, and you wish to proceed, there will be an assessment process at the specialist centre. This is likely to involve: 
+Duodopa is a highly specialised treatment that is only managed at specialist centres, which may not be your local hospital. If your Parkinson’s team think it might be a good treatment for you, they can refer you to a specialist centre. Please be aware there are often long waiting times before you get an appointment. The first appointment is to see if the specialists also think it might be a good treatment for you and to discuss it with you in more detail.
+
+If they think it might be a good treatment for you, and you wish to proceed, there will be an assessment process at the specialist centre. This is likely to involve:
 
 - Assessment of your symptoms (‘motor’ and ‘non-motor’), memory and thinking.
 - Assessment of your body response to levodopa.
 - Assessment of your suitability for the surgery.
-- Discussion about how you would manage the medication and care of the tube. 
+- Discussion about how you would manage the medication and care of the tube.
 
 ### What does the procedure involve?
 
 The process may be different in different hospitals. Some hospitals arrange a planned hospital stay to trial the medication before going ahead. For the trial, the medication may be given through a temporary tube that is inserted through the nose, down into the gut. This is called a nasogastric tube.
 
-If the trial goes well, then the long term ‘jejunostomy’ tube is inserted and the nasogastric tube is removed. The jejunostomy tube is usually inserted one of two ways: 
+If the trial goes well, then the long term ‘jejunostomy’ tube is inserted and the nasogastric tube is removed. The jejunostomy tube is usually inserted one of two ways:
 
-  1.	A camera is inserted from the mouth down the food pipe to guide where the cut should be made for the tube. 
-  2.	Special x-rays used to guide placement.
+1. A camera is inserted from the mouth down the food pipe to guide where the cut should be made for the tube.
+2. Special x-rays used to guide placement.
 
-The tube connects from outside the body, through the skin into the stomach and is extended on the inside to reach the required part of the gut (sometimes called PEG-J). 
- 
-In general, these procedures are done using local anaesthetic injection into the skin where the cut will be made. Sedating medicine is given via a drip. 
- 
-Once the tube is safe to use, tablet medications are reduced down and discontinued as the Duodopa dose is optimised. Some people still need some tablet medication, particularly for the nighttime. 
+The tube connects from outside the body, through the skin into the stomach and is extended on the inside to reach the required part of the gut (sometimes called PEG-J).
+
+In general, these procedures are done using local anaesthetic injection into the skin where the cut will be made. Sedating medicine is given via a drip.
+
+Once the tube is safe to use, tablet medications are reduced down and discontinued as the Duodopa dose is optimised. Some people still need some tablet medication, particularly for the nighttime.
 
 ### What are the intended benefits?
 
@@ -329,13 +324,10 @@ Once the tube is safe to use, tablet medications are reduced down and discontinu
 - Other risks include problems with the tube, such as blockages, or issues with the skin around the tube.
 - Longer term problems include weight loss and low vitamin B12 levels (this can cause problems with nerve function).
 
-
 ### What do I do if I have a problem afterwards?
 
-You will need long term follow-up at the specialist centre for your Duodopa treatment. 
- When you have the procedure and are set up with the equipment, you will be given contact details for who to contact if there are any problems. You should carry the details of your treatment on you so that the specialist team can be contacted if there is an emergency. 
-
-
+You will need long term follow-up at the specialist centre for your Duodopa treatment.
+When you have the procedure and are set up with the equipment, you will be given contact details for who to contact if there are any problems. You should carry the details of your treatment on you so that the specialist team can be contacted if there is an emergency.
 
 ---
 
@@ -343,10 +335,9 @@ You will need long term follow-up at the specialist centre for your Duodopa trea
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
 
-| Organisation   | About                                                                                                                                                              | Phone Number  | Website                                                                                                                                                                                                                                                                                                  |
-|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NHS            | This NHS paper provides information about Duodopa Infusions. <br><br>(See pages 4-5 for a plain language summary)                                                  | --            | Clinical Commissioning Policy: Levodopa-Carbidopa Intestinal Gel (LCIG): <a href="https://www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2015/07/d04-p-e.pdf" class="external-link" target="_blank" rel="noopener noreferrer">www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2015/07/d04-p-e.pdf</a>       |
-| Parkinson’s UK | Parkinson’s UK provides PDF leaflets with information on Apomorphine injections and pumps. There is also information on Deep Brain Stimulation. The leaflets discuss advantages, disadvantages and where to seek the treatments.  | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | Apomorphine: <a href="https://www.parkinsons.org.uk/information-and-support/apomorphine" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/apomorphine</a><br><br>Deep Brain Stimulation: <a href="https://www.parkinsons.org.uk/information-and-support/deep-brain-stimulation" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/deep-brain-stimulation</a> |
-
+| Organisation   | About                                                                                                                                                                                                                            | Phone Number                                                                                                                                           | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NHS            | This NHS paper provides information about Duodopa Infusions. <br><br>(See pages 4-5 for a plain language summary)                                                                                                                | --                                                                                                                                                     | Clinical Commissioning Policy: Levodopa-Carbidopa Intestinal Gel (LCIG): <a href="https://www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2015/07/d04-p-e.pdf" class="external-link" target="_blank" rel="noopener noreferrer">www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2015/07/d04-p-e.pdf</a>                                                                                                                                                      |
+| Parkinson’s UK | Parkinson’s UK provides PDF leaflets with information on Apomorphine injections and pumps. There is also information on Deep Brain Stimulation. The leaflets discuss advantages, disadvantages and where to seek the treatments. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | Apomorphine: <a href="https://www.parkinsons.org.uk/information-and-support/apomorphine" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/apomorphine</a><br><br>Deep Brain Stimulation: <a href="https://www.parkinsons.org.uk/information-and-support/deep-brain-stimulation" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/deep-brain-stimulation</a> |
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

@@ -10,11 +10,9 @@
 </iframe>
 </div>
 
-
 Stiffness or _rigidity_ is generally felt in the muscles of the body. Muscles don’t stretch or relax as they usually do. This can cause feelings of pain or tightness in people’s muscles. People with Parkinson’s may notice they have difficulty with small movements of their hands. This may be when buttoning buttons, shaving their face or writing with a pen. They may also have trouble rolling over in bed or getting out of a chair. Facial muscles may also be stiff, and a person with Parkinson’s may have less facial expression than they used to.
 
 Slowness of movement also happens in Parkinson’s. This can be seen in someone’s overall movements being slower, for example, their walking or gestures. Repeated movements can also become smaller or slower the more the actions are repeated. This can happen when doing a lot of writing by hand, for example. People with Parkinson’s can also have slower reaction times or take smaller and more shuffling steps. Stiffness, slowness and difficulty with small movements may also contribute to falls and pain.
-
 
 ---
 
@@ -39,7 +37,6 @@ There are many things you can try for yourself as described below. Although ther
 ---
 
 # What can I try for myself?
-
 
 <div class="video-container">
 <iframe
@@ -78,7 +75,6 @@ See <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" 
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/stretch-physio.jpg" alt="stretch" class="example-class">
 
-
 ### Shoulder movements
 
 - To help keep the shoulders moving well, give them specific attention
@@ -103,7 +99,6 @@ See <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" 
 
 - May help relax stiff muscles.
 - _Make sure you are well hydrated if you have warm baths._
-
 
 ---
 
@@ -172,9 +167,9 @@ The main treatments for these symptoms are (physical) therapies and medication.
 
 ## Useful Organisations & Contacts
 
-| Organisation               | About                                                                                                                                                                                                                                     | Phone Number     | Website                                                                                                                                                                                                                                                                                                                                 |
-|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Michael J. Fox Foundation  | This American organisation has compiled five ways to help muscle stiffness in Parkinson’s.                                                                                                                                               | --               | <a href="https://www.michaeljfox.org/news/five-ways-help-muscle-stiffness-parkinsons-disease" class="external-link" target="_blank" rel="noopener noreferrer">https://www.michaeljfox.org/news/five-ways-help-muscle-stiffness-parkinsons-disease</a>                                       |
-| Parkinson’s UK             | This charity has some information about rigidity and slowness of movement with Parkinson’s.<br><br>You can print this information, read it online or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)   | Rigidity: <a href="http://www.parkinsons.org.uk/information-and-support/rigidity" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinsons.org.uk/information-and-support/rigidity</a><br><br>Slowness of Movement: <a href="https://www.parkinsons.org.uk/information-and-support/slowness-movement" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/slowness-movement</a> |
+| Organisation              | About                                                                                                                                                                       | Phone Number                                                                                                                                           | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Michael J. Fox Foundation | This American organisation has compiled five ways to help muscle stiffness in Parkinson’s.                                                                                  | --                                                                                                                                                     | <a href="https://www.michaeljfox.org/news/five-ways-help-muscle-stiffness-parkinsons-disease" class="external-link" target="_blank" rel="noopener noreferrer">https://www.michaeljfox.org/news/five-ways-help-muscle-stiffness-parkinsons-disease</a>                                                                                                                                                                                                                          |
+| Parkinson’s UK            | This charity has some information about rigidity and slowness of movement with Parkinson’s.<br><br>You can print this information, read it online or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | Rigidity: <a href="http://www.parkinsons.org.uk/information-and-support/rigidity" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinsons.org.uk/information-and-support/rigidity</a><br><br>Slowness of Movement: <a href="https://www.parkinsons.org.uk/information-and-support/slowness-movement" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/slowness-movement</a> |
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

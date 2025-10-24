@@ -10,11 +10,9 @@
 </iframe>
 </div>
 
-
 Dystonia is an involuntary muscle contraction (this is different to **Dyskinesia** which refers to <a href="/learn/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements_</a>). Dystonia is caused by incorrect brain signals. Muscles become tighter or shorter than usual, making them stiff. Dystonia can involve twisting movements or spasms. Dystonia can feel painful or uncomfortable. Not everyone who has Parkinson’s will experience it.
 
 Dystonia most commonly effects the legs and feet of someone with Parkinson’s. It can cause abnormal postures of limbs or digits. People may notice their toes curling. They may notice their feet turning in at the ankle. They may feel or see their big toe sticking up. Dystonia can also impact the eyelids. It can cause frequent blinking and an intolerance to light. It can affect the head and neck, the vocal cords, and/or the hands.
-
 
 ---
 
@@ -41,7 +39,6 @@ There are various strategies you can try for yourself discussed below. You shoul
 - Relaxing techniques like a warm bath, yoga, or massage may help.
 - Eyelid dystonia is also called blepharospasm. It may respond to: pressure on the eyebrows, lying down, or chewing.
 
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/therapy-assistant.jpg" alt="therapy-assistant" class="example-class">
 
 ### Stretching
@@ -63,7 +60,6 @@ There are various strategies you can try for yourself discussed below. You shoul
 - Breathe slowly in and out during the stretch. Don’t hold your breath.
 - Repeat each stretch 3-4 times, with a brief break between.
 - Try to make this a routine part of your life, several times per week.
-
 
 ---
 
@@ -130,11 +126,10 @@ Possible adjustments that may be considered:
 
 ## Useful Organisations & Contacts
 
-| Organisation   | About                                                                                                                                                                                                                                                | Phone Number     | Website                                                                                                                                                                                                                                                   |
-|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Dystonia UK    | Offers comprehensive support, information, and advocacy for people affected by dystonia, including resources on diagnosis, treatment, personal stories, and community events.                                                                       | --               | <a href="https://www.dystonia.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.dystonia.org.uk</a>                                                                                                                             |
-| NHS            | The NHS has compact information on causes, living with dystonia and when to speak to a GP.                                                                                                                     | --               | <a href="https://www.nhs.uk/conditions/dystonia/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/conditions/dystonia/</a>                                                                                             |
-| Parkinson’s UK | Provides information about muscle cramps and dystonia in Parkinson’s, outlining causes, symptoms, and treatment options to help manage discomfort and improve mobility.<br><br>You can view this online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)   | <a href="https://www.parkinsons.org.uk/information-and-support/muscle-cramps-and-dystonia" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/muscle-cramps-and-dystonia</a>           |
-
+| Organisation   | About                                                                                                                                                                                                                                       | Phone Number                                                                                                                                           | Website                                                                                                                                                                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dystonia UK    | Offers comprehensive support, information, and advocacy for people affected by dystonia, including resources on diagnosis, treatment, personal stories, and community events.                                                               | --                                                                                                                                                     | <a href="https://www.dystonia.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">www.dystonia.org.uk</a>                                                                                                                   |
+| NHS            | The NHS has compact information on causes, living with dystonia and when to speak to a GP.                                                                                                                                                  | --                                                                                                                                                     | <a href="https://www.nhs.uk/conditions/dystonia/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/conditions/dystonia/</a>                                                                                   |
+| Parkinson’s UK | Provides information about muscle cramps and dystonia in Parkinson’s, outlining causes, symptoms, and treatment options to help manage discomfort and improve mobility.<br><br>You can view this online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/muscle-cramps-and-dystonia" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/muscle-cramps-and-dystonia</a> |
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
