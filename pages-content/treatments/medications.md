@@ -8,7 +8,7 @@ It can take some time to find the best medicine regime for you. Symptoms change,
 
 It is important not to change your medication without discussing this with your GP or Parkinson’s team first. Any withdrawal from Parkinson’s drugs must be done gradually.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/medication.jpg" alt="medication" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/medication.jpg" alt="medication" class="treatments-and-therapies__medications">
 
 ---
 
