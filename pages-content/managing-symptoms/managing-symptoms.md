@@ -21,7 +21,7 @@ _Live Well with Parkinson's_ Managing Symptoms:
   - <a href="/learn/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a>
   - <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symtoms_</a>
 - **Mood**
-  - <a href="/learn/managing-symptoms/low mood" class="internal-link">_Low Mood_</a>
+  - <a href="/learn/managing-symptoms/low-mood" class="internal-link">_Low Mood_</a>
   - <a href="/learn/managing-symptoms/anxiety" class="internal-link">_Anxiety_</a>
   - <a href="/learn/managing-symptoms/loss-of-interest-or-drive" class="internal-link">_Loss of Interest or Drive (Apathy)_</a>
 - **Movement, Walking & Balance**
