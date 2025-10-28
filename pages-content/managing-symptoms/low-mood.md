@@ -30,7 +30,7 @@ A low mood which persists despite taking positive steps to help manage it can be
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gloomy-waters.jpg" alt="looking-over-water" class="example-class">
 
 
---
+---
 
 ## Symptoms of depressions
 
