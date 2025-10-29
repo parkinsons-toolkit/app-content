@@ -52,7 +52,7 @@ Prolonged pressure through an area of skin can cause damage. This is more likely
 
 All of these skin issues are seen in people who don’t have Parkinson’s as well. And people with Parkinson’s can also get skin conditions that are completely unrelated to their Parkinson’s. Wounds and ulcers are more common in people who have decreased sensation for other medical reasons. An example of this would be those with diabetes.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/checking-moles.jpg" alt="checking-moles" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/checking-moles.jpg" alt="checking-moles" class="skin-conditions__checking-moles">
 
 ---
 
@@ -102,7 +102,7 @@ The other skin conditions discussed here are not urgent, but if bothering you th
 - For eyelids: Clean them daily with cotton buds moistened with baby shampoo.
 - Avoid irritants on face and body.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/washing-hair.jpg" alt="hair" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/washing-hair.jpg" alt="hair" class="skin-conditions__washing-hair">
 
 ### Oily Skin
 

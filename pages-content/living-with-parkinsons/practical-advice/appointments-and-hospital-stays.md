@@ -36,7 +36,7 @@ Hospitals and GP surgeries should have interpretation services available. This w
 
 It is helpful to think about what you are expecting from the appointment. It is also helpful to think about any specific questions you wish to ask. Many people find it helpful to write them down. Appointment times can feel very short, and the healthcare professional will have questions to ask you. It is helpful to both understand each other’s expectations at the start. It may not be possible to cover everything in that one appointment. It is helpful to think if you can prioritise your concerns, perhaps by writing a numbered list.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gp-appointment.jpg" alt="appointment" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gp-appointment.jpg" alt="appointment" class="appointments-and-hospital-stays__gp-appointment">
 
 ### What to bring?
 
@@ -142,7 +142,7 @@ It is important for staff to know you have Parkinson’s and know your specific 
 
 You will probably encounter lots of different professionals during your hospital stay. See <a href="/learn/treatments-and-therapies/who-may-be-involved" class="internal-link">_Who May Be Involved_</a> for more guidance on roles but always feel free to ask.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/nurse.jpg" alt="nurse" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/nurse.jpg" alt="nurse" class="appointments-and-hospital-stays__nurse">
 
 ### Responsibilities you may still have outside hospital
 
@@ -263,7 +263,7 @@ Managing medications around surgery can be complicated. This is particularly so 
 
 Some medications given in the hospital (for example medicines to reduce pain) can interact with the medications you take for your Parkinson’s. They can cause confusion, dizziness or nausea, for example. It is important to always let staff know if you don’t feel right in any way.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hospital-support.jpg" alt="hospital-tests" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hospital-support.jpg" alt="hospital-tests" class="appointments-and-hospital-stays__hospital-support">
 
 ---
 
@@ -279,7 +279,7 @@ Single rooms are not standard for NHS care. Availability of single rooms varies 
 
 Everyone staying in hospital is assessed for their risk of developing blood clots. This is a medical ‘risk-benefit decision process’ that guides the formulation of a plan. This plan may sometimes involve a small daily injection of a blood thinning medicine to reduce the risk of blood clots. If you have any questions, ask the team looking after you.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hospital.jpg" alt="hospital" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hospital.jpg" alt="hospital" class="appointments-and-hospital-stays__hospital">
 
 ### Preventing spread of infection
 

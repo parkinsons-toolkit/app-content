@@ -53,7 +53,7 @@ Much can be improved with equipment rather than needing adaptations, see the <a 
 - **Built in hoists** – Hoists are equipment that lift a person between a bed and a (wheel) chair, or a bed and a commode, and back. They are discussed in more detail on the <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page. There are types that are built-in, called **Gantry hoists**. These are attached to the floor in a frame.  
   Through floor or ceiling track hoists can be built into the ceiling.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/adaptations.jpg" alt="adaptations" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/adaptations.jpg" alt="adaptations" class="housing__adaptations">
 
 ### Bathroom Adaptations
 
@@ -69,7 +69,7 @@ Instead of, or as well as bathroom equipment, adaptations include:
 - **Anti-slip tiles or adding adhesive anti-slip material** to the bottom and edges of the bath or shower and railings can prevent slipping when the floor gets wet during your shower.
 - **Converting the bathroom to a wet room**. If climbing into a bath is difficult or the shower cubicle is too small, then some people turn the bathroom into a wet room. The wet room will be on one level with non-slip tiles. As there is no need to step in or out of the shower/bath, it reduces the risk of slips and falls.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/assisted-bath.jpeg" alt="assisted-bath" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/assisted-bath.jpeg" alt="assisted-bath" class="housing__assisted-bath">
 
 ### Kitchen Adaptations
 

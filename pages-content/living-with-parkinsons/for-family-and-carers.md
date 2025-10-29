@@ -118,7 +118,7 @@ Stress is something we all encounter. Life changes, such as personal problems, r
 
 To overcome stress or prevent too much stress, there are lots of practical steps you can take. At heart of this is looking after yourself and your wellbeing.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/rainbow.jpg" alt="rainbow" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/rainbow.jpg" alt="rainbow" class="for-family-and-carers__rainbow">
 
 ---
 
@@ -153,7 +153,7 @@ While there are positive steps you can think about taking, there are also some t
 - _**Not communicating your needs:**_ People will often offer help, but sometimes it might not be the right help. Also, the help you need may change over time. This can be as stressful as people not helping. However, it is important to remember people are not mind-readers. They often do not know what help is needed or what is most important to you. Do not be afraid to let people know your needs and to be specific. Equally, allow others room for error. They are unlikely to do things as well as you, but they need the chance to practise (and remember the concept of good enough).
 - _**Not being assertive:**_ Being a carer means you will often have many additional demands on you. Therefore, it is important that you are assertive when you need to be. This can be when others put additional demands on you or when it comes to stating your own needs. Being assertive is stating your needs clearly and why they are important to you.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/anxiety-low-mood.jpg" alt="anxiety-low-mood" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/anxiety-low-mood.jpg" alt="anxiety-low-mood" class="for-family-and-carers__anxiety-low-mood">
 
 ---
 
@@ -359,7 +359,7 @@ _**Tips for accepting help:**_
 - _**Guide help:**_ If people do help, but give the wrong help, talk to them about this. Gently guide them on what would be useful and how to give you the right sort of help. This might differ from person to person. The help you need might be a listening ear, or it might be something more practical. Being clear about what you need from each helper will allow you to build a more effective support network. Remember, you can always contact/talk to an independent source outside of your immediate circle.
 - _**Refusal of help**_ Sometimes people with Parkinson’s may choose not to accept the support offered. There may be many reasons for this. It is important that you talk to the person about this. What help are they willing to accept? What do they not want? These conversations can help both of you define your roles better and be clear about what is expected of the other. Sometimes it may be that the person with Parkinson’s is suffering emotionally. If you suspect this is the case, you could encourage them to get some support. Remember, if you are not in a situation to be able to talk with the person with Parkinson’s /or other family members, you can contact one of the support groups which may help you know you are not alone.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/accepting-help.jpg" alt="accepting-help" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/accepting-help.jpg" alt="accepting-help" class="for-family-and-carers__accepting-help">
 
 ---
 
@@ -378,7 +378,7 @@ _**Tips for coping with changes in relationships:**_
 - Ask the person with Parkinson’s what they are willing or not willing to allow you to help with
 - Keep talking
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/park.jpg" alt="walk-in-park" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/park.jpg" alt="walk-in-park" class="for-family-and-carers__park">
 
 ---
 

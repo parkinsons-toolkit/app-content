@@ -34,7 +34,7 @@ Being diagnosed with Parkinson’s disease does not automatically mean you have 
 
 It is a legal requirement to tell the Driving and Vehicle Licensing Agency (DVLA) of your medical condition as soon as possible. It is a criminal offence to not tell the DVLA of a medical condition that may affect your driving. Not telling them could result in a fine of up to £1,000 or prosecution if you are involved in an accident. It is also important to discuss your medication with your Parkinson’s specialist team or GP and how this may affect your ability to drive. This could be, for example, drowsiness, or feeling too sleepy in the daytime. Not declaring a health condition would mean your motor insurance is not valid. It is an offense to withhold information from your insurance company and so they should also be notified. See the <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">\_Legal Matters_</a> page for more information about insurance.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/driving.jpg" alt="driving" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/driving.jpg" alt="driving" class="travel__driving">
 
 ### Will my GP or specialist talk with the DVLA?
 
@@ -131,7 +131,7 @@ As Parkinson’s can affect your walking this section aims to provide you with h
 
 The Blue Badge Scheme aims to help people with mobility issues (as either the driver or passenger of a car) to park closer to their destination. The blue badge is linked to the individual rather than a vehicle and so can be used in any car you are travelling in. This includes hire cars or taxis.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blue-badge.jpg" alt="blue-badge" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blue-badge.jpg" alt="blue-badge" class="travel__blue-badge">
 
 The key benefit to getting a Blue Badge is that it lets you park for free:
 
@@ -250,7 +250,7 @@ There are other transport options besides driving that offer travel schemes to h
   - You struggle to walk very far because of a disability or illness
   - You are partially sighted or blind, deaf, or unable to speak
  
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/bus.jpg" alt="bus" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/bus.jpg" alt="bus" class="travel__bus">
 
 
 **<ins>Rail Travel</ins>**
@@ -340,7 +340,7 @@ Parkinson’s may make accessing toilets more difficult due to mobility or bladd
 - The <a href="/learn/managing-symptoms/urination" class="internal-link">_**Urinary Symptoms**_</a> pages may also be helpful for additional support.
 
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/toilet-sign.jpg" alt="toilet-sign" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/toilet-sign.jpg" alt="toilet-sign" class="travel__toilet-sign">
 
 ---
 

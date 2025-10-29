@@ -6,7 +6,7 @@
 
 Intermittent injections of a medicine called apomorphine (a dopamine agonist). The injections go into the skin, a bit like an epi-pen or insulin pen. The medication works quickly, in 5-10 minutes. It lasts for about 40 minutes.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/apomorphine.jpg" alt="apomorphine" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/apomorphine.jpg" alt="apomorphine" class="advanced-therapies-and-surgical-treatments__apomorphine">
 
 ### Who is it for?
 
@@ -171,7 +171,7 @@ For more information about these symptoms, see the <a href="/learn/managing-symp
 
 Deep Brain Stimulation is a highly specialised treatment that is only done at specialist centres, which may not be your local hospital. If your Parkinson’s specialist team think it might be a good treatment for you, they can refer you to a specialist centre. Please be aware there are often long waiting times before you get an appointment.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/neurologist.jpg" alt="DBS-appointment" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/neurologist.jpg" alt="DBS-appointment" class="advanced-therapies-and-surgical-treatments__neurologist">
 
 The initial appointment is to see if the specialists think it might be a good treatment for you and to discuss it with you in more detail.
 
@@ -264,7 +264,7 @@ Duodopa is a gel form of levodopa that is pumped directly into the gut, where le
 
 A pump regulates the amount of medication delivered. The pump is usually worn for 16 hours per day and disconnected for 8 hours. Medication packs are kept in the fridge when not in use.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/duopoda-2.jpg" alt="duodopa" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/duopoda-2.jpg" alt="duodopa" class="advanced-therapies-and-surgical-treatments__duopoda-2">
 
 ### Who is it for?
 

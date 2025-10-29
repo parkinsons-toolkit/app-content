@@ -108,7 +108,7 @@ If the symptoms are affecting your ability to undertake daily activities or task
 - There is huge variation in symptoms in people. Dementia is sometimes related with changes in behaviour (e.g. agitation), mood (e.g. depression) or perceptions (e.g. hallucinations).
 - As for Parkinson’s, a Dementia diagnosis can cause grief.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dementia.jpg" alt="brain-scan" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dementia.jpg" alt="brain-scan" class="progression-of-symptoms__dementia">
 
 ### What can be done
 

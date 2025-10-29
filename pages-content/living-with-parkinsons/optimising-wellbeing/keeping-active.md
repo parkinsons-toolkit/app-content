@@ -38,7 +38,7 @@ Different people will reach this with different activities. This will change ove
 
 Everyone with Parkinson’s should be considered for referral to physiotherapy. This is even if you do not have trouble with symptoms. It can be helpful to tailor the recommendations about activity for you.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/couple-stretch.jpg" alt="couple-stretching" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/couple-stretch.jpg" alt="couple-stretching" class="keeping-active__couple-stretch">
 
 ---
 
@@ -66,7 +66,7 @@ Try to avoid being sedentary whenever possible. Take breaks from sitting, to mov
 
 This is about trying to undertake more intense activity where possible. It is to get your body working harder. Choosing something you enjoy or can fit into your life’s routine gives you the best chance of continuing it.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/treadmill.jpg" alt="treadmill" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/treadmill.jpg" alt="treadmill" class="keeping-active__treadmill">
 
 **3. Increase Flexibility**
 
@@ -80,7 +80,7 @@ To gain strength, you should push to the point that it would be difficult to rep
 
 Many people with Parkinson’s experience more movement symptoms on one side of the body than the other. When strengthening muscles, try to keep both sides of your body working evenly.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/seated-exercise.jpg" alt="seated-exercise" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/seated-exercise.jpg" alt="seated-exercise" class="keeping-active__seated-exercise">
 
 **5. Work on Balance & Coordination**
 
@@ -90,7 +90,7 @@ For all of these types of activity, make sure you warm up before undertaking mor
 
 To see what this might look like in real life, pick the person you most relate to. You can find targeted advice about keeping active for each person on the separate pages.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/active.jpg" alt="active" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/active.jpg" alt="active" class="keeping-active__active">
 
 ---
 
@@ -132,7 +132,7 @@ Although it does not require intense effort, it is important to remember your ha
 
 This could be built into your routine through day-to-day tasks, for example writing, drawing, or manipulating small objects, like handling coins, or screwing nuts onto bolts. Alternatively, you could get creative, modelling with clay or play-dough.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/resistance-band.jpg" alt="resistance-band" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/resistance-band.jpg" alt="resistance-band" class="keeping-active__resistance-band">
 
 ### Posture
 
@@ -148,7 +148,7 @@ This could be built into your routine through day-to-day tasks, for example writ
 - It seems that rhythm or beat of music helps people with Parkinson’s make some movements and so undertake activity. Some people find it more fun too.
 - Consider exercising to music or taking part in dance as part of your exercise.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/active-dance.jpg" alt="dancing" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/active-dance.jpg" alt="dancing" class="keeping-active__active-dance">
 
 ---
 
@@ -191,7 +191,7 @@ Think about what motivates you, and how you can embrace that in keeping active.
   - A scheduled TV programme
   - Waiting for a kettle to boil
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/routine.jpg" alt="routine" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/routine.jpg" alt="routine" class="keeping-active__routine">
 
 This gives an anchor: each time that part of your routine happens, you also undertake the activity. This makes you more likely to remember to do it regularly.
 
@@ -213,7 +213,7 @@ Options vary based on where you live. Someone with local knowledge of activities
 - A charity – for example Parkinson’s UK
 - Your Parkinson’s specialist team
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/physio.jpg" alt="physio-exercise" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/physio.jpg" alt="physio-exercise" class="keeping-active__physio">
 
 ---
 

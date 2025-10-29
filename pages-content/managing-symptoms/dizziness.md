@@ -37,7 +37,7 @@ Dizziness is seen in a range of other conditions, including inner ear problems (
 
 Symptoms that are not typical of dizziness related to Parkinson’s include: difficulty in hearing, ringing in your ears (tinnitus) and bad headaches.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dizzy.jpg" alt="dizzy" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dizzy.jpg" alt="dizzy" class="dizziness__dizzy">
 
 ---
 
@@ -94,7 +94,7 @@ These do not change the symptom but help reduce risks:
 - Increased **salt** in the diet may help in some cases, but in some circumstances can be harmful.
   Speak with your GP before you try this.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/low-blood-pressure.jpg" alt="low-blood-pressure" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/low-blood-pressure.jpg" alt="low-blood-pressure" class="dizziness__low-blood-pressure">
 
 For more information about blood pressure (including how to measure it), see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page.
 

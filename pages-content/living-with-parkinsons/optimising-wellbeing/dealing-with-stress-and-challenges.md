@@ -2,7 +2,7 @@
 
 Stress can often make symptoms such as tremor worse. Learning how to cope with stressful life events can help you to manage symptoms and maintain a good quality of life.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/overcome-stress.jpg" alt="overcome-stress" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/overcome-stress.jpg" alt="overcome-stress" class="dealing-with-stress-and-challenges__overcome-stress">
 
 
 
@@ -28,7 +28,7 @@ Below are some suggestions to promote emotional wellbeing and help you feel more
 
 Being more active can help to combat stress. For some people, Parkinson’s makes it tricky to stay active. You may have to adapt the type of activity you do. Some may choose to go to the gym or join a sports team; others may need something they can do at home. One effect of the COVID pandemic has been a considerable increase in the amount and range of exercise classes available online, through platforms such as Zoom.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/yoga-stretch.jpg" alt="yoga" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/yoga-stretch.jpg" alt="yoga" class="dealing-with-stress-and-challenges__yoga-stretch">
 
 
 Achieving a more active lifestyle can be as simple as making small changes to your everyday routines, for example:
@@ -58,7 +58,7 @@ See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-acti
 
 The food we eat can affect the way we feel, both physically and mentally. And in turn, how we feel can affect the food we eat. So, healthy eating habits are important for improving our mood and general sense of wellbeing.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dietitian.jpg" alt="dietician" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dietitian.jpg" alt="dietician" class="dealing-with-stress-and-challenges__dietitian">
 
 
 Research recommends the following advice on how to follow a healthy, balanced diet:
@@ -109,7 +109,7 @@ If you are experiencing sleep disturbance, see the <a href="/learn/managing-symp
 
 ### Relaxation
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/relaxing-mindful.jpg" alt="relaxing" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/relaxing-mindful.jpg" alt="relaxing" class="dealing-with-stress-and-challenges__relaxing-mindful">
 
 Doing something relaxing can help to reduce stress and improve your mental wellbeing. Although life can be busy, it is important to try to do things you enjoy. This might be listening to music, reading a book, going for a walk, or getting creative by painting or colouring. You might try to carve out a regular time or times in your daily routine for a relaxation activity.
 
@@ -175,7 +175,7 @@ See our <a href="/learn/treatment-and-therapies/complementary-therapies" class="
 
 Problem-solving therapy (PST) aims to help you cope better with stressful life events (e.g. financial problems, managing with a long-term condition). It does this by teaching you problem-solving skills you can use to help you find solutions to issues.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/problem-solve.jpg" alt="problem-solve" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/problem-solve.jpg" alt="problem-solve" class="dealing-with-stress-and-challenges__problem-solve">
 
 Here is some guidance on how you can work through problem-solving therapy by yourself:
 

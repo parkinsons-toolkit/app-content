@@ -322,7 +322,7 @@ People affected by Parkinson’s describe their experiences:
 - Medication management aids can help you to stay on top of your medication schedule.
 - **Note:** Some medicines should not be stored outside of their original packaging. Check with the pharmacist before changing their storage.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/medication-organiser.jpg" alt="medication-organiser" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/medication-organiser.jpg" alt="medication-organiser" class="medications__medication-organiser">
 
 ### Pill organisers
 

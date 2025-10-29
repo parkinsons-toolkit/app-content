@@ -47,7 +47,7 @@ _Including Sinemet, Madopar, Stalevo._
 
 Some people notice that when they eat a protein-rich meal and take levodopa at the same time, their levodopa doesn’t work as well – it doesn’t kick in as quickly or doesn’t last as long as usual. This may occur because levodopa and protein are absorbed in the same area of the intestine, so taking them at the same time may mean that less levodopa is absorbed or absorbed more slowly.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/protein.jpg" alt="protein" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/protein.jpg" alt="protein" class="eating-well__protein">
 
 **Dietary advice:**
 
@@ -102,7 +102,7 @@ Constipation is a common symptom experienced by people with Parkinson’s. It ca
 
 _See the <a href="/learn/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a> page for more details._
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/water-constipation.jpg" alt="drink-water" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/water-constipation.jpg" alt="drink-water" class="eating-well__water-constipation">
 
 ---
 
@@ -163,7 +163,7 @@ Some people with Parkinson’s will notice they may have trouble with swallowing
 - Thicker soups, yoghurts or blended foods/fruits can also allow you to take in more fluid in a form that is easier to swallow.
 - Smaller meals may not be as nutritionally complete, so if you are having issues with gaining or maintaining weight, please consult your GP or Parkinson’s specialist team.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/making-tea.jpg" alt="making-tea" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/making-tea.jpg" alt="making-tea" class="eating-well__making-tea">
 
 ---
 
@@ -220,7 +220,7 @@ Parkinson’s doesn’t tend to make people gain weight, but there are few reaso
 - Ensure ½ your plate is vegetables/salad, ¼ lean protein and ¼ wholemeal or low GI carbohydrate
 - Avoid very low calorie diets as this can contribute to decreased energy levels
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/food-fibre.jpg" alt="example-alt-text" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/food-fibre.jpg" alt="example-alt-text" class="eating-well__food-fibre">
 
 ---
 
@@ -230,7 +230,7 @@ The best way to get vitamins and minerals in your diet is by eating a well-balan
 
 Some vitamins and supplements can interact with your Parkinson’s medications or other medications. **Before purchasing any ‘over the counter’ mineral or vitamin supplements from chemists or health food shops, be sure to consult with a pharmacist, your GP, or Parkinson’s specialist team.**
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/supplements.jpg" alt="supplements" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/supplements.jpg" alt="supplements" class="eating-well__supplements">
 
 ### Should I take supplements?
 
@@ -298,7 +298,7 @@ There has been a lot of interest in supplements as a way of slowing down Parkins
 
 You can learn more about the five food groups below by exploring the <a href="https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Eatwell Guide</a>.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/eat-well-guide.jpg" alt="example-alt-text" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/eat-well-guide.jpg" alt="example-alt-text" class="eating-well__eat-well-guide">
 
 ### Fruit/Vegetables
 

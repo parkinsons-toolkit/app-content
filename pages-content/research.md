@@ -146,7 +146,7 @@ While trials are still ongoing to better understand how effective it is, the CUE
 
 Below is a picture to represent the range of avenues scientists are taking to explore treatment options that can help stop Parkinson’s disease progressing. Several boxes have been left blank as this is by no means all-inclusive and new avenues are developing quite quickly:
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/research.png" alt="research" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/research.png" alt="research" class="research__research">
 
 ---
 

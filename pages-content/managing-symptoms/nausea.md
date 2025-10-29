@@ -57,7 +57,7 @@ The following may help relieve nausea. If these do not help, there are medicines
 - Eat smaller, more frequent meals
 - Follow our advice about <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a>
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/ginger.jpg" alt="ginger" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/ginger.jpg" alt="ginger" class="nausea__ginger">
 
 **Things to avoid:**
 

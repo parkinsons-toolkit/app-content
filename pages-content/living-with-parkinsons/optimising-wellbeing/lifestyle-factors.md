@@ -45,7 +45,7 @@ Your heart pushes blood around the body through a network of blood vessels, simi
 
 Many factors affect blood pressure. It varies between people and is constantly changing in any one person. This makes it difficult to define “normal” blood pressure. Parkinson’s, as well as medication used for Parkinson’s, can both cause a lower or variable blood pressure. But getting older and many lifestyle factors can cause a higher blood pressure.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blood-pressure.jpg" alt="blood-pressure" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blood-pressure.jpg" alt="blood-pressure" class="lifestyle-factors__blood-pressure">
 
 ### High blood pressure
 
@@ -69,7 +69,7 @@ Many factors affect blood pressure. It varies between people and is constantly c
 
 Low blood pressure does not always require treatment but may do if you are experiencing symptoms. See the <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page for more information. Treatment of any other cause, like infection, is also important.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blood-pressure-machine.jpg" alt="blood-pressure-machine" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blood-pressure-machine.jpg" alt="blood-pressure-machine" class="lifestyle-factors__blood-pressure-machine">
 
 ### Parkinson’s and blood pressure
 
@@ -90,7 +90,7 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
 - Broken bones, or fractures, are more likely to happen if you have fragile bones and if you fall over.
 - It is recommended that everyone with Parkinson’s take vitamin D supplements to help maintain bone strength.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/sunshine.jpg" alt="Vitamin-D-sunshine" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/sunshine.jpg" alt="Vitamin-D-sunshine" class="lifestyle-factors__sunshine">
 
 <div class="video-container">
 <iframe 
@@ -146,7 +146,7 @@ There is growing interest in the use of cannabis-based products for the treatmen
 
 Addressing sight or hearing deterioration may mean having treatment or aids to improve those senses. Vision and hearing are important for interacting with others and carrying out daily activities.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/snellen-chart.jpg" alt="Snellen-chart" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/snellen-chart.jpg" alt="Snellen-chart" class="lifestyle-factors__snellen-chart">
 
 ### Vision
 
@@ -190,7 +190,7 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
 - There are some simple hearing tests online if you are not sure if you have hearing difficulties. These tests can advise whether you need a full formal test or not.
 - Hearing problems are often not preventable. You can help to protect your hearing by minimising loud noise exposure. Be mindful of how loud your music plays, time spent at noisy events, and potential noise exposure at work.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hearing.jpg" alt="hearing-aid" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hearing.jpg" alt="hearing-aid" class="lifestyle-factors__hearing">
 
 More information about healthcare costs is on our <a href="/learn/living-with-parkinsons/practical-advice-finances" class="internal-link">_Finances_</a> page. For more information about sight and hearing problems, see our <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page.
 
@@ -237,7 +237,7 @@ Foot problems can be painful and can affect your walking and balance. Taking car
 
 Taking care of your teeth is really important as poor dental health can lead to pain and infections. It may even lead to difficulties eating and drinking in the long run.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/floss.jpg" alt="flossing" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/floss.jpg" alt="flossing" class="lifestyle-factors__floss">
 
 - Brush your teeth twice a day with a fluoride toothpaste and floss daily.
 - Reduce sugar intake

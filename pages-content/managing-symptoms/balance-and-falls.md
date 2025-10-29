@@ -38,7 +38,7 @@ Whether you have Parkinson’s or not, the risk of falls goes up with age. Facto
 - Problems with sight, such as seeing double.
 - Bladder and bowel symptoms that can lead you to rush to get to the toilet.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/posture.jpg" alt="posture" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/posture.jpg" alt="posture" class="balance-and-falls__posture">
 
 There is more information on these on their respective symptom pages, found within <a href="/learn/managing-symptoms" class="internal-link">_Managing Symptoms_</a>.
 
@@ -116,7 +116,7 @@ There are different components to the activitiy you should try to undertake:
 - Balance
 - Flexibility
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/exercising.jpg" alt="exercising" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/exercising.jpg" alt="exercising" class="balance-and-falls__exercising">
 
 In Parkinson's, specific attention also needs to be given to:
 
@@ -268,7 +268,7 @@ Once you have spoken to a healthcare professional, they can help reassure you. T
   - Extra support, e.g. carers
   - Alarm systems
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/ot.jpg" alt="occupational-therapy" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/ot.jpg" alt="occupational-therapy" class="balance-and-falls__ot">
 
 They may make recommendations to the Adult Social Care services if this is needed.
 

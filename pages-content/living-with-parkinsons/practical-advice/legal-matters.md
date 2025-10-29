@@ -72,7 +72,7 @@ This section will outline the different types of power of attorney and other com
 - **Enduring Power of Attorney (EPA)**
   - Enduring Power of Attorney (EPA) was used before lasting power of attorney replaced it in October 2007. EPA cover finances. If you signed an EPA before 1st October 2007 then it should still be valid, but you may want to make a LPA to reflect other decisions.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/lady-on-computer.jpg" alt="computer" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/lady-on-computer.jpg" alt="computer" class="legal-matters__lady-on-computer">
 
 ### When should I consider this?
 
@@ -103,7 +103,7 @@ Deputyship is a similar role to someone who is an attorney. Similar to lasting p
 1. Becoming a deputy costs more money.
 2. Deputyship requires an annual deputyship report to be sent to the Court of Protection. This is to make sure the person acting as deputy is acting in your best interests. This may offer a sense of protection for some.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/legal-advice.jpg" alt="legal-advice" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/legal-advice.jpg" alt="legal-advice" class="legal-matters__legal-advice">
 
 ### What if I do not want to make a lasting power of attorney?
 
@@ -156,7 +156,7 @@ There are two main types of documentation to record future wishes. One is a **st
 - Your GP, solicitor or Citizens Advice should be able to provide you with advice should you have questions around setting out your statement of wishes but they will remind you that no-one has to follow them and they may get lost or be unavailable.
 - Important to Consider: statements of wishes are not legally binding. Whoever is making decisions should try to respect what you have said as best as possible. However, there may be times the decision will go against the statement. For example: you may have said you would like to stay at home, rather than go into a care home. However, it may become too difficult or unsafe for you to be cared for at home. Therefore, it may be in your best interests to move to a care home. You may say you would always prefer a bath rather than a shower. While that may not be possible always, it might help someone thinking about what to ask a care worker to help you with.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/advanced-decision.jpg" alt="advanced-decision" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/advanced-decision.jpg" alt="advanced-decision" class="legal-matters__advanced-decision">
 
 **Advance decision**
 

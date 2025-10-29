@@ -30,7 +30,7 @@ Note a _nutritionist_ is not the same as a _dietitian_ (though some nutritionist
   - 'Foundation Doctors' are in their first two years of training after graduating from university medical school. They will be gaining broad experience across a range of specialties and settings.
   - Other terms that you may see include ‘Fellow’, ‘Trust Grade’ or ‘Associate Specialist’.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/doctors.jpg" alt="doctors" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/doctors.jpg" alt="doctors" class="who-may-be-involved__doctors">
 
 ### Healthcare Assistants (HCAs)
 
@@ -113,7 +113,7 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
   - They can conduct reviews of medications.
   - Some pharmacists will offer other services, such as travel or flu vaccinations.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/pharmacist.jpg" alt="pharmacist" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/pharmacist.jpg" alt="pharmacist" class="who-may-be-involved__pharmacist">
 
 ### Physiotherapists
 
@@ -164,7 +164,7 @@ Note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, th
   - _Scottish Social Services Council_
   - _Northern Ireland Social Care Council_
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/social-worker-ppe.jpg" alt="social-worker" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/social-worker-ppe.jpg" alt="social-worker" class="who-may-be-involved__social-worker-ppe">
 
 ### Speech & Language Therapists (SLTs)
 

@@ -31,7 +31,7 @@ Other medical issues can cause swallowing difficulties. These include weakness i
 
 Swallowing difficulties in Parkinson’s tends to happen gradually. Sudden problems are likely to be related to other causes. A professional assessment is often needed to identify the root cause.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/swallowing.jpg" alt="swallowing" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/swallowing.jpg" alt="swallowing" class="swallowing__swallowing">
 
 ---
 

@@ -74,7 +74,7 @@ Share your thoughts and views with these people.
 
 An LPA allows you to legally appoint someone you trust, such as a family member or close friend, to make decisions on your behalf if you’re no longer able to.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/power-of-attorney.jpg" alt="power-of-attorney" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/power-of-attorney.jpg" alt="power-of-attorney" class="future-care-options__power-of-attorney">
 
 There are two separate types of LPA, one for **health and care decisions** and another for **financial matters**:
 
@@ -156,7 +156,7 @@ There are also **peer support networks** where both people with Parkinson’s an
 
 By planning ahead, you and your family can face the future with greater confidence, knowing that your care will reflect your personal wishes and that you have the support you need.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/future.jpg" alt="couple-on-beach" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/future.jpg" alt="couple-on-beach" class="future-care-options__future">
 
 ---
 
@@ -208,7 +208,7 @@ In the UK at this time:
 - The financial thresholds change with time. Check online at gov.uk or ask your social worker.
 - There are different arrangements that can be made around payment. Some people prefer to have more control. Others prefer to have payments directly managed by the Social Care services.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/carer.jpg" alt="professional-helping" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/carer.jpg" alt="professional-helping" class="future-care-options__carer">
 
 ### Continuing healthcare
 
@@ -241,7 +241,7 @@ This funding is also from the NHS/State. It is for people who are assessed as _n
 
 ## Medical Decisions
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/remote-consultation.jpg" alt="remote-consultation" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/remote-consultation.jpg" alt="remote-consultation" class="future-care-options__remote-consultation">
 
 ### Medical decisions about food & drink
 
@@ -294,7 +294,7 @@ Note: Oxygen is also a medicine and must be prescribed. It has risks and benefit
 
 A person may make the decision that they no longer want to go to hospital for medical care. This may mean that they make the decision that they are happy to have tablet antibiotics, which can be given at home. However, they may decide not have antibiotics which must be given directly into a vein, which would normally require hospital admission.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/medical-decision.jpg" alt="medical-decision" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/medical-decision.jpg" alt="medical-decision" class="future-care-options__medical-decision">
 
 ### Medical decisions about critical care interventions
 

@@ -56,7 +56,7 @@ There are many complementary therapies, and so we cannot provide a complete list
 
 Some of these physical therapies, for example Pilates, are used to improve flexibility, strength, posture, and body awareness. Others, like mindfulness, mainly relate to thoughts and feelings.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/reiki.jpg" alt="reiki" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/reiki.jpg" alt="reiki" class="complementary-therapies__reiki">
 
 ### Physical Therapies
 
@@ -104,13 +104,13 @@ The Alexander technique teaches you to be more aware of your body and posture. I
 
 There is increasing research looking at the psychological and physical benefits of Qigong and Tai Chi. There are also many published studies about yoga. Studies about yoga suggest that it is a safe and effective way to increase physical activity, strength, flexibility and balance in those with mild Parkinson’s. The health benefits of Pilates are reported as including improving posture, muscle tone, balance and joint mobility. Comments from people with Parkinson’s support that Pilates can be positive.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/tai-chi.jpg" alt="tai-chi" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/tai-chi.jpg" alt="tai-chi" class="complementary-therapies__tai-chi">
 
 Massage can be used to reduce stress, pain and muscle tension. It can also be used to help people relax. In a similar way Reflexology is often used to increase relaxation. Reflexology is a type of massage that involves applying different amounts of pressure to particular areas on the feet, hands, and ears. It is also believed by people who practice it that it can help with a wide range of problems, including difficulty sleeping and problems with digestion. A small study suggests that it may help with the wellbeing of people with Parkinson’s.
 
 A review of studies using acupuncture, a therapy which is discussed above, suggests that it might be a safe and useful additional treatment for people with Parkinson’s.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/acupuncture.jpg" alt="acupuncture" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/acupuncture.jpg" alt="acupuncture" class="complementary-therapies__acupuncture">
 
 ### Therapies that focus on thoughts and feelings
 

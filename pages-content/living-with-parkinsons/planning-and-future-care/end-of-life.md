@@ -4,7 +4,7 @@ Regardless of health conditions, for many people, the thought of dying is wrappe
 
 If you are ready to think about your future, there are some things you can think about now. These can be a positive and empowering way to prepare.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/candles.jpg" alt="candles" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/candles.jpg" alt="candles" class="end-of-life__candles">
 
 ---
 
@@ -106,7 +106,7 @@ There can be practical difficulties in moving to a new place of care if someone 
   - For some people, it doesn’t feel like home. o Some people have negative associations with care homes.
 - Care homes allow planned visits so you or your family could look around to help make this decision.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/end-of-life.jpg" alt="hospice-bed" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/end-of-life.jpg" alt="hospice-bed" class="end-of-life__end-of-life">
 
 ### Hospice
 
@@ -205,7 +205,7 @@ After the death of someone there are a number of tasks that will need to be comp
 - Bereavement support is offered by many charities as well as local hospice and NHS services. For example, you could look at the Cruse Bereavement Care charity website.
 - Try looking at the <a href="https://www.nhs.uk/" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> (search “bereavement”) or speak to your GP for more information.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/berevement.jpg" alt="berevement" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/berevement.jpg" alt="berevement" class="end-of-life__berevement">
 
 ### Organ and Tissue Donation
 

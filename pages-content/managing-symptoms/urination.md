@@ -133,7 +133,7 @@ People affected by Parkinson’s describe their experiences.
 
 Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/urology.jpg" alt="urology" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/urology.jpg" alt="urology" class="urination__urology">
 
 **They may ask about:**
 

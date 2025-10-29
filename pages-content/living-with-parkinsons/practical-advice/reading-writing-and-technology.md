@@ -43,7 +43,7 @@ See our <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 
 
 ### Why can it be difficult for people with Parkinson’s?
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/writing.jpg" alt="writing" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/writing.jpg" alt="writing" class="reading-writing-and-technology__writing">
 
 You may find writing more difficult if you experience:
 
@@ -107,7 +107,7 @@ You can also consider:
 
 If you struggle to communicate by speaking or writing, you could consider using equipment that may reduce these challenges - like a computer or tablet. But, you may find it challenging to use these if you have a lot of tremor or stiffness.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/computer.jpg" alt="computer" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/computer.jpg" alt="computer" class="reading-writing-and-technology__computer">
 
 ### What can I try for myself?
 
@@ -152,7 +152,7 @@ If using a computer or the internet feels overwhelming, there are training cours
 - Softer voice may make it more difficult to be heard
 - Decreased stamina for holding the phone
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/showing-phone.jpg" alt="phone" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/showing-phone.jpg" alt="phone" class="reading-writing-and-technology__showing-phone">
 
 ### What can I try for myself?
 

@@ -78,7 +78,7 @@ Reduced hand movements can affect fastenings, like buttons and zips.
 - Elastic shoelaces can be easier.
 - Try a long handled shoe horn to put shoes on.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dressing.jpg" alt="dressing" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dressing.jpg" alt="dressing" class="daily-living__dressing">
 
 ### Using the toilet
 
@@ -124,7 +124,7 @@ There are a range of steps with regards to food and drink:
   - Special equipment has been developed for these difficulties – see below.
 - For difficulties in swallowing, please see the <a href="/learn/managing-symptoms/swallowing" class="internal-link">_Swallowing Difficulties_</a> symptom page.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/cultery.jpg" alt="cutlery-wider-handles" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/cultery.jpg" alt="cutlery-wider-handles" class="daily-living__cultery">
 
 ---
 
@@ -152,7 +152,7 @@ Living with Parkinson’s can make daily activities and chores more difficult as
 - **Adapt your approach**
   - If energy or balance are significant concerns, try sitting down while doing tasks such as ironing, washing, and folding to reduce the risk of falls and amount of energy used.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/washing.jpg" alt="hanging-washing" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/washing.jpg" alt="hanging-washing" class="daily-living__washing">
 
 ---
 
@@ -192,7 +192,7 @@ _We strongly recommend you speak to an occupational therapist before buying equi
 - The seat that is best for you will depend on your shower or bath unit and your own preferences.
 - The next step up from these equipment suggestions are more significant changes to your bathroom. See the <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for information about adaptations.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/shower-seat.jpg" alt="shower-seat" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/shower-seat.jpg" alt="shower-seat" class="daily-living__shower-seat">
 
 ---
 
@@ -324,7 +324,7 @@ As well as usual off-the-shelf lidded cups, there are other specialised designs 
 - **Key turner**: A key turner is a handle that attaches to your keys and provides easier grip and leverage for turning keys.
 - **Key safe**: This is a small secure box, fitted to a wall outside the front door to hold the keys to your home. It requires a code to access: you choose whom to give the code to. This can be very useful as multiple sets of keys do not need to be provided to family members or healthcare professionals. It will also allow people to access the house in case of an emergency.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/rail-from-housing.jpg" alt="grab-rails" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/rail-from-housing.jpg" alt="grab-rails" class="daily-living__rail-from-housing">
 
 ### Alarms and Security
 
@@ -336,7 +336,7 @@ As well as usual off-the-shelf lidded cups, there are other specialised designs 
 - More information about these systems is available on the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> and the <a href="https://www.which.co.uk/later-life-care" class="external-link" target="_blank" rel="noopener noreferrer">Which? Later Life Care website</a>.
 - If falls are a concern, please also see the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/wrist-alarm.jpg" alt="wrist-alarm" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/wrist-alarm.jpg" alt="wrist-alarm" class="daily-living__wrist-alarm">
 
 ---
 
@@ -409,7 +409,7 @@ For example:
 
 Details for all of these and for more information about Home Help can be found at the end of this section in the _More Information_ section.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/home-care.jpg" alt="home-care" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/home-care.jpg" alt="home-care" class="daily-living__home-care">
 
 ---
 

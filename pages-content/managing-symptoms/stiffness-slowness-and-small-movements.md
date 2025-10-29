@@ -32,7 +32,7 @@ Slow movements can be the result of other problems too – for example due to pa
 
 There are many things you can try for yourself as described below. Although there are some circumstances where you should seek professional help. If you are having problems turning over in bed, getting dressed, or walking, it is time to speak to your GP or Parkinson’s specialist team. Similarly, if stiffness and slowness are bothering you, and you don’t see improvement by one month of following the advice below, seek help from your GP or Parkinson’s specialist team.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/stiffness.jpg" alt="stiffness" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/stiffness.jpg" alt="stiffness" class="stiffness-slowness-and-small-movements__stiffness">
 
 ---
 
@@ -73,7 +73,7 @@ See <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" 
 - Work through the different parts of the body.
 - Try to make this a routine part of your life, several times per week.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/stretch-physio.jpg" alt="stretch" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/stretch-physio.jpg" alt="stretch" class="stiffness-slowness-and-small-movements__stretch-physio">
 
 ### Shoulder movements
 

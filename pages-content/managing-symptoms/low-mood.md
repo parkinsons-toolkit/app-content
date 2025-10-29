@@ -27,7 +27,7 @@ Just because such feelings are common, it does not mean that they have to be acc
 
 A low mood which persists despite taking positive steps to help manage it can be a sign of depression. Depression is more intense and longer lasting than the short periods of low mood that anyone can experience from time to time. Depression can have the same features as low mood, plus others.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gloomy-waters.jpg" alt="looking-over-water" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gloomy-waters.jpg" alt="looking-over-water" class="low-mood__gloomy-waters">
 
 
 ---
@@ -152,7 +152,7 @@ Socialising can improve your mood. Staying in contact with friends and family me
 
 Look out for new opportunities from activities offered through local colleges, places of worship (e.g. churches, mosques, temples), community centres, leisure facilities, charities and societies (e.g. your local U3A group). Your local library can be a good source of information about what is available in your area. We have listed some other possible sources in our _Practical Advice_ pages which you can within the <a href="/learn/living-with-parkinsons" class="internal-link">_Living with Parkinson's_</a> section. If you need support speicifally with travelling to events, see our <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for advice.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/mental-health-support.jpg" alt="mental-health-support" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/mental-health-support.jpg" alt="mental-health-support" class="low-mood__mental-health-support">
 
 
 
@@ -195,7 +195,7 @@ _Tips for keeping a gratitude diary..._
 - Try to include as much detail as possible about _why_ you’re grateful.
 - Plan a time when you will write in your diary. Consider setting an alarm on your phone if you find that you are forgetting to write your diary entries
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/diary.jpg" alt="gratitude-diary" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/diary.jpg" alt="gratitude-diary" class="low-mood__diary">
 
 
 ### Complementary Therapies
@@ -278,7 +278,7 @@ Your healthcare professional may be able to give you more specific advice about 
 - **Cognitive Behavioural Therapy (CBT):** CBT aims to help you understand how your feelings, thoughts, and behaviour influence each other. Your therapist will aim to teach you skills in identifying and overcoming ‘unhelpful’ or negative thoughts to help you cope better and reduce symptoms of depression. CBT typically involves a course of weekly sessions and may be delivered by a clinical psychologist, psychiatrist, or specially trained nurse. For people with milder depression, treatment can be done via computer from your own home with support from a mental health care professional. CBT for depression will include looking to help associated problems such as sleep, lack of physical activity, and social isolation. CBT is available on the NHS by <a href="https://www.nhs.uk/service-search/find-a-psychological-therapies-service/" class="external-link" target="_blank" rel="noopener noreferrer">self-referral</a> or through your GP.
 - **Other therapies:** While CBT is the most commonly offered therapy, other therapies might also be available and recommended. A wide range of other therapies exist. The <a href="https://www.bacp.co.uk/about-therapy/types-of-therapy/" class="external-link" target="_blank" rel="noopener noreferrer">British Association for Counselling and Psychotherapy (BACP)</a> has an A-Z of therapies, which explains what they are. You can talk to your GP or NHS psychological therapy service about other types of therapy available in your area.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/talking-therapy.jpg" alt="talking-therapy" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/talking-therapy.jpg" alt="talking-therapy" class="low-mood__talking-therapy">
 
 
 ### Medication

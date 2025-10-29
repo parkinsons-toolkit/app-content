@@ -46,7 +46,7 @@ People may also be more likely to develop these behaviours if they are younger a
 - **You should report any unusual or impulsive behaviours to a specialist as soon as they are noticed.**
 - That’s because the best way to treat these behaviours is with careful medication adjustments or changes.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/impulsive.jpg" alt="impulsive" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/impulsive.jpg" alt="impulsive" class="impulsive-behaviours__impulsive">
 
 ---
 

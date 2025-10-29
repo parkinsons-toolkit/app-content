@@ -76,7 +76,7 @@ If you decide you would like to tell your colleagues, there are several ways you
 - Organise for an expert (e.g. Parkinson’s nurse, Parkinson’s UK representative) from the local area to visit your work. They may be able to give information to the team and answer any questions.
 - Remember, there is no pressure to tell your colleagues if you do not feel comfortable to do so.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/work-meeting.jpg" alt="work-meeting" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/work-meeting.jpg" alt="work-meeting" class="work-and-caring__work-meeting">
 
 ---
 
@@ -92,7 +92,7 @@ Working a lot of hours every week may be challenging for you. If it becomes too 
 
 Depending on the type of job you have and your symptoms, there may be duties that need to be delegated to other colleagues. This may also involve taking on new duties that are manageable for you. For example, as a teacher you may decide to reduce the number of your teaching hours due to speech difficulties. Instead, you may be able to do more administrative work. So, it can help to talk with your manager about what duties you can still do and if your role may need to change.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/work.jpg" alt="working" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/work.jpg" alt="working" class="work-and-caring__work">
 
 ### Support
 
@@ -166,7 +166,7 @@ For some people, voluntary work offers a great balance between working and being
 
 The added benefit of volunteering is that it can boost your confidence and day-to-day wellbeing.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/volunteer.jpg" alt="volunteering" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/volunteer.jpg" alt="volunteering" class="work-and-caring__volunteer">
 
 ### Deciding Where to Volunteer
 
@@ -209,7 +209,7 @@ So, when you feel ready, try to be clear and specific in describing your symptom
 
 If your children would like to talk to someone about how to deal with the news of a parent having Parkinson’s, or want more information, they can visit the <a href="https://www.parkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> website. Or, they can contact your local Parkinson’s UK support service (see the bottom of this page for contact details).
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/family.jpg" alt="children" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/family.jpg" alt="children" class="work-and-caring__family">
 
 ### Carers
 

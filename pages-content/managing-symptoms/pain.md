@@ -35,7 +35,7 @@ Pain that is not related to Parkinson’s might have a clear cause (e.g. a sore 
 
 Certain pain related to Parkinson’s tends to be less bothersome when the Parkinson’s medications are working well and more bothersome when the Parkinson’s medications wear-off. Pain can also be made worse when a person is under physical or emotional stress.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/pain.jpg" alt="woman-in-pain" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/pain.jpg" alt="woman-in-pain" class="pain__pain">
 
 ---
 

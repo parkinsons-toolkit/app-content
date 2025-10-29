@@ -18,7 +18,7 @@ Poor sleep leads to feeling less well in the daytime and can worsen other diffic
 - Difficulty moving in bed
 - A possible association with breathing changes during sleep
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/awake-in-bed.jpg" alt="awake-in-bed" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/awake-in-bed.jpg" alt="awake-in-bed" class="sleep__awake-in-bed">
 
 **Other issues that may affect your sleep include:**
 
@@ -85,7 +85,7 @@ If you or your partner notice the breathing pattern change as described above (p
 - Nylon or satin sheets as well as light-weight bed covers, can be more comfortable and can make moving in bed easier. It is best not to have both satin Pyjamas and sheets as they can slide on each other very quickly. Ideally maintain some area of friction at the edge of the bed for grip.
 - If you can, involve a partner, particularly if you need help getting in and out of bed.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/sleeping-man.jpg" alt="sleeping-man" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/sleeping-man.jpg" alt="sleeping-man" class="sleep__sleeping-man">
 
 ### Things to avoid
 

@@ -34,7 +34,7 @@ Less common causes of fatigue include some medical problems such as anaemia, dia
 
 If you suddenly feel very tired or lacking in energy this may indicate that you are unwell from something else such as an infection. However, in this case you would probably have other symptoms too, e.g. fever.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/tiredness.jpg" alt="tired" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/tiredness.jpg" alt="tired" class="tiredness__tiredness">
 
 ---
 

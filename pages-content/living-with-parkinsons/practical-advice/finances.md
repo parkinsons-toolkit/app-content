@@ -40,7 +40,7 @@ If you are struggling to manage your finances, you may find these suggestions he
   - It’s important to apply for LPA while you still have mental capacity (you’re able to make decisions). If you lose decision-making capacity before having an LPA in place, someone will have to apply to the Court of Protection to manage your money. This can be a slow and expensive process.
   - See our <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page for more information about the different types of LPA and how to set these up.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/manage-finances.jpg" alt="managing-finances" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/manage-finances.jpg" alt="managing-finances" class="finances__manage-finances">
 
 ---
 
@@ -148,7 +148,7 @@ To be eligible to claim, carers must:
 ## Other financial support…
 
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/money.jpg" alt="money" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/money.jpg" alt="money" class="finances__money">
 
 ### Universal Credit
 
@@ -172,7 +172,7 @@ To be eligible to claim, you must:
 - Not be in education (unless you’re claiming a disability benefit)
 - Have accepted a claimant commitment.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/benefits.jpg" alt="lady-on-phone" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/benefits.jpg" alt="lady-on-phone" class="finances__benefits">
 
 
 **Employment and Support Allowance (ESA)**
@@ -273,7 +273,7 @@ People affected by Parkinson’s describe their experiences.
 
 People with Parkinson’s often need to pay multiple prescription charges. This is because of the number of medications prescribed for the management of motor and non-motor symptoms, and this number increases as the condition progresses.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/prescription.jpg" alt="pharmacy-prescription" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/prescription.jpg" alt="pharmacy-prescription" class="finances__prescription">
 
 
 You can get free prescriptions if you or your partner receive any of the following, or if you’re under the age of 20 and the dependant of someone receiving any of the following:
