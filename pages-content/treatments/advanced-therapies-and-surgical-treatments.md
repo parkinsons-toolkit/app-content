@@ -4,9 +4,9 @@
 
 ### What is it?
 
-Intermittent injections of a medicine called apomorphine (a dopamine agonist). The injections go into the skin, a bit like an epi-pen or insulin pen. The medication works quickly, in 5-10 minutes. It lasts for about 40 minutes.
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/apomorphine.jpg" alt="apomorphine" class="advanced-therapies-and-surgical-treatments__apomorphine">
+
+Intermittent injections of a medicine called apomorphine (a dopamine agonist). The injections go into the skin, a bit like an epi-pen or insulin pen. The medication works quickly, in 5-10 minutes. It lasts for about 40 minutes.
 
 ### Who is it for?
 
