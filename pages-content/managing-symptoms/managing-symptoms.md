@@ -11,7 +11,7 @@ A couple of general patterns that are not rules:
 - Parkinson’s symptoms tend to develop slowly. If a new symptom has come on very suddenly (e.g. over minutes or hours), it is not likely to be a new Parkinson’s symptom, unless it is in response to a medication. But, people do find that over time their symptoms can become more abrupt. For example, a person’s movements might suddenly ‘stop’. If a new symptom occurs suddenly, an assessment by a healthcare professional can help to find the underlying cause.
 - Symptoms can change in relation to Parkinson’s medication. This is most clear for movement symptoms, but also applies to symptoms like pain and fatigue. There are many possible causes for pain and fatigue, but if these get worse towards the end of a dosing interval and get better after taking medications, then they are more likely to be due to Parkinson’s.
 
-You can use _**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_ to track your symptoms over time, as well as track them in relation to medication or meals. This can help to identify whether symptoms are due to Parkinson’s or not.
+You can use _**Track your symptoms in the <a href="my-tracker" class="internal-link">My Tracker</a>:**_ to track your symptoms over time, as well as track them in relation to medication or meals. This can help to identify whether symptoms are due to Parkinson’s or not.
 
 The following pages give guidance for things you can try to help your symptoms, but they are not a replacement for healthcare professionals. If you have a new or severe symptom, you should still seek professional advice.
 
