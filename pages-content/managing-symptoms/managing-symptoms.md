@@ -46,7 +46,7 @@ _Live Well with Parkinson's_ Managing Symptoms:
   - <a href="/learn/managing-symptoms/sweating" class="internal-link">_Sweating_</a>
   - <a href="/learn/managing-symptoms/leg-and-ankle-swelling" class="internal-link">_Leg and Ankle Swelling_</a>
 - **Sleep, Dreams & Tiredness**
-  - <a href="/learn/managing-symptoms/sleep" class="internal-link">_Sleep Disturbances_></a>
+  - <a href="/learn/managing-symptoms/sleep" class="internal-link">_Sleep Disturbances_</a>
   - <a href="/learn/managing-symptoms/dreams" class="internal-link">_Dream Disturbance_</a>
   - <a href="/learn/managing-symptoms/tiredness" class="internal-link">_Tiredness & Fatigue_</a>
 - **Thinking & Remembering**
