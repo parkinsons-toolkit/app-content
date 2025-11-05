@@ -40,7 +40,7 @@ Whether you have Parkinson’s or not, the risk of falls goes up with age. Facto
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/posture.jpg" alt="posture" class="balance-and-falls__posture">
 
-There is more information on these on their respective symptom pages, found within <a href="/learn/managing-symptoms" class="internal-link">_Managing Symptoms_</a>.
+There is more information on these on their respective symptom pages, found within <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a>.
 
 Some medicines make the above symptoms worse, and this can increase your chance of falling over. These symptoms, as well as pain or other health conditions, can lead to lower levels of activity. Less activity can lead to weaker muscles and worse balance.
 
