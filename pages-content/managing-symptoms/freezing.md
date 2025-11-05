@@ -69,8 +69,6 @@ a) **Attention & Thinking**
 
 _Plan method_
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/freezing-diagram.png" alt="plan-method-freezing" class="freezing__freezing-diagram">
-
 Reducing distractions may make this easier.
 
 _'Visualisation'_
@@ -78,6 +76,8 @@ _'Visualisation'_
 - Athletes and musicians use this to visualize their tasks before performing.
 - Imagine the movements for the whole task before starting it. Think about it step by step.
 - _For example, imagine the steps you need to do to get out of bed over and over until you feel confident in each step._
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/freezing-diagram.png" alt="plan-method-freezing" class="freezing__freezing-diagram">
 
 ### Using Weight
 
