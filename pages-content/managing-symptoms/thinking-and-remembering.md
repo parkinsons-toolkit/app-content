@@ -143,7 +143,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 
 They may ask questions to assess different aspects of memory and thinking. Try not to worry about this too much as getting stressed can make it harder.
 
-_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
 
 - This can help you to recall the details and help the professional identify patterns.
 - If you think the problem is variable, try recording when it is at its best and when it is at its worst. Note what you have done on those days that is different compared to a typical day.

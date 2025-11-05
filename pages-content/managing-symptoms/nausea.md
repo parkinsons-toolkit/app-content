@@ -93,7 +93,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Whether you have had any problems with your stomach in the past, such as ulcers, or a hiatus hernia.
 - Lifestyle, e.g. whether you drink alcohol or smoke
 
-_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
 
 - This can help you to recall the details and help your health professional look for patterns.
 - Nausea could be related to many things. Tracking your symptoms for three days may help to identify a pattern.

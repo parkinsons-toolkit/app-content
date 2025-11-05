@@ -69,7 +69,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 
 - What the sensations in your legs feel like, when they occur, and what makes them feel better.
 
-_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
 
 - This can help you to recall the details and help your health professional look for patterns.
 - For restless leg symptoms you could record when you have the feelings in your legs, including how long it lasts, for example over the course of a week.

@@ -142,7 +142,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Patterns of the symptom: timing over the course of a day or at night, triggers.
 - Lifestyle: what and when you drink; alcohol intake.
 
-_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
 
 - This can help you to recall the details and help your health professional look for patterns.
 - For urinary symptoms you could monitor:

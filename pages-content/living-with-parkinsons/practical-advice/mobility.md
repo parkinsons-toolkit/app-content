@@ -32,7 +32,7 @@ If you have a sudden decline in your mobility, you should see your GP or contact
 
 If you have difficulties moving, you should be referred to a physiotherapist. In the NHS, you usually have to be referred by your GP or Parkinson’s specialist team. You may also benefit from Occupational Therapist or Adult Social Care services.
 
-Appointments with these specialists may be in a hospital, community service, or at home. In some areas there are specialist Parkinson’s teams or rehab services. Your Parkinson’s specialist team or GP should be able to advise. See the <a href="/learn/treatment-and-therapies/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page for more information about the different services.
+Appointments with these specialists may be in a hospital, community service, or at home. In some areas there are specialist Parkinson’s teams or rehab services. Your Parkinson’s specialist team or GP should be able to advise. See the <a href="/learn/treatments/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page for more information about the different services.
 
 ---
 

@@ -211,7 +211,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - What your diet and lifestyle more broadly are like
 - Whether your diet or activity levels have changed recently
 
-_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
 
 - This can help you to recall the details and help your health professional look for patterns.
 - Try to monitor constipation for about a week. The details that are helpful to record include:

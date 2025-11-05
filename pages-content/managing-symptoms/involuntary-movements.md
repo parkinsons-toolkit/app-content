@@ -93,7 +93,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Does dyskinesia cause you balance problems or falls?
 - Have you sustained any injuries related to the extra movements?
 
-_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
 
 - This can help you to recall the details and help the professional identify patterns.
 - For 3-5 days you could monitor your dyskinesias and when you take your medication. This will help you to notice any patterns in your dyskinesias.
@@ -133,7 +133,7 @@ A healthcare professional may be able to offer support, advice, or further treat
   - Intraduodenal levodopa – continuous infusion of gel form levodopa via the intestine
   - Deep brain stimulation (DBS) surgery
 
-See <a href="/learn/treatments-and-therapies/medications" class="internal-link">_Medication_</a> and <a href="/learn/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> pages for more information.
+See <a href="/learn/treatments/medications" class="internal-link">_Medication_</a> and <a href="/learn/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> pages for more information.
 
 ---
 

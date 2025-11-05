@@ -4,8 +4,6 @@ Stress can often make symptoms such as tremor worse. Learning how to cope with s
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/overcome-stress.jpg" alt="overcome-stress" class="dealing-with-stress-and-challenges__overcome-stress">
 
-
-
 Even when emotionally and mentally healthy, you may still experience negative emotions, these are part of normal life. Having good emotional health means developing the ability to bounce back from difficult situations.
 
 <div class="video-container">
@@ -30,7 +28,6 @@ Being more active can help to combat stress. For some people, Parkinson’s make
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/yoga-stretch.jpg" alt="yoga" class="dealing-with-stress-and-challenges__yoga-stretch">
 
-
 Achieving a more active lifestyle can be as simple as making small changes to your everyday routines, for example:
 
 <div class="video-container">
@@ -43,7 +40,6 @@ Achieving a more active lifestyle can be as simple as making small changes to yo
 </iframe>
 </div>
 
-
 - Tidying up a bit faster when doing the housework
 - Walk one or two flights of stairs if possible and then take the lift
 - Leaving the car at home for short journeys
@@ -52,14 +48,11 @@ Achieving a more active lifestyle can be as simple as making small changes to yo
 
 See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page for more guidance or visit <a href="https://www.parkinsons.org.uk/information-and-support/physical-activity-and-exercise" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> and see their exercise page for more advice.
 
-
-
 ### Diet
 
 The food we eat can affect the way we feel, both physically and mentally. And in turn, how we feel can affect the food we eat. So, healthy eating habits are important for improving our mood and general sense of wellbeing.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dietitian.jpg" alt="dietician" class="dealing-with-stress-and-challenges__dietitian">
-
 
 Research recommends the following advice on how to follow a healthy, balanced diet:
 
@@ -80,8 +73,6 @@ Research recommends the following advice on how to follow a healthy, balanced di
 </div>
 
 See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more guidance.
-
-
 
 ### Sleep
 
@@ -106,7 +97,6 @@ Getting good-quality sleep is vital for our mental wellbeing. There are a few th
 
 If you are experiencing sleep disturbance, see the <a href="/learn/managing-symptoms/sleep" class="internal-link">_Sleep Disturbances_</a> page and <a href="/learn/managing-symptoms/dreams" class="internal-link">_Dreams_</a> .
 
-
 ### Relaxation
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/relaxing-mindful.jpg" alt="relaxing" class="dealing-with-stress-and-challenges__relaxing-mindful">
@@ -124,8 +114,6 @@ Doing something relaxing can help to reduce stress and improve your mental wellb
 </div>
 
 See the <a href="https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/relaxation-tips/#.XaRamflKi70" class="external-link" target="_blank" rel="noopener noreferrer">Mind</a> website for tips on how to add relaxation into your daily life. They also describe relaxation exercises you can try. You can find more links to useful information and guidance at the bottom of this page.
-
-
 
 ### Breathing strategies
 
@@ -149,8 +137,6 @@ Here’s a simple breathing exercise you can try, which will take no longer than
 - You may find it useful to count steadily as you breathe; “one, two, three, four, five” as you breathe in and “one, two, three, four, five” as you breathe out. Try to work out what feels comfortable for you.
 - Repeat for 3–5 minutes
 
-
-
 ### Complementary therapies
 
 Complementary therapies (e.g., reflexology, aromatherapy or massage) are used alongside other treatments. Some people with Parkinson’s report positive experiences of complementary therapies such as finding them relaxing, improved sleep, and reduced anxiety.
@@ -167,9 +153,7 @@ Complementary therapies (e.g., reflexology, aromatherapy or massage) are used al
 
 Some complementary therapies are eaten or applied to the skin. Some of these can interact with other medications you might take. Check with your GP, specialist, or Parkinson's nurse before you use these.
 
-See our <a href="/learn/treatment-and-therapies/complementary-therapies" class="internal-link">_Complementary Therapies_</a> page for more information.
-
-
+See our <a href="/learn/treatments/complementary-therapies" class="internal-link">_Complementary Therapies_</a> page for more information.
 
 ### Problem-Solving Therapy
 
@@ -218,8 +202,6 @@ It’s important to keep in mind that the goal of PST is not to solve all proble
 
 See the <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a> section for more on how to do problem solving therapy.
 
-
-
 ---
 
 ## My Experience
@@ -228,7 +210,6 @@ People affected by Parkinson’s describe their experiences.
 
 > “Sometimes I find if things get too stressful for me or I’m having a bad day I get a colouring book – you know those adult ones? Or people do word searches, write down their thoughts or go for a walk; just different ways people can deal with if they’re having a bad day or.”  
 > _(Person with Parkinson’s)_
-
 
 <div class="video-container">
 <iframe
@@ -245,21 +226,19 @@ People affected by Parkinson’s describe their experiences.
 > on the bad stuff, and the good stuff sometimes takes my mind away from the bad stuff. I can manage it a little bit better.”  
 > _(Person with Parkinson’s)_
 
-
 ---
 
 ## Useful Organisations & Contacts
 
 Please look at the bottom of the table for further information about call charges.
 
-| Organisation   | About                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Phone Number     | Website                                                                                                                                                                                                                                      |
-|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Age UK         | Age UK’s mindfulness page explains how practicing mindfulness can support mental wellbeing, reduce stress, and improve focus, especially for older adults. It offers practical tips and guidance on how to get started with mindfulness in everyday life.                                                                                                                                            | 0800 678 1602 <br><br> Free support and advice helpline (Open 8am–7pm, 365 days a year)   | <a href="https://www.ageuk.org.uk/information-advice/health-wellbeing/mind-body/mindfulness/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.ageuk.org.uk/information-advice/health-wellbeing/mind-body/mindfulness/</a> |
-| Mind           | Mind is a mental health charity with advice on how to improve your wellbeing. This relaxation page offers practical techniques to help manage stress and improve wellbeing, including breathing exercises, mindfulness, and physical activities.  | 0300 123 3393* <br><br> For information about support and services available. (Infoline is open 9am–6pm, Mon–Fri). <br><br> Calls cost up to 10p/minute from landlines, between 3p–40p/minute from mobile phones.   | <a href="https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/#.XaRamflKi70" class="external-link" target="_blank" rel="noopener noreferrer">https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/#.XaRamflKi70</a> |
-| Parkinson’s UK | Provides information for at-home exercises for people with Parkinson’s. You can view this information online, print it or have it mailed to you.                                                                                                                | 0808 800 0303 <br><br> Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)   | <a href="https://www.parkinsons.org.uk/information-and-support/physical-activity-and-exercise" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/physical-activity-and-exercise</a> |
-| PD Warriors    | PD Warriors has a 10 Week Challenge online program, designed to help people with Parkinson’s improve their physical and cognitive function through guided exercise and education.                                                                                                                                                                                                                                                               | --               | <a href="https://pdwarrior.com/10wc-online/" class="external-link" target="_blank" rel="noopener noreferrer">https://pdwarrior.com/10wc-online/</a>                                                                                          |
+| Organisation   | About                                                                                                                                                                                                                                                     | Phone Number                                                                                                                                                                                                       | Website                                                                                                                                                                                                                                                                   |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Age UK         | Age UK’s mindfulness page explains how practicing mindfulness can support mental wellbeing, reduce stress, and improve focus, especially for older adults. It offers practical tips and guidance on how to get started with mindfulness in everyday life. | 0800 678 1602 <br><br> Free support and advice helpline (Open 8am–7pm, 365 days a year)                                                                                                                            | <a href="https://www.ageuk.org.uk/information-advice/health-wellbeing/mind-body/mindfulness/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.ageuk.org.uk/information-advice/health-wellbeing/mind-body/mindfulness/</a>                     |
+| Mind           | Mind is a mental health charity with advice on how to improve your wellbeing. This relaxation page offers practical techniques to help manage stress and improve wellbeing, including breathing exercises, mindfulness, and physical activities.          | 0300 123 3393\* <br><br> For information about support and services available. (Infoline is open 9am–6pm, Mon–Fri). <br><br> Calls cost up to 10p/minute from landlines, between 3p–40p/minute from mobile phones. | <a href="https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/#.XaRamflKi70" class="external-link" target="_blank" rel="noopener noreferrer">https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/#.XaRamflKi70</a> |
+| Parkinson’s UK | Provides information for at-home exercises for people with Parkinson’s. You can view this information online, print it or have it mailed to you.                                                                                                          | 0808 800 0303 <br><br> Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)                                                            | <a href="https://www.parkinsons.org.uk/information-and-support/physical-activity-and-exercise" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/physical-activity-and-exercise</a>                   |
+| PD Warriors    | PD Warriors has a 10 Week Challenge online program, designed to help people with Parkinson’s improve their physical and cognitive function through guided exercise and education.                                                                         | --                                                                                                                                                                                                                 | <a href="https://pdwarrior.com/10wc-online/" class="external-link" target="_blank" rel="noopener noreferrer">https://pdwarrior.com/10wc-online/</a>                                                                                                                       |
 
-
-*Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.
+\*Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.

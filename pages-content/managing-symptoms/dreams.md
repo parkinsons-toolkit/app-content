@@ -94,7 +94,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Risks, e.g. falling out of bed, and impact of the symptoms
 - Your medication
 
-_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
 
 - This can help you to recall the details and help your health professional look for patterns.
 - For dream disturbances you could monitor your sleep pattern, when the dream problems occur and your medication. The length of time monitoring will depend on how often the dream problems are occurring. It is best to capture at least three occasions to look for patterns.

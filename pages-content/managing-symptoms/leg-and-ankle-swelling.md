@@ -114,7 +114,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Have you noticed any change in your weight?
 - Do you have any wounds in the areas with the swelling?
 
-_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
 
 - This can help you to recall the details and help your health professional look for patterns.
 - For ankle swelling you could record when the problem first started. If it fluctuates, you could record when it is most and least problematic to see if there is a pattern. You could keep track of how often you are exercising your ankles and legs.

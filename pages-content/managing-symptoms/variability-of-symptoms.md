@@ -108,7 +108,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - The timing of the fluctuations in your symptoms (for example when you feel ‘off’ and how long for).
 - How you feel at the different times (e.g. stiff movements, or low mood) o Your current medication in detail (including what you take, when, and how) and how you feel your body responds to the medication.
 
-_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
 
 - This can help you to recall the details and help your health professional look for patterns.
 - This is particularly useful for variable symptoms. It can help you and your specialist understand how your medication affects you, how often you are having difficulties, and guides medication adjustment.
@@ -141,7 +141,7 @@ Try to monitor your symptoms for about 3 days. Types of things you could record 
 - There is usually a waiting time before that next service will see you.
 - If the variation in symptoms is causing difficulty with daily activities, your GP or Parkinson’s specialist team may refer you on to an occupational therapist. They can assess if you might benefit from extra equipment or support.
 - If your Parkinson’s specialist has tried all medication options and the variability is still having a significant impact on your daily life, then other options may be explored. This usually involves a referral to a specialist centre. Some alternative options:
-- Apomorphine, a dopamine agonist delivered by injection either intermittently or as a continuous daytime infusion. See <a href="/learn/treatments-and-therapies/medications" class="internal-link">_Medication_</a> page for more information.
+- Apomorphine, a dopamine agonist delivered by injection either intermittently or as a continuous daytime infusion. See <a href="/learn/treatments/medications" class="internal-link">_Medication_</a> page for more information.
 - Deep brain stimulation or Duodopa (a gel given by a tube directly into the gut). See our <a href="/learn/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page for more advanced therapies.
 
 ---

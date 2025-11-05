@@ -96,7 +96,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Rashes
 - Lifestyle and diet
 
-_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
 
 - This can help you to recall the details and help your health professional look for patterns.
 - Showing your healthcare workers a record of your daily intake of food and drink for 3 days can help them decide what to suggest next. If you see a dietician, they may ask for a more detailed record.

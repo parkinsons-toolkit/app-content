@@ -110,7 +110,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Do you notice any response to medication?
 - How does the tremor impact your daily activities?
 
-_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
 
 - This can help you to recall the details and help your health professional look for patterns.
 - For tremor you could track your symptoms over 2-3 days, recording when the tremor is most bothersome, ‘on’ and ‘off’ periods if you experience them, and when you take your medication.

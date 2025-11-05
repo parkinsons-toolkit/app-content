@@ -125,7 +125,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Do you notice any response to medication?
 - How does it impact your daily activities?
 
-_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
 
 - This can help you to recall the details and help the professional identify patterns.
 - You could record times when movements are most difficult, and when you take your medication during the day. 3-5 days of tracking should be enough to see a pattern.
@@ -145,7 +145,7 @@ The main treatments for these symptoms are (physical) therapies and medication.
 - Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication if within their expertise.
 - **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 - Parkinson’s medications are used for stiffness, slowness and difficulty with small movements:
-  - See <a href="/learn/treatments-and-therapies/medications" class="internal-link">_Medications_</a> page for more information.
+  - See <a href="/learn/treatments/medications" class="internal-link">_Medications_</a> page for more information.
 - See <a href="/learn/managing-symptoms/pain" class="internal-link">_Pain_</a> page for how pain might be treated if this is restricting your movements.
 
 ### Therapies

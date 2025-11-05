@@ -167,7 +167,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 
 The questions will relate to your particular skin issue. They will generally cover details about what the problem is, when it occurred, how it has changed over time, whether you’ve had it before and what you have tried.
 
-_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
 
 - This can help you to recall the details and help your health professional look for patterns.
 - For skin issues you could record when you notice an issue. Also note the details of it. Then check again a few weeks later and see if it has changed.

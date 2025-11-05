@@ -220,7 +220,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - About the risk factors for falls as discussed above.
 - If possible, it can be helpful for them to speak to someone else who saw the fall.
 
-_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
 
 - This can help you to recall the details and help your health professional look for patterns.
 - For balance problems and falls the nature of the diary will depend on what you are experiencing.

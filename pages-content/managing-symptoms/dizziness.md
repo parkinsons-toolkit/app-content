@@ -118,7 +118,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
   - Palpitations
   - Anxiety or panic
 
-_**Track your symptoms in the <a href="/learn/my-tracker" class="internal-link">My Tracker</a>:**_
+_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
 
 - This can help you to recall the details and help your health professional look for patterns.
 - How best to track your dizziness will depend on how often it is a problem:
