@@ -1,6 +1,7 @@
 # What is Parkinson's?
 
 <div class="table-of-contents">
+  
 ## Table of Contents
 
 - [What is the cause?](#what-is-the-cause)
@@ -11,6 +12,7 @@
 - [How is Parkinson's treated?](#how-is-parkinsons-treated)
 - [Other Types of Parkinsonism](#other-types-of-parkinsonism)
 - [Useful Organisations & Contacts](#useful-organisations-contacts)
+
 </div>
 
 ---
