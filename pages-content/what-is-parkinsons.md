@@ -1,5 +1,18 @@
 # What is Parkinson's?
 
+## Table of Contents
+
+- [What is the cause?](#what-is-the-cause)
+- [Myth Buster](#myth-buster)
+- [How common is Parkinson's?](#how-common-is-parkinsons)
+- [What are the symptoms?](#what-are-the-symptoms)
+- [How is Parkinson's diagnosed?](#how-is-parkinsons-diagnosed)
+- [How is Parkinson's treated?](#how-is-parkinsons-treated)
+- [Other Types of Parkinsonism](#other-types-of-parkinsonism)
+- [Useful Organisations & Contacts](#useful-organisations--contacts)
+
+---
+
 Parkinson’s is a chronic condition that causes difficulties with movements. It can also cause a range of other symptoms. Parkinson’s is an extremely varied condition. It affects each person uniquely. Different symptoms may occur at different times. Each symptom may respond differently to treatments.
 
 _Parkinsonism_ is a broad term. It covers a range of conditions that have features similar to Parkinson's. When speaking about Parkinson’s, people are usually referring to Idiopathic Parkinson’s Disease. This is one type of Parkinsonism, but there are a number of others.
