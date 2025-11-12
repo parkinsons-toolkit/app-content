@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [What is the cause?](#what-is-the-cause)
+- [What is the cause?](##what-is-the-cause)
 - [Myth Buster](#myth-buster)
 - [How common is Parkinson's?](#how-common-is-parkinsons)
 - [What are the symptoms?](#what-are-the-symptoms)
