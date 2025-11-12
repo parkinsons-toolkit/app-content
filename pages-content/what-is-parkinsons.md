@@ -1,7 +1,7 @@
 # What is Parkinson's?
 
 <div class="table-of-contents">
-  
+
 ## Table of Contents
 
 - [What is the cause?](#what-is-the-cause)
