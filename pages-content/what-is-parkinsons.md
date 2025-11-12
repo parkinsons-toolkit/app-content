@@ -9,7 +9,7 @@
 - [How is Parkinson's diagnosed?](#how-is-parkinsons-diagnosed)
 - [How is Parkinson's treated?](#how-is-parkinsons-treated)
 - [Other Types of Parkinsonism](#other-types-of-parkinsonism)
-- [Useful Organisations & Contacts](#useful-organisations--contacts)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
 
 ---
 
