@@ -24,6 +24,8 @@ Hallucinations, visual illusions, and delusions may occur in people with Parkins
 
 **Parkinson’s causes of hallucinations, illusions, and delusions:**
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/levodopa.jpg" alt="levodopa" class="hallucinations__levodopa">
+
 - Can occur with certain Parkinson’s medications:
   - Dopamine agonists
   - Levodopa
@@ -33,7 +35,6 @@ Hallucinations, visual illusions, and delusions may occur in people with Parkins
 - Are more common in people experiencing “off” times with their medications
 - Are more common in people experiencing lots of sleeping/waking problems
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/levodopa.jpg" alt="levodopa" class="hallucinations__levodopa">
 
 **Non-Parkinson’s causes of hallucinations, illusions, and delusions:**
 
