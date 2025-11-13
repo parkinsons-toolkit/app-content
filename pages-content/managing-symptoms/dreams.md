@@ -32,6 +32,9 @@ Vivid dreams experienced by a person with Parkinson’s are most likely caused b
 
 **Vivid dreams are also more common in:**
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dream-disurbance.jpg" alt="dream-disurbance" class="dreams__dream-disurbance">
+
+
 - People with some mental health problems (such as depression and schizophrenia).
 - Those with other sleep disorders (such as narcolepsy).
 - Those with other physical illnesses (such as heart disease).
@@ -39,7 +42,6 @@ Vivid dreams experienced by a person with Parkinson’s are most likely caused b
 
 As with vivid dreams, RBD in someone with Parkinson’s is most likely caused by the condition itself. In people who do not have a diagnosis of Parkinson’s it is more common in men than women, and also occurs more frequently in people with sleep disorders (e.g. narcolepsy), those taking certain medication, and those withdrawing from medication or alcohol after developing a dependency.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dream-disurbance.jpg" alt="dream-disurbance" class="dreams__dream-disurbance">
 
 ---
 
