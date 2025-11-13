@@ -32,9 +32,11 @@ Whatever the cause, most tremors get worse when the individual is anxious or str
 
 ## What should I do about it?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/tremor.jpg" alt="tremor" class="tremor__tremor">
+
+
 There are many things you can try for yourself as below. If despite these, the tremor is very bothersome, speak to your Parkinson’s specialist team routinely about possible changes to your treatment. Unfortunately, treatments and strategies do not completely stop the tremor. The aim is to minimise the impact on daily life.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/tremor.jpg" alt="tremor" class="tremor__tremor">
 
 ---
 
