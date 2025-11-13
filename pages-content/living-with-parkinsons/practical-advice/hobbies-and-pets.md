@@ -43,9 +43,9 @@ At times your Parkinson’s might affect your ability to enjoy your hobbies. Thi
 
 ## What can I try?
 
-There are many reasons why it’s important to maintain a hobby or find a new one. For example, it gives you a chance to socialise with other people who may have similar interests. It also provides a mental escape and an opportunity to take a break from daily tasks. Doing something you enjoy has been shown to reduce stress and benefit your wellbeing.
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/tennis.jpg" alt="tennis" class="hobbies-and-pets__tennis">
+
+There are many reasons why it’s important to maintain a hobby or find a new one. For example, it gives you a chance to socialise with other people who may have similar interests. It also provides a mental escape and an opportunity to take a break from daily tasks. Doing something you enjoy has been shown to reduce stress and benefit your wellbeing.
 
 There are several tips that may help you to continue with different hobbies:
 
@@ -69,10 +69,11 @@ There are several tips that may help you to continue with different hobbies:
 
 ### Think about ways you can change the activity
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gym.jpg" alt="gym" class="hobbies-and-pets__gym">
+
 - There may come a time when doing an activity, you love is too difficult. Take time to think about ways you can change the activity while keeping it similar enough for you to enjoy.
 - _Example:_ You enjoy cycling and are part of a social group. But balancing on the bike is now difficult. You could think about alternatives such as joining an indoor spin class or indoor cycling group. This way, you can still enjoy the social aspect and the benefit of cycling without the risk of losing balance on a road.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gym.jpg" alt="gym" class="hobbies-and-pets__gym">
 
 ### Involve other people
 
@@ -86,10 +87,11 @@ There are several tips that may help you to continue with different hobbies:
 
 ### Try creative hobbies - Join a Parkinson’s specific social group
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/golf-with-friends.jpg" alt="golf-with-friends" class="hobbies-and-pets__golf-with-friends">
+
 - You may find it helpful to meet up with other people in groups for living with Parkinson’s. For example, if you’re feeling frustrated because you’re no longer able to do an activity to the level you once could, other people may be able to share how they manage this. By attending a Parkinson’s specific group, you can talk to, and share advice with, others who have been in a similar situation to you. The organisers of these social groups will also have experience of being able to adapt activities to help you make them more enjoyable again.
 - _Example:_ You enjoy golf but are finding it more difficult to get around the course due to problems walking. In some areas there are indoor golf groups designed for people who are older or have Parkinson’s. Instead of playing 18 full holes, members take part in putting tournaments or mini- golf with adapted golf clubs (e.g. clubs with extra wide grip). Not everyone takes part, some are happy to watch and comment.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/golf-with-friends.jpg" alt="golf-with-friends" class="hobbies-and-pets__golf-with-friends">
 
 ---
 
@@ -132,17 +134,20 @@ Anyone who has a pet, will know that pets become an integral part of a family. W
 
 ### Benefits of having a pet
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/man-with-dog.jpg" alt="man-and-dog" class="hobbies-and-pets__man-with-dog">
+
 - **Companionship** — Having a pet can reduce feelings of isolation or loneliness if you live alone. Walking a dog can also be a great way of meeting new people: other people with dogs and people who just love to say hello to dogs.
 - **Sense of responsibility** — Pets give many owners a sense of purpose and another reason to stay healthy.
 - **Improved wellbeing** — Research has shown that having a pet is linked to reduced depression and improved wellbeing. Making sure that a pet is well cared for everyday can be very rewarding and also a reminder to look after yourself.
 - **Increased activity** — Pets will almost always encourage you to be more active. The increased activity may just be an extra trip downstairs to let the cat out in the morning or a jog around the park with the dog. Regular exercise is linked to improved symptoms in people living with Parkinson’s.
 - **Service dogs** — Dogs can be trained to help owners with Parkinson’s symptoms (e.g. helping you to keep balance). Service dogs can also alert other people if you have an accident at home. See <a href="https://www.assistancedogs.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Assistance Dogs UK</a> for guidance on how to apply for a service dog. You can find more details and resources at the bottoms of this page.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/man-with-dog.jpg" alt="man-and-dog" class="hobbies-and-pets__man-with-dog">
 
 ---
 
 ### What can I try?
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dog.jpg" alt="woman-with-dog" class="hobbies-and-pets__dog">
 
 If you are struggling to care for a pet alone, there are some strategies you can put in place to make it easier for yourself.
 
@@ -153,7 +158,6 @@ If you are struggling to care for a pet alone, there are some strategies you can
 - **Re-home pet with a family member** — Another option may be to have your pet live with a family member. You would need to discuss this with them to make sure they are happy with this. This way you should be able to continue seeing your pet but without the added responsibility of caring for him/her every day.
 - **Get some support** — If there is no family or friends who can help, there are a number of organisations that might be able to help (see below).
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dog.jpg" alt="woman-with-dog" class="hobbies-and-pets__dog">
 
 ---
 
