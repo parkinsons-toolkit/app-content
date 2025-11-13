@@ -20,6 +20,9 @@ Our bodies are a mixture of complex pathways and mechanisms, and lots of factors
 
 ## What might be causing it?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/pain.jpg" alt="woman-in-pain" class="pain__pain">
+
+
 Pain that is related to Parkinson’s can be caused by a variety of factors:
 
 - Muscle pain (most common) - muscles feel ‘achy’ and the pain stays in one area.
@@ -35,7 +38,6 @@ Pain that is not related to Parkinson’s might have a clear cause (e.g. a sore 
 
 Certain pain related to Parkinson’s tends to be less bothersome when the Parkinson’s medications are working well and more bothersome when the Parkinson’s medications wear-off. Pain can also be made worse when a person is under physical or emotional stress.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/pain.jpg" alt="woman-in-pain" class="pain__pain">
 
 ---
 
