@@ -50,9 +50,10 @@ There are many things you can try for yourself, but there are some circumstances
 
 ### Diet & hydration
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/fibre-foods-bowel.jpg" alt="high-fibre" class="bowels__fibre-foods-bowel">
+
 Fibre in your diet helps improve constipation. Eat a variety of fibres.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/fibre-foods-bowel.jpg" alt="high-fibre" class="bowels__fibre-foods-bowel">
 
 **Fibre is in:**
 
