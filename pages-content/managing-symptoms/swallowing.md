@@ -25,13 +25,14 @@ Swallowing problems range from mild to severe and can happen at any time. If you
 
 ## What might be causing it?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/swallowing.jpg" alt="swallowing" class="swallowing__swallowing">
+
 The slowing and stiffening of muscles in Parkinson’s can contribute to swallowing problems. Muscles involved in chewing and swallowing (e.g. muscles in the face, jaw, tongue, and throat) can become less efficient and powerful. People with Parkinson’s can experience a dry mouth, tiredness, or difficulties concentrating at meal times. These can all make swallowing more challenging. Also, problems moving your arm or hand (for example, due to tremor) can make it harder to guide food into your mouth.
 
 Other medical issues can cause swallowing difficulties. These include weakness in muscles of the face or throat, and blockages or narrowing of the throat or gullet. Weakness of the face can happen for many reasons, for example after a stroke or injury. Other reasons for swallowing difficulties include poor fitting dentures, and tooth or gum health issues.
 
 Swallowing difficulties in Parkinson’s tends to happen gradually. Sudden problems are likely to be related to other causes. A professional assessment is often needed to identify the root cause.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/swallowing.jpg" alt="swallowing" class="swallowing__swallowing">
 
 ---
 
