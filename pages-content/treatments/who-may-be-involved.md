@@ -102,6 +102,8 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
 
 ### Pharmacists
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/pharmacist.jpg" alt="pharmacist" class="who-may-be-involved__pharmacist">
+
 - They are healthcare professionals trained in the science and management of medication.
 - They can work in hospitals as well as in the community.
 - Pharmacists and Pharmacy Technicians must be registered with the _General Pharmaceutical Council (GPhC)_ to work in the UK.
@@ -114,7 +116,6 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
   - They can conduct reviews of medications.
   - Some pharmacists will offer other services, such as travel or flu vaccinations.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/pharmacist.jpg" alt="pharmacist" class="who-may-be-involved__pharmacist">
 
 ### Physiotherapists
 
@@ -157,6 +158,8 @@ Note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, th
 
 ### Social Workers
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/social-worker-ppe.jpg" alt="social-worker" class="who-may-be-involved__social-worker-ppe">
+
 - Social workers are professionals who aim to improve people’s lives by helping with social and interpersonal problems. They try to promote a person’s rights and wellbeing.
 - They work under ‘Social Care’ rather than ‘Healthcare’ but they can be based in a hospital or community service.
 - Must be registered to work as a social worker in the UK:
@@ -165,7 +168,6 @@ Note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, th
   - _Scottish Social Services Council_
   - _Northern Ireland Social Care Council_
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/social-worker-ppe.jpg" alt="social-worker" class="who-may-be-involved__social-worker-ppe">
 
 ### Speech & Language Therapists (SLTs)
 
