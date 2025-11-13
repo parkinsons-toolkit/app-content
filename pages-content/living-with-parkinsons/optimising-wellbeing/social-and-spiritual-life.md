@@ -40,10 +40,10 @@ Connecting with others can give you a sense of belonging and reduce loneliness, 
 - **Talk about how you feel** to loved ones. Being open about your feelings can help you feel listened to and supported.
 - **If possible, consider joining a local group** offering something you enjoy, such as drawing, creative writing, or singing. This will help you meet and connect with others with a shared interest. Many activities are offering an online alternative. You can explore options by typing in your postcode on <a href="https://www.gov.uk/find-a-community-support-group-or-organisation" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK's 'Find a community support group or organisation'</a>.
 - **Access peer support:** Talking to people who share similar feelings or experiences can help you to feel understood. By going to a Parkinson’s support group, you can share with and learn from other people living with Parkinson’s, who are likely to be facing similar problems to you. Visit the <a href="https://www.parkinsons.org.uk/information-and-support/local-groups" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK website</a> to find your local groups. They offer a range of groups, including those for people of working age. You can also use the <a href="https://forum.parkinsons.org.uk/?gclid=CjwKCAjwps75BRAcEiwAEiACMbbfAOacmU70Qe1bZEVQpY69TK346DcfTJjg4ss_So2JG2tBc48OkBoCrRcQAvD_BwE&gclsrc=aw.ds" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK online forum</a> which offers the space for you to talk to others affected by Parkinson’s.
+- <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/lady-child-ball.jpg" alt="lady-child" class="social-and-spiritual-life__lady-child-ball">
 - **Use the internet and social media:** If you are not already doing this, the internet offers many ways to stay connected, from staying in touch with family to finding local events. You can re-connect with old friends using social network sites (e.g. Facebook) or connect with younger family members using their favourite social media App (e.g. Snapchat). You could create a ‘group chat’ for family or friends using a messaging App (e.g. WhatsApp). You could also use online forums to find people with similar interests. If you would like to learn how to use a computer, contact your local library or council. Or contact Age UK, who offer local training sessions.
 - **If you are feeling very lonely**, there are services that can help. Most GP practices now have access to a link worker. This person can help you to find something that suits you to help with feeling lonely. You can ask your GP practice reception about this. Some areas have services to connect you to volunteers who can help too. You can also call <a href="https://www.thesilverline.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">The Silver Line</a> on 0800 4 70 80 90, which is a confidential service open 24 hours a day, 7 days a week. It is designed to offer conversation, friendship, provide advice and link callers to local groups or services.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/lady-child-ball.jpg" alt="lady-child" class="social-and-spiritual-life__lady-child-ball">
 
 ### Practical tips
 
@@ -79,9 +79,10 @@ People affected by Parkinson’s describe their experiences.
 
 ## Relationships
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/support.jpg" alt="support" class="social-and-spiritual-life__support">
+
 As your Parkinson's progresses, you may notice a change in your relationships. This might be with your partner, family, friends, colleagues, and so on. These changes may be positive or negative. For example, you may become more distant to some friends but build deeper connections with others.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/support.jpg" alt="support" class="social-and-spiritual-life__support">
 
 ### Family and friends
 
@@ -135,13 +136,14 @@ When someone has Parkinson’s, it is common for relationship roles to change. F
 
 **Tips:**
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dancing-couple.jpg" alt="couple-dancing" class="social-and-spiritual-life__dancing-couple">
+
 - Maintain a sense of independence. Give yourselves time to do activities separately as well as together
 - Take chances to reverse the caring role. For example, the person with Parkinson’s providing their partner with emotional or intellectual support
 - Find activities that remind you that you are both equals, for example watching a film or socialising with friends
 - Keep communicating with each other. Parkinson’s can affect communication in different ways, whether it’s verbal, written, or facial expressions. But it’s important to try to keep these channels open as much as possible
 - Ask for help if you’re finding it hard to manage problems. Professionals such as Parkinson’s specialist nurses, counsellors, and psychologists can offer support and guidance.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dancing-couple.jpg" alt="couple-dancing" class="social-and-spiritual-life__dancing-couple">
 
 ### Intimate relationships
 
@@ -193,9 +195,10 @@ Spirituality and religion vary from person to person. It can provide someone wit
 </iframe>
 </div>
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/bible.jpg" alt="reading-bible" class="social-and-spiritual-life__bible">
+
 If you have Parkinson’s, or care for someone that does, it can be difficult to attend religious meetings, due to practical and emotional challenges. There are many benefits of staying connected with your religious group/meetings so explore ways to overcome barriers to attending these (e.g. ask a friend to support you attending). If you need to arrange transport to attend religious gatherings, see our <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for advice. In response to the Coronavirus pandemic, many places of worship have offered online services, which are a great help to those with mobility difficulties.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/bible.jpg" alt="reading-bible" class="social-and-spiritual-life__bible">
 
 ---
 
