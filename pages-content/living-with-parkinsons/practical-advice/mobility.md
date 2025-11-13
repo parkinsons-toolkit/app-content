@@ -82,12 +82,13 @@ There may also be specific tasks that you can practice to address specific day-t
 
 ### Safety
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/walking-with-sticks.jpg" alt="walking-with-sticks" class="mobility__walking-with-sticks">
+
 - Recognise your limits.
 - Have a back-up plan – how could you get help if you ran into trouble? This might be for example, keeping your mobile phone in your pocket.
 
 For tips related to daily tasks, including getting in and out of bed, please see the <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/walking-with-sticks.jpg" alt="walking-with-sticks" class="mobility__walking-with-sticks">
 
 ---
 
@@ -117,6 +118,8 @@ Before purchasing equipment, consider the following overall tips below:
 
 ### Walking sticks
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/walking-stick.jpg" alt="walking-stick" class="mobility__walking-stick">
+
 - Walking sticks are suitable for some people but not for others. It is best to be assessed by a physiotherapist.
 - Some people find them helpful for specific circumstances, e.g. in crowds or for longer outings
 - A benefit may be that others around can see that you need more space
@@ -134,9 +137,10 @@ Before purchasing equipment, consider the following overall tips below:
   - You may be able to borrow or get one for free through the NHS
   - They can be bought at mobility shops, some large pharmacies, or online.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/walking-stick.jpg" alt="walking-stick" class="mobility__walking-stick">
 
 ### Walking frames
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/walking-frame.jpg" alt="walking-frame" class="mobility__walking-frame">
 
 - Walking frames are suitable for some people but not for others. It is best to be assessed by a physiotherapist.
 - Walking frames redistribute weight from legs to arms and come in different types.
@@ -155,7 +159,6 @@ Before purchasing equipment, consider the following overall tips below:
 - The fit of the walking frame is very important. You should consult a physiotherapist but as a rough guide:
   - Standing with your arms relaxed by your side, with a slight natural bend at your elbow: The frame hand grips should typically be at the level of the wrist.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/walking-frame.jpg" alt="walking-frame" class="mobility__walking-frame">
 
 ### Wheelchairs
 
