@@ -65,6 +65,8 @@ This section will outline the different types of power of attorney and other com
 
 ### Types of Power of Attorney
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/lady-on-computer.jpg" alt="computer" class="legal-matters__lady-on-computer">
+
 - **Ordinary Power of Attorney** is for financial decisions only and is only valid if this is drawn up while you still have ability to make decisions. For example: Someone may still be able to manage their money. However, they would prefer a trusted person to make a decision if they were planning to be out of the country for some time – for example. Jane, for instance, is going back to Jamaica for a long holiday, she appoints her niece Donna to deal with a specific matter concerning her house sale while she is away. A solicitor will help with drawing up such a document giving Donna the power to sign relevant legal papers while her aunt is away.
 - **Lasting Power of Attorney (LPA)** There are two separate types of lasting power of attorney (health and welfare AND property and affairs). You can choose to apply for just one or both.
   - _Health and welfare:_ Once registered, the health and welfare LPA can be used by the person or people you have chosen if you can no longer make decisions for yourself. This is known as losing mental capacity. Health and welfare decisions could include deciding where you should live, medical treatment, and your day to day care.
@@ -72,7 +74,6 @@ This section will outline the different types of power of attorney and other com
 - **Enduring Power of Attorney (EPA)**
   - Enduring Power of Attorney (EPA) was used before lasting power of attorney replaced it in October 2007. EPA cover finances. If you signed an EPA before 1st October 2007 then it should still be valid, but you may want to make a LPA to reflect other decisions.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/lady-on-computer.jpg" alt="computer" class="legal-matters__lady-on-computer">
 
 ### When should I consider this?
 
@@ -151,12 +152,13 @@ There are two main types of documentation to record future wishes. One is a **st
 
 **Statement of wishes**
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/advanced-decision.jpg" alt="advanced-decision" class="legal-matters__advanced-decision">
+
 - A statement of wishes is a chance to share your preferences with professionals and your family and friends. This document might be referred to in the future if you can no longer make decisions for yourself or tell people what you want.
 - This statement can include preferences about what you might like to eat, where you would like to be cared for, what you would like to do, and personal care routines. It is best to write this down and include the date and your signature; if you do not then people are not likely to know what you wanted.
 - Your GP, solicitor or Citizens Advice should be able to provide you with advice should you have questions around setting out your statement of wishes but they will remind you that no-one has to follow them and they may get lost or be unavailable.
 - Important to Consider: statements of wishes are not legally binding. Whoever is making decisions should try to respect what you have said as best as possible. However, there may be times the decision will go against the statement. For example: you may have said you would like to stay at home, rather than go into a care home. However, it may become too difficult or unsafe for you to be cared for at home. Therefore, it may be in your best interests to move to a care home. You may say you would always prefer a bath rather than a shower. While that may not be possible always, it might help someone thinking about what to ask a care worker to help you with.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/advanced-decision.jpg" alt="advanced-decision" class="legal-matters__advanced-decision">
 
 **Advance decision**
 
