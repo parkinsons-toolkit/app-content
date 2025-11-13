@@ -27,6 +27,9 @@ Many people experience balance problems or falls for other reasons. See the <a h
 
 ## What might be causing it?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dizzy.jpg" alt="dizzy" class="dizziness__dizzy">
+
+
 Dizziness is a common symptom in people with and without Parkinson’s. The most common reason for dizziness in Parkinson’s is changes in the body’s control of blood pressure. ‘Postural hypotension’ or ‘orthostatic hypotension’ is when the blood pressure drops on changing from a lower position (sitting or lying) to a higher position (standing). This tends to be when people feel the dizziness, though there can be a delay.
 
 Some medications make postural hypotension worse. This includes some Parkinson’s medication, as well as medication for high blood pressure and heart disease. Many other conditions can also cause drops in blood pressure, for example infections, dehydration, and bleeding.
@@ -37,7 +40,6 @@ Dizziness is seen in a range of other conditions, including inner ear problems (
 
 Symptoms that are not typical of dizziness related to Parkinson’s include: difficulty in hearing, ringing in your ears (tinnitus) and bad headaches.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dizzy.jpg" alt="dizzy" class="dizziness__dizzy">
 
 ---
 
