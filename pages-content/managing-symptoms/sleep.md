@@ -14,11 +14,12 @@ Poor sleep leads to feeling less well in the daytime and can worsen other diffic
 
 **Parkinson’s can affect sleep in several different ways. Here we cover:**
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/awake-in-bed.jpg" alt="awake-in-bed" class="sleep__awake-in-bed">
+
 - Difficulty getting to or staying asleep
 - Difficulty moving in bed
 - A possible association with breathing changes during sleep
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/awake-in-bed.jpg" alt="awake-in-bed" class="sleep__awake-in-bed">
 
 **Other issues that may affect your sleep include:**
 
@@ -77,6 +78,9 @@ If you or your partner notice the breathing pattern change as described above (p
 
 ### Things to try
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/sleeping-man.jpg" alt="sleeping-man" class="sleep__sleeping-man">
+
+
 - Maintain regular sleep hours: try to get up at the same time each day, even if the sleep has not been good. You may need to set an alarm clock, even on weekends, to achieve this.
 - A regular bedtime routine, ideally with some relaxation built in, such as a warm bath. For other relaxation techniques see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/dealing-with-stress-and-challenges" class="internal-link">_Dealing with Stress and Challenges_</a> page.
 - Increasing daytime activity, though avoid exercise just before bed (e.g. avoid vigorous exercise in the 2 hours before bed). See <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> for ideas on how to do this.
@@ -85,7 +89,6 @@ If you or your partner notice the breathing pattern change as described above (p
 - Nylon or satin sheets as well as light-weight bed covers, can be more comfortable and can make moving in bed easier. It is best not to have both satin Pyjamas and sheets as they can slide on each other very quickly. Ideally maintain some area of friction at the edge of the bed for grip.
 - If you can, involve a partner, particularly if you need help getting in and out of bed.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/sleeping-man.jpg" alt="sleeping-man" class="sleep__sleeping-man">
 
 ### Things to avoid
 
