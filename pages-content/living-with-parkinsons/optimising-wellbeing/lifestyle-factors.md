@@ -38,6 +38,8 @@ These are all delivered as injections, usually into the arm. You should have vac
 </iframe>
 </div>
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blood-pressure.jpg" alt="blood-pressure" class="lifestyle-factors__blood-pressure">
+
 Your heart pushes blood around the body through a network of blood vessels, similar to the way a pump pushes fluid through pipes. Your blood pressure is recorded as two numbers:
 
 - The first or top number is known as **systolic blood pressure**. This is the pressure as the heart is pushing, i.e. the force of that push.
@@ -45,7 +47,6 @@ Your heart pushes blood around the body through a network of blood vessels, simi
 
 Many factors affect blood pressure. It varies between people and is constantly changing in any one person. This makes it difficult to define “normal” blood pressure. Parkinson’s, as well as medication used for Parkinson’s, can both cause a lower or variable blood pressure. But getting older and many lifestyle factors can cause a higher blood pressure.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blood-pressure.jpg" alt="blood-pressure" class="lifestyle-factors__blood-pressure">
 
 ### High blood pressure
 
@@ -61,6 +62,8 @@ Many factors affect blood pressure. It varies between people and is constantly c
 
 **Symptoms of low blood pressure include**:
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blood-pressure-machine.jpg" alt="blood-pressure-machine" class="lifestyle-factors__blood-pressure-machine">
+
 - Feeling lightheaded, faint or dizzy – this may cause you to faint
 - Feeling sick
 - Blurred vision
@@ -69,7 +72,6 @@ Many factors affect blood pressure. It varies between people and is constantly c
 
 Low blood pressure does not always require treatment but may do if you are experiencing symptoms. See the <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page for more information. Treatment of any other cause, like infection, is also important.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blood-pressure-machine.jpg" alt="blood-pressure-machine" class="lifestyle-factors__blood-pressure-machine">
 
 ### Parkinson’s and blood pressure
 
@@ -87,10 +89,11 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
 
 ## Bone Health
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/sunshine.jpg" alt="Vitamin-D-sunshine" class="lifestyle-factors__sunshine">
+
 - Broken bones, or fractures, are more likely to happen if you have fragile bones and if you fall over.
 - It is recommended that everyone with Parkinson’s take vitamin D supplements to help maintain bone strength.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/sunshine.jpg" alt="Vitamin-D-sunshine" class="lifestyle-factors__sunshine">
 
 <div class="video-container">
 <iframe 
@@ -144,9 +147,10 @@ There is growing interest in the use of cannabis-based products for the treatmen
 
 ## Vision & Hearing
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/snellen-chart.jpg" alt="Snellen-chart" class="lifestyle-factors__snellen-chart">
+
 Addressing sight or hearing deterioration may mean having treatment or aids to improve those senses. Vision and hearing are important for interacting with others and carrying out daily activities.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/snellen-chart.jpg" alt="Snellen-chart" class="lifestyle-factors__snellen-chart">
 
 ### Vision
 
@@ -184,13 +188,14 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
 </iframe>
 </div>
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hearing.jpg" alt="hearing-aid" class="lifestyle-factors__hearing">
+
 - You will need a hearing test if you, or someone close to you, notices that your hearing has got worse.
 - At present, hearing tests are provided on the NHS if you notice a problem with your hearing. You can access it by seeing your GP who can refer you to a hearing specialist, though this can take some time.
 - Some large pharmacies or opticians offer hearing tests. This might be free or you may need to pay. You will need to speak with the pharmacy or opticians for more information on this.
 - There are some simple hearing tests online if you are not sure if you have hearing difficulties. These tests can advise whether you need a full formal test or not.
 - Hearing problems are often not preventable. You can help to protect your hearing by minimising loud noise exposure. Be mindful of how loud your music plays, time spent at noisy events, and potential noise exposure at work.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hearing.jpg" alt="hearing-aid" class="lifestyle-factors__hearing">
 
 More information about healthcare costs is on our <a href="/learn/living-with-parkinsons/practical-advice-finances" class="internal-link">_Finances_</a> page. For more information about sight and hearing problems, see our <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page.
 
