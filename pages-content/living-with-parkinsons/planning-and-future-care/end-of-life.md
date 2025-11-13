@@ -1,10 +1,11 @@
 # Preparing for End of Life
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/candles.jpg" alt="candles" class="end-of-life__candles">
+
 Regardless of health conditions, for many people, the thought of dying is wrapped up in fear and uncertainty. Attitudes are influenced by culture, religion, family and our life experiences.
 
 If you are ready to think about your future, there are some things you can think about now. These can be a positive and empowering way to prepare.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/candles.jpg" alt="candles" class="end-of-life__candles">
 
 ---
 
@@ -96,6 +97,8 @@ There can be practical difficulties in moving to a new place of care if someone 
 
 ### Care home
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/end-of-life.jpg" alt="hospice-bed" class="end-of-life__end-of-life">
+
 - Many nursing homes have experience of caring for people at the end of life.
 - Sometimes additional specialist support is offered by a community Palliative Care team.
 - Some people prefer this option:
@@ -106,7 +109,6 @@ There can be practical difficulties in moving to a new place of care if someone 
   - For some people, it doesn’t feel like home. o Some people have negative associations with care homes.
 - Care homes allow planned visits so you or your family could look around to help make this decision.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/end-of-life.jpg" alt="hospice-bed" class="end-of-life__end-of-life">
 
 ### Hospice
 
@@ -200,12 +202,13 @@ After the death of someone there are a number of tasks that will need to be comp
 
 ### Bereavement
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/berevement.jpg" alt="berevement" class="end-of-life__berevement">
+
 - Every person processes bereavement differently. It can be a difficult time for everyone.
 - Many people use their existing social support, such as family and friends, to help them through. Some benefit from more information, support or counselling.
 - Bereavement support is offered by many charities as well as local hospice and NHS services. For example, you could look at the Cruse Bereavement Care charity website.
 - Try looking at the <a href="https://www.nhs.uk/" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> (search “bereavement”) or speak to your GP for more information.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/berevement.jpg" alt="berevement" class="end-of-life__berevement">
 
 ### Organ and Tissue Donation
 
