@@ -22,11 +22,11 @@ These sensations usually occur in the evening while you are relaxing. Moving you
 
 ## What Might Be Causing It?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/restless-legs.jpg" alt="restless-legs" class="restless-legs__restless-legs">
+
 - Restless leg syndrome can be due to Parkinson’s and the low level of dopamine in the brain.
 - Non-Parkinson’s causes of restless leg include low iron, reduced kidney function, or pregnancy; but most cases of restless leg don’t have a clear cause. It can also run in families.
 - Alcohol, smoking, caffeine, and some medications tend to make the symptoms of restless leg worse.
-
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/restless-legs.jpg" alt="restless-legs" class="restless-legs__restless-legs">
 
 ---
 
