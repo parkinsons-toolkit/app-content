@@ -69,6 +69,9 @@ If you do not feel comfortable with your colleagues knowing, then you do not hav
 The reasons for deciding whether to tell your colleagues may be similar to deciding if you tell your employer. You may decide to tell them if you feel that your condition may impact their work or health and safety.
 
 **How should I tell my colleagues?**
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/work-meeting.jpg" alt="work-meeting" class="work-and-caring__work-meeting">
+
 If you decide you would like to tell your colleagues, there are several ways you could do this:
 
 - Decide with your manager whether it is better for yourself or your manager to talk with the team.
@@ -76,11 +79,13 @@ If you decide you would like to tell your colleagues, there are several ways you
 - Organise for an expert (e.g. Parkinson’s nurse, Parkinson’s UK representative) from the local area to visit your work. They may be able to give information to the team and answer any questions.
 - Remember, there is no pressure to tell your colleagues if you do not feel comfortable to do so.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/work-meeting.jpg" alt="work-meeting" class="work-and-caring__work-meeting">
 
 ---
 
 ## Adjustments at Work
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/work.jpg" alt="working" class="work-and-caring__work">
+
 
 Under the Equality Act 2010, employers have to make reasonable adjustments for someone with a long-term condition (including Parkinson’s). There are different adjustments that could be made but there are no clear definitions within the Equality Act that outline how much can be adjusted. To work out what adjustments might help you, speak with an ‘occupational health advisor’ or ‘access to work assessor’. You can do this by asking your manager or Human Resources (HR) to put you in touch with one. See below for some examples of adjustments you may wish to discuss.
 
@@ -92,7 +97,6 @@ Working a lot of hours every week may be challenging for you. If it becomes too 
 
 Depending on the type of job you have and your symptoms, there may be duties that need to be delegated to other colleagues. This may also involve taking on new duties that are manageable for you. For example, as a teacher you may decide to reduce the number of your teaching hours due to speech difficulties. Instead, you may be able to do more administrative work. So, it can help to talk with your manager about what duties you can still do and if your role may need to change.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/work.jpg" alt="working" class="work-and-caring__work">
 
 ### Support
 
@@ -152,6 +156,9 @@ If you do not qualify for statutory sick pay but you still need paid time off wo
 
 ## Voluntary Work
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/volunteer.jpg" alt="volunteering" class="work-and-caring__volunteer">
+
+
 <div class="video-container">
 <iframe 
   width="560" 
@@ -166,7 +173,6 @@ For some people, voluntary work offers a great balance between working and being
 
 The added benefit of volunteering is that it can boost your confidence and day-to-day wellbeing.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/volunteer.jpg" alt="volunteering" class="work-and-caring__volunteer">
 
 ### Deciding Where to Volunteer
 
@@ -202,6 +208,9 @@ As a volunteer, you do not have a contract of employment. This means you do not 
 
 ### Talking to Children
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/family.jpg" alt="children" class="work-and-caring__family">
+
+
 If you are diagnosed with Parkinson’s, it can be hard to decide how best to tell your children or grandchildren. You may be worried about how to start the conversation or how it might impact your family’s day-to-day life. You may also be debating whether you should tell your children in order to protect them. But it can help to be open and honest about your condition as children are aware of changes that happen at home. It will also
 be increasingly difficult to hide the symptoms as they progress.
 
@@ -209,7 +218,6 @@ So, when you feel ready, try to be clear and specific in describing your symptom
 
 If your children would like to talk to someone about how to deal with the news of a parent having Parkinson’s, or want more information, they can visit the <a href="https://www.parkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> website. Or, they can contact your local Parkinson’s UK support service (see the bottom of this page for contact details).
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/family.jpg" alt="children" class="work-and-caring__family">
 
 ### Carers
 
