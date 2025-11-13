@@ -42,11 +42,12 @@ People may also be more likely to develop these behaviours if they are younger a
 
 ## What should I do about it?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/impulsive.jpg" alt="impulsive" class="impulsive-behaviours__impulsive">
+
 - It is important that people with Parkinson’s, loved ones and carers are aware of the possibility of these behaviours.
 - **You should report any unusual or impulsive behaviours to a specialist as soon as they are noticed.**
 - That’s because the best way to treat these behaviours is with careful medication adjustments or changes.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/impulsive.jpg" alt="impulsive" class="impulsive-behaviours__impulsive">
 
 ---
 
