@@ -29,6 +29,8 @@ Whether you have Parkinson’s or not, the risk of falls goes up with age. Facto
 
 **Symptoms of Parkinson’s that can contribute to falls include:**
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/posture.jpg" alt="posture" class="balance-and-falls__posture">
+
 - Movements being stiffer, slower or smaller. For example, taking smaller steps can cause a person to trip. ‘Freezing’ when walking can also be a problem, especially when turning.
 - A bent posture can affect balance.
 - Involuntary movements (‘dyskinesia’) can change your centre of gravity and affect balance.
@@ -38,7 +40,6 @@ Whether you have Parkinson’s or not, the risk of falls goes up with age. Facto
 - Problems with sight, such as seeing double.
 - Bladder and bowel symptoms that can lead you to rush to get to the toilet.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/posture.jpg" alt="posture" class="balance-and-falls__posture">
 
 There is more information on these on their respective symptom pages, found within <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a>.
 
@@ -108,6 +109,9 @@ There are many things you can do for yourself to improve balance, prevent falls 
 
 ### Keep Active
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/exercising.jpg" alt="exercising" class="balance-and-falls__exercising">
+
+
 It is important to try to stay as active as possible, unless you have been specifically advised otherwise. Staying active helps you maintain muscle strength and balance so reduces your chance of falling over. It is also good for your Parkinson’s and general health.
 
 There are different components to the activitiy you should try to undertake:
@@ -116,7 +120,6 @@ There are different components to the activitiy you should try to undertake:
 - Balance
 - Flexibility
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/exercising.jpg" alt="exercising" class="balance-and-falls__exercising">
 
 In Parkinson's, specific attention also needs to be given to:
 
@@ -257,6 +260,8 @@ Once you have spoken to a healthcare professional, they can help reassure you. T
 
 ### Physiotherapy & Occupational Therapy
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/ot.jpg" alt="occupational-therapy" class="balance-and-falls__ot">
+
 - You may be referred to a physiotherapist or occupational therapist. This will likely be if you are not being seen in a falls service. In some areas there are specialist teams for people with conditions like Parkinson’s.
 - See the <a href="/learn/treatments-and-therapies/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page for more information about the different professional roles.
 - They assess your walking and how you transfer between positions (like getting up from a chair).
@@ -268,7 +273,6 @@ Once you have spoken to a healthcare professional, they can help reassure you. T
   - Extra support, e.g. carers
   - Alarm systems
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/ot.jpg" alt="occupational-therapy" class="balance-and-falls__ot">
 
 They may make recommendations to the Adult Social Care services if this is needed.
 
