@@ -14,6 +14,9 @@
 
 ## What’s the difference between low mood and depression?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gloomy-waters.jpg" alt="looking-over-water" class="low-mood__gloomy-waters">
+
+
 Everyone has times when their mood is low, and they feel unhappy about life. This can happen following a difficult event or experience. It is also possible to feel down without there being a clear reason. For some people, these periods of low mood are manageable and gradually pass. For others, low mood may persist for a long time and can affect their day-to-day life. They may find it more difficult to ‘shake it off’, even for a short time. This may indicate depression. When a person is depressed, it can affect their physical health, their appetite, and their sleep. In the same way, when a person is physically unwell it can lower their mood.
 
 A general low mood may involve feeling sad, but it can also involve feeling emotionally ‘flat’ or ‘empty’. When a person has low mood, they can also experience some of the following:
@@ -27,7 +30,6 @@ Just because such feelings are common, it does not mean that they have to be acc
 
 A low mood which persists despite taking positive steps to help manage it can be a sign of depression. Depression is more intense and longer lasting than the short periods of low mood that anyone can experience from time to time. Depression can have the same features as low mood, plus others.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gloomy-waters.jpg" alt="looking-over-water" class="low-mood__gloomy-waters">
 
 ---
 
@@ -143,13 +145,15 @@ See the <a href="/learn/living-with-parkinsons/optimising-wellbeing
 
 ### Keeping socially active and combat loneliness
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/mental-health-support.jpg" alt="mental-health-support" class="low-mood__mental-health-support">
+
+
 When a person is depressed, they often cut themselves off from other people. Even when not depressed, many people can feel isolated and lonely. This can make depression more likely.
 
 Socialising can improve your mood. Staying in contact with friends and family means you have someone to talk to when you feel low. Talking to others with Parkinson’s can also help by sharing your experiences and learning about different coping mechanisms or solutions to similar problems.
 
 Look out for new opportunities from activities offered through local colleges, places of worship (e.g. churches, mosques, temples), community centres, leisure facilities, charities and societies (e.g. your local U3A group). Your local library can be a good source of information about what is available in your area. We have listed some other possible sources in our _Practical Advice_ pages which you can within the <a href="/learn/living-with-parkinsons" class="internal-link">_Living with Parkinson's_</a> section. If you need support speicifally with travelling to events, see our <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for advice.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/mental-health-support.jpg" alt="mental-health-support" class="low-mood__mental-health-support">
 
 Visit our <a href="/learn/living-with-parkinsons/optimising-wellbeing
 /social-and-spiritual-life" class="internal-link">_Social & Spiritual Life_</a> page for more information on how you can keep socially active.
@@ -181,6 +185,9 @@ Mindfulness is often included as part of psychological treatment. It is recommen
 
 ### Keep a Gratitude Diary
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/diary.jpg" alt="gratitude-diary" class="low-mood__diary">
+
+
 Keeping a diary of the things you’re grateful for may lift your mood have a positive effect on your mental wellbeing. Try to describe one thing you’re grateful for and do this twice a week. You can write about anything that comes to mind, as long as it makes you feel grateful. For example, it could be something very little that has happened or a person that you’re grateful for.
 
 _Tips for keeping a gratitude diary..._
@@ -190,7 +197,6 @@ _Tips for keeping a gratitude diary..._
 - Try to include as much detail as possible about _why_ you’re grateful.
 - Plan a time when you will write in your diary. Consider setting an alarm on your phone if you find that you are forgetting to write your diary entries
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/diary.jpg" alt="gratitude-diary" class="low-mood__diary">
 
 ### Complementary Therapies
 
@@ -268,11 +274,13 @@ Your healthcare professional may be able to give you more specific advice about 
 
 ### Examples of types of talking therapies
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/talking-therapy.jpg" alt="talking-therapy" class="low-mood__talking-therapy">
+
+
 - **Counselling:** Counselling can help you cope with mild versions of common mental health problems, including depression. It might also help you to talk about a specific event or cause for your low mood, such as relationship difficulties or a bereavement. Counselling may be available on the NHS. It can also be available for free through your employer. Some charities offer cheap or free talking therapies or group support. This includes <a href="https://www.cruse.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Cruse</a> for bereavement care, <a href="https://www.relate.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Relate</a> for relationship counselling and <a href="https://www.mind.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Mind</a>. Some private counsellors also offer discounted rates for those on low incomes. See our More information section for details on how to find a trained and accredited therapist.
 - **Cognitive Behavioural Therapy (CBT):** CBT aims to help you understand how your feelings, thoughts, and behaviour influence each other. Your therapist will aim to teach you skills in identifying and overcoming ‘unhelpful’ or negative thoughts to help you cope better and reduce symptoms of depression. CBT typically involves a course of weekly sessions and may be delivered by a clinical psychologist, psychiatrist, or specially trained nurse. For people with milder depression, treatment can be done via computer from your own home with support from a mental health care professional. CBT for depression will include looking to help associated problems such as sleep, lack of physical activity, and social isolation. CBT is available on the NHS by <a href="https://www.nhs.uk/service-search/find-a-psychological-therapies-service/" class="external-link" target="_blank" rel="noopener noreferrer">self-referral</a> or through your GP.
 - **Other therapies:** While CBT is the most commonly offered therapy, other therapies might also be available and recommended. A wide range of other therapies exist. The <a href="https://www.bacp.co.uk/about-therapy/types-of-therapy/" class="external-link" target="_blank" rel="noopener noreferrer">British Association for Counselling and Psychotherapy (BACP)</a> has an A-Z of therapies, which explains what they are. You can talk to your GP or NHS psychological therapy service about other types of therapy available in your area.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/talking-therapy.jpg" alt="talking-therapy" class="low-mood__talking-therapy">
 
 ### Medication
 
