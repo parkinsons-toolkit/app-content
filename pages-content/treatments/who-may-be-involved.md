@@ -21,6 +21,8 @@ Note a _nutritionist_ is not the same as a _dietitian_ (though some nutritionist
 
 ### Doctors
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/doctors.jpg" alt="doctors" class="who-may-be-involved__doctors">
+
 - Must be registered with the _General Medical Council (GMC)_ to practice in the UK. They are required to maintain their knowledge and skill.
 - **General Practitioners (GPs):** Generalists who deal with a wide range of problems. They have finished their training and are registered as a GP. It takes at least 10 years to become a GP.
   - Some GPs have _special interests_ which are accredited topics of specialist knowledge. This adds on to their role as a generalist. They have completed the required training and are registered as a specialist. May be hospital or community based. It takes at least 12 years to become a consultant, depending on the topic.
@@ -30,7 +32,6 @@ Note a _nutritionist_ is not the same as a _dietitian_ (though some nutritionist
   - 'Foundation Doctors' are in their first two years of training after graduating from university medical school. They will be gaining broad experience across a range of specialties and settings.
   - Other terms that you may see include ‘Fellow’, ‘Trust Grade’ or ‘Associate Specialist’.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/doctors.jpg" alt="doctors" class="who-may-be-involved__doctors">
 
 ### Healthcare Assistants (HCAs)
 
