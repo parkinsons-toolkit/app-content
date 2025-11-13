@@ -24,12 +24,6 @@ Below are some suggestions to promote emotional wellbeing and help you feel more
 
 ### Activity
 
-Being more active can help to combat stress. For some people, Parkinson’s makes it tricky to stay active. You may have to adapt the type of activity you do. Some may choose to go to the gym or join a sports team; others may need something they can do at home. One effect of the COVID pandemic has been a considerable increase in the amount and range of exercise classes available online, through platforms such as Zoom.
-
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/yoga-stretch.jpg" alt="yoga" class="dealing-with-stress-and-challenges__yoga-stretch">
-
-Achieving a more active lifestyle can be as simple as making small changes to your everyday routines, for example:
-
 <div class="video-container">
 <iframe
   width="560"
@@ -39,6 +33,12 @@ Achieving a more active lifestyle can be as simple as making small changes to yo
   allowfullscreen>
 </iframe>
 </div>
+
+Being more active can help to combat stress. For some people, Parkinson’s makes it tricky to stay active. You may have to adapt the type of activity you do. Some may choose to go to the gym or join a sports team; others may need something they can do at home. One effect of the COVID pandemic has been a considerable increase in the amount and range of exercise classes available online, through platforms such as Zoom.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/yoga-stretch.jpg" alt="yoga" class="dealing-with-stress-and-challenges__yoga-stretch">
+
+Achieving a more active lifestyle can be as simple as making small changes to your everyday routines, for example:
 
 - Tidying up a bit faster when doing the housework
 - Walk one or two flights of stairs if possible and then take the lift
