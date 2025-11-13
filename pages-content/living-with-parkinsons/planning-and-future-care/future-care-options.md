@@ -144,6 +144,8 @@ While it can be emotionally challenging to think about future care, making these
 
 ## How Family and Friends Can Support
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/future.jpg" alt="couple-on-beach" class="future-care-options__future">
+
 Family and friends play a crucial role in future care planning. They can:
 
 - **Join you in conversations** about your wishes, ensuring they understand what’s most important to you.
@@ -156,7 +158,6 @@ There are also **peer support networks** where both people with Parkinson’s an
 
 By planning ahead, you and your family can face the future with greater confidence, knowing that your care will reflect your personal wishes and that you have the support you need.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/future.jpg" alt="couple-on-beach" class="future-care-options__future">
 
 ---
 
@@ -202,13 +203,14 @@ In the UK at this time:
 
 ### Adult social care services
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/carer.jpg" alt="professional-helping" class="future-care-options__carer">
+
 - Find your local services by searching on the NHS or government websites service directories. Listed as _Adult Social Care_.
 - They provide support for your daily life activities. This may be through living arrangements, equipment or carers.
 - They will carry out an assessment to decide what you would benefit from and the cost.
 - The financial thresholds change with time. Check online at gov.uk or ask your social worker.
 - There are different arrangements that can be made around payment. Some people prefer to have more control. Others prefer to have payments directly managed by the Social Care services.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/carer.jpg" alt="professional-helping" class="future-care-options__carer">
 
 ### Continuing healthcare
 
