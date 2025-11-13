@@ -18,11 +18,13 @@ Dystonia most commonly effects the legs and feet of someone with Parkinson’s. 
 
 ## What might be causing it?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/cramp.jpg" alt="cramp" class="cramps-and-spasms__cramp">
+
+
 Most people with Parkinson’s who experience dystonia have ‘secondary’ dystonia. This means they get it as a symptom of their condition or as a side effect of antiparkinsonian medication. ‘Primary’ dystonia is a genetic condition in people without Parkinson’s. This runs in families.
 
 Some people with Parkinson’s notice dystonia when their medication levels are low. This may be at the end of the day, or in between doses. It could be early in the morning before they have taken any medications. They may have dystonia when their medication levels are at the highest in their bodies, but this is less common.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/cramp.jpg" alt="cramp" class="cramps-and-spasms__cramp">
 
 ---
 
@@ -34,12 +36,13 @@ There are various strategies you can try for yourself discussed below. You shoul
 
 ## What can I try for myself?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/therapy-assistant.jpg" alt="therapy-assistant" class="cramps-and-spasms__therapy-assistant">
+
 - Some people find pressure, warm compresses or stretching help.
 - Some people discover ‘sensory tricks.’ This is touching the affected area or a nearby area of the body. It can reduce the length or severity of the contraction.
 - Relaxing techniques like a warm bath, yoga, or massage may help.
 - Eyelid dystonia is also called blepharospasm. It may respond to: pressure on the eyebrows, lying down, or chewing.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/therapy-assistant.jpg" alt="therapy-assistant" class="cramps-and-spasms__therapy-assistant">
 
 ### Stretching
 
