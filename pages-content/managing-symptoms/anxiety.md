@@ -138,6 +138,9 @@ See the <a href="https://www.mind.org.uk/" class="external-link" target="_blank"
 
 ### Breathing strategies
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/breathing-exercise.jpg" alt="breathing-exercise" class="anxiety__breathing-exercise">
+
+
 Calming breathing exercises can help to reduce anxiety. When you feel anxious, you are more likely to take rapid, shallow breaths. This can cause sensations such as increased heart rate, dizziness, and muscle tension. In turn, this can increase feelings of anxiety. So, doing simple breathing exercises can help you to relax and reduce anxiety levels. These exercises work best when they’re practised regularly. You can even make them part of your daily routine (e.g. doing some deep breathing while waiting for the kettle to boil).
 
 Here’s an example of a simple breathing exercise you can try:
@@ -148,7 +151,6 @@ Here’s an example of a simple breathing exercise you can try:
 - You may find it helpful to count steadily as you breathe: ‘one, two, three, four, five’ as you breathe in and ‘one, two, three, four, five’ as you breathe out. Try to work out what feels comfortable for you.
 - Repeat for 3-5 minutes.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/breathing-exercise.jpg" alt="breathing-exercise" class="anxiety__breathing-exercise">
 
 ### Mindfulness
 
@@ -167,6 +169,9 @@ See our <a href="/learn/treatments-and-therapies
 
 ### Resources for wellbeing and mental health
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/anxiety-landscape.jpg" alt="landscape-with-reflection" class="anxiety__anxiety-landscape">
+
+
 There are also lots of apps for your computer, smart phone or tablet which aim to help with anything from managing general wellbeing to targeting more specific health concerns. Most of them have not been tested. If you want to try one, look at the mental health apps and tools in the <a href="https://www.nhs.uk/apps-library/category/mental-health/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Apps Library on the NHS website</a>.
 
 There is a selection of self-help leaflets available online that might be helpful, you can find links to these at the bottom of the page along with other useful resources. Alternatively, there are some books (e.g., ‘The worry cure’ By Robert Leahy). The <a href="https://reading-well.org.uk/books/books-on-prescription" class="external-link" target="_blank" rel="noopener noreferrer">Reading Well Books on Prescription</a> website has some other suggestions. Many of these books will be available through your local library or available to buy from local bookstores or online.
@@ -175,7 +180,6 @@ Some books are available in audiobook format, if preferred.
 
 There are also some websites that have a wide range of advice and resources groups. You can pay to become a member of these groups, if you wish. You can find links to more information and guidance about these at the bottom of this page.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/anxiety-landscape.jpg" alt="landscape-with-reflection" class="anxiety__anxiety-landscape">
 
 ### Self-help Cognitive Behavioural Therapy
 
