@@ -32,6 +32,9 @@ Memory and thinking problems can be symptoms of Parkinson’s, but not all of th
 
 <ins>**Parkinson’s**</ins> tends to affect the following components of thinking:
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/thinking.jpg" alt="thinking" class="thinking-concentration-and-memory__thinking">
+
+
 - _**Executive function:**_ This is the control of thinking, and includes planning, keeping things in mind, flexible thinking, and self-control. For example, when cooking a meal, someone with executive function problems may find it difficult to get all the right ingredients and plan what time to start cooking them so they will be ready at the same time.
 - _**Attention:**_ (staying focused on something) This might be conscious or an automatic process such as listening in a conversation. Problems might, for example, show as difficulties reading, following a conversation, or multi-tasking.
 - _**Language:**_ (remembering and understanding words and meanings) Problems might, for example, show as forgetting the word for something or not managing to understand more complex conversations.
@@ -40,7 +43,6 @@ Memory and thinking problems can be symptoms of Parkinson’s, but not all of th
 
 <ins>**Dementia**</ins> is a broad term used to describe gradual impairments of thinking, memory and other brain functions that are impacting day-to-day life. Dementia has lots of different types and causes, one of which is Parkinson’s. But not all thinking and memory problems in Parkinson’s are, or lead to, dementia.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/thinking.jpg" alt="thinking" class="thinking-concentration-and-memory__thinking">
 
 Other causes of memory and thinking problems that appear gradually include:
 
