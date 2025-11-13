@@ -99,6 +99,8 @@ If the symptoms are affecting your ability to undertake daily activities or task
 
 ## Dementia
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dementia.jpg" alt="brain-scan" class="progression-of-symptoms__dementia">
+
 - Not everyone with Parkinson’s gets dementia. It is more common in people who have had Parkinson’s for a long time, but it is difficult to predict who will develop it.
 - The term Cognitive impairment includes a collection of difficulties. These include difficulties with thinking, concentration, insight and memory. Some people have difficulties in these areas but do not have dementia. When there are difficulties in more than one of these areas and they affect daily life: that is dementia.
 - Dementia is an umbrella term for a whole range of related conditions: Parkinson’s can cause dementia, but this is different to other types of dementia that you may have heard of, like Alzheimer’s or Vascular Dementia.
@@ -108,7 +110,6 @@ If the symptoms are affecting your ability to undertake daily activities or task
 - There is huge variation in symptoms in people. Dementia is sometimes related with changes in behaviour (e.g. agitation), mood (e.g. depression) or perceptions (e.g. hallucinations).
 - As for Parkinson’s, a Dementia diagnosis can cause grief.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dementia.jpg" alt="brain-scan" class="progression-of-symptoms__dementia">
 
 ### What can be done
 
