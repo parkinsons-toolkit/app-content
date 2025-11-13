@@ -29,6 +29,8 @@ Think of your activity and exercises to be like your medication. It is an essent
 
 ## What is “Keeping Active”?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/couple-stretch.jpg" alt="couple-stretching" class="keeping-active__couple-stretch">
+
 In general, the more active you are, the better. It is important not to go beyond your limits. However, you <ins>should</ins> feel like you are pushing yourself.
 
 Different people will reach this with different activities. This will change over time.
@@ -38,7 +40,6 @@ Different people will reach this with different activities. This will change ove
 
 Everyone with Parkinson’s should be considered for referral to physiotherapy. This is even if you do not have trouble with symptoms. It can be helpful to tailor the recommendations about activity for you.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/couple-stretch.jpg" alt="couple-stretching" class="keeping-active__couple-stretch">
 
 ---
 
@@ -84,13 +85,14 @@ Many people with Parkinson’s experience more movement symptoms on one side of 
 
 **5. Work on Balance & Coordination**
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/active.jpg" alt="active" class="keeping-active__active">
+
 These are activities that challenge your balance and practice coordination, ideally undertaken twice a week or more. If you have difficulties with your balance, you should see a physiotherapist for advice on safe activities to engage in. Also see the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page.
 
 For all of these types of activity, make sure you warm up before undertaking more intense activity to avoid injuries and reduce stiffness. Be mindful of your body to avoid injury. If you are unsure whether an activity is safe, always check with a professional first.
 
 To see what this might look like in real life, pick the person you most relate to. You can find targeted advice about keeping active for each person on the separate pages.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/active.jpg" alt="active" class="keeping-active__active">
 
 ---
 
@@ -124,6 +126,8 @@ In your daily life as well as when doing specific activities, there are a few fa
 
 ### Don’t forget your hands
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/resistance-band.jpg" alt="resistance-band" class="keeping-active__resistance-band">
+
 Although it does not require intense effort, it is important to remember your hands. There are several things to practice to maintain and improve dexterity:
 
 - Control of force, i.e. grip of small objects.
@@ -132,7 +136,6 @@ Although it does not require intense effort, it is important to remember your ha
 
 This could be built into your routine through day-to-day tasks, for example writing, drawing, or manipulating small objects, like handling coins, or screwing nuts onto bolts. Alternatively, you could get creative, modelling with clay or play-dough.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/resistance-band.jpg" alt="resistance-band" class="keeping-active__resistance-band">
 
 ### Posture
 
@@ -144,11 +147,12 @@ This could be built into your routine through day-to-day tasks, for example writ
 
 ### A Note about Music
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/active-dance.jpg" alt="dancing" class="keeping-active__active-dance">
+
 - There has been some research showing benefits of music for people with Parkinson’s.
 - It seems that rhythm or beat of music helps people with Parkinson’s make some movements and so undertake activity. Some people find it more fun too.
 - Consider exercising to music or taking part in dance as part of your exercise.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/active-dance.jpg" alt="dancing" class="keeping-active__active-dance">
 
 ---
 
@@ -209,11 +213,12 @@ Options vary based on where you live. Someone with local knowledge of activities
 
 **For Parkinson’s specific activity:**
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/physio.jpg" alt="physio-exercise" class="keeping-active__physio">
+
 - Your community therapy teams (physiotherapy and occupational therapy)
 - A charity – for example Parkinson’s UK
 - Your Parkinson’s specialist team
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/physio.jpg" alt="physio-exercise" class="keeping-active__physio">
 
 ---
 
