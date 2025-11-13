@@ -19,7 +19,7 @@ _Live Well with Parkinson's_ Managing Symptoms:
 
 - **Bladder & Bowels**
   - <a href="/learn/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a>
-  - <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symtoms_</a>
+  - <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a>
 - **Mood**
   - <a href="/learn/managing-symptoms/low-mood" class="internal-link">_Low Mood_</a>
   - <a href="/learn/managing-symptoms/anxiety" class="internal-link">_Anxiety_</a>
