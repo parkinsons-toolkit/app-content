@@ -16,6 +16,9 @@ People with Parkinson’s can experience weight loss. Though some people may ini
 
 ## What might be causing it?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/scales.png" alt="scales" class="weight__scales">
+
+
 Causes of weight loss related to Parkinson’s include:
 
 - Practical issues in making food.
@@ -26,7 +29,6 @@ Causes of weight loss related to Parkinson’s include:
 
 There are many other conditions that might cause weight loss. This can include loss of appetite with depression, side effects of some medications and various health conditions. If you have lost a lot of weight without meaning to, your doctor may need to check you don’t have a serious health condition, such as a cancer. Some people as they get older have a reduced sense of taste and a lower appetite. As a result, they might eat smaller portions and lose weight. However, weight loss is not a normal part of ageing and should be checked out.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/scales.png" alt="scales" class="weight__scales">
 
 ---
 
