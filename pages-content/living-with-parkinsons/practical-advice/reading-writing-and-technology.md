@@ -65,6 +65,8 @@ You may find writing more difficult if you experience:
 
 1.<ins>First Exercise</ins>
 
+  <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/first-exercise.jpg" alt="finger-exercises" class="example-class">
+
 - Put your hands straight out in front of you, shoulder-height, with your palms away from you and fingers extended wide.
 - Turn your hands towards your face, and pull them back to be even with your body at your ribs, making a tight fist with your hands at the same time.
 - Make a fist as you bring your hand in and extending your palm as you extend your hands out.
