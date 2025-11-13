@@ -86,6 +86,9 @@ Excessive sweating can be very challenging to deal with. There are some suggesti
 
 ## Further assessment
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/man-sweating.png" alt="man-sweating" class="sweating__man-sweating">
+
+
 ### Questions
 
 Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
@@ -106,7 +109,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 
 If your healthcare professional suspects a non-Parkinson’s cause of sweating, they may arrange some further tests. These may be, for example, to check your thyroid hormone levels.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/man-sweating.png" alt="man-sweating" class="sweating__man-sweating">
 
 ---
 
