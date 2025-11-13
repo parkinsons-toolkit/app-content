@@ -16,6 +16,9 @@ Leg or ankle swelling can commonly occur in people with Parkinson’s. Extra flu
 
 ## What might be causing it?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/leg-ankle-swelling.jpg" alt="leg-ankle-swelling" class="leg-and-ankle-swelling__leg-ankle-swelling">
+
+
 Sometimes swelling gets better overnight and then worse when you are up, sitting and moving around during the day. This is called postural oedema. Gravity causes the fluid to build-up around the ankles when they are in a position lower than your knees for long periods of time. This is more common as you get older. Also, if you spend a lot of the day sitting still. It usually affects both legs/ankles and is one of the commonest causes of ankle or lower leg swelling.
 
 Possible causes of leg or ankle swelling in people with Parkinson’s include:
@@ -31,7 +34,6 @@ Other non-Parkinson’s causes of leg or ankle swelling can be from:
 - Problems with major organs, such as your heart, liver, or kidney – these are usually either already known about or associated with other symptoms.
 - Side effects of non-Parkinson’s medications (e.g. some blood pressure tablets).
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/leg-ankle-swelling.jpg" alt="leg-ankle-swelling" class="leg-and-ankle-swelling__leg-ankle-swelling">
 
 ---
 
