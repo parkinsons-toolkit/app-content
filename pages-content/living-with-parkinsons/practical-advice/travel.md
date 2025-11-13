@@ -129,9 +129,9 @@ As Parkinson’s can affect your walking this section aims to provide you with h
 
 ### The Blue Badge Scheme
 
-The Blue Badge Scheme aims to help people with mobility issues (as either the driver or passenger of a car) to park closer to their destination. The blue badge is linked to the individual rather than a vehicle and so can be used in any car you are travelling in. This includes hire cars or taxis.
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/blue-badge.jpg" alt="blue-badge" class="travel__blue-badge">
+
+The Blue Badge Scheme aims to help people with mobility issues (as either the driver or passenger of a car) to park closer to their destination. The blue badge is linked to the individual rather than a vehicle and so can be used in any car you are travelling in. This includes hire cars or taxis.
 
 The key benefit to getting a Blue Badge is that it lets you park for free:
 
@@ -334,13 +334,12 @@ Parkinson’s may make accessing toilets more difficult due to mobility or bladd
 
 ### National Key Scheme
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/toilet-sign.jpg" alt="toilet-sign" class="travel__toilet-sign">
+
 - Allows people with disabilities to unlock over 9,000 accessible public toilets across the UK.
 - The key is called a **Radar Key** and can be purchased via the <a href="https://www.disabilityrightsuk.org/radar-keys?srsltid=AfmBOophjHsd-3Hg87Sw7Q3ebdt_t7h-HI0iKErqzf9-Pxg46jZt8qaK" class="external-link" target="_blank" rel="noopener noreferrer">Disability Rights UK</a> website.
 - The website also provides a regional list of participating toilets.
 - The <a href="/learn/managing-symptoms/urination" class="internal-link">_**Urinary Symptoms**_</a> pages may also be helpful for additional support.
-
-
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/toilet-sign.jpg" alt="toilet-sign" class="travel__toilet-sign">
 
 ---
 
