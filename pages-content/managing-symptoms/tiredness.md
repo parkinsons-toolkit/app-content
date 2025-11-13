@@ -24,6 +24,9 @@ _Daytime sleepiness_ is falling asleep or feeling like you might fall asleep dur
 
 ## What might be causing it?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/tiredness.jpg" alt="tired" class="tiredness__tiredness">
+
+
 There are lots of possible causes.
 
 Parkinson’s itself can cause fatigue and sleepiness, and fatigue may be an early symptom. In addition, drugs used in Parkinson’s can cause sleepiness. Tiredness can also occur when the medication wears off. This is noticed before the next dose is due.
@@ -34,7 +37,6 @@ Less common causes of fatigue include some medical problems such as anaemia, dia
 
 If you suddenly feel very tired or lacking in energy this may indicate that you are unwell from something else such as an infection. However, in this case you would probably have other symptoms too, e.g. fever.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/tiredness.jpg" alt="tired" class="tiredness__tiredness">
 
 ---
 
