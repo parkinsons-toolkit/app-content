@@ -63,6 +63,8 @@ a) **Attention & Thinking**
 
 ### Attention & Thinking
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/freezing-diagram.png" alt="plan-method-freezing" class="freezing__freezing-diagram">
+
 - Focus in on what you are trying to do.
 - Think about putting your heel down first when taking each step.
 - Think about _big_ steps.
@@ -77,7 +79,6 @@ _'Visualisation'_
 - Imagine the movements for the whole task before starting it. Think about it step by step.
 - _For example, imagine the steps you need to do to get out of bed over and over until you feel confident in each step._
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/freezing-diagram.png" alt="plan-method-freezing" class="freezing__freezing-diagram">
 
 ### Using Weight
 
@@ -104,13 +105,14 @@ a) _Visual cues_, for example:
 
 b) _Sound cues_, for example:
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/metronome.jpg" alt="metronome" class="freezing__metronome">
+
 - Use a metronome app or device.
 - Count out loud or to yourself.
 - Sing a rhythmic song or rhyme.
 - Listen to music with a good beat.
 - _Prevention_: count or sing as you go through doorways or other spots that trigger you to freeze. Use the momentum of the rhythm to carry you through.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/metronome.jpg" alt="metronome" class="freezing__metronome">
 
 c) Imagine a cue, for example:
 
