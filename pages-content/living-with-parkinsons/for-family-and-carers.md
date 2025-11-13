@@ -84,6 +84,8 @@ Stress is something we all encounter. Life changes, such as personal problems, r
 
 ### Signs of stress
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/rainbow.jpg" alt="rainbow" class="for-family-and-carers__rainbow">
+
 **You may experience some of these <ins>physical symptoms</ins>:**
 
 - Chest pains/high blood pressure
@@ -118,7 +120,6 @@ Stress is something we all encounter. Life changes, such as personal problems, r
 
 To overcome stress or prevent too much stress, there are lots of practical steps you can take. At heart of this is looking after yourself and your wellbeing.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/rainbow.jpg" alt="rainbow" class="for-family-and-carers__rainbow">
 
 ---
 
@@ -147,13 +148,14 @@ To overcome stress or prevent too much stress, there are lots of practical steps
 
 ## Traps to avoid
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/anxiety-low-mood.jpg" alt="anxiety-low-mood" class="for-family-and-carers__anxiety-low-mood">
+
 While there are positive steps you can think about taking, there are also some traps it is helpful to try to avoid:
 
 - _**Being hard on yourself:**_ Being hard on yourself can be motivating in small doses but doing it too much has the opposite effect. Often carers are self-critical because they want to do better or feel they should be doing more. Sometimes a comment from someone can trigger these negative thoughts. It can be helpful to remember that they are not you and do not live in your situation. Being self-critical is understandable as it generally comes from a good and caring place. You want to do the best for your loved one/friend. It is important to remember that there are limits to what you can do. A helpful concept to remember is being “good enough”. It is helpful to remember all the things you are doing rather than some of the things you feel you are not. Thinking about the negatives is only likely to add to your stress. If you notice you are being self- critical, helpful questions to ask are “how is the way I am acting towards myself helping me move towards what I am aiming for?” Often when we are being hard on ourselves, it leads to us feeling less motivated. This in turn means we are less likely to achieve our goals. Instead, we could ask “if this was a friend in the same situation what would I be saying to them?” This is especially important when you have comments you feel are negative or judgmental from other people.
 - _**Not communicating your needs:**_ People will often offer help, but sometimes it might not be the right help. Also, the help you need may change over time. This can be as stressful as people not helping. However, it is important to remember people are not mind-readers. They often do not know what help is needed or what is most important to you. Do not be afraid to let people know your needs and to be specific. Equally, allow others room for error. They are unlikely to do things as well as you, but they need the chance to practise (and remember the concept of good enough).
 - _**Not being assertive:**_ Being a carer means you will often have many additional demands on you. Therefore, it is important that you are assertive when you need to be. This can be when others put additional demands on you or when it comes to stating your own needs. Being assertive is stating your needs clearly and why they are important to you.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/anxiety-low-mood.jpg" alt="anxiety-low-mood" class="for-family-and-carers__anxiety-low-mood">
 
 ---
 
@@ -355,15 +357,19 @@ We know there can always be situations where asking for and accepting help can b
 
 _**Tips for accepting help:**_
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/accepting-help.jpg" alt="accepting-help" class="for-family-and-carers__accepting-help">
+
+
 - _**Ask for help:**_ Your friends, family and others around you may be glad to be told how they can help. If they are unable or unwilling to help, it will be useful to know this when planning your sources of support. Remember, if you are not in a situation to ask, having that list of numbers/email addresses/websites for support groups/systems can help you know you are not alone.
 - _**Guide help:**_ If people do help, but give the wrong help, talk to them about this. Gently guide them on what would be useful and how to give you the right sort of help. This might differ from person to person. The help you need might be a listening ear, or it might be something more practical. Being clear about what you need from each helper will allow you to build a more effective support network. Remember, you can always contact/talk to an independent source outside of your immediate circle.
 - _**Refusal of help**_ Sometimes people with Parkinson’s may choose not to accept the support offered. There may be many reasons for this. It is important that you talk to the person about this. What help are they willing to accept? What do they not want? These conversations can help both of you define your roles better and be clear about what is expected of the other. Sometimes it may be that the person with Parkinson’s is suffering emotionally. If you suspect this is the case, you could encourage them to get some support. Remember, if you are not in a situation to be able to talk with the person with Parkinson’s /or other family members, you can contact one of the support groups which may help you know you are not alone.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/accepting-help.jpg" alt="accepting-help" class="for-family-and-carers__accepting-help">
 
 ---
 
 ## Coping with changes in relationships
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/park.jpg" alt="walk-in-park" class="for-family-and-carers__park">
 
 Any long-term condition or disability is likely to have a big impact on even the healthiest of relationships. Parkinson’s can cause many different changes to your relationship. For some couples, coping with Parkinson's together has made their relationships stronger. For others, it can have negative effects. These changes can happen at any stage of the condition.
 
@@ -378,7 +384,6 @@ _**Tips for coping with changes in relationships:**_
 - Ask the person with Parkinson’s what they are willing or not willing to allow you to help with
 - Keep talking
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/park.jpg" alt="walk-in-park" class="for-family-and-carers__park">
 
 ---
 
