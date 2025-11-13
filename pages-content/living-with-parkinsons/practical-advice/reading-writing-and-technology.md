@@ -72,6 +72,8 @@ You may find writing more difficult if you experience:
 
   2.<ins>Second Exercise</ins>
 
+  <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/second-exercise.jpg" alt="finger-exercises" class="example-class">
+
 - Tap each finger on your right hand to your right thumb and then extend upwards. Do the same on your left hand at the same time.
 - _Explained in detail:_ Tap right pointer finger to your right thumb and your left pointer finger to your left thumb, then extend both pointer fingers to the sky; then tap middle fingers to each thumb, and extend each middle finger to the sky, etc.
 - Repeat this exercise twice on each finger.
