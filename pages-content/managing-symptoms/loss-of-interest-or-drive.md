@@ -19,9 +19,10 @@ that might be apathy.
 
 ## What might be causing it?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/apathy.jpg" alt="loss-of-drive" class="loss-of-interest-or-drive__apathy">
+
 Apathy is a symptom of Parkinson’s as well as other neurological conditions. There is evidence that it is linked to the levels of dopamine in the brain. This link is different from how we know dopamine affects movement. Apathy in Parkinson’s can be present by itself. It can also be linked to low mood, memory and thinking problems.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/apathy.jpg" alt="loss-of-drive" class="loss-of-interest-or-drive__apathy">
 
 ---
 
@@ -52,11 +53,14 @@ There are three main ways to tackle apathy. First, by establishing a routine so 
 Apathy tends to affect activities that we do less often, especially where we can choose to do them or not. Regular activities and habits tend to be less affected. Building a regular routine within the day or across the week is a good way to tackle apathy. This can also improve your mood. Your routine can include anything that you want, but the best routines have some variety. It is useful to think of a number of activities that you can do from different categories.
 
 **Chores**
-There are always things that need doing about the house, in the garden or wherever. These may be things that you have done in the past but have stopped doing. There may be other chores that a family member does that you could take over or help with. These may not be fun but they are useful and often provide an opportunity for some physical activity. You may want to sit down with people in your family to work out what chores you can do and agree a time when they will be done.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gardening.jpg" alt="gardening" class="loss-of-interest-or-drive__gardening">
 
+There are always things that need doing about the house, in the garden or wherever. These may be things that you have done in the past but have stopped doing. There may be other chores that a family member does that you could take over or help with. These may not be fun but they are useful and often provide an opportunity for some physical activity. You may want to sit down with people in your family to work out what chores you can do and agree a time when they will be done.
+
+
 **Hobbies and Pastimes**
+
 When a person has apathy, hobbies and pastimes are often one of the first things to be affected. Sometimes these have become difficult because of Parkinson’s. Even if you cannot do all the things you used to enjoy, find a few that you can still do and build one or two of these into your routine.
 
 For more advice, see our <a href="/learn/living-with-parkinsons/practical-advice/hobbies-and-pets" class="internal-link">_Hobbies & Pets_</a> page.
