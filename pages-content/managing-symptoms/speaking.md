@@ -63,6 +63,8 @@ If you have a new hoarse voice that has lasted more than three weeks you should 
 
 ### Getting speech exercises into everyday life
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/speech-therapy.jpg" alt="speech" class="speaking__speech-therapy">
+
 It is important you practise the following with a clear voice, as rehearsing with a hoarse voice will cause more problems. A hoarse voice should clear if you talk louder.
 
 - **Singing:** A hobby that may be a social and fun way to increase your confidence in your voice.
@@ -72,7 +74,6 @@ It is important you practise the following with a clear voice, as rehearsing wit
 - **Reading aloud:** Whether it is stories, poetry or the news, try reading it out loud rather than in your head to exercise your speech.
 - **Apps:** Some people use an app on their phone or computer to show how many decibels they use when speaking. This can help you realise how quiet or loud you are talking. Normal conversation is around 60 – 70 decibels. If you are interested in this, ask your therapist, who may be able to advise you further.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/speech-therapy.jpg" alt="speech" class="speaking__speech-therapy">
 
 ---
 
