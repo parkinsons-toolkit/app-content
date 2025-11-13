@@ -93,6 +93,8 @@ High blood pressure can occur when high-dose selegeline is taken with tyramine-r
 
 ## Diet and Constipation
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/water-constipation.jpg" alt="drink-water" class="eating-well__water-constipation">
+
 Constipation is a common symptom experienced by people with Parkinson’s. It can prevent medication from being absorbed properly, which prevents it from working properly. The first steps toward managing constipation are diet and lifestyle modifications.
 
 **Dietry Advice:**
@@ -102,7 +104,6 @@ Constipation is a common symptom experienced by people with Parkinson’s. It ca
 
 _See the <a href="/learn/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a> page for more details._
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/water-constipation.jpg" alt="drink-water" class="eating-well__water-constipation">
 
 ---
 
@@ -147,6 +148,9 @@ _Alcohol dependency or addiction has serious health implications. There is lots 
 
 ## Swallowing difficulties
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/making-tea.jpg" alt="making-tea" class="eating-well__making-tea">
+
+
 Some people with Parkinson’s will notice they may have trouble with swallowing certain foods or liquids. Here we discuss the dietary implications; see the <a href="/learn/managing-symptoms/swallowing" class="internal-link">Swallowing Difficulties</a> page for more information about the symptom.
 
 **It is important to talk to your GP or Parkinson’s specialist team** as soon as you can if you are having problems with swallowing. They may need to refer you to specialists who can offer help. Speech and language therapists (SALTs or SLTs) are experts in swallowing and can offer information and strategies to overcome some of the challenges you are experiencing.
@@ -163,7 +167,6 @@ Some people with Parkinson’s will notice they may have trouble with swallowing
 - Thicker soups, yoghurts or blended foods/fruits can also allow you to take in more fluid in a form that is easier to swallow.
 - Smaller meals may not be as nutritionally complete, so if you are having issues with gaining or maintaining weight, please consult your GP or Parkinson’s specialist team.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/making-tea.jpg" alt="making-tea" class="eating-well__making-tea">
 
 ---
 
@@ -202,6 +205,9 @@ Example:
 
 ### Overweight
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/food-fibre.jpg" alt="example-alt-text" class="eating-well__food-fibre">
+
+
 Avoiding being overweight is particularly important if you have other health conditions in addition to Parkinson’s – for example, circulation problems, high cholesterol, diabetes, and heart disease.
 
 Parkinson’s doesn’t tend to make people gain weight, but there are few reasons why it can happen, specific to Parkinson’s:
@@ -220,17 +226,17 @@ Parkinson’s doesn’t tend to make people gain weight, but there are few reaso
 - Ensure ½ your plate is vegetables/salad, ¼ lean protein and ¼ wholemeal or low GI carbohydrate
 - Avoid very low calorie diets as this can contribute to decreased energy levels
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/food-fibre.jpg" alt="example-alt-text" class="eating-well__food-fibre">
 
 ---
 
 ## Supplements
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/supplements.jpg" alt="supplements" class="eating-well__supplements">
+
 The best way to get vitamins and minerals in your diet is by eating a well-balanced diet. For many vitamins and supplements, there isn’t clear evidence that they have health benefits, and in some cases, large doses can have side effects.
 
 Some vitamins and supplements can interact with your Parkinson’s medications or other medications. **Before purchasing any ‘over the counter’ mineral or vitamin supplements from chemists or health food shops, be sure to consult with a pharmacist, your GP, or Parkinson’s specialist team.**
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/supplements.jpg" alt="supplements" class="eating-well__supplements">
 
 ### Should I take supplements?
 
@@ -296,9 +302,10 @@ There has been a lot of interest in supplements as a way of slowing down Parkins
 
 ## Understanding Food Groups
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/eat-well-guide.jpg" alt="example-alt-text" class="eating-well__eat-well-guide">
+
 You can learn more about the five food groups below by exploring the <a href="https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Eatwell Guide</a>.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/eat-well-guide.jpg" alt="example-alt-text" class="eating-well__eat-well-guide">
 
 ### Fruit/Vegetables
 
