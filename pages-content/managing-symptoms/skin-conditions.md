@@ -46,13 +46,14 @@ Prolonged pressure through an area of skin can cause damage. This is more likely
 
 ### Abnormal Moles & Parkinson’s
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/checking-moles.jpg" alt="checking-moles" class="skin-conditions__checking-moles">
+
 - Some research studies have shown that people with Parkinson’s have a slightly higher risk of developing abnormal moles or melanoma. People with melanoma have a greater risk of developing Parkinson’s.
 - The exact link has not been discovered, just a connection between the two for now.
 - Melanoma is a type of skin cancer. One of the main causes of melanoma is exposure to too much ultraviolet light in sunlight. About 16,000 people in the UK are diagnosed with melanoma each year. There is more information available on the <a href="www.nhs.uk/conditions/melanoma-skin-cancer" class="external-link" target="_blank" rel="noopener noreferrer">_NHS website_</a>.
 
 All of these skin issues are seen in people who don’t have Parkinson’s as well. And people with Parkinson’s can also get skin conditions that are completely unrelated to their Parkinson’s. Wounds and ulcers are more common in people who have decreased sensation for other medical reasons. An example of this would be those with diabetes.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/checking-moles.jpg" alt="checking-moles" class="skin-conditions__checking-moles">
 
 ---
 
