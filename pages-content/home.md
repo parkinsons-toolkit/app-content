@@ -1,4 +1,4 @@
-# Welcome to your _Live Well with Parkinson's_ account!
+# Welcome to your **_Live Well with Parkinson's_** account!
 _Live Well with Parkinson's_ aims to help you:
 
 - Increase your knowledge about Parkinson's by reading our information pages. This might include learning how to maintain a healthy and active lifestyle while living with Parkinson's symptoms and treatments.
