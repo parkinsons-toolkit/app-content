@@ -1,13 +1,13 @@
 # UCL Live Well with Parkinson’s Toolkit
+
 **Helping People with Parkinson’s and Their Carers Live Well**
 
 ---
 
-## UCL Live Well with Parkinson’s Toolkit
 ### Empowering Self-Management Between Appointments  
 Improving patient outcomes, reducing unplanned hospital admissions, and saving costs for the NHS.
 
-[Learn More](#what-is-the-ucl-live-well-with-parkinsons-toolkit) | [Join the Trial](#development)
+[Learn More](#what-is-the-ucl-live-well-with-parkinsons-toolkit)
 
   
 | **Metric**                | **Result**                                |
