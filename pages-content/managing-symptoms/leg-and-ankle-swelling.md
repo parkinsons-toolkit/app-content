@@ -18,7 +18,6 @@ Leg or ankle swelling can commonly occur in people with Parkinson’s. Extra flu
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/leg-ankle-swelling.jpg" alt="leg-ankle-swelling" class="leg-and-ankle-swelling__leg-ankle-swelling">
 
-
 Sometimes swelling gets better overnight and then worse when you are up, sitting and moving around during the day. This is called postural oedema. Gravity causes the fluid to build-up around the ankles when they are in a position lower than your knees for long periods of time. This is more common as you get older. Also, if you spend a lot of the day sitting still. It usually affects both legs/ankles and is one of the commonest causes of ankle or lower leg swelling.
 
 Possible causes of leg or ankle swelling in people with Parkinson’s include:
@@ -34,7 +33,6 @@ Other non-Parkinson’s causes of leg or ankle swelling can be from:
 - Problems with major organs, such as your heart, liver, or kidney – these are usually either already known about or associated with other symptoms.
 - Side effects of non-Parkinson’s medications (e.g. some blood pressure tablets).
 
-
 ---
 
 ## What Should I Do About It?
@@ -45,7 +43,7 @@ Other non-Parkinson’s causes of leg or ankle swelling can be from:
 - If you have a little bit of ankle swelling in both legs that isn’t too bothersome and none of the symptoms listed above, you could try the advice below (see section ‘What can I try for myself?’).
 - If it doesn’t improve within a few weeks, make a routine GP appointment.
 - If the swelling is more severe and bothersome, you should book an appointment with your GP and try the advice below in the meantime.
-- If you have redness, warmth, wounds or ulcers overlying the swelling, that you are not receiving professional support for, you should see your GP as soon as possible. See our <a href="/learn/managing-symptoms/skin-conditions" class="internal-link">_Skin Conditions_</a> page for more information.
+- If you have redness, warmth, wounds or ulcers overlying the swelling, that you are not receiving professional support for, you should see your GP as soon as possible. See our <a href="/information/managing-symptoms/skin-conditions" class="internal-link">_Skin Conditions_</a> page for more information.
 - **If the swelling is new and in one leg only or developed very quickly (over hours or days) you should contact your GP or 111 for an urgent review. **
 
 ---
@@ -96,7 +94,7 @@ People affected by Parkinson’s describe their experiences.
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -172,4 +170,4 @@ You may be given reassurance or more specific advice about things you could try 
 | NHS            | Offers compact information about swollen ankles, feet and legs (oedema). There are some ways to ease swelling yourself.                                             | --                                                                                                                                                     | <a href="https://www.nhs.uk/conditions/oedema/" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/conditions/oedema/</a>                                                     |
 | Parkinson’s UK | Has information about foot care for Parkinson’s and discusses swelling, footwear and more. You can view this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/foot-care" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/foot-care</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

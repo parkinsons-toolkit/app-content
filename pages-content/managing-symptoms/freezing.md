@@ -79,7 +79,6 @@ _'Visualisation'_
 - Imagine the movements for the whole task before starting it. Think about it step by step.
 - _For example, imagine the steps you need to do to get out of bed over and over until you feel confident in each step._
 
-
 ### Using Weight
 
 [diagram]
@@ -113,7 +112,6 @@ b) _Sound cues_, for example:
 - Listen to music with a good beat.
 - _Prevention_: count or sing as you go through doorways or other spots that trigger you to freeze. Use the momentum of the rhythm to carry you through.
 
-
 c) Imagine a cue, for example:
 
 - Imagine a sound (i.e. a beat, metronome or rhythmic music).
@@ -143,7 +141,7 @@ People affected by Parkinson’s describe their experiences.
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -190,4 +188,4 @@ Research is ongoing to look for new ways of managing freezing, including the use
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Parkinson’s UK | Provides in-depth information about freezing: its causes, treatments, useful cues and general support. <br><br>You can read information online, print it or ask it to be mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/freezing" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/freezing</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

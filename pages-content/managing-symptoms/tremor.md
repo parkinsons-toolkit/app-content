@@ -34,9 +34,7 @@ Whatever the cause, most tremors get worse when the individual is anxious or str
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/tremor.jpg" alt="tremor" class="tremor__tremor">
 
-
 There are many things you can try for yourself as below. If despite these, the tremor is very bothersome, speak to your Parkinson’s specialist team routinely about possible changes to your treatment. Unfortunately, treatments and strategies do not completely stop the tremor. The aim is to minimise the impact on daily life.
-
 
 ---
 
@@ -67,11 +65,11 @@ _These may make tremor more pronounced:_
 
 Sometimes tremors can make specific tasks more difficult. Extra adaptations, support or equipment may be needed for those tasks:
 
-- Eating and drinking – special cutlery or cups may help – see <a href="/learn/living-with-parkinsons
+- Eating and drinking – special cutlery or cups may help – see <a href="/information/living-with-parkinsons
   /practical-advice/daily-living" class="internal-link">_Daily Living_</a> page for more ideas.
-- Taking medication – pill organisers may be easier to handle than the original packets – see <a href="/learn/treatments-and-therapies
+- Taking medication – pill organisers may be easier to handle than the original packets – see <a href="/information/treatments-and-therapies
   /medications" class="internal-link">_Medication_</a> page for more ideas.
-- Technology – some people find touch screen difficult to control with a tremor and find using a mouse easier; others use voice control. Most smartphones allow for voice dictation instead of typing. Similarly using a device such as an Alexa can be helpful. See our <a href="/learn/living-with-parkinsons
+- Technology – some people find touch screen difficult to control with a tremor and find using a mouse easier; others use voice control. Most smartphones allow for voice dictation instead of typing. Similarly using a device such as an Alexa can be helpful. See our <a href="/information/living-with-parkinsons
   /practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> page for more ideas.
 
 ---
@@ -104,7 +102,7 @@ People affected by Parkinson’s describe their experiences.
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -134,7 +132,7 @@ Having consulted a healthcare professional, they may offer reassurance or furthe
 
 **Some medications used for tremor:**
 
-- Parkinson’s medication: See our <a href="/learn/treatments-and-therapies
+- Parkinson’s medication: See our <a href="/information/treatments-and-therapies
   /medications" class="internal-link">_Medication_</a> page for more information.
 - Anticholinergics (e.g. trihexyphenidyl)
 - Beta blockers (e.g. propranolol)
@@ -152,7 +150,7 @@ Having consulted a healthcare professional, they may offer reassurance or furthe
 
 - You may be referred on to another service.
 - If your tremor is causing difficulty with daily activities, your GP or Parkinson’s specialist team may refer you on to an occupational therapist to help assess and decide if you might benefit from additional equipment or support.
-- If your Parkinson’s specialist has exhausted all medication options and the tremor is still impacting your daily life a great deal then you may be a candidate for a surgical therapy such as Deep Brain Stimulation. If your Parkinson’s specialist team think that is the case, they may refer you to a specialist centre for further assessment. See <a href="/learn/treatments-and-therapies/treatments-and-therapies
+- If your Parkinson’s specialist has exhausted all medication options and the tremor is still impacting your daily life a great deal then you may be a candidate for a surgical therapy such as Deep Brain Stimulation. If your Parkinson’s specialist team think that is the case, they may refer you to a specialist centre for further assessment. See <a href="/information/treatments-and-therapies/treatments-and-therapies
   /advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Treatments & Surgical Treatments_</a> for more information.
 
 ---
@@ -171,4 +169,4 @@ Having consulted a healthcare professional, they may offer reassurance or furthe
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Parkinson’s UK | Explains the different types of tremor experienced in Parkinson’s, how they progress, and ways to manage their impact on daily life. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/tremor" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/tremor</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

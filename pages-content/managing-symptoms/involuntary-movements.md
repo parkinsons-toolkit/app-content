@@ -32,7 +32,7 @@ Dyskinesia tends to get worse when stressed or anxious.
 
 If dyskinesias aren’t bothering you or impacting on your daily life, then there's nothing you need to do.
 
-If there are lots of extra movements, this can burn extra calories and cause unintended weight loss (see the <a href="/learn/managing-symptoms/weight" class="internal-link">_Weight_</a> page for more information).
+If there are lots of extra movements, this can burn extra calories and cause unintended weight loss (see the <a href="/information/managing-symptoms/weight" class="internal-link">_Weight_</a> page for more information).
 
 There are some ideas below for how to manage your dyskinesia. But if they are impacting your daily life or bothering you, discuss them with your Parkinson’s specialist team.
 
@@ -79,7 +79,7 @@ People affected by Parkinson’s describe their experiences.
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -133,7 +133,7 @@ A healthcare professional may be able to offer support, advice, or further treat
   - Intraduodenal levodopa – continuous infusion of gel form levodopa via the intestine
   - Deep brain stimulation (DBS) surgery
 
-See <a href="/learn/treatments/medications" class="internal-link">_Medication_</a> and <a href="/learn/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> pages for more information.
+See <a href="/information/treatments/medications" class="internal-link">_Medication_</a> and <a href="/information/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> pages for more information.
 
 ---
 
@@ -156,4 +156,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*Calls cost up to 10p/minute from landlines, between 3p- 40p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

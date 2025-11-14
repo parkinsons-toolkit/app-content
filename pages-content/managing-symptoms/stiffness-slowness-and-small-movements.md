@@ -32,9 +32,7 @@ Slow movements can be the result of other problems too – for example due to pa
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/stiffness.jpg" alt="stiffness" class="stiffness-slowness-and-small-movements__stiffness">
 
-
 There are many things you can try for yourself as described below. Although there are some circumstances where you should seek professional help. If you are having problems turning over in bed, getting dressed, or walking, it is time to speak to your GP or Parkinson’s specialist team. Similarly, if stiffness and slowness are bothering you, and you don’t see improvement by one month of following the advice below, seek help from your GP or Parkinson’s specialist team.
-
 
 ---
 
@@ -57,7 +55,7 @@ There are 2 aspects to this:
 1. Undertaking Activity: This can help lengthen and stretch muscles and reduces the impact of movement changes over time. The type of activity depends on your personal circumstances. Doing exercise regularly is important for everyone.
 2. Reducing periods of sitting: e.g. Walking breaks during the day to break up periods of sitting still.
 
-See <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> section for more tips about activities. Ideally these are tailored for you by a physiotherapist or occupational therapist. Here are a few specific tips for symptoms of stiffness, slowness and smaller movements. None of these should be painful. If you experience pain, talk to your physiotherapist, GP or Parkinson’s specialist team.
+See <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> section for more tips about activities. Ideally these are tailored for you by a physiotherapist or occupational therapist. Here are a few specific tips for symptoms of stiffness, slowness and smaller movements. None of these should be painful. If you experience pain, talk to your physiotherapist, GP or Parkinson’s specialist team.
 
 ### Big Movements
 
@@ -118,7 +116,7 @@ People affected by Parkinson’s describe their experiences.
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -147,8 +145,8 @@ The main treatments for these symptoms are (physical) therapies and medication.
 - Doctors (e.g. GP or neurologist) and some senior nurses (e.g. Parkinson’s Specialist Nurses) may change your medication if within their expertise.
 - **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 - Parkinson’s medications are used for stiffness, slowness and difficulty with small movements:
-  - See <a href="/learn/treatments/medications" class="internal-link">_Medications_</a> page for more information.
-- See <a href="/learn/managing-symptoms/pain" class="internal-link">_Pain_</a> page for how pain might be treated if this is restricting your movements.
+  - See <a href="/information/treatments/medications" class="internal-link">_Medications_</a> page for more information.
+- See <a href="/information/managing-symptoms/pain" class="internal-link">_Pain_</a> page for how pain might be treated if this is restricting your movements.
 
 ### Therapies
 
@@ -174,4 +172,4 @@ The main treatments for these symptoms are (physical) therapies and medication.
 | Michael J. Fox Foundation | This American organisation has compiled five ways to help muscle stiffness in Parkinson’s.                                                                                  | --                                                                                                                                                     | <a href="https://www.michaeljfox.org/news/five-ways-help-muscle-stiffness-parkinsons-disease" class="external-link" target="_blank" rel="noopener noreferrer">https://www.michaeljfox.org/news/five-ways-help-muscle-stiffness-parkinsons-disease</a>                                                                                                                                                                                                                          |
 | Parkinson’s UK            | This charity has some information about rigidity and slowness of movement with Parkinson’s.<br><br>You can print this information, read it online or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | Rigidity: <a href="http://www.parkinsons.org.uk/information-and-support/rigidity" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinsons.org.uk/information-and-support/rigidity</a><br><br>Slowness of Movement: <a href="https://www.parkinsons.org.uk/information-and-support/slowness-movement" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/slowness-movement</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

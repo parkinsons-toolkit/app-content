@@ -16,7 +16,6 @@
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gloomy-waters.jpg" alt="looking-over-water" class="low-mood__gloomy-waters">
 
-
 Everyone has times when their mood is low, and they feel unhappy about life. This can happen following a difficult event or experience. It is also possible to feel down without there being a clear reason. For some people, these periods of low mood are manageable and gradually pass. For others, low mood may persist for a long time and can affect their day-to-day life. They may find it more difficult to ‘shake it off’, even for a short time. This may indicate depression. When a person is depressed, it can affect their physical health, their appetite, and their sleep. In the same way, when a person is physically unwell it can lower their mood.
 
 A general low mood may involve feeling sad, but it can also involve feeling emotionally ‘flat’ or ‘empty’. When a person has low mood, they can also experience some of the following:
@@ -29,7 +28,6 @@ A general low mood may involve feeling sad, but it can also involve feeling emot
 Just because such feelings are common, it does not mean that they have to be accepted as inevitable. Making small changes in your life, such as talking about a difficult situation or increasing the amount sleep you get, can help to improve your mood. It can also help to keep as physically, mentally, and socially active as you can.
 
 A low mood which persists despite taking positive steps to help manage it can be a sign of depression. Depression is more intense and longer lasting than the short periods of low mood that anyone can experience from time to time. Depression can have the same features as low mood, plus others.
-
 
 ---
 
@@ -83,7 +81,7 @@ Depression is more common in people who have many different long-term health con
 </iframe>
 </div>
 
-There are many things you can try to help you deal with low mood or depression (see below ‘What can I try for myself?’). At times, feelings of low mood are completely normal. But, if you have these feelings for most of the day, every day for more than 2 weeks, you should make an appointment with your GP. Your GP can assess whether your symptoms suggest that you are depressed. Depending on the outcome, they may recommend medication or a talking therapy (see the <a href="/learn/treatments-and-therapies
+There are many things you can try to help you deal with low mood or depression (see below ‘What can I try for myself?’). At times, feelings of low mood are completely normal. But, if you have these feelings for most of the day, every day for more than 2 weeks, you should make an appointment with your GP. Your GP can assess whether your symptoms suggest that you are depressed. Depending on the outcome, they may recommend medication or a talking therapy (see the <a href="/information/treatments-and-therapies
 /complementary-therapies" class="internal-link">_Complementary Therapies_</a>) page.
 
 In some situations, depression can need urgent attention. This may be if you are experiencing any of the following:
@@ -127,7 +125,7 @@ Exercising regularly can help boost your mood as well as help you sleep. You may
 - Use the stairs instead of the lift or escalator
 - Leave the car at home for short journeys
 - Get off the bus a stop earlier and walk the rest of the journey
-- See the <a href="/learn/living-with-parkinsons/optimising-wellbeing
+- See the <a href="/information/living-with-parkinsons/optimising-wellbeing
   /keeping-active" class="internal-link">_Keeping Active_</a> for more guidance.
 
 If you have any concerns about safe and suitable exercise routines, discuss with your GP or a physiotherapist who will be able to recommend exercise that is right for you.
@@ -140,22 +138,20 @@ For example, people who are depressed can often crave ‘junk food’ that is hi
 
 It can be beneficial to limit your alcohol intake. Drinking alcohol frequently can lead to depression as it lowers your mood (it has a depressant effect on mood). Alcohol also affects sleep. While alcohol can initially make you feel more sleepy, it affects your sleep quality. If you drink alcohol before going to bed you are less likely to have a refreshing night’s sleep.
 
-See the <a href="/learn/living-with-parkinsons/optimising-wellbeing
+See the <a href="/information/living-with-parkinsons/optimising-wellbeing
 /eating-well" class="internal-link">_Eating Well_</a> page for more guidance.
 
 ### Keeping socially active and combat loneliness
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/mental-health-support.jpg" alt="mental-health-support" class="low-mood__mental-health-support">
 
-
 When a person is depressed, they often cut themselves off from other people. Even when not depressed, many people can feel isolated and lonely. This can make depression more likely.
 
 Socialising can improve your mood. Staying in contact with friends and family means you have someone to talk to when you feel low. Talking to others with Parkinson’s can also help by sharing your experiences and learning about different coping mechanisms or solutions to similar problems.
 
-Look out for new opportunities from activities offered through local colleges, places of worship (e.g. churches, mosques, temples), community centres, leisure facilities, charities and societies (e.g. your local U3A group). Your local library can be a good source of information about what is available in your area. We have listed some other possible sources in our _Practical Advice_ pages which you can within the <a href="/learn/living-with-parkinsons" class="internal-link">_Living with Parkinson's_</a> section. If you need support speicifally with travelling to events, see our <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for advice.
+Look out for new opportunities from activities offered through local colleges, places of worship (e.g. churches, mosques, temples), community centres, leisure facilities, charities and societies (e.g. your local U3A group). Your local library can be a good source of information about what is available in your area. We have listed some other possible sources in our _Practical Advice_ pages which you can within the <a href="/information/living-with-parkinsons" class="internal-link">_Living with Parkinson's_</a> section. If you need support speicifally with travelling to events, see our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for advice.
 
-
-Visit our <a href="/learn/living-with-parkinsons/optimising-wellbeing
+Visit our <a href="/information/living-with-parkinsons/optimising-wellbeing
 /social-and-spiritual-life" class="internal-link">_Social & Spiritual Life_</a> page for more information on how you can keep socially active.
 
 ### Sleep
@@ -169,13 +165,13 @@ Depression and anxiety can both affect the quality of our sleep. Similarly, when
 - Make sure your bedroom is dark, quiet, and comfortable.
 - Try to avoid caffeine (e.g. tea and coffee) after 2pm.
 
-See our <a href="/learn/managing-symptoms/sleep" class="internal-link"></a> p_Sleep_age for more tips on how to improve the amount and quality of your sleep.
+See our <a href="/information/managing-symptoms/sleep" class="internal-link"></a> p_Sleep_age for more tips on how to improve the amount and quality of your sleep.
 
 ### Relaxation and Breathing Exercises
 
 It’s important to try and make time to relax. Try doing things you find restful, such as listening to music, reading a book, going for a walk, or getting creative by painting or colouring. See the _Mind_ charity website, along with other useful resources, linked at the bottom of this page, for more tips on how to incorporate relaxation into your daily life.
 
-It can also help to practise calming breathing techniques. This can reduce any stress and boost your emotional well-being. See our (see <a href="/learn/living-with-parkinsons/optimising-wellbeing/dealing-with-stress-and-challenges" class="internal-link">_Dealing with Stress and Challenges_</a> page for a simple breathing exercise you can try.
+It can also help to practise calming breathing techniques. This can reduce any stress and boost your emotional well-being. See our (see <a href="/information/living-with-parkinsons/optimising-wellbeing/dealing-with-stress-and-challenges" class="internal-link">_Dealing with Stress and Challenges_</a> page for a simple breathing exercise you can try.
 
 ### Mindfulness
 
@@ -187,7 +183,6 @@ Mindfulness is often included as part of psychological treatment. It is recommen
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/diary.jpg" alt="gratitude-diary" class="low-mood__diary">
 
-
 Keeping a diary of the things you’re grateful for may lift your mood have a positive effect on your mental wellbeing. Try to describe one thing you’re grateful for and do this twice a week. You can write about anything that comes to mind, as long as it makes you feel grateful. For example, it could be something very little that has happened or a person that you’re grateful for.
 
 _Tips for keeping a gratitude diary..._
@@ -197,14 +192,13 @@ _Tips for keeping a gratitude diary..._
 - Try to include as much detail as possible about _why_ you’re grateful.
 - Plan a time when you will write in your diary. Consider setting an alarm on your phone if you find that you are forgetting to write your diary entries
 
-
 ### Complementary Therapies
 
 Complementary therapies include massage, acupuncture and aromatherapy. These therapies have not been tested in clinical trials, but some people with Parkinson’s report having positive experiences of them. These therapies may not directly treat the depression but can be helpful for relaxation and general wellbeing.
 
 Check with your GP, specialist, or Parkinson’s nurse if you wish to take anything by mouth or apply it to your skin as a complementary therapy.
 
-See our <a href="/learn/treatments-and-therapies
+See our <a href="/information/treatments-and-therapies
 /complementary-therapies" class="internal-link">_Complementary Therapies_</a> page for more information.
 
 ### Resources for Wellbeing and Mental Health
@@ -235,7 +229,7 @@ Cognitive Behavioural Therapy (CBT) focuses on how your feelings, thoughts, and 
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They might ask about:**
 
@@ -276,11 +270,9 @@ Your healthcare professional may be able to give you more specific advice about 
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/talking-therapy.jpg" alt="talking-therapy" class="low-mood__talking-therapy">
 
-
 - **Counselling:** Counselling can help you cope with mild versions of common mental health problems, including depression. It might also help you to talk about a specific event or cause for your low mood, such as relationship difficulties or a bereavement. Counselling may be available on the NHS. It can also be available for free through your employer. Some charities offer cheap or free talking therapies or group support. This includes <a href="https://www.cruse.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Cruse</a> for bereavement care, <a href="https://www.relate.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Relate</a> for relationship counselling and <a href="https://www.mind.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Mind</a>. Some private counsellors also offer discounted rates for those on low incomes. See our More information section for details on how to find a trained and accredited therapist.
 - **Cognitive Behavioural Therapy (CBT):** CBT aims to help you understand how your feelings, thoughts, and behaviour influence each other. Your therapist will aim to teach you skills in identifying and overcoming ‘unhelpful’ or negative thoughts to help you cope better and reduce symptoms of depression. CBT typically involves a course of weekly sessions and may be delivered by a clinical psychologist, psychiatrist, or specially trained nurse. For people with milder depression, treatment can be done via computer from your own home with support from a mental health care professional. CBT for depression will include looking to help associated problems such as sleep, lack of physical activity, and social isolation. CBT is available on the NHS by <a href="https://www.nhs.uk/service-search/find-a-psychological-therapies-service/" class="external-link" target="_blank" rel="noopener noreferrer">self-referral</a> or through your GP.
 - **Other therapies:** While CBT is the most commonly offered therapy, other therapies might also be available and recommended. A wide range of other therapies exist. The <a href="https://www.bacp.co.uk/about-therapy/types-of-therapy/" class="external-link" target="_blank" rel="noopener noreferrer">British Association for Counselling and Psychotherapy (BACP)</a> has an A-Z of therapies, which explains what they are. You can talk to your GP or NHS psychological therapy service about other types of therapy available in your area.
-
 
 ### Medication
 
@@ -341,4 +333,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

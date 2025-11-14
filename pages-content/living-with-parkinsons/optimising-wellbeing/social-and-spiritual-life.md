@@ -44,7 +44,6 @@ Connecting with others can give you a sense of belonging and reduce loneliness, 
 - **Use the internet and social media:** If you are not already doing this, the internet offers many ways to stay connected, from staying in touch with family to finding local events. You can re-connect with old friends using social network sites (e.g. Facebook) or connect with younger family members using their favourite social media App (e.g. Snapchat). You could create a ‘group chat’ for family or friends using a messaging App (e.g. WhatsApp). You could also use online forums to find people with similar interests. If you would like to learn how to use a computer, contact your local library or council. Or contact Age UK, who offer local training sessions.
 - **If you are feeling very lonely**, there are services that can help. Most GP practices now have access to a link worker. This person can help you to find something that suits you to help with feeling lonely. You can ask your GP practice reception about this. Some areas have services to connect you to volunteers who can help too. You can also call <a href="https://www.thesilverline.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">The Silver Line</a> on 0800 4 70 80 90, which is a confidential service open 24 hours a day, 7 days a week. It is designed to offer conversation, friendship, provide advice and link callers to local groups or services.
 
-
 ### Practical tips
 
 <div class="video-container">
@@ -61,7 +60,7 @@ If mobility difficulties mean that you’re more reliant on the phone to keep in
 
 Video calls can also be a great way of keeping in touch with friends and family as well as accessing, for example, exercise classes or religious services. If you’re not yet confident with this technology, there are guides on the <a href="https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/video-calling/" class="external-link" target="_blank" rel="noopener noreferrer">Age UK</a> site and on the <a href="https://www.bbc.co.uk/news/technology-51968122" class="external-link" target="_blank" rel="noopener noreferrer">BBC</a> site.
 
-If reduced mobility is making access to shops and to social gatherings more difficult, then you could be eligible for a Blue Badge which will entitle you to priority parking. See our <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for more information on the Blue Badge Scheme. You can also visit your council website and <a href="https://www.parkinsons.org.uk/information-and-support/help-getting-around" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> website for more information and guidance.
+If reduced mobility is making access to shops and to social gatherings more difficult, then you could be eligible for a Blue Badge which will entitle you to priority parking. See our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for more information on the Blue Badge Scheme. You can also visit your council website and <a href="https://www.parkinsons.org.uk/information-and-support/help-getting-around" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> website for more information and guidance.
 
 ---
 
@@ -82,7 +81,6 @@ People affected by Parkinson’s describe their experiences.
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/support.jpg" alt="support" class="social-and-spiritual-life__support">
 
 As your Parkinson's progresses, you may notice a change in your relationships. This might be with your partner, family, friends, colleagues, and so on. These changes may be positive or negative. For example, you may become more distant to some friends but build deeper connections with others.
-
 
 ### Family and friends
 
@@ -144,7 +142,6 @@ When someone has Parkinson’s, it is common for relationship roles to change. F
 - Keep communicating with each other. Parkinson’s can affect communication in different ways, whether it’s verbal, written, or facial expressions. But it’s important to try to keep these channels open as much as possible
 - Ask for help if you’re finding it hard to manage problems. Professionals such as Parkinson’s specialist nurses, counsellors, and psychologists can offer support and guidance.
 
-
 ### Intimate relationships
 
 <div class="video-container">
@@ -166,7 +163,7 @@ Changes in sexual relationships can happen to any couple at any time, regardless
 
 If you both feel comfortable, it can help to have open, but sensitive, discussions about your desires and limitations when it comes to sex. This may make it easier to face the challenges and find solutions that work for you both.
 
-For more information on Parkinson’s and sexual function, see our <a href="/learn/managing-symptoms/sexual-health" class="internal-link">_Sexual Health_</a> page.
+For more information on Parkinson’s and sexual function, see our <a href="/information/managing-symptoms/sexual-health" class="internal-link">_Sexual Health_</a> page.
 
 ### Where can I go for information and support?
 
@@ -197,8 +194,7 @@ Spirituality and religion vary from person to person. It can provide someone wit
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/bible.jpg" alt="reading-bible" class="social-and-spiritual-life__bible">
 
-If you have Parkinson’s, or care for someone that does, it can be difficult to attend religious meetings, due to practical and emotional challenges. There are many benefits of staying connected with your religious group/meetings so explore ways to overcome barriers to attending these (e.g. ask a friend to support you attending). If you need to arrange transport to attend religious gatherings, see our <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for advice. In response to the Coronavirus pandemic, many places of worship have offered online services, which are a great help to those with mobility difficulties.
-
+If you have Parkinson’s, or care for someone that does, it can be difficult to attend religious meetings, due to practical and emotional challenges. There are many benefits of staying connected with your religious group/meetings so explore ways to overcome barriers to attending these (e.g. ask a friend to support you attending). If you need to arrange transport to attend religious gatherings, see our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for advice. In response to the Coronavirus pandemic, many places of worship have offered online services, which are a great help to those with mobility difficulties.
 
 ---
 
@@ -253,4 +249,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

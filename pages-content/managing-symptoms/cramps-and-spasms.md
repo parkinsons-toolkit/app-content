@@ -10,7 +10,7 @@
 </iframe>
 </div>
 
-Dystonia is an involuntary muscle contraction (this is different to **Dyskinesia** which refers to <a href="/learn/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements_</a>). Dystonia is caused by incorrect brain signals. Muscles become tighter or shorter than usual, making them stiff. Dystonia can involve twisting movements or spasms. Dystonia can feel painful or uncomfortable. Not everyone who has Parkinson’s will experience it.
+Dystonia is an involuntary muscle contraction (this is different to **Dyskinesia** which refers to <a href="/information/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements_</a>). Dystonia is caused by incorrect brain signals. Muscles become tighter or shorter than usual, making them stiff. Dystonia can involve twisting movements or spasms. Dystonia can feel painful or uncomfortable. Not everyone who has Parkinson’s will experience it.
 
 Dystonia most commonly effects the legs and feet of someone with Parkinson’s. It can cause abnormal postures of limbs or digits. People may notice their toes curling. They may notice their feet turning in at the ankle. They may feel or see their big toe sticking up. Dystonia can also impact the eyelids. It can cause frequent blinking and an intolerance to light. It can affect the head and neck, the vocal cords, and/or the hands.
 
@@ -20,11 +20,9 @@ Dystonia most commonly effects the legs and feet of someone with Parkinson’s. 
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/cramp.jpg" alt="cramp" class="cramps-and-spasms__cramp">
 
-
 Most people with Parkinson’s who experience dystonia have ‘secondary’ dystonia. This means they get it as a symptom of their condition or as a side effect of antiparkinsonian medication. ‘Primary’ dystonia is a genetic condition in people without Parkinson’s. This runs in families.
 
 Some people with Parkinson’s notice dystonia when their medication levels are low. This may be at the end of the day, or in between doses. It could be early in the morning before they have taken any medications. They may have dystonia when their medication levels are at the highest in their bodies, but this is less common.
-
 
 ---
 
@@ -42,7 +40,6 @@ There are various strategies you can try for yourself discussed below. You shoul
 - Some people discover ‘sensory tricks.’ This is touching the affected area or a nearby area of the body. It can reduce the length or severity of the contraction.
 - Relaxing techniques like a warm bath, yoga, or massage may help.
 - Eyelid dystonia is also called blepharospasm. It may respond to: pressure on the eyebrows, lying down, or chewing.
-
 
 ### Stretching
 
@@ -80,7 +77,7 @@ People affected by Parkinson’s describe their experiences.
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -123,7 +120,7 @@ Possible adjustments that may be considered:
 - You may be referred to a physiotherapist. They will address movement problems more broadly.
 - Sometimes people with severe cramps or spasms are referred to a specialist team. This can be for more invasive treatments
   - **Botulinum toxin (Botox)** injections may be considered with a specialist. This is to relax muscle groups that are moving excessively.
-  - **Deep brain stimulation (DBS)** may also be an option for some patients. See <a href="/learn/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a> Advanced Therapies & Surgical Treatments for more information.
+  - **Deep brain stimulation (DBS)** may also be an option for some patients. See <a href="/information/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a> Advanced Therapies & Surgical Treatments for more information.
 
 ---
 
@@ -135,4 +132,4 @@ Possible adjustments that may be considered:
 | NHS            | The NHS has compact information on causes, living with dystonia and when to speak to a GP.                                                                                                                                                  | --                                                                                                                                                     | <a href="https://www.nhs.uk/conditions/dystonia/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/conditions/dystonia/</a>                                                                                   |
 | Parkinson’s UK | Provides information about muscle cramps and dystonia in Parkinson’s, outlining causes, symptoms, and treatment options to help manage discomfort and improve mobility.<br><br>You can view this online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/muscle-cramps-and-dystonia" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/muscle-cramps-and-dystonia</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

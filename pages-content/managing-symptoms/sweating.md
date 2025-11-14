@@ -24,7 +24,7 @@ This can occur in Parkinson’s for example:
 
 - When Parkinson’s medications are starting to wear off
 - Overnight while sleeping - people may experience drenching night sweats
-- When Parkinson’s medications are working their best - especially if someone is experiencing <a href="/learn/managing-symptoms/involuntary-movements" class="internal-link">_Dyskinesias_</a> (uncontrollable muscle movements)
+- When Parkinson’s medications are working their best - especially if someone is experiencing <a href="/information/managing-symptoms/involuntary-movements" class="internal-link">_Dyskinesias_</a> (uncontrollable muscle movements)
   As a side effect of Parkinson’s medications
 
 Non-Parkinson’s causes of sweating too much include:
@@ -88,10 +88,9 @@ Excessive sweating can be very challenging to deal with. There are some suggesti
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/man-sweating.png" alt="man-sweating" class="sweating__man-sweating">
 
-
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They might ask about:**
 
@@ -108,7 +107,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 ### Tests
 
 If your healthcare professional suspects a non-Parkinson’s cause of sweating, they may arrange some further tests. These may be, for example, to check your thyroid hormone levels.
-
 
 ---
 
@@ -160,4 +158,4 @@ Sometimes people just need a medication change during hot weather.
 | NHS            | Explains excessive sweating (hyperhidrosis), including its causes, symptoms, and treatment options such as lifestyle changes, medications, and specialist procedures. | --                                                                                                                                                     | <a href="http://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/</a>                                     |
 | Parkinson’s UK | Provides information about how Parkinson’s can affect the skin and sweating, offering advice on managing symptoms such as excessive sweating, oily skin, and dryness. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

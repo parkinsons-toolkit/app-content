@@ -20,7 +20,7 @@ Mobility is quite a broad term and includes:
 
 Reduced mobility may make everyday activities more challenging for you than they used to be. There are many things you can do for yourself. It is also advised that you see a physiotherapist or occupational therapist. They will work with you to help you continue doing the things you need and enjoy doing in your daily life.
 
-Symptoms of Parkinson’s and factors unrelated to Parkinson’s can all contribute to reduced mobility. These factors are discussed on the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls page_</a>. Treatment of the symptoms causing problems is important for maintaining mobility. Please explore the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages for specific guidance.
+Symptoms of Parkinson’s and factors unrelated to Parkinson’s can all contribute to reduced mobility. These factors are discussed on the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls page_</a>. Treatment of the symptoms causing problems is important for maintaining mobility. Please explore the <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages for specific guidance.
 
 A common problem is that difficulties mobilising mean that you are less active. Being less active then leads to muscle weakness and stiffness. Muscle weakness and stiffness then leads to more difficulty in mobilising. Lack of confidence and fear of falling also feeds into this cycle. It is important to break this cycle.
 
@@ -28,11 +28,11 @@ A common problem is that difficulties mobilising mean that you are less active. 
 
 ## What should I do about it?
 
-If you have a sudden decline in your mobility, you should see your GP or contact your Parkinson’s team as soon as possible. There may be an illness, injury or medication that is contributing to it. Please see the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls page_</a> information page if these are concerns.
+If you have a sudden decline in your mobility, you should see your GP or contact your Parkinson’s team as soon as possible. There may be an illness, injury or medication that is contributing to it. Please see the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls page_</a> information page if these are concerns.
 
 If you have difficulties moving, you should be referred to a physiotherapist. In the NHS, you usually have to be referred by your GP or Parkinson’s specialist team. You may also benefit from Occupational Therapist or Adult Social Care services.
 
-Appointments with these specialists may be in a hospital, community service, or at home. In some areas there are specialist Parkinson’s teams or rehab services. Your Parkinson’s specialist team or GP should be able to advise. See the <a href="/learn/treatments/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page for more information about the different services.
+Appointments with these specialists may be in a hospital, community service, or at home. In some areas there are specialist Parkinson’s teams or rehab services. Your Parkinson’s specialist team or GP should be able to advise. See the <a href="/information/treatments/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page for more information about the different services.
 
 ---
 
@@ -57,7 +57,7 @@ In Parkinson’s, specific attention also needs to be given to:
 - Making big movements
 - Carrying out more than one task at a time, known as ‘dual-tasking’.
 
-Exercises to achieve these need to be tailored to your ability and needs. For more on all of these aspects, see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page.
+Exercises to achieve these need to be tailored to your ability and needs. For more on all of these aspects, see the <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page.
 
 There may also be specific tasks that you can practice to address specific day-to-day challenges. Physiotherapists and Occupational therapists help identify these where possible.
 
@@ -65,7 +65,7 @@ There may also be specific tasks that you can practice to address specific day-t
 
 - Give yourself time.
 - Reduce unnecessary distractions.
-- Where possible, it will also help to address other factors affecting your mobility. This might be pain, tiredness, stress or urinary symptoms. See our <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages for tips for addressing each of these.
+- Where possible, it will also help to address other factors affecting your mobility. This might be pain, tiredness, stress or urinary symptoms. See our <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages for tips for addressing each of these.
 - Ensure you have appropriate footwear. Low heels or flat soles are better, and solid shoes with good support are better. Try to avoid unsupportive shoes, such as flip-flops, floppy slippers, or high heels.
 - Think about your posture: Parkinson’s can cause you to stoop, but some of this can be overcome. Try to stand tall and keep reminding yourself to straighten up.
 - Think about your movements: Parkinson’s can cause movements to get smaller, but some of this can be overcome. Try to think about big movements, including big steps, lifting your feet off the floor, and keep reminding yourself.
@@ -87,8 +87,7 @@ There may also be specific tasks that you can practice to address specific day-t
 - Recognise your limits.
 - Have a back-up plan – how could you get help if you ran into trouble? This might be for example, keeping your mobile phone in your pocket.
 
-For tips related to daily tasks, including getting in and out of bed, please see the <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page.
-
+For tips related to daily tasks, including getting in and out of bed, please see the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page.
 
 ---
 
@@ -137,7 +136,6 @@ Before purchasing equipment, consider the following overall tips below:
   - You may be able to borrow or get one for free through the NHS
   - They can be bought at mobility shops, some large pharmacies, or online.
 
-
 ### Walking frames
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/walking-frame.jpg" alt="walking-frame" class="mobility__walking-frame">
@@ -159,7 +157,6 @@ Before purchasing equipment, consider the following overall tips below:
 - The fit of the walking frame is very important. You should consult a physiotherapist but as a rough guide:
   - Standing with your arms relaxed by your side, with a slight natural bend at your elbow: The frame hand grips should typically be at the level of the wrist.
 
-
 ### Wheelchairs
 
 - Some people need to use wheelchairs to get around. It is best to be assessed by a physiotherapist to consider other options first.
@@ -170,7 +167,7 @@ Before purchasing equipment, consider the following overall tips below:
   - For more frequent use, you should have a full seating assessment by a professional.
 - You can be referred to the wheelchair service by your GP or another healthcare professional.
 
-For equipment related to daily tasks, including getting in and out of bed, please see the <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page. For adaptations to the home environment, please see the <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page.
+For equipment related to daily tasks, including getting in and out of bed, please see the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page. For adaptations to the home environment, please see the <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page.
 
 ---
 
@@ -208,4 +205,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

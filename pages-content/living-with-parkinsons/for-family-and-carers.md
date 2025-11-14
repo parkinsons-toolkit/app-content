@@ -55,7 +55,7 @@ As well as reacting to challenging emotions when they arise, it is also importan
 
 While many carers are selfless in what they do, it is important to remember that you are also important. It is good to try to consider what your own needs are for your best health, self-care and support. The advice on airplanes to “put your own oxygen mask on first” is also true for carers. Your physical, medical and emotional needs are as important as those of the person with Parkinson’s. Doing what you can to look after yourself is essential to help you be in the best place to support them and yourself.
 
-Please see the <a href="/learn/living-with-parkinsons/practical-advice/finances" class="internal-link">_Finances_</a> page for information about financial support that may help you look after your own wellbeing too. Also, the <a href="/learn/treatments-and-therapies/complementary-therapies" class="internal-link">_Complementary Therapies_</a> pages for information of activities you may like to try for your wellbeing.
+Please see the <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">_Finances_</a> page for information about financial support that may help you look after your own wellbeing too. Also, the <a href="/information/treatments-and-therapies/complementary-therapies" class="internal-link">_Complementary Therapies_</a> pages for information of activities you may like to try for your wellbeing.
 
 ---
 
@@ -120,15 +120,14 @@ Stress is something we all encounter. Life changes, such as personal problems, r
 
 To overcome stress or prevent too much stress, there are lots of practical steps you can take. At heart of this is looking after yourself and your wellbeing.
 
-
 ---
 
 ## Tips for coping with stress
 
 - **_Identify triggers:_** Try to identify the things that you find stressful. This varies from person to person and their situation. Once you are aware of what may be your triggers, you can then find ways to address them. Sometimes it is not possible to address what is stressing you but recognising this can reduce stress in itself.
-- _**Take regular breaks:**_ Supporting someone with Parkinson’s can be demanding. It is important that you try and take regular breaks. Whether this be a few minutes each hour (just to close your eyes and breathe), a few hours a day to yourself, or a weekend away. Please see the <a href="/learn/living-with-parkinsons/practical-advice/finances" class="internal-link">_Finances_</a> page for information about financial support that may help you look after your own wellbeing in this way. Support groups and online resources can be helpful ways of taking a break.
+- _**Take regular breaks:**_ Supporting someone with Parkinson’s can be demanding. It is important that you try and take regular breaks. Whether this be a few minutes each hour (just to close your eyes and breathe), a few hours a day to yourself, or a weekend away. Please see the <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">_Finances_</a> page for information about financial support that may help you look after your own wellbeing in this way. Support groups and online resources can be helpful ways of taking a break.
 - _**Time for yourself:**_ When you do take time out, try to use it for genuine relaxation. Many carers spend their spare time catching up on tasks — but rest is just as important. Everyone relaxes differently, so find what works for you. It might be a walk, a warm bath, a favourite TV show, or simply sitting quietly with a cup of tea.
-- _**Find ways to relax:**_ Just as you make time for tasks and responsibilities, it’s equally important to make time for things that help you unwind and relax. So, find something that works for you in your situation. This might be reading a book, listening to music, doing some breathing exercises or mini stretches. Please see the <a href="/learn/treatments-and-therapies/complementary-therapies" class="internal-link">_Complementary Therapies_</a> pages for information of activities you may like to try for your wellbeing.
+- _**Find ways to relax:**_ Just as you make time for tasks and responsibilities, it’s equally important to make time for things that help you unwind and relax. So, find something that works for you in your situation. This might be reading a book, listening to music, doing some breathing exercises or mini stretches. Please see the <a href="/information/treatments-and-therapies/complementary-therapies" class="internal-link">_Complementary Therapies_</a> pages for information of activities you may like to try for your wellbeing.
 - _**Get organised:**_ Being a carer means there are additional responsibilities and considerations to hold in mind. Try to stay on top of these by being as organised as possible. Make a list of jobs and tackle one task at a time, and do not be afraid to ask for support. Vary the jobs, using the interesting ones as a reward for getting through the dull ones. When you have lots of demands, think about the level of importance for each job.
   - A good way to remember is the “Four Ds” of time management:
     - **DO!**
@@ -155,7 +154,6 @@ While there are positive steps you can think about taking, there are also some t
 - _**Being hard on yourself:**_ Being hard on yourself can be motivating in small doses but doing it too much has the opposite effect. Often carers are self-critical because they want to do better or feel they should be doing more. Sometimes a comment from someone can trigger these negative thoughts. It can be helpful to remember that they are not you and do not live in your situation. Being self-critical is understandable as it generally comes from a good and caring place. You want to do the best for your loved one/friend. It is important to remember that there are limits to what you can do. A helpful concept to remember is being “good enough”. It is helpful to remember all the things you are doing rather than some of the things you feel you are not. Thinking about the negatives is only likely to add to your stress. If you notice you are being self- critical, helpful questions to ask are “how is the way I am acting towards myself helping me move towards what I am aiming for?” Often when we are being hard on ourselves, it leads to us feeling less motivated. This in turn means we are less likely to achieve our goals. Instead, we could ask “if this was a friend in the same situation what would I be saying to them?” This is especially important when you have comments you feel are negative or judgmental from other people.
 - _**Not communicating your needs:**_ People will often offer help, but sometimes it might not be the right help. Also, the help you need may change over time. This can be as stressful as people not helping. However, it is important to remember people are not mind-readers. They often do not know what help is needed or what is most important to you. Do not be afraid to let people know your needs and to be specific. Equally, allow others room for error. They are unlikely to do things as well as you, but they need the chance to practise (and remember the concept of good enough).
 - _**Not being assertive:**_ Being a carer means you will often have many additional demands on you. Therefore, it is important that you are assertive when you need to be. This can be when others put additional demands on you or when it comes to stating your own needs. Being assertive is stating your needs clearly and why they are important to you.
-
 
 ---
 
@@ -359,11 +357,9 @@ _**Tips for accepting help:**_
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/accepting-help.jpg" alt="accepting-help" class="for-family-and-carers__accepting-help">
 
-
 - _**Ask for help:**_ Your friends, family and others around you may be glad to be told how they can help. If they are unable or unwilling to help, it will be useful to know this when planning your sources of support. Remember, if you are not in a situation to ask, having that list of numbers/email addresses/websites for support groups/systems can help you know you are not alone.
 - _**Guide help:**_ If people do help, but give the wrong help, talk to them about this. Gently guide them on what would be useful and how to give you the right sort of help. This might differ from person to person. The help you need might be a listening ear, or it might be something more practical. Being clear about what you need from each helper will allow you to build a more effective support network. Remember, you can always contact/talk to an independent source outside of your immediate circle.
 - _**Refusal of help**_ Sometimes people with Parkinson’s may choose not to accept the support offered. There may be many reasons for this. It is important that you talk to the person about this. What help are they willing to accept? What do they not want? These conversations can help both of you define your roles better and be clear about what is expected of the other. Sometimes it may be that the person with Parkinson’s is suffering emotionally. If you suspect this is the case, you could encourage them to get some support. Remember, if you are not in a situation to be able to talk with the person with Parkinson’s /or other family members, you can contact one of the support groups which may help you know you are not alone.
-
 
 ---
 
@@ -383,7 +379,6 @@ _**Tips for coping with changes in relationships:**_
 - Define what you are willing and not willing to do as a carer
 - Ask the person with Parkinson’s what they are willing or not willing to allow you to help with
 - Keep talking
-
 
 ---
 
@@ -430,8 +425,8 @@ As Parkinson’s progresses, it can cause greater disability and have more of an
 - _**Emotionally:**_ It is normal to experience lots of different emotions about the caring role, particularly as needs become greater. Carers can feel stressed and overwhelmed, having little time for themselves or their own needs. Carers may also feel isolated, seeing friends and family less often/friends not contacting them much anymore or no longer contacting them. Naturally, this can cause you to feel sad, frustrated or isolated. If you are feeling like this, remember these feelings are understandable. It is also still good to talk to others about how you are feeling.
 - _**Physically:**_ It is important that you look after your own health just as much as that of the person you are caring for. As well as any regular check-ups and screenings, you should also try to make sure you give yourself that little window of time for relaxation, eating well and exercising.
 - _**Work:**_ Juggling working and caring can be very difficult. You have a legal right to request flexible working to help you manage your added responsibilities. Flexible working may involve working compressed hours, different work hours, working from home or a different site, or working part- time. You also have the right to take time off in an emergency. Further information can be found on the GOV.UK website, or www.carersuk.org
-- _**Finances:**_ Caring can have an impact on your finances. This is especially if you have had to give up work in order to support someone. As a carer, you are entitled to a Carer’s Assessment from your local social services team. This will assess if you are eligible for any extra support, including financial assistance. Please see the <a href="/learn/living-with-parkinsons/practical-advice/finances" class="internal-link">_Finances_</a> page for further information.
-- _**Transport:**_ If you or your passenger has severe mobility problems, you may be allowed to apply for a Blue Badge. This means you are free from some parking restrictions and have access to selected parking spaces. There may however be additional restrictions in your borough. Check the <a href="www.gov.uk/apply-blue-badge" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK website</a>. Your local authority may also offer additional reduced fare schemes for people with disabilities. For example, in London, the Freedom Pass lets older and people with disabilities to use London buses, tubes and trains for free. Day centres and clubs can also help with transport in some cases, so you don’t have to arrange this yourself. See the <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for more information.
+- _**Finances:**_ Caring can have an impact on your finances. This is especially if you have had to give up work in order to support someone. As a carer, you are entitled to a Carer’s Assessment from your local social services team. This will assess if you are eligible for any extra support, including financial assistance. Please see the <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">_Finances_</a> page for further information.
+- _**Transport:**_ If you or your passenger has severe mobility problems, you may be allowed to apply for a Blue Badge. This means you are free from some parking restrictions and have access to selected parking spaces. There may however be additional restrictions in your borough. Check the <a href="www.gov.uk/apply-blue-badge" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK website</a>. Your local authority may also offer additional reduced fare schemes for people with disabilities. For example, in London, the Freedom Pass lets older and people with disabilities to use London buses, tubes and trains for free. Day centres and clubs can also help with transport in some cases, so you don’t have to arrange this yourself. See the <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for more information.
 
 ---
 
@@ -439,7 +434,7 @@ As Parkinson’s progresses, it can cause greater disability and have more of an
 
 As well as physical changes, there may also be changes in thinking abilities. There may also sometimes be the development of hallucinations and delusions.
 
-- _**Changes in thinking abilities:**_ In later stages of Parkinson’s, there can be greater difficulty with memory, concentration and speed of thinking. These can cause confusion. When these difficulties are particularly marked, you may hear this referred to as Parkinson’s dementia. See <a href="/learn/managing-symptoms/thinking-concentration-and-memory" class="internal-link">_Thinking, Concentration & Memory_</a> for more information.
+- _**Changes in thinking abilities:**_ In later stages of Parkinson’s, there can be greater difficulty with memory, concentration and speed of thinking. These can cause confusion. When these difficulties are particularly marked, you may hear this referred to as Parkinson’s dementia. See <a href="/information/managing-symptoms/thinking-concentration-and-memory" class="internal-link">_Thinking, Concentration & Memory_</a> for more information.
 - _**Hallucinations:**_ It is common for people with Parkinson’s to experience changes in their visual abilities. They might describe visual illusions. This is when something that is real looks different; for example, the tree outside might look like a person, or the carpet pattern looks like it’s moving. In the later stages, the person with Parkinson’s may also develop hallucinations. These are usually visual, which is seeing things that are not there. There can also be hallucinations of sounds, smells, tastes and touch. Usually, these are not distressing and need no treatment. If they do become distressing, they can be treated with medication. It is also possible that these symptoms are caused by other medical conditions. They can also be a side-effect of medications. It is therefore important that your doctor knows.
 - _**Delusions:**_ ess commonly, people can develop delusions, becoming committed to a thought or belief that isn’t true. This can include paranoia or suspiciousness, jealousy within loving relationships, or believing they have special powers. If these occur, these symptoms can be treated with medications.
 
@@ -472,7 +467,7 @@ You might want to plan for the future, sometimes known as advance care planning.
 - _**Advanced Statement:**_ This is a written statement that sets down your preferences, wishes, beliefs and values about your future care.
 - _**Planning for end of life:**_ The person with Parkinson’s may wish to put their affairs, in order to feel reassured that their wishes are known. This can involve making wills, LPAs and/or Advance Decision. In Scotland this is known as an Advanced Directive, and used to be called a Living Will. The person with Parkinson’s might also want to consider what would be a ‘good death’ for them, in terms of feeling at peace. They might wish to consult palliative care services, which can be accessed through the GP or Parkinson’s nurse.
 
-Further information can be found in the _Planning and Future Care_ pages found within the <a href="/learn/living-with-parkinsons" class="internal-link">_Living with Parkinson's_</a> section.
+Further information can be found in the _Planning and Future Care_ pages found within the <a href="/information/living-with-parkinsons" class="internal-link">_Living with Parkinson's_</a> section.
 
 _**Tips for coping with the future:**_
 
@@ -486,7 +481,7 @@ _**Tips for coping with the future:**_
 
 ## Useful Organisations & Contacts
 
-Please also see the <a href="/learn/further-support/services-and-groups" class="internal-link">_Services & Groups_</a> page for sources of support or our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+Please also see the <a href="/information/further-support/services-and-groups" class="internal-link">_Services & Groups_</a> page for sources of support or our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
 
 Please look at the bottom of the table for further information about call charges.
 
@@ -510,4 +505,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

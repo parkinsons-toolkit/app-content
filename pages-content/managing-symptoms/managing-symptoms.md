@@ -18,46 +18,46 @@ The following pages give guidance for things you can try to help your symptoms, 
 _Live Well with Parkinson's_ Managing Symptoms:
 
 - **Bladder & Bowels**
-  - <a href="/learn/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a>
-  - <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a>
+  - <a href="/information/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a>
+  - <a href="/information/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a>
 - **Mood**
-  - <a href="/learn/managing-symptoms/low-mood" class="internal-link">_Low Mood_</a>
-  - <a href="/learn/managing-symptoms/anxiety" class="internal-link">_Anxiety_</a>
-  - <a href="/learn/managing-symptoms/loss-of-interest-or-drive" class="internal-link">_Loss of Interest or Drive (Apathy)_</a>
+  - <a href="/information/managing-symptoms/low-mood" class="internal-link">_Low Mood_</a>
+  - <a href="/information/managing-symptoms/anxiety" class="internal-link">_Anxiety_</a>
+  - <a href="/information/managing-symptoms/loss-of-interest-or-drive" class="internal-link">_Loss of Interest or Drive (Apathy)_</a>
 - **Movement, Walking & Balance**
-  - <a href="/learn/managing-symptoms/stiffness-slowness-and-small-movements" class="internal-link">_Stiffness, Slowness & Small Movements_</a>
-  - <a href="/learn/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements (Dyskinesia)_</a>
-  - <a href="/learn/managing-symptoms/tremor" class="internal-link">_Tremor_</a>
-  - <a href="/learn/managing-symptoms/freezing" class="internal-link">_Freezing_</a>
-  - <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a>
-  - <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a>
+  - <a href="/information/managing-symptoms/stiffness-slowness-and-small-movements" class="internal-link">_Stiffness, Slowness & Small Movements_</a>
+  - <a href="/information/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements (Dyskinesia)_</a>
+  - <a href="/information/managing-symptoms/tremor" class="internal-link">_Tremor_</a>
+  - <a href="/information/managing-symptoms/freezing" class="internal-link">_Freezing_</a>
+  - <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a>
+  - <a href="/information/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a>
 - **Pain & Uncomfotable Sensations**
-  - <a href="/learn/managing-symptoms/pain" class="internal-link">_Pain_</a>
-  - <a href="/learn/managing-symptoms/restless-legs" class="internal-link">_Restless Legs_</a>
-  - <a href="/learn/managing-symptoms/cramps-and-spasms" class="internal-link">_Cramps & Spasms_</a>
+  - <a href="/information/managing-symptoms/pain" class="internal-link">_Pain_</a>
+  - <a href="/information/managing-symptoms/restless-legs" class="internal-link">_Restless Legs_</a>
+  - <a href="/information/managing-symptoms/cramps-and-spasms" class="internal-link">_Cramps & Spasms_</a>
 - **Saliva, Swallowing & Speaking**
-  - <a href="/learn/managing-symptoms/saliva" class="internal-link">_Saliva_</a>
-  - <a href="/learn/managing-symptoms/swallowing" class="internal-link">_Swallowing_</a>
-  - <a href="/learn/managing-symptoms/speaking" class="internal-link">_Speaking_</a>
+  - <a href="/information/managing-symptoms/saliva" class="internal-link">_Saliva_</a>
+  - <a href="/information/managing-symptoms/swallowing" class="internal-link">_Swallowing_</a>
+  - <a href="/information/managing-symptoms/speaking" class="internal-link">_Speaking_</a>
 - **Sexual Function**
-  - <a href="/learn/managing-symptoms/sexual-health" class="internal-link">_Sexual Health_</a>
+  - <a href="/information/managing-symptoms/sexual-health" class="internal-link">_Sexual Health_</a>
 - **Skin**
-  - <a href="/learn/managing-symptoms/skin-conditions" class="internal-link">_Skin Conditions_</a>
-  - <a href="/learn/managing-symptoms/sweating" class="internal-link">_Sweating_</a>
-  - <a href="/learn/managing-symptoms/leg-and-ankle-swelling" class="internal-link">_Leg and Ankle Swelling_</a>
+  - <a href="/information/managing-symptoms/skin-conditions" class="internal-link">_Skin Conditions_</a>
+  - <a href="/information/managing-symptoms/sweating" class="internal-link">_Sweating_</a>
+  - <a href="/information/managing-symptoms/leg-and-ankle-swelling" class="internal-link">_Leg and Ankle Swelling_</a>
 - **Sleep, Dreams & Tiredness**
-  - <a href="/learn/managing-symptoms/sleep" class="internal-link">_Sleep Disturbances_</a>
-  - <a href="/learn/managing-symptoms/dreams" class="internal-link">_Dream Disturbance_</a>
-  - <a href="/learn/managing-symptoms/tiredness" class="internal-link">_Tiredness & Fatigue_</a>
+  - <a href="/information/managing-symptoms/sleep" class="internal-link">_Sleep Disturbances_</a>
+  - <a href="/information/managing-symptoms/dreams" class="internal-link">_Dream Disturbance_</a>
+  - <a href="/information/managing-symptoms/tiredness" class="internal-link">_Tiredness & Fatigue_</a>
 - **Thinking & Remembering**
-  - <a href="/learn/managing-symptoms/thinking-and-remembering" class="internal-link">_Thinking & Remembering_</a>
+  - <a href="/information/managing-symptoms/thinking-and-remembering" class="internal-link">_Thinking & Remembering_</a>
 - **Unusual Experiences & Behaviours**
-  - <a href="/learn/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a>
-  - <a href="/learn/managing-symptoms/hallucinations" class="internal-link">_Hallucinations & Related Symptoms_</a>
+  - <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a>
+  - <a href="/information/managing-symptoms/hallucinations" class="internal-link">_Hallucinations & Related Symptoms_</a>
 - **Weight & Appetite Loss**
-  - <a href="/learn/managing-symptoms/weight" class="internal-link">_Weight_</a>
-  - <a href="/learn/managing-symptoms/five-senses" class="internal-link">_Nausea_</a>
+  - <a href="/information/managing-symptoms/weight" class="internal-link">_Weight_</a>
+  - <a href="/information/managing-symptoms/five-senses" class="internal-link">_Nausea_</a>
 - **Variability of Symptoms**
-  - <a href="/learn/managing-symptoms/variability-of-symptoms" class="internal-link">_Variability of Symptoms_</a>
+  - <a href="/information/managing-symptoms/variability-of-symptoms" class="internal-link">_Variability of Symptoms_</a>
 - **5 Senses**
-  - <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a>
+  - <a href="/information/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a>

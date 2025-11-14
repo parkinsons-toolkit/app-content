@@ -50,7 +50,7 @@ This depends on what you need. Some professional options:
 
 Also consider charity services, such as the Parkinson’s UK helpline, or Age UK.
 
-See the <a href="/learn/further-support/further-support" class="internal-link">_Further Support_</a> pages for more ideas.
+See the <a href="/information/further-support/further-support" class="internal-link">_Further Support_</a> pages for more ideas.
 
 ---
 
@@ -120,9 +120,9 @@ Things to consider in an **Advance Statement**:
 - Where do you want to be?
 - Wishes and choices for daily life
 - Views on medical interventions
-- Wishes for after death (see the <a href="/learn/living-with-parkinsons/planning-and-future-care/end-of-life" class="internal-link">_End of Life_</a> page for more on this).
+- Wishes for after death (see the <a href="/information/living-with-parkinsons/planning-and-future-care/end-of-life" class="internal-link">_End of Life_</a> page for more on this).
 
-For more information on Advance Decisions and Lasting Power of Attorney, see the <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page.
+For more information on Advance Decisions and Lasting Power of Attorney, see the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page.
 
 ---
 
@@ -152,12 +152,11 @@ Family and friends play a crucial role in future care planning. They can:
 - **Help with practicalities** like gathering information on care options or assisting in setting up an LPA.
 - **Provide emotional support**, reassuring you that they are there to respect your decisions and stand by you through the journey.
 
-It’s also important for caregivers and family members to look after their own well-being. Dealing with the emotional aspects of Parkinson’s can be tough, and resources like the <a href="/learn/living-with-parkinsons/for-family-and-carers" class="internal-link">_Guidance for Families and Carers_</a> pagr offer support in managing stress, anxiety, and other challenges that come with caregiving.
+It’s also important for caregivers and family members to look after their own well-being. Dealing with the emotional aspects of Parkinson’s can be tough, and resources like the <a href="/information/living-with-parkinsons/for-family-and-carers" class="internal-link">_Guidance for Families and Carers_</a> pagr offer support in managing stress, anxiety, and other challenges that come with caregiving.
 
-There are also **peer support networks** where both people with Parkinson’s and their loved ones can connect with others in similar situations. You can explore the <a href="/learn/further-support/services-and-groups" class="internal-link">_Services & Groups_</a> page for more information on helpful services and communities.
+There are also **peer support networks** where both people with Parkinson’s and their loved ones can connect with others in similar situations. You can explore the <a href="/information/further-support/services-and-groups" class="internal-link">_Services & Groups_</a> page for more information on helpful services and communities.
 
 By planning ahead, you and your family can face the future with greater confidence, knowing that your care will reflect your personal wishes and that you have the support you need.
-
 
 ---
 
@@ -168,7 +167,7 @@ If a person is finding day-to-day tasks more difficult, they may benefit from:
 - Carers to help support with daily tasks
 - Changes to the home environment or relocation
 
-The <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page has more information and advice about day-to-day tasks. The <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page has more information and advice about where you live and adaptations that can be made to a home. Your local Adult Social Care services can support you in working out what is best for you. You can find your local services by searching on the GOV.UK of NHS websites, or calling your local council.
+The <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page has more information and advice about day-to-day tasks. The <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page has more information and advice about where you live and adaptations that can be made to a home. Your local Adult Social Care services can support you in working out what is best for you. You can find your local services by searching on the GOV.UK of NHS websites, or calling your local council.
 In broad terms the options are:
 
 ### Own home or family home
@@ -194,7 +193,7 @@ A change in housing could be arranged privately or via your local Adult Social C
 
 ### Who pays for this?
 
-Also see the <a href="/learn/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page for more advice.
+Also see the <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page for more advice.
 
 In the UK at this time:
 
@@ -210,7 +209,6 @@ In the UK at this time:
 - They will carry out an assessment to decide what you would benefit from and the cost.
 - The financial thresholds change with time. Check online at gov.uk or ask your social worker.
 - There are different arrangements that can be made around payment. Some people prefer to have more control. Others prefer to have payments directly managed by the Social Care services.
-
 
 ### Continuing healthcare
 
@@ -248,7 +246,7 @@ This funding is also from the NHS/State. It is for people who are assessed as _n
 ### Medical decisions about food & drink
 
 - Provision of food and drink by mouth is considered ‘basic care’, so will always be provided.
-- Some people have difficulties swallowing. If this becomes severe, the risk of food or drink going into the lungs instead of the stomach increases. Swallowing difficulties are also associated with the risk of inadequate nutrition and weight loss. See the <a href="/learn/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">_Progression of Symptoms_</a> page for more explanation.
+- Some people have difficulties swallowing. If this becomes severe, the risk of food or drink going into the lungs instead of the stomach increases. Swallowing difficulties are also associated with the risk of inadequate nutrition and weight loss. See the <a href="/information/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">_Progression of Symptoms_</a> page for more explanation.
 - Changes to the consistency of food and drink may help with swallowing, but in some cases swallowing remains difficult and the risk of pneumonia and inadequate nutrition remain high.
 - If these risk remain, the options are:
   - Continue eating and drinking by mouth, accepting the risks. o Stop eating and drinking by mouth, and use tubes to deliver food, drink and medicines.
@@ -263,7 +261,7 @@ Tubes for food and drink are sometimes called ‘Artificial Nutrition & Hydratio
 
 - **Intravenous fluid:** Fluid can be given through a small drip into a small vein, such as in the arm or hand. It must be done cautiously as affects the body’s usual regulation of fluid intake.
 - **Nasogastric (NG) tube or nasojejunal (NJ) tube:** These are tubes inserted through the nose that goes down into the gut. This is to deliver food, water and/or medicine directly.
-- **Gastrostomy – (sometimes called ‘PEG’ or ‘RIG’):** These are tubes inserted by a surgical procedure. This sometimes involves a camera being inserted from the mouth (endoscopic guided) and sometimes involves special x-rays (radiologically guided) to guide placement. The tube connects from outside the body, through the skin into the stomach. The tubes can be used for food, water and/or medicine. Sometimes the tube is extended on the inside to reach into the small intestine (sometimes called PEG-J). This is the same method as for Duodopa, discussed on the <a href="/learn/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page.
+- **Gastrostomy – (sometimes called ‘PEG’ or ‘RIG’):** These are tubes inserted by a surgical procedure. This sometimes involves a camera being inserted from the mouth (endoscopic guided) and sometimes involves special x-rays (radiologically guided) to guide placement. The tube connects from outside the body, through the skin into the stomach. The tubes can be used for food, water and/or medicine. Sometimes the tube is extended on the inside to reach into the small intestine (sometimes called PEG-J). This is the same method as for Duodopa, discussed on the <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page.
 - **Intravenous nutrition:** In very specific circumstances, liquid food can be given through a big drip into a big vein (such as in the neck). Food given in this way has significant risks related to it. It is therefore only undertaken in very special circumstances, such as for people whose bowels don’t work.
 
 <div class="video-container">
@@ -404,4 +402,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\* Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

@@ -83,7 +83,7 @@ A Podcast is an audio programme that you can listen to whenever you like on one 
 
 There are more electronic devices currently being developed and tested, such as WATCH-PD.
 
-See our <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for any devices or adaptations that might help you in the home.
+See our <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for any devices or adaptations that might help you in the home.
 
 ---
 
@@ -120,4 +120,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*\* Calls cost between 10p–20p/minute from landlines, between 3p–65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

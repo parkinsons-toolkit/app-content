@@ -23,7 +23,6 @@ that might be apathy.
 
 Apathy is a symptom of Parkinson’s as well as other neurological conditions. There is evidence that it is linked to the levels of dopamine in the brain. This link is different from how we know dopamine affects movement. Apathy in Parkinson’s can be present by itself. It can also be linked to low mood, memory and thinking problems.
 
-
 ---
 
 ## What should I do about it?
@@ -58,22 +57,21 @@ Apathy tends to affect activities that we do less often, especially where we can
 
 There are always things that need doing about the house, in the garden or wherever. These may be things that you have done in the past but have stopped doing. There may be other chores that a family member does that you could take over or help with. These may not be fun but they are useful and often provide an opportunity for some physical activity. You may want to sit down with people in your family to work out what chores you can do and agree a time when they will be done.
 
-
 **Hobbies and Pastimes**
 
 When a person has apathy, hobbies and pastimes are often one of the first things to be affected. Sometimes these have become difficult because of Parkinson’s. Even if you cannot do all the things you used to enjoy, find a few that you can still do and build one or two of these into your routine.
 
-For more advice, see our <a href="/learn/living-with-parkinsons/practical-advice/hobbies-and-pets" class="internal-link">_Hobbies & Pets_</a> page.
+For more advice, see our <a href="/information/living-with-parkinsons/practical-advice/hobbies-and-pets" class="internal-link">_Hobbies & Pets_</a> page.
 
 **Physical Activity**
 Apathy tends to lead to physical inactivity and that has consequences. While it is important for everyone to keep active, it is especially important when a person is apathetic. Even if they are able to get up and move around, they may spend much of their time sitting. Chores, hobbies and pastimes can offer chances to be more active. You can also build in a small amount of exercise into your routine.
 
-For more advice, see our <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page.
+For more advice, see our <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page.
 
 **Social Activity**
 Think about what chances you have to be around others –family, friends or members of organisations and groups that you belong to. Apart from unscheduled social activity such as phone calls, try to plan at least 2 or 3 activities each week. These could include going to an organised external activity, calling a friend or having tea with a neighbour. If you do these things at roughly the same day and time each week it will make them easier to do. It may be possible to combine social activity with hobbies, pastimes and exercise.
 
-For more advice, see our <a href="/learn/living-with-parkinsons/optimising-wellbeing/social-and-spiritual-life" class="internal-link">_Social & Spiritual Life_</a> page.
+For more advice, see our <a href="/information/living-with-parkinsons/optimising-wellbeing/social-and-spiritual-life" class="internal-link">_Social & Spiritual Life_</a> page.
 
 ### Make a ‘menu’
 
@@ -98,7 +96,7 @@ One of the key features of apathy is that a person tends not to do things if lef
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -143,4 +141,4 @@ It is usually not needed to take tests to assess apathy.
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Parkinson’s UK | This downloadable booklet from Parkinson’s UK provides detailed information and practical guidance for people living with advanced Parkinson’s, including symptom management, care options, and planning for future needs, with information about apathy available on page 21. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/sites/default/files/2018-09/PKB003%20Advanced%20Parkinson%27s%20WEB.pdf" class="external-link" target="_blank" rel="noopener noreferrer">Download the booklet (See Page 21 for information about Apathy)</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

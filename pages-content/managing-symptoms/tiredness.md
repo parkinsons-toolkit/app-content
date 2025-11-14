@@ -26,7 +26,6 @@ _Daytime sleepiness_ is falling asleep or feeling like you might fall asleep dur
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/tiredness.jpg" alt="tired" class="tiredness__tiredness">
 
-
 There are lots of possible causes.
 
 Parkinson’s itself can cause fatigue and sleepiness, and fatigue may be an early symptom. In addition, drugs used in Parkinson’s can cause sleepiness. Tiredness can also occur when the medication wears off. This is noticed before the next dose is due.
@@ -36,7 +35,6 @@ Another common cause of fatigue or tiredness are stress or feeling low, which ca
 Less common causes of fatigue include some medical problems such as anaemia, diabetes or thyroid problems.
 
 If you suddenly feel very tired or lacking in energy this may indicate that you are unwell from something else such as an infection. However, in this case you would probably have other symptoms too, e.g. fever.
-
 
 ---
 
@@ -87,7 +85,7 @@ Further strategies are seen below; not all will be applicable to you.
 
 - Try to take regular breaks when you work.
 - Discuss how this can be achieved with your employer, who must make suitable adjustments.
-  - See <a href="/learn/living-with-parkinsons
+  - See <a href="/information/living-with-parkinsons
     /practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a> for more advice.
 
 **If you are at home:**
@@ -106,7 +104,7 @@ Further strategies are seen below; not all will be applicable to you.
 
 - Fatigue can cause people to be less active and the less active you become, the more tired you feel.
 - We know keeping active is good for people with Parkinson’s. It can help fatigue, mood, sleep and general health.
-- Do as much as you can handle; it can be as simple as chair-based exercises. See <a href="/learn/living-with-parkinsons
+- Do as much as you can handle; it can be as simple as chair-based exercises. See <a href="/information/living-with-parkinsons
   /optimising-wellbeing/staying-active" class="internal-link">_Staying Active_</a> for ideas.
 - If there is a pattern to your tiredness, plan to exercise regularly at times you have a bit more energy.
 
@@ -116,7 +114,7 @@ Further strategies are seen below; not all will be applicable to you.
 - As well as a healthy balanced diet, a small snack every few hours may help your energy levels.
 - There is no evidence that multi-vitamins or ‘tonics’ help if you have a good healthy diet.
 - Drinking too much alcohol can affect quality of sleep and make you tired.
-- See the <a href="/learn/managing-symptoms/sleep" class="internal-link">_Sleep Difficulties_</a> page for more advice on getting good sleep.
+- See the <a href="/information/managing-symptoms/sleep" class="internal-link">_Sleep Difficulties_</a> page for more advice on getting good sleep.
 
 ---
 
@@ -142,7 +140,7 @@ People affected by Parkinson’s describe their experiences.
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They might ask** about a wide range of things if you see them for tiredness. This includes:
 
@@ -222,4 +220,4 @@ For most drugs causing drowsiness, combining them with drinking alcohol will mak
 | Michael J. Fox Foundation | This American organisation is committed to researching Parkinson’s. They provide information about topics such as fatigue and sleep, including steps to ease fatigue, tips for sleep, and ongoing research. | --                                                                                                                                                     | <a href="https://www.michaeljfox.org/news/fatigue-sleep" class="external-link" target="_blank" rel="noopener noreferrer">www.michaeljfox.org/news/fatigue-sleep</a>                               |
 | Parkinson’s UK            | Explores fatigue in Parkinson’s, covering its causes, treatment options, and practical advice on managing work, driving, and daily activities.                                                              | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/fatigue" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/fatigue</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

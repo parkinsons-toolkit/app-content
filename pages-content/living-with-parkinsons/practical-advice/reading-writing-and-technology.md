@@ -35,7 +35,7 @@ For dry eyes, over-the-counter ointments and eye drops are available from pharma
 
 Have regular eye checks to see if there are problems with near vision as this tends to deteriorate as people age. If a regular eye check is normal or new glasses are prescribed and you are still having problems reading, you may wish to ask your GP, optometrist, or ophthalmologist for a referral to a neuro-ophthalmologist. A neuro-ophthalmologist can do further tests and may prescribe ‘prisms’ (a special kind of glasses).
 
-See our <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page for more information on visual changes in Parkinson’s.
+See our <a href="/information/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page for more information on visual changes in Parkinson’s.
 
 ---
 
@@ -115,7 +115,6 @@ You can also consider:
 
 If you struggle to communicate by speaking or writing, you could consider using equipment that may reduce these challenges - like a computer or tablet. But, you may find it challenging to use these if you have a lot of tremor or stiffness.
 
-
 ### What can I try for myself?
 
 <div class="video-container">
@@ -160,7 +159,6 @@ If using a computer or the internet feels overwhelming, there are training cours
 - Tremor
 - Softer voice may make it more difficult to be heard
 - Decreased stamina for holding the phone
-
 
 ### What can I try for myself?
 
@@ -215,4 +213,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

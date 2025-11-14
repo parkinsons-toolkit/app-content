@@ -85,7 +85,7 @@ Here are some key points to know about cannabis:
 - Cannabis and cannabis-based medications can be prescribed for certain conditions, such as multiple sclerosis, but only under very specific circumstances and with very strict criteria to decide if a patient is suitable.
 - Currently, there is not enough evidence to support the use of cannabis-based products for Parkinson’s disease. However, several research studies are currently taking place to understand if cannabis could be beneficial for people with Parkinson’s and, if so, how.
 - In the UK, Cannabis is classified as a Class-B controlled substance. Having, making, or selling cannabis is illegal; this is due to its potential serious risks to physical and mental health.
-- See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more information on supplements.
+- See our <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more information on supplements.
 
 **Helpful Resources about Cannabis & Parkinson's:**
 
@@ -199,4 +199,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

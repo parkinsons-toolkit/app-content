@@ -53,8 +53,8 @@ There are several tips that may help you to continue with different hobbies:
 
 - Plan ahead for specific days and times you are going to enjoy your hobbies. Think about what time of day you will most enjoy doing the activity.
 - _Example:_ If your mind feels clearer and your mobility tends to be better in the morning, plan activities for then rather than in the afternoon or evening.
-- If getting to your activity is difficult, see our <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for ideas to make this easier, such as the blue badge scheme for parking.
-- If you need to have access to toilets to do your activity, see our <a href="/learn/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a> section for information on the ‘Radar key’ scheme for accessible toilets, and other tips.
+- If getting to your activity is difficult, see our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for ideas to make this easier, such as the blue badge scheme for parking.
+- If you need to have access to toilets to do your activity, see our <a href="/information/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a> section for information on the ‘Radar key’ scheme for accessible toilets, and other tips.
 - If stairs are difficult, there are resources online and Apps that allow you to check which venues are accessible in your local area (e.g., <a href="https://www.accessable.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">AccessAble</a>). Some sites now also clearly label accessible countryside walks (e.g., <a href="https://www.ramblers.org.uk/advice/walking-with-a-disability-or-health-issue/people-with-limited-mobility-and-wheelchair-users.aspx" class="external-link" target="_blank" rel="noopener noreferrer">Ramblers - walking with a disability</a>).
 
 ### Have a back-up plan
@@ -74,7 +74,6 @@ There are several tips that may help you to continue with different hobbies:
 - There may come a time when doing an activity, you love is too difficult. Take time to think about ways you can change the activity while keeping it similar enough for you to enjoy.
 - _Example:_ You enjoy cycling and are part of a social group. But balancing on the bike is now difficult. You could think about alternatives such as joining an indoor spin class or indoor cycling group. This way, you can still enjoy the social aspect and the benefit of cycling without the risk of losing balance on a road.
 
-
 ### Involve other people
 
 - You may find it difficult to perform a hobby to the level that you once could. It may be enjoyable and helpful to involve other people in the hobbies you enjoy.
@@ -91,7 +90,6 @@ There are several tips that may help you to continue with different hobbies:
 
 - You may find it helpful to meet up with other people in groups for living with Parkinson’s. For example, if you’re feeling frustrated because you’re no longer able to do an activity to the level you once could, other people may be able to share how they manage this. By attending a Parkinson’s specific group, you can talk to, and share advice with, others who have been in a similar situation to you. The organisers of these social groups will also have experience of being able to adapt activities to help you make them more enjoyable again.
 - _Example:_ You enjoy golf but are finding it more difficult to get around the course due to problems walking. In some areas there are indoor golf groups designed for people who are older or have Parkinson’s. Instead of playing 18 full holes, members take part in putting tournaments or mini- golf with adapted golf clubs (e.g. clubs with extra wide grip). Not everyone takes part, some are happy to watch and comment.
-
 
 ---
 
@@ -142,7 +140,6 @@ Anyone who has a pet, will know that pets become an integral part of a family. W
 - **Increased activity** — Pets will almost always encourage you to be more active. The increased activity may just be an extra trip downstairs to let the cat out in the morning or a jog around the park with the dog. Regular exercise is linked to improved symptoms in people living with Parkinson’s.
 - **Service dogs** — Dogs can be trained to help owners with Parkinson’s symptoms (e.g. helping you to keep balance). Service dogs can also alert other people if you have an accident at home. See <a href="https://www.assistancedogs.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Assistance Dogs UK</a> for guidance on how to apply for a service dog. You can find more details and resources at the bottoms of this page.
 
-
 ---
 
 ### What can I try?
@@ -157,7 +154,6 @@ If you are struggling to care for a pet alone, there are some strategies you can
 - **Ask your neighbour or family to help** — If it is difficult to care for your pet on your own for whatever reason, it may be sensible to ask for help. For example, you could ask your family or neighbour to pick up pet food, take your pet to the vet, or take it on walks. You may also consider employing a local dog walker and there are also doggie day care businesses for days when you are out all day. Getting early help from neighbours or family will help you to keep enjoying life with your pet.
 - **Re-home pet with a family member** — Another option may be to have your pet live with a family member. You would need to discuss this with them to make sure they are happy with this. This way you should be able to continue seeing your pet but without the added responsibility of caring for him/her every day.
 - **Get some support** — If there is no family or friends who can help, there are a number of organisations that might be able to help (see below).
-
 
 ---
 
@@ -234,4 +230,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*\* Calls follow business rate numbers, up to 7p plus your phone company’s access charge/minute from landlines and mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

@@ -40,8 +40,7 @@ Whether you have Parkinson’s or not, the risk of falls goes up with age. Facto
 - Problems with sight, such as seeing double.
 - Bladder and bowel symptoms that can lead you to rush to get to the toilet.
 
-
-There is more information on these on their respective symptom pages, found within <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a>.
+There is more information on these on their respective symptom pages, found within <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a>.
 
 Some medicines make the above symptoms worse, and this can increase your chance of falling over. These symptoms, as well as pain or other health conditions, can lead to lower levels of activity. Less activity can lead to weaker muscles and worse balance.
 
@@ -111,7 +110,6 @@ There are many things you can do for yourself to improve balance, prevent falls 
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/exercising.jpg" alt="exercising" class="balance-and-falls__exercising">
 
-
 It is important to try to stay as active as possible, unless you have been specifically advised otherwise. Staying active helps you maintain muscle strength and balance so reduces your chance of falling over. It is also good for your Parkinson’s and general health.
 
 There are different components to the activitiy you should try to undertake:
@@ -120,7 +118,6 @@ There are different components to the activitiy you should try to undertake:
 - Balance
 - Flexibility
 
-
 In Parkinson's, specific attention also needs to be given to:
 
 - Making **big** movements.
@@ -128,7 +125,7 @@ In Parkinson's, specific attention also needs to be given to:
 
 Exercises to achieve these need to be tailored to your ability and needs.
 
-For more on all of these aspects, see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page.
+For more on all of these aspects, see the <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page.
 
 ---
 
@@ -137,9 +134,9 @@ For more on all of these aspects, see the <a href="/learn/living-with-parkinsons
 - Give yourself time.
 - Reduce unnecessary distractions.
 - Where possible, it will also help to address other factors that can contribute such as pain, tiredness and stress.
-- Many falls are associated with drops in blood pressure. There are tips for dealing with this on the <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page.
+- Many falls are associated with drops in blood pressure. There are tips for dealing with this on the <a href="/information/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page.
 - Ensure you have appropriate footwear. Low heels or flat soles are better, and solid shoes with good support are better. Try to avoid unsupportive shoes, such as flip-flops, floppy slippers, or high heels.
-- Get a sight test – see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page for more information.
+- Get a sight test – see the <a href="/information/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page for more information.
 
 ### Environment
 
@@ -210,7 +207,7 @@ This is often not a quick process, and you may be referred on to another service
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -263,7 +260,7 @@ Once you have spoken to a healthcare professional, they can help reassure you. T
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/ot.jpg" alt="occupational-therapy" class="balance-and-falls__ot">
 
 - You may be referred to a physiotherapist or occupational therapist. This will likely be if you are not being seen in a falls service. In some areas there are specialist teams for people with conditions like Parkinson’s.
-- See the <a href="/learn/treatments-and-therapies/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page for more information about the different professional roles.
+- See the <a href="/information/treatments-and-therapies/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page for more information about the different professional roles.
 - They assess your walking and how you transfer between positions (like getting up from a chair).
 - They will aim to give you tailored strategies and exercises, to help your balance and reduce the risk of falls.
 - They will also consider your home environment.
@@ -273,10 +270,9 @@ Once you have spoken to a healthcare professional, they can help reassure you. T
   - Extra support, e.g. carers
   - Alarm systems
 
-
 They may make recommendations to the Adult Social Care services if this is needed.
 
-Please see the _Practical Advice_ pages found within the <a href="/learn/living-with-parkinsons" class="internal-link">_Living with Parkinson's_</a> section for guidance on daily activities.
+Please see the _Practical Advice_ pages found within the <a href="/information/living-with-parkinsons" class="internal-link">_Living with Parkinson's_</a> section for guidance on daily activities.
 
 ### Adult Social Care Services
 
@@ -340,4 +336,4 @@ For specific causes of falls you may be referred to a specialist service. For ex
 | NHS            | Provides more general information about falls (not specific to Parkinson’s). There is also guidance on preventing falls.                                                          | --                                                                                                                                                     | Information about Falls: <a href="https://www.nhs.uk/conditions/falls/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/conditions/falls/</a><br><br>Information about Alarms and Security: <a href="http://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/personal-alarms-security-systems-and-keysafes/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/personal-alarms-security-systems-and-keysafes/</a> |
 | Parkinson’s UK | Provides information about falls and dizziness, their causes, treatments and potential hazards in the home.<br><br>Information can be read online, printed out, or mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="http://www.parkinsons.org.uk/information-and-support/falls-and-dizziness" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinsons.org.uk/information-and-support/falls-and-dizziness</a>                                                                                                                                                                                                                                                                                                                                                                                |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

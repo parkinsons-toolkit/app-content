@@ -75,8 +75,8 @@ Tips to consider:
 4. **Work with your body:** Try to use the good times and don’t be too hard on yourself during the difficult times. If symptoms are getting in the way, read the symptom pages for tips on managing them.
 5. **Record progress:** Some people find it helpful to keep a log of what they are doing.
 
-- You could add your planned actions in <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders & Notes_</a> and check it off when completed.
-- You could enter your activities to the <a href="/learn/my-tracker" class="internal-link">_My Tracker_</a> to keep a record.
+- You could add your planned actions in <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders & Notes_</a> and check it off when completed.
+- You could enter your activities to the <a href="/information/my-tracker" class="internal-link">_My Tracker_</a> to keep a record.
   This can also help you see which times are better for you than others.
 
 6. **Reflect:** If something is not going as you’d hoped, think about why. What could you do differently? You might need to break it down into even smaller steps to make progress.
@@ -85,4 +85,4 @@ Tips to consider:
 
 - You could try associating the task with something that is already part of your routine, like brushing your teeth, or watching a scheduled TV programme. This gives an anchor.
 
-The <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a> section in your manual will guide you through this process.
+The <a href="/information/my-wellbeing" class="internal-link">_My Wellbeing_</a> section in your manual will guide you through this process.

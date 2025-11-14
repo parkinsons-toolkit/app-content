@@ -33,7 +33,6 @@ Other medical issues can cause swallowing difficulties. These include weakness i
 
 Swallowing difficulties in Parkinson’s tends to happen gradually. Sudden problems are likely to be related to other causes. A professional assessment is often needed to identify the root cause.
 
-
 ---
 
 ## What should I do about it?
@@ -126,7 +125,7 @@ People affected by Parkinson’s describe their experiences.
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -168,7 +167,7 @@ Typical referrals for swallowing problems might include:
 - **Physiotherapists** – Hcan provide help with posture while eating.
 - o Depending on the assessment, you may be referred to other hospital specialities (e.g. Ear Nose and Throat specialists or Gastroenterologists) particularly if a non-Parkinson’s cause is suspected.
 
-If you are having significant and progressive difficulties swallowing, there is more information on the <a href="/learn/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">_Progression of Symptoms_</a> page.
+If you are having significant and progressive difficulties swallowing, there is more information on the <a href="/information/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">_Progression of Symptoms_</a> page.
 
 ---
 
@@ -187,4 +186,4 @@ If you are having significant and progressive difficulties swallowing, there is 
 | Parkinson’s Foundation | This American organisation has in-depth information about swallowing and Parkinson’s, discussing symptoms and treatments.                                                                                                    | --                                                                                                                                                    | <a href="http://www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Speech-and-Swallowing-Problems" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Speech-and-Swallowing-Problems</a> |
 | Parkinson’s UK         | Provides advice on managing eating, swallowing difficulties, and saliva control, with tips on staying safe, comfortable, and well-nourished.<br><br>You can read this information online, print it or have it mailed to you. | 808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-managing-saliva" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-managing-saliva</a>                                         |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

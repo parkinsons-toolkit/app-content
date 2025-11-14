@@ -20,7 +20,6 @@ Poor sleep leads to feeling less well in the daytime and can worsen other diffic
 - Difficulty moving in bed
 - A possible association with breathing changes during sleep
 
-
 **Other issues that may affect your sleep include:**
 
 - Urinary Symptoms
@@ -30,7 +29,7 @@ Poor sleep leads to feeling less well in the daytime and can worsen other diffic
 - Spasms & Cramps
 - Anxiety
 
-These are covered on their own symptom page, found within the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> section. Difficulties in getting in or out of bed is covered on the <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page.
+These are covered on their own symptom page, found within the <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> section. Difficulties in getting in or out of bed is covered on the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page.
 
 ---
 
@@ -80,15 +79,13 @@ If you or your partner notice the breathing pattern change as described above (p
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/sleeping-man.jpg" alt="sleeping-man" class="sleep__sleeping-man">
 
-
 - Maintain regular sleep hours: try to get up at the same time each day, even if the sleep has not been good. You may need to set an alarm clock, even on weekends, to achieve this.
-- A regular bedtime routine, ideally with some relaxation built in, such as a warm bath. For other relaxation techniques see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/dealing-with-stress-and-challenges" class="internal-link">_Dealing with Stress and Challenges_</a> page.
-- Increasing daytime activity, though avoid exercise just before bed (e.g. avoid vigorous exercise in the 2 hours before bed). See <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> for ideas on how to do this.
+- A regular bedtime routine, ideally with some relaxation built in, such as a warm bath. For other relaxation techniques see the <a href="/information/living-with-parkinsons/optimising-wellbeing/dealing-with-stress-and-challenges" class="internal-link">_Dealing with Stress and Challenges_</a> page.
+- Increasing daytime activity, though avoid exercise just before bed (e.g. avoid vigorous exercise in the 2 hours before bed). See <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> for ideas on how to do this.
 - Empty your bladder before going to bed.
 - If possible, protect your bedroom environment: avoid using it for watching TV or working, and keep it warm (but not too hot), dark, comfortable and quiet. The optimal temperature for most people is around 16-18oC. Different curtains or blinds can change the light in the room, or some people use eye masks. Noise can be reduced by closing windows and doors, or by using earplugs.
 - Nylon or satin sheets as well as light-weight bed covers, can be more comfortable and can make moving in bed easier. It is best not to have both satin Pyjamas and sheets as they can slide on each other very quickly. Ideally maintain some area of friction at the edge of the bed for grip.
 - If you can, involve a partner, particularly if you need help getting in and out of bed.
-
 
 ### Things to avoid
 
@@ -101,7 +98,7 @@ If you or your partner notice the breathing pattern change as described above (p
 - **Large meals before bed:** Lying down after eating a large meal makes it more challenging for your body to digest the food properly. This is likely to make you feel uncomfortable and can make it more difficult for you to fall asleep and sleep undisturbed. Try to leave at least 2-3 hours after your last big meal of the day before going to bed.
 - **Unsuitable sleeping environment:** If possible, avoid using your bedroom for work or TV, or using your living space or chairs for sleep. Ideally, train your body to sleep in the bedroom and that brain-stimulating tasks are associated with another place. It takes time to re-train if one of these has become a habit.
 
-_Note there is no specific bed or mattress recommended in Parkinson’s but more advice on furniture and equipment is covered in <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">\_Daily Living_</a>.\_
+_Note there is no specific bed or mattress recommended in Parkinson’s but more advice on furniture and equipment is covered in <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">\_Daily Living_</a>.\_
 
 ---
 
@@ -119,7 +116,7 @@ People affected by Parkinson’s describe their experiences.
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -155,7 +152,7 @@ Tests are rarely needed but occasionally ‘sleep studies’ are run. This may i
 
 - Optimising Parkinson’s medications, to improve dopamine activity overnight, may improve sleep symptoms. This may be through using levodopa or a dopamine agonist. In some cases, a more steady level is achieved through slow acting levodopa, or other routes of medication delivery (e.g. rotigotine patch, apomorphine infusion or intraduodenal levodopa).
 - Sometimes a medication called melatonin is used. o There is weak evidence for zolpidem, quetiapine and clozapine.
-- Melatonin and clonazepam are potential medication for REM Sleep Behaviour Disorder which is covered on the <a href="/learn/managing-symptoms/dreams" class="internal-link">_Dream Disturbances_</a> page.
+- Melatonin and clonazepam are potential medication for REM Sleep Behaviour Disorder which is covered on the <a href="/information/managing-symptoms/dreams" class="internal-link">_Dream Disturbances_</a> page.
 
 **Some medication that may make sleep symptoms worse:**
 Sometimes the timing of these medicines can be adjusted to help sleep.
@@ -198,4 +195,4 @@ Referrals may also be made to help with strategies or equipment for moving in or
 | Parkinson’s Foundation                               | This American organisation explains common sleep disorders associated with Parkinson’s, including insomnia, REM sleep behaviour disorder, and sleep apnoea, and offers practical tips and treatment options to improve sleep quality       | --                                                                                                                                                     | <a href="https://www.parkinson.org/understanding-parkinsons/non-movement-symptoms/sleep-disorders" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinson.org/understanding-parkinsons/non-movement-symptoms/sleep-disorders</a>                                                                                                                                                                                                                                                                              |
 | Parkinson’s UK                                       | Provides information on sleep issues commonly experienced with Parkinson’s and introduce the Parkinson’s Disease Sleep Scale (PDSS-2), a tool used by professionals to assess and monitor sleep disturbances in people with the condition. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | Sleep and Parkinson’s: <a href="https://www.parkinsons.org.uk/information-and-support/sleep-and-parkinsons" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/sleep-and-parkinsons</a><br><br>Sleep Scale: <a href="https://www.parkinsons.org.uk/professionals/resources/parkinsons-disease-sleep-scale-pdss-2" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/professionals/resources/parkinsons-disease-sleep-scale-pdss-2</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

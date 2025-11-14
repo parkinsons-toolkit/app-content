@@ -32,7 +32,6 @@ Note a _nutritionist_ is not the same as a _dietitian_ (though some nutritionist
   - 'Foundation Doctors' are in their first two years of training after graduating from university medical school. They will be gaining broad experience across a range of specialties and settings.
   - Other terms that you may see include ‘Fellow’, ‘Trust Grade’ or ‘Associate Specialist’.
 
-
 ### Healthcare Assistants (HCAs)
 
 Also known as _nursing assistants_, _nursing auxiliaries_ or _auxiliary nurses_.
@@ -116,7 +115,6 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
   - They can conduct reviews of medications.
   - Some pharmacists will offer other services, such as travel or flu vaccinations.
 
-
 ### Physiotherapists
 
 Also known as _Physical Therapists_
@@ -167,7 +165,6 @@ Note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, th
   - _Social Care Wales_
   - _Scottish Social Services Council_
   - _Northern Ireland Social Care Council_
-
 
 ### Speech & Language Therapists (SLTs)
 
@@ -271,7 +268,7 @@ In the UK, there is a split between **_Healthcare_** (National Health Service, N
   - Carers coming to your home to help you wash and dress
   - Supported living environments
   - Assistance with home adaptations
-- There are some cases where provision for social care needs are covered by the NHS. This is known as _Continuing Healthcare (CHC)_. Please see the <a href="/learn/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page for more information.
+- There are some cases where provision for social care needs are covered by the NHS. This is known as _Continuing Healthcare (CHC)_. Please see the <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page for more information.
 
 ## Private Healthcare
 
@@ -317,9 +314,9 @@ Home Care workers can either be:
   _Or_
 - **Directly employed by you:** This way you know who you are getting, but you have legal responsibility as an employer. You will need to plan for the Home Care Worker’s holiday and sickness. Note employer responsibility is yours if you directly employ the carer, even if you receive financial support from the council. Note individual Home Care Workers do not have to be registered with a regulatory body.
 
-See the <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page to see advice on how to find Home Care workers.
+See the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page to see advice on how to find Home Care workers.
 
-See the <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page to see more about responsibilities as an employer.
+See the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page to see more about responsibilities as an employer.
 
 ---
 
@@ -355,4 +352,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\* Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

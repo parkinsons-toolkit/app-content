@@ -22,22 +22,20 @@ Our bodies are a mixture of complex pathways and mechanisms, and lots of factors
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/pain.jpg" alt="woman-in-pain" class="pain__pain">
 
-
 Pain that is related to Parkinson’s can be caused by a variety of factors:
 
 - Muscle pain (most common) - muscles feel ‘achy’ and the pain stays in one area.
 - Pain from stiffness – can be in a particular muscle or more general.
-- Muscle cramps and contractions - commonly happen in legs (e.g. the calves). This can happen at any time but tends to occur overnight. Medication wearing off can also cause this. See our <a href="/learn/managing-symptoms/cramps-and-spasms" class="internal-link">_Cramps & Spasms_</a> page for more information.
+- Muscle cramps and contractions - commonly happen in legs (e.g. the calves). This can happen at any time but tends to occur overnight. Medication wearing off can also cause this. See our <a href="/information/managing-symptoms/cramps-and-spasms" class="internal-link">_Cramps & Spasms_</a> page for more information.
 - “Central pain” - pain felt in the body, but no cause can be identified and is therefore thought to originate in the brain. As the pain is unexplained, it can be difficult to treat.
-- Nerve pain – typically shooting, burning or tingling pain. This can be caused by peripheral neuropathy (see the <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page) but has many causes.
+- Nerve pain – typically shooting, burning or tingling pain. This can be caused by peripheral neuropathy (see the <a href="/information/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page) but has many causes.
 - Pain related to another symptom (e.g. tummy pain from constipation or pain from tremor).
 - Tight tendons (or ‘stiffness’) caused by postural changes.
-- ‘Frozen shoulder’ can affect people with Parkinson’s and can be painful. For more detail, see the <a href="/learn/managing-symptoms/stiffness-slowness-and-small-movements" class="internal-link">_Stiffness, Slowness & Small Movements_</a> page.
+- ‘Frozen shoulder’ can affect people with Parkinson’s and can be painful. For more detail, see the <a href="/information/managing-symptoms/stiffness-slowness-and-small-movements" class="internal-link">_Stiffness, Slowness & Small Movements_</a> page.
 
 Pain that is not related to Parkinson’s might have a clear cause (e.g. a sore back from gardening), or may be caused by other health problems, such as arthritis, old injuries, or postural changes.
 
 Certain pain related to Parkinson’s tends to be less bothersome when the Parkinson’s medications are working well and more bothersome when the Parkinson’s medications wear-off. Pain can also be made worse when a person is under physical or emotional stress.
-
 
 ---
 
@@ -67,7 +65,7 @@ _Tip: **Hydration**. Some people with Parkinson’s tell us that drinking regula
 - Regular, gentle exercise can be helpful.
 - Some people find massage and/or a warm heating pad helpful.
 
-For more information on exercise and stretching, see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page.
+For more information on exercise and stretching, see the <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page.
 
 When initially beginning any form of exercise, muscles can feel sore or stiff. It is important not to overwork them in the beginning; a slow gentle build up will enable tight muscles to adapt and relax. If stretches or exercises do cause you a lot of pain, speak with your physiotherapist, GP or Parkinson’s specialist team.
 
@@ -107,7 +105,7 @@ People affected by Parkinson’s describe their experiences.
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -178,4 +176,4 @@ Once you have spoken to a healthcare professional, they can help reassure you. T
 | Parkinson’s Foundation | This American organisation provides descriptions of types of pain with Parkinson’s and ways to manage pain.                                                                                                                                                                                                                                                                                                                                                                      | --                                                                                                                                                     | <a href="https://www.parkinson.org/understanding-parkinsons/non-movement-symptoms/pain" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinson.org/understanding-parkinsons/non-movement-symptoms/pain</a>                                                                                                                                                                                                                                           |
 | Parkinson’s UK         | Explains the different types of pain associated with Parkinson’s and offers advice on treatment options, self-management strategies, and when to seek professional support. You can read the information online, print it or have it mailed to you.<br><br>Along with many other organisations and individuals, Parkinson’s UK uses YouTube to share videos on a wide range of topics. Their channel includes a playlist on staying active at home, amongst other useful videos. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/pain" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/pain</a><br><br>‘Stay Active at Home’ (YouTube Video Playlist): <a href="https://www.youtube.com/playlist?list=PL1ixQpbHed3asr5w0qe6ufxNTt1a4KpP_" class="external-link" target="_blank" rel="noopener noreferrer">https://www.youtube.com/playlist?list=PL1ixQpbHed3asr5w0qe6ufxNTt1a4KpP\_</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

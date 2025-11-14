@@ -40,7 +40,7 @@ There are many things you can try for yourself, but there are some circumstances
 - Abdominal or anal pain
 - Diarrhoea following a period of constipation (see above)
 - Significant change in your bowel habit that lasts 4 weeks or more
-- Unintentional significant weight loss (see the <a href="/learn/managing-symptoms/weight" class="internal-link">_Weight_</a> page)
+- Unintentional significant weight loss (see the <a href="/information/managing-symptoms/weight" class="internal-link">_Weight_</a> page)
 - New bowel incontinence
 - If you have tried the suggestions listed below under _What can I try for myself?_ and the problem persists after a month
 
@@ -53,7 +53,6 @@ There are many things you can try for yourself, but there are some circumstances
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/fibre-foods-bowel.jpg" alt="high-fibre" class="bowels__fibre-foods-bowel">
 
 Fibre in your diet helps improve constipation. Eat a variety of fibres.
-
 
 **Fibre is in:**
 
@@ -137,7 +136,7 @@ Certain fruits help draw water into the bowel to soften the stool. Increasing in
 
 ### Activity
 
-Being physically active improves the movement of the bowels. If you can, try going for a walk every day. See <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> for advice on how to achieve this.
+Being physically active improves the movement of the bowels. If you can, try going for a walk every day. See <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> for advice on how to achieve this.
 
 ### Toileting advice
 
@@ -199,7 +198,7 @@ If the suggested strategies are not working, then consult your GP or Parkinson�
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -281,4 +280,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

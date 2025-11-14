@@ -56,7 +56,7 @@ Some people are generally anxious about any stressful and potentially threatenin
 
 Anxiety can be caused by a combination of factors. Such factors include imbalances in brain chemicals, genetics, and stressful life events. People who have been anxious throughout their life may find that their anxiety has got worse since their Parkinson’s started. This may be due to the brain changes, or because Parkinson’s increases the number of ‘threats’ faced day-to-day. In other words, they may have more to be anxious about.
 
-Some symptoms of Parkinson’s can cause anxiety or make it worse. For example, after a fall or loss of balance, you may develop a fear of falling. See the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page for guidance on this.
+Some symptoms of Parkinson’s can cause anxiety or make it worse. For example, after a fall or loss of balance, you may develop a fear of falling. See the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page for guidance on this.
 
 Some people experience anxiety when their medication is wearing off. This improves once they take their next dose of medication. You can also feel anxious if your medication is wearing off and you experience difficulties moving. You may find that when your movement symptoms are better controlled by medication, your levels of anxiety reduce.
 
@@ -106,7 +106,7 @@ Being more active can help to combat stress and reduce anxiety. You may choose t
 - Leave the car at home for short journeys
 - Get off the bus a stop earlier and walking the rest of the journey
 
-See <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> pages for more guidance.
+See <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> pages for more guidance.
 
 If you have any concerns about safe and suitable exercise routines, discuss with your GP or a physiotherapist who will be able to recommend exercise that is right for you.
 
@@ -116,19 +116,19 @@ Maintaining a healthy, balanced diet is important for everyone. The food we eat 
 
 It can help to cut down on the amount of caffeine (found in tea, coffee, and some fizzy drinks) and alcohol you drink. This is because these can make some symptoms of anxiety (e.g. heart racing) worse.
 
-Healthy eating habits can play an important role in improving our mood and general sense of well-being. See <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> for more guidance.
+Healthy eating habits can play an important role in improving our mood and general sense of well-being. See <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> for more guidance.
 
 ### Keep socially active
 
 Sharing any worries or fears you may have with a friend or family member may help to reduce anxiety levels. Talking to others with Parkinson’s can also help by sharing your experiences and learning about different coping mechanisms or solutions to similar problems.
 
-You can look out for new opportunities from activities offered through local colleges, churches, leisure facilities, charities, and societies. You can search for activities and groups in your area on the government website <a href="https://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a>. Your local library can also be a good source of information about what is available in your area. If you need support with travelling to events, see our <a href="/learn/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for advice.
+You can look out for new opportunities from activities offered through local colleges, churches, leisure facilities, charities, and societies. You can search for activities and groups in your area on the government website <a href="https://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a>. Your local library can also be a good source of information about what is available in your area. If you need support with travelling to events, see our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for advice.
 
-Visit our <a href="/learn/living-with-parkinsons/optimising-wellbeing/social-and-spiritual-life" class="internal-link">_Social & Spiritual Life_</a> page for more information on how you can keep socially active.
+Visit our <a href="/information/living-with-parkinsons/optimising-wellbeing/social-and-spiritual-life" class="internal-link">_Social & Spiritual Life_</a> page for more information on how you can keep socially active.
 
 ### Sleep
 
-Many people with anxiety or worry may find it difficult getting to sleep. Our <a href="/learn/managing-symptoms/sleep" class="internal-link">_Sleep_</a> page has some information on this and what you can try to help.
+Many people with anxiety or worry may find it difficult getting to sleep. Our <a href="/information/managing-symptoms/sleep" class="internal-link">_Sleep_</a> page has some information on this and what you can try to help.
 
 ### Relaxation
 
@@ -140,7 +140,6 @@ See the <a href="https://www.mind.org.uk/" class="external-link" target="_blank"
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/breathing-exercise.jpg" alt="breathing-exercise" class="anxiety__breathing-exercise">
 
-
 Calming breathing exercises can help to reduce anxiety. When you feel anxious, you are more likely to take rapid, shallow breaths. This can cause sensations such as increased heart rate, dizziness, and muscle tension. In turn, this can increase feelings of anxiety. So, doing simple breathing exercises can help you to relax and reduce anxiety levels. These exercises work best when they’re practised regularly. You can even make them part of your daily routine (e.g. doing some deep breathing while waiting for the kettle to boil).
 
 Here’s an example of a simple breathing exercise you can try:
@@ -150,7 +149,6 @@ Here’s an example of a simple breathing exercise you can try:
 - Breathe in through your nose and out through your mouth. Feel your stomach rise as you breathe in and fall as you breathe out.
 - You may find it helpful to count steadily as you breathe: ‘one, two, three, four, five’ as you breathe in and ‘one, two, three, four, five’ as you breathe out. Try to work out what feels comfortable for you.
 - Repeat for 3-5 minutes.
-
 
 ### Mindfulness
 
@@ -164,13 +162,12 @@ Complementary therapies include massage, acupuncture and aromatherapy. These the
 
 Check with your GP, specialist, or Parkinson’s nurse if you wish to take anything by mouth or apply it to your skin as a complementary therapy.
 
-See our <a href="/learn/treatments-and-therapies
+See our <a href="/information/treatments-and-therapies
 /complementary-therapies" class="internal-link">_Complementary Therapies_</a> page for more information.
 
 ### Resources for wellbeing and mental health
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/anxiety-landscape.jpg" alt="landscape-with-reflection" class="anxiety__anxiety-landscape">
-
 
 There are also lots of apps for your computer, smart phone or tablet which aim to help with anything from managing general wellbeing to targeting more specific health concerns. Most of them have not been tested. If you want to try one, look at the mental health apps and tools in the <a href="https://www.nhs.uk/apps-library/category/mental-health/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Apps Library on the NHS website</a>.
 
@@ -179,7 +176,6 @@ There is a selection of self-help leaflets available online that might be helpfu
 Some books are available in audiobook format, if preferred.
 
 There are also some websites that have a wide range of advice and resources groups. You can pay to become a member of these groups, if you wish. You can find links to more information and guidance about these at the bottom of this page.
-
 
 ### Self-help Cognitive Behavioural Therapy
 
@@ -234,7 +230,7 @@ People affected by Parkinson’s describe their experiences.
 
 At times, feelings of anxiety are completely normal. But, anxiety can begin to disrupt your day-to-day life or cause you distress. If this is the case, it is important to seek help from healthcare professionals.
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They might ask about:**
 
@@ -326,4 +322,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

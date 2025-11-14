@@ -16,9 +16,9 @@ Make sure the name of the `.md` file is the same as the URL you would like the p
 
 Use HTML <a> tags with the `internal-link` class:
 
-&lt;a href="/learn/what-is-parkinsons" class="internal-link"&gt;What is Parkinson's&lt;/a&gt;
+&lt;a href="/information/what-is-parkinsons" class="internal-link"&gt;What is Parkinson's&lt;/a&gt;
 
-&lt;a href="/learn/managing-symptoms/tremor" class="internal-link"&gt;Tremor&lt;/a&gt;
+&lt;a href="/information/managing-symptoms/tremor" class="internal-link"&gt;Tremor&lt;/a&gt;
 
 &lt;a href="/my-tracker" class="internal-link"&gt;My Tracker&lt;/a&gt;
 

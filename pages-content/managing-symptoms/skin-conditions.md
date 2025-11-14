@@ -38,7 +38,7 @@ Conditions that can be more common in people with Parkinson’s are:
 
 ### Wounds & Ulcers
 
-- People with Parkinson’s can have ‘peripheral neuropathy’. This causes decreased sensation in the extremities. See the <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page for more information.
+- People with Parkinson’s can have ‘peripheral neuropathy’. This causes decreased sensation in the extremities. See the <a href="/information/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page for more information.
 - Decreased sensation may mean an injury, or infection in a body part like the foot takes longer to detect.
 - Healing from an injury may take longer with age, poor nutrition, or other health conditions.
 
@@ -53,7 +53,6 @@ Prolonged pressure through an area of skin can cause damage. This is more likely
 - Melanoma is a type of skin cancer. One of the main causes of melanoma is exposure to too much ultraviolet light in sunlight. About 16,000 people in the UK are diagnosed with melanoma each year. There is more information available on the <a href="www.nhs.uk/conditions/melanoma-skin-cancer" class="external-link" target="_blank" rel="noopener noreferrer">_NHS website_</a>.
 
 All of these skin issues are seen in people who don’t have Parkinson’s as well. And people with Parkinson’s can also get skin conditions that are completely unrelated to their Parkinson’s. Wounds and ulcers are more common in people who have decreased sensation for other medical reasons. An example of this would be those with diabetes.
-
 
 ---
 
@@ -164,7 +163,7 @@ Check moles regularly (monthly), looking for any changes. You can ask someone el
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 The questions will relate to your particular skin issue. They will generally cover details about what the problem is, when it occurred, how it has changed over time, whether you’ve had it before and what you have tried.
 
@@ -219,4 +218,4 @@ If skin cancer is suspected, you will be referred to a skin specialist: a dermat
 | NHS                             | The NHS offers guidance on sun safety to prevent skin damage, explain how to spot and manage changes in moles, and provide information on melanoma symptoms, diagnosis, and treatment. | --                                                                                                                                                     | Staying Safe in the Sun: <a href="https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety</a><br><br>Melanoma: <a href="https://www.nhs.uk/conditions/melanoma-skin-cancer" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/conditions/melanoma-skin-cancer</a><br><br>Moles: <a href="https://www.nhs.uk/conditions/moles/" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/conditions/moles/</a> |
 | Parkinson’s UK                  | Provides information and support about how Parkinson’s can affect the skin and sweating, offering tips on managing dryness, excessive sweating, and related discomfort.                | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems</a>                                                                                                                                                                                                                                                                                                                                                               |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

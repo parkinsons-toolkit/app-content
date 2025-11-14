@@ -56,7 +56,7 @@ _Many side effects of apomorphine are typical for dopamine agonists (such as apo
 - Sleepiness
 - Hallucinations
 - Problems with blood pressure
-- Changes in behaviour known as ‘impulse control disorders’ (see the <a href="/learn/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page for more information).
+- Changes in behaviour known as ‘impulse control disorders’ (see the <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page for more information).
 - Overuse of medication. This can lead to dopamine dysregulation syndrome.
 
 ### What do I do if I have a problem afterwards?
@@ -75,7 +75,7 @@ Apomorphine (a dopamine agonist) is delivered continuously via a small pump. The
 
 You may be able to have an apomorphine pump if:
 
-- You have problems with <a href="/learn/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements (Dyskinesia)_</a>.
+- You have problems with <a href="/information/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements (Dyskinesia)_</a>.
 - Your tablet medication has stopped working so well. For example, you have multiple ’off’ periods.
 
 It is not likely to improve people beyond their current best and will not get rid of all motor symptoms. The goal of this treatment is to improve a person’s ability to carry out day-to-day tasks. It aims to give people a better quality of life.
@@ -106,7 +106,7 @@ _Many side effects of apomorphine are typical for dopamine agonists, and should 
 - Hallucinations
 - Sleepiness
 - Blood pressure problems
-- Changes in behaviour known as ‘impulse control disorders’ (see the <a href="/learn/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page for more information).
+- Changes in behaviour known as ‘impulse control disorders’ (see the <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page for more information).
 
 ### What do I do if I have a problem afterwards?
 
@@ -165,7 +165,7 @@ You may be considered for DBS if you:
 - Low mood
 - Memory or thinking problems
 
-For more information about these symptoms, see the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Mananging Symptoms_</a> pages.
+For more information about these symptoms, see the <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Mananging Symptoms_</a> pages.
 
 ### What should I expect from the assessment process?
 
@@ -333,11 +333,11 @@ When you have the procedure and are set up with the equipment, you will be given
 
 ## Useful Organisations & Contacts
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
 
 | Organisation   | About                                                                                                                                                                                                                            | Phone Number                                                                                                                                           | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | NHS            | This NHS paper provides information about Duodopa Infusions. <br><br>(See pages 4-5 for a plain language summary)                                                                                                                | --                                                                                                                                                     | Clinical Commissioning Policy: Levodopa-Carbidopa Intestinal Gel (LCIG): <a href="https://www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2015/07/d04-p-e.pdf" class="external-link" target="_blank" rel="noopener noreferrer">www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2015/07/d04-p-e.pdf</a>                                                                                                                                                      |
 | Parkinson’s UK | Parkinson’s UK provides PDF leaflets with information on Apomorphine injections and pumps. There is also information on Deep Brain Stimulation. The leaflets discuss advantages, disadvantages and where to seek the treatments. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | Apomorphine: <a href="https://www.parkinsons.org.uk/information-and-support/apomorphine" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/apomorphine</a><br><br>Deep Brain Stimulation: <a href="https://www.parkinsons.org.uk/information-and-support/deep-brain-stimulation" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/deep-brain-stimulation</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

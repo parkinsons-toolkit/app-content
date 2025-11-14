@@ -17,7 +17,7 @@ For example:
 - Writing or using technology may be harder due to motor symptoms.
 - Working long hours can increase fatigue and cause symptoms to vary.
 
-This should not stop you from working if you wish to continue. You may need to adapt your job slightly or find ways to manage these work-related issues. For more advice, see our <a href="/learn/managing-symptoms/tremor" class="internal-link">_Managing Symptoms_</a> and <a href="/learn/living-with-parkinsons/practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> pages.
+This should not stop you from working if you wish to continue. You may need to adapt your job slightly or find ways to manage these work-related issues. For more advice, see our <a href="/information/managing-symptoms/tremor" class="internal-link">_Managing Symptoms_</a> and <a href="/information/living-with-parkinsons/practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> pages.
 
 You can speak to your GP or specialist about ways to help you better manage your symptoms for the type of work you do.
 
@@ -79,13 +79,11 @@ If you decide you would like to tell your colleagues, there are several ways you
 - Organise for an expert (e.g. Parkinson’s nurse, Parkinson’s UK representative) from the local area to visit your work. They may be able to give information to the team and answer any questions.
 - Remember, there is no pressure to tell your colleagues if you do not feel comfortable to do so.
 
-
 ---
 
 ## Adjustments at Work
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/work.jpg" alt="working" class="work-and-caring__work">
-
 
 Under the Equality Act 2010, employers have to make reasonable adjustments for someone with a long-term condition (including Parkinson’s). There are different adjustments that could be made but there are no clear definitions within the Equality Act that outline how much can be adjusted. To work out what adjustments might help you, speak with an ‘occupational health advisor’ or ‘access to work assessor’. You can do this by asking your manager or Human Resources (HR) to put you in touch with one. See below for some examples of adjustments you may wish to discuss.
 
@@ -96,7 +94,6 @@ Working a lot of hours every week may be challenging for you. If it becomes too 
 ### Duties
 
 Depending on the type of job you have and your symptoms, there may be duties that need to be delegated to other colleagues. This may also involve taking on new duties that are manageable for you. For example, as a teacher you may decide to reduce the number of your teaching hours due to speech difficulties. Instead, you may be able to do more administrative work. So, it can help to talk with your manager about what duties you can still do and if your role may need to change.
-
 
 ### Support
 
@@ -158,7 +155,6 @@ If you do not qualify for statutory sick pay but you still need paid time off wo
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/volunteer.jpg" alt="volunteering" class="work-and-caring__volunteer">
 
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -172,7 +168,6 @@ If you do not qualify for statutory sick pay but you still need paid time off wo
 For some people, voluntary work offers a great balance between working and being retired. You can have a sense of responsibility and achieve a sense of purpose without the stress of a full-time paid job. Some voluntary work can also be very flexible. So, on days or weeks where you are feeling good you can do more hours and on weeks that are worse you can do less hours. This is something you can decide with the scheme or activity co-ordinator.
 
 The added benefit of volunteering is that it can boost your confidence and day-to-day wellbeing.
-
 
 ### Deciding Where to Volunteer
 
@@ -210,7 +205,6 @@ As a volunteer, you do not have a contract of employment. This means you do not 
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/family.jpg" alt="children" class="work-and-caring__family">
 
-
 If you are diagnosed with Parkinson’s, it can be hard to decide how best to tell your children or grandchildren. You may be worried about how to start the conversation or how it might impact your family’s day-to-day life. You may also be debating whether you should tell your children in order to protect them. But it can help to be open and honest about your condition as children are aware of changes that happen at home. It will also
 be increasingly difficult to hide the symptoms as they progress.
 
@@ -218,14 +212,13 @@ So, when you feel ready, try to be clear and specific in describing your symptom
 
 If your children would like to talk to someone about how to deal with the news of a parent having Parkinson’s, or want more information, they can visit the <a href="https://www.parkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> website. Or, they can contact your local Parkinson’s UK support service (see the bottom of this page for contact details).
 
-
 ### Carers
 
-You may provide care for someone, or you may find in time one of your friends or family becomes a carer for you. There is support available for carers and a good place to start is <a href="https://www.carersuk.org/home" class="external-link" target="_blank" rel="noopener noreferrer">Carer's UK</a> or the <a href="https://carers.org/" class="external-link" target="_blank" rel="noopener noreferrer">Carer's Trust</a>. They have websites with useful information and contact details for local groups in your area. There is also information on our <a href="/learn/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page on tips and equipment people with Parkinson’s can try to help them remain as independent as possible in everyday tasks.
+You may provide care for someone, or you may find in time one of your friends or family becomes a carer for you. There is support available for carers and a good place to start is <a href="https://www.carersuk.org/home" class="external-link" target="_blank" rel="noopener noreferrer">Carer's UK</a> or the <a href="https://carers.org/" class="external-link" target="_blank" rel="noopener noreferrer">Carer's Trust</a>. They have websites with useful information and contact details for local groups in your area. There is also information on our <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page on tips and equipment people with Parkinson’s can try to help them remain as independent as possible in everyday tasks.
 
-It is important carers look after themselves, so they can look after others. One way of doing this is by making sure they take regular breaks (sometimes called ‘respite’ or short-break care). Respite can involve a range of things, including: having support workers in your home; taking a holiday; or the person being cared for having a short stay in a care home. Also, your family or friends may be able to help you take a break by stepping in. Information about arranging respite care is available from your local council, who can arrange a carer’s assessment. Your local Carers service may be able to help too. If you have sufficient money you can pay for carer support or respite care. For information on what benefits carers may be entitled to visit our <a href="/learn/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page.
+It is important carers look after themselves, so they can look after others. One way of doing this is by making sure they take regular breaks (sometimes called ‘respite’ or short-break care). Respite can involve a range of things, including: having support workers in your home; taking a holiday; or the person being cared for having a short stay in a care home. Also, your family or friends may be able to help you take a break by stepping in. Information about arranging respite care is available from your local council, who can arrange a carer’s assessment. Your local Carers service may be able to help too. If you have sufficient money you can pay for carer support or respite care. For information on what benefits carers may be entitled to visit our <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page.
 
-For various reasons, some people can no longer be looked after at home and need to move to a care home. But this does not mean they are no longer helped by their family and friends. Many carers spend time visiting the care home and some help with care tasks. Many also continue to be involved in decisions about the person’s care. For more information on different options for supported living see our <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page.
+For various reasons, some people can no longer be looked after at home and need to move to a care home. But this does not mean they are no longer helped by their family and friends. Many carers spend time visiting the care home and some help with care tasks. Many also continue to be involved in decisions about the person’s care. For more information on different options for supported living see our <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page.
 
 ---
 
@@ -254,4 +247,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

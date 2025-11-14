@@ -14,7 +14,7 @@ It is important not to change your medication without discussing this with your 
 
 ## Commonly Used Medications
 
-The <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages have guidance for dealing with the side effects that are listed below. If you experience side effects, consult these pages and speak to your Parkinson’s specialist team. There are also other possible side effects that can occur. Some medications cannot be used together with other medications. Your prescribing doctor will take this into account when prescribing medication.
+The <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages have guidance for dealing with the side effects that are listed below. If you experience side effects, consult these pages and speak to your Parkinson’s specialist team. There are also other possible side effects that can occur. Some medications cannot be used together with other medications. Your prescribing doctor will take this into account when prescribing medication.
 
 ### 1. Levodopa Medications
 
@@ -36,7 +36,7 @@ The <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_
 **Who is it for?**
 
 - Levodopa can be used at all stages of Parkinson’s.
-- Duodopa® intestinal gel is given directly into the gut via a tube – see <a href="/learn/treatments/advanced-and-surgical-treatments" class="internal-link">_Advanced & Surgical Treatments_</a> page for more information. It is used for complex movement problems.
+- Duodopa® intestinal gel is given directly into the gut via a tube – see <a href="/information/treatments/advanced-and-surgical-treatments" class="internal-link">_Advanced & Surgical Treatments_</a> page for more information. It is used for complex movement problems.
 
 **What are the side effects?**  
 Not all patients will experience side effects while taking levodopa.
@@ -49,7 +49,7 @@ The more common are:
 - Levodopa may cause urine to turn reddish-brown. This is harmless.
 - With long term use, some people may also experience involuntary movements (dyskinesia) or hallucinations.
 
-Food can affect how levodopa gets absorbed into your body. For some people this impact of food is noticeable. See the <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more guidance.
+Food can affect how levodopa gets absorbed into your body. For some people this impact of food is noticeable. See the <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more guidance.
 
 ### 2. Dopamine Agonist Medications
 
@@ -70,7 +70,7 @@ Food can affect how levodopa gets absorbed into your body. For some people this 
 
 - They can be used at all stages of Parkinson’s and come in a variety of forms.
 - Rotigotine is given as a skin patch so may be used if swallowing tablets is a problem.
-- Apomorphine is given by injection or infusion pump. It is used for more complex movement problems. More information about the pump can be found on the <a href="/learn/treatments/advanced-and-surgical-treatments" class="internal-link">_Advanced & Surgical Treatments_</a> page.
+- Apomorphine is given by injection or infusion pump. It is used for more complex movement problems. More information about the pump can be found on the <a href="/information/treatments/advanced-and-surgical-treatments" class="internal-link">_Advanced & Surgical Treatments_</a> page.
 
 **What are the side effects?**  
 Not all patients will experience side effects while taking dopamine agonist medicines. The more common are:
@@ -79,7 +79,7 @@ Not all patients will experience side effects while taking dopamine agonist medi
 - Nausea (feeling sick).
 - Low blood pressure, which can cause symptoms of dizziness or feeling generally weak or faint.
 - Hallucinations (seeing, hearing, feeling or smelling things that are not there)
-- ‘Impulse Control Disorders’(gambling, shopping, binge-eating, hyper-sexuality) - more information can be found on our <a href="/learn/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page.
+- ‘Impulse Control Disorders’(gambling, shopping, binge-eating, hyper-sexuality) - more information can be found on our <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page.
 - Lower leg or ankle swelling.
 
 ### 3. MAO-B Inhibitor Medications
@@ -139,7 +139,7 @@ Not all patients will experience side effects while taking dopamine agonist medi
 **What does it do?**
 
 - It isn’t known exactly how this type of drug works for Parkinson’s, but it is likely to have several actions.
-- It is sometimes used to manage <a href="/learn/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements (Dyskinesia)_</a>.
+- It is sometimes used to manage <a href="/information/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements (Dyskinesia)_</a>.
 - It is not used in people who have epilepsy, have had stomach ulcers, or who have significant memory or thinking problems.
 
 **What are the side effects?**
@@ -167,13 +167,13 @@ Not all patients will experience side effects while taking dopamine agonist medi
 
 ### 3) Other medications
 
-Other medications may be used to treat specific symptoms. See our <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages for more details.
+Other medications may be used to treat specific symptoms. See our <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages for more details.
 
 ---
 
 ## Side effects of Parkinson’s medications
 
-Although rare, Parkinson’s medication carries a risk of causing unusual behaviour. They are called **Impulse Control Disorders**, which you can read about on out <a href="/learn/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> symptom page. This means behaviours that are difficult to control. Examples include gambling, shopping, binge-eating, hyper-sexuality. They are more common in people on dopamine agonists.
+Although rare, Parkinson’s medication carries a risk of causing unusual behaviour. They are called **Impulse Control Disorders**, which you can read about on out <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> symptom page. This means behaviours that are difficult to control. Examples include gambling, shopping, binge-eating, hyper-sexuality. They are more common in people on dopamine agonists.
 
 You and those close to you should watch out for these. If this happens, it is vital to tell your GP or Parkinson’s specialist team. A change in your medication may be necessary.
 
@@ -205,7 +205,7 @@ Who you should talk to depends on the subject of the query. Although there is so
 ## Getting Medication
 
 - Long term medication should be issued on a repeat prescription by your GP.
-- You will need to request and collect the repeat prescription. If not, you may run out of the medicine. You can set a reminder to reorder your medicine using the <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders & Notes_</a> section.
+- You will need to request and collect the repeat prescription. If not, you may run out of the medicine. You can set a reminder to reorder your medicine using the <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders & Notes_</a> section.
 - Consider asking your GP surgery if they can send prescriptions directly to the pharmacy.
 - Some pharmacies offer home delivery services for people who find it difficult to get out of the house. Ask your pharmacist if this is an issue.
 
@@ -214,7 +214,7 @@ Who you should talk to depends on the subject of the query. Although there is so
 - At present, in England, prescriptions are charged per item unless you are exempt. You are exempt if you are over 60 years old. Certain medical or financial circumstances also make people exempt.  
   See the NHS website for more details.
 - Having Parkinson’s is not (at present) listed as a reason for exemption from NHS prescription charges.
-- A prescription prepayment certificate (PPC) could save you money on NHS prescription costs. See the <a href="/learn/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page for more details.
+- A prescription prepayment certificate (PPC) could save you money on NHS prescription costs. See the <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page for more details.
 
 ---
 
@@ -270,7 +270,7 @@ _Note: Rotigotine patches contain metal and should be removed before having an M
 
 ### Swallowing Medicine
 
-Some people have difficulty with swallowing their medication. If this is the case: speak to your GP or Parkinson’s specialist. You may require further assessment or a change to your medicines. For example, this could be using a dissolvable tablet or a patch. See our <a href="/learn/managing-symptoms/swallowing" class="internal-link">_Swallowing Difficulties_</a> page for more information.
+Some people have difficulty with swallowing their medication. If this is the case: speak to your GP or Parkinson’s specialist. You may require further assessment or a change to your medicines. For example, this could be using a dissolvable tablet or a patch. See our <a href="/information/managing-symptoms/swallowing" class="internal-link">_Swallowing Difficulties_</a> page for more information.
 
 ### Missed Medicines
 
@@ -398,4 +398,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\* Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

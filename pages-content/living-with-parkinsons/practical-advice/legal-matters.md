@@ -10,7 +10,7 @@
 </iframe>
 </div>
 
-There are several legal arrangements that everyone should consider at some stage in their lives. It helps to put these in place as soon as possible. This may involve insurance, power of attorney, decisions about how they wish to be treated and making a will. This section will discuss these legal aspects in some detail. For information about employment please see the section <a href="/learn/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a>.
+There are several legal arrangements that everyone should consider at some stage in their lives. It helps to put these in place as soon as possible. This may involve insurance, power of attorney, decisions about how they wish to be treated and making a will. This section will discuss these legal aspects in some detail. For information about employment please see the section <a href="/information/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a>.
 
 ---
 
@@ -73,7 +73,6 @@ This section will outline the different types of power of attorney and other com
   - _Finance and affairs:_ Once registered, the finance LPA will automatically be valid. Therefore, the person you trust can make financial decisions both now and in the future. This can be at a time when you may or may not be able to make decisions yourself. Financial decisions could include paying bills, paying the mortgage, buying and selling property.
 - **Enduring Power of Attorney (EPA)**
   - Enduring Power of Attorney (EPA) was used before lasting power of attorney replaced it in October 2007. EPA cover finances. If you signed an EPA before 1st October 2007 then it should still be valid, but you may want to make a LPA to reflect other decisions.
-
 
 ### When should I consider this?
 
@@ -158,7 +157,6 @@ There are two main types of documentation to record future wishes. One is a **st
 - This statement can include preferences about what you might like to eat, where you would like to be cared for, what you would like to do, and personal care routines. It is best to write this down and include the date and your signature; if you do not then people are not likely to know what you wanted.
 - Your GP, solicitor or Citizens Advice should be able to provide you with advice should you have questions around setting out your statement of wishes but they will remind you that no-one has to follow them and they may get lost or be unavailable.
 - Important to Consider: statements of wishes are not legally binding. Whoever is making decisions should try to respect what you have said as best as possible. However, there may be times the decision will go against the statement. For example: you may have said you would like to stay at home, rather than go into a care home. However, it may become too difficult or unsafe for you to be cared for at home. Therefore, it may be in your best interests to move to a care home. You may say you would always prefer a bath rather than a shower. While that may not be possible always, it might help someone thinking about what to ask a care worker to help you with.
-
 
 **Advance decision**
 
@@ -308,4 +306,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

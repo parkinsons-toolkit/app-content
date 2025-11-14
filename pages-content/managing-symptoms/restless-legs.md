@@ -50,7 +50,7 @@ Mild cases of restless leg may be treated with lifestyle changes, but more moder
 </iframe>
 </div>
 
-- Leg massage, walking and stretching. See the <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page for tips on stretching.
+- Leg massage, walking and stretching. See the <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page for tips on stretching.
 - Warm or cool compresses on the legs.
 - Taking a warm bath in the evening. Make sure you are well hydrated first.
 - Avoiding alcohol, caffeine, and smoking (particularly in the evening, when symptoms tend to be worse).
@@ -63,7 +63,7 @@ Mild cases of restless leg may be treated with lifestyle changes, but more moder
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -91,7 +91,7 @@ If your iron levels are low:
   - Dark green vegetables, raisins, prunes, apricots
 - You may be advised to take iron tablets.
   - _Caution: iron tablets can cause constipation._
-  - See the <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> page if this is a concern.
+  - See the <a href="/information/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> page if this is a concern.
 
 ### Medication
 
@@ -124,4 +124,4 @@ If your iron levels are low:
 | Parkinson’s UK | Explains restless legs syndrome, its connection to Parkinson’s, and offers advice on managing symptoms through lifestyle changes and medical support.<br><br>You can read it online, print it out or download it. | 808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/restless-legs-syndrome" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/restless-legs-syndrome</a> |
 | RLS UK         | A charity Supporting People with Restless Legs Syndrome & Periodic Limb Movement Disorder. It has lots of helpful information and details on different treatments.                                                | --                                                                                                                                                    | <a href="https://www.rls-uk.org" class="external-link" target="_blank" rel="noopener noreferrer">www.rls-uk.org</a>                                                                                                                     |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

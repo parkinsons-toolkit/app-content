@@ -67,7 +67,7 @@ The three main motor symptoms of Parkinson’s are:
 - Shaking, known medically as tremor
 - Stiffness, known medically as rigidity
 
-Not everyone with Parkinson’s will experience all three main motor symptoms. But movement is always affected for a diagnosis of Parkinson’s. The non-motor symptoms are varied and can be harder to see. Some examples include anxiety, sleep difficulties and constipation. These can occur before movement symptoms. You can read more about specific symptoms on the <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages.
+Not everyone with Parkinson’s will experience all three main motor symptoms. But movement is always affected for a diagnosis of Parkinson’s. The non-motor symptoms are varied and can be harder to see. Some examples include anxiety, sleep difficulties and constipation. These can occur before movement symptoms. You can read more about specific symptoms on the <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages.
 
 ---
 
@@ -99,11 +99,11 @@ The diagnosis of Parkinson’s is made by a clinician experienced in Parkinson�
 </iframe>
 </div>
 
-There are many management options to help with Parkinson’s. A range of different professionals can be involved. See the <a href="/learn/treatments/who-may-be-involved" class="internal-link">_Who May Be Involved_</a> page. Exercise has been shown to improve mobility and quality of life. There isn’t one exercise program that has been shown to be the best. Finding something you enjoy and doing it regularly is most important. Examples include an exercise class for people with Parkinson’s, dancing, boxing, riding a stationary bicycle at home, etc.
+There are many management options to help with Parkinson’s. A range of different professionals can be involved. See the <a href="/information/treatments/who-may-be-involved" class="internal-link">_Who May Be Involved_</a> page. Exercise has been shown to improve mobility and quality of life. There isn’t one exercise program that has been shown to be the best. Finding something you enjoy and doing it regularly is most important. Examples include an exercise class for people with Parkinson’s, dancing, boxing, riding a stationary bicycle at home, etc.
 
-There are medications available for many Parkinson’s symptoms. See <a href="/learn/treatments/who-may-be-involved" class="internal-link">_Medications_</a> page. Surgical options may be considered in select cases. See <a href="/learn/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page. There are also other strategies to reduce the impact of symptoms on daily life. See <a href="/learn/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symtoms_</a> pages. A diagnosis of Parkinson’s is a lot to deal with. Talking to others can help. This website aims to support you to live well with Parkinson’s. It includes a range of tools as well as information resources to help you. If you have been recently diagnosed, the volume of information can be overwhelming. Starting with the <a href="/learn/newly-diagnosed" class="internal-link">_Newly Diagnosed_</a> page may be most helpful. On this page, other people with Parkinson’s wrote key information they would focus on at the start.
+There are medications available for many Parkinson’s symptoms. See <a href="/information/treatments/who-may-be-involved" class="internal-link">_Medications_</a> page. Surgical options may be considered in select cases. See <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page. There are also other strategies to reduce the impact of symptoms on daily life. See <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symtoms_</a> pages. A diagnosis of Parkinson’s is a lot to deal with. Talking to others can help. This website aims to support you to live well with Parkinson’s. It includes a range of tools as well as information resources to help you. If you have been recently diagnosed, the volume of information can be overwhelming. Starting with the <a href="/information/newly-diagnosed" class="internal-link">_Newly Diagnosed_</a> page may be most helpful. On this page, other people with Parkinson’s wrote key information they would focus on at the start.
 
-Lots is known about Parkinson’s. But there is even more to be discovered! See the <a href="/learn/research" class="internal-link">_Research_</a> page to know more.
+Lots is known about Parkinson’s. But there is even more to be discovered! See the <a href="/information/research" class="internal-link">_Research_</a> page to know more.
 
 ---
 
@@ -120,7 +120,7 @@ Parkinsonism is a term used to describe a group of symptoms namely: bradykinesia
 
 ## Useful Organisations & Contacts
 
-Please also see the [_Services & Groups_](/learn/further-support/services-and-groups) page for more sources of support, or our [_Resources_](/learn/further-support/resources) page.
+Please also see the [_Services & Groups_](/information/further-support/services-and-groups) page for more sources of support, or our [_Resources_](/information/further-support/resources) page.
 
 | Organisation               | About                                                                                                                                                          | Phone Number                                                                                                                                       | Website                                                                                                                                                                                                                                                                                                                                                                           |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -129,4 +129,4 @@ Please also see the [_Services & Groups_](/learn/further-support/services-and-gr
 
 ---
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our [_Resources_](/learn/further-support/resources) page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our [_Resources_](/information/further-support/resources) page.

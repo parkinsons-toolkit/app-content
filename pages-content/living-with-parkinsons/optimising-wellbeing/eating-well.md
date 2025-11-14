@@ -66,7 +66,7 @@ If you think your symptoms are being affected by the interaction between medicat
 - What and when you experience symptoms.
 - You can then take this to your specialist Parkinson’s team or dietician to review your regime. **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 
-You can record these things all in one place by using <a href="/learn/my-tracker" class="internal-link">_My Tracker_</a>.
+You can record these things all in one place by using <a href="/information/my-tracker" class="internal-link">_My Tracker_</a>.
 
 _Examples of protein are provided in the section ‘Understanding food groups’ further down on this page._
 
@@ -102,8 +102,7 @@ Constipation is a common symptom experienced by people with Parkinson’s. It ca
 - Stay hydrated
 - Increase fibre intake (high fibre foods are listed at the end of this page)
 
-_See the <a href="/learn/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a> page for more details._
-
+_See the <a href="/information/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a> page for more details._
 
 ---
 
@@ -121,7 +120,7 @@ People with Parkinson’s can experience low blood pressure, particularly when c
 - Avoid constipation (straining makes the problem worse)
   - In some cases increased salt intake can help, but there are also potential harmful effects of high salt intake so discuss with your GP, dietician or Parkinson’s team before trying this.
 
-_See the <a href="/learn/managing-symptoms/dizziness" class="internal-link">Dizziness</a> page for more details._
+_See the <a href="/information/managing-symptoms/dizziness" class="internal-link">Dizziness</a> page for more details._
 
 ---
 
@@ -150,8 +149,7 @@ _Alcohol dependency or addiction has serious health implications. There is lots 
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/making-tea.jpg" alt="making-tea" class="eating-well__making-tea">
 
-
-Some people with Parkinson’s will notice they may have trouble with swallowing certain foods or liquids. Here we discuss the dietary implications; see the <a href="/learn/managing-symptoms/swallowing" class="internal-link">Swallowing Difficulties</a> page for more information about the symptom.
+Some people with Parkinson’s will notice they may have trouble with swallowing certain foods or liquids. Here we discuss the dietary implications; see the <a href="/information/managing-symptoms/swallowing" class="internal-link">Swallowing Difficulties</a> page for more information about the symptom.
 
 **It is important to talk to your GP or Parkinson’s specialist team** as soon as you can if you are having problems with swallowing. They may need to refer you to specialists who can offer help. Speech and language therapists (SALTs or SLTs) are experts in swallowing and can offer information and strategies to overcome some of the challenges you are experiencing.
 
@@ -167,7 +165,6 @@ Some people with Parkinson’s will notice they may have trouble with swallowing
 - Thicker soups, yoghurts or blended foods/fruits can also allow you to take in more fluid in a form that is easier to swallow.
 - Smaller meals may not be as nutritionally complete, so if you are having issues with gaining or maintaining weight, please consult your GP or Parkinson’s specialist team.
 
-
 ---
 
 ## Maintaining healthy weight
@@ -179,7 +176,7 @@ The body mass index (BMI) is a measure that uses your height and weight to work 
 
 ### Underweight
 
-Weight loss is not part of normal ageing. Weight loss can be a sign of an underlying condition and may require investigation but can also be due to Parkinson’s for a range of reasons. To find out more about weight loss and what you could do about it, see our <a href="/learn/managing-symptoms/weight" class="internal-link">_Weight_</a> page.
+Weight loss is not part of normal ageing. Weight loss can be a sign of an underlying condition and may require investigation but can also be due to Parkinson’s for a range of reasons. To find out more about weight loss and what you could do about it, see our <a href="/information/managing-symptoms/weight" class="internal-link">_Weight_</a> page.
 
 If you have lost a significant amount of weight without trying, then you should see your GP or
 Parkinson’s specialist team.
@@ -207,13 +204,12 @@ Example:
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/food-fibre.jpg" alt="example-alt-text" class="eating-well__food-fibre">
 
-
 Avoiding being overweight is particularly important if you have other health conditions in addition to Parkinson’s – for example, circulation problems, high cholesterol, diabetes, and heart disease.
 
 Parkinson’s doesn’t tend to make people gain weight, but there are few reasons why it can happen, specific to Parkinson’s:
 
 1. It is easy to gain weight if you become less active but continue eating the same amount of food.
-2. Compulsive eating – this is a rare side effect of some Parkinson’s medications, where the person experiences an irresistible urge to eat excessively. See our <a href="/learn/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page for more information. If you think this is affecting you, please do not make any changes to your medication regime without speaking with a healthcare professional.
+2. Compulsive eating – this is a rare side effect of some Parkinson’s medications, where the person experiences an irresistible urge to eat excessively. See our <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page for more information. If you think this is affecting you, please do not make any changes to your medication regime without speaking with a healthcare professional.
 3. Deep Brain Stimulation – some people experience weight gain after the surgery. Speak to your specialist team if you think this has been the case.
 
 ### Dietary advice if you have been advised to lose weight
@@ -226,7 +222,6 @@ Parkinson’s doesn’t tend to make people gain weight, but there are few reaso
 - Ensure ½ your plate is vegetables/salad, ¼ lean protein and ¼ wholemeal or low GI carbohydrate
 - Avoid very low calorie diets as this can contribute to decreased energy levels
 
-
 ---
 
 ## Supplements
@@ -236,7 +231,6 @@ Parkinson’s doesn’t tend to make people gain weight, but there are few reaso
 The best way to get vitamins and minerals in your diet is by eating a well-balanced diet. For many vitamins and supplements, there isn’t clear evidence that they have health benefits, and in some cases, large doses can have side effects.
 
 Some vitamins and supplements can interact with your Parkinson’s medications or other medications. **Before purchasing any ‘over the counter’ mineral or vitamin supplements from chemists or health food shops, be sure to consult with a pharmacist, your GP, or Parkinson’s specialist team.**
-
 
 ### Should I take supplements?
 
@@ -248,8 +242,8 @@ Some vitamins and supplements can interact with your Parkinson’s medications o
   - If you are found to have a low vitamin D level, then you should be prescribed additional higher dose vitamin D to bring it back up to normal and then continue the routine supplements.
 - **Vitamin B12** and **folate** levels are sometimes lower in people with Parkinson’s.
   - **Low vitamin B12** can be associated with the medication levodopa
-  - Low vitamin B12 is associated with nerve problems, called peripheral neuropathy. See our <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page for more information on neuropathy.
-  - Vitamin B12 is particularly likely to be lower in people with Parkinson’s who are receiving a gel form of levodopa given via a tube directly into the gut (an intraduodenal gel infusion called **Duodopa** – see our <a href="/learn/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a>)
+  - Low vitamin B12 is associated with nerve problems, called peripheral neuropathy. See our <a href="/information/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page for more information on neuropathy.
+  - Vitamin B12 is particularly likely to be lower in people with Parkinson’s who are receiving a gel form of levodopa given via a tube directly into the gut (an intraduodenal gel infusion called **Duodopa** – see our <a href="/information/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a>)
   - More research is ongoing, but for now, people on Duodopa are recommended to take supplementary vitamin B12.
 
 ### Are there supplements to slow Parkinson’s?
@@ -305,7 +299,6 @@ There has been a lot of interest in supplements as a way of slowing down Parkins
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/eat-well-guide.jpg" alt="example-alt-text" class="eating-well__eat-well-guide">
 
 You can learn more about the five food groups below by exploring the <a href="https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Eatwell Guide</a>.
-
 
 ### Fruit/Vegetables
 
@@ -398,4 +391,4 @@ Because it can be difficult to eat enough vitamin D, a daily 10 mcg supplement o
 | NHS            | The NHS Live Well pages offer practical advice on healthy living, including guidance on balanced diets, maintaining a healthy weight, staying active, quitting smoking, and reducing alcohol intake. There is also support for alcohol addiction. | --                                                                                                                                                         | NHS Live Well: <a href="https://www.nhs.uk/live-well" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/live-well</a> <br><br>The Eatwell Guide: <a href="https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/</a> <br><br>NHS alcohol advice: <a href="https://www.nhs.uk/live-well/alcohol-advice/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/live-well/alcohol-advice/</a> |
 | Parkinson’s UK | Provides details of how diet and nutrition can affect life with Parkinson’s and offers practical guidance for managing food-related challenges.                                                                                                   | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)     | <a href="https://www.parkinsons.org.uk/information-and-support/diet" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/diet</a>                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

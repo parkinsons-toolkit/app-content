@@ -6,7 +6,6 @@ Regardless of health conditions, for many people, the thought of dying is wrappe
 
 If you are ready to think about your future, there are some things you can think about now. These can be a positive and empowering way to prepare.
 
-
 ---
 
 ## Preparation
@@ -30,9 +29,9 @@ Towards the end of life, it may become more difficult to communicate your wishes
   - Registering for organ donation (more below) o Burial or cremation
   - Funeral plans
 
-For more information on formalising Advanced Decisions and Lasting Power of Attorney, see the <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page.
+For more information on formalising Advanced Decisions and Lasting Power of Attorney, see the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page.
 
-For guidance on what to include in an Advanced Statement or Advanced Decision, see the <a href="/learn/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_Future Care Options_</a> page.
+For guidance on what to include in an Advanced Statement or Advanced Decision, see the <a href="/information/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_Future Care Options_</a> page.
 
 ### Practical Preparation
 
@@ -75,7 +74,7 @@ Other practical considerations:
 
 ## Place of Care
 
-The <a href="/learn/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page covers options for places of care. Here we consider options for places of care for someone who knows they are close to dying.
+The <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page covers options for places of care. Here we consider options for places of care for someone who knows they are close to dying.
 
 There can be practical difficulties in moving to a new place of care if someone is dying. Understanding preferences can help to plan for it where possible. When making such decisions it is helpful to know what **Palliative Care** services are and what they can offer.
 
@@ -108,7 +107,6 @@ There can be practical difficulties in moving to a new place of care if someone 
 - However:
   - For some people, it doesn’t feel like home. o Some people have negative associations with care homes.
 - Care homes allow planned visits so you or your family could look around to help make this decision.
-
 
 ### Hospice
 
@@ -209,7 +207,6 @@ After the death of someone there are a number of tasks that will need to be comp
 - Bereavement support is offered by many charities as well as local hospice and NHS services. For example, you could look at the Cruse Bereavement Care charity website.
 - Try looking at the <a href="https://www.nhs.uk/" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> (search “bereavement”) or speak to your GP for more information.
 
-
 ### Organ and Tissue Donation
 
 - Many people are in need of organ transplants or tissues.
@@ -241,4 +238,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

@@ -21,7 +21,7 @@ Although it can be difficult to decide which group dizziness symptoms fit into, 
   - Feeling faint
   - Feeling ‘muzzy’
 
-Many people experience balance problems or falls for other reasons. See the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page for more information.
+Many people experience balance problems or falls for other reasons. See the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page for more information.
 
 ---
 
@@ -29,17 +29,15 @@ Many people experience balance problems or falls for other reasons. See the <a h
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dizzy.jpg" alt="dizzy" class="dizziness__dizzy">
 
-
 Dizziness is a common symptom in people with and without Parkinson’s. The most common reason for dizziness in Parkinson’s is changes in the body’s control of blood pressure. ‘Postural hypotension’ or ‘orthostatic hypotension’ is when the blood pressure drops on changing from a lower position (sitting or lying) to a higher position (standing). This tends to be when people feel the dizziness, though there can be a delay.
 
 Some medications make postural hypotension worse. This includes some Parkinson’s medication, as well as medication for high blood pressure and heart disease. Many other conditions can also cause drops in blood pressure, for example infections, dehydration, and bleeding.
 
-Dizziness can be caused by anxiety or panic. Anxiety is more common in Parkinson’s; see the <a href="/learn/managing-symptoms/mood" class="internal-link">_Mood_</a> page for more information about Anxiety.
+Dizziness can be caused by anxiety or panic. Anxiety is more common in Parkinson’s; see the <a href="/information/managing-symptoms/mood" class="internal-link">_Mood_</a> page for more information about Anxiety.
 
 Dizziness is seen in a range of other conditions, including inner ear problems (e.g. Benign Paroxysmal Positional Vertigo, BPPV) and people with irregular heartbeats.
 
 Symptoms that are not typical of dizziness related to Parkinson’s include: difficulty in hearing, ringing in your ears (tinnitus) and bad headaches.
-
 
 ---
 
@@ -98,7 +96,7 @@ These do not change the symptom but help reduce risks:
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/low-blood-pressure.jpg" alt="low-blood-pressure" class="dizziness__low-blood-pressure">
 
-For more information about blood pressure (including how to measure it), see the <a href="/learn/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page.
+For more information about blood pressure (including how to measure it), see the <a href="/information/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page.
 
 ---
 
@@ -106,7 +104,7 @@ For more information about blood pressure (including how to measure it), see the
 
 ### Questions you may be asked
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -161,7 +159,7 @@ Your healthcare professional may be able to offer reassurance, advice, or furthe
 - There may be treatment that is specific to the cause of your vertigo. For example, physical manoeuvres for treatment of BPPV.
 - If you are referred on, please be aware there is usually a waiting time before the next service will see you.
 
-See the see the <a href="/learn/managing-symptoms/mood" class="internal-link">_Mood_</a> page for more information about anxiety and the <a href="/learn/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page for more information.
+See the see the <a href="/information/managing-symptoms/mood" class="internal-link">_Mood_</a> page for more information about anxiety and the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page for more information.
 
 ---
 
@@ -179,4 +177,4 @@ See the see the <a href="/learn/managing-symptoms/mood" class="internal-link">_M
 | Parkinson’s Foundation | This is an American organisation, providing information about how vertigo and dizziness can affect people with Parkinson’s, outlining possible causes and management strategies. It forms part of a broader resource on non-movement symptoms associated with the condition. | --                                                                                                                                                     | <a href="https://www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Vertigo-Dizziness-Parkinsons" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Vertigo-Dizziness-Parkinsons</a> |
 | Parkinson’s UK         | Provides information about falls and dizziness, their causes, treatments and potential hazards in the home. <br><br>You can read information online, print it or ask it to be mailed to you.                                                                                 | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/falls-and-dizziness" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/falls-and-dizziness</a>                                                                           |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

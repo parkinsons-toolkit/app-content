@@ -46,7 +46,7 @@ Achieving a more active lifestyle can be as simple as making small changes to yo
 - Getting off the bus a stop earlier and walking the rest of the journey
 - Put things you commonly use on a higher shelf, so you have to stretch to reach them
 
-See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page for more guidance or visit <a href="https://www.parkinsons.org.uk/information-and-support/physical-activity-and-exercise" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> and see their exercise page for more advice.
+See our <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page for more guidance or visit <a href="https://www.parkinsons.org.uk/information-and-support/physical-activity-and-exercise" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> and see their exercise page for more advice.
 
 ### Diet
 
@@ -72,7 +72,7 @@ Research recommends the following advice on how to follow a healthy, balanced di
 </iframe>
 </div>
 
-See our <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more guidance.
+See our <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more guidance.
 
 ### Sleep
 
@@ -95,7 +95,7 @@ Getting good-quality sleep is vital for our mental wellbeing. There are a few th
 
 **Tip:** Some people find it helpful to write down exactly what they do each night before bed. That can raise awareness of your evening routines and help you think about how you might change that routine to help you sleep better.
 
-If you are experiencing sleep disturbance, see the <a href="/learn/managing-symptoms/sleep" class="internal-link">_Sleep Disturbances_</a> page and <a href="/learn/managing-symptoms/dreams" class="internal-link">_Dreams_</a> .
+If you are experiencing sleep disturbance, see the <a href="/information/managing-symptoms/sleep" class="internal-link">_Sleep Disturbances_</a> page and <a href="/information/managing-symptoms/dreams" class="internal-link">_Dreams_</a> .
 
 ### Relaxation
 
@@ -153,7 +153,7 @@ Complementary therapies (e.g., reflexology, aromatherapy or massage) are used al
 
 Some complementary therapies are eaten or applied to the skin. Some of these can interact with other medications you might take. Check with your GP, specialist, or Parkinson's nurse before you use these.
 
-See our <a href="/learn/treatments/complementary-therapies" class="internal-link">_Complementary Therapies_</a> page for more information.
+See our <a href="/information/treatments/complementary-therapies" class="internal-link">_Complementary Therapies_</a> page for more information.
 
 ### Problem-Solving Therapy
 
@@ -200,7 +200,7 @@ Here is some guidance on how you can work through problem-solving therapy by you
 
 It’s important to keep in mind that the goal of PST is not to solve all problems. Instead, the goal is to learn more effective problem-solving skills. This will then help you to cope more effectively with life stressors and feel more in control of your life.
 
-See the <a href="/learn/my-wellbeing" class="internal-link">_My Wellbeing_</a> section for more on how to do problem solving therapy.
+See the <a href="/information/my-wellbeing" class="internal-link">_My Wellbeing_</a> section for more on how to do problem solving therapy.
 
 ---
 
@@ -241,4 +241,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

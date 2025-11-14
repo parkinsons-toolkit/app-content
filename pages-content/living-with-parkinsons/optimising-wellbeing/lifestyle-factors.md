@@ -47,7 +47,6 @@ Your heart pushes blood around the body through a network of blood vessels, simi
 
 Many factors affect blood pressure. It varies between people and is constantly changing in any one person. This makes it difficult to define “normal” blood pressure. Parkinson’s, as well as medication used for Parkinson’s, can both cause a lower or variable blood pressure. But getting older and many lifestyle factors can cause a higher blood pressure.
 
-
 ### High blood pressure
 
 - Blood pressure increases with age and certain lifestyle factors. These include smoking, alcohol, caffeine, unhealthy diet, lack of exercise, and increased weight. It is also elevated by stress and pain.
@@ -70,12 +69,11 @@ Many factors affect blood pressure. It varies between people and is constantly c
 - Feeling generally weak
 - Feeling muddled
 
-Low blood pressure does not always require treatment but may do if you are experiencing symptoms. See the <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page for more information. Treatment of any other cause, like infection, is also important.
-
+Low blood pressure does not always require treatment but may do if you are experiencing symptoms. See the <a href="/information/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page for more information. Treatment of any other cause, like infection, is also important.
 
 ### Parkinson’s and blood pressure
 
-Parkinson’s is often linked to low blood pressure or varying blood pressure. Many people experience a drop in blood pressure when they change to a more upright position (i.e. going from sitting to standing). This is known as postural or orthostatic hypotension. For more information on this, see our <a href="/learn/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page.
+Parkinson’s is often linked to low blood pressure or varying blood pressure. Many people experience a drop in blood pressure when they change to a more upright position (i.e. going from sitting to standing). This is known as postural or orthostatic hypotension. For more information on this, see our <a href="/information/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> page.
 
 ### When should I get my blood pressure checked?
 
@@ -93,7 +91,6 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
 
 - Broken bones, or fractures, are more likely to happen if you have fragile bones and if you fall over.
 - It is recommended that everyone with Parkinson’s take vitamin D supplements to help maintain bone strength.
-
 
 <div class="video-container">
 <iframe 
@@ -135,13 +132,13 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
 
 ### Alcohol
 
-- This is covered in more detail on our <a href="/learn/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page.
+- This is covered in more detail on our <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page.
 - Guidelines recommend you drink no more than 14 units of alcohol a week (2 units = a pint of beer or a medium glass of wine)
 - If you think you drink too much alcohol, there is lots of support available. See the <a href="https://www.nhs.uk/better-health/drink-less/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> for more information.
 
 ### Cannabis
 
-There is growing interest in the use of cannabis-based products for the treatment of health conditions. You can find more about the use of Cannabis on our <a href="/learn/treatments-and-therapies/complementary-therapies" class="internal-link">_Complementary Therapies_</a> page.
+There is growing interest in the use of cannabis-based products for the treatment of health conditions. You can find more about the use of Cannabis on our <a href="/information/treatments-and-therapies/complementary-therapies" class="internal-link">_Complementary Therapies_</a> page.
 
 ---
 
@@ -150,7 +147,6 @@ There is growing interest in the use of cannabis-based products for the treatmen
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/snellen-chart.jpg" alt="Snellen-chart" class="lifestyle-factors__snellen-chart">
 
 Addressing sight or hearing deterioration may mean having treatment or aids to improve those senses. Vision and hearing are important for interacting with others and carrying out daily activities.
-
 
 ### Vision
 
@@ -196,8 +192,7 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
 - There are some simple hearing tests online if you are not sure if you have hearing difficulties. These tests can advise whether you need a full formal test or not.
 - Hearing problems are often not preventable. You can help to protect your hearing by minimising loud noise exposure. Be mindful of how loud your music plays, time spent at noisy events, and potential noise exposure at work.
 
-
-More information about healthcare costs is on our <a href="/learn/living-with-parkinsons/practical-advice-finances" class="internal-link">_Finances_</a> page. For more information about sight and hearing problems, see our <a href="/learn/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page.
+More information about healthcare costs is on our <a href="/information/living-with-parkinsons/practical-advice-finances" class="internal-link">_Finances_</a> page. For more information about sight and hearing problems, see our <a href="/information/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page.
 
 ---
 
@@ -263,7 +258,7 @@ Taking care of your teeth is really important as poor dental health can lead to 
 </iframe>
 </div>
 
-Avoiding constipation is very important in Parkinson’s. For more information, see the <a href="/learn/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> page.
+Avoiding constipation is very important in Parkinson’s. For more information, see the <a href="/information/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> page.
 
 Key ways to avoid constipation:
 
@@ -291,7 +286,7 @@ Key ways to avoid constipation:
 - If you have oily skin, use water-based products instead of oil-based products.
 - Avoid prolonged pressure through a single area of skin (e.g. sitting in the same position for a long time) as this can damage the skin.
 - Some sun exposure is good and helps your body maintain vitamin D levels. However excessive sun exposure increases the risk of skin damage and skin cancer. See the NHS website <a href="https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> for some tips on safe sun exposure.
-- See our <a href="/learn/managing-symptoms/skin-conditions" class="internal-link">_Skin Conditions_</a> page for more information on this.
+- See our <a href="/information/managing-symptoms/skin-conditions" class="internal-link">_Skin Conditions_</a> page for more information on this.
 
 ---
 
@@ -302,4 +297,4 @@ Key ways to avoid constipation:
 | NHS            | The NHS Live Well pages offer NHS advice about healthy living, including guidance on eating a balanced diet, maintaining a healthy weight, staying active, high blood pressure, quitting smoking, and drinking less alcohol. There is also information and advice about looking after your teeth and gums and specific seasonal health advice.                                                           | --                                                                                                                                                     | <a href="https://www.nhs.uk/live-well/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/live-well/</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Parkinson’s UK | Parkinson’s UK’s ‘information and support pages’ cover wide-ranging information and support resources for people affected by Parkinson’s, including guidance on symptoms, care, lifestyle, and services. These include topics such as skin problems, foot care, eye problems, low blood pressure, dental issues and bowel care. You can read this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | Information and support homepage: <a href="https://www.parkinsons.org.uk/information-and-support" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support</a><br><br>Skin and sweating problems: <a href="http://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinsons.org.uk/information-and-support/skin-and-sweating-problems</a><br><br>Foot Care: <a href="http://www.parkinsons.org.uk/information-and-support/foot-care" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinsons.org.uk/information-and-support/foot-care</a><br><br>Eye Problems: <a href="https://www.parkinsons.org.uk/information-and-support/eye-problems" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/eye-problems</a><br><br>Low Blood Pressure: <a href="https://www.parkinsons.org.uk/information-and-support/low-blood-pressure" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/low-blood-pressure</a><br><br>Bowel Problems: <a href="https://www.parkinsons.org.uk/information-and-support/bladder-and-bowel-problems" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/bladder-and-bowel-problems</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.

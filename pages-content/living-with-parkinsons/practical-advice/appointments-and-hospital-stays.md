@@ -38,7 +38,6 @@ Hospitals and GP surgeries should have interpretation services available. This w
 
 It is helpful to think about what you are expecting from the appointment. It is also helpful to think about any specific questions you wish to ask. Many people find it helpful to write them down. Appointment times can feel very short, and the healthcare professional will have questions to ask you. It is helpful to both understand each other’s expectations at the start. It may not be possible to cover everything in that one appointment. It is helpful to think if you can prioritise your concerns, perhaps by writing a numbered list.
 
-
 ### What to bring?
 
 - Any medication you need to take during the time you will be at the appointment. Also some water to take them with.
@@ -143,8 +142,7 @@ It is important for staff to know you have Parkinson’s and know your specific 
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/nurse.jpg" alt="nurse" class="appointments-and-hospital-stays__nurse">
 
-You will probably encounter lots of different professionals during your hospital stay. See <a href="/learn/treatments-and-therapies/who-may-be-involved" class="internal-link">_Who May Be Involved_</a> for more guidance on roles but always feel free to ask.
-
+You will probably encounter lots of different professionals during your hospital stay. See <a href="/information/treatments-and-therapies/who-may-be-involved" class="internal-link">_Who May Be Involved_</a> for more guidance on roles but always feel free to ask.
 
 ### Responsibilities you may still have outside hospital
 
@@ -166,7 +164,7 @@ Many people worry about things that they have left at home if they are admitted 
 - **Security and safety**: If you are worried about whether you locked the door, or left the cooker on, is there someone who could check to put your mind at ease? Is there someone who can check on your home whilst you are in hospital?
 - **Bills**: Is there someone who can step in to help while you are in hospital?
 
-See <a href="/learn/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a>, and <a href="/learn/living-with-parkinsons/practical-advice/hobbiess-and-pets" class="internal-link">_Hobbies & Pets_</a> for more guidance.
+See <a href="/information/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a>, and <a href="/information/living-with-parkinsons/practical-advice/hobbiess-and-pets" class="internal-link">_Hobbies & Pets_</a> for more guidance.
 
 ---
 
@@ -267,7 +265,6 @@ Managing medications around surgery can be complicated. This is particularly so 
 
 Some medications given in the hospital (for example medicines to reduce pain) can interact with the medications you take for your Parkinson’s. They can cause confusion, dizziness or nausea, for example. It is important to always let staff know if you don’t feel right in any way.
 
-
 ---
 
 ## Hospital policies
@@ -283,7 +280,6 @@ Single rooms are not standard for NHS care. Availability of single rooms varies 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hospital.jpg" alt="hospital" class="appointments-and-hospital-stays__hospital">
 
 Everyone staying in hospital is assessed for their risk of developing blood clots. This is a medical ‘risk-benefit decision process’ that guides the formulation of a plan. This plan may sometimes involve a small daily injection of a blood thinning medicine to reduce the risk of blood clots. If you have any questions, ask the team looking after you.
-
 
 ### Preventing spread of infection
 
@@ -355,13 +351,13 @@ Note it is important to communicate any changes in your living arrangements. Thi
 
 Decisions about health and care should be taken together with your healthcare professional. This is shared decision making. The healthcare professional gives you advice, and you have the final decision. This does not mean you can demand a treatment that is not thought to be right for you by professionals, but that you are in control of your care.
 
-Sometimes thinking and memory problems can interfere with a person’s ability to make decisions. If this is the case, they may ‘lack capacity’ to make the decision. Capacity can be different for different decisions, this is usually due to complexity. It can also vary over time. See <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> for more information on what happens if someone ‘lacks capacity’ for the decisions around their care.
+Sometimes thinking and memory problems can interfere with a person’s ability to make decisions. If this is the case, they may ‘lack capacity’ to make the decision. Capacity can be different for different decisions, this is usually due to complexity. It can also vary over time. See <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> for more information on what happens if someone ‘lacks capacity’ for the decisions around their care.
 
 If someone lacks capacity to consent to the hospital admission and care, and they require constant supervision, then a legal process must be followed. This is known as ‘Deprivation of Liberty Safeguards’ (DOLS). This is to protect them and make sure decisions are taken in their ‘best interests’. In some cases this may involve keeping them in hospital even when they say they want to go home.
 
 This is if being treated in hospital is in their best interests.
 
-Some people will have a Power of attorney in place, in which case the healthcare professionals will include them in decision making. Please see <a href="/learn/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> for further details about this.
+Some people will have a Power of attorney in place, in which case the healthcare professionals will include them in decision making. Please see <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> for further details about this.
 
 If someone has a mental health problem that causes them to be at serious risk to themselves or others, then a legal framework may be used to make some health decisions for them. This could be to stay in hospital, or for treatment for the mental health problem. The law that is followed is the Mental Health Act.
 

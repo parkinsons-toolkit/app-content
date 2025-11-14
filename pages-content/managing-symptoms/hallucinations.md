@@ -35,7 +35,6 @@ Hallucinations, visual illusions, and delusions may occur in people with Parkins
 - Are more common in people experiencing “off” times with their medications
 - Are more common in people experiencing lots of sleeping/waking problems
 
-
 **Non-Parkinson’s causes of hallucinations, illusions, and delusions:**
 
 - **Delirium**: when someone becomes unwell due to other new stresses on the body, such as from infection or chemical imbalances in the blood. This is more common in older people and those with memory problems. It also causes a change in alertness: someone with delirium may be more drowsy, hyperactive or changing between these.
@@ -80,7 +79,7 @@ It is important to discuss the hallucinations, illusions, and/or delusions with 
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/learn/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -147,4 +146,4 @@ Medication is only used in severe cases where the problem is causing distress.
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Parkinson’s UK | Provides information about hallucinations and delusions, including causes and ways to manage these. <br><br>You can view this information online, print it or get it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/hallucinations-and-delusions-side-effect" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/hallucinations-and-delusions-side-effect</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/learn/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
