@@ -1,5 +1,21 @@
 # Dream Disturbance
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [What might be causing it?](#what-might-be-causing-it)
+- [What should I do about it?](#what-should-i-do-about-it)
+- [What can I try for myself?](#what-can-i-try-for-myself)
+- [Further Assessment](#further-assessment)
+- [Further Treatments](#further-treatments)
+- [Key Messages](#key-messages)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 Many people with Parkinson’s experience vivid dreams. For some this is no problem, but for others it can cause distress or disrupt sleep. This can impact how you feel in the daytime. Movement changes during dreams are also a symptom of Parkinson’s.
 
 <div class="video-container">

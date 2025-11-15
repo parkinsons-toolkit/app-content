@@ -1,5 +1,21 @@
 # Restless Legs
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [What Might Be Causing It?](#what-might-be-causing-it)
+- [What Should I Do About It?](#what-should-i-do-about-it)
+- [What Can I Try for Myself?](#what-can-i-try-for-myself)
+- [Further Assessment](#further-assessment)
+- [Further Treatments](#further-treatments)
+- [Key Messages](#key-messages)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 <div class="video-container">
 <iframe
   width="560"

@@ -1,5 +1,22 @@
 # Appointments & Hospital Stays
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [Appointments](#appointments)
+- [Staying in Hospital](#staying-in-hospital)
+- [Minimising Hospital Risks](#minimising-hospital-risks)
+- [Delirium](#delirium)
+- [Hospital policies](#hospital-policies)
+- [Discharge from hospital](#discharge-from-hospital)
+- [Decision making](#decision-making)
+- [More Information](#more-information)
+
+</div>
+
+---
+
 ---
 
 ## Appointments

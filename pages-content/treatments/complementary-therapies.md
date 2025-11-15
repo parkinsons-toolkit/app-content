@@ -1,5 +1,20 @@
 # Complementary Therapies
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [What are they?](#what-are-they)
+- [Potential Benefits](#potential-benefits)
+- [Potential Risks](#potential-risks)
+- [My Experience](#my-experience)
+- [How do I access these?](#how-do-i-access-these)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 **Complementary therapies** are a group of therapies that have until recently stood outside of usual Western healthcare. They are becoming increasingly used together with mainstream medicine. An example would be using acupuncture as well as the more usual pain- killing tablets to help lessen discomfort following surgery.
 
 <div class="video-container">

@@ -1,5 +1,21 @@
 # Work and Caring
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [Working with Parkinson’s](#working-with-parkinsons)
+- [Adjustments at Work](#adjustments-at-work)
+- [Time Off Work](#time-off-work)
+- [Voluntary Work](#voluntary-work)
+- [Caring for Others and Being Cared For](#caring-for-others-and-being-cared-for)
+- [My Experience](#my-experience)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 A diagnosis of Parkinson’s does not mean you have to leave your job or not work again. Many people with Parkinson’s can still work. The important thing to consider is how the symptoms of Parkinson’s may impact your work and day-to-day life.
 
 ---

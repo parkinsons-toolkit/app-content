@@ -1,5 +1,21 @@
 # Legal Matters
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [Insurance](#insurance)
+- [Powers of Attorney](#powers-of-attorney)
+- [Formally Recording Future Wishes](#formally-recording-future-wishes)
+- [My Experience](#my-experience)
+- [Wills](#wills)
+- [Discrimination](#discrimination)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 <div class="video-container">
 <iframe 
   width="560" 

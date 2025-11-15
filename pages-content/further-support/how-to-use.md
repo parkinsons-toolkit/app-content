@@ -1,5 +1,21 @@
 # How to use this toolkit
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Navigation Guide](#navigation-guide)
+- [Features Overview](#features-overview)
+- [How to Personalise](#how-to-personalise)
+- [How to Manage Access](#how-to-manage-access)
+- [Self-Management](#self-management)
+- [Making Changes & Keeping on Track](#making-changes-keeping-on-track)
+
+</div>
+
+---
+
 Within this section you can find a guide and further advice on how to navigate and use the _Live Well with Parkinson's_ toolkit effectively.
 
 ## Getting Started

@@ -1,5 +1,22 @@
 # Saliva Problems
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [What might be causing it?](#what-might-be-causing-it)
+- [What should I do about it?](#what-should-i-do-about-it)
+- [What can I try for myself?](#what-can-i-try-for-myself)
+- [My Experience](#my-experience)
+- [Further Assessment](#further-assessment)
+- [Further Treatments](#further-treatments)
+- [Key Messages](#key-messages)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 People with Parkinson’s can get problems with their saliva. Sometimes drooling or dribbling can happen. This can cause irritation, infection, or cracks around your mouth. This in turn can make talking, laughing, eating or drinking an issue.
 
 Other people with Parkinson’s may experience dry mouth. This can lead to dental problems, which can be unpleasant and also increase the chance of chest infections. It can feel uncomfortable and make the breath smell.

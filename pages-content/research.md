@@ -1,5 +1,19 @@
 # Research
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [Taking Part in Research](#taking-part-in-research)
+- [Different Types of Research Studies](#different-types-of-research-studies)
+- [What Links Have Been Found to Parkinson's?](#what-links-have-been-found-to-parkinsons)
+- [New Drug and Treatment Trials](#new-drug-and-treatment-trials)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 Research plays an important role in increasing our knowledge of human health and wellbeing. Taking part in research can be an empowering way to take a positive step towards understanding how best to treat or manage a health condition, such as Parkinson’s.
 
 This section has 2 key parts:

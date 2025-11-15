@@ -1,5 +1,34 @@
 # Guidance for Families and Carers
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [Looking after your general wellbeing](#looking-after-your-general-wellbeing)
+- [My Experience](#my-experience)
+- [Coping with stress](#coping-with-stress)
+- [Tips for coping with stress](#tips-for-coping-with-stress)
+- [Traps to avoid](#traps-to-avoid)
+- [My Experience](#my-experience)
+- [Coping with low mood and depression](#coping-with-low-mood-and-depression)
+- [My Experience](#my-experience)
+- [Coping with anxiety](#coping-with-anxiety)
+- [Coping with uncertainty](#coping-with-uncertainty)
+- [My Experience](#my-experience)
+- [Coping with guilt](#coping-with-guilt)
+- [Coping with loss and grief](#coping-with-loss-and-grief)
+- [Accepting help](#accepting-help)
+- [Coping with changes in relationships](#coping-with-changes-in-relationships)
+- [Coping with changes to sexual relationships](#coping-with-changes-to-sexual-relationships)
+- [Coping with later stages of Parkinson’s](#coping-with-later-stages-of-parkinsons)
+- [Coping with changes in thinking and behaviour](#coping-with-changes-in-thinking-and-behaviour)
+- [Coping with the future](#coping-with-the-future)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 <div class="video-container">
 <iframe 
   width="560" 

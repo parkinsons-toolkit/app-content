@@ -1,5 +1,23 @@
 # Keeping Active
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [What is “Keeping Active”?](#what-is-keeping-active)
+- [What should I do?](#what-should-i-do)
+- [Things to Consider in Parkinson’s](#things-to-consider-in-parkinsons)
+- [Putting it all Together](#putting-it-all-together)
+- [How to do this?](#how-to-do-this)
+- [Overcoming Barriers](#overcoming-barriers)
+- [Practical Considerations](#practical-considerations)
+- [My Experience](#my-experience)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 Research studies have shown broad benefits of exercise in Parkinson’s. Activity is good for many aspects of life:
 
 - Mobility

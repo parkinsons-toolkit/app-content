@@ -1,5 +1,21 @@
 # Progression of Symptoms in Parkinson’s
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [Dealing with Progression](#dealing-with-progression)
+- [My Experience](#my-experience)
+- [Progression of Symptoms](#progression-of-symptoms)
+- [My Experience\*\*](#my-experience)
+- [Dementia](#dementia)
+- [Swallowing Problems & Chest Infections](#swallowing-problems-chest-infections)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 <div class="video-container">
 <iframe 
   width="560" 

@@ -1,5 +1,25 @@
 # Future Care Options
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [Accepting Help](#accepting-help)
+- [Decisions About Your Care](#decisions-about-your-care)
+- [Lasting Power of Attorney (LPA)](#lasting-power-of-attorney-lpa)
+- [My Experience](#my-experience)
+- [Recording your wishes: Advance Care Planning](#recording-your-wishes-advance-care-planning)
+- [Why Future Care Planning is Important](#why-future-care-planning-is-important)
+- [How Family and Friends Can Support](#how-family-and-friends-can-support)
+- [What if more support is neededed?](#what-if-more-support-is-neededed)
+- [Medical Decisions](#medical-decisions)
+- [Health & care priorities](#health-care-priorities)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 Planning for the future when living with Parkinson’s can feel overwhelming, but having a plan in place can ease stress for both you and your loved ones. Making decisions early gives you more control over your care and helps ensure that your wishes are honoured as the disease progresses.
 
 Future care planning often includes two important tools: **Lasting Power of Attorney (LPA)** and **Advance Decisions (Living Wills)**.

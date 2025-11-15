@@ -1,5 +1,19 @@
 # Services & Groups
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [General Resources](#general-resources)
+- [Peer Support](#peer-support)
+- [My Experience](#my-experience)
+- [Services by Topic](#services-by-topic)
+- [Accessing Private Services](#accessing-private-services)
+
+</div>
+
+---
+
 **<ins>You are not alone</ins>**
 
 It can feel overwhelming trying to find it, but there is help out there. This website aims to provide you with information and guidance to help you to Live Well with Parkinson’s. At the end of each guidance topic there are resources for if you want more information.

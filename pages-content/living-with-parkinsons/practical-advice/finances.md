@@ -1,5 +1,24 @@
 # Finances
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [Paying Bills and Budgeting](#paying-bills-and-budgeting)
+- [Government Benefits](#government-benefits)
+- [Other financial support…](#other-financial-support)
+- [VAT Relief](#vat-relief)
+- [My Experience](#my-experience)
+- [Prescription Charges/Prescription Prepayment Certificate (PPC)](#prescription-chargesprescription-prepayment-certificate-ppc)
+- [Help with Travel Costs](#help-with-travel-costs)
+- [Costs of Equipment, Housing & Care](#costs-of-equipment-housing-care)
+- [Continuing Healthcare Funding](#continuing-healthcare-funding)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 <div class="video-container">
 <iframe 
   width="560" 

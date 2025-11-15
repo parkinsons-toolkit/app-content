@@ -1,5 +1,18 @@
 # Newly Diagnosed
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [What can I do for myself?](#what-can-i-do-for-myself)
+- [What do I need to do?](#what-do-i-need-to-do)
+- [My Experience](#my-experience)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 <div class="video-container">
 <iframe 
   width="560" 

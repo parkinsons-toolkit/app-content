@@ -1,5 +1,22 @@
 # Pain
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [What might be causing it?](#what-might-be-causing-it)
+- [What can I try for myself?](#what-can-i-try-for-myself)
+- [What should I do about it?](#what-should-i-do-about-it)
+- [My Experience](#my-experience)
+- [Further Assessment](#further-assessment)
+- [Further Treatments](#further-treatments)
+- [Key Messages](#key-messages)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 <div class="video-container">
 <iframe 
   width="560" 

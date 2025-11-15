@@ -1,5 +1,19 @@
 # Stiffness, Slowness & Small Movements
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [My Experience](#my-experience)
+- [Further assessment](#further-assessment)
+- [Further treatments](#further-treatments)
+- [Key Messages](#key-messages)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 <div class="video-container">
 <iframe
   width="560"

@@ -1,5 +1,20 @@
 # Who May Be Involved?
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [Individuals: Who’s Who?](#individuals-whos-who)
+- [Specialties: What's what?](#specialties-whats-what)
+- [Organisational Level](#organisational-level)
+- [Private Healthcare](#private-healthcare)
+- [Home Help vs Home Care](#home-help-vs-home-care)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 Parkinson’s care often involves a **Multi-Disciplinary Team (MDT)** approach, meaning multiple healthcare professionals work together to manage your care. As such, you may come across a wide range of professionals, and the team members you meet will depend on your individual needs and condition.
 
 Throughout your Parkinson’s journey, your health professionals, including your GP or specialist, may ask for other professionals to be involved in your care. This will vary between individuals living with Parkinson’s depending on the symptoms and challenges they experience. Read on to learn more about which specialists maybe involved if you need them.

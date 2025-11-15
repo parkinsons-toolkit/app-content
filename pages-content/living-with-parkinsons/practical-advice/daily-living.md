@@ -1,5 +1,27 @@
 # Daily Living
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [What can I try for myself?](#what-can-i-try-for-myself)
+- [My Experience](#my-experience)
+- [My Experience](#my-experience)
+- [What equipment might help?](#what-equipment-might-help)
+- [My Experience](#my-experience)
+- [Advice on Buying Equipment](#advice-on-buying-equipment)
+- [Who Can Help?](#who-can-help)
+- [Home Help](#home-help)
+- [Home Care](#home-care)
+- [For both 'Home help' & 'Home care' – things to Ask About:](#for-both-home-help-home-care-things-to-ask-about)
+- [Where Can I Get Help?](#where-can-i-get-help)
+- [My Experience](#my-experience)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 <div class="video-container">
 <iframe 
   width="560" 

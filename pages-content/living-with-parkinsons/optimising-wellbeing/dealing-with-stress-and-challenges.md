@@ -1,5 +1,17 @@
 # Dealing with Stress and Challenges
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [What can I do?](#what-can-i-do)
+- [My Experience](#my-experience)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 Stress can often make symptoms such as tremor worse. Learning how to cope with stressful life events can help you to manage symptoms and maintain a good quality of life.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/overcome-stress.jpg" alt="overcome-stress" class="dealing-with-stress-and-challenges__overcome-stress">

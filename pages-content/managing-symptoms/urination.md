@@ -1,5 +1,23 @@
 # Urinary Symptoms
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [What might be causing it?](#what-might-be-causing-it)
+- [What should I do about it?](#what-should-i-do-about-it)
+- [What can I try for myself?](#what-can-i-try-for-myself)
+- [My Experience](#my-experience)
+- [Further assessment](#further-assessment)
+- [Further treatments](#further-treatments)
+- [Key messages](#key-messages)
+- [Where to get incontinence products](#where-to-get-incontinence-products)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 <div class="video-container">
 <iframe 
   width="560" 

@@ -1,5 +1,22 @@
 # Hallucinations & Related Symptoms
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [What might be causing it?](#what-might-be-causing-it)
+- [<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hallucination.jpg" alt="hallucination-delirium" class="hallucinations__hallucination">](#)
+- [What should I do about it?](#what-should-i-do-about-it)
+- [What can I try for myself?](#what-can-i-try-for-myself)
+- [Further Assessment](#further-assessment)
+- [Further treatments](#further-treatments)
+- [Key messages](#key-messages)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 <div class="video-container">
 <iframe 
   width="560" 

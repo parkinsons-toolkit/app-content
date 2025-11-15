@@ -1,5 +1,20 @@
 # Preparing for End of Life
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [Preparation](#preparation)
+- [Place of Care](#place-of-care)
+- [Medicines towards end of life](#medicines-towards-end-of-life)
+- [After Death](#after-death)
+- [Donation to medical science](#donation-to-medical-science)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/candles.jpg" alt="candles" class="end-of-life__candles">
 
 Regardless of health conditions, for many people, the thought of dying is wrapped up in fear and uncertainty. Attitudes are influenced by culture, religion, family and our life experiences.

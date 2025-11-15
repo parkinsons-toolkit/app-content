@@ -1,5 +1,24 @@
 # Medications
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [Commonly Used Medications](#commonly-used-medications)
+- [Other Medications](#other-medications)
+- [Side effects of Parkinson’s medications](#side-effects-of-parkinsons-medications)
+- [Who should I talk to about my medication?](#who-should-i-talk-to-about-my-medication)
+- [Getting Medication](#getting-medication)
+- [Taking Medication](#taking-medication)
+- [My Experience](#my-experience)
+- [Organising Medication](#organising-medication)
+- [My Experience](#my-experience)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 There are a range of medicines available to help manage the symptoms of Parkinson’s. At present, no medication is known to change or cure the underlying disease process. However, medication can effectively improve the symptoms. Treating symptoms earlier will help you to keep well and active which is beneficial in the longer term. Medicine can be adjusted to match your own symptoms, needs and preferences.
 
 The underlying changes in Parkinson’s are complex. One characteristic of Parkinson’s is reduced levels of **dopamine**. This is a chemical messenger in the brain. Most of the medicines for Parkinson’s work in different ways to improve dopamine messaging.

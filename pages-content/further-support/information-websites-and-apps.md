@@ -1,5 +1,21 @@
 # Information, Websites & Apps
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [Websites](#websites)
+- [Apps](#apps)
+- [Podcasts](#podcasts)
+- [Books](#books)
+- [Electronic Devices](#electronic-devices)
+- [How to know if information is reliable](#how-to-know-if-information-is-reliable)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 When diagnosed with Parkinson’s, you may want to seek out extra information to that given by the health professionals supporting you. This can help you to better understand the condition and understand how to manage any symptoms. There are a number of places you can find information. This can be on the internet, from applications (‘apps’), in books, libraries, information organisations such as Citizens Advice, and from support groups. There can be a huge amount of information to take in. This can be especially so when searching the internet or when downloading health apps to your electronic device. The information may seem to be contradictory, and it can sometimes feel confusing to know what information is accurate. It can also be hard to know what information to use for yourself. It is always good to ask the health professionals around you any questions you have, and about the extra information you have found.
 
 This section provides guidance on the different sources of information and some examples of good sources of information.

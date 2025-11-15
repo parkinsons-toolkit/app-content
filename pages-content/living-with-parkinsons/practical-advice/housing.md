@@ -1,5 +1,20 @@
 # Housing
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [Staying in your Own Home](#staying-in-your-own-home)
+- [Home adaptations](#home-adaptations)
+- [Making Adaptations](#making-adaptations)
+- [Finding a new home](#finding-a-new-home)
+- [What can I do myself?](#what-can-i-do-myself)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 <div class="video-container">
 <iframe 
   width="560" 

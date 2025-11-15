@@ -1,5 +1,24 @@
 # Anxiety
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [Common symptoms of anxiety](#common-symptoms-of-anxiety)
+- [What sorts of things are people with Parkinson’s anxious about?](#what-sorts-of-things-are-people-with-parkinsons-anxious-about)
+- [What might be causing it?](#what-might-be-causing-it)
+- [What should I do about it?](#what-should-i-do-about-it)
+- [What can I try for myself?](#what-can-i-try-for-myself)
+- [My Experience](#my-experience)
+- [Further Assessment](#further-assessment)
+- [Further Treatments](#further-treatments)
+- [Key Messages](#key-messages)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 Anxiety is the feeling of worry or fear, including a general sense of unease. This feeling can range in intensity from mild to severe.
 
 <div class="video-container">

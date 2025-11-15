@@ -1,5 +1,27 @@
 # Eating Well
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [What is a balanced diet in more detail?](#what-is-a-balanced-diet-in-more-detail)
+- [Diet and medication](#diet-and-medication)
+- [Diet and Constipation](#diet-and-constipation)
+- [Diet and low blood pressure](#diet-and-low-blood-pressure)
+- [Alcohol](#alcohol)
+- [Swallowing difficulties](#swallowing-difficulties)
+- [Maintaining healthy weight](#maintaining-healthy-weight)
+- [Supplements](#supplements)
+- [When to see a dietician?](#when-to-see-a-dietician)
+- [Understanding Food Groups](#understanding-food-groups)
+- [Getting Required Nutrients](#getting-required-nutrients)
+- [Vegan Diets](#vegan-diets)
+- [Useful Organisations & Contatcs](#useful-organisations-contatcs)
+
+</div>
+
+---
+
 <div class="video-container">
 <iframe 
   width="560" 

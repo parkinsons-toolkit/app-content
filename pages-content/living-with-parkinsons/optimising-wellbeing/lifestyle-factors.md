@@ -1,5 +1,24 @@
 # Lifestyle Factors
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [Vaccinations](#vaccinations)
+- [Blood Pressure](#blood-pressure)
+- [Bone Health](#bone-health)
+- [Lifestyle Choices](#lifestyle-choices)
+- [Vision & Hearing](#vision-hearing)
+- [Foot Care](#foot-care)
+- [Dental Care](#dental-care)
+- [Bowel Care](#bowel-care)
+- [Skin Care](#skin-care)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 As well as managing Parkinson’s, there are general medical recommendations to improve long-term health. The following advice is based on general NHS guidance, tailored for people with Parkinson’s. The focus is on things you can do, or support you can access, that may help to prevent problems in the future.
 
 ## Vaccinations

@@ -1,5 +1,23 @@
 # Hobbies & Pets
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [My Experience](#my-experience)
+- [Maintaining hobbies](#maintaining-hobbies)
+- [What can I try?](#what-can-i-try)
+- [My Experience](#my-experience)
+- [What support is available?](#what-support-is-available)
+- [Caring for pets](#caring-for-pets)
+- [What support is available?](#what-support-is-available)
+- [Alternatives to owning a pet](#alternatives-to-owning-a-pet)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 <div class="video-container">
 <iframe 
   width="560" 

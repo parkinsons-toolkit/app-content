@@ -1,5 +1,19 @@
 # Reading, Writing and Technology
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [Reading](#reading)
+- [Writing](#writing)
+- [Using Technology - Computers](#using-technology-computers)
+- [Using Technology - Mobile Phones](#using-technology-mobile-phones)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 Reading, writing, and using technology may be more difficult for people with Parkinson’s. This can be due to a combination of factors, and we will explore each issue in detail below.
 
 ---

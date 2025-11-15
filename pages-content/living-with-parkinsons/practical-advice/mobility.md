@@ -1,5 +1,19 @@
 # Mobility
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [What should I do about it?](#what-should-i-do-about-it)
+- [What can I try for myself?](#what-can-i-try-for-myself)
+- [Equipment and Aids](#equipment-and-aids)
+- [My Experience](#my-experience)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 Mobility is quite a broad term and includes:
 
 - Walking around

@@ -1,5 +1,23 @@
 # Balance & Falls
 
+<div class="table-of-contents">
+
+## Table of Contents
+
+- [What might be causing it?](#what-might-be-causing-it)
+- [What should I do about it?](#what-should-i-do-about-it)
+- [What can I try for myself?](#what-can-i-try-for-myself)
+- [Tips to prevent falls](#tips-to-prevent-falls)
+- [My Experience](#my-experience)
+- [Further assessment](#further-assessment)
+- [Further treatments](#further-treatments)
+- [Key messages](#key-messages)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
+
+</div>
+
+---
+
 <div class="video-container">
 <iframe 
   width="560" 
