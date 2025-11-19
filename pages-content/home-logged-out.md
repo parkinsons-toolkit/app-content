@@ -56,10 +56,10 @@
 ### Toolkit Impact
 | **What we measured** | **What we found** |
 |-----------------------|--------------------|
-| High Usage | 82% used it often |
+| High Usage | 82% reported frequent use |
 | Helpful for Symptoms | 87% found it useful |
-| NHS Savings | Fewer A&E visits and hospital stays |
-| Improved Health | Better mobility and wellbeing |
+| Cost Savings | Saves NHS costs due to lower A&E and hospital admissions |
+| Improved Health | Better mobility, daily activities, mental health |
 
 Read the full findings on the UCL website: <a href="https://www.ucl.ac.uk/brain-sciences/ion/research/research-departments/department-clinical-and-movement-neurosciences/centres-and-projects/personalised-care-people-parkinsons-disease-study" class="external-link" target="_blank" rel="noopener noreferrer">**UCL's PD-Care Study Pages**</a>
 
