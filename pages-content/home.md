@@ -59,4 +59,4 @@ It also gives simple tips, how often to update your information, and how to make
 
 _Live Well with Parkinson’s_ was developed by the **Personalised Care for Parkinson’s Disease (PD-Care) team at University College London**. 
 
-For more information on the PD-Care research study, please visit <a href="www.ucl.ac.uk/pd-care" class="external-link" target="_blank" rel="noopener noreferrer">**UCL's PD-Care Study Pages**</a> or you can ask the research team.
+For more information on the PD-Care research study, please visit <a href="www.ucl.ac.uk/pd-care" class="external-link" target="_blank" rel="noopener noreferrer">**UCL's PD-Care Study Pages**</a>.
