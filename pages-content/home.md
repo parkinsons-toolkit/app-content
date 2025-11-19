@@ -19,18 +19,19 @@ There are two main areas of the toolkit:
 1. **Information Pages**
 
    These include:
-   - **What is Parkinson’s**
-   - **Newly Diagnosed**
-   - **Treatments & Therapies**
-   - **Managing Symptoms**
-   - **Living with Parkinson’s**
-   - **Research**
-   - **Further Support**
+   - <a href="/information/what-is-parkinsons" class="internal-link">_What is Parkinson’s_</a>
+   - <a href="/information/newly-diagnosed" class="internal-link">_Newly Diagnosed_</a>
+   - <a href="/information/treatments/treatments-and-therapies" class="internal-link">_Treatments & Therapies_</a>
+   - <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a>
+   - <a href="/information/living-with-parkinsons/living-with-parkinsons" class="internal-link">_Living with Parkinson’s_</a>
+   - <a href="/information/research" class="internal-link">_Research_</a>
+   - <a href="/information/further-support/further-support" class="internal-link">_Further Support_</a>
      Click any page to learn more.
    
      _Tip: if there is something specific you are looking for and can’t find it, use the search box to type what you are looking for e.g., Medication. When you find the page, press Crtl + F. This will open a new search box where you can type the words you are looking for e.g. side effects._
 
 3. **Personalised Pages**
+
    These are personal to you. They help you record symptoms, set goals, keep track of your health, and more.
 
 - You can access these sections one of two ways, depending on what device you are using, by clicking one of the links along the top or by clicking **pencil icon** on the top right of the page.
