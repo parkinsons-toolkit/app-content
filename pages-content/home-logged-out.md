@@ -35,6 +35,8 @@
   - Track symptoms, medication, and activities  
   - Set and review wellbeing goals  
 
+[Learn More](#what-is-the-ucl-live-well-with-parkinsons-toolkit)
+
 ---
 
 ## What People Say
@@ -44,13 +46,6 @@
 
 ---
 
-## Learn More
-Read the full findings on the UCL website: [Link to findings]
-
-## [Image Placeholder]
-*(Add an engaging image here to motivate sign-up)*
-
----
 
 ## Key Benefits
 - Better mobility and daily activities  
@@ -67,6 +62,10 @@ Read the full findings on the UCL website: [Link to findings]
 | Helpful for Symptoms | 87% found it useful |
 | NHS Savings | Fewer A&E visits and hospital stays |
 | Improved Health | Better mobility and wellbeing |
+
+Read the full findings on the UCL website: [Link to findings]
+
+[Image Placeholder]
 
 ---
 
