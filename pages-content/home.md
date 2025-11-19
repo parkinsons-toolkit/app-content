@@ -12,7 +12,7 @@ There are two key areas of the toolkit:
 
 1. **Information** pages (**What is Parkinson’s**, **Newly Diagnosed**, **Treatments & Therapies**, **Managing Symptoms**, **Living with Parkinson’s**, **Research**, **Further Support**) – where you can click into each page for more information which might interest you.
 
-_Tip: if there is something specific you are looking for and can’t find it, use the search box to type what you are looking for e.g., Medication. When you find the page, press Crtl + F. This will open a new search box where you can type the words you are looking for e.g. side effects._
+  _Tip: if there is something specific you are looking for and can’t find it, use the search box to type what you are looking for e.g., Medication. When you find the page, press Crtl + F. This will open a new search box where you can type the words you are looking for e.g. side effects._
 
 2. **Personalised** pages – which are personal to you and allows you to record your symptoms, set objectives, and more.
 
