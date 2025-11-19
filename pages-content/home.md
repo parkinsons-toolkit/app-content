@@ -17,6 +17,7 @@ We can can also help you to make the most out of your appointments with healthca
 There are two main areas of the toolkit:
 
 1. **Information Pages**
+
    These include:
    - **What is Parkinson’s**
    - **Newly Diagnosed**
@@ -29,7 +30,7 @@ There are two main areas of the toolkit:
    
      _Tip: if there is something specific you are looking for and can’t find it, use the search box to type what you are looking for e.g., Medication. When you find the page, press Crtl + F. This will open a new search box where you can type the words you are looking for e.g. side effects._
 
-2. **Personalised Pages**
+3. **Personalised Pages**
    These are personal to you. They help you record symptoms, set goals, keep track of your health, and more.
 
 - You can access these sections one of two ways, depending on what device you are using, by clicking one of the links along the top or by clicking **pencil icon** on the top right of the page.
