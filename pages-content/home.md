@@ -55,7 +55,7 @@ Helpful videos on using the toolkit are in the _Further Support_ section under <
 
 It also gives simple tips, how often to update your information, and how to make charts and reports to share with your healthcare team.
 
-----------------------------------------------------------------------------------------------------------------------------------
+---
 
 _Live Well with Parkinson’s_ was developed by the **Personalised Care for Parkinson’s Disease (PD-Care) team at University College London**. 
 
