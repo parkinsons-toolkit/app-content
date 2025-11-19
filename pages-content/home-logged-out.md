@@ -61,7 +61,7 @@
 | NHS Savings | Fewer A&E visits and hospital stays |
 | Improved Health | Better mobility and wellbeing |
 
-Read the full findings on the UCL website: <a href="www.ucl.ac.uk/pd-care" class="external-link" target="_blank" rel="noopener noreferrer">**UCL's PD-Care Study Pages**</a>.
+Read the full findings on the UCL website: <a href="https://www.ucl.ac.uk/brain-sciences/ion/research/research-departments/department-clinical-and-movement-neurosciences/centres-and-projects/personalised-care-people-parkinsons-disease-study" class="external-link" target="_blank" rel="noopener noreferrer">**UCL's PD-Care Study Pages**</a>
 
 [Image Placeholder]
 
