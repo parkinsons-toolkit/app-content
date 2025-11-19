@@ -9,12 +9,10 @@
 ---
 
 ## Take Control of Your Parkinson's  
-This toolkit helps you manage your Parkinson’s between appointments.  
-It can improve your health and reduce hospital visits.  
+- This toolkit helps you manage your Parkinson’s between appointments.
+- Improving patient outcomes and reducing unplanned hospital admissions. 
 
 **[Sign up for free today → Join Now]**
-
-[Learn More](#what-is-the-ucl-live-well-with-parkinsons-toolkit)
 
 ---
 
