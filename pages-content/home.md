@@ -4,6 +4,7 @@ The _Live Well with Parkinson's_ toolkit is here to help you:
 - **Learn more about Parkinson’s** – Read our information pages to understand symptoms, treatments, and tips for staying active and healthy.
 - **Build skills to manage your condition** – Find steps you can take to live well with Parkinson’s.
 - **Feel confident in managing your health** – Keep your medical and personal records in one place.
+
 We can can also help you to make the most out of your appointments with healthcare professionals, including keeping a detailed record of any symptoms your experiencing.
 
 ---
