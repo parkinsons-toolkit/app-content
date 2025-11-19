@@ -4,51 +4,76 @@
 
 ---
 
-### Empowering Self-Management Between Appointments  
-Improving patient outcomes, reducing unplanned hospital admissions, and saving costs for the NHS.
-
-[Learn More](#what-is-the-ucl-live-well-with-parkinsons-toolkit)
-
-  
-| **Metric**                | **Result**                                |
-|---------------------------|-------------------------------------------|
-| **High Usage**            | **82%** reported frequent use             |
-| **Helpful for Symptoms**  | **87%** found it useful                   |
-| **Cost Savings**          | **£1,459 per person** reduction in costs  |
-| **Improved Health**       | Better mobility, daily activities, mental health |
+[Promo Video Placeholder]
 
 ---
 
-### Why It Matters
+## Take Control of Your Parkinson's  
+This toolkit helps you manage your Parkinson’s between appointments.  
+It can improve your health and reduce hospital visits.  
+
+**[Sign up for free today → Join Now]**
+
+[Learn More](#what-is-the-ucl-live-well-with-parkinsons-toolkit)
+
+---
+
+## Why It Matters
 - **Fills a gap in care**: A trusted source of information that boosts confidence in managing Parkinson’s day-to-day.  
 - **Greatest benefit for underserved groups**: People in rural and deprived areas saw the largest improvements.  
 
 ---
 
-## Key Outcomes
-- Significant improvements in **mobility**, **daily activities**, **mental health**, and **overall health**  
-- **Fewer hospital admissions**, reducing strain on NHS resources  
-- **Empowered self-management**, leading to better quality of life  
+## What Is the Toolkit?
+
+### How It Was Made
+- Based on research and interviews  
+- Designed with patients and health professionals  
+- Tested in a national trial  
+
+### What’s Inside
+- Clear information on symptoms, treatments, and wellbeing  
+- Tools to:  
+  - Track symptoms, medication, and activities  
+  - Set and review wellbeing goals  
 
 ---
 
-## What Is the **UCL Live Well with Parkinson’s Toolkit**?
-
-### Development
-- Built through **literature synthesis**, **qualitative interviews**, and **co-design workshops**  
-- Reviewed by **GPs, neurologists, nurse specialists, and patients**  
-- Tested in a **national trial**  
-
-### Content
-- Clear information on **symptoms**, **treatments**, and **wellbeing**  
-- Personalised sections for:
-  - Symptom, medication, and activity monitoring  
-  - Setting and reviewing wellbeing priorities  
+## What People Say
+> “You don’t want to trouble the professionals every time you have a question. So, in that aspect, I am really relying on this toolkit now.”  
+>  
+> “The help and knowledge in the toolkit has given me confidence to manage… I have been going through these breathing exercises to help me, and it certainly seems to be very useful.”  
 
 ---
 
-## What Users Said
+## Learn More
+Read the full findings on the UCL website: [Link to findings]
 
-> “You don’t want to trouble the professionals every time you have a question. So, in that aspect, I am really relying on this toolkit now.”
+## [Image Placeholder]
+*(Add an engaging image here to motivate sign-up)*
 
-> “The help and knowledge in the toolkit has given me confidence to manage… I have been going through these breathing exercises to help me, and it certainly seems to be very useful.”
+---
+
+## Key Benefits
+- Better mobility and daily activities  
+- Improved mental health  
+- Fewer hospital visits, saving NHS resources  
+- More confidence in self-management  
+
+---
+
+### Toolkit Impact
+| **What we measured** | **What we found** |
+|-----------------------|--------------------|
+| High Usage | 82% used it often |
+| Helpful for Symptoms | 87% found it useful |
+| NHS Savings | Fewer A&E visits and hospital stays |
+| Improved Health | Better mobility and wellbeing |
+
+---
+
+## Ready to Start?
+**Take control of your Parkinson’s – sign up for free today!**  
+[Click here to join →]
+
+---
