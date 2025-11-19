@@ -33,15 +33,13 @@
 - Clear information on symptoms, treatments, and wellbeing  
 - Tools to:  
   - Track symptoms, medication, and activities  
-  - Set and review wellbeing goals  
-
-[Learn More](#what-is-the-ucl-live-well-with-parkinsons-toolkit)
+  - Set and review wellbeing goals
 
 ---
 
 ## What People Say
 > “You don’t want to trouble the professionals every time you have a question. So, in that aspect, I am really relying on this toolkit now.”  
->  
+  
 > “The help and knowledge in the toolkit has given me confidence to manage… I have been going through these breathing exercises to help me, and it certainly seems to be very useful.”  
 
 ---
@@ -63,7 +61,7 @@
 | NHS Savings | Fewer A&E visits and hospital stays |
 | Improved Health | Better mobility and wellbeing |
 
-Read the full findings on the UCL website: [Link to findings]
+Read the full findings on the UCL website: <a href="www.ucl.ac.uk/pd-care" class="external-link" target="_blank" rel="noopener noreferrer">**UCL's PD-Care Study Pages**</a>.
 
 [Image Placeholder]
 
