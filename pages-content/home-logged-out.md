@@ -1,6 +1,6 @@
 # UCL Live Well with Parkinson’s Toolkit
 
-**Helping People with Parkinson’s and Their Carers Live Well**
+**Helping People with Parkinson’s to Live Well**
 
 ---
 
