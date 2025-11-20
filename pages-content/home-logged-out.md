@@ -5,13 +5,7 @@
 ---
 
 <div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube.com/watch?v=NNgTWSy5D0w" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NNgTWSy5D0w?si=TS1Y0AOj4eIIg4Z3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ---
