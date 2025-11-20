@@ -4,7 +4,15 @@
 
 ---
 
-[Promo Video Placeholder]
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/watch?v=NNgTWSy5D0w" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
 
 ---
 
