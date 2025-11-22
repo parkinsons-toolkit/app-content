@@ -4,7 +4,7 @@
 
 ---
 
-<div class="video-container home-loggedout__video-promo">
+<div class="video-container home-logged-out__video-promo">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NNgTWSy5D0w" 
   title="YouTube video player"
   allowfullscreen></iframe>
