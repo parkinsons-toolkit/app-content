@@ -15,7 +15,7 @@ The toolkit can also help you prepare for appointments with healthcare professio
 ---
 ## What's in the toolkit?
 
-There are two main areas sections:
+There are two main areas:
 
 ### 1. **Information Pages**
 
