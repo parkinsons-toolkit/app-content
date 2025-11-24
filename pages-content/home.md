@@ -10,7 +10,7 @@ The toolkit can also help you prepare for appointments with healthcare professio
 
 ---
 
-[video or image placeholder]
+[image placeholder]
 
 ---
 ## What's in the toolkit?
