@@ -20,13 +20,13 @@ There are two main areas:
 ### 1. **Information Pages**
 
 These pages cover key topics, including:
-- <a href="/information/what-is-parkinsons" class="internal-link">_What is Parkinson’s_</a> (covers causes, myths, how common it is, symptoms, diagnosis, treatments, and other types of Parkinsonism)
-- <a href="/information/newly-diagnosed" class="internal-link">_Newly Diagnosed_</a> (offers guidance, coping advice, and tips for starting your Parkinson’s journey)
-- <a href="/information/treatments/treatments-and-therapies" class="internal-link">_Treatments & Therapies_</a> (covers healthcare professionals who may be involved, medications, advanced therapies & surgical treatments, and complementary approaches for Parkinson’s)
-- <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> (guidance on bladder/bowel issues, mood, movement, pain, speech/swallowing, sexual health, skin, sleep, cognition, behaviours, weight, variability, and senses in Parkinson’s)
-- <a href="/information/living-with-parkinsons/living-with-parkinsons" class="internal-link">_Living with Parkinson’s_</a> (covers wellbeing strategies, lifestyle factors, practical advice, future care planning, palliative/end-of-life options, and guidance for families and carers)
-- <a href="/information/research" class="internal-link">_Research_</a> (covers reasons for taking part in studies and an overview of different types of Parkinson’s research)
-- <a href="/information/further-support/further-support" class="internal-link">_Further Support_</a> (guidance on using the toolkit, trusted information sources, services & groups, myth-busting, and key resources for Parkinson’s)
+- **<a href="/information/what-is-parkinsons" class="internal-link">_What is Parkinson’s_</a>** (covers causes, myths, how common it is, symptoms, diagnosis, treatments, and other types of Parkinsonism)
+- **<a href="/information/newly-diagnosed" class="internal-link">_Newly Diagnosed_</a>** (offers guidance, coping advice, and tips for starting your Parkinson’s journey)
+- **<a href="/information/treatments/treatments-and-therapies" class="internal-link">_Treatments & Therapies_</a>** (covers healthcare professionals who may be involved, medications, advanced therapies & surgical treatments, and complementary approaches for Parkinson’s)
+- **<a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a>** (guidance on bladder/bowel issues, mood, movement, pain, speech/swallowing, sexual health, skin, sleep, cognition, behaviours, weight, variability, and senses in Parkinson’s)
+- **<a href="/information/living-with-parkinsons/living-with-parkinsons" class="internal-link">_Living with Parkinson’s_</a>** (covers wellbeing strategies, lifestyle factors, practical advice, future care planning, palliative/end-of-life options, and guidance for families and carers)
+- **<a href="/information/research" class="internal-link">_Research_</a>** (covers reasons for taking part in studies and an overview of different types of Parkinson’s research)
+- **<a href="/information/further-support/further-support" class="internal-link">_Further Support_</a>** (guidance on using the toolkit, trusted information sources, services & groups, myth-busting, and key resources for Parkinson’s)
 
 Click any page to learn more.
    
