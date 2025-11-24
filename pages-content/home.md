@@ -44,6 +44,7 @@ In the personalised section you will find:
 
 ### Finding these sections:
 You can access these sections one of two ways, depending on what device you are using:
+
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/information_icon.png" alt="example-alt-text" class="example-class">
 - For the information pages by clicking one of the links along the top grey banner or by clicking the **'i' icon** in the top right hand side of the page
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/pencil_icon.png" alt="example-alt-text" class="example-class">
