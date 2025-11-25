@@ -261,9 +261,9 @@ This funding is also from the NHS/State. It is for people who are assessed as _n
 
 ## Medical Decisions
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/remote-consultation.jpg" alt="remote-consultation" class="future-care-options__remote-consultation">
-
 ### Medical decisions about food & drink
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/remote-consultation.jpg" alt="remote-consultation" class="future-care-options__remote-consultation">
 
 - Provision of food and drink by mouth is considered ‘basic care’, so will always be provided.
 - Some people have difficulties swallowing. If this becomes severe, the risk of food or drink going into the lungs instead of the stomach increases. Swallowing difficulties are also associated with the risk of inadequate nutrition and weight loss. See the <a href="/information/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">_Progression of Symptoms_</a> page for more explanation.
@@ -308,13 +308,14 @@ All medicines have risks and benefits. This can be a tricky balance. It varies b
 - Some are to improve symptoms, such as Parkinson’s medicines.
 - Some are to prevent problems in the future, such as cholesterol-lowering medicines.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/medical-decision.jpg" alt="medical-decision" class="future-care-options__medical-decision">
+
 The decision about which to take should consider what the medicine is for, the potential side effects, and the requirements to give it (e.g. if it needs a hospital admission to give via a drip). As such, potentially beneficial medicine may not be used if the risks outweigh those benefits.
 
 Note: Oxygen is also a medicine and must be prescribed. It has risks and benefits, so the same principles apply.
 
 A person may make the decision that they no longer want to go to hospital for medical care. This may mean that they make the decision that they are happy to have tablet antibiotics, which can be given at home. However, they may decide not have antibiotics which must be given directly into a vein, which would normally require hospital admission.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/medical-decision.jpg" alt="medical-decision" class="future-care-options__medical-decision">
 
 ### Medical decisions about critical care interventions
 
