@@ -16,16 +16,6 @@
 
 ---
 
-<div class="video-container">
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/YtWOzmSYlIs"
-  title="YouTube video player"
-  allowfullscreen>
-</iframe>
-</div>
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/5-senses.PNG" alt="5-senses" class="five-senses__5-senses">
 
 - **Smell:** many people with Parkinson’s experience smell loss or a reduction in their sense of smell.
@@ -41,6 +31,16 @@ Sensory changes are important to identify for safety reasons, particularly if yo
 ## What might be causing it?
 
 ### Smell & Taste
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/YtWOzmSYlIs"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
 
 As described above, smell and taste changes can be directly caused by Parkinson’s. Other causes include smoking, past or present infections (e.g. sinusitis, Covid-19), and nasal polyps.
 
