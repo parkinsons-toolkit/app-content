@@ -17,16 +17,6 @@
 
 ---
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/GSF6CmOtgEQ" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
-
 Poor sleep leads to feeling less well in the daytime and can worsen other difficulties, like low mood, concentration and balance. It may also affect those close to you.
 
 **Parkinson’s can affect sleep in several different ways. Here we cover:**
@@ -73,6 +63,17 @@ _Obstructive sleep apnoea_ is a breathing condition that is thought to be slight
 ---
 
 ## What should I do about it?
+
+<div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/GSF6CmOtgEQ" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 
 There are many things you can try for yourself (see below). If, however, you are having violent movements during sleep you should discuss this with your Parkinson’s specialist team. For other sleep disturbances, try the strategies below. If you still have problems after 1 month then speak to your GP or Parkinson’s specialist team.
 
