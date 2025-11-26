@@ -51,13 +51,13 @@ In the personalised section you will find:
 You can access these sections one of two ways, depending on what device you are using:
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/information_icon.png" alt="example-alt-text" class="inline-icon">
-For the information pages by clicking one of the links along the top grey banner or by clicking the **'i' icon** in the top right hand side of the page
+For the information pages by clicking one of the links along the top grey banner or by clicking the **'i' icon** in the top right hand side of the page.
 
 <br>
 <br>
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/pencil_icon.png" alt="example-alt-text" class="inline-icon">
-For the personalised pages by clicking one of the links along the top grey banner or by clicking the **pencil icon** in the top right hand side of the page
+For the personalised pages by clicking one of the links along the top grey banner or by clicking the **pencil icon** in the top right hand side of the page.
 
 Helpful videos on using the toolkit are in the _Further Support_ section under <a href="/information/further-support/how-to-use" class="internal-link">How to use this toolkit</a>. This page also gives an overview of your personalised sections, explaining how to:
 - Check and record your symptoms
