@@ -16,7 +16,7 @@
 - This toolkit helps you manage your Parkinson’s between appointments.
 - Improving patient outcomes and reducing unplanned hospital admissions. 
 
-<a href="/auth?mode=signup" class="internal-link login-button">**[Sign up for free today → Join Now]**</a>
+<a href="/auth?mode=signup" class="internal-link login-button">**Sign up for free today → Join Now**</a>
 
 ---
 
@@ -71,6 +71,6 @@ Read the full findings on the UCL website: <a href="https://www.ucl.ac.uk/brain-
 
 ## Ready to Start?
 **Take control of your Parkinson’s – sign up for free today!**  
-<a href="/auth?mode=signup" class="internal-link login-button">**[Click here to join →]**</a>
+<a href="/auth?mode=signup" class="internal-link login-button">**Click here to join →**</a>
 
 ---
