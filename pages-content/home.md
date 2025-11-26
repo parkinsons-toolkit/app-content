@@ -37,10 +37,15 @@ _**Tip:** if there is something specific you are looking for and can’t find it
 These are personal to you. They help you record symptoms, set goals, keep track of your health.
 
 In the personalised section you will find:
+
+<div class="action-box">
+
 1. _**<a href="/symptom-review" class="internal-link">Symptom Review</a>**_ (including your health conditions, medication, treatments, and research involvement, and a list of symptoms you experience and how bad you think they are)
 2. _**<a href="/my-wellbeing" class="internal-link">My Wellbeing</a>**_ (to find the things you would like to keep doing or improve)
 3. _**<a href="/my-tracker" class="internal-link">My Tracker</a>**_ (to keep a record of your medications, activities, and symptoms, which may help you to find patterns and understand your experiences)
 4. _**<a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a>**_ (to allow you to store all your healthcare appointments in one place, to keep all your information in one place and can be used like a diary)
+
+</div>
 
 ### Finding these sections:
 You can access these sections one of two ways, depending on what device you are using:
