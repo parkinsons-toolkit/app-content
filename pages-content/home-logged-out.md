@@ -39,6 +39,13 @@
   - Track symptoms, medication, and activities  
   - Set and review wellbeing goals
 
+✅ Track your symptoms to spot patterns and manage them proactively
+📚 Access trusted information about Parkinson's - learn more about symptoms, treatments, daily living, and where to get support
+🎯 Set wellbeing priorities and solve challenges with prompts from the toolkit
+📋 Prepare and make the most out of your appointments with your healthcare team
+📝 Note your experiences in a space that's just for you
+👉 Log in to start exploring your toolkit
+
 ---
 
 ## What People Say
