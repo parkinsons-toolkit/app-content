@@ -55,7 +55,7 @@ The <a href="/information/managing-symptoms/managing-symptoms" class="internal-l
 **Who is it for?**
 
 - Levodopa can be used at all stages of Parkinson’s.
-- Duodopa® intestinal gel is given directly into the gut via a tube – see <a href="/information/treatments/advanced-and-surgical-treatments" class="internal-link">_Advanced & Surgical Treatments_</a> page for more information. It is used for complex movement problems.
+- Duodopa® intestinal gel is given directly into the gut via a tube – see <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced & Surgical Treatments_</a> page for more information. It is used for complex movement problems.
 
 **What are the side effects?**  
 Not all patients will experience side effects while taking levodopa.
