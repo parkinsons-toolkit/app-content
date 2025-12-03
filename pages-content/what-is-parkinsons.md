@@ -45,6 +45,9 @@ At present, no one knows for sure what causes Parkinson’s. Many factors are as
 
 ## Myth Buster
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/myth-busting.jpg" alt="myth-busting" class="example-class">
+
+
 “Parkinson’s only affects old people.” - It is most common in people over the age of 60. But it can also occur in younger people.
 
 “Parkinson’s is contagious.” - It is not contagious. You <ins>cannot</ins> catch it from another person.
