@@ -62,6 +62,9 @@ Although most research relies on volunteers, and people are not paid to take par
 
 ### Your rights as a research participant
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/know-your-rights.jpg" alt="know-your-rights" class="example-class">
+
+
 Before anyone can take part in any research study they should have the chance to read information about the study. You should have the chance to ask any questions so that you understand what you will have to do.
 
 The study information should also outline your rights as a participant and include the following information:
