@@ -35,6 +35,8 @@ _Parkinsonism_ is a broad term. It covers a range of conditions that have featur
 </iframe>
 </div>
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/neurotransmitters.jpg" alt="neurotransmitters" class="example-class">
+
 In Parkinson’s there is a gradual loss of cells. This is mainly in an area of the brain called the substantia nigra. These cells produce a chemical messenger called **dopamine**. As less dopamine is available over time, people start experiencing problems with their movements. Dopamine is known as a <ins>neurotransmitter</ins>. Other neurotransmitters are also believed to decrease. This decrease may be responsible for other symptoms of Parkinson’s.
 
 At present, no one knows for sure what causes Parkinson’s. Many factors are associated with an increased or decreased chance of having it. Research continues in this area. We know there is a genetic component, but with rare exceptions it is not due a single gene, inherited from one generation to the next. More often, a combination of many genes is thought to be involved.
@@ -100,6 +102,8 @@ The diagnosis of Parkinson’s is made by a clinician experienced in Parkinson�
 </div>
 
 There are many management options to help with Parkinson’s. A range of different professionals can be involved. See the <a href="/information/treatments/who-may-be-involved" class="internal-link">_Who May Be Involved_</a> page. Exercise has been shown to improve mobility and quality of life. There isn’t one exercise program that has been shown to be the best. Finding something you enjoy and doing it regularly is most important. Examples include an exercise class for people with Parkinson’s, dancing, boxing, riding a stationary bicycle at home, etc.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/taking-medication.jpg" alt="taking-medication" class="example-class">
 
 There are medications available for many Parkinson’s symptoms. See <a href="/information/treatments/medications" class="internal-link">_Medications_</a> page. Surgical options may be considered in select cases. See <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page. There are also other strategies to reduce the impact of symptoms on daily life. See <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages. A diagnosis of Parkinson’s is a lot to deal with. Talking to others can help. This website aims to support you to live well with Parkinson’s. It includes a range of tools as well as information resources to help you. If you have been recently diagnosed, the volume of information can be overwhelming. Starting with the <a href="/information/newly-diagnosed" class="internal-link">_Newly Diagnosed_</a> page may be most helpful. On this page, other people with Parkinson’s wrote key information they would focus on at the start.
 
