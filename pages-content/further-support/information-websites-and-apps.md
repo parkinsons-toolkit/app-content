@@ -79,6 +79,9 @@ _Wellbeing_
 
 ## Podcasts
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/podcase.jpg" alt="podcast" class="example-class">
+
+
 A Podcast is an audio programme that you can listen to whenever you like on one of your electronic devices.
 
 - **When Life Gives You Parkinson’s Podcast**: Podcast presented by <a href="https://curiouscast.ca/" class="external-link" target="_blank" rel="noopener noreferrer">Curious Cast</a>. Larry Gifford is the host and shares his personal experience of juggling work and family life as someone in their 40s living with Parkinson’s disease.
