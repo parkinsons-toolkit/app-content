@@ -85,7 +85,7 @@ Alcohol, caffeine, and some illicit drugs can make anxiety worse. Withdrawing fr
 
 ## What should I do about it?
 
-There are many things you can try to help you deal with anxiety (see ‘What can I try for myself?’). If anxiety is having a big impact on your life, you should speak to a healthcare professional. In some cases, anxiety has a negative impact on other symptoms of Parkinson’s. For example, stress and anxiety can make tremor worse, interfere with walking, and increase the risk of falls. Seeking support early can give you more control and help you manage feelings of anxiety.
+There are many things you can try to help you deal with anxiety (see ‘What can I try for myself?’). If anxiety is having a big impact on your life, you should speak to a healthcare professional. In some cases, anxiety has a negative impact on other symptoms of Parkinson’s. For example, stress and anxiety can make tremors worse, interfere with walking, and increase the risk of falls. Seeking support early can give you more control and help you manage feelings of anxiety.
 
 <div class="video-container">
 <iframe
@@ -104,8 +104,6 @@ If you need immediate help but don’t want to see your GP or go to A&E, you cou
 - Call Samaritans on Freephone 116 123. They're open 24 hours a day and are there to listen
 - Contact NHS 111 (England) or NHS Direct 0845 46 47 (Wales)
 - f you are under the care of a local crisis team, contact them
-
-For more details, the charity Mind has information about how to seek urgent mental health support.
 
 For more details, the charity <a href="https://www.mind.org.uk/need-urgent-help/" class="external-link" target="_blank" rel="noopener noreferrer">Mind</a> has information about <a href="https://www.mind.org.uk/need-urgent-help/" class="external-link" target="_blank" rel="noopener noreferrer">how to seek urgent mental health support</a>t.
 
@@ -207,7 +205,7 @@ There are some simple tricks that we can use to take back control of our repetit
 - **‘Worry time’:** worry thoughts can happen at any time. The thing we are worrying about may be important so we feel that deserves our attention. However, it can get in the way of other things. One simple trick is to plan one or two short periods of ‘worry time’ during the day. These are the times that you allow yourself to worry. Because you know that you can come back to the worry later, it is easier to switch it off at the time it pops into your head. Interestingly, when your scheduled worry time comes along, the worry often does not seem so worrying.
 - **Make a note of your worry and come back to it later:** Worries often run through our minds when we have no distractions. Unfortunately, this is often when we are trying to relax or sleep. Keep a notebook beside your bed or arm-chair and jot down a quick note about the worry. Then come back to it later – either during your worry time or in the morning. Again, the worry often seems less powerful
 
-A small study of self-help, using these and other simple techniques, showed that they can significantly reduce the amount of time that people spend worrying. The study used a short guide published on- line in Australia called ‘What? Me Worry?’ available in our More Information section.
+A small study of self-help, using these and other simple techniques, showed that they can significantly reduce the amount of time that people spend worrying. The study used a short guide published online in Australia called ‘What? Me Worry?’ available in our More Information section.
 
 ### Avoid avoidance
 
