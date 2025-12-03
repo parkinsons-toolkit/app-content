@@ -1,6 +1,8 @@
 # Welcome to your **_Live Well with Parkinson's_** account!
 The _Live Well with Parkinson's_ toolkit is designed to support you in managing your health and wellbeing. 
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/couple-walking.jpg" alt="couple-walking" class="example-class">
+
 Here’s what you can do:
 - **Learn more about Parkinson’s** – Read our information pages to understand symptoms, treatments, and practical tips for staying active and healthy.
 - **Build skills to manage your condition** – Find steps you can take to help you live well with Parkinson’s.
@@ -10,14 +12,14 @@ The toolkit can also help you prepare for appointments with healthcare professio
 
 ---
 
-[image placeholder]
-
----
 ## What's in the toolkit?
 
 There are two main areas:
 
 ### 1. **Information Pages**
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/group-people.jpg" alt="group-of-people" class="example-class">
+
 
 These pages cover key topics, including:
 - **<a href="/information/what-is-parkinsons" class="internal-link">_What is Parkinson’s_</a>** (covers causes, myths, how common it is, symptoms, diagnosis, treatments, and other types of Parkinsonism)
@@ -29,6 +31,9 @@ These pages cover key topics, including:
 - **<a href="/information/further-support/further-support" class="internal-link">_Further Support_</a>** (guidance on using the toolkit, trusted information sources, services & groups, myth-busting, and key resources for Parkinson’s)
 
 Click any page to learn more.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gardening-together.jpg" alt="gardening-together" class="example-class">
+
    
 _**Tip:** if there is something specific you are looking for and can’t find it, use the search box to type what you are looking for e.g., Medication. When you find the page, press **Crtl + F**. This will open a new search box where you can type the words you are looking for e.g. side effects._
 
@@ -40,6 +45,8 @@ In the personalised section you will find:
 
 <div class="action-box">
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gym-happy.jpg" alt="gym" class="example-class">
+
 1. _**<a href="/symptom-review" class="internal-link">Symptom Review</a>**_ (including your health conditions, medication, treatments, and research involvement, and a list of symptoms you experience and how bad you think they are)
 2. _**<a href="/my-wellbeing" class="internal-link">My Wellbeing</a>**_ (to find the things you would like to keep doing or improve)
 3. _**<a href="/my-tracker" class="internal-link">My Tracker</a>**_ (to keep a record of your medications, activities, and symptoms, which may help you to find patterns and understand your experiences)
@@ -49,6 +56,9 @@ In the personalised section you will find:
 
 ### Finding these sections:
 You can access these sections one of two ways, depending on what device you are using:
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/man-smiling.jpg" alt="man-smiling" class="example-class">
+
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/information_icon.png" alt="example-alt-text" class="inline-icon">
 For the information pages by clicking one of the links along the top grey banner or by clicking the **'i' icon** in the top right hand side of the page.
