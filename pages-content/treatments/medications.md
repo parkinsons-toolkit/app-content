@@ -233,7 +233,7 @@ Who you should talk to depends on the subject of the query. Although there is so
 - At present, in England, prescriptions are charged per item unless you are exempt. You are exempt if you are over 60 years old. Certain medical or financial circumstances also make people exempt.  
   See the NHS website for more details.
 - Having Parkinson’s is not (at present) listed as a reason for exemption from NHS prescription charges.
-- A prescription prepayment certificate (PPC) could save you money on NHS prescription costs. See the <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page for more details.
+- A prescription prepayment certificate (PPC) could save you money on NHS prescription costs. See the <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">_Finances_</a> page for more details.
 
 ---
 
