@@ -81,6 +81,8 @@ Benefits of Self-Management:
 
 ## Making Changes & Keeping on Track
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/keep-on-track.jpg" alt="keeping-on-track" class="example-class">
+
 Although everyone’s condition and circumstances are different, everyone has ups and downs. This can make it hard to ‘follow a plan’. There are different ways to approach this difficulty.
 
 Tips to consider:
