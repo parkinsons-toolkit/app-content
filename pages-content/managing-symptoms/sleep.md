@@ -83,16 +83,6 @@ If you or your partner notice the breathing pattern change as described above (p
 
 ## What can I try for myself?
 
-<div class="video-container">
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/QuqaliQLmIQ" 
-  title="YouTube video player" 
-  allowfullscreen>
-</iframe>
-</div>
-
 ### Things to try
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/sleeping-man.jpg" alt="sleeping-man" class="sleep__sleeping-man">
@@ -102,6 +92,17 @@ If you or your partner notice the breathing pattern change as described above (p
 - Increasing daytime activity, though avoid exercise just before bed (e.g. avoid vigorous exercise in the 2 hours before bed). See <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> for ideas on how to do this.
 - Empty your bladder before going to bed.
 - If possible, protect your bedroom environment: avoid using it for watching TV or working, and keep it warm (but not too hot), dark, comfortable and quiet. The optimal temperature for most people is around 16-18oC. Different curtains or blinds can change the light in the room, or some people use eye masks. Noise can be reduced by closing windows and doors, or by using earplugs.
+
+  <div class="video-container">
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/QuqaliQLmIQ" 
+  title="YouTube video player" 
+  allowfullscreen>
+</iframe>
+</div>
+
 - Nylon or satin sheets as well as light-weight bed covers, can be more comfortable and can make moving in bed easier. It is best not to have both satin Pyjamas and sheets as they can slide on each other very quickly. Ideally maintain some area of friction at the edge of the bed for grip.
 - If you can, involve a partner, particularly if you need help getting in and out of bed.
 
