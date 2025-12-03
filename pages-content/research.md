@@ -12,16 +12,12 @@
 
 </div>
 
----
-
 Research plays an important role in increasing our knowledge of human health and wellbeing. Taking part in research can be an empowering way to take a positive step towards understanding how best to treat or manage a health condition, such as Parkinson’s.
 
 This section has 2 key parts:
 
 1. Taking part in research – describes some reasons people choose to get involved in research and details of what this might entail.
 2. Different type of research in Parkinson’s giving an overview of the range of research in Parkinson’s.
-
----
 
 ## Taking Part in Research
 
@@ -64,7 +60,6 @@ Although most research relies on volunteers, and people are not paid to take par
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/know-your-rights.jpg" alt="know-your-rights" class="example-class">
 
-
 Before anyone can take part in any research study they should have the chance to read information about the study. You should have the chance to ask any questions so that you understand what you will have to do.
 
 The study information should also outline your rights as a participant and include the following information:
@@ -94,10 +89,7 @@ You can find out about current Parkinson’s research studies through the follow
   - The ‘Take Part Hub’ can help you find research studies taking place in your local area
 - Ask your Parkinson’s nurse, or specialist about research taking place that may be suitable.
 
----
-
 ## Different Types of Research Studies
-
 
 Researchers use different types of research studies to understand the factors that lead to the loss of brain cells in Parkinson's. One thing that we know is that in people with Parkinson’s, there is an abnormal build-up of proteins in the brain called Lewy bodies. These Lewy bodies contain a protein called alpha-synuclein, which normally occurs in health brains but builds up in harmful ways in Parkinson’s.
 
@@ -116,7 +108,6 @@ have been associated with Parkinson's. These are examples of ‘environmental fa
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/clinical-study.jpg" alt="clinical-study" class="example-class">
 
-
 **Clinical studies** involve medical tests, like blood tests or brain scans, to look for signs that might explain why some people develop Parkinson’s. By comparing results from people with Parkinson’s and those without Parkinson’s, researchers can find patterns or specific biological changes linked to the disease.
 
 **Animal studies** use animals such as mice to create models of Parkinson’s disease. These animals are given symptoms similar to Parkinson’s in humans, allowing scientists to study how the disease affects brain cells and to test potential treatments. Because mice share many biological similarities with humans, these studies help researchers understand how the disease might work in humans.
@@ -128,7 +119,6 @@ have been associated with Parkinson's. These are examples of ‘environmental fa
 Researchers have identified several factors that may be linked to Parkinson’s disease, though much is still being discovered. Here’s what has been discovered so far:
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/lab-research.jpg" alt="lab-research" class="example-class">
-
 
 - **Ageing** – The risk of developing Parkinson’s increases significantly with age. Although some people develop Parkinson’s under the age of 50 (known as young-onset Parkinson’s), this is much less common. Why ageing plays such a big role is still not fully understood, but older age remains the strongest known risk factor.
 - **Genetics** – In rare cases, Parkinson’s can run in families due to specific genetic mutations. If a family has several family members with Parkinson’s, it is often due to inherited genes. However, this only accounts for a small percentage of cases. Research suggests that for about 30% of people with Parkinson’s, a combination of certain genes and environmental factors might increase the risk of getting Parkinson’s disease.
@@ -146,8 +136,6 @@ It is beyond the scope of this website to outline all current studies in Parkins
 - Healthy Lifestyle: Apart from living a healthy lifestyle, including regular exercise, there is currently no known way to prevent or slow down Parkinson’s.
 
 As research evolves, we will learn more, and understanding these research principles may make help you feel more confident in following future research developments.
-
----
 
 ## New Drug and Treatment Trials
 
@@ -171,8 +159,6 @@ While trials are still ongoing to better understand how effective it is, the CUE
 Below is a picture to represent the range of avenues scientists are taking to explore treatment options that can help stop Parkinson’s disease progressing. Several boxes have been left blank as this is by no means all-inclusive and new avenues are developing quite quickly:
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/research.png" alt="research" class="research__research">
-
----
 
 ## Useful Organisations & Contacts
 

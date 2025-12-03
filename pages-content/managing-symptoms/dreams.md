@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 Many people with Parkinson’s experience vivid dreams. For some this is no problem, but for others it can cause distress or disrupt sleep. This can impact how you feel in the daytime. Movement changes during dreams are also a symptom of Parkinson’s.
 
 <div class="video-container">
@@ -31,8 +29,6 @@ Many people with Parkinson’s experience vivid dreams. For some this is no prob
 Dreams occur during a phase of sleep known as Rapid Eye Movement (REM) sleep. This is named this way because the eyes move very fast during this phase. A key feature of this phase is that the body does <ins>not</ins> move. Some people with sleep problems lose this unconscious control over movement during sleep, and so they “act out” their dreams. This is called REM Sleep Behaviour Disorder (RBD). This ranges from gesturing, jerking and talking to thrashing around, shouting and walking. This is closely related to Parkinson’s. However not all people with Parkinson’s have RBD and not all people with RBD have Parkinson’s.
 
 Sometimes the difference between vivid dreams and being awake can become a bit unclear. See our <a href="/information/managing-symptoms/hallucinations" class="internal-link">_Hallucinations_</a> page for more information on seeing things that aren’t there when awake.
-
----
 
 ## What might be causing it?
 
@@ -57,15 +53,11 @@ Vivid dreams experienced by a person with Parkinson’s are most likely caused b
 
 As with vivid dreams, RBD in someone with Parkinson’s is most likely caused by the condition itself. In people who do not have a diagnosis of Parkinson’s it is more common in men than women, and also occurs more frequently in people with sleep disorders (e.g. narcolepsy), those taking certain medication, and those withdrawing from medication or alcohol after developing a dependency.
 
----
-
 ## What should I do about it?
 
 Vivid dreams don’t require any treatment if they are not causing distress. However, if they are causing distress then some lifestyle changes can help. Also dealing with any factors that make it happen or make it worse (such as anxiety) can help.
 
 RBD exists across a range of severity and so the most important thing to consider is safety. Is there risk of injury to yourself or others from movements made during sleep? Features that would be a cause for concern are violent movements, falling from bed, or walking beyond the bedspace. These features would make it an urgent issue to address. If this is the case your Parkinson’s specialist team would be the preferred people to contact. If the movements are not as marked as this then it is not urgent, but you should still discuss it with your Parkinson’s specialist team or GP.
-
----
 
 ## What can I try for myself?
 
@@ -93,8 +85,6 @@ RBD exists across a range of severity and so the most important thing to conside
 - Would a lower bed or mattress on the floor be safer?
 - Would a separate bed or room be preferable for your bed partner?
 
----
-
 ## Further Assessment
 
 ### Questions
@@ -119,8 +109,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 
 Tests are rarely needed but sometimes ‘sleep studies’ are run. This may involve a short hospital stay to have sleep monitored.
 
----
-
 ## Further Treatments
 
 Having consulted a healthcare professional, they may offer reassurance, advice or further treatment.
@@ -139,14 +127,10 @@ Having consulted a healthcare professional, they may offer reassurance, advice o
 
 - Medications for depression and anxiety, including mirtazapine and SSRIs (e.g. citalopram, sertraline) can worsen RBD. Speak to your healthcare professional before changing your medication.
 
----
-
 ## Key Messages
 
 - Some people with Parkinson’s experience more vivid dreams, calling out or acting out dreams.
 - It is important to address any safety concerns. You should talk to your Parkinson’s specialist team if you experience these symptoms.
-
----
 
 ## Useful Organisations & Contacts
 

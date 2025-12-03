@@ -17,8 +17,6 @@
 
 </div>
 
----
-
 Anxiety is the feeling of worry or fear, including a general sense of unease. This feeling can range in intensity from mild to severe.
 
 <div class="video-container">
@@ -32,8 +30,6 @@ Anxiety is the feeling of worry or fear, including a general sense of unease. Th
 </div>
 
 Everyone can experience feelings of anxiety at some time in their life. Anxiety is a natural response to situations that we find stressful or threatening. For example, this might be about your health, moving house or work-related problems. It may subside once the situation changes, or the person becomes used to the situation. But sometimes feelings of anxiety can last for long periods of time and without a clear cause. This can be troubling for the person and can affect their day-to- day life.
-
----
 
 ## Common symptoms of anxiety
 
@@ -61,15 +57,11 @@ Worry is one of the most common features of anxiety in people with Parkinson’s
 
 Anxiety also changes our behaviour; we look for ways to reduce unpleasant body sensations and distressing thoughts and feelings. For example, we might be repeatedly check we have done something or ask for reassurance from others. These behaviours can give short-term relief, but they do not break the cycle. The most common behaviour change in anxiety is avoidance. Once we work out what we are afraid of, it makes sense to avoid it. This is OK sometimes. However, it becomes a problem if it leads to us avoiding going out of the house, using public transport or socialising. Although avoidance can lead to a short-term reduction in anxiety, it makes whatever we are avoiding even more frightening.
 
----
-
 ## What sorts of things are people with Parkinson’s anxious about?
 
 Uncertainty about the future can be difficult and can cause anxiety and worry. This might be particularly the case with health conditions that have an unpredictable course, such as Parkinson’s.
 
 Some people are generally anxious about any stressful and potentially threatening situation. For others, it is more specific. For example, they may feel very anxious in social situations or in crowded places with lots of strangers around. People will often feel anxious before and during such situations. In a few people, the anxiety may increase very suddenly – a so-called ‘panic attack’. These can be very distressing. A person will often avoid situations where they have had a panic attack in the past.
-
----
 
 ## What might be causing it?
 
@@ -80,8 +72,6 @@ Some symptoms of Parkinson’s can cause anxiety or make it worse. For example, 
 Some people experience anxiety when their medication is wearing off. This improves once they take their next dose of medication. You can also feel anxious if your medication is wearing off and you experience difficulties moving. You may find that when your movement symptoms are better controlled by medication, your levels of anxiety reduce.
 
 Alcohol, caffeine, and some illicit drugs can make anxiety worse. Withdrawing from a substance or medication can also increase anxiety levels. Hormonal imbalances, such as high thyroid hormone levels, are another possible cause of anxiety.
-
----
 
 ## What should I do about it?
 
@@ -106,8 +96,6 @@ If you need immediate help but don’t want to see your GP or go to A&E, you cou
 - f you are under the care of a local crisis team, contact them
 
 For more details, the charity <a href="https://www.mind.org.uk/need-urgent-help/" class="external-link" target="_blank" rel="noopener noreferrer">Mind</a> has information about <a href="https://www.mind.org.uk/need-urgent-help/" class="external-link" target="_blank" rel="noopener noreferrer">how to seek urgent mental health support</a>t.
-
----
 
 ## What can I try for myself?
 
@@ -227,8 +215,6 @@ Often avoidance is an all-or-none response. For example, if shopping is difficul
 
 Practical planning and problem-solving can remove some stress and make avoidance less likely. This advanced thinking is much more productive than worry. Friends and family can often help find solutions to help you do the things that you are tending to avoid. But, it is important that they don’t encourage avoidance thinking that this will help you feel less anxious.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -240,8 +226,6 @@ People affected by Parkinson’s describe their experiences.
 > “It’s weird. There's no reason, absolutely no reason why I should be [anxious]. It just seems to build up and get worse. No, I can't put it down to anything. There's nothing in particular that I can think of that makes it start. It just comes over you. ….I think if I just breathe. What I usually do is I’ll sit back and I’ll sort of take deep breaths and then I just sort of think, ‘calm down, just calm down’, you know, and sort of bring myself back again. So, that’s the only way I can get out of it, really. Or go and sit and do some drawing or go sit and put the television on and takes my mind off it”
 >
 > _(Person with Parkinson’s)_
-
----
 
 ## Further Assessment
 
@@ -266,8 +250,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 ### Tests
 
 Tests are not usually needed when assessing for anxiety. But your healthcare professional may wish to examine you or carry out tests, such as blood tests. This would help to rule out other possible causes of your symptoms.
-
----
 
 ## Further Treatments
 
@@ -309,15 +291,11 @@ Your healthcare professional may be able to give you more specific advice about 
 - Medication used for asthma (e.g. salbutamol)
 - Levothyroxine
 
----
-
 ## Key Messages
 
 - Anxiety is the feeling of worry or fear, including a general sense of unease. It can range in intensity from mild to severe.
 - There are many things you can do to help improve your mood, even if you don’t have anxiety. These include exercise, maintaining a healthy diet, improving sleep, and making time to relax. You can also tackle worry and avoidance.
 - Treatments for anxiety offered by healthcare professionals include talking therapies and medication.
-
----
 
 ## Useful Organisations & Contacts
 

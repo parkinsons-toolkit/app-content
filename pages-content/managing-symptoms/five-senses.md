@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/5-senses.PNG" alt="5-senses" class="five-senses__5-senses">
 
 - **Smell:** many people with Parkinson’s experience smell loss or a reduction in their sense of smell.
@@ -25,8 +23,6 @@
 - **Hearing:** research has so far shown mixed results about changes to hearing in Parkinson’s. Hearing loss is associated with increasing age.
 
 Sensory changes are important to identify for safety reasons, particularly if you drive.
-
----
 
 ## What might be causing it?
 
@@ -83,8 +79,6 @@ A slow deterioration in hearing is common with increasing age. It is possible th
 
 Parkinson’s is not known to cause sudden loss of hearing. Hearing difficulty can be caused by a range of other problems, such as build-up of ear wax, age-related hear loss (also known as _presbycusis_) or ear infections.
 
----
-
 ## What should I do about it?
 
 There are many things you can try for yourself, but there are times when you should seek professional advice.
@@ -99,8 +93,6 @@ There are many things you can try for yourself, but there are times when you sho
 If you have a new concern about sensory changes, don’t automatically blame it on your age or Parkinson’s. Your GP or Parkinson’s specialist team can assess if more tests are needed.
 
 If you are a driver, see the DVLA ‘standards of vision for driving’. You don’t need to notify the DVLA about changes in colour vision, or about long or short sightedness if you can meet these standards. If you have other problems with your sight, you should notify the DVLA. There is more guidance about this available on the <a href="https://www.gov.uk/driving-eyesight-rules" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK website</a>.
-
----
 
 ## What can I try for myself?
 
@@ -153,8 +145,6 @@ Although the changes in smell or taste in Parkinson’s cannot be cured, there a
 - Safety considerations: be careful with objects that are very hot or very cold as they could cause burns without you noticing.
 
 More general tips to maintain healthy eyes, ears, skin and feet are covered on the <a href="/information/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page. Practical advice to deal with the impact of sensory changes can also be found on the <a href="/information/living-with-parkinsons/practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> page.
-
----
 
 ## Further Assessment
 
@@ -209,8 +199,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 
 Depending on their assessment, your healthcare professional may wish to run further tests. This might be blood tests or scans/tests of nerve function. There is no single test that can identify whether a sensory problem is caused by Parkinson’s or not.
 
----
-
 ## Further Treatments
 
 A healthcare professional may be able to offer reassurance, advice, or further treatment.
@@ -234,15 +222,11 @@ You may be referred to another service, see below typical referrals:
 - Ear, Nose & Throat (ENT) for smell or taste problems
 - Various specialties could be involved for peripheral neuropathy depending on the suspected cause.
 
----
-
 ## Key Messages
 
 - Sensory changes in smell, taste, touch, sight and/or hearing can be a part of Parkinson’s but can have a variety of other causes.
 - There are things you can try yourself to help ease the impact of sensory changes on your day-to- day life.
 - It is important to consider the safety implications of sensory changes.
-
----
 
 ## Useful Organisations & Contacts
 

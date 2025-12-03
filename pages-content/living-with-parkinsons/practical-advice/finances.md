@@ -17,8 +17,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -30,8 +28,6 @@
 </div>
 
 Having Parkinson’s, or caring for someone who does, can impact on your finances. For example, you may need to reduce your hours at work or pay for cleaners or special equipment in the home. Managing financially may become more difficult as the condition progresses. There is some help available so it can help to know what you might be entitled to.
-
----
 
 ## Paying Bills and Budgeting
 
@@ -59,8 +55,6 @@ If you are struggling to manage your finances, you may find these suggestions he
   - It’s important to apply for LPA while you still have mental capacity (you’re able to make decisions). If you lose decision-making capacity before having an LPA in place, someone will have to apply to the Court of Protection to manage your money. This can be a slow and expensive process.
   - See our <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page for more information about the different types of LPA and how to set these up.
 
----
-
 ## Government Benefits
 
 <div class="video-container">
@@ -78,8 +72,6 @@ There are a number of benefits you may be entitled to. These can help with extra
 This section outlines the financial support available to people living with Parkinson’s, carers, and other sources of assistance they may be entitled to.
 
 If you find these complicated don’t worry, there are several sources of help available – see the bottom of this page for more details and links to these sources.
-
----
 
 ### For People with Parkinson’s:
 
@@ -119,8 +111,6 @@ If you already receive DLA:
 
 DLA is now aimed at children between the ages of 0 to 16 and looks for care and mobility problems which exceed the care and mobility needs of a child of the same age. This is a **non means-tested** benefit; the amount awarded is not dependent on your income or savings.
 
----
-
 ### For Carers:
 
 **Carer’s Allowance**
@@ -157,8 +147,6 @@ To be eligible to claim, carers must:
 
 - Be caring for someone for at least 20 hours a week
 - Not be entitled to Carer’s Allowance.
-
----
 
 ## Other financial support…
 
@@ -243,8 +231,6 @@ If you are off sick for more than 7 consecutive days you will need to provide a 
 
 For more information on benefits and how to apply for them, visit <a href="https://www.gov.uk/browse/benefits" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK: Benefits</a>. You can also get help and advice from the charity <a href="https://www.citizensadvice.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Citizens Advice</a>. You can find links in our More Information section below.
 
----
-
 ## VAT Relief
 
 <div class="video-container">
@@ -269,16 +255,12 @@ You can apply for VAT relief by:
 - Downloading a form to take into a shop when you make a qualifying purchase
 - Visit <a href="http://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a> and search _“VAT relief”_ or call HM Revenue & Customs (HMRC) on **0300 200 3700**
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “When we go to the mobility shop to buy things like walking sticks and wheelchairs, he doesn’t charge us VAT because \[partner] has Parkinson’s.”
 > _(Carer of someone with Parkinson’s)_
-
----
 
 ## Prescription Charges/Prescription Prepayment Certificate (PPC)
 
@@ -335,8 +317,6 @@ If you do not qualify for free prescriptions and need prescription items regular
 - Online – visit the <a href="https://services.nhsbsa.nhs.uk/buy-prescription-prepayment-certificate/start" class="external-link" target="_blank" rel="noopener noreferrer">NHS Business Services Authority</a> website (this is recommended as the quickest way).
 - Telephone: **0300 330 1341**
 
----
-
 ## Help with Travel Costs
 
 <div class="video-container">
@@ -360,8 +340,6 @@ To qualify for help under this scheme, you must meet the following criteria:
 3. **Your appointment must be on a separate visit** to when the referral was made.
 
 Visit the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> for more information about help with travel costs under the HTCS.
-
----
 
 ## Costs of Equipment, Housing & Care
 
@@ -395,8 +373,6 @@ As Parkinson’s progresses, you might find you need extra support to carry out 
 
 If you would like to have social care support in your own home, your local authority social services (adult services) or social work department will carry out a needs or care assessment. This assessment is free of charge. But there is a threshold for getting social care from the local authority. Even if you are eligible for social care from your local authority, it still will ask you about your finances; in other words, it is means tested. But many hundreds of thousands of people get help from their local authority and you should not be put off by these assessments. If you are eligible then there are various options about the type of support, you will be offered – and this will be decided with you and put into a care plan. Some people choose to manage the money for social care themselves (as a Direct Payment); others take it as a personal budget and get care from a particular care agency or combine home care with going to a day centre, for example.
 
----
-
 ## Continuing Healthcare Funding
 
 NHS continuing healthcare (CHC) is a package of health and social care arranged and funded by the NHS. It is free. It aims to help people who have severe ongoing care needs related to their health.
@@ -412,8 +388,6 @@ To be eligible, you must:
 There is no application form for CHC. Instead, professionals carry out an assessment to determine your care needs. If granted, the funding will be reviewed every 3 months as it is not given on a permanent basis.
 
 For more information about CHC, see the public information leaflet (linked in our More Information section) provided by the Department of Health and Social Care. You may like to seek help with whether you might be eligible from national helping agencies (see list below) or Citizens Advice.
-
----
 
 ## Useful Organisations & Contacts
 
@@ -433,7 +407,6 @@ Please look at the bottom of the table for further information about call charge
 | Parkinson’s UK                  | Outlines financial support for people with Parkinson’s, including benefits, grants, and money management advice.                                                                     | 0808 800 0303 <br><br>Free confidential helpline (Mon–Fri: 9am–6pm, Sat: 10am–1pm)                                                             | <a href="https://www.parkinsons.org.uk/information-and-support/money-grants-and-benefits" target="_blank" rel="noopener noreferrer">parkinsons.org.uk/.../money-grants-and-benefits</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | StepChange                      | Provides free money and debt advice via trained advisors.                                                                                                                            | 0800 138 1111 <br><br>Free advisors (Mon–Fri: 8am–8pm, Sat: 9am–2pm)                                                                           | <a href="https://www.stepchange.org" target="_blank" rel="noopener noreferrer">www.stepchange.org</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Turn2Us                         | Provides financial support with online benefits calculator and grants search tool.                                                                                                   | --                                                                                                                                             | <a href="https://www.turn2us.org.uk" target="_blank" rel="noopener noreferrer">www.turn2us.org.uk</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 

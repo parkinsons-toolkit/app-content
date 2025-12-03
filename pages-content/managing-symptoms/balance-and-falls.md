@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -29,8 +27,6 @@
 </div>
 
 Falls can be a significant source of concern and stress for some people with Parkinson’s. There are many things that can be done to help prevent them from happening. Falling over is more common in Parkinson’s for a number of reasons, but they can also be reasons not related to Parkinson’s.
-
----
 
 ## What might be causing it?
 
@@ -71,8 +67,6 @@ Other health conditions can increase your risk of falls, such as arthritis or ol
 - The surface – e.g. uneven pavement, narrow steps, loose rugs
 - Obstacles – e.g. trailing cables, pets
 
----
-
 ## What should I do about it?
 
 <div class="video-container">
@@ -108,8 +102,6 @@ You should seek help **urgently**, via your GP or A&E, if:
    - Weakness on one side of the body
    - Significant pain
 
----
-
 ## What can I try for myself?
 
 <div class="video-container">
@@ -144,8 +136,6 @@ In Parkinson's, specific attention also needs to be given to:
 Exercises to achieve these need to be tailored to your ability and needs.
 
 For more on all of these aspects, see the <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page.
-
----
 
 ## Tips to prevent falls
 
@@ -187,8 +177,6 @@ For more on all of these aspects, see the <a href="/information/living-with-park
 
 More information about these systems is available on the [NHS website](link) and the [Which? Later Life Care](link) website.
 
----
-
 ## My Experience
 
 <div class="video-container">
@@ -210,8 +198,6 @@ People affected by Parkinson’s describe their experiences.
 > “We’ve got buzzers. We’ve got pendants really. It connects to a mainline where they talk to you through the phone. They just say, ‘what’s wrong’? They know your name and everything and then they’ll send a medic or whatever’s needed. It is good. We pay for it, but it’s worth it. It’s not much.”
 >
 > _(Person with Parkinson’s)_
-
----
 
 ## Further assessment
 
@@ -248,8 +234,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 ### Tests
 
 Once a health professional has done an assessment, they may need further tests. This could be to determine the cause of the fall or to evaluate an injury.
-
----
 
 ## Further treatments
 
@@ -337,15 +321,11 @@ Please see the _Practical Advice_ pages found within the <a href="/information/l
 
 For specific causes of falls you may be referred to a specialist service. For example if your doctor thinks your falls may be a heart problem, you may be referred to a cardiologist.
 
----
-
 ## Key messages
 
 - Issues with balance and falls are seen in Parkinson’s. They may have other causes, so this does warrant a full assessment the first time or if there is a change.
 - Assessment may be through your GP, physiotherapist, a local falls service or a specialist.
 - Physiotherapists have expertise in helping with walking and balance. They can give advice on ways to reduce the risk of falls.
-
----
 
 ## Useful Organisations & Contacts
 

@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe
   width="560"
@@ -34,8 +32,6 @@ Conditions that can be more common in people with Parkinson’s are:
 - Seborrhoeic dermatitis: areas of the skin become red, itchy, and sore. The skin can peel or flake and can develop thick crusts or scales.
 - Wounds or ulcers from delayed healing or from pressure on a particular part of the body.
 - Abnormal moles.
-
----
 
 ## What might be causing it?
 
@@ -70,8 +66,6 @@ Prolonged pressure through an area of skin can cause damage. This is more likely
 
 All of these skin issues are seen in people who don’t have Parkinson’s as well. And people with Parkinson’s can also get skin conditions that are completely unrelated to their Parkinson’s. Wounds and ulcers are more common in people who have decreased sensation for other medical reasons. An example of this would be those with diabetes.
 
----
-
 ## What should I do about it?
 
 <div class="video-container">
@@ -93,8 +87,6 @@ Make a GP appointment as soon as possible if:
 - You have a mole that concerns you or has recently changed. Features to look out for are: large size (5mm or more in diameter), irregular edges, multi-coloured, changing, or is asymmetric – for example is lop-sided.
 
 The other skin conditions discussed here are not urgent, but if bothering you then make a routine GP appointment.
-
----
 
 ## What can I try for myself?
 
@@ -173,8 +165,6 @@ Check moles regularly (monthly), looking for any changes. You can ask someone el
   - Sunscreen must be applied liberally, carefully and repeatedly on exposed skin.
   - UVA in a circle logo indicates that a sunscreen meets the minimum standards for UVA protection. You should use a sun protection factor (SPF) of at least 30 to protect against UVB.
 
----
-
 ## Further Assessment
 
 ### Questions
@@ -191,8 +181,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 ### Tests
 
 Depending on their assessment, sometimes further tests are needed. For some skin conditions the test is a biopsy. This is where a sample of the skin or mole is taken to examine it under a microscope.
-
----
 
 ## Further Treatments
 
@@ -216,15 +204,11 @@ If skin cancer is suspected, you will be referred to a skin specialist: a dermat
 - Severe uncontrolled seborrheic dermatitis or where your doctor is uncertain about the diagnosis sometimes warrants referral to a dermatologist.
 - Long term wounds may require regular nursing review. This will either via your GP practice nurse or the district nursing services if you are unable to get to appointments.
 
----
-
 ## Key Messages
 
 - People with Parkinson’s may have skin conditions that can be common in people without Parkinson’s too.
 - Skin issues that are more common in Parkinson’s include: oily skin, seborrheic dermatitis, wounds & ulcers, and abnormal moles.
 - If you have decreased feeling or sensation in any area of your body, be sure to check there regularly (every time you bathe) for any cuts or wounds that aren’t healing properly.
-
----
 
 ## Useful Organisations & Contacts
 

@@ -18,13 +18,9 @@
 
 </div>
 
----
-
 Planning for the future when living with Parkinson’s can feel overwhelming, but having a plan in place can ease stress for both you and your loved ones. Making decisions early gives you more control over your care and helps ensure that your wishes are honoured as the disease progresses.
 
 Future care planning often includes two important tools: **Lasting Power of Attorney (LPA)** and **Advance Decisions (Living Wills)**.
-
----
 
 ## Accepting Help
 
@@ -72,8 +68,6 @@ Also consider charity services, such as the Parkinson’s UK helpline, or Age UK
 
 See the <a href="/information/further-support/further-support" class="internal-link">_Further Support_</a> pages for more ideas.
 
----
-
 ## Decisions About Your Care
 
 Decisions can be hard. Many people need support in making big decisions. There are also many reasons why someone may be unable to make decisions for themselves. Parkinson’s can affect the ability to make decisions. Anyone could find themselves in a situation that prevents them making their own decisions. This could be following an accident, for example. These considerations are therefore not only relevant in Parkinson’s, but are for _everyone_.
@@ -87,8 +81,6 @@ Think about:
 - Who do you consider wise?
 
 Share your thoughts and views with these people.
-
----
 
 ## Lasting Power of Attorney (LPA)
 
@@ -115,15 +107,11 @@ Having an LPA in place means that, if the time comes when you need help making c
 
 If you were unable to make these decisions yourself and did not have an LPA, then professionals take this responsibility. The decisions must be made in your _best interests_. Professionals are obliged to try to find out what your wishes would have been. To do this, they will look for any recorded wishes and will speak to people close to you.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “LPA for Health & Welfare is as, if not more, important than LPA for property and financial affairs, so if you have an LPA for property and finances, why not your health?”
-
----
 
 ## Recording your wishes: Advance Care Planning
 
@@ -144,8 +132,6 @@ Things to consider in an **Advance Statement**:
 
 For more information on Advance Decisions and Lasting Power of Attorney, see the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page.
 
----
-
 ## Why Future Care Planning is Important
 
 <div class="video-container">
@@ -159,8 +145,6 @@ For more information on Advance Decisions and Lasting Power of Attorney, see the
 </div>
 
 While it can be emotionally challenging to think about future care, making these decisions early can provide peace of mind. It reduces uncertainty for both you and your loved ones, allowing them to support you in ways that align with your values. Having these discussions also helps avoid last-minute decisions during times of crisis, when emotions are high.
-
----
 
 ## How Family and Friends Can Support
 
@@ -177,8 +161,6 @@ It’s also important for caregivers and family members to look after their own 
 There are also **peer support networks** where both people with Parkinson’s and their loved ones can connect with others in similar situations. You can explore the <a href="/information/further-support/services-and-groups" class="internal-link">_Services & Groups_</a> page for more information on helpful services and communities.
 
 By planning ahead, you and your family can face the future with greater confidence, knowing that your care will reflect your personal wishes and that you have the support you need.
-
----
 
 ## What if more support is neededed?
 
@@ -257,8 +239,6 @@ For people with rapidly deteriorating health who may be nearing the end of life,
 
 This funding is also from the NHS/State. It is for people who are assessed as _not eligible_ for the Continuing Healthcare (CHC) funding described above, but do need registered nursing care in a care home. It is a contribution rather than the full cost and is the same rate across England. You can contact your local Clinical Commissioning Group (CCG) or ask your health or social care professionals for more information.
 
----
-
 ## Medical Decisions
 
 ### Medical decisions about food & drink
@@ -316,7 +296,6 @@ Note: Oxygen is also a medicine and must be prescribed. It has risks and benefit
 
 A person may make the decision that they no longer want to go to hospital for medical care. This may mean that they make the decision that they are happy to have tablet antibiotics, which can be given at home. However, they may decide not have antibiotics which must be given directly into a vein, which would normally require hospital admission.
 
-
 ### Medical decisions about critical care interventions
 
 Critical Care Interventions are those which are given for life threatening illness, in a closely monitored hospital environment. There are various different machines that are used in certain circumstances to treat critical illness. The machines are designed to do the role of the body organs that are not working properly. Examples include:
@@ -367,8 +346,6 @@ Considering this, decisions around CPR are not straightforward. The default is t
 - ‘Advanced Decision to refuse life sustaining treatment’ is a legal record declining potentially life- saving treatment, such as those discussed above. There are specific rules about recording these.
 - Good communication with and from healthcare professionals is key to this: talk to those involved in your care.
 
----
-
 ## Health & care priorities
 
 Decisions about treatment and care are based on weighing up the pros and cons. All options will have potential risks and potential benefits.
@@ -406,8 +383,6 @@ Most people also find the **importance** of risks and benefits changes, i.e. the
 - When people are nearing the end of life, many prioritise comfort and environment. This may be having loved ones around, rather than medical interventions.
 
 As such, decisions about treatments change over time. It is helpful to consider your own priorities and let those around you know what these are. As these views change, keep your loved ones and the professionals who are involved in your care updated with your views.
-
----
 
 ## Useful Organisations & Contacts
 

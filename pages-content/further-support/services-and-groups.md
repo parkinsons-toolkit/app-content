@@ -12,18 +12,13 @@
 
 </div>
 
----
-
 **<ins>You are not alone</ins>**
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/not-alone.jpg" alt="not-alone" class="example-class">
 
-
 It can feel overwhelming trying to find it, but there is help out there. This website aims to provide you with information and guidance to help you to Live Well with Parkinson’s. At the end of each guidance topic there are resources for if you want more information.
 
 Here we offer some guidance on what sort of support is out there. We also indicate where to find that help. Options do vary depending on where you live, but there are some good starting points for everyone.
-
----
 
 ## General Resources
 
@@ -66,12 +61,9 @@ There are numerous charities that can offer support. We only list a few examples
 - You can find officers from PALS in your local hospital.
 - To find your local PALS office, you can ask your healthcare professional, check the <a href="www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> or telephone NHS 111.
 
----
-
 ## Peer Support
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/support-group.jpg" alt="support-group" class="example-class">
-
 
 Although it can be a daunting idea, many people find peer support helpful. We have heard this from people with Parkinson’s and research has shown the benefits. It may be social, emotional or practical support but importantly this support is given and received. Sharing experiences can increase your confidence.
 
@@ -89,8 +81,6 @@ Different groups are aimed at different people, for example:
 
 You could try different groups to find what suits you. See what people say about support groups below.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -104,8 +94,6 @@ People affected by Parkinson’s describe their experiences.
 > “I think Parkinson’s groups are great… they’re great socially. They’re great in terms of finding out about benefits that an individual may not know about [and] accessing services … They can be useful at talking about which specialists people like… also recommending specialist services like physio, like speech and language therapy… especially non-NHS treatments and things like psychological support and talking based therapies...”
 > _(Healthcare Professional)_
 
----
-
 ### How to find a support group:
 
 - Ask your Parkinson’s team about local support groups they may be aware of.
@@ -118,8 +106,6 @@ People affected by Parkinson’s describe their experiences.
   - Activity groups
 
 To find out what is available locally, try searching on Age UK or contact your local council.
-
----
 
 ## Services by Topic
 
@@ -216,8 +202,6 @@ For more information and suggested resources check out these websites:
   - <a href="https://www.disabilityrightsuk.org/" class="external-link" target="_blank" rel="noopener noreferrer">Disability Rights UK</a> - Telephone: 0330 995 0400
 - **Cars, scooters or wheelchairs with adaptations:**
   - <a href="https://www.motability.co.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Motability</a> - Telephone: 0300 456 4566
-
----
 
 ## Accessing Private Services
 

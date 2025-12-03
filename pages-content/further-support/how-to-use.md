@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 Within this section you can find a guide and further advice on how to navigate and use the _Live Well with Parkinson's_ toolkit effectively.
 
 ## Getting Started

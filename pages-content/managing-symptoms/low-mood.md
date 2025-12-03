@@ -17,8 +17,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -28,8 +26,6 @@
   allowfullscreen>
 </iframe>
 </div>
-
----
 
 ## What’s the difference between low mood and depression?
 
@@ -47,8 +43,6 @@ A general low mood may involve feeling sad, but it can also involve feeling emot
 Just because such feelings are common, it does not mean that they have to be accepted as inevitable. Making small changes in your life, such as talking about a difficult situation or increasing the amount sleep you get, can help to improve your mood. It can also help to keep as physically, mentally, and socially active as you can.
 
 A low mood which persists despite taking positive steps to help manage it can be a sign of depression. Depression is more intense and longer lasting than the short periods of low mood that anyone can experience from time to time. Depression can have the same features as low mood, plus others.
-
----
 
 ## Symptoms of depressions
 
@@ -72,8 +66,6 @@ A low mood which persists despite taking positive steps to help manage it can be
 
 People may feel ‘tired of life’ and that it is not worth living, but not actually want to die. Occasionally, people with more severe depression may have thoughts of harming themselves or taking their own life.
 
----
-
 ## What might be causing it?
 
 Depression does not have a single cause. It is a result of a combination of physical changes in the brain and the body, a person’s past and current life experiences, and the ways in which they try to cope with them. People with Parkinson’s with depression have often had periods of depression earlier in their life. They may also have family members who are prone to depression.
@@ -85,8 +77,6 @@ There is no evidence that drugs to treat Parkinson’s cause depression, but the
 Depression can be difficult to diagnose in someone with Parkinson’s. This is because there can be an overlap of symptoms. For example, many people with Parkinson’s experience difficulties with sleeping. These difficulties are likely to make you feel tired and lacking in energy. They therefore do not necessarily mean you’re depressed. Also, changes in facial movements in Parkinson’s can affect facial expression which can be misunderstood. For example, someone may look sad when they are not.
 
 Depression is more common in people who have many different long-term health conditions, not just Parkinson’s. Depression can also be caused by other common conditions not related to Parkinson’s, such as arthritis, diabetes, and cardiovascular disease. This tells us that having any long-term health condition may be the most important factor causing depression.
-
----
 
 ## What should I do about it?
 
@@ -129,8 +119,6 @@ If you need immediate help but don’t want to go to A&E, you could:
 - Contact your local crisis team (CRHT), if you’re under their care.
 
 For more details, the charity _Mind_ has information about <a href="https://www.mind.org.uk/need-urgent-help/" class="external-link" target="_blank" rel="noopener noreferrer">how to seek urgent mental health support</a>.
-
----
 
 ## What can I try for myself?
 
@@ -230,8 +218,6 @@ There are also many books that might be helpful. The <a href="https://reading-we
 
 Cognitive Behavioural Therapy (CBT) focuses on how your feelings, thoughts, and behaviour all influence each other. In turn, this can lead to or worsen feelings of depression (see below the ‘Further treatments’ section of this page for more information). There are a number of self-help CBT books recommended by the NHS for people with depression. You can access many of these at your local library via the ‘Books on Prescription’ scheme. For more information, speak with your GP or Parkinson’s nurse. Or, visit the <a href="https://reading-well.org.uk/books/books-on-prescription" class="external-link" target="_blank" rel="noopener noreferrer"> website.
 
----
-
 ## My Experience
 
 > “Sometimes I do have a good old moan and I do have a bit of a cry, because I feel so frustrated when I can’t do what I want to do. But then I just have to pick myself up and get going again.”
@@ -241,8 +227,6 @@ Cognitive Behavioural Therapy (CBT) focuses on how your feelings, thoughts, and 
 > “I can have a bad day, I can have days when my mood swings are not very happy because I don’t feel very well. When I’m not well, I’m obviously not happy. That’s why watching a film sometimes helps because you’re into the film. And you can ignore the fact of how you’re probably feeling. I watch TV to distract. I lie down to distract. I get up and go for a walk around the house. Sometimes go out the front door, have a walk around the block.”
 >
 > _(Person with Parkinson’s)_
-
----
 
 ## Further Assessment
 
@@ -271,8 +255,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 ### Tests
 
 Depending on their assessment, your healthcare professional may wish to examine you and carry out blood or urine tests. Such tests are used to look for other causes of depression, such as thyroid conditions or imbalances in the blood (e.g. high calcium levels).
-
----
 
 ## Further Treatments
 
@@ -313,16 +295,12 @@ If you are depressed and taking any of these, you should not stop them without s
 - Beta blockers, e.g. bisoprolol, propranolol
 - Hormonal medicine, e.g. some Hormone Replacement Therapy (HRT) used for menopausal symptoms or hormonal contraceptive medicines.
 
----
-
 ## Key Messages
 
 - Low mood is common and there are many things that you can do to prevent or help it.
 - Depression is more intense and longer lasting than the short periods of low mood that anyone can have from time to time.
 - Things you can do to improve your mood, even if you are not depressed: keep physically and socially active; maintain a healthy diet; improve sleep; and make time to relax.
 - There is a wide range of possible treatments for depression. Those offered by healthcare professionals include talking therapies and medication.
-
----
 
 ## Useful Organisations & Contacts
 

@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 Poor sleep leads to feeling less well in the daytime and can worsen other difficulties, like low mood, concentration and balance. It may also affect those close to you.
 
 **Parkinson’s can affect sleep in several different ways. Here we cover:**
@@ -38,8 +36,6 @@ Poor sleep leads to feeling less well in the daytime and can worsen other diffic
 
 These are covered on their own symptom page, found within the <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> section. Difficulties in getting in or out of bed is covered on the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page.
 
----
-
 ## What might be causing it?
 
 <div class="video-container">
@@ -60,8 +56,6 @@ There are other factors than can worsen sleep problems, such as medications or l
 
 _Obstructive sleep apnoea_ is a breathing condition that is thought to be slightly more common in people with Parkinson’s than those without. It is a change in the pattern of breathing. It causes a pause, followed by catch-up breaths. This could be a gasp, loud snore, a few quick breaths or a choking noise. Although they might not realise it, the person is briefly woken by this, and so their sleep is disrupted, and they tend to get very sleepy in the daytime.
 
----
-
 ## What should I do about it?
 
 <div class="video-container">
@@ -74,12 +68,9 @@ _Obstructive sleep apnoea_ is a breathing condition that is thought to be slight
 </iframe>
 </div>
 
-
 There are many things you can try for yourself (see below). If, however, you are having violent movements during sleep you should discuss this with your Parkinson’s specialist team. For other sleep disturbances, try the strategies below. If you still have problems after 1 month then speak to your GP or Parkinson’s specialist team.
 
 If you or your partner notice the breathing pattern change as described above (pauses in breathing or loud snoring) then discuss with your GP.
-
----
 
 ## What can I try for myself?
 
@@ -119,8 +110,6 @@ If you or your partner notice the breathing pattern change as described above (p
 
 _Note there is no specific bed or mattress recommended in Parkinson’s but more advice on furniture and equipment is covered in <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">\_Daily Living_</a>.\_
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -128,8 +117,6 @@ People affected by Parkinson’s describe their experiences.
 > “I find a back or leg massage relaxes me and helps me drift off to sleep.”
 >
 > _(Person with Parkinson’s)_
-
----
 
 ## Further assessment
 
@@ -156,8 +143,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 ### Tests
 
 Tests are rarely needed but occasionally ‘sleep studies’ are run. This may involve applying a sleep monitor at home, or a short hospital stay to have sleep monitored.
-
----
 
 ## Further treatments
 
@@ -195,14 +180,10 @@ You may be referred on to another service. Please be aware there is usually a wa
 
 Referrals may also be made to help with strategies or equipment for moving in or around bed. These will usually be for Physiotherapy and/or Occupational Therapy.
 
----
-
 ## Key Messages
 
 - Parkinson’s can affect sleep in many different ways, with various ways of tackling the different problems.
 - Routine and lifestyle factors can have a significant impact on your sleep.
-
----
 
 ## Useful Organisations & Contacts
 

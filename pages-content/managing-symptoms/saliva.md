@@ -15,13 +15,9 @@
 
 </div>
 
----
-
 People with Parkinson’s can get problems with their saliva. Sometimes drooling or dribbling can happen. This can cause irritation, infection, or cracks around your mouth. This in turn can make talking, laughing, eating or drinking an issue.
 
 Other people with Parkinson’s may experience dry mouth. This can lead to dental problems, which can be unpleasant and also increase the chance of chest infections. It can feel uncomfortable and make the breath smell.
-
----
 
 ## What might be causing it?
 
@@ -41,8 +37,6 @@ Other conditions can cause problems with saliva. Either due to excess fluid in t
 
 Parkinson's drugs and other drugs can cause a dry mouth. Breathing through the mouth can cause a dry mouth. It can happen when dehydrated from smoking, or after surgery, or injury to the face or neck.
 
----
-
 ## What should I do about it?
 
 There are many things you can try for yourself. But if your saliva problems don’t improve within one month and are troublesome, seek help from your GP or talk to your Parkinson’s specialist team.
@@ -50,8 +44,6 @@ There are many things you can try for yourself. But if your saliva problems don�
 If you have white patches in the mouth, or it is painful and red or swollen, see your GP. If you have concerns about tooth decay, gum disease, or infections in the mouth then you should consult a dentist. Make sure to tell them you have Parkinson’s.
 
 Note if you have <ins>new</ins> weakness in the face, you should see your GP. <ins>Very sudden</ins> weakness, occurring ‘like the snap of the fingers’, on one side of the body could be a stroke: call for an ambulance, 999.
-
----
 
 ## What can I try for myself?
 
@@ -98,8 +90,6 @@ Note if you have <ins>new</ins> weakness in the face, you should see your GP. <i
 - Reduce alcohol, caffeine and fizzy drink intake.
 - Alcohol-based mouthwashes.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -107,8 +97,6 @@ People affected by Parkinson’s describe their experiences.
 > “If I didn’t dribble it would help, but sucking a polo helps. I tried sugary sweets, but that didn’t work very well. It got all sticky.”
 >
 > _(Person with Parkinson’s)_
-
----
 
 ## Further Assessment
 
@@ -133,8 +121,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 ### Tests
 
 Most people do not need further tests.
-
----
 
 ## Further Treatments
 
@@ -183,15 +169,11 @@ Most people do not need further tests.
 
 Note: research does _not_ support the effectiveness of acupuncture or electrostimulation for dry mouth.
 
----
-
 ## Key Messages
 
 - Parkinson’s may cause too much saliva, or not enough saliva.
 - There are things you can try for both of these.
 - Saliva problems in Parkinson’s get worse over time. Sudden problems with saliva are likely due to another cause.
-
----
 
 ## Useful Organisations & Contacts
 

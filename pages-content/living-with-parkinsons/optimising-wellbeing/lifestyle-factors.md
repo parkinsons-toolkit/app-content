@@ -17,8 +17,6 @@
 
 </div>
 
----
-
 As well as managing Parkinson’s, there are general medical recommendations to improve long-term health. The following advice is based on general NHS guidance, tailored for people with Parkinson’s. The focus is on things you can do, or support you can access, that may help to prevent problems in the future.
 
 ## Vaccinations
@@ -41,8 +39,6 @@ Vaccinations are medications designed to prevent infections. Vaccination schedul
 
 These are all delivered as injections, usually into the arm. You should have vaccines if you are allergic to the ingredients or are ill at the time. More information can be found on the NHS website, under ‘Vaccinations’.
 
----
-
 ## Blood Pressure
 
 ### What is blood pressure?
@@ -53,7 +49,6 @@ Your heart pushes blood around the body through a network of blood vessels, simi
 
 - The first or top number is known as **systolic blood pressure**. This is the pressure as the heart is pushing, i.e. the force of that push.
 - The second or bottom number is known as **diastolic blood pressure**. This is the pressure as the heart relaxes between pushes and the blood is flowing, i.e. the resistance in the pipes themselves.
-
 
 <div class="video-container">
 <iframe 
@@ -103,8 +98,6 @@ It is recommended that everyone over the age of 40 years has their blood pressur
 
 You can have your blood pressure tested at your GP surgery, hospital appointments, and some pharmacies. Or, you can buy your own blood pressure monitor for use at home. The <a href="https://bihsoc.org/#%3A~%3Atext%3DThe%20British%20and%20Irish%20Hypertension%20Society%26text%3DThe%20Society%20comprises%20doctors%2C%20nurses%2Cthe%20forefront%20of%20cardiovascular%20research" class="external-link" target="_blank" rel="noopener noreferrer">British and Irish Hypertension Society</a> and <a href="[https://www.parkinsons.org.uk](http://www.bloodpressureuk.org/Home)" class="external-link" target="_blank" rel="noopener noreferrer">Blood Pressure UK</a> both have advice on validated monitors.
 
----
-
 ## Bone Health
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/sunshine.jpg" alt="Vitamin-D-sunshine" class="lifestyle-factors__sunshine">
@@ -114,7 +107,7 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
 - You can buy these from the chemist. If you do not need to take calcium tablets as well, you can buy these as Vitamin D3. We would normally recommend taking a daily dose of 20 or 25 micrograms (μg) which is equivalent to 800 or 1000 units a day (unless your doctor has recommended a different dose). If you are not sure on what dose to take, or if you should take calcium as well, discuss this with your GP.
 - If you are particularly at risk, your GP may do a blood test to check your vitamin D level. If they are low, you may need a higher dose of vitamin D to bring your levels back up to normal.
 - As people get older, in particular women, their bones can become less dense and more brittle. If this is higher than expected for your age, you may be diagnosed with Osteoporosis. If your bones are thinner, this makes them more likely to fracture from low impact injuries (e.g. breaking your wrist after falling).
-  
+
 <div class="video-container">
 <iframe 
   width="560" 
@@ -128,9 +121,6 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
   - They will take into account your height, weight and risk factors (e.g. smoking).
   - Depending on the outcome of this assessment, they may want to do blood tests and/or a bone scan (called a DXA scan).
 - There are medications that can help to strengthen bones if they are found to be low density. They may also prescribe combined calcium and vitamin D3 tablets.
-
-
----
 
 ## Lifestyle Choices
 
@@ -159,8 +149,6 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
 ### Cannabis
 
 There is growing interest in the use of cannabis-based products for the treatment of health conditions. You can find more about the use of Cannabis on our <a href="/information/treatments-and-therapies/complementary-therapies" class="internal-link">_Complementary Therapies_</a> page.
-
----
 
 ## Vision & Hearing
 
@@ -192,7 +180,6 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
 </iframe>
 </div>
 
-
 ### Hearing
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hearing.jpg" alt="hearing-aid" class="lifestyle-factors__hearing">
@@ -213,8 +200,6 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
 - Hearing problems are often not preventable. You can help to protect your hearing by minimising loud noise exposure. Be mindful of how loud your music plays, time spent at noisy events, and potential noise exposure at work.
 
 More information about healthcare costs is on our <a href="/information/living-with-parkinsons/practical-advice-finances" class="internal-link">_Finances_</a> page. For more information about sight and hearing problems, see our <a href="/information/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page.
-
----
 
 ## Foot Care
 
@@ -241,9 +226,6 @@ Foot problems can be painful and can affect your walking and balance. Taking car
 - Apply caution in communal areas: shared showers (e.g. at the gym) and swimming pool areas are associated with foot infections.
 - If you notice a problem with your feet, such as an infection, get it treated promptly so it does not develop complications. Some treatments are available from the pharmacy, or you can see your GP or practice nurse. In some cases, you will be referred to a foot specialist, known as a podiatrist.
 
-
----
-
 ## Dental Care
 
 Taking care of your teeth is really important as poor dental health can lead to pain and infections. It may even lead to difficulties eating and drinking in the long run.
@@ -264,11 +246,10 @@ Taking care of your teeth is really important as poor dental health can lead to 
 - Have regular check-ups with your dentist. Dental checks are provided by the NHS for a fee, unless you are on a low income. See the <a href="https://www.nhs.uk/nhs-services/dentists/who-can-get-free-nhs-dental-treatment/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> for more information on who qualifies for free NHS dental care. The frequency of check-up depends on the health of your teeth and gums. Your dentist can advise on this.
 - Don’t delay treatments if you have a problem. Many dental treatments are available on the NHS, but most will require a contribution to the cost which can vary in amount depending on the treatment needed. People in receipt of certain financial benefits are entitled to free NHS dental treatment.
 
----
-
 ## Bowel Care
 
 Avoiding constipation is very important in Parkinson’s. For more information, see the <a href="/information/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> page.
+
 <div class="video-container">
 <iframe 
   width="560" 
@@ -285,10 +266,8 @@ Key ways to avoid constipation:
 - Drink plenty of water
 - Be active
 
-
----
-
 ## Skin Care
+
 <div class="video-container">
 <iframe 
   width="560" 
@@ -305,10 +284,6 @@ Key ways to avoid constipation:
 - Avoid prolonged pressure through a single area of skin (e.g. sitting in the same position for a long time) as this can damage the skin.
 - Some sun exposure is good and helps your body maintain vitamin D levels. However excessive sun exposure increases the risk of skin damage and skin cancer. See the NHS website <a href="https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> for some tips on safe sun exposure.
 - See our <a href="/information/managing-symptoms/skin-conditions" class="internal-link">_Skin Conditions_</a> page for more information on this.
-
-
-
----
 
 ## Useful Organisations & Contacts
 

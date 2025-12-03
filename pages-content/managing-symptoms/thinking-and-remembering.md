@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -29,8 +27,6 @@
 Difficulties with thinking and remembering are common in Parkinson’s. They can be very worrying for the person experiencing these as well as for those around them. As we get older, we are likely to notice more difficulties with our memory, speed of thinking, and ability to do several things at once. But bigger changes, particularly if they affect day-to-day activities, are not normal and should be discussed with a healthcare professional. Vocabulary and reading do not normally get worse with age. Difficulties with thinking and memory are not always signs of dementia.
 
 For information about more advanced symptoms, including dementia, see the <a href="/information/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">_Progression of Symptoms_</a> page.
-
----
 
 ## What might be causing it?
 
@@ -74,15 +70,11 @@ Memory and thinking problems, or confusion, can also occur as sudden changes in 
 - Medications
 - Abnormal blood chemistry (e.g. high or low blood sugar levels).
 
----
-
 ## What should I do about it?
 
 If there has been a sudden noticeable change in your thinking or memory (i.e. you become confused over hours or days) then you should see a healthcare professional urgently. If you are otherwise well this should be your GP, but if you are very ill then you should go to A&E.
 
 If the onset of your symptoms has been more gradual (weeks to months) then there is more time to act. If the symptoms persist more than 1 month or are impacting your daily life, then you should make a non-urgent appointment with your GP. You should also discuss them with your Parkinson’s specialist team. But there are many things you can try for yourself to deal with the symptoms as well.
-
----
 
 ## What can I try for myself?
 
@@ -139,8 +131,6 @@ There is no recommended treatment to stop or prevent memory and thinking problem
 
 It’s important to note there is **not** currently enough evidence to recommend these.
 
----
-
 ## Further Assessment
 
 ### Questions
@@ -170,8 +160,6 @@ Depending on their assessment, your GP or Parkinson’s specialist may arrange s
 
 This may include blood tests, urine tests or occasionally a brain scan.
 
----
-
 ## Further Treatments
 
 A healthcare professional may be able to offer reassurance or possibly further treatment.
@@ -198,14 +186,10 @@ There are benefits and risks of all medication so you should speak to your healt
 - You may be referred on to another service. Please be aware that there is usually a waiting time before the next service will see you.
 - The typical referral for memory and thinking problems is to a multi-professional service called a “memory clinic”. Or you may be referred for a specialist assessment by a cognitive neuropsychologist.
 
----
-
 ## Key Messages
 
 - Thinking and memory problems are not always a sign of dementia.
 - Looking after your physical and emotional wellbeing may help with your memory and thinking.
-
----
 
 ## Useful Oranisations & Contacts
 

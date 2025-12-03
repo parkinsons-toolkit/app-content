@@ -14,11 +14,7 @@
 
 </div>
 
----
-
 A diagnosis of Parkinson’s does not mean you have to leave your job or not work again. Many people with Parkinson’s can still work. The important thing to consider is how the symptoms of Parkinson’s may impact your work and day-to-day life.
-
----
 
 ## Working with Parkinson’s
 
@@ -36,8 +32,6 @@ For example:
 This should not stop you from working if you wish to continue. You may need to adapt your job slightly or find ways to manage these work-related issues. For more advice, see our <a href="/information/managing-symptoms/tremor" class="internal-link">_Managing Symptoms_</a> and <a href="/information/living-with-parkinsons/practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> pages.
 
 You can speak to your GP or specialist about ways to help you better manage your symptoms for the type of work you do.
-
----
 
 ### Talking to Colleagues
 
@@ -95,8 +89,6 @@ If you decide you would like to tell your colleagues, there are several ways you
 - Organise for an expert (e.g. Parkinson’s nurse, Parkinson’s UK representative) from the local area to visit your work. They may be able to give information to the team and answer any questions.
 - Remember, there is no pressure to tell your colleagues if you do not feel comfortable to do so.
 
----
-
 ## Adjustments at Work
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/work.jpg" alt="working" class="work-and-caring__work">
@@ -133,8 +125,6 @@ Once you and your employer have agreed on some workplace adjustments, it is best
 
 If you are a member of your trade union at work, you can ask them for support. For example, if you didn’t feel comfortable speaking to your employer alone you can ask a trade union representative to attend meetings with you. They can also help you learn more about your legal rights.
 
----
-
 ## Time Off Work
 
 UK law entitles employees to take time off work if they are ill. If you are off work for less than 7 days in a row (includes weekends and bank holidays) then you do not need to provide any proof of sickness from a healthcare professional. If have more than 7 days off in a row due to sickness, then you will need a ‘fit note’ (sometimes called a ‘sick note’) for further days.
@@ -164,8 +154,6 @@ You can get a fit note from a GP or hospital doctor. This service is free of cha
 ### Annual Leave
 
 If you do not qualify for statutory sick pay but you still need paid time off work, the other option could be to use some of your annual leave or holiday.
-
----
 
 ## Voluntary Work
 
@@ -203,8 +191,6 @@ The guidance for this is similar to that described above (see section ‘adjustm
 
 As a volunteer, you do not have a contract of employment. This means you do not have the same rights as an employee. But you should have some sort of agreement that outlines what support you’ll get, the level of supervision, and the hours and duties that are expected of you.
 
----
-
 ## Caring for Others and Being Cared For
 
 <div class="video-container">
@@ -236,15 +222,11 @@ It is important carers look after themselves, so they can look after others. One
 
 For various reasons, some people can no longer be looked after at home and need to move to a care home. But this does not mean they are no longer helped by their family and friends. Many carers spend time visiting the care home and some help with care tasks. Many also continue to be involved in decisions about the person’s care. For more information on different options for supported living see our <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > _“…for anyone that is a carer, they must have something for themselves, either exercise or going out for coffee with friends. You have to do that.”_ > _(Carer of someone with Parkinson’s)_
-
----
 
 ## Useful Organisations & Contacts
 

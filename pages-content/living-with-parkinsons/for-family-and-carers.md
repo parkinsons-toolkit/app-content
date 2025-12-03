@@ -27,8 +27,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -66,8 +64,6 @@ This means it is not just what you can do on your own (that is, using your own i
 
 This means not only seeking support when you experience unhelpful and challenging emotions or begin to feel overwhelmed by them. It is also finding support from the start that can help to prevent any unhelpful/challenging emotions from escalating.
 
----
-
 ## Looking after your general wellbeing
 
 As well as reacting to challenging emotions when they arise, it is also important to be proactive, i.e. to look ahead so you can be in more control when dealing with challenging emotions. Looking ahead and putting strategies and practical things in place can be of help when juggling multiple commitments. This will help you to be in a better place to cope with the demands of being a carer. It could also prevent stress or burnout as much as possible. You can improve your mental wellbeing and resilience, i.e. your ability to cope, in a number of ways.
@@ -86,16 +82,12 @@ While many carers are selfless in what they do, it is important to remember that
 
 Please see the <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">_Finances_</a> page for information about financial support that may help you look after your own wellbeing too. Also, the <a href="/information/treatments-and-therapies/complementary-therapies" class="internal-link">_Complementary Therapies_</a> pages for information of activities you may like to try for your wellbeing.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences:
 
 > “For anyone that is a carer, they must have something for themselves, either exercise or going out for coffee with friends. You have to do that ... when I’ve been out, he’ll say, how was the class? and I’ll say, ‘oh, I’m exhausted’. And then you’ve got things to talk about.”  
 > _(Carer of someone with Parkinson’s)_
-
----
 
 ## Coping with stress
 
@@ -149,8 +141,6 @@ Stress is something we all encounter. Life changes, such as personal problems, r
 
 To overcome stress or prevent too much stress, there are lots of practical steps you can take. At heart of this is looking after yourself and your wellbeing.
 
----
-
 ## Tips for coping with stress
 
 - **_Identify triggers:_** Try to identify the things that you find stressful. This varies from person to person and their situation. Once you are aware of what may be your triggers, you can then find ways to address them. Sometimes it is not possible to address what is stressing you but recognising this can reduce stress in itself.
@@ -172,8 +162,6 @@ To overcome stress or prevent too much stress, there are lots of practical steps
   - Who can you call?
 - _**Confide in someone:**_ Do not keep stress bottled up. Even if there is nothing anyone can do about the stress, sharing how you are feeling with someone you trust can be helpful. This can take many formats, including online groups and resources. It can also let people know they need to keep you in mind and ask how you are. This can make a big difference. For some keeping a journal can be a helpful way of recording and releasing stresses and concerns.
 
----
-
 ## Traps to avoid
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/anxiety-low-mood.jpg" alt="anxiety-low-mood" class="for-family-and-carers__anxiety-low-mood">
@@ -184,16 +172,12 @@ While there are positive steps you can think about taking, there are also some t
 - _**Not communicating your needs:**_ People will often offer help, but sometimes it might not be the right help. Also, the help you need may change over time. This can be as stressful as people not helping. However, it is important to remember people are not mind-readers. They often do not know what help is needed or what is most important to you. Do not be afraid to let people know your needs and to be specific. Equally, allow others room for error. They are unlikely to do things as well as you, but they need the chance to practise (and remember the concept of good enough).
 - _**Not being assertive:**_ Being a carer means you will often have many additional demands on you. Therefore, it is important that you are assertive when you need to be. This can be when others put additional demands on you or when it comes to stating your own needs. Being assertive is stating your needs clearly and why they are important to you.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “If you can cope with one day at a time, it’s less stress, …. just concentrate on today. It works. Less stress for me, less stress for him. …. I’ll say to anybody’ take one day at a time. It’s less stress’. I think if you take the stress away you can cope.”  
 > _(Carer of someone with Parkinson’s)_
-
----
 
 ## Coping with low mood and depression
 
@@ -234,16 +218,12 @@ _**Tips for coping with low mood and depression:**_
 - Doing things that give you a sense of purpose and meaning (e.g. work, volunteering)
 - Avoiding alcohol
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “Count your blessings. What you’ve got today, make the most of.”  
 > _(Carer of someone with Parkinson’s)_
-
----
 
 ## Coping with anxiety
 
@@ -288,8 +268,6 @@ _**Tips for coping with anxiety:**_
 - Using relaxation techniques
 - Practising controlled breathing
 
----
-
 ## Coping with uncertainty
 
 <div class="video-container">
@@ -314,8 +292,6 @@ _**Tips for coping with uncertainty:**_
 - _**Develop a good support network:**_ Worry often escalates when you underestimate your ability to cope with things. You can help yourself feel more secure and able to cope with the future no matter how uncertain it may seem by strengthening your relationships. Also strengthening other resources, you can draw upon.
 - _**Try to enjoy the here and now:**_ It is understandable to be concerned about the future, and it is sensible to think through some of your concerns. However, do not let these distract you from making the most out of the here and now.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -325,8 +301,6 @@ People affected by Parkinson’s describe their experiences.
 
 > “The advice I would give to people is that you prepare yourself a schedule of things that you should be doing for and with that person during your day. And where it varies, you mark it up and vary it as… but unless you write it down and give yourself something to work to, you can go wrong.”  
 > _(Carer of someone with Parkinson’s)_
-
----
 
 ## Coping with guilt
 
@@ -353,8 +327,6 @@ _**Tips for managing guilt:**_
   - _Talk online/telephone:_ People often find it helpful to talk to people who don't know them when sharing feelings of guilt. Online groups or forums can be helpful in these situations. There are also charities you can call for free where you can talk your thoughts through, especially if you suddenly feel overwhelmed by them, for example the Samaritans.
   - _Talk to your GP:_ They may be able to refer you to a counselling service or give you information about local support groups. You can also self-refer to some services in some locations. Details of psychological services (IAPT) can be found on the NHS website.
 
----
-
 ## Coping with loss and grief
 
 <div class="video-container">
@@ -376,8 +348,6 @@ _**Tips for coping with loss and grief:**_
 - _**Speak to others in a similar situation**_ It can be really helpful to speak to someone who you know will understand exactly what it is you are going through. They may give you some ideas on how to cope. It will also remind you that you are not alone. Local support groups can be a good place to find others who are in similar situations.
 - _**Express your grief.**_ Grief cannot stay hidden deep within you, so it is good try to acknowledge and express your feelings. If talking to someone feels too much, then find other ways to express your feelings. This could be through music, art, exercise or writing a personal journal.
 
----
-
 ## Accepting help
 
 We know there can always be situations where asking for and accepting help can be difficult but is essential. It is important that if you can, you let those around you know what your needs are. This will help them support you in the most effective way. Having a list of numbers/email addresses/websites for support groups/systems can help you feel secure in the knowledge you have access to support when you need it.
@@ -389,8 +359,6 @@ _**Tips for accepting help:**_
 - _**Ask for help:**_ Your friends, family and others around you may be glad to be told how they can help. If they are unable or unwilling to help, it will be useful to know this when planning your sources of support. Remember, if you are not in a situation to ask, having that list of numbers/email addresses/websites for support groups/systems can help you know you are not alone.
 - _**Guide help:**_ If people do help, but give the wrong help, talk to them about this. Gently guide them on what would be useful and how to give you the right sort of help. This might differ from person to person. The help you need might be a listening ear, or it might be something more practical. Being clear about what you need from each helper will allow you to build a more effective support network. Remember, you can always contact/talk to an independent source outside of your immediate circle.
 - _**Refusal of help**_ Sometimes people with Parkinson’s may choose not to accept the support offered. There may be many reasons for this. It is important that you talk to the person about this. What help are they willing to accept? What do they not want? These conversations can help both of you define your roles better and be clear about what is expected of the other. Sometimes it may be that the person with Parkinson’s is suffering emotionally. If you suspect this is the case, you could encourage them to get some support. Remember, if you are not in a situation to be able to talk with the person with Parkinson’s /or other family members, you can contact one of the support groups which may help you know you are not alone.
-
----
 
 ## Coping with changes in relationships
 
@@ -408,8 +376,6 @@ _**Tips for coping with changes in relationships:**_
 - Define what you are willing and not willing to do as a carer
 - Ask the person with Parkinson’s what they are willing or not willing to allow you to help with
 - Keep talking
-
----
 
 ## Coping with changes to sexual relationships
 
@@ -445,8 +411,6 @@ _**Tips for coping with changes in sexual relationships:**_
 - Speak to your health professionals if concerned. This is particularly important if there are issues with increased sex drive, because this can escalate if left unchecked.
 - Consider talking to your GP or Parkinson’s nurse about medications if you are concerned about any of the physical aspects (e.g. incontinence or erectile dysfunction).
 
----
-
 ## Coping with later stages of Parkinson’s
 
 As Parkinson’s progresses, it can cause greater disability and have more of an impact on everyday life. In addition, it can sometimes cause other health problems such as infections. This all means that you may have more to do to care for the person with Parkinson’s. This can affect your life in many ways:
@@ -456,8 +420,6 @@ As Parkinson’s progresses, it can cause greater disability and have more of an
 - _**Work:**_ Juggling working and caring can be very difficult. You have a legal right to request flexible working to help you manage your added responsibilities. Flexible working may involve working compressed hours, different work hours, working from home or a different site, or working part- time. You also have the right to take time off in an emergency. Further information can be found on the GOV.UK website, or www.carersuk.org
 - _**Finances:**_ Caring can have an impact on your finances. This is especially if you have had to give up work in order to support someone. As a carer, you are entitled to a Carer’s Assessment from your local social services team. This will assess if you are eligible for any extra support, including financial assistance. Please see the <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">_Finances_</a> page for further information.
 - _**Transport:**_ If you or your passenger has severe mobility problems, you may be allowed to apply for a Blue Badge. This means you are free from some parking restrictions and have access to selected parking spaces. There may however be additional restrictions in your borough. Check the <a href="www.gov.uk/apply-blue-badge" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK website</a>. Your local authority may also offer additional reduced fare schemes for people with disabilities. For example, in London, the Freedom Pass lets older and people with disabilities to use London buses, tubes and trains for free. Day centres and clubs can also help with transport in some cases, so you don’t have to arrange this yourself. See the <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for more information.
-
----
 
 ## Coping with changes in thinking and behaviour
 
@@ -477,8 +439,6 @@ _**Tips for coping with changes in thinking and behaviour:**_
 - Keep to a daily routine, with the same time for meals and bedtime as much as possible
 - Avoid unfamiliar or confusing environments
 - Use a nightlight or low-level lighting at night-time to reduce any confusion
-
----
 
 ## Coping with the future
 
@@ -505,8 +465,6 @@ _**Tips for coping with the future:**_
 - Make an LPA and any Advance Decision or advance statement of wishes
 - Identify who might be best to help you complete forms if needed
 - Inform the person with Parkinson’s health care team that you have made these
-
----
 
 ## Useful Organisations & Contacts
 

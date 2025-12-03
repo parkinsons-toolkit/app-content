@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -28,8 +26,6 @@
 </div>
 
 Tremor is an uncontrollable, involuntary movement of a part of the body. Around one in three people with Parkinson’s never experience tremor. For others, it may be the most noticeable symptom. It may start in one area, like the right hand, and then gradually spread to another area on the same side of the body, like the right leg; it can eventually move to the other side of the body.
-
----
 
 ## What might be causing it?
 
@@ -45,15 +41,11 @@ Non-Parkinson’s tremor can be due to multiple factors:
 
 Whatever the cause, most tremors get worse when the individual is anxious or stressed.
 
----
-
 ## What should I do about it?
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/tremor.jpg" alt="tremor" class="tremor__tremor">
 
 There are many things you can try for yourself as below. If despite these, the tremor is very bothersome, speak to your Parkinson’s specialist team routinely about possible changes to your treatment. Unfortunately, treatments and strategies do not completely stop the tremor. The aim is to minimise the impact on daily life.
-
----
 
 ## What can I try for myself?
 
@@ -89,8 +81,6 @@ Sometimes tremors can make specific tasks more difficult. Extra adaptations, sup
 - Technology – some people find touch screen difficult to control with a tremor and find using a mouse easier; others use voice control. Most smartphones allow for voice dictation instead of typing. Similarly using a device such as an Alexa can be helpful. See our <a href="/information/living-with-parkinsons
   /practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> page for more ideas.
 
----
-
 ## My Experience
 
 <div class="video-container">
@@ -113,8 +103,6 @@ People affected by Parkinson’s describe their experiences.
 >
 > _(Person with Parkinson’s)_
 
----
-
 ## Further assessment
 
 ### Questions
@@ -135,8 +123,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 ### Tests
 
 Further tests are not normally required, unless there is a suspicion of an alternative cause of the tremor from the clinical assessment.
-
----
 
 ## Further treatments
 
@@ -170,15 +156,11 @@ Having consulted a healthcare professional, they may offer reassurance or furthe
 - If your Parkinson’s specialist has exhausted all medication options and the tremor is still impacting your daily life a great deal then you may be a candidate for a surgical therapy such as Deep Brain Stimulation. If your Parkinson’s specialist team think that is the case, they may refer you to a specialist centre for further assessment. See <a href="/information/treatments-and-therapies/treatments-and-therapies
   /advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Treatments & Surgical Treatments_</a> for more information.
 
----
-
 ## Key messages
 
 - It can sometimes be difficult to tell the difference between a Parkinson’s tremor and other causes of tremor at the time of diagnosis.
 - Tremor can be increased by stress or anxiety.
 - Medications for Parkinson’s can help treat tremor.
-
----
 
 ## Useful Organisations & Contacts
 

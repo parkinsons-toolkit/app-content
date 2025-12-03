@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe
   width="560"
@@ -34,8 +32,6 @@ Restless leg syndrome can feel like:
 
 These sensations usually occur in the evening while you are relaxing. Moving your legs will likely make them immediately feel better, but the sensations will return once they are still again. Because these feelings tend to occur or get worse at night, they can disrupt people’s sleeping schedules.
 
----
-
 ## What Might Be Causing It?
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/restless-legs.jpg" alt="restless-legs" class="restless-legs__restless-legs">
@@ -44,15 +40,11 @@ These sensations usually occur in the evening while you are relaxing. Moving you
 - Non-Parkinson’s causes of restless leg include low iron, reduced kidney function, or pregnancy; but most cases of restless leg don’t have a clear cause. It can also run in families.
 - Alcohol, smoking, caffeine, and some medications tend to make the symptoms of restless leg worse.
 
----
-
 ## What Should I Do About It?
 
 If you have new symptoms of restless leg (as described above), or have never consulted a professional about it before, you should speak to your GP or Parkinson’s specialist team.
 
 Mild cases of restless leg may be treated with lifestyle changes, but more moderate or severe cases of restless leg may require medication. You should speak to your Parkinson’s specialist team if restless legs are interfering with your sleep. You should also speak to them if you are not able to manage it with lifestyle changes.
-
----
 
 ## What Can I Try for Myself?
 
@@ -73,8 +65,6 @@ Mild cases of restless leg may be treated with lifestyle changes, but more moder
 - Establishing regular sleeping habits.
 - Maintaining a cool sleeping space.
 
----
-
 ## Further Assessment
 
 ### Questions
@@ -93,8 +83,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 ### Tests
 
 Your GP may check your ferritin or iron levels. This is to see if a low iron level is contributing to your symptoms. Very occasionally, if another cause is suspected, they may run further tests. This can include other blood tests or tests of the electrical activity in the nerves.
-
----
 
 ## Further Treatments
 
@@ -121,16 +109,12 @@ If your iron levels are low:
 - Painkillers, such as codeine, and tramadol.
   - These medications can cause constipation and other side effects, and must be monitored by healthcare professionals.
 
----
-
 ## Key Messages
 
 - Restless leg syndrome can feel like burning, pins and needles, or an irresistible urge to move your legs.
 - Symptoms tend to happen at night or while people are relaxing. Symptoms may interrupt sleep.
 - It’s important to get your ferritin level checked. This is to make sure a low iron level isn’t contributing to your symptoms.
 - Lifestyle changes and medications are also options for treating the symptoms of Restless Leg Syndrome.
-
----
 
 ## Useful Organisations & Contacts
 

@@ -15,13 +15,9 @@
 
 </div>
 
----
-
 Parkinson’s is a chronic condition that causes difficulties with movements. It can also cause a range of other symptoms. Parkinson’s is an extremely varied condition. It affects each person uniquely. Different symptoms may occur at different times. Each symptom may respond differently to treatments.
 
 _Parkinsonism_ is a broad term. It covers a range of conditions that have features similar to Parkinson's. When speaking about Parkinson’s, people are usually referring to Idiopathic Parkinson’s Disease. This is one type of Parkinsonism, but there are a number of others.
-
----
 
 ## What is the cause?
 
@@ -41,26 +37,19 @@ In Parkinson’s there is a gradual loss of cells. This is mainly in an area of 
 
 At present, no one knows for sure what causes Parkinson’s. Many factors are associated with an increased or decreased chance of having it. Research continues in this area. We know there is a genetic component, but with rare exceptions it is not due a single gene, inherited from one generation to the next. More often, a combination of many genes is thought to be involved.
 
----
-
 ## Myth Buster
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/myth-busting.jpg" alt="myth-busting" class="example-class">
 
-
 “Parkinson’s only affects old people.” - It is most common in people over the age of 60. But it can also occur in younger people.
 
 “Parkinson’s is contagious.” - It is not contagious. You <ins>cannot</ins> catch it from another person.
-
----
 
 ## How common is Parkinson’s?
 
 Rates of Parkinson’s increase with increasing age.
 
 It affects one person in every 100 people over the age of 60yrs. Parkinson’s affects one person in every 20 people over the age of 80yrs.
-
----
 
 ## What are the symptoms?
 
@@ -73,8 +62,6 @@ The three main motor symptoms of Parkinson’s are:
 - Stiffness, known medically as rigidity
 
 Not everyone with Parkinson’s will experience all three main motor symptoms. But movement is always affected for a diagnosis of Parkinson’s. The non-motor symptoms are varied and can be harder to see. Some examples include anxiety, sleep difficulties and constipation. These can occur before movement symptoms. You can read more about specific symptoms on the <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages.
-
----
 
 ## How is Parkinson’s diagnosed?
 
@@ -89,8 +76,6 @@ Not everyone with Parkinson’s will experience all three main motor symptoms. B
 </div>
 
 The diagnosis of Parkinson’s is made by a clinician experienced in Parkinson’s. They ask careful questions and do a close clinical exam. The diagnosis is based on a person’s story and examination. There is no one test that can diagnose Parkinson’s. Doctors may order brain scans like an _MRI_, or order some blood tests to exclude other conditions. These actions can add pieces to the puzzle. Sometimes Parkinson’s can look like other conditions. It may even look like a normal ageing process. The diagnosis is not always clear. Since there is no test to show whether someone has Parkinson’s or not, it can take time for the picture to become clearer. In some cases that means a change in the first diagnosis.
-
----
 
 ## How is Parkinson’s treated?
 
@@ -112,8 +97,6 @@ There are medications available for many Parkinson’s symptoms. See <a href="/i
 
 Lots is known about Parkinson’s. But there is even more to be discovered! See the <a href="/information/research" class="internal-link">_Research_</a> page to know more.
 
----
-
 ## Other Types of Parkinsonism
 
 Parkinsonism is a term used to describe a group of symptoms namely: bradykinesia, tremor and rigidity. Parkinson’s disease is a type of Parkinsonism but there are others. There are a range of other diagnoses each of which have features of Parkinsonism but with additional symptoms. Please see links below for further details. Other Parkinsonian conditions can be very difficult to diagnose, as symptoms can look similar to PD and only reveal themselves/change with time. Your specialist will look out for these.
@@ -123,8 +106,6 @@ Parkinsonism is a term used to describe a group of symptoms namely: bradykinesia
 - <a href="https://www.parkinsons.org.uk/information-and-support/types-parkinsonism" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK - Types of Parkinsonism</a>
 - <a href="https://www.parkinson.org/understanding-parkinsons/what-is-parkinsons/types-parkinsonisms" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's Foundation - Types of Parkinsonisms</a>
 
----
-
 ## Useful Organisations & Contacts
 
 Please also see the [_Services & Groups_](/information/further-support/services-and-groups) page for more sources of support, or our [_Resources_](/information/further-support/resources) page.
@@ -133,7 +114,5 @@ Please also see the [_Services & Groups_](/information/further-support/services-
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Parkinson’s Foundation** | This American organisation introduces Parkinson’s disease by explaining its symptoms, causes, treatments, and the importance of understanding its progression. | --                                                                                                                                                 | [https://www.parkinson.org/understanding-parkinsons/what-is-parkinsons](https://www.parkinson.org/understanding-parkinsons/what-is-parkinsons) <br><br> See also ‘Types of Parkinsonisms’: [https://www.parkinson.org/understanding-parkinsons/what-is-parkinsons/types-parkinsonisms](https://www.parkinson.org/understanding-parkinsons/what-is-parkinsons/types-parkinsonisms) |
 | **Parkinson’s UK**         | An overview of Parkinson’s, including its symptoms, causes, progression, and how it affects daily life.                                                        | 0808 800 0303 <br><br> Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am–6pm, and Saturday, 10am–1pm) | [https://www.parkinsons.org.uk/information-and-support/what-parkinsons](https://www.parkinsons.org.uk/information-and-support/what-parkinsons) <br><br> See also ‘Types of Parkinsonism’: [https://www.parkinsons.org.uk/information-and-support/types-parkinsonism](https://www.parkinsons.org.uk/information-and-support/types-parkinsonism)                                    |
-
----
 
 To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our [_Resources_](/information/further-support/resources) page.

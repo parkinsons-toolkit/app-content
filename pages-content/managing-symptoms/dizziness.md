@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe
   width="560"
@@ -39,8 +37,6 @@ Although it can be difficult to decide which group dizziness symptoms fit into, 
 
 Many people experience balance problems or falls for other reasons. See the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page for more information.
 
----
-
 ## What might be causing it?
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dizzy.jpg" alt="dizzy" class="dizziness__dizzy">
@@ -55,15 +51,11 @@ Dizziness is seen in a range of other conditions, including inner ear problems (
 
 Symptoms that are not typical of dizziness related to Parkinson’s include: difficulty in hearing, ringing in your ears (tinnitus) and bad headaches.
 
----
-
 ## What should I do about it?
 
 There are many lifestyle factors that can improve blood pressure fluctuations and dizziness for those with postural hypotension. Try the suggestions below (see 'What can I try for myself?'). But if the dizziness does not improve or recurs, and is affecting your daily life, you should see your GP. If you have new symptoms with the dizziness, then this should be medically assessed.
 
 Assessment of dizziness is more urgent if it is happening very frequently or causing you to fall or lose consciousness.
-
----
 
 ## What can I try for myself?
 
@@ -114,8 +106,6 @@ These do not change the symptom but help reduce risks:
 
 For more information about blood pressure (including how to measure it), see the <a href="/information/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page.
 
----
-
 ## Further Assessment
 
 ### Questions you may be asked
@@ -148,8 +138,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 - Occasionally, depending on your symptoms, further tests may be done. This could include:
   - Blood tests - e.g. to check for anaemia o An ECG (an electrical recording of your heart) o A scan of your head or neck (but this is rare).
 
----
-
 ## Further Treatments
 
 Your healthcare professional may be able to offer reassurance, advice, or further treatment. The treatment will depend on the cause of the dizziness.
@@ -177,14 +165,10 @@ Your healthcare professional may be able to offer reassurance, advice, or furthe
 
 See the see the <a href="/information/managing-symptoms/mood" class="internal-link">_Mood_</a> page for more information about anxiety and the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page for more information.
 
----
-
 ## Key Messages
 
 - Make sure to stay hydrated by, for example, drinking more liquids.
 - Take your time when changing position (e.g. going from sitting to standing).
-
----
 
 ## Useful Organisations & Contacts
 

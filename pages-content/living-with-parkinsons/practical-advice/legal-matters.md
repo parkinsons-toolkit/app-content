@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -27,8 +25,6 @@
 </div>
 
 There are several legal arrangements that everyone should consider at some stage in their lives. It helps to put these in place as soon as possible. This may involve insurance, power of attorney, decisions about how they wish to be treated and making a will. This section will discuss these legal aspects in some detail. For information about employment please see the section <a href="/information/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a>.
-
----
 
 ## Insurance
 
@@ -51,8 +47,6 @@ There are several steps for you to go through once you have received a diagnosis
 1. Contact relevant insurance companies (e.g., life, critical illness, driving and travel insurances), as having Parkinson’s can affect your policies. Your insurance may be invalid if you do not tell them.
 2. It may help to offer or to provide a relevant medical report. This allows the insurance company to have a better understanding of your situation. Your GP or specialist will be able to provide this report.
 3. Someone from the insurance company may want to talk with you. This may be to decide at what cost they are willing to provide insurance, or they may want you to change your policy or cancel it. You can contact Citizen’s Advice if you need help with insurance and legal matters. The Discrimination section below may be helpful if you feel that you are not being treated fairly by your insurance company due to your diagnosis of Parkinson’s.
-
----
 
 ## Powers of Attorney
 
@@ -145,8 +139,6 @@ It is important to understand that it is your decision. You should not feel pres
 - **Age UK** – Charity that can also offer advice on a range of such topics
 - **Law Society** – The Law Society contains a list of local solicitors that are registered within England and Wales.
 
----
-
 ## Formally Recording Future Wishes
 
 <div class="video-container">
@@ -229,16 +221,12 @@ If you decide you would like to create a statement of wishes or advance decision
 
 Here's a clear summary of your experience and the key points on making a will and dealing with discrimination:
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “I have definitely got a ‘do not resuscitate’ notice on the back of my front door. I do not want to be resuscitated. You know, I‘ve had a wonderful life, a long life. I initiated it. So that’s firmly there. And I’ve written my own funeral service. It’ll be rather good. I’m debating a rehearsal.”
 > _(Person with Parkinson's)_
-
----
 
 ## Wills
 
@@ -277,8 +265,6 @@ If you decide you would like to make your will, there are a number of steps:
 - **Law Society** – The Law Society lists local solicitors that are registered within England and Wales.
 - **National Free Wills Network** - The National free wills network provides free Will writing services to people who are accessing or supporting charities included in the network. Parkinson’s UK is included in the national free wills network. So, by visiting the <a href="www.parkinsons.org.uk/get-involved/parkinsons-uk-free-will-services " class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> website or phoning them (0808 800 0303), you can get access to a free will writing service.
 
----
-
 ## Discrimination
 
 <div class="video-container">
@@ -301,8 +287,6 @@ If you feel that you have been wrongfully treated (e.g. by your employer, the po
 2. If the problem is still not resolved, then ask to make a formal complaint. Each organisation will have their own complaints procedure for you to follow. If there is no complaints procedure, then make the complaint in writing anyway.
 3. Contact Citizens Advice or the <a href="https://www.equalityhumanrights.com/en/contact-us/equality-advisory-and-support-service" class="external-link" target="_blank" rel="noopener noreferrer">Equality Advisory and Support Service</a>. Both provide advice and information for the best approach on making formal complaints based on your personal situation.
 4. If the problem is still occurring after the formal complaint then you may be able to contact an Ombudsman. An Ombudsman is someone who is independent, free and impartial who can be appointed to investigate complaints in certain areas. You can find your local Ombudsman through the Ombudsman Association, linked below.
-
----
 
 ## Useful Organisations & Contacts
 

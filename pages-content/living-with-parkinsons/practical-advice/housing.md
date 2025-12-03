@@ -13,8 +13,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -106,8 +104,6 @@ As well as the equipment and aid options, some people find these changes helpful
   - An **intercom** system, which would mean you didn’t have to go to the door.
   - **Key safe:** This is a small secure box, fitted to a wall outside the front door to hold the keys to your home. It requires a code to access: you choose who to give the code to. This can be very useful as multiple sets of keys do not need to be provided to family members or healthcare professionals. It will also allow people to access the house in case of an emergency.
 
----
-
 ## Making Adaptations
 
 <div class="video-container">
@@ -141,8 +137,6 @@ If you need major changes to your home, you might be able eligible for a disable
 If you have a disability or long-term health condition, you should not be charged VAT on products designed or adapted for your own personal or domestic use (including some home equipment). See our <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page for more information on how to apply for VAT relief and other financial benefits.
 
 _Tip: Contact your local fire service who will provide a ‘safe and well check.’ They are completely free, and you may be entitled to free smoke alarms. The purpose of these checks is to identify any fire risks and help reduce those risks._
-
----
 
 ## Finding a new home
 
@@ -187,8 +181,6 @@ It is important that you are happy, comfortable, and safe wherever you are livin
 
 For more information on the different types of accommodation, visit the housing options page on the <a href="https://www.ageuk.org.uk/information-advice/care/housing-options/" class="external-link" target="_blank" rel="noopener noreferrer">Age UK</a> website.
 
----
-
 ## What can I do myself?
 
 If you want to find what types of accommodation are near you, contact your local council. They can provide you with a list of sheltered accommodation, assisted living, and residential care options. If you are not sure which is most suitable, adult social care services can do an assessment and help. Your local council can also explain who gets priority for local authority or housing association rented accommodation, and how long you might have to wait for a place. <a href="https://www.ageuk.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Age UK</a> or <a href="https://www.parkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> may be able to give free advice about housing benefits and what to look for in a care home.
@@ -200,8 +192,6 @@ Key steps in finding the right accommodation:
 3. Ring the accommodation to **find out costs and vacancies**. If there are no vacancies at that time, it may be helpful to find out the length of their waiting list and who would get priority.
 4. **Speak to the warden or manager** to find out more information. You can visit the <a href="https://www.cqc.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Care Quality Commission</a> website to see ratings of residential care and assisted living options (sheltered accommodation is not rated).
 5. **Arrange a visit** in person before committing or agreeing to anything. This can help you get a sense of whether the location, facilities, staff or other residents fit in with your expectations.
-
----
 
 ## Useful Organisations & Contacts
 

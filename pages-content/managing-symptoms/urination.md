@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -39,8 +37,6 @@ Common symptoms:
 - _**Stress incontinence**_ – Some people, particularly women who have had children, can experience a leakage of urine if they e.g. laugh, cough, sneeze or exercise. This is usually due to weakened pelvic floor muscles and is not related to Parkinson’s.
 - _**Nocturia**_ – This is needing to pass urine more than twice during the night (once or twice is considered normal).
 
----
-
 ## What might be causing it?
 
 Parkinson’s can cause most of the symptoms listed above. It does not however cause pain on passing urine, blood in the urine. However, urinary symptoms are not always due to Parkinson’s.
@@ -53,8 +49,6 @@ Parkinson’s can cause most of the symptoms listed above. It does not however c
 - _**Constipation**_ – not completely emptying the bowels can put pressure on the urinary tract so reduce flow of urine.
 - _**Diabetes**_ – generally associated with excessive thirst and drinking. More likely if there is diabetes in the family. There are different types of diabetes which show different patterns.
 - _**Prolapse or weakened pelvic floor**_ – this is where some of the pelvic organs are not being adequately supported by the muscles of the pelvis. This may be felt as a dull pain or a sense of “dragging” down below. It may cause stress incontinence symptoms and make incontinence worse. It particularly affects women after the menopause, who have been through childbirth, people who have had pelvic surgery, and people who are overweight.
-
----
 
 ## What should I do about it?
 
@@ -84,8 +78,6 @@ There are many things you can try for yourself as below, but there are some circ
 - Poor flow of urine for men
 - Feeling of dragging down below
 - Stress incontinence – leakage when you e.g., laugh or cough
-
----
 
 ## What can I try for myself?
 
@@ -133,8 +125,6 @@ This is a technique whereby you slowly build up bladder control. This is by maki
 
 If finding toilets when out and about is a concern, the ‘National Key Scheme’ may help. This system allows people with a disability to unlock more than 9,000 accessible public toilets across the UK. See the Disability Rights UK website for more information and to buy a ‘Radar Key’, and see list for your region.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -142,8 +132,6 @@ People affected by Parkinson’s describe their experiences.
 > “I did have a problem with my bladder where, at night-time I was getting up 10, 11, 12 times in the night for a wee. And when I spoke to my doctor about it, she suggested that I cut down liquids or drinks from 6pm onwards. And that works. If I want a sip of water, I’ll have just a sip of water.”
 >
 > _(Person with Parkinson’s)_
-
----
 
 ## Further assessment
 
@@ -177,8 +165,6 @@ Depending on their assessment, they may do further tests such as:
 - Urine sample tests: some information can be gained from a “dipstick” test (results in a matter of minutes), or they may send your urine off for testing in the lab (results take several days).
 - Blood tests: to check kidney function and can give an indication of the body fighting infection.
 - Scans of the urinary tract: Most common scans are Ultrasound or CT scans but depends on the symptoms.
-
----
 
 ## Further treatments
 
@@ -216,13 +202,9 @@ Having consulted a healthcare professional, they may offer reassurance or advice
 - Occasionally, specialist neurology services, if persistent difficult to manage urinary symptoms resulting from the Parkinson’s.
 - Supportive services: Occupational Therapy, Physiotherapy/ Gynaecological physiotherapy, District Nurses.
 
----
-
 ## Key messages
 
 Stay hydrated, but think about _what_ and _when_ you are drinking.
-
----
 
 ## Where to get incontinence products
 
@@ -231,8 +213,6 @@ You may be able to get incontinence products on the NHS depending on your local 
 The charity Bladder & Bowel UK gives independent advice on products that can help manage bladder and bowel problems. For more information on products and how to order them, call its helpline on 0161 607 8219 or visit the <a href="https://www.bbuk.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Bladder & Bowel UK</a> website.
 
 The <a href="https://www.continenceproductadvisor.org/" class="external-link" target="_blank" rel="noopener noreferrer">Continence Product Advisor</a> gives independent and evidence-based advice on how to choose and use suitable incontinence products.
-
----
 
 ## Useful Organisations & Contacts
 

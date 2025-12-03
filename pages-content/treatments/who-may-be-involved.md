@@ -13,13 +13,9 @@
 
 </div>
 
----
-
 Parkinson’s care often involves a **Multi-Disciplinary Team (MDT)** approach, meaning multiple healthcare professionals work together to manage your care. As such, you may come across a wide range of professionals, and the team members you meet will depend on your individual needs and condition.
 
 Throughout your Parkinson’s journey, your health professionals, including your GP or specialist, may ask for other professionals to be involved in your care. This will vary between individuals living with Parkinson’s depending on the symptoms and challenges they experience. Read on to learn more about which specialists maybe involved if you need them.
-
----
 
 ## Individuals: Who’s Who?
 
@@ -222,8 +218,6 @@ Also known as _Therapy Support Workers_ or _Rehabilitation Assistants_
   - Help people use aids and equipment.
   - Weigh people or help to record food intake.
 
----
-
 ## Specialties: What's what?
 
 ### General Practice (GPs)
@@ -257,8 +251,6 @@ There are more than 60 specialties, but the following are the more common specia
 - **Psychiatry:** Specialists in mental health so may be involved, for example, for problems with mood or memory.
   - Note _psychiatrists_ are clinical doctors (have a medical qualification). This is different from _psychologists_ as described above (have a psychology qualification), but they often work together.
 - **Palliative Care:** Sometimes called 'supportive care', they are specialists in symptom control, for a range of different health conditions. The aim of palliative care is to help you to have a good quality of life. o They also have expertise in care in later stages of life, but palliative care is <ins>not</ins> just about end of life.
-
----
 
 ## Organisational Level
 
@@ -333,8 +325,6 @@ See the <a href="/information/living-with-parkinsons/practical-advice/daily-livi
 
 See the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page to see more about responsibilities as an employer.
 
----
-
 ## Home Help vs Home Care
 
 | Service       | Description                                                         | Arranging Care                                                                                                                                                                                            |
@@ -346,8 +336,6 @@ See the <a href="/information/living-with-parkinsons/practical-advice/legal-matt
 
 1. **Through an Agency:** Agency employs and registers carers; may not always be the same carer. Must be CQC registered.
 2. **Direct Employment:** You employ the carer, responsible for holidays, sickness, and legal obligations. Individual carers do not need regulatory registration.
-
----
 
 ## Useful Organisations & Contacts
 

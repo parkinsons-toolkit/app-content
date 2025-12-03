@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -27,8 +25,6 @@
 </div>
 
 Sweating is normal and helps your body regulate its temperature. Some people with Parkinson’s may have problems with sweating. They may experience too much sweat being produced, which is called _hyperhidrosis_. Alternatively, they may experience not enough sweat being produced, which is called _hypohidrosis_. Underproduction of sweat can cause overheating. Because people with Parkinson’s can also have a decreased sense of smell, they might not be aware of body odours caused by excessive sweating.
-
----
 
 ## What might be causing it?
 
@@ -60,8 +56,6 @@ This can occur in Parkinson’s for example:
   - In situations where sweat is needed in order to cool the body in order to not overheat – for example in saunas, in hot tubs, or extremely warm environments.
   - In the hands and feet; other body parts may then sweat more to compensate.
 
----
-
 ## What should I do about it?
 
 <div class="video-container">
@@ -75,8 +69,6 @@ This can occur in Parkinson’s for example:
 </div>
 
 Excessive sweating can be very challenging to deal with. There are some suggestions for ways to manage it below. If sweating is still very bothersome, despite having tried these things regularly for a month or so, discuss with your GP or Parkinson’s specialist team. You should seek help more urgently if you are _**not**_ producing sweat and feeling faint or dizzy in warm situations.
-
----
 
 ## What can I try for myself?
 
@@ -97,8 +89,6 @@ Excessive sweating can be very challenging to deal with. There are some suggesti
 - Avoid very hot environments such as hot tubs, saunas or direct sun in hot environments.
 - Wear light clothes.
 - Don’t overexert yourself with exercise.
-
----
 
 ## Further assessment
 
@@ -123,8 +113,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 ### Tests
 
 If your healthcare professional suspects a non-Parkinson’s cause of sweating, they may arrange some further tests. These may be, for example, to check your thyroid hormone levels.
-
----
 
 ## Further Treatments
 
@@ -158,14 +146,10 @@ Sometimes people just need a medication change during hot weather.
   - Iontophoresis involves blocking sweat glands in affected areas of skin by passing a weak electric current through water or a wet pad.
 - In very severe cases botox (botulinum toxin) injections may be considered to reduce excessive sweating. This usually requires referral to a specialist, and the availability on the NHS varies by area. The injections cause a temporary change, so they need to be repeated long term for the effect to continue.
 
----
-
 ## Key Messages
 
 - People with Parkinson’s may experience changes with their sweat, either excess or insufficient.
 - Management of sweating difficulties are mostly lifestyle changes. It is also considering how medications may be impacting the issue
-
----
 
 ## Useful Organisations & Contacts
 

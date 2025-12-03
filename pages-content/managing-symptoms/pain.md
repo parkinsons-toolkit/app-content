@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -32,8 +30,6 @@ Pain may or may not be a problem for you. Pain can be related to Parkinson’s o
 There are many approaches to treating pain. So, finding out the cause of your pain and addressing it holistically is important to make sure the pain is managed effectively.
 
 Our bodies are a mixture of complex pathways and mechanisms, and lots of factors can influence pain.
-
----
 
 ## What might be causing it?
 
@@ -53,8 +49,6 @@ Pain that is related to Parkinson’s can be caused by a variety of factors:
 Pain that is not related to Parkinson’s might have a clear cause (e.g. a sore back from gardening), or may be caused by other health problems, such as arthritis, old injuries, or postural changes.
 
 Certain pain related to Parkinson’s tends to be less bothersome when the Parkinson’s medications are working well and more bothersome when the Parkinson’s medications wear-off. Pain can also be made worse when a person is under physical or emotional stress.
-
----
 
 ## What can I try for myself?
 
@@ -86,8 +80,6 @@ For more information on exercise and stretching, see the <a href="/information/l
 
 When initially beginning any form of exercise, muscles can feel sore or stiff. It is important not to overwork them in the beginning; a slow gentle build up will enable tight muscles to adapt and relax. If stretches or exercises do cause you a lot of pain, speak with your physiotherapist, GP or Parkinson’s specialist team.
 
----
-
 ## What should I do about it?
 
 <div class="video-container">
@@ -106,8 +98,6 @@ There are many things you can try for yourself but there are some circumstances 
 - Any new severe pain – this should be assessed by a professional.
 - If you have tried the things below and are still having pain, or the pain is interfering with your daily activities. If this is the case, you should see your GP.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -115,8 +105,6 @@ People affected by Parkinson’s describe their experiences.
 > _“She just saw the doctor and said, “I’ve got this problem with the pains in my shoulders and down my right side.” And he said, “I’ll make an appointment for you to see the physios.” And this is what’s come about [..] they give her this exercise sheet which she does before she settles down at night.”_
 >
 > _(Carer for someone with Parkinson’s)_
-
----
 
 ## Further Assessment
 
@@ -149,8 +137,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 
 Depending on their assessment, a healthcare professional may run further tests (e.g. X-rays or scans) if the pain is not thought to be related to Parkinson’s.
 
----
-
 ## Further Treatments
 
 Once you have spoken to a healthcare professional, they can help reassure you. They can also look into further treatment.
@@ -174,16 +160,12 @@ Once you have spoken to a healthcare professional, they can help reassure you. T
   - **Physiotherapy or Occupational therapy**: If pain limits your walking or interferes with daily tasks, you may be referred to these therapy services.
   - **Pain clinic**: In some cases where the pain is very difficult to manage, input is sought from a specialist. A pain clinic may be able to offer other medical or psychological treatments.
 
----
-
 ## Key Messages
 
 - Pain can be a common issue for people with Parkinson’s, and it may be difficult to tell if pain is due to Parkinson’s or other causes.
 - Regular exercise, massage, stretching, simple painkillers, and Parkinson’s medications (or adjustments to Parkinson’s medications) can be helpful for various causes of pain.
 - Tracking the symptoms can help your healthcare professional determine the cause.
 - Any loss/sudden change to bladder/bowel function or numbness/weakness in any movement/function, contact your professional support straight away.
-
----
 
 ## Useful Organisations & Contacts
 

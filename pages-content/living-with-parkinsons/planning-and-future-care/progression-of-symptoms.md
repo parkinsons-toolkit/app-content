@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -31,8 +29,6 @@ Everyone’s experience of Parkinson’s is different. Just because some people 
 In general, over time people may experience more symptoms, but there is no rule about which symptoms or when. For some, the uncertainty about how things will look and feel in the future is one of the most difficult parts of the Parkinson’s diagnosis.
 
 _Progression_ may involve the development of new symptoms or the worsening of existing symptoms. It may include an increasing difficulty controlling symptoms. Here we discuss challenges around progression and some of the more advanced symptoms. For other symptoms see the <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages.
-
----
 
 ## Dealing with Progression
 
@@ -52,8 +48,6 @@ It is normal to feel grief. It is helpful to acknowledge your grief. Understandi
 - If you find your feelings are overwhelming, you could speak to your GP or Parkinson’s specialist
   team.
 
----
-
 ## My Experience
 
 <div class="video-container">
@@ -69,8 +63,6 @@ It is normal to feel grief. It is helpful to acknowledge your grief. Understandi
 > “The more I said, ‘Parkinson’s is doing this,’ you may be more angry and frustrated. But to be able to think that it’s a disease and I’m living with it and I have to go and change my life around it, you sort of understand that I have to accept that, because it’s not going to go away. It’s going to stay there. So it’s better for me to deal with it like that.”
 >
 > _Person with Parkinson’s_
-
----
 
 ## Progression of Symptoms
 
@@ -103,15 +95,11 @@ However, there may not be any suitable medical or surgical way to improve the pa
 
 If the symptoms are affecting your ability to undertake daily activities or tasks, then you can speak to your GP. You can ask them to refer you to an Occupational Therapist who may be able to recommend strategies, equipment or support to help you deal with these difficulties.
 
----
-
 ## My Experience\*\*
 
 > “I did try to keep a diary about the Parkinson’s… because I thought when I go back to the Parkinson’s clinic I could look back and say last week he was like this. It can help see changes, and get help.”
 >
 > _(Carer of someone with Parkinson’s)_
-
----
 
 ## Dementia
 
@@ -143,8 +131,6 @@ If the symptoms are affecting your ability to undertake daily activities or task
 - Memory clinic services vary by area. They will generally have support services connected to them, or they can give you the details of services that can help you.
 - Day-to-day strategies for memory difficulties are discussed on the <a href="/information/managing-symptoms/thinking-concentration-and-memory" class="internal-link">_Thinking, Concentration & Memory_</a> page.
 - **Prepare:** over time dementia can affect a person’s ability to make decisions. If someone no longer has the ‘mental capacity’ to make decisions about their care, then decisions will be made on their behalf. Prepare by thinking ahead and making your wishes known. You can record your wishes in advance or appoint someone to take decisions for you. See the <a href="/information/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_Future Care Options_</a> page for things to consider, and the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page for the formal process.
-
----
 
 ## Swallowing Problems & Chest Infections
 
@@ -184,8 +170,6 @@ Swallowing problems are common in Parkinson’s but exist along a range of sever
 - There are medical options that could be used for artificial feeding and hydration. However, they do not remove the risk of saliva _going down the wrong way._ Artificial feeding and hydration comes with risks and tube insertion may be distressing.
 - Some people prefer to accept the risk of food or drink going down the wrong way, so continue to eat and drink by mouth.
 - More information on artificial feeding is on the <a href="/information/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_Future Care Options_</a> page.
-
----
 
 ## Useful Organisations & Contacts
 

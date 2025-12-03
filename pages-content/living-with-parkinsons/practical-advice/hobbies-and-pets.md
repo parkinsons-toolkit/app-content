@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -32,16 +30,12 @@ Hobbies and pets provide many people with a sense of purpose and enjoyment. Hobb
 
 Having a pet can also help to improve wellbeing. When diagnosed with Parkinson’s, there may be some challenges in taking part in hobbies or looking after a pet in the ways that we used to. Lots of people with Parkinson’s still enjoy their hobbies and look after their pets for many years. This information sheet provides tips and advice on how best to maintain your hobbies and take care of your pets in these new circumstances.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “You can either go downhill or you can make yourself, try and help yourself. So not dwelling on the worst all the time, [but] dwelling on the best…go for the things you can do.”  
 > _(Person with Parkinson’s)_
-
----
 
 ## Maintaining hobbies
 
@@ -56,8 +50,6 @@ People affected by Parkinson’s describe their experiences.
 </div>
 
 At times your Parkinson’s might affect your ability to enjoy your hobbies. This might be due to problems getting about (mobility), or tremors or other symptoms. But, for your own physical and mental wellbeing, it’s important that Parkinson’s doesn’t become the sole focus of your life. Even if you are finding your hobby more difficult, there are often ways you can continue to enjoy the activity. This might be by speaking to an occupational therapist or thinking of ways to adapt the activity to make it easier for you. So, try to continue doing your hobbies or take on new ones that you enjoy, whatever they may be. Below we outline some things you can try yourself and what support is available.
-
----
 
 ## What can I try?
 
@@ -109,16 +101,12 @@ There are several tips that may help you to continue with different hobbies:
 - You may find it helpful to meet up with other people in groups for living with Parkinson’s. For example, if you’re feeling frustrated because you’re no longer able to do an activity to the level you once could, other people may be able to share how they manage this. By attending a Parkinson’s specific group, you can talk to, and share advice with, others who have been in a similar situation to you. The organisers of these social groups will also have experience of being able to adapt activities to help you make them more enjoyable again.
 - _Example:_ You enjoy golf but are finding it more difficult to get around the course due to problems walking. In some areas there are indoor golf groups designed for people who are older or have Parkinson’s. Instead of playing 18 full holes, members take part in putting tournaments or mini- golf with adapted golf clubs (e.g. clubs with extra wide grip). Not everyone takes part, some are happy to watch and comment.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “I think Parkinson’s groups are great. I think they’re great socially. They’re great in terms of finding out about benefits that an individual may not know about, accessing services that they either do or don’t know about but don’t know how to access.”  
 > _(Person with Parkinson’s)_
-
----
 
 ## What support is available?
 
@@ -131,8 +119,6 @@ To find your local Parkinson’s social groups, visit the <a href="https://www.p
 ### Occupational therapists
 
 Occupational therapists may be able to work with you to help maintain your health and independence. They may show you different ways to make activities or hobbies easier or suggest adapted equipment to help you. Contact your GP or local authority (council) adult services department and ask about an assessment. This also applies to getting help with social care needs.
-
----
 
 ## Caring for pets
 
@@ -158,8 +144,6 @@ Anyone who has a pet, will know that pets become an integral part of a family. W
 - **Increased activity** — Pets will almost always encourage you to be more active. The increased activity may just be an extra trip downstairs to let the cat out in the morning or a jog around the park with the dog. Regular exercise is linked to improved symptoms in people living with Parkinson’s.
 - **Service dogs** — Dogs can be trained to help owners with Parkinson’s symptoms (e.g. helping you to keep balance). Service dogs can also alert other people if you have an accident at home. See <a href="https://www.assistancedogs.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Assistance Dogs UK</a> for guidance on how to apply for a service dog. You can find more details and resources at the bottoms of this page.
 
----
-
 ### What can I try?
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dog.jpg" alt="woman-with-dog" class="hobbies-and-pets__dog">
@@ -172,8 +156,6 @@ If you are struggling to care for a pet alone, there are some strategies you can
 - **Ask your neighbour or family to help** — If it is difficult to care for your pet on your own for whatever reason, it may be sensible to ask for help. For example, you could ask your family or neighbour to pick up pet food, take your pet to the vet, or take it on walks. You may also consider employing a local dog walker and there are also doggie day care businesses for days when you are out all day. Getting early help from neighbours or family will help you to keep enjoying life with your pet.
 - **Re-home pet with a family member** — Another option may be to have your pet live with a family member. You would need to discuss this with them to make sure they are happy with this. This way you should be able to continue seeing your pet but without the added responsibility of caring for him/her every day.
 - **Get some support** — If there is no family or friends who can help, there are a number of organisations that might be able to help (see below).
-
----
 
 ## What support is available?
 
@@ -206,8 +188,6 @@ The <a href="https://www.bluecross.org.uk/" class="external-link" target="_blank
 
 If you would like extra help with your pet, <a href="https://www.petpals.com/" class="external-link" target="_blank" rel="noopener noreferrer">PetPals</a> and <a href="https://www.borrowmydoggy.com/" class="external-link" target="_blank" rel="noopener noreferrer">Borrow My Doggy</a> are local websites where people offer to help others with their dogs. This may include taking your dog for a walk or even looking after your dog while you’re in hospital.
 
----
-
 ## Alternatives to owning a pet
 
 You may want to have the benefits of being around pets without the responsibility of owning your own pet. If this is the case, there are options you can consider.
@@ -219,8 +199,6 @@ You may want to have the benefits of being around pets without the responsibilit
 ### Pets as Therapy
 
 - <a href="https://petsastherapy.org/" class="external-link" target="_blank" rel="noopener noreferrer">Pets as Therapy</a> is a charity that visits care homes, hospitals, and day centres to give people the chance to spend time with animals. Pets can bring comfort and joy to those who enjoy the company of animals.
-
----
 
 ## Useful Organisations & Contacts
 

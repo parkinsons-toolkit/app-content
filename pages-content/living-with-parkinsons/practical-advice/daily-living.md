@@ -20,8 +20,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -37,8 +35,6 @@ Every day activities can become more difficult than they once were. Muscle weakn
 Being able to keep doing these activities is important to keep independent and active.
 
 There are some tried and tested methods to do this. You could make changes to the way you do things, to your environment, or to the adaptive equipment you use. There are NHS, social care and voluntary sector professionals that can help you (see More Information at the bottom of this pag). Please also see our <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for information about making adaptations to your home and guidance about different types of accommodation.
-
----
 
 ## What can I try for myself?
 
@@ -148,16 +144,12 @@ There are a range of steps with regards to food and drink:
   - Special equipment has been developed for these difficulties – see below.
 - For difficulties in swallowing, please see the <a href="/information/managing-symptoms/swallowing" class="internal-link">_Swallowing Difficulties_</a> symptom page.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “Maybe there’s things for people like my mum, she likes to stay independent – like sometimes she’ll say ‘Do you know what, I want to cook today’, you know like electric tin cutters and things like that to help make your life a bit easier.”  
 > _(Carer of someone with Parkinson’s)_
-
----
 
 ### Domestic tasks
 
@@ -176,16 +168,12 @@ Living with Parkinson’s can make daily activities and chores more difficult as
 - **Adapt your approach**
   - If energy or balance are significant concerns, try sitting down while doing tasks such as ironing, washing, and folding to reduce the risk of falls and amount of energy used.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “If I’m having people around for dinner, I’ve got to make sure I’ve got a quiet day either side and I’ve got to plan ahead. So I’ll lay the table a couple of days before and I’ll try and shop and do a lot of the preparation before I actually have people round.”  
 > _(Person with Parkinson’s)_
-
----
 
 ## What equipment might help?
 
@@ -216,8 +204,6 @@ _We strongly recommend you speak to an occupational therapist before buying equi
 - The seat that is best for you will depend on your shower or bath unit and your own preferences.
 - The next step up from these equipment suggestions are more significant changes to your bathroom. See the <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for information about adaptations.
 
----
-
 ### My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -225,8 +211,6 @@ People affected by Parkinson’s describe their experiences.
 > “When I knew I was having a problem getting out of the bath, I worked it out myself that I would have to do something in the bathroom. And I spoke to Age UK to get their advice. And they suggested grab rails. Then came the problem of buying the grab rails and installing them.  
 > And one of my neighbours volunteered to.”  
 > _(Person with Parkinson’s)_
-
----
 
 ### Equipment for Toileting
 
@@ -360,16 +344,12 @@ As well as usual off-the-shelf lidded cups, there are other specialised designs 
 - More information about these systems is available on the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> and the <a href="https://www.which.co.uk/later-life-care" class="external-link" target="_blank" rel="noopener noreferrer">Which? Later Life Care website</a>.
 - If falls are a concern, please also see the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences:
 
 > “We have a flat mat that you put on the floor. An alarm goes off. If you put it on the floor by the side of the bed, and as soon as you step on it, an alarm goes off. Very loudly.”
 > — _Person with Parkinson’s_
-
----
 
 ## Advice on Buying Equipment
 
@@ -396,8 +376,6 @@ However, if you are buying your own equipment, here are a few tips:
 4. Make sure the _fit_ of the equipment is correct.
 5. Local pharmacies and disability shops sell equipment. Short term hire can be possible from local organisations, such as the Red Cross Society.
 
----
-
 ## Who Can Help?
 
 <div class="video-container">
@@ -417,8 +395,6 @@ If daily tasks are particularly challenging, some people need assistance from a 
 
 There is also information on the <a href="/information/living-with-parkinsons/for-family-and-carers" class="internal-link">_Guidance for Family & Carers_</a> page for people who are supporting someone they know.
 
----
-
 ## Home Help
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/home-care.jpg" alt="home-care" class="daily-living__home-care">
@@ -432,8 +408,6 @@ For example:
 - Age UK
 
 Details for all of these and for more information about Home Help can be found at the end of this section in the _More Information_ section.
-
----
 
 ## Home Care
 
@@ -489,8 +463,6 @@ This way you know who you are getting, but you have legal responsibility as an e
    - Ensure you follow all of the requirements of an employer (see <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a>).
    - For more guidance see the <a href="https://www.which.co.uk/later-life-care" class="external-link" target="_blank" rel="noopener noreferrer">Which? Later Life Care website</a>.
 
----
-
 ## For both 'Home help' & 'Home care' – things to Ask About:
 
 - **Cost**: What is the cost? What services incur an extra cost? Does the time of the shift affect the cost (e.g. evenings, weekends, bank holidays)?
@@ -504,8 +476,6 @@ This way you know who you are getting, but you have legal responsibility as an e
   - What happens if they are ill or unable to attend for any other reason?
   - Could anyone cover for their holiday?
 
----
-
 ## Where Can I Get Help?
 
 - **National Health Service (NHS)** – outpatient and community therapy teams, including Occupational Therapists. Referral pathways vary by area. In most places your GP will be able to refer to occupational therapy.
@@ -514,8 +484,6 @@ This way you know who you are getting, but you have legal responsibility as an e
 - **Private sector** – Local pharmacies and disability shops are common on the high street. You can also find a wide range of providers online.
 
 For more details see the <a href="/information/further-support/services-and-groups" class="internal-link">_Services & Groups_</a> page.
-
----
 
 ## My Experience
 

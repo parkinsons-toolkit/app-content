@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -29,8 +27,6 @@
 
 Freezing is a sudden feeling that you can’t start or complete a movement. Most people have "freezing of gait" meaning freezing happens when walking. People describe feeling their feet are glued to the ground and unable to move, but they’re still able to move their arms. It can happen at the start of a movement or in the middle of a movement (e.g. when you are starting to walk or in the middle of walking). Sometimes freezing can happen while eating, writing, or when you are rushing to do something. It is important to address freezing because it can impact on confidence and can contribute to falls.
 
----
-
 ## What might be causing it?
 
 Freezing is a symptom of Parkinson’s. It often occurs in people who have had the condition for a long time, but it can also occur earlier on. Freezing happens more commonly in "off" (when medications are not working as well) but can also occur in "on" stages.
@@ -41,13 +37,9 @@ Factors that can make freezing more likely are:
 - Distractions
 - Feeling stressed
 
----
-
 ## What should I do about it?
 
 There are things you can try for yourself but there are some situations where you should seek professional help. These include falling a lot or continuing to struggle with usual activities after trying the self-help strategies. It is best to seek help from your specialist Parkinson’s team or a physiotherapist (which may be through your GP).
-
----
 
 ## What can I try for myself?
 
@@ -138,8 +130,6 @@ _Tip: Think about your environment:_
 _- Remove rugs or mats that cause you to freeze in your home._
 _- Remove clutter that makes spaces feel small._
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -151,8 +141,6 @@ People affected by Parkinson’s describe their experiences.
 > “Sometimes she will freeze, and then if there’s a division, like from the carpet onto that mat, or tiles on the floor, then to get her to step over, tell her to step over that division. Sometimes I’ve told her to step over something that isn’t there, but just to get the idea of moving.”
 >
 > _(Carer of someone with Parkinson's)_
-
----
 
 ## Further assessment
 
@@ -168,8 +156,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 
 - This can help you to recall the details and help your health professional look for patterns.
 - For 3-5 days you could monitor your “on” and “off” times, freezing episodes, and when you take your medication. This will help to identify patterns in your freezing.
-
----
 
 ## Further treatments
 
@@ -189,15 +175,11 @@ A healthcare professional may be able to offer reassurance, advice, or further t
 
 Research is ongoing to look for new ways of managing freezing, including the use of new technologies.
 
----
-
 ## Key messages
 
 - Try out different self-help strategies for freezing to see what suits you. A physiotherapist or occupational therapist can help to teach you these.
 - Freezing may be linked to “on”/ “off” times and may respond to Parkinson’s medication.
 - Freezing can cause falls and injuries. It is important to let your GP, specialist nurse, or neurologist know if you are freezing during tasks such as walking and eating.
-
----
 
 ## Useful Organisations & Contacts
 

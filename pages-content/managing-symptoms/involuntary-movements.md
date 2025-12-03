@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe
   width="560"
@@ -33,8 +31,6 @@ Some people experience dyskinesia when their medications are at the highest leve
 
 Dyskinesias can range in severity, from some people having it so mildly that they do not notice the movements to others who have severe dyskinesias. Many people with Parkinson’s say their dyskinesias do not bother them, and they would prefer to feel more “on” with dyskinesias and be able to do more, than have fewer dyskinesias but feel more “off” and not be able to do as much.
 
----
-
 ## What might be causing it?
 
 The exact cause of dyskinesia isn’t known. Experts think it's related to the natural progression of Parkinson’s and the brain becoming more sensitive to dopamine.
@@ -43,8 +39,6 @@ It is more common for dyskinesia to develop after a few years of levodopa treatm
 
 Dyskinesia tends to get worse when stressed or anxious.
 
----
-
 ## What should I do about it?
 
 If dyskinesias aren’t bothering you or impacting on your daily life, then there's nothing you need to do.
@@ -52,8 +46,6 @@ If dyskinesias aren’t bothering you or impacting on your daily life, then ther
 If there are lots of extra movements, this can burn extra calories and cause unintended weight loss (see the <a href="/information/managing-symptoms/weight" class="internal-link">_Weight_</a> page for more information).
 
 There are some ideas below for how to manage your dyskinesia. But if they are impacting your daily life or bothering you, discuss them with your Parkinson’s specialist team.
-
----
 
 ## What can I try for myself?
 
@@ -80,8 +72,6 @@ If you notice particular times when your movements are good (e.g. feeling “on�
 
 You can explain to others that the extra movements are part of your Parkinson’s and nothing to be concerned about.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -89,8 +79,6 @@ People affected by Parkinson’s describe their experiences.
 > “It can be brought on by all sorts of different things and can cause falls and the like. If we go out, we try and plan it so that we go out at what is likely to be the best window of opportunity with the medication. If we leave it too long, then [dyskinesia] problems occur.”
 >
 > _(Carer of Someone with Parkinson’s)_
-
----
 
 ## Further assessments
 
@@ -114,8 +102,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 
 - This can help you to recall the details and help the professional identify patterns.
 - For 3-5 days you could monitor your dyskinesias and when you take your medication. This will help you to notice any patterns in your dyskinesias.
-
----
 
 ## Further treatments
 
@@ -152,15 +138,11 @@ A healthcare professional may be able to offer support, advice, or further treat
 
 See <a href="/information/treatments/medications" class="internal-link">_Medication_</a> and <a href="/information/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> pages for more information.
 
----
-
 ## Key Messages
 
 - Dyskinesias are involuntary muscle movements that include swaying, twisting, bobbing, or swaying motions.
 - Dyskinesias may happen right before, right after, or between medication doses and the treatment differs for each.
 - Changes to medication type and schedule are common management strategies for dyskinesia.
-
----
 
 ## Useful Organisations & Contacts
 

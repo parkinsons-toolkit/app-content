@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -29,8 +27,6 @@
 Sexual problems can happen with Parkinson’s, but not everyone will experience these. Some people notice changes physically, emotionally, or with sexual drive.
 
 Many people do not feel comfortable talking about sex, meaning sexual problems may be missed and not addressed.
-
----
 
 ## What might be causing it?
 
@@ -47,8 +43,6 @@ Parkinson's can impact on a person's sex life in various ways:
   - **Confidence.**
 
 Some Parkinson’s medicines (e.g. dopamine agonists) can cause ‘hypersexuality’. This is a marked increase in sexual interest, arousal, and behaviour. It might mean having more sexual thoughts or desire for different sexual practices. See the <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page for more information.
-
----
 
 ## What should I do about it?
 
@@ -67,8 +61,6 @@ At times, issues with sexual function are normal and may improve on their own. B
 If the problems are more frequent and bother you, talk to your GP or Parkinson’s specialist team. Many people are embarrassed by talking about sex - but remember these conversations are private and confidential. There are possible changes that can be made to medication that may improve your symptoms so do not be afraid to talk about it.
 
 **Hypersexuality:** If very mild, some couples may feel happy about the increase in sexual activity. But if sexual desires feel out of control, out of character or cause noticeable changes in behaviour then this should be addressed. Speak to your Parkinson’s specialist team urgently if this is the case. For more information, see the <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page.
-
----
 
 ## What can I try for myself?
 
@@ -123,8 +115,6 @@ For more advice on bladder and bowel issues, see the <a href="/information/manag
   - For women, pelvic floor exercises can help to increase awareness of pelvic floor contractions and improve pelvic tone. These can both help with reaching orgasm.
   - If you find pelvic floor exercises challenging a physiotherapist, nurse, or GP can offer advice.
 
----
-
 ## Further Assessments
 
 ### Questions
@@ -137,8 +127,6 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - How much response you have to stimulation.
 - Times of the day when problems occur.
 - Does the problem occur at a time when the medication feels less effective – “off” times?
-
----
 
 ## Further Treatments
 
@@ -170,15 +158,11 @@ Other treatments for erectile dysfunction:
 - **Vacuum pump device:** This is an alternative to medication and is put around the penis to produce an erection.
 - **Surgery:** Usually only used as a last resort, a penile prosthesis can be implanted.
 
----
-
 ## Key Messages
 
 - Parkinson’s can affect sexual function. This might be due to the physical effects of the condition, emotional changes, or as a side effect of medication.
 - There are a number of things you can try to help improve sexual function. But if you continue to have problems then you should seek help and advice.
 - Treatments offered by healthcare professionals include talking therapies and medication changes.
-
----
 
 ## Useful Organisations & Contacts
 

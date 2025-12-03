@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -38,8 +36,6 @@ Fatigue affects up to half of people with Parkinson’s. The exact cause of this
 
 _Daytime sleepiness_ is falling asleep or feeling like you might fall asleep during the day.
 
----
-
 ## What might be causing it?
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/tiredness.jpg" alt="tired" class="tiredness__tiredness">
@@ -53,8 +49,6 @@ Another common cause of fatigue or tiredness are stress or feeling low, which ca
 Less common causes of fatigue include some medical problems such as anaemia, diabetes or thyroid problems.
 
 If you suddenly feel very tired or lacking in energy this may indicate that you are unwell from something else such as an infection. However, in this case you would probably have other symptoms too, e.g. fever.
-
----
 
 ## What should I do about it?
 
@@ -73,8 +67,6 @@ You should see your GP or contact your Parkinson’s specialist team if:
 - Your symptoms have come on since starting a new Parkinson’s medication.
 
 If you are falling asleep during tasks, it is important to consider your safety. You must not drive and should consider other scenarios (e.g. baths) where falling asleep unexpectedly could be dangerous.
-
----
 
 ## What Can I Try for Myself?
 
@@ -134,8 +126,6 @@ Further strategies are seen below; not all will be applicable to you.
 - Drinking too much alcohol can affect quality of sleep and make you tired.
 - See the <a href="/information/managing-symptoms/sleep" class="internal-link">_Sleep Difficulties_</a> page for more advice on getting good sleep.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -151,8 +141,6 @@ People affected by Parkinson’s describe their experiences.
 > “I love entertaining. I love cooking for people and having people in the home. But I’ve got to pace myself. I mean that’s just partly my age as well as having Parkinson’s. But I know that if we had a lot of people in and, if I’m having people around for dinner, I’ve got to make sure I’ve got a quiet day either side and I’ve got to plan ahead. So I’ll lay the table a couple of days before and I’ll try and shop and do a lot of the preparation before I actually have people round”
 >
 > _(Person with Parkinson’s)_
-
----
 
 ## Further Assessment
 
@@ -185,8 +173,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 
 These depend on their assessment. They may run further tests such as blood tests, urine tests or scans. Your doctor may do a blood test for anaemia, a vitamin or iron deficiency, diabetes or thyroid function.
 
----
-
 ## Further Treatments for Tiredness and Fatigue in Parkinson’s
 
 ### Medication
@@ -215,21 +201,15 @@ These depend on their assessment. They may run further tests such as blood tests
 
 For most drugs causing drowsiness, combining them with drinking alcohol will make it worse.
 
----
-
 ## Referral
 
 - You may be referred to another service. This will depend on the suspected cause.
-
----
 
 ## Key Messages
 
 - See your GP if you are tired for more than 4 weeks, if it is troublesome or you feel unwell.
 - You should not drive and should seek help if you get so sleepy that you fall asleep during tasks.
 - There are some simple strategies that may help to live with feeling tired.
-
----
 
 ## Useful Organisations & Contacts
 

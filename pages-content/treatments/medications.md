@@ -17,8 +17,6 @@
 
 </div>
 
----
-
 There are a range of medicines available to help manage the symptoms of Parkinson’s. At present, no medication is known to change or cure the underlying disease process. However, medication can effectively improve the symptoms. Treating symptoms earlier will help you to keep well and active which is beneficial in the longer term. Medicine can be adjusted to match your own symptoms, needs and preferences.
 
 The underlying changes in Parkinson’s are complex. One characteristic of Parkinson’s is reduced levels of **dopamine**. This is a chemical messenger in the brain. Most of the medicines for Parkinson’s work in different ways to improve dopamine messaging.
@@ -28,8 +26,6 @@ It can take some time to find the best medicine regime for you. Symptoms change,
 It is important not to change your medication without discussing this with your GP or Parkinson’s team first. Any withdrawal from Parkinson’s drugs must be done gradually.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/medication.jpg" alt="medication" class="treatments-and-therapies__medications">
-
----
 
 ## Commonly Used Medications
 
@@ -145,14 +141,12 @@ Not all patients will experience side effects while taking dopamine agonist medi
 - Urine may turn reddish-brown, which is harmless.
 - Tolcapone requires regular checks of your liver function.
 
----
-
 ## Other Medications
 
 ### 1) Amantadine
 
-| Generic Name | Brand Names | Forms Available    |
-| ------------ | ----------- | ------------------ |
+| Generic Name | Brand Names | Forms Available         |
+| ------------ | ----------- | ----------------------- |
 | Amantadine   | Symmetrel®  | • Capsules <br> • Syrup |
 
 **What does it do?**
@@ -182,21 +176,15 @@ Not all patients will experience side effects while taking dopamine agonist medi
 - Side effects can include memory problems and mental health problems.
 - Other side effects may be constipation, difficulty passing urine and dry mouth.
 
----
-
 ### 3) Other medications
 
 Other medications may be used to treat specific symptoms. See our <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages for more details.
-
----
 
 ## Side effects of Parkinson’s medications
 
 Although rare, Parkinson’s medication carries a risk of causing unusual behaviour. They are called **Impulse Control Disorders**, which you can read about on out <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> symptom page. This means behaviours that are difficult to control. Examples include gambling, shopping, binge-eating, hyper-sexuality. They are more common in people on dopamine agonists.
 
 You and those close to you should watch out for these. If this happens, it is vital to tell your GP or Parkinson’s specialist team. A change in your medication may be necessary.
-
----
 
 ## Who should I talk to about my medication?
 
@@ -219,8 +207,6 @@ Who you should talk to depends on the subject of the query. Although there is so
   - General medication advice
   - If you are worried about the impact of one medication on another
 
----
-
 ## Getting Medication
 
 - Long term medication should be issued on a repeat prescription by your GP.
@@ -234,8 +220,6 @@ Who you should talk to depends on the subject of the query. Although there is so
   See the NHS website for more details.
 - Having Parkinson’s is not (at present) listed as a reason for exemption from NHS prescription charges.
 - A prescription prepayment certificate (PPC) could save you money on NHS prescription costs. See the <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">_Finances_</a> page for more details.
-
----
 
 ## Taking Medication
 
@@ -322,8 +306,6 @@ The next day, return back to the normal schedule.
 
 If you miss a tablet later in the day, you may not be able to easily fit all the doses in before bed. Rather than taking them very close together, you may need to miss one out for that day. This can be a tricky judgement to make.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences:
@@ -331,8 +313,6 @@ People affected by Parkinson’s describe their experiences:
 > “I find the tablets hard to swallow. I got used to having ice cream with them now that works nicely. I learnt that by trial and error.”
 >
 > _(Person with Parkinson’s)_
-
----
 
 ## Organising Medication
 
@@ -390,8 +370,6 @@ People affected by Parkinson’s describe their experiences:
 
 **There are also other possible side effects that can occur, and some medications cannot be used together with other medications. Your prescribing doctor will take this into account when prescribing medication.**
 
----
-
 ## My Experience
 
 > “The advice I would give to people is that you prepare yourself a schedule ….unless you write it down and give yourself something to work to, you can, you can go wrong.”
@@ -401,8 +379,6 @@ People affected by Parkinson’s describe their experiences:
 > “My grandchildren have set it up. It comes on, and the alarm goes, ‘Parkinson’s’, so I know to take my tablets.”
 >
 > _(Person with Parkinson’s)_
-
----
 
 ## Useful Organisations & Contacts
 

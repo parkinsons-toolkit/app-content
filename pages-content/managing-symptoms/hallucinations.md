@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -34,8 +32,6 @@ Hallucinations, visual illusions, and delusions may occur in people with Parkins
 **Visual illusions** are mistaking real objects for things that they are not. This might be, for example, seeing an umbrella on the floor and thinking it is a snake or seeing a coat hanging on a door and thinking it is a person.
 
 **Delusions** are strongly held thoughts or beliefs that are not based on reality. For example, someone may have paranoid thoughts or beliefs about a carer or another close contact. This can make them suspicious or mistrust the carer or close contact. Delusions may also include jealous thoughts or beliefs of having special powers. These could potentially lead to unusual or unsafe behaviour. People who are experiencing severe delusions may be convinced they are true and may find it difficult to tell what is real or not in their daily lives.
-
----
 
 ## What might be causing it?
 
@@ -67,8 +63,6 @@ Hallucinations, visual illusions, and delusions may occur in people with Parkins
 - If hallucinations are a sudden new problem, you should see your GP promptly (within a couple of days) as there may be something causing it that can be treated. This could be for example an infection.
 - If hallucinations or these other symptoms are more of a gradual problem, it is important to consult your Parkinson’s specialist team or GP as soon as you’re able to as they can cause worry and stress for you and others around you. A change in the medications used for Parkinson’s may help to reduce these symptoms.
 
----
-
 ## What can I try for myself?
 
 It is important to discuss the hallucinations, illusions, and/or delusions with your Parkinson’s specialist team or GP. This is so that they can see if any potentially treatable causes could be adding to the problem or if a change in your Parkinson’s medication might help.
@@ -89,8 +83,6 @@ It is important to discuss the hallucinations, illusions, and/or delusions with 
 - If certain objects are frequently mistaken as visual illusions, consider removing these objects from the room or changing the lighting in the room to alter the shadow (it may be worth examining the lighting and how things are arranged at home in case this could be contributing to the problem).
 - Try talking to a close friend or relative if you suspect you are hallucinating or seeing a visual illusion. They may be able to help you to recognise a hallucination or visual illusion and to decrease your anxiety about them.
 - If you can recognise a visual illusion or a hallucination for what it is and it is actually not disturbing to you, then perhaps no further action is needed.
-
----
 
 ## Further Assessment
 
@@ -121,8 +113,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 
 Tests are often not needed, but depending on their assessment, healthcare professionals may run further tests such as blood tests or a brain scan.
 
----
-
 ## Further treatments
 
 ### Medication
@@ -148,14 +138,10 @@ Medication is only used in severe cases where the problem is causing distress.
 - Rivastigmine.
 - Note some medicines that might be used in other contexts for hallucinations are **not suitable** in Parkinson’s: Olanzapine, Risperidone, Aripiprazole, ‘typical antipsychotics’ such as haloperidol.
 
----
-
 ## Key messages
 
 - Hallucinations, illusions, and delusions can occur in Parkinson’s. Hallucinations are most commonly a side effect of medication but can also be a symptom of Parkinson’s or other conditions, like dementia.
 - It is important to discuss with your Parkinson’s specialist team if you are experiencing hallucinations, illusions, or delusions.
-
----
 
 ## Useful Organisations & Contacts
 

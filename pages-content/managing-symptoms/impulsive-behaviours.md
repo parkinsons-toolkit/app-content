@@ -13,8 +13,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe
   width="560"
@@ -35,8 +33,6 @@ People may also experience a compulsion to take more than their prescribed amoun
 
 Others may not realise they are increasingly taking more medication than the amount their healthcare provider has prescribed. It’s important that family members or carers know your prescribed doses so they can spot if you are taking too much.
 
----
-
 ## What might be causing it?
 
 <div class="video-container">
@@ -53,8 +49,6 @@ The chemical dopamine in the brain is affected in Parkinson’s. Dopamine has ma
 
 People may also be more likely to develop these behaviours if they are younger at the age of diagnosis or have a history of alcoholism or addictive behaviours in their families. It appears to affect men more than women.
 
----
-
 ## What should I do about it?
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/impulsive.jpg" alt="impulsive" class="impulsive-behaviours__impulsive">
@@ -62,8 +56,6 @@ People may also be more likely to develop these behaviours if they are younger a
 - It is important that people with Parkinson’s, loved ones and carers are aware of the possibility of these behaviours.
 - **You should report any unusual or impulsive behaviours to a specialist as soon as they are noticed.**
 - That’s because the best way to treat these behaviours is with careful medication adjustments or changes.
-
----
 
 ## What can I try for myself?
 
@@ -99,8 +91,6 @@ People may also be more likely to develop these behaviours if they are younger a
 - Stress, anxiety and depression can make impulsive and compulsive behaviour changes worse.
 - See the _Optimising Wellbeing_ pages found within the <a href="/information/managing-symptoms/tremor" class="internal-link">_Living with Parkinson's_</a> section for tips on keeping well.
 
----
-
 ## Further Treatments
 
 - It’s important to treat any depression, because low mood can make any compulsive or impulsive behaviours worse. Treating the depression may make the behaviours better.
@@ -112,16 +102,12 @@ People may also be more likely to develop these behaviours if they are younger a
 - They may also refer you to a psychologist or psychiatrist for further support or treatment.
 - **Please do not make any changes to your medication regime without speaking with a healthcare professional. **
 
----
-
 ## Key Messages
 
 - Impulsive and compulsive behaviours can cause someone to act in a way that is out of character for them.
 - Affected individuals may not have insight to see that the activities are causing a problem in their life.
 - While these may be difficult topics to raise with your specialist, they are side effects of medication, and your specialist will be aware of them. It’s best to share concerns early, before little problems become big.
 - The best treatment for impulsive and compulsive behaviours are medication adjustments or changes, made by your specialist.
-
----
 
 ## Useful Organisations & Contacts
 

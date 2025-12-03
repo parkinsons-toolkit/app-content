@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -24,8 +22,6 @@
 </div>
 
 Receiving a diagnosis of Parkinson’s will probably make you feel emotional. You will probably also have lots of questions. Everyone’s reaction is different and there is no “right” way to handle it. Here we give a few pointers on things that are relevant at diagnosis. This page provides information for those beginning their journey with Parkinson’s, offering advice on how to adapt and cope with the changes ahead. This page also has some tips from people who have been through it.
-
----
 
 ## What can I do for myself?
 
@@ -41,10 +37,7 @@ Receiving a diagnosis of Parkinson’s will probably make you feel emotional. Yo
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/support.jpg" alt="support" class="example-class">
 
-
 **<ins>Find out where you can get support</ins>** You are not alone. Establishing a support network ranges from knowing who your Parkinson’s specialist team are, to knowing who will listen when you need a moan. Some people find support groups helpful. Others look for connections online, in exercise classes, or through other friends.
-
----
 
 ## What do I need to do?
 
@@ -63,8 +56,6 @@ If you are a driver, you are legally obliged to inform the DVLA of your diagnosi
 Except for the legal requirement above, only you can decide who you tell about your diagnosis, and when. There is no rush, but you might find relief in sharing this news.
 
 If you do tell others, bear in mind that they will have a reaction too. That reaction is a reflection of them processing the information. It does not change your condition.
-
----
 
 ## My Experience
 
@@ -103,8 +94,6 @@ People affected by Parkinson’s describe their experiences:
 > “For me, taking part in research projects has been a big factor in coming to terms with the diagnosis. It’s heartening to know that there are so many skilled scientists beavering away towards a cure and I’ve found that joining forces with these researchers has been a really positive experience. Your neurologist may be able to suggest projects in which you can get involved but you could also look at the <a href="https://cureparkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Cure Parkinson’s Trust</a> site or the research section of the <a href="https://www.parkinsons.org.uk/research" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> site.”
 >
 > _(Person with Parkinson’s)_
-
----
 
 ## Useful Organisations & Contacts
 

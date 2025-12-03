@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 ## Apomorphine injections
 
 ### What is it?
@@ -79,8 +77,6 @@ _Many side effects of apomorphine are typical for dopamine agonists (such as apo
 
 When you start apomorphine injections you will be given details for who to contact if there is a problem. This may be a trained community nurse or the team at the specialist centre. You should carry the details of your treatment and your specialist team on you to contact if necessary. If you experience side effects, discuss them with your specialist team as soon as they occur.
 
----
-
 ## Apomorphine pump
 
 ### What is it?
@@ -137,8 +133,6 @@ _Many side effects of apomorphine are typical for dopamine agonists, and should 
 </div>
 
 When you start apomorphine pump treatment you will be given details for who to contact if there is a problem. This may be a trained community nurse or the team at the specialist centre. You should carry the details of your treatment and your specialist team on you to contact if necessary. If you experience side effects, discuss them with your specialist team as soon as they occur.
-
----
 
 ## Deep Brain Stimulation
 
@@ -242,8 +236,6 @@ The specialist centre where you had the surgery will continue your follow-up car
 
 The settings of your stimulator can be adjusted to provide the best results. Adjustments usually occur in the weeks following your surgery and at follow-up appointments as your requirements change.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences:
@@ -254,13 +246,9 @@ People affected by Parkinson’s describe their experiences:
 >
 > _(Person with Parkinson’s)_
 
----
-
 ## Ultrasound
 
 This method is currently under research for the treatment of tremor. It is not yet available for general use.
-
----
 
 ## Duodopa Infusion
 
@@ -344,8 +332,6 @@ Once the tube is safe to use, tablet medications are reduced down and discontinu
 
 You will need long term follow-up at the specialist centre for your Duodopa treatment.
 When you have the procedure and are set up with the equipment, you will be given contact details for who to contact if there are any problems. You should carry the details of your treatment on you so that the specialist team can be contacted if there is an emergency.
-
----
 
 ## Useful Organisations & Contacts
 

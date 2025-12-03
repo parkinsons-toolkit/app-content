@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 Research studies have shown broad benefits of exercise in Parkinson’s. Activity is good for many aspects of life:
 
 - Mobility
@@ -43,8 +41,6 @@ You should be cautious about suddenly significantly increasing your activity lev
 
 Think of your activity and exercises to be like your medication. It is an essential part of treatment for your Parkinson’s. This advice is for everyone. The sooner activity is part of your life, the better.
 
----
-
 ## What is “Keeping Active”?
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/couple-stretch.jpg" alt="couple-stretching" class="keeping-active__couple-stretch">
@@ -57,8 +53,6 @@ Different people will reach this with different activities. This will change ove
 - If the activity has become too much, then roll it back.
 
 Everyone with Parkinson’s should be considered for referral to physiotherapy. This is even if you do not have trouble with symptoms. It can be helpful to tailor the recommendations about activity for you.
-
----
 
 ## What should I do?
 
@@ -109,8 +103,6 @@ These are activities that challenge your balance and practice coordination, idea
 For all of these types of activity, make sure you warm up before undertaking more intense activity to avoid injuries and reduce stiffness. Be mindful of your body to avoid injury. If you are unsure whether an activity is safe, always check with a professional first.
 
 To see what this might look like in real life, pick the person you most relate to. You can find targeted advice about keeping active for each person on the separate pages.
-
----
 
 ## Things to Consider in Parkinson’s
 
@@ -168,8 +160,6 @@ This could be built into your routine through day-to-day tasks, for example writ
 - It seems that rhythm or beat of music helps people with Parkinson’s make some movements and so undertake activity. Some people find it more fun too.
 - Consider exercising to music or taking part in dance as part of your exercise.
 
----
-
 ## Putting it all Together
 
 We know this may be overwhelming. There is a lot to consider, but there is also lots of overlap.
@@ -180,8 +170,6 @@ We know this may be overwhelming. There is a lot to consider, but there is also 
 - A couple of times a week include strengthening and balance in your activities.
 
 This doesn’t happen overnight. You will have built up to this little-by-little and keep continuing to push for more. Pick the person you most relate to, to see what this could look like when all put together. You can find targeted advice about keeping active for each person on the separate pages.
-
----
 
 ## How to do this?
 
@@ -232,8 +220,6 @@ Options vary based on where you live. Someone with local knowledge of activities
 - Your community therapy teams (physiotherapy and occupational therapy)
 - A charity – for example Parkinson’s UK
 - Your Parkinson’s specialist team
-
----
 
 ## Overcoming Barriers
 
@@ -288,8 +274,6 @@ The NHS has a long-term plan to provide Link Workers across the country who woul
 
 We know this may be overwhelming. There is a lot to consider, but there is also lots of overlap.
 
----
-
 ## My Experience
 
 <div class="video-container">
@@ -309,8 +293,6 @@ People affected by Parkinson’s describe their experiences.
 
 > “The main thing is occupation of the mind. You mustn’t let yourself sit in the chair and drift into sitting down, you know. That’s why I encourage us to go out”
 > _(Carer of Person with Parkinson’s)_
-
----
 
 ## Useful Organisations & Contacts
 

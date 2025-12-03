@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 Stress can often make symptoms such as tremor worse. Learning how to cope with stressful life events can help you to manage symptoms and maintain a good quality of life.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/overcome-stress.jpg" alt="overcome-stress" class="dealing-with-stress-and-challenges__overcome-stress">
@@ -29,8 +27,6 @@ Even when emotionally and mentally healthy, you may still experience negative em
 </div>
 
 Below are some suggestions to promote emotional wellbeing and help you feel more in control when dealing with stress. When you have read them through, spend some time thinking about how you might incorporate some of the tips into your routine.
-
----
 
 ## What can I do?
 
@@ -214,8 +210,6 @@ It’s important to keep in mind that the goal of PST is not to solve all proble
 
 See the <a href="/information/my-wellbeing" class="internal-link">_My Wellbeing_</a> section for more on how to do problem solving therapy.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -237,8 +231,6 @@ People affected by Parkinson’s describe their experiences.
 > I can’t go there. I can’t eat this,’ what about all the things you can do, you forget. I don’t dwell  
 > on the bad stuff, and the good stuff sometimes takes my mind away from the bad stuff. I can manage it a little bit better.”  
 > _(Person with Parkinson’s)_
-
----
 
 ## Useful Organisations & Contacts
 

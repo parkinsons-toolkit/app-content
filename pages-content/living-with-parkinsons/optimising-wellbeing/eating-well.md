@@ -20,8 +20,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -33,8 +31,6 @@
 </div>
 
 There is no diet that is specifically recommended for Parkinson’s, but diet can make a difference for symptoms related to Parkinson’s, such as overall mood, constipation, and blood pressure. Diet can also affect some of the medications used for Parkinson’s.
-
----
 
 ## What is a balanced diet in more detail?
 
@@ -48,8 +44,6 @@ There is no diet that is specifically recommended for Parkinson’s, but diet ca
 - Fluid intake: aim for 6-8 glasses of non-alcoholic drinks per day for hydration (unless advised otherwise by your healthcare professional)
 
 _Find more details of the different food types, further down this page under the heading ‘Understanding food groups’._
-
----
 
 ## Diet and medication
 
@@ -111,8 +105,6 @@ High blood pressure can occur when high-dose selegeline is taken with tyramine-r
 - Tyramine also increases in leftover food stored longer than 48 hours
 - Food that is spoiled (e.g. food that is past its “best before” date)
 
----
-
 ## Diet and Constipation
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/water-constipation.jpg" alt="drink-water" class="eating-well__water-constipation">
@@ -125,8 +117,6 @@ Constipation is a common symptom experienced by people with Parkinson’s. It ca
 - Increase fibre intake (high fibre foods are listed at the end of this page)
 
 _See the <a href="/information/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a> page for more details._
-
----
 
 ## Diet and low blood pressure
 
@@ -143,8 +133,6 @@ People with Parkinson’s can experience low blood pressure, particularly when c
   - In some cases increased salt intake can help, but there are also potential harmful effects of high salt intake so discuss with your GP, dietician or Parkinson’s team before trying this.
 
 _See the <a href="/information/managing-symptoms/dizziness" class="internal-link">Dizziness</a> page for more details._
-
----
 
 ## Alcohol
 
@@ -165,8 +153,6 @@ Generally, unless you have been advised to not drink alcohol by a healthcare pro
 
 _Alcohol dependency or addiction has serious health implications. There is lots of support available – see the <a href="https://www.nhs.uk/nhs-services/find-alcohol-addiction-support-services/" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> to find your local alcohol addiction services._
 
----
-
 ## Swallowing difficulties
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/making-tea.jpg" alt="making-tea" class="eating-well__making-tea">
@@ -186,8 +172,6 @@ Some people with Parkinson’s will notice they may have trouble with swallowing
 - Thin fluids (like water) are more difficult to swallow than thicker ones, so in some cases Speech & Language Therapists recommend using a powder to thicken fluids.
 - Thicker soups, yoghurts or blended foods/fruits can also allow you to take in more fluid in a form that is easier to swallow.
 - Smaller meals may not be as nutritionally complete, so if you are having issues with gaining or maintaining weight, please consult your GP or Parkinson’s specialist team.
-
----
 
 ## Maintaining healthy weight
 
@@ -244,8 +228,6 @@ Parkinson’s doesn’t tend to make people gain weight, but there are few reaso
 - Ensure ½ your plate is vegetables/salad, ¼ lean protein and ¼ wholemeal or low GI carbohydrate
 - Avoid very low calorie diets as this can contribute to decreased energy levels
 
----
-
 ## Supplements
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/supplements.jpg" alt="supplements" class="eating-well__supplements">
@@ -291,8 +273,6 @@ There has been a lot of interest in supplements as a way of slowing down Parkins
 - Excessive amounts of antioxidant supplements can be harmful.
 - Calcium supplements are advised in some cases, but <ins>not</ins> routinely recommended due to potential harm from high calcium levels. If you think you might need calcium discuss this with your GP.
 
----
-
 ## When to see a dietician?
 
 <div class="video-container">
@@ -313,8 +293,6 @@ There has been a lot of interest in supplements as a way of slowing down Parkins
   - Looser fitting clothes and/or belt
   - Jewellery no longer fitting
   - Looser fitting dentures
-
----
 
 ## Understanding Food Groups
 
@@ -357,8 +335,6 @@ You can learn more about the five food groups below by exploring the <a href="ht
 
 - Water, lower fat milks, and lower sugar or sugar-free drinks (including tea and coffee) all count
 
----
-
 ## Getting Required Nutrients
 
 ### Sources of Calcium
@@ -382,8 +358,6 @@ Foods high in vitamin D include:
 
 Because it can be difficult to eat enough vitamin D, a daily 10 mcg supplement of vitamin D3 may be recommended by your dietitian or healthcare professional
 
----
-
 ### Sources of B Vitamins
 
 - Breakfast cereals may be fortified with vitamins
@@ -395,14 +369,10 @@ Because it can be difficult to eat enough vitamin D, a daily 10 mcg supplement o
 - Fortified bread
 - Soya beans
 
----
-
 ## Vegan Diets
 
 - If excluding meat and dairy from your diet, please discuss with a dietitian or healthcare professional to ensure your diet is nutritionally complete.
 - Note vitamin B12 is found in most animal products but not in green plants, therefore B12 supplement is recommended if not eating animal products.
-
----
 
 ## Useful Organisations & Contatcs
 

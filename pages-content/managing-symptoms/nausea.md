@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe
   width="560"
@@ -28,8 +26,6 @@
 
 Nausea can be described as feeling sick and can lead to vomiting.
 
----
-
 ## What might be causing it?
 
 Both Parkinson’s itself and the drugs used to treat it can cause nausea. Nausea that started after recently starting any new drug should go away on its own with time.
@@ -40,15 +36,11 @@ An illness called gastroparesis can cause nausea. This is common in Parkinson's.
 
 Nausea may have a cause not related to your Parkinson’s. Common causes include anxiety or stress, stomach problems such as reflux, food poisoning or ulcers, migraine or infections (e.g. of the urinary tract or inner ear). These conditions will tend to cause other symptoms as well as nausea.
 
----
-
 ## What should I do about it?
 
 There are many things you can try for yourself (see below). But there are times when you should seek professional help. For example, if you have nausea with other changes (as seen below) or the nausea is concerning you.
 
 If you experience only nausea, you could try some of the things below. If it doesn’t improve in 1 month, seek help from your GP. But if you are concerned see your GP sooner.
-
----
 
 ## What can I try for myself?
 
@@ -89,8 +81,6 @@ Nausea can occur if you take medications on an empty stomach. Which is why for m
 
 If this is a problem for you, try taking your medication at least half an hour before your main meal. Also, with plenty of water and a small snack, such as a biscuit.
 
----
-
 ## Further Assessment
 
 ### Questions
@@ -122,8 +112,6 @@ Tests are not always needed. But your GP or specialist may run further tests suc
 - a stool sample for infection or inflammation,
 - camera test (endoscopy) to look at your food pipe and stomach.
 
----
-
 ## Further Treatments
 
 ### Medication
@@ -150,15 +138,11 @@ Tests are not always needed. But your GP or specialist may run further tests suc
 
 You may be referred on to another service, e.g. dietician or gastroenterologist.
 
----
-
 ## Key Messages
 
 - Nausea can often be linked to starting a new medication either for your Parkinson’s or other conditions. If this is the case, the nausea may resolve itself.
 - There are lots of things you can do to help nausea.
 - If the nausea continues, gets worse or you also get other symptoms, then you should seek medical advice.
-
----
 
 ## Useful Organisations & Contacts
 

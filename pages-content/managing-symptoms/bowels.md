@@ -17,8 +17,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe
   width="560"
@@ -41,13 +39,9 @@ Constipation can make you feel very unwell and, if left untreated, can become se
 
 Constipation can sometimes lead to diarrhoea or leaking of stool. Hard stool gets stuck and only the liquid content comes out. So, although it can seem like diarrhoea, the bowels are very constipated and blocked up. This is known as “overflow diarrhoea” and the best approach to resolve it is to treat the constipation.
 
----
-
 ## What might be causing it?
 
 In Parkinson’s, constipation is common due to slowing down of the bowel contractions. Diet, medications, and activity levels also have a big impact on the bowels and can cause constipation. Constipation can be a symptom of other medical conditions so a healthcare professional may ask questions to check for these.
-
----
 
 ## What should I do about it?
 
@@ -62,8 +56,6 @@ There are many things you can try for yourself, but there are some circumstances
 - Unintentional significant weight loss (see the <a href="/information/managing-symptoms/weight" class="internal-link">_Weight_</a> page)
 - New bowel incontinence
 - If you have tried the suggestions listed below under _What can I try for myself?_ and the problem persists after a month
-
----
 
 ## What can I try for myself?
 
@@ -90,13 +82,9 @@ Fibre in your diet helps improve constipation. Eat a variety of fibres.
 - Vegetables
 - Peas, beans, pulses, nuts, seeds
 
----
-
 ## What might be causing it?
 
 In Parkinson’s, constipation is common due to slowing down of the bowel contractions. Diet, medications, and activity levels also have a big impact on the bowels and can cause constipation. Constipation can be a symptom of other medical conditions so a healthcare professional may ask questions to check for these.
-
----
 
 ## What should I do about it?
 
@@ -111,8 +99,6 @@ There are many things you can try for yourself (see _What can I try for myself_)
 - Unintentional significant weight loss (see weight loss page)
 - New bowel incontinence
 - If you have tried the suggestions listed in _What can I try for myself?_ and the problem persists after a month.
-
----
 
 ## What can I try for myself?
 
@@ -199,8 +185,6 @@ Many people with Parkinson’s need to take laxatives on a regular and long-term
 
 If finding toilets when out and about is a concern, the _National Key Scheme_ may help. This system allows people with a disability to unlock more than 9,000 accessible public toilets across the UK. For more information, see the <a href="https://www.disabilityrightsuk.org/radar-keys?srsltid=AfmBOophjHsd-3Hg87Sw7Q3ebdt_t7h-HI0iKErqzf9-Pxg46jZt8qaK" class="external-link" target="_blank" rel="noopener noreferrer">_Disability Rights UK_</a> website. You can use this website to buy a ‘Radar Key’ and/or Radar Key Region List.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -208,8 +192,6 @@ People affected by Parkinson’s describe their experiences.
 > _“The shaking upsets my bowels and my bladder which is, you can imagine…Sometimes I go into the toilet taking with me magazines and settle down.”_
 >
 > _(Person with Parkinson’s, P17)_
-
----
 
 ## Further assessment
 
@@ -242,8 +224,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 - Depending on their assessment, there is a small chance the healthcare professional will arrange further tests.
 - This may include a stool sample, blood tests, a scan such as an X-Ray or CT scan, or an endoscopy. An endoscopy is where a camera is used to look inside the gut. It may be via the anus (known as a colonoscopy or sigmoidoscopy) to look at the lower part of the gut.
 
----
-
 ### Further Treatments
 
 A healthcare professional may be able to give more personalised advice about things you could try yourself.
@@ -273,16 +253,12 @@ A healthcare professional may be able to give more personalised advice about thi
 
 You may be referred on to another service for specialist input. Referrals for bowel problems would typically be to Gastroenterology or Colorectal Surgery.
 
----
-
 ## Key messages
 
 - Stay hydrated and ensure you eat plenty of fibre.
 - Stay active.
 - Constipation can affect your Parkinson’s medications.
 - Get on top of the problem early so it doesn’t get worse.
-
----
 
 ## Useful Organisations & Contacts
 

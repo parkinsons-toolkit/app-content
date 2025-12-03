@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe
   width="560"
@@ -30,8 +28,6 @@ Dystonia is an involuntary muscle contraction (this is different to **Dyskinesia
 
 Dystonia most commonly effects the legs and feet of someone with Parkinson’s. It can cause abnormal postures of limbs or digits. People may notice their toes curling. They may notice their feet turning in at the ankle. They may feel or see their big toe sticking up. Dystonia can also impact the eyelids. It can cause frequent blinking and an intolerance to light. It can affect the head and neck, the vocal cords, and/or the hands.
 
----
-
 ## What might be causing it?
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/cramp.jpg" alt="cramp" class="cramps-and-spasms__cramp">
@@ -40,13 +36,9 @@ Most people with Parkinson’s who experience dystonia have ‘secondary’ dyst
 
 Some people with Parkinson’s notice dystonia when their medication levels are low. This may be at the end of the day, or in between doses. It could be early in the morning before they have taken any medications. They may have dystonia when their medication levels are at the highest in their bodies, but this is less common.
 
----
-
 ## What should I do about it?
 
 There are various strategies you can try for yourself discussed below. You should also routinely talk to your Parkinson’s specialist team about these symptoms. They may be able to make medication adjustments to help. If the symptoms are causing difficulties with daily life or sleep, then you may need to speak to the team sooner.
-
----
 
 ## What can I try for myself?
 
@@ -77,8 +69,6 @@ There are various strategies you can try for yourself discussed below. You shoul
 - Repeat each stretch 3-4 times, with a brief break between.
 - Try to make this a routine part of your life, several times per week.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -86,8 +76,6 @@ People affected by Parkinson’s describe their experiences.
 > _“Sometimes I do, I know when the muscles and everything get stiffer, and what I do, I just massage myself.”_
 >
 > _(Carer for someone with Parkinson’s)_
-
----
 
 ## Further Assessment
 
@@ -113,8 +101,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 
 Tests are rarely required for dystonia.
 
----
-
 ## Further Treatments
 
 ### Medication
@@ -137,8 +123,6 @@ Possible adjustments that may be considered:
 - Sometimes people with severe cramps or spasms are referred to a specialist team. This can be for more invasive treatments
   - **Botulinum toxin (Botox)** injections may be considered with a specialist. This is to relax muscle groups that are moving excessively.
   - **Deep brain stimulation (DBS)** may also be an option for some patients. See <a href="/information/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a> Advanced Therapies & Surgical Treatments for more information.
-
----
 
 ## Useful Organisations & Contacts
 

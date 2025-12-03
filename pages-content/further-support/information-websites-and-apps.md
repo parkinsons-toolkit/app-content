@@ -14,13 +14,9 @@
 
 </div>
 
----
-
 When diagnosed with Parkinson’s, you may want to seek out extra information to that given by the health professionals supporting you. This can help you to better understand the condition and understand how to manage any symptoms. There are a number of places you can find information. This can be on the internet, from applications (‘apps’), in books, libraries, information organisations such as Citizens Advice, and from support groups. There can be a huge amount of information to take in. This can be especially so when searching the internet or when downloading health apps to your electronic device. The information may seem to be contradictory, and it can sometimes feel confusing to know what information is accurate. It can also be hard to know what information to use for yourself. It is always good to ask the health professionals around you any questions you have, and about the extra information you have found.
 
 This section provides guidance on the different sources of information and some examples of good sources of information.
-
----
 
 ## Websites
 
@@ -42,12 +38,9 @@ The <a href="https://www.cureparkinsons.org.uk/" class="external-link" target="_
 
 The <a href="http://www.nhs.uk/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> provides the latest information regarding research and treatments for Parkinson’s. Local NHS services can also be found using the website.
 
----
-
 ## Apps
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/apps.jpg" alt="apps" class="example-class">
-
 
 An app is a type of software that allows you to perform specific tasks. These can be downloaded to your mobile phone or other electronic device. There are some apps designed to help you deal with your day-to-day symptoms of Parkinson’s. It is difficult to know if an app is useful based on good scientific knowledge and they may be discontinued. However, below are some examples of apps that you may find useful.
 
@@ -75,12 +68,9 @@ _Wellbeing_
 
 - KiNDEO: Allows you to create a life story for someone. You can add photos, videos and stories to create a record of someone’s life. Then it can be easily viewed by carers or loved ones.
 
----
-
 ## Podcasts
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/podcase.jpg" alt="podcast" class="example-class">
-
 
 A Podcast is an audio programme that you can listen to whenever you like on one of your electronic devices.
 
@@ -88,18 +78,13 @@ A Podcast is an audio programme that you can listen to whenever you like on one 
 - **Michael J. Fox Foundation Parkinson’s Podcast**: Podcast presented by <a href="https://www.michaeljfox.org/podcasts" class="external-link" target="_blank" rel="noopener noreferrer">Michael J. Fox Foundation</a>. A series of different speakers and topics surrounding different aspects of life for someone living with Parkinson’s disease.
 - **Substantial Matters: Life and Science of Parkinson’s Podcast**: Podcast presented by <a href="https://www.parkinson.org/resources-support/online-education/podcast" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson’s Foundation</a> . Each episode will focus of different topics ranging from medical treatment, research and ways to self-help.
 
----
-
 ## Books
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/books.jpg" alt="books" class="example-class">
 
-
 - **‘A Funny Thing Happened on the Way to the Future’ by Michael J. Fox:** Autobiography of Michael J. Fox – an actor who was diagnosed with Parkinson’s at 29 years old in 1991. Published 2010.
 - **‘A Parkinson’s Primer: An Indispensable Guide to Parkinson's Disease for Patients & Their Families’ by John M. Vine:** A Parkinson’s Primer is a book written by someone living with Parkinson’s discussing past experiences and all the information he wished he had known from the start. Non-technical book that is a personal guide for people with Parkinson’s and their family. Published 2017.
 - **‘Shake Well Before Use’ by Tom Isaacs:** Tom Isaacs was diagnosed with Parkinson’s at 27 years old. Seven years later, he walked 4,500 miles around the coastline of Britain to raise money for Parkinson’s research. The book is the story of that walk as well as the personal journey of coming to terms with his Parkinson’s and co-founding the Cure Parkinson’s Trust. Published 2007.
-
----
 
 ## Electronic Devices
 
@@ -110,8 +95,6 @@ There are more electronic devices currently being developed and tested, such as 
 
 See our <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for any devices or adaptations that might help you in the home.
 
----
-
 ## How to know if information is reliable
 
 Some of the above may be classed as medical devices. Medical devices are devices that are intended to be used for medical purposes. When looking for medical devices that you think may help you, it is important to see if the product has been assessed by the government. In the UK, the Medicines and Healthcare products Regulatory Agency (MHRA) will test medical devices. If the device is judged to be satisfactory and given approval, then the device will be marked with “CE”. If you see any products with the “CE” mark, then you can have confidence that it has been assessed and approved by the government.
@@ -121,8 +104,6 @@ If you are looking for apps that could be useful, it is recommended to either tr
 Remember that each person diagnosed with Parkinson’s will experience the condition differently.
 
 This means that not everything you read will apply to you. It is always worth talking with your GP or the health professionals around you to discuss what information, devices, websites or apps they feel may help you.
-
----
 
 ## Useful Organisations & Contacts
 

@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe
   width="560"
@@ -38,8 +36,6 @@ Some people with Parkinson’s have trouble with swallowing or eating. It can be
 
 Swallowing problems range from mild to severe and can happen at any time. If you notice any swallowing difficulties it is important you speak with your GP or Parkinson's specialist team. They can refer you on to specialists for treatment. Untreated swallowing problems can cause more serious health conditions, such as chest infections.
 
----
-
 ## What might be causing it?
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/swallowing.jpg" alt="swallowing" class="swallowing__swallowing">
@@ -50,15 +46,11 @@ Other medical issues can cause swallowing difficulties. These include weakness i
 
 Swallowing difficulties in Parkinson’s tends to happen gradually. Sudden problems are likely to be related to other causes. A professional assessment is often needed to identify the root cause.
 
----
-
 ## What should I do about it?
 
 There are things you can try to make swallowing easier. However, it is very important to tell your GP or Parkinson’s specialist team if you have difficulty swallowing food, drinks or medication. They will need to assess the cause of your difficulties, particularly if they are worsening. This is because swallowing problems can increase the risk of more serious problems, like choking or chest infections.
 
 If you have new weakness in your face, you should consult your GP. Very sudden weakness, occurring ‘like the snap of the fingers’, on one side of the body could be a stroke. If this is the case, call 999 for an ambulance.
-
----
 
 ## What can I try for myself?
 
@@ -116,8 +108,6 @@ _Tip: Swallowing - When swallowing food or drink, following the process below st
 6. Try licking round the mouth with your tongue to check all the food has gone.
 7. Repeat steps until you are finished eating or drinking.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -125,8 +115,6 @@ People affected by Parkinson’s describe their experiences.
 > “Things like chilli con carne, spaghetti Bolognese because they’re not big pieces of meat. But like if he’s got a chicken breast and when you cut things up … sloppier foods are obviously better than, you know, chunky foods.”
 >
 > _(Carer of someone with Parkinson’s)_
-
----
 
 ## Further Assessment
 
@@ -162,8 +150,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 - Most cases do not need further tests.
 - In other cases, depending on their assessment, your healthcare professional may recommend tests such as a blood test or camera test to look at your food pipe (this is called an endoscopy).
 
----
-
 ## Further Treatments
 
 ### Medication
@@ -186,14 +172,10 @@ Typical referrals for swallowing problems might include:
 
 If you are having significant and progressive difficulties swallowing, there is more information on the <a href="/information/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">_Progression of Symptoms_</a> page.
 
----
-
 ## Key Messages
 
 - Problems with swallowing tablets, liquid, or food can happen at any time during Parkinson’s.
 - Speak with your GP or healthcare professional as soon as you notice any difficulty swallowing, or if it gets significantly worse, as it may need further assessment.
-
----
 
 ## MUseful Organisations & Contacts
 

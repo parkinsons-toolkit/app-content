@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe
   width="560"
@@ -38,19 +36,13 @@ People may have times in between doses where they don’t feel as well. This var
 
 For some people, the variability is predictable and in relation to medication. For others, the variability does not follow a pattern, and this can be very challenging to manage.
 
----
-
 ## What might be causing it?
 
 No one knows for sure why variability of symptoms - or motor fluctuations - occurs. Researchers think it’s related to the way levodopa stimulates the brain. They usually occur after a person has had Parkinson’s for a longer time. Fluctuations are also more common with higher doses of levodopa. Illness or infection unrelated to Parkinson’s can make you feel unwell and lead to changes in your symptoms. This is different to the ‘on’ and ‘off’ periods described above.
 
----
-
 ## What should I do about it?
 
 There are things you can try for yourself (described below). You should discuss with your Parkinson’s specialist team things you can try. Medicine adjustments may be possible.
-
----
 
 ## What can I try for myself?
 
@@ -88,8 +80,6 @@ There are things you can try for yourself (described below). You should discuss 
   - If taking levodopa on an empty stomach causes nausea, try taking it with fruit or crackers rather than high protein foods.
 - See <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> for more information about diet.
 
----
-
 ## My Experience
 
 <div class="video-container">
@@ -111,8 +101,6 @@ People affected by Parkinson’s describe their experiences.
 > “We talked to him about changing his medication around, which he did do, and he took them a little bit earlier in the evening so he would feel a little bit more able.”
 >
 > _(Healthcare Professional)_
-
----
 
 ## Further assessment
 
@@ -137,8 +125,6 @@ Try to monitor your symptoms for about 3 days. Types of things you could record 
 - When you eat your meals
 - Any other symptoms, such as <a href="/information/managing-symptoms/involuntary-movements" class="internal-link">_Dyskinesia_</a> or <a href="/information/managing-symptoms/freezing" class="internal-link">_Freezing_</a>.
 
----
-
 ## Further Treatments
 
 ### Medication
@@ -161,15 +147,11 @@ Try to monitor your symptoms for about 3 days. Types of things you could record 
 - Apomorphine, a dopamine agonist delivered by injection either intermittently or as a continuous daytime infusion. See <a href="/information/treatments/medications" class="internal-link">_Medication_</a> page for more information.
 - Deep brain stimulation or Duodopa (a gel given by a tube directly into the gut). See our <a href="/information/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page for more advanced therapies.
 
----
-
 ## Key Messages
 
 - Variability of symptoms involves going from having consistent, good control of your Parkinson’s symptoms to less consistent, less good control over symptoms. This includes both movement and non-movement symptoms.
 - This includes ‘wearing off’ of medication and changing between periods of better control (‘on’) and less good control (‘off’).
 - There are things you can try yourself to help with variable symptoms. Your Parkinson's specialist team should also be able to suggest options which may help.
-
----
 
 ## Useful Organisations & Contacts
 

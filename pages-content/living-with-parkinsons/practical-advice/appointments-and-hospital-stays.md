@@ -15,10 +15,6 @@
 
 </div>
 
----
-
----
-
 ## Appointments
 
 <div class="video-container">
@@ -90,8 +86,6 @@ _Tip 2: It can be helpful to think about what your top 3 priorities are that you
   - **Symptom review –** regularly assess your symptoms and how they affect your quality of life
 
 Of course, while no preparation is needed for your appointments, you can make the most of your time with your specialist by thinking about what matters most to you and making a note of any key questions or concerns.
-
----
 
 ## Staying in Hospital
 
@@ -182,8 +176,6 @@ Many people worry about things that they have left at home if they are admitted 
 - **Bills**: Is there someone who can step in to help while you are in hospital?
 
 See <a href="/information/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a>, and <a href="/information/living-with-parkinsons/practical-advice/hobbiess-and-pets" class="internal-link">_Hobbies & Pets_</a> for more guidance.
-
----
 
 ## Minimising Hospital Risks
 
@@ -282,8 +274,6 @@ Managing medications around surgery can be complicated. This is particularly so 
 
 Some medications given in the hospital (for example medicines to reduce pain) can interact with the medications you take for your Parkinson’s. They can cause confusion, dizziness or nausea, for example. It is important to always let staff know if you don’t feel right in any way.
 
----
-
 ## Hospital policies
 
 Local hospital policies widely vary, from parking charges through to visiting hours. Different ways of communicating information to friends and relatives are used in different hospitals. If you want more information about how something works in your hospital, ask a member or staff or try looking at the hospital website. There are however a few areas that are the same across the NHS that it may be helpful to know about.
@@ -304,8 +294,6 @@ Staff are trained in hand washing and hygienic approaches to help control spread
 
 Visitors should wash their hands or use cleaning gel on entering and exiting the ward. They may be asked to take additional measures (e.g. gloves, aprons, masks) if deemed necessary. If you have any questions, ask the team looking after you. If you notice a nurse coming to attend to you has not washed their hands, you must ask them to wash their hands – this is your right.
 
----
-
 ### Complaints & compliments
 
 If you are not happy about your care, you can consider talking to the team looking after you. All hospitals will have procedures in place for dealing with incidents that occur in hospital. These are also in place to deal with complaints or compliments that are made. You can ask the team looking after you to direct you to more information, or there are some national organisations who help:
@@ -318,8 +306,6 @@ Other advocates include charities e.g. Parkinson’s UK and the advocacy and inf
 
 More information is available on the <a href="https://www.nhs.uk/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a>.
 
----
-
 ## Discharge from hospital
 
 Before you leave hospital, there are various plans that need to be put in place:
@@ -330,16 +316,12 @@ Has there been a change in what you are able to do that might mean you should ha
 A range of professionals can assess your needs.  
 This will consider tasks you undertake in your daily life. The professional who will complete this will depend on the circumstances.
 
----
-
 ### My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > So, they said they could make sure he can get up a couple of steps. And I think the stair-lift had to be fitted before he come home. And they had to assess the house and all that.
 > _(Carer of someone with Parkinson’s)_
-
----
 
 ### Medication
 
@@ -361,8 +343,6 @@ Note it is important to communicate any changes in your living arrangements. Thi
   allowfullscreen>
 </iframe>
 </div>
-
----
 
 ## Decision making
 
@@ -387,8 +367,6 @@ If someone has a mental health problem that causes them to be at serious risk to
   allowfullscreen>
 </iframe>
 </div>
-
----
 
 ## More Information
 

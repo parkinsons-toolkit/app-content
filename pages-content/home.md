@@ -1,16 +1,16 @@
 # Welcome to your **_Live Well with Parkinson's_** account!
-The _Live Well with Parkinson's_ toolkit is designed to support you in managing your health and wellbeing. 
+
+The _Live Well with Parkinson's_ toolkit is designed to support you in managing your health and wellbeing.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/couple-walking.jpg" alt="couple-walking" class="example-class">
 
 Here’s what you can do:
+
 - **Learn more about Parkinson’s** – Read our information pages to understand symptoms, treatments, and practical tips for staying active and healthy.
 - **Build skills to manage your condition** – Find steps you can take to help you live well with Parkinson’s.
 - **Feel confident in managing your health** – Keep your medical and personal records in one place.
 
 The toolkit can also help you prepare for appointments with healthcare professionals by keeping a detailed record of your symptoms and experiences.
-
----
 
 ## What's in the toolkit?
 
@@ -20,8 +20,8 @@ There are two main areas:
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/group-people.jpg" alt="group-of-people" class="example-class">
 
-
 These pages cover key topics, including:
+
 - **<a href="/information/what-is-parkinsons" class="internal-link">_What is Parkinson’s_</a>** (covers causes, myths, how common it is, symptoms, diagnosis, treatments, and other types of Parkinsonism)
 - **<a href="/information/newly-diagnosed" class="internal-link">_Newly Diagnosed_</a>** (offers guidance, coping advice, and tips for starting your Parkinson’s journey)
 - **<a href="/information/treatments/treatments-and-therapies" class="internal-link">_Treatments & Therapies_</a>** (covers healthcare professionals who may be involved, medications, advanced therapies & surgical treatments, and complementary approaches for Parkinson’s)
@@ -34,7 +34,6 @@ Click any page to learn more.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gardening-together.jpg" alt="gardening-together" class="example-class">
 
-   
 _**Tip:** if there is something specific you are looking for and can’t find it, use the search box to type what you are looking for e.g., Medication. When you find the page, press **Crtl + F**. This will open a new search box where you can type the words you are looking for e.g. side effects._
 
 ### 2. **Personalised Pages**
@@ -55,10 +54,10 @@ In the personalised section you will find:
 </div>
 
 ### Finding these sections:
+
 You can access these sections one of two ways, depending on what device you are using:
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/man-smiling.jpg" alt="man-smiling" class="example-class">
-
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/information_icon.png" alt="example-alt-text" class="inline-icon">
 For the information pages by clicking one of the links along the top grey banner or by clicking the **'i' icon** in the top right hand side of the page.
@@ -70,6 +69,7 @@ For the information pages by clicking one of the links along the top grey banner
 For the personalised pages by clicking one of the links along the top grey banner or by clicking the **pencil icon** in the top right hand side of the page.
 
 Helpful videos on using the toolkit are in the _Further Support_ section under <a href="/information/further-support/how-to-use" class="internal-link">How to use this toolkit</a>. This page also gives an overview of your personalised sections, explaining how to:
+
 - Check and record your symptoms
 - Set priority goals to improve your wellbeing
 - Track your health, medications, and daily activities
@@ -77,8 +77,6 @@ Helpful videos on using the toolkit are in the _Further Support_ section under <
 
 It also gives simple tips, how often to update your information, and how to make charts and reports to share with your healthcare team.
 
----
-
-_Live Well with Parkinson’s_ was developed by the **Personalised Care for Parkinson’s Disease (PD-Care) team at University College London**. 
+_Live Well with Parkinson’s_ was developed by the **Personalised Care for Parkinson’s Disease (PD-Care) team at University College London**.
 
 For more information on the PD-Care research study, please visit <a href="https://www.ucl.ac.uk/brain-sciences/ion/research/research-departments/department-clinical-and-movement-neurosciences/centres-and-projects/personalised-care-people-parkinsons-disease-study" class="external-link" target="_blank" rel="noopener noreferrer">**UCL's PD-Care Study Pages**</a>.

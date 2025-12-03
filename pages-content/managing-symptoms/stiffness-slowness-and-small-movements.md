@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe
   width="560"
@@ -28,8 +26,6 @@ Stiffness or _rigidity_ is generally felt in the muscles of the body. Muscles do
 
 Slowness of movement also happens in Parkinson’s. This can be seen in someone’s overall movements being slower, for example, their walking or gestures. Repeated movements can also become smaller or slower the more the actions are repeated. This can happen when doing a lot of writing by hand, for example. People with Parkinson’s can also have slower reaction times or take smaller and more shuffling steps. Stiffness, slowness and difficulty with small movements may also contribute to falls and pain.
 
----
-
 # What might be causing it?
 
 In Parkinson’s, the movement symptoms of the condition are caused mainly by having reduced levels of dopamine in the brain. Movement symptoms are otherwise known as motor symptoms and include stiffness, slowness, and tremor. Although Parkinson’s medications do not slow down the progression of the condition, in many cases they can help reduce the frequency and severity of these symptoms.
@@ -40,15 +36,11 @@ Stiffness can also occur with other medical conditions. The most common non-Park
 
 Slow movements can be the result of other problems too – for example due to pain, tiredness, low mood or slowed thinking. These can be in relation to Parkinson’s or a separate issue.
 
----
-
 # What should I do about it?
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/stiffness.jpg" alt="stiffness" class="stiffness-slowness-and-small-movements__stiffness">
 
 There are many things you can try for yourself as described below. Although there are some circumstances where you should seek professional help. If you are having problems turning over in bed, getting dressed, or walking, it is time to speak to your GP or Parkinson’s specialist team. Similarly, if stiffness and slowness are bothering you, and you don’t see improvement by one month of following the advice below, seek help from your GP or Parkinson’s specialist team.
-
----
 
 # What can I try for myself?
 
@@ -114,8 +106,6 @@ See <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-ac
 - May help relax stiff muscles.
 - _Make sure you are well hydrated if you have warm baths._
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -123,8 +113,6 @@ People affected by Parkinson’s describe their experiences.
 > “If you’ve got, you know, slow hands, shaking, you know, hands, legs, a bike or hand exercises would be best because that will relieve the tension and the stiffness in your hands. Keep using them and they will get better.”
 >
 > _(Person with Parkinson’s)_
-
----
 
 ## Further assessment
 
@@ -148,8 +136,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 
 Depending on their assessment, healthcare professionals may run further tests such as X-rays or scans of joints if it is not thought to be related to Parkinson’s.
 
----
-
 ## Further treatments
 
 The main treatments for these symptoms are (physical) therapies and medication.
@@ -170,14 +156,10 @@ The main treatments for these symptoms are (physical) therapies and medication.
   - **Physiotherapy** tends to focus on movements.
   - **Occupational therapy** tends to focus on tasks, e.g. small hand movements for getting dressed.
 
----
-
 ## Key Messages
 
 - Stiffness, slowness and difficulty with small movements are some of the main motor symptoms of Parkinson’s disease.
 - Physiotherapy, occupational therapy, regular activity, stretching, and adjustment to Parkinson’s medications are the best ways of treating stiffness and slowness.
-
----
 
 ## Useful Organisations & Contacts
 

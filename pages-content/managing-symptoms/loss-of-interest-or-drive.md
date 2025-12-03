@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe
   width="560"
@@ -32,23 +30,17 @@ Loss of interest or drive is sometimes called _apathy_. It is not the same as fe
 There are times when we all avoid doing things because they are too difficult. However, this is not the same as apathy. Apathy is when a person <ins>can</ins> do something, especially when encouraged by others, but does not do so if left to themselves. They are not avoiding it – simply they have no wish to do it or cannot make a start. If you feel like you have lost your spark, or can’t be bothered to do anything:
 that might be apathy.
 
----
-
 ## What might be causing it?
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/apathy.jpg" alt="loss-of-drive" class="loss-of-interest-or-drive__apathy">
 
 Apathy is a symptom of Parkinson’s as well as other neurological conditions. There is evidence that it is linked to the levels of dopamine in the brain. This link is different from how we know dopamine affects movement. Apathy in Parkinson’s can be present by itself. It can also be linked to low mood, memory and thinking problems.
 
----
-
 ## What should I do about it?
 
 The feeling of apathy can be hard to change. There is no quick fix, but you should routinely talk to your GP or Parkinson’s specialist team about it so they can assess for a cause and potentially treat related symptoms.
 
 Even if your interest and drive is low, it is important to remain active. Managing apathy as well as you can is good for your mental and physical health, and can help the people that you live with. There are some changes you can make that can help you deal with apathy (see section ‘What can I try for myself?’).
-
----
 
 ## What can I try for myself?
 
@@ -99,15 +91,11 @@ Someone with apathy may either not start or be unable to finish them.
 
 One of the key features of apathy is that a person tends not to do things if left to their own devices. Routines and menus can help, but usually there is a need for prompts and reminders. Family members can sometimes be reluctant to do this, perhaps because they don’t want to ‘nag’. However, this is important in apathy. Prompts and reminders may involve talking through the planned routine for the day, or encouragement to look at the menu if activity seems to have stopped.
 
----
-
 ## My Experience
 
 > “I watch TV to distract. I lie down to distract. I get up and go for a walk around the house. Sometimes go out the front door, have a walk around the block.”
 >
 > _(Person with Parkinson’s)_
-
----
 
 ## Further Assessment
 
@@ -132,8 +120,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 
 It is usually not needed to take tests to assess apathy.
 
----
-
 ## Further Treatments
 
 - At this time there are not a lot of treatments, such as medication or special therapy, for apathy itself.
@@ -142,15 +128,11 @@ It is usually not needed to take tests to assess apathy.
 - Your healthcare team may be able to advise where to find groups that offer support.
 - It can be that apathy is impacting your daily living and so you need more practical support. Your GP may then refer you to the community occupational therapy team. You can also contact your local social services for a Needs Assessment.
 
----
-
 ## Key Messages
 
 - Apathy can be a symptom of Parkinson’s, linked to mood or thinking problems. It can also happen on its own.
 - You can have a structured routine, make choices easier, and provide prompts and reminders.
 - These are important to manage apathy.
-
----
 
 ## Useful Organisations & Contacts
 

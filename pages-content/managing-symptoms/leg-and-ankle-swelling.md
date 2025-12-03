@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe
   width="560"
@@ -28,8 +26,6 @@
 </div>
 
 Leg or ankle swelling can commonly occur in people with Parkinson’s. Extra fluid from around the body can settle in the ankles or lower legs. This can be uncomfortable to walk with, make the skin feel tight, legs feel heavy, or shoes feel tight. This extra fluid is known as _oedema_. Muscle movements in the legs help to push some of the fluid back around the body.
-
----
 
 ## What might be causing it?
 
@@ -50,8 +46,6 @@ Other non-Parkinson’s causes of leg or ankle swelling can be from:
 - Problems with major organs, such as your heart, liver, or kidney – these are usually either already known about or associated with other symptoms.
 - Side effects of non-Parkinson’s medications (e.g. some blood pressure tablets).
 
----
-
 ## What Should I Do About It?
 
 - **You should be seen in A&E** for assessment if you are also experiencing:
@@ -62,8 +56,6 @@ Other non-Parkinson’s causes of leg or ankle swelling can be from:
 - If the swelling is more severe and bothersome, you should book an appointment with your GP and try the advice below in the meantime.
 - If you have redness, warmth, wounds or ulcers overlying the swelling, that you are not receiving professional support for, you should see your GP as soon as possible. See our <a href="/information/managing-symptoms/skin-conditions" class="internal-link">_Skin Conditions_</a> page for more information.
 - **If the swelling is new and in one leg only or developed very quickly (over hours or days) you should contact your GP or 111 for an urgent review. **
-
----
 
 ## What Can I Try for Myself?
 
@@ -95,8 +87,6 @@ Other non-Parkinson’s causes of leg or ankle swelling can be from:
 - Make sure your shoes can still hold firmly onto your feet as the swelling goes up and down. If they get too loose, they might become a tripping or falling hazard, and if they are too tight you won’t be able to fasten them.
 - Shop for shoes when your swelling is at its worst so you know the shoes will always fit.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -104,8 +94,6 @@ People affected by Parkinson’s describe their experiences.
 > “I take one day at a time and I try to get him out every day if I can, even if it’s around the block to keep his legs moving.”
 >
 > _(Carer for someone with Parkinson’s)_
-
----
 
 ## Further Assessment
 
@@ -140,8 +128,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 
 Depending on their assessment, they may run further tests such as blood tests, urine tests, x-rays or scans.
 
----
-
 ## Further Treatments
 
 You may be given reassurance or more specific advice about things you could try yourself. You may be given help from a district or practice nurse. Advice might include, for example, support stockings you could wear to help reduce the swelling. You should discuss the use of support stockings with a healthcare professional first.
@@ -168,8 +154,6 @@ You may be given reassurance or more specific advice about things you could try 
 
 - Specialist referral may be needed to investigate certain causes of leg or ankle swelling, or to assess suitability for compression hosiery in some cases.
 
----
-
 ## Key Messages
 
 - Swelling can be due to:
@@ -177,8 +161,6 @@ You may be given reassurance or more specific advice about things you could try 
 - A side effect of medication used in Parkinson’s
 - Or unrelated to Parkinson’s.
 - Increasing exercise and movement and changing your leg/feet position during the day can help to reduce swelling
-
----
 
 ## Useful Organisations & Contacts
 

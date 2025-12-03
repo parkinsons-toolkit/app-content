@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 Mobility is quite a broad term and includes:
 
 - Walking around
@@ -38,8 +36,6 @@ Symptoms of Parkinson’s and factors unrelated to Parkinson’s can all contrib
 
 A common problem is that difficulties mobilising mean that you are less active. Being less active then leads to muscle weakness and stiffness. Muscle weakness and stiffness then leads to more difficulty in mobilising. Lack of confidence and fear of falling also feeds into this cycle. It is important to break this cycle.
 
----
-
 ## What should I do about it?
 
 If you have a sudden decline in your mobility, you should see your GP or contact your Parkinson’s team as soon as possible. There may be an illness, injury or medication that is contributing to it. Please see the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls page_</a> information page if these are concerns.
@@ -47,8 +43,6 @@ If you have a sudden decline in your mobility, you should see your GP or contact
 If you have difficulties moving, you should be referred to a physiotherapist. In the NHS, you usually have to be referred by your GP or Parkinson’s specialist team. You may also benefit from Occupational Therapist or Adult Social Care services.
 
 Appointments with these specialists may be in a hospital, community service, or at home. In some areas there are specialist Parkinson’s teams or rehab services. Your Parkinson’s specialist team or GP should be able to advise. See the <a href="/information/treatments/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page for more information about the different services.
-
----
 
 ## What can I try for myself?
 
@@ -102,8 +96,6 @@ There may also be specific tasks that you can practice to address specific day-t
 - Have a back-up plan – how could you get help if you ran into trouble? This might be for example, keeping your mobile phone in your pocket.
 
 For tips related to daily tasks, including getting in and out of bed, please see the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page.
-
----
 
 ## Equipment and Aids
 
@@ -183,8 +175,6 @@ Before purchasing equipment, consider the following overall tips below:
 
 For equipment related to daily tasks, including getting in and out of bed, please see the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page. For adaptations to the home environment, please see the <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page.
 
----
-
 ## My Experience
 
 <div class="video-container">
@@ -201,8 +191,6 @@ People affected by Parkinson’s describe their experiences.
 
 > “I mean, I can still walk around the house without using a stick. I use a stick when I walk outside. When I’m really on, I wouldn’t need it. But it’s one of those things whereby it flags to people that you’ve got an issue”
 > _(Person with Parkinson’s)_
-
----
 
 ## Useful Organisations & Contacts
 

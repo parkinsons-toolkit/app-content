@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -27,8 +25,6 @@
 </div>
 
 People with Parkinson’s can experience weight loss. Though some people may initially welcome this, excessive weight loss can be bad for both health and wellbeing. Weight loss can be linked to conditions that are not Parkinson’s, and some can be serious. So, it is important that you see your GP if you continue to lose weight.
-
----
 
 ## What might be causing it?
 
@@ -44,8 +40,6 @@ Causes of weight loss related to Parkinson’s include:
 
 There are many other conditions that might cause weight loss. This can include loss of appetite with depression, side effects of some medications and various health conditions. If you have lost a lot of weight without meaning to, your doctor may need to check you don’t have a serious health condition, such as a cancer. Some people as they get older have a reduced sense of taste and a lower appetite. As a result, they might eat smaller portions and lose weight. However, weight loss is not a normal part of ageing and should be checked out.
 
----
-
 ## What should I do about it?
 
 You should contact your GP if you:
@@ -55,8 +49,6 @@ You should contact your GP if you:
 - Are worried about your weight loss.
 
 If the above do not apply to you, or whilst waiting for your appointment, there are things you can try for yourself.
-
----
 
 ## What can I try for myself?
 
@@ -89,8 +81,6 @@ Consider what would be convenient for you.
 
 There are also tips that may be relevant on the <a href="/information/managing-symptoms/saliva" class="internal-link">_Saliva_</a>, <a href="/information/managing-symptoms/swallowing" class="internal-link">_Swallowing Difficulties_</a> and <a href="/information/managing-symptoms/nausea" class="internal-link">Nausea</a> symptom pages if these are leading you to eat less. If maintaining weight is difficult because of practical aspects of buying, preparing or eating food then see the Daily Living page for guidance.
 
----
-
 ## Further assessment
 
 ### Questions
@@ -122,8 +112,6 @@ _**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tra
 
 If the cause for weight loss is not clear, they may run further tests such as blood tests or scans.
 
----
-
 ## Further Treatments
 
 ### Referral
@@ -135,16 +123,12 @@ Your GP may refer you to another service, depending on your issue:
 - Occupational therapist or physio, depending on your issue
 - You may be referred to other medical specialists. This depends on the suspected cause of the weight loss.
 
----
-
 ## Key Messages
 
 - There are many causes of weight loss, both related and not related to Parkinson’s.
 - Weight loss is seen in Parkinson’s, but it is important that people do not lose a lot of weight. This can have a negative impact on wellbeing and health.
 - You can have a lower appetite as you get older, but weight loss is not a normal part of ageing.
 - Persistent unintentional weight loss needs investigation by your GP.
-
----
 
 ## Useful Organisations & Contacts
 

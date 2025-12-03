@@ -13,8 +13,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -36,8 +34,6 @@ This will include key issues around;
 - Flying and travelling abroad
 
 It will also include other options for getting around and advice for travelling.
-
----
 
 ## Driving
 
@@ -122,8 +118,6 @@ As already stated, you must inform DVLA of your medical condition. These are som
 4. Look into options of cars with adaptations that may make driving easier. These might be steering aids or hand controls. You can visit a mobility centre for advice.
 5. Driving can be stressful and stress worsens symptoms of Parkinson’s. Try to reduce this stress by planning your route in advance and allowing yourself plenty of time.
 
----
-
 ## Parking
 
 <div class="video-container">
@@ -207,16 +201,12 @@ If you need help understanding or filling out forms, you can get help from your 
 - <a href="https://www.ageuk.org.uk/bromleyandgreenwich/our-services/" class="external-link" target="_blank" rel="noopener noreferrer">AGE UK</a>
 - <a href="https://advicefinder.turn2us.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Turn2us</a>
 
----
-
 ### My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “She also advised me about a Blue Badge. And, I went on the internet, filled the form in, and within a matter of 5 weeks, I had a blue badge.”  
 > _(Person with Parkinson’s)_
-
----
 
 ### What can I try for myself?
 
@@ -226,8 +216,6 @@ People affected by Parkinson’s describe their experiences.
    - Phoning the place you are visiting, or
    - By using <a href="https://bluebadgeparking.com/view/48.439567%2C-23.89375%2C59.430675%2C18.29375/road" class="external-link" target="_blank" rel="noopener noreferrer">BlueBadgeParking.com</a> - a worldwide crowd-sourced database of disabled parking places. The database is edited by the general public to add disabled parking bays not listed on the website. There is also an app available.
 3. Make sure you display your Blue Badge correctly on the dashboard showing the hologram and parking clock.
-
----
 
 ## Using public transport
 
@@ -313,16 +301,12 @@ _Please note that Attendance Allowance cannot be used to lease a car through Mot
 2. Plan trips carefully as some transport options need advance booking.
 3. Applying for multiple schemes increases your transport options (e.g., if Dial-a-Ride isn’t available, then you can use your Taxicard).
 
----
-
 ### My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “…the chance to meet with a colleague's neighbour who had Parkinson's for some time. Seeing him still enjoying life—driving, working, travelling—was a big step to helping me get back on my feet after the diagnosis.”  
 > _(Person with Parkinson’s)_
-
----
 
 ## Finding Toilets When Out and About
 
@@ -346,8 +330,6 @@ Parkinson’s may make accessing toilets more difficult due to mobility or bladd
 - The key is called a **Radar Key** and can be purchased via the <a href="https://www.disabilityrightsuk.org/radar-keys?srsltid=AfmBOophjHsd-3Hg87Sw7Q3ebdt_t7h-HI0iKErqzf9-Pxg46jZt8qaK" class="external-link" target="_blank" rel="noopener noreferrer">Disability Rights UK</a> website.
 - The website also provides a regional list of participating toilets.
 - The <a href="/information/managing-symptoms/urination" class="internal-link">_**Urinary Symptoms**_</a> pages may also be helpful for additional support.
-
----
 
 ## Flying and Travelling Abroad
 
@@ -403,16 +385,12 @@ Note: travel insurance is covered in <a href="/information/living-with-parkinson
 6. Apply for your Global Health Insurance Card, these have now replaced the European Health Insurance Card. Please note these do not replace travel insurance.
 7. Seek medical treatment if unwell when abroad
 
----
-
 ### My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “I take sealed bottles of spares medication on any trip abroad. I take one in my hand baggage and one in my hold luggage. If something happens to either my hand luggage or hold luggage, I still have medication. If nothing happens to either, then I have extra which is handy if I get severely delayed because volcanic ash or a worldwide pandemic halts air travel.”  
 > _(Person with Parkinson’s)_
-
----
 
 ## Useful Organisations & Contacts
 

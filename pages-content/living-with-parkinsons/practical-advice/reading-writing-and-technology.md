@@ -12,11 +12,7 @@
 
 </div>
 
----
-
 Reading, writing, and using technology may be more difficult for people with Parkinson’s. This can be due to a combination of factors, and we will explore each issue in detail below.
-
----
 
 ## Reading
 
@@ -50,8 +46,6 @@ For dry eyes, over-the-counter ointments and eye drops are available from pharma
 Have regular eye checks to see if there are problems with near vision as this tends to deteriorate as people age. If a regular eye check is normal or new glasses are prescribed and you are still having problems reading, you may wish to ask your GP, optometrist, or ophthalmologist for a referral to a neuro-ophthalmologist. A neuro-ophthalmologist can do further tests and may prescribe ‘prisms’ (a special kind of glasses).
 
 See our <a href="/information/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page for more information on visual changes in Parkinson’s.
-
----
 
 ## Writing
 
@@ -121,8 +115,6 @@ You can also consider:
 - If you have difficulty writing your signature on documents (prescriptions, passports, banking, etc.), a facsimile signature stamp may be useful. This can be used to create a legal signature with a rubber stamp meaning the person no longer needs to physically write their signature.
 - Alternative ways of communicating (e.g. using a computer).
 
----
-
 ## Using Technology - Computers
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/computer.jpg" alt="computer" class="reading-writing-and-technology__computer">
@@ -160,8 +152,6 @@ If using a computer or the internet feels overwhelming, there are training cours
 | **Desktop Computer**| - Uses mouse to select options and keyboard for typing <br> - May have a camera for video calls | - Not portable or lightweight <br> - Might not have talk-to-text readily available |
 
 <a href="https://try.which.co.uk/which-brand-2/?source_code=911CUJ&Incl_CustomerList&gclid=EAIaIQobChMI9KLNz_aP6QIV0u3tCh1jbgosEAAYASAAEgJnQPD_BwE&gclsrc=aw.ds" class="external-link" target="_blank" rel="noopener noreferrer">‘Which?’</a> is a not-for-profit, independent service that provides unbiased advice to consumers for a fee. They can help with a wide range of areas, including choosing what technology devices to buy. They also provide information on technological aids in later life, such as assistive technology and easy-to-use mobile phones. Visit their webpage for more details. You can find the link in the More Information section.
-
----
 
 ## Using Technology - Mobile Phones
 
@@ -210,8 +200,6 @@ If using a computer or the internet feels overwhelming, there are training cours
     - Global Positioning System (GPS) trackers: allow a nominated person (like a partner, family member or carer) to see on a map where you are. You need to be carrying your smartphone, and it needs to have service in order for this to work.
     - Video calling: lets you see and hear each other during a call o Medication manager apps: remind you when your medication is due. They may also let you store medical information.
     - Data gathering apps. These are used to measure some movement symptoms and speech. They may be used to inform the person who adjusts your Parkinson’s medications or treatments
-
----
 
 ## Useful Organisations & Contacts
 

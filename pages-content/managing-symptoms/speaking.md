@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 <div class="video-container">
 <iframe 
   width="560" 
@@ -29,15 +27,11 @@
 
 Speech difficulties are common in Parkinson’s. They include a range of symptoms. But not everyone with Parkinson’s will have the issues discussed in this section. Problems with speech include quiet, slurred, hoarse-sounding voice; monotone; and difficulty with tongue and lip movements. It may feel like you are wearing a mask.
 
----
-
 ## What might be causing it?
 
 Parkinson’s causes changes in the brain. This leads to movements becoming smaller and less forceful. This can impact your voice. The condition can affect how the brain thinks. It affects your thought processes, which may slow down. Or you may find it hard to find the right word to say. Many people with Parkinson’s don’t know they are speaking quietly.
 
 There are reasons other than Parkinson’s that cause changes in speech. It could be something within the mouth, throat, or jaw (e.g. poorly fitting dentures or a throat infection). Other medical conditions affecting the brain can also cause speech problems (for example, a stroke which has caused weakness on one side of the face or affected the brain pathways for finding words). Speech changes in Parkinson’s tends to occur gradually. Sudden problems are less likely to be related to Parkinson’s.
-
----
 
 ## What should I do about it?
 
@@ -56,8 +50,6 @@ There are things you can do yourself to improve your speech. If symptoms are pro
 If you have a new hoarse voice that has lasted more than three weeks you should see your GP.
 
 <ins>Very sudden</ins> changes in speech, usually with weakness of one side of the face, could be a stroke. In this case, call for an ambulance using 999. Very sudden means occurring like a ‘snap of the fingers’.
-
----
 
 ## What can I try for myself?
 
@@ -91,8 +83,6 @@ It is important you practise the following with a clear voice, as rehearsing wit
 - **Reading aloud:** Whether it is stories, poetry or the news, try reading it out loud rather than in your head to exercise your speech.
 - **Apps:** Some people use an app on their phone or computer to show how many decibels they use when speaking. This can help you realise how quiet or loud you are talking. Normal conversation is around 60 – 70 decibels. If you are interested in this, ask your therapist, who may be able to advise you further.
 
----
-
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
@@ -100,8 +90,6 @@ People affected by Parkinson’s describe their experiences.
 > _“I had one gentleman who loved telling stories to his grandchildren. So I said, Well why don’t you record them and, if you record it loud enough, then that’s your exercise.”_
 >
 > _(Speech & Language Therapist)_
-
----
 
 ## Further Assessment
 
@@ -142,8 +130,6 @@ Most cases do not need further tests. Depending on the healthcare professional�
 </iframe>
 </div>
 
----
-
 ## Further Treatments
 
 ### Referral
@@ -163,14 +149,10 @@ Most cases do not need further tests. Depending on the healthcare professional�
 - Changes to your Parkinson’s drugs may give you better control over speech problems.
 - See <a href="/information/managing-symptoms/variability-of-symptoms" class="internal-link">_Variability of Symptoms_</a> for more information about these changes in your speech and other symptoms.
 
----
-
 ## Key Messages
 
 - Parkinson's can cause speech problems but is not the only cause. Discuss with your GP if you are unsure what is causing changes in your speech.
 - See a Speech and language therapist as early as possible. They can provide techniques and exercises to help improve your speech.
-
----
 
 ## Useful Organisations & Contacts
 

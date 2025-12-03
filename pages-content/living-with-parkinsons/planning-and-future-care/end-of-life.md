@@ -13,15 +13,11 @@
 
 </div>
 
----
-
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/candles.jpg" alt="candles" class="end-of-life__candles">
 
 Regardless of health conditions, for many people, the thought of dying is wrapped up in fear and uncertainty. Attitudes are influenced by culture, religion, family and our life experiences.
 
 If you are ready to think about your future, there are some things you can think about now. These can be a positive and empowering way to prepare.
-
----
 
 ## Preparation
 
@@ -84,8 +80,6 @@ Other practical considerations:
 - Health contacts.
 - Carer or care agency contacts.
 - Employer details.
-
----
 
 ## Place of Care
 
@@ -156,8 +150,6 @@ There can be practical difficulties in moving to a new place of care if someone 
   - Hospitals are more likely to be noisy and less peaceful.
   - Private rooms are not guaranteed.
 
----
-
 ## Medicines towards end of life
 
 If the end of life is expected to be near, care tends to prioritise comfort and dignity
@@ -188,8 +180,6 @@ If someone is nearing end of their life, it is good to prepare for symptoms that
 - Domperidone is suitable in Parkinson’s (but is not given by injection).
 
 When a person is dying, they may not be able to take pills so small injections may be used. These injections go just under the skin, rather than via a drip into a vein. If the medicine injection is needed very regularly, a ‘pump’ to give the medicine continuously under the skin may be considered.
-
----
 
 ## After Death
 
@@ -234,8 +224,6 @@ After the death of someone there are a number of tasks that will need to be comp
 - You can arrange to leave your body for medical science: that is for research or training. For more information go to <a href="https://www.hta.gov.uk/guidance-public/body-organ-and-tissue-donation/body-donation-medical-schools" class="external-link" target="_blank" rel="noopener noreferrer">HTA (Human Tissue Authority) – Body Donation</a>.
 - Much research into Parkinson’s is ongoing. Some research looks at the bodies of people who had Parkinson’s after they have died to help understand the condition better
 - The charity Parkinson’s UK support a Brain Bank dedicated to Parkinson’s research, based at Imperial College London. For more information, see the <a href="https://www.parkinsons.org.uk/research/parkinsons-uk-brain-bank" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK Brain Bank Website</a>.
-
----
 
 ## Useful Organisations & Contacts
 
