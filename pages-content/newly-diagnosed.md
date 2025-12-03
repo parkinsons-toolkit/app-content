@@ -101,10 +101,6 @@ People affected by Parkinson’s describe their experiences:
 >
 > _(Person with Parkinson’s)_
 
-> “There are inspirational people (Tom Isaacs, Michael J Fox, Emma Lawton for starters.)… three of the ‘Tips for the Newly Diagnosed’ which I came across recently on the Twitter feed of the wonderfully named @DancingShrub - a nurse with Parkinson’s. He says ‘you are still you, degenerative isn’t next week and you are not alone.’”
->
-> _(Person with Parkinson’s)_
-
 ---
 
 ## Useful Organisations & Contacts
