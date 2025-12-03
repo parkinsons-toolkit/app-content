@@ -153,7 +153,7 @@ Not all patients will experience side effects while taking dopamine agonist medi
 
 | Generic Name | Brand Names | Forms Available    |
 | ------------ | ----------- | ------------------ |
-| Amantadine   | Symmetrel®  | • Capsules • Syrup |
+| Amantadine   | Symmetrel®  | • Capsules <br> • Syrup |
 
 **What does it do?**
 
