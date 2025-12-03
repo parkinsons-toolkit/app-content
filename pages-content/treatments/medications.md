@@ -388,7 +388,7 @@ People affected by Parkinson’s describe their experiences:
 - Look for alarms that are easy to set and reset automatically for the next dose.
 - Many have ‘pre-set’ alarms that repeat daily. This may or may not be suitable for you, depending on your medication schedule.
 
-There are also other possible side effects that can occur, and some medications cannot be used together with other medications. Your prescribing doctor will take this into account when prescribing medication.
+**There are also other possible side effects that can occur, and some medications cannot be used together with other medications. Your prescribing doctor will take this into account when prescribing medication.**
 
 ---
 
