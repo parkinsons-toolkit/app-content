@@ -89,7 +89,7 @@ Food can affect how levodopa gets absorbed into your body. For some people this 
 
 - They can be used at all stages of Parkinson’s and come in a variety of forms.
 - Rotigotine is given as a skin patch so may be used if swallowing tablets is a problem.
-- Apomorphine is given by injection or infusion pump. It is used for more complex movement problems. More information about the pump can be found on the <a href="/information/treatments/advanced-and-surgical-treatments" class="internal-link">_Advanced & Surgical Treatments_</a> page.
+- Apomorphine is given by injection or infusion pump. It is used for more complex movement problems. More information about the pump can be found on the <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced & Surgical Treatments_</a> page.
 
 **What are the side effects?**  
 Not all patients will experience side effects while taking dopamine agonist medicines. The more common are:
