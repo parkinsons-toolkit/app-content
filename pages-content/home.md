@@ -38,13 +38,13 @@ Click any page to learn more.
 
 ### 2. **Personalised Pages**
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gym-happy.jpg" alt="gym" class="example-class">
+
 These are personal to you. They help you record symptoms, set goals, keep track of your health.
 
 In the personalised section you will find:
 
 <div class="action-box">
-
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gym-happy.jpg" alt="gym" class="example-class">
 
 1. **<a href="/symptom-review" class="internal-link">Symptom Review</a>** (including your health conditions, medication, treatments, and research involvement, and a list of symptoms you experience and how bad you think they are)
 2. **<a href="/my-wellbeing" class="internal-link">My Wellbeing</a>** (to find the things you would like to keep doing or improve)
