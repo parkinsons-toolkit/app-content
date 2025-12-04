@@ -80,6 +80,7 @@ Note if you have <ins>new</ins> weakness in the face, you should see your GP. <i
 - Frequent sips of water during the day.
 - Suck on ice cubes and lollies- but only do this if you do not have difficulty swallowing. If you do have difficulties swallowing, sucking on ice cubes could lead to choking.
 - Chew sugar free gum or sugar free sweets.
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gum.jpg" alt="chewing-gum" class="example-class">
 - Use lip balm if your lips are dry.
 - Brush your teeth twice a day and use alcohol-free mouthwash, to reduce the chance of developing tooth decay.
 - Some people find humidifiers helpful.
