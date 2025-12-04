@@ -281,7 +281,7 @@ In the UK, there is a split between **_Healthcare_** (National Health Service, N
 
 ## Private Healthcare
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/home-care-private.jpg" alt="home-care" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/home-care-private.jpg" alt="private-home-care" class="example-class">
 
 - There are many options for healthcare through the private sector.
 - The waiting times are often shorter, but there is a fee. This can be substantial if you are not covered by a private insurance plan.
