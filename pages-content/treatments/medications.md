@@ -68,6 +68,8 @@ Food can affect how levodopa gets absorbed into your body. For some people this 
 
 ### 2. Dopamine Agonist Medications
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dopamine-molecule.jpg" alt="dopamine" class="example-class">
+
 **What do they do?**
 
 - Dopamine agonists mimic the action of dopamine.
