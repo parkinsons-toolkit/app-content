@@ -176,6 +176,8 @@ You may have to pay to see a complementary therapist if the therapy you are inte
 
 ### How do I know if it is trustworthy?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/certified.jpg" alt="certified" class="example-class">
+
 To understand whether a therapy is safe and effective, we need to check the evidence for it. Conventional medications and healthcare products go through a rigorous scientific process. This is to prove safety and effectiveness before they can be prescribed by doctors. This process is managed by the government agency Medicines and Healthcare products Regulatory Agency (MHRA). This is not the case for complementary therapies. Although more research studies are being done into the effectiveness of complementary therapies they are not tested in the same way.
 
 Unfortunately, not all research studies are large enough to be able to show concrete evidence for how safe and effective they are. When finding out about a therapy and reading the research it is always worth asking questions about the research. This is to make sure you are reading something accurate and not misleading. For example, is the research published somewhere trustworthy? Who has done the research? Is it peer reviewed (checked for accuracy by other researchers)? Did the research include large enough numbers to be able to draw conclusions from the findings? For some complementary therapies it is not possible to ‘prove’ their benefit using this scientific approach, but many people with Parkinson’s report that they find them helpful.
