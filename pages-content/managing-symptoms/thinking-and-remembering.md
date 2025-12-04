@@ -109,6 +109,10 @@ See our _Optimising Wellbeing_ pages within the <a href="/information/living-wit
 
 ### Establish Routines
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/calender-routine.jpg" alt="calendar" class="example-class">
+
+
+
 Keeping to a routine can help you to remember things and requires less conscious effort to carry out the activities. In other words, it becomes a habit.
 
 ### Social Support
