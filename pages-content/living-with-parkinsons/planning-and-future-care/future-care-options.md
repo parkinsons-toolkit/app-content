@@ -312,6 +312,8 @@ The decision to whether to undertake these critical care interventions is theref
 
 ### Medical decisions about cardiopulmonary resuscitation (CPR)
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/cpr.jpg" alt="cpr" class="example-class">
+
 Cardiopulmonary resuscitation (CPR) refers to a combination of medical interventions that are used for person whose heart and/or breathing have stopped, known as ‘cardiac arrest’ or ‘respiratory arrest’. This includes ‘chest compressions’, ‘ventilation’, medicines and potentially ‘defibrillation’. Alongside these, treatment is given to address the reason for the heart or lungs having stopped.
 
 Interventions used during CPR:
