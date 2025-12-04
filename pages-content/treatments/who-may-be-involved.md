@@ -151,6 +151,8 @@ Also known as _Physical Therapists_
 
 ### Psychologists
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/psychologist.jpg" alt="psychologist" class="example-class">
+
 - **Clinical Psychologists** are Healthcare professionals who trained to reduce distress and promote psychological wellbeing.
 - **Clinical Neuropsychologists** are specialised clinical psychologists. They have studied how the brain affects thinking skills (e.g. memory, attention and visual perception) and behaviour.
 
