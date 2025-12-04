@@ -41,15 +41,15 @@ Receiving a diagnosis of Parkinson’s will probably make you feel emotional. Yo
 
 ## What do I need to do?
 
-If you are a driver, you are legally obliged to inform the DVLA of your diagnosis. This does not mean you have to stop driving, unless your doctor tells you to stop. See the **<a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">Travel</a>** page for more guidance.
+If you are a driver, you are legally obliged to inform the DVLA of your diagnosis. This does not mean you have to stop driving, unless your doctor tells you to stop. See the <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">Travel</a> page for more guidance.
 
 ### Parkinson's Information
 
 - There is a lot of information available about Parkinson’s.
 - Information can be empowering, but running a Google search could be overwhelming. You will find things that are not relevant to you and may find some things upsetting.
-- Perhaps start with our **<a href="/information/what-is-parkinsons" class="internal-link">What is Parkinson’s</a>** page and take it slowly.
+- Perhaps start with our <a href="/information/what-is-parkinsons" class="internal-link">What is Parkinson’s</a> page and take it slowly.
 - Everyone is different. When reading information, be aware that someone else’s experience of Parkinson’s will be different to yours.
-- There is more guidance on using information resources on our **<a href="/information/further-support/further-support" class="internal-link">Further Support</a>** page. If you do want to explore more, consider reading this first.
+- There is more guidance on using information resources on our <a href="/information/further-support/further-support" class="internal-link">Further Support</a> page. If you do want to explore more, consider reading this first.
 
 ### Talking to Others
 
@@ -104,4 +104,4 @@ People affected by Parkinson’s describe their experiences:
 | Parkinson’s Foundation | This American organisation offers a guide designed to support individuals who are newly diagnosed with Parkinson’s disease, offering practical insights and resources for navigating the early stages. | --                                                                                                                                                      | <a href="https://www.parkinson.org/library/book/newly-diagnosed-guide" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinson.org/library/book/newly-diagnosed-guide</a>                                                                                                                                                                                                                                                            |
 | Parkinson’s UK         | Guidance and support for people who have recently been diagnosed with Parkinson’s, helping them understand what to expect and how to navigate the early stages.                                        | 0808 800 0303 <br><br> Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="http://www.parkinsons.org.uk/information-and-support/newly-diagnosed-parkinsons" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinsons.org.uk/information-and-support/newly-diagnosed-parkinsons</a> <br><br> See also Parkinson's UK's 'Research' section: <a href="https://www.parkinsons.org.uk/research " class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/research </a> |
 
-To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our **<a href="/information/further-support/resources" class="internal-link">Resources</a>** page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
