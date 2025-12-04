@@ -152,6 +152,10 @@ For more information and suggested resources check out these websites:
 
 ### Physiotherapy
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/physiotherapy-help.jpg" alt="physiotherapy" class="example-class">
+
+ 
+
 - Ask your GP or Parkinson’s team about a referral to NHS services.
 - Physiotherapy may be available through your workplace: ask your manager, HR or OH.
 - To look for a private physiotherapist, look at the <a href="www.csp.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Chartered Society of Physiotherapy (CSP)</a> (Telephone: 020 7306 6666).
