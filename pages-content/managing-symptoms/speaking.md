@@ -29,6 +29,8 @@ Speech difficulties are common in Parkinson’s. They include a range of symptom
 
 ## What might be causing it?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/speech-therapy.jpg" alt="speech" class="speaking__speech-therapy">
+
 Parkinson’s causes changes in the brain. This leads to movements becoming smaller and less forceful. This can impact your voice. The condition can affect how the brain thinks. It affects your thought processes, which may slow down. Or you may find it hard to find the right word to say. Many people with Parkinson’s don’t know they are speaking quietly.
 
 There are reasons other than Parkinson’s that cause changes in speech. It could be something within the mouth, throat, or jaw (e.g. poorly fitting dentures or a throat infection). Other medical conditions affecting the brain can also cause speech problems (for example, a stroke which has caused weakness on one side of the face or affected the brain pathways for finding words). Speech changes in Parkinson’s tends to occur gradually. Sudden problems are less likely to be related to Parkinson’s.
@@ -72,7 +74,8 @@ If you have a new hoarse voice that has lasted more than three weeks you should 
 
 ### Getting speech exercises into everyday life
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/speech-therapy.jpg" alt="speech" class="speaking__speech-therapy">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/singing.jpg" alt="singing" class="speaking__speech-therapy">
+
 
 It is important you practise the following with a clear voice, as rehearsing with a hoarse voice will cause more problems. A hoarse voice should clear if you talk louder.
 
