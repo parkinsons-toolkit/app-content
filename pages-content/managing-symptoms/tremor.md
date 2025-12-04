@@ -27,6 +27,9 @@
 
 Tremor is an uncontrollable, involuntary movement of a part of the body. Around one in three people with Parkinson’s never experience tremor. For others, it may be the most noticeable symptom. It may start in one area, like the right hand, and then gradually spread to another area on the same side of the body, like the right leg; it can eventually move to the other side of the body.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/hand-tremor.jpg" alt="hand-tremor" class="example-class">
+
+
 ## What might be causing it?
 
 Parkinson’s ‘motor’ symptoms – tremor, slowness and stiffness - are caused by having reduced levels of dopamine in the brain. It can be difficult to discern a Parkinson’s tremor from a non-Parkinson’s tremor.
