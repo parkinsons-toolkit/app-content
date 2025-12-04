@@ -3,7 +3,7 @@
 In this _Living with Parkinson's_ section, you will find information on a variety of topics relevant to those living with Parkinson’s. Below is a quick summary of each page available in this section:
 
 - _**Optimising Wellbeing**_ explores a self-management approach to Parkinson’s, to empower you to be your best. Every day you make choices that impact on your health and well-being: from what you do, to what you eat, to whom you see. This section gives guidance on things you can do to help you live well with Parkinson’s, and covers topics ranging from eating well and exercise, to stress management and emotional well-being strategies.
-
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/wellbeing-task.jpg" alt="wellbeing" class="example-class">
   The advice to keep active, eat well and stay social is, of course, applicable to everyone. The guidance in this section is intended to help you continue to lead a full life after your Parkinson’s diagnosis, with any challenges it presents. We also want to highlight the current research showing the extent to which exercise can improve mobility and overall quality of life in people with Parkinson’s.
 
   It also includes a <a href="/information/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> subsection, which offers general medical recommendations to improve long-term health, such as bone health and blood pressure management.
