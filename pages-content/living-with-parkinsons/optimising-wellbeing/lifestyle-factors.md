@@ -217,6 +217,7 @@ Foot problems can be painful and can affect your walking and balance. Taking car
 
 - Wash your feet daily, but don’t soak them.
 - Dry your feet thoroughly after washing. Too much moisture increases the risk of fungal infection.
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/podiatrist.jpg" alt="podiatrist" class="example-class">
 - If you have dry skin, moisturise them but avoid the area between the toes as this is prone to moisture.
 - Changes socks daily. Cotton, wool, or bamboo socks are more ‘breathable’.
 - Cut toenails carefully: cut straight across rather than down at the edges to avoid ingrown toenails.
