@@ -26,6 +26,10 @@
 
 Dizziness is often a difficult symptom to describe. It can also be difficult to work out the cause. People use a range of words to describe how they feel, and the medical terminology is complicated. Symptoms of dizziness can be difficult to distinguish from headaches, visual disturbances, or tiredness.
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dizzy-person.jpg" alt="dizzy-person" class="example-class">
+
+
+
 Although it can be difficult to decide which group dizziness symptoms fit into, there are two main types of dizziness:
 
 - **Vertigo**: a sense of movement when not moving. This is classically described as a spinning sensation but can also be described as feeling like being on a boat or something similar. Vertigo originates in the ear, brain or nerves. These are the parts of the body that detect and interpret where your body is in space in order to maintain balance.
