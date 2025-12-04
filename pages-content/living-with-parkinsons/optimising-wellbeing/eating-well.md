@@ -175,6 +175,8 @@ Some people with Parkinson’s will notice they may have trouble with swallowing
 
 ## Maintaining healthy weight
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/weighing-scale.jpg" alt="weighing-scale" class="example-class">
+
 It is important for everyone to maintain a healthy weight, as being overweight or underweight can affect your health. Changes in body weight can also affect how your body processes medication, so changes in weight may mean you need changes in medication dose.
 
 The body mass index (BMI) is a measure that uses your height and weight to work out if your weight is healthy. For most adults, a healthy BMI is in the 18.5-24.9 range. A BMI below
