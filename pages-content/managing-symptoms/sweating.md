@@ -33,6 +33,8 @@ The system that regulates many automatic responses of the body (known as the _au
 ### Sweating Too Much (Hyperhidrosis)
 
 This can occur in Parkinson’s for example:
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/sweating-skin.jpg" alt="sweating-skin" class="example-class">
+
 
 - When Parkinson’s medications are starting to wear off
 - Overnight while sleeping - people may experience drenching night sweats
