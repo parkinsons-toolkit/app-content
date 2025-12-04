@@ -154,7 +154,7 @@ DBS is not a cure; it does not slow the progression of Parkinson’s.
 
 ### Who is it for?
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/deep-brain-stimulation.jpg" alt="deep-brain-stimulation" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/deep-brain.jpg" alt="deep-brain-stimulation" class="example-class">
 
 You may be considered for DBS if you:
 
