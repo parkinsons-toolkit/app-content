@@ -43,6 +43,7 @@ We know Parkinson’s is progressive and a complex condition. This means that yo
 
 - Feeling anxious or worried about the future
 - Feelings of anger
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/worried-person.jpg" alt="feeling-worried" class="example-class">
 - Feelings of guilt
 - Feeling stressed, often showing itself as physical symptoms such as “butterflies” in the stomach or difficulty sleeping
 - Depression, despair or feelings of hopelessness
@@ -71,6 +72,7 @@ As well as reacting to challenging emotions when they arise, it is also importan
 **_Tips for looking after your general wellbeing:_**
 
 - Try to connect with others
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/general-wellbeing.jpg" alt="wellbeing" class="example-class">
 - Exercise regularly (in a way that fits in with your situation)
 - Eat as well as you can
 - Try to get enough sleep
@@ -205,6 +207,8 @@ Depression is when we feel low or sad and can’t find any pleasure in life. Man
 - Feeling unable to cope with everyday things that you would not have thought twice about in the past.
 - Losing your appetite, losing weight and/or having trouble sleeping.
 - In extreme cases you might even think about harming yourself or other people.
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/low-mood-feeling.jpg" alt="low-mood" class="example-class">
 
 If you see any of these symptoms in yourself, you may be affected by depression. It's important to seek help from a GP or your Parkinson’s nurse if you think you may be depressed. Don’t ever feel that you are a failure for needing help with depression. Also don’t ever feel that you are being judged or that you seeking help puts the welfare of the person with Parkinson’s at risk. Medical professionals are fully aware of the pressures of caring for someone. Many people wait a long time before seeking help, but the sooner you do so, the sooner help can be put into place. Treatment for depression can involve self-help strategies, lifestyle changes, talking therapies and/or medicine. Most people benefit from a combination of these. The treatment will depend on the difficulties and symptoms you have.
 
