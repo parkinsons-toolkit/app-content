@@ -34,7 +34,7 @@ These sensations usually occur in the evening while you are relaxing. Moving you
 
 ## What Might Be Causing It?
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/restless-legs.jpg" alt="restless-legs" class="restless-legs__restless-legs">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/restless-leg.jpg" alt="restless-legs" class="restless-legs__restless-legs">
 
 - Restless leg syndrome can be due to Parkinson’s and the low level of dopamine in the brain.
 - Non-Parkinson’s causes of restless leg include low iron, reduced kidney function, or pregnancy; but most cases of restless leg don’t have a clear cause. It can also run in families.
@@ -68,6 +68,8 @@ Mild cases of restless leg may be treated with lifestyle changes, but more moder
 ## Further Assessment
 
 ### Questions
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/restless-legs.jpg" alt="restless-legs" class="restless-legs__restless-legs">
 
 Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
 
