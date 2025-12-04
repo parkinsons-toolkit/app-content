@@ -73,6 +73,7 @@ When a person has apathy, hobbies and pastimes are often one of the first things
 For more advice, see our <a href="/information/living-with-parkinsons/practical-advice/hobbies-and-pets" class="internal-link">_Hobbies & Pets_</a> page.
 
 **Physical Activity**
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/man-exercise-outside.jpg" alt="man-exercise-outside" class="example-class">
 Apathy tends to lead to physical inactivity and that has consequences. While it is important for everyone to keep active, it is especially important when a person is apathetic. Even if they are able to get up and move around, they may spend much of their time sitting. Chores, hobbies and pastimes can offer chances to be more active. You can also build in a small amount of exercise into your routine.
 
 For more advice, see our <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page.
