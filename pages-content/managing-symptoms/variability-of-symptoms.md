@@ -38,6 +38,9 @@ For some people, the variability is predictable and in relation to medication. F
 
 ## What might be causing it?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/levodopa-pills.jpg" alt="levodopa" class="restless-legs__restless-legs">
+
+
 No one knows for sure why variability of symptoms - or motor fluctuations - occurs. Researchers think it’s related to the way levodopa stimulates the brain. They usually occur after a person has had Parkinson’s for a longer time. Fluctuations are also more common with higher doses of levodopa. Illness or infection unrelated to Parkinson’s can make you feel unwell and lead to changes in your symptoms. This is different to the ‘on’ and ‘off’ periods described above.
 
 ## What should I do about it?
