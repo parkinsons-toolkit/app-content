@@ -117,6 +117,8 @@ Although the changes in smell or taste in Parkinson’s cannot be cured, there a
 
 ### If you have changes in vision
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/eye-test.jpg" alt="eye-test" class="example-class">
+
 - Have your vision checked at your local optician if not done so recently. They might find correctable causes. They can also recommend referral to a low vision service for support with vision aids that can help.
 - Make sure there’s good lighting: vision is generally better with more light. If your vision is causing trouble getting around at night, try night lights.
 - Look for reading material in large print format.
