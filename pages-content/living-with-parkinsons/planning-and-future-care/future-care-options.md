@@ -298,6 +298,8 @@ A person may make the decision that they no longer want to go to hospital for me
 
 ### Medical decisions about critical care interventions
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/critical-care.jpg" alt="critical-care" class="example-class">
+
 Critical Care Interventions are those which are given for life threatening illness, in a closely monitored hospital environment. There are various different machines that are used in certain circumstances to treat critical illness. The machines are designed to do the role of the body organs that are not working properly. Examples include:
 
 - **Support for breathing:** This may be using a tight-fitting mask that pushes air in and out of a person while they are awake (‘Non-invasive ventilation’). Or it may involve having a tube put down from the mouth into the lungs (‘Intubation’) for air to be pushed in and out, whilst the person is sedated (‘invasive ventilation’).
