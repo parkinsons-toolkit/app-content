@@ -28,6 +28,8 @@ Nausea can be described as feeling sick and can lead to vomiting.
 
 ## What might be causing it?
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/nausea.jpg" alt="nausea" class="example-class">
+
 Both Parkinson’s itself and the drugs used to treat it can cause nausea. Nausea that started after recently starting any new drug should go away on its own with time.
 
 Constipation can cause nausea and is common in Parkinson’s. It can occur years before movement problems start. Please see the page on <a href="/information/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> for more information.
