@@ -225,6 +225,8 @@ Who you should talk to depends on the subject of the query. Although there is so
 
 ### Packaging
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/medication-pack.jpg" alt="medication-pack" class="example-class">
+
 Getting medications out of their packets can be tricky. Pill ejectors may help:
 
 - Pill ejectors push a pill out of its packaging.
@@ -233,6 +235,8 @@ Getting medications out of their packets can be tricky. Pill ejectors may help:
 - Check that there are no stickers or labels on the back of the blister packs. They will make it more difficult to push the pills through.
 
 ### Cutting Medicine
+
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/cutting-medication.jpg" alt="cutting-medication" class="example-class">
 
 Sometimes people are required to take only half or a quarter of a pill. Some find it easier to take smaller size pills.
 
