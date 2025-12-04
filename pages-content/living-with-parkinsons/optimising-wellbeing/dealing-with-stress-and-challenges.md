@@ -125,6 +125,8 @@ See the <a href="https://www.mind.org.uk/information-support/tips-for-everyday-l
 
 ### Breathing strategies
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/breathing.jpg" alt="breathing-exercise" class="example-class">
+
 Practising breathing techniques can help you to learn how to breathe more deeply and feel calmer.
 
 <div class="video-container">
