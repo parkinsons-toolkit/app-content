@@ -58,7 +58,7 @@ Although most research relies on volunteers, and people are not paid to take par
 
 ### Your rights as a research participant
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/know-your-rights.jpg" alt="know-your-rights" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/know-your-rights.jpg" alt="know-your-rights" class="content-image">
 
 Before anyone can take part in any research study they should have the chance to read information about the study. You should have the chance to ask any questions so that you understand what you will have to do.
 
@@ -106,7 +106,7 @@ When people will ask, ‘What causes Parkinson’s?’, it’s important to unde
 
 have been associated with Parkinson's. These are examples of ‘environmental factors’ – things people are exposed to during their lives, which may contribute to Parkinson’s.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/clinical-study.jpg" alt="clinical-study" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/clinical-study.jpg" alt="clinical-study" class="content-image">
 
 **Clinical studies** involve medical tests, like blood tests or brain scans, to look for signs that might explain why some people develop Parkinson’s. By comparing results from people with Parkinson’s and those without Parkinson’s, researchers can find patterns or specific biological changes linked to the disease.
 
@@ -118,7 +118,7 @@ have been associated with Parkinson's. These are examples of ‘environmental fa
 
 Researchers have identified several factors that may be linked to Parkinson’s disease, though much is still being discovered. Here’s what has been discovered so far:
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/lab-research.jpg" alt="lab-research" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/lab-research.jpg" alt="lab-research" class="content-image">
 
 - **Ageing** – The risk of developing Parkinson’s increases significantly with age. Although some people develop Parkinson’s under the age of 50 (known as young-onset Parkinson’s), this is much less common. Why ageing plays such a big role is still not fully understood, but older age remains the strongest known risk factor.
 - **Genetics** – In rare cases, Parkinson’s can run in families due to specific genetic mutations. If a family has several family members with Parkinson’s, it is often due to inherited genes. However, this only accounts for a small percentage of cases. Research suggests that for about 30% of people with Parkinson’s, a combination of certain genes and environmental factors might increase the risk of getting Parkinson’s disease.

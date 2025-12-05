@@ -40,7 +40,7 @@ The <a href="http://www.nhs.uk/" class="external-link" target="_blank" rel="noop
 
 ## Apps
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/apps.jpg" alt="apps" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/apps.jpg" alt="apps" class="content-image">
 
 An app is a type of software that allows you to perform specific tasks. These can be downloaded to your mobile phone or other electronic device. There are some apps designed to help you deal with your day-to-day symptoms of Parkinson’s. It is difficult to know if an app is useful based on good scientific knowledge and they may be discontinued. However, below are some examples of apps that you may find useful.
 
@@ -70,7 +70,7 @@ _Wellbeing_
 
 ## Podcasts
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/podcase.jpg" alt="podcast" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/podcase.jpg" alt="podcast" class="content-image">
 
 A Podcast is an audio programme that you can listen to whenever you like on one of your electronic devices.
 
@@ -80,7 +80,7 @@ A Podcast is an audio programme that you can listen to whenever you like on one 
 
 ## Books
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/books.jpg" alt="books" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/books.jpg" alt="books" class="content-image">
 
 - **‘A Funny Thing Happened on the Way to the Future’ by Michael J. Fox:** Autobiography of Michael J. Fox – an actor who was diagnosed with Parkinson’s at 29 years old in 1991. Published 2010.
 - **‘A Parkinson’s Primer: An Indispensable Guide to Parkinson's Disease for Patients & Their Families’ by John M. Vine:** A Parkinson’s Primer is a book written by someone living with Parkinson’s discussing past experiences and all the information he wished he had known from the start. Non-technical book that is a personal guide for people with Parkinson’s and their family. Published 2017.

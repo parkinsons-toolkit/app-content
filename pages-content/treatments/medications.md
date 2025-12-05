@@ -68,7 +68,7 @@ Food can affect how levodopa gets absorbed into your body. For some people this 
 
 ### 2. Dopamine Agonist Medications
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dopamine-molecule.jpg" alt="dopamine" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dopamine-molecule.jpg" alt="dopamine" class="content-image">
 
 **What do they do?**
 
@@ -227,7 +227,7 @@ Who you should talk to depends on the subject of the query. Although there is so
 
 ### Packaging
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/medication-pack.jpg" alt="medication-pack" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/medication-pack.jpg" alt="medication-pack" class="content-image">
 
 Getting medications out of their packets can be tricky. Pill ejectors may help:
 
@@ -238,7 +238,7 @@ Getting medications out of their packets can be tricky. Pill ejectors may help:
 
 ### Cutting Medicine
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/cutting-medication.jpg" alt="cutting-medication" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/cutting-medication.jpg" alt="cutting-medication" class="content-image">
 
 Sometimes people are required to take only half or a quarter of a pill. Some find it easier to take smaller size pills.
 

@@ -35,7 +35,7 @@ Receiving a diagnosis of Parkinson’s will probably make you feel emotional. Yo
   - Find out how your GP runs repeat prescriptions to make sure you always have enough medicine.
 - **Exercise:** This is true for general health and wellbeing, but is especially important in Parkinson’s. Research has shown immediate benefits, such as relieving muscle tension and lifting mood. It has also shown the long-term benefits, such as reduction in many Parkinson’s symptoms.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/support.jpg" alt="support" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/support.jpg" alt="support" class="content-image">
 
 **<ins>Find out where you can get support</ins>** You are not alone. Establishing a support network ranges from knowing who your Parkinson’s specialist team are, to knowing who will listen when you need a moan. Some people find support groups helpful. Others look for connections online, in exercise classes, or through other friends.
 

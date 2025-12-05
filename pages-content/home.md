@@ -2,7 +2,7 @@
 
 The **Live Well with Parkinson's** toolkit is designed to support you in managing your health and wellbeing.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/couple-walking.jpg" alt="couple-walking" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/couple-walking.jpg" alt="couple-walking" class="content-image">
 
 Here’s what you can do:
 
@@ -18,7 +18,7 @@ There are two main areas:
 
 ### 1. **Information Pages**
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/group-people.jpg" alt="group-of-people" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/group-people.jpg" alt="group-of-people" class="content-image">
 
 These pages cover key topics, including:
 
@@ -32,13 +32,13 @@ These pages cover key topics, including:
 
 Click any page to learn more.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gardening-together.jpg" alt="gardening-together" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gardening-together.jpg" alt="gardening-together" class="content-image">
 
 **Tip:** if there is something specific you are looking for and can’t find it, use the search box to type what you are looking for e.g., Medication. When you find the page, press **Crtl + F**. This will open a new search box where you can type the words you are looking for e.g. side effects.
 
 ### 2. **Personalised Pages**
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gym-happy.jpg" alt="gym" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gym-happy.jpg" alt="gym" class="content-image">
 
 These are personal to you. They help you record symptoms, set goals, keep track of your health.
 
@@ -57,7 +57,7 @@ In the personalised section you will find:
 
 You can access these sections one of two ways, depending on what device you are using:
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/man-smiling.jpg" alt="man-smiling" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/man-smiling.jpg" alt="man-smiling" class="content-image">
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/information_icon.png" alt="example-alt-text" class="inline-icon">
 For the information pages by clicking one of the links along the top grey banner or by clicking the **'i' icon** in the top right hand side of the page.

@@ -14,7 +14,7 @@
 
 **<ins>You are not alone</ins>**
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/not-alone.jpg" alt="not-alone" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/not-alone.jpg" alt="not-alone" class="content-image">
 
 It can feel overwhelming trying to find it, but there is help out there. This website aims to provide you with information and guidance to help you to Live Well with Parkinson’s. At the end of each guidance topic there are resources for if you want more information.
 
@@ -63,7 +63,7 @@ There are numerous charities that can offer support. We only list a few examples
 
 ## Peer Support
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/support-group.jpg" alt="support-group" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/support-group.jpg" alt="support-group" class="content-image">
 
 Although it can be a daunting idea, many people find peer support helpful. We have heard this from people with Parkinson’s and research has shown the benefits. It may be social, emotional or practical support but importantly this support is given and received. Sharing experiences can increase your confidence.
 
@@ -152,9 +152,7 @@ For more information and suggested resources check out these websites:
 
 ### Physiotherapy
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/physiotherapy-help.jpg" alt="physiotherapy" class="example-class">
-
- 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/physiotherapy-help.jpg" alt="physiotherapy" class="content-image">
 
 - Ask your GP or Parkinson’s team about a referral to NHS services.
 - Physiotherapy may be available through your workplace: ask your manager, HR or OH.

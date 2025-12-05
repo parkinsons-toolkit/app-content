@@ -26,9 +26,7 @@
 
 Dizziness is often a difficult symptom to describe. It can also be difficult to work out the cause. People use a range of words to describe how they feel, and the medical terminology is complicated. Symptoms of dizziness can be difficult to distinguish from headaches, visual disturbances, or tiredness.
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dizzy-person.jpg" alt="dizzy-person" class="example-class">
-
-
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dizzy-person.jpg" alt="dizzy-person" class="content-image">
 
 Although it can be difficult to decide which group dizziness symptoms fit into, there are two main types of dizziness:
 
@@ -93,7 +91,6 @@ These do not change the symptom but help reduce risks:
 ### Postural hypotension
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/low-blood-pressure.jpg" alt="low-blood-pressure" class="dizziness__low-blood-pressure">
-
 
 - Maintaining **good hydration** is essential to maintaining your blood pressure.
 - **Avoid triggers.** Situations that will make postural hypotension worse include:

@@ -151,7 +151,7 @@ Also known as _Physical Therapists_
 
 ### Psychologists
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/psychologist.jpg" alt="psychologist" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/psychologist.jpg" alt="psychologist" class="content-image">
 
 - **Clinical Psychologists** are Healthcare professionals who trained to reduce distress and promote psychological wellbeing.
 - **Clinical Neuropsychologists** are specialised clinical psychologists. They have studied how the brain affects thinking skills (e.g. memory, attention and visual perception) and behaviour.
@@ -281,7 +281,7 @@ In the UK, there is a split between **_Healthcare_** (National Health Service, N
 
 ## Private Healthcare
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/home-care-private.jpg" alt="private-home-care" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/home-care-private.jpg" alt="private-home-care" class="content-image">
 
 - There are many options for healthcare through the private sector.
 - The waiting times are often shorter, but there is a fee. This can be substantial if you are not covered by a private insurance plan.
