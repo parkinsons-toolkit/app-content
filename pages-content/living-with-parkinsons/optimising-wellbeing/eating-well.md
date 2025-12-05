@@ -175,7 +175,7 @@ Some people with Parkinson’s will notice they may have trouble with swallowing
 
 ## Maintaining healthy weight
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/weighing-scale.jpg" alt="weighing-scale" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/weighing-scale.jpg" alt="weighing-scale" class="content-image">
 
 It is important for everyone to maintain a healthy weight, as being overweight or underweight can affect your health. Changes in body weight can also affect how your body processes medication, so changes in weight may mean you need changes in medication dose.
 

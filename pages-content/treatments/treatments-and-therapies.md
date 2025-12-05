@@ -2,7 +2,7 @@
 
 In the Treatment & Therapies section, you will find information that outlines current treatments and therapies for Parkinson’s disease. Below is a brief summary of each topic covered on these pages:
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/treatments-therapies.jpg" alt="treatments-and-therapies" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/treatments-therapies.jpg" alt="treatments-and-therapies" class="content-image">
 
 - <a href="/information/treatments/who-may-be-involved" class="internal-link">_**Who May Be Involved?**_</a> Here you will find a list of all the healthcare professionals that you may come across in your Parkinson’s journey. It is important to remember that everyone’s journey is different, and you may not need to see certain healthcare teams. When you discuss your symptoms with your healthcare professional, if they feel you need more help, they will refer you to another service or healthcare team. For example, if you are losing weight, a dietician may be helpful, or for problems with swallowing, a speech and language specialist may be helpful. This section also tells you about the role of social care and gives you some information about private healthcare.
 - <a href="/information/treatment/medications" class="internal-link">_**Medications**_</a> provides an ‘all you need to know’ about taking medication for Parkinson’s – Tip: look out for the ‘Taking medication’ section to know what to do if you have missed a dose.

@@ -73,7 +73,7 @@ You may find writing more difficult if you experience:
 
 1.<ins>First Exercise</ins>
 
-  <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/first-exercise.jpg" alt="finger-exercises" class="example-class">
+  <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/first-exercise.jpg" alt="finger-exercises" class="content-image">
 
 - Put your hands straight out in front of you, shoulder-height, with your palms away from you and fingers extended wide.
 - Turn your hands towards your face, and pull them back to be even with your body at your ribs, making a tight fist with your hands at the same time.
@@ -82,7 +82,7 @@ You may find writing more difficult if you experience:
 
   2.<ins>Second Exercise</ins>
 
-  <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/second-exercise.jpg" alt="finger-exercises" class="example-class">
+  <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/second-exercise.jpg" alt="finger-exercises" class="content-image">
 
 - Tap each finger on your right hand to your right thumb and then extend upwards. Do the same on your left hand at the same time.
 - _Explained in detail:_ Tap right pointer finger to your right thumb and your left pointer finger to your left thumb, then extend both pointer fingers to the sky; then tap middle fingers to each thumb, and extend each middle finger to the sky, etc.
@@ -90,7 +90,7 @@ You may find writing more difficult if you experience:
 
   3.<ins>Third Exercise</ins>
 
-  <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/third-exercise.jpg" alt="finger-exercises" class="example-class">
+  <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/third-exercise.jpg" alt="finger-exercises" class="content-image">
 
 - Curl fingers down so that the nail area of fingers are touching where the base of the fingers connect to the palm of the hand.
 - Then extend fingers up and out as wide as they can go.

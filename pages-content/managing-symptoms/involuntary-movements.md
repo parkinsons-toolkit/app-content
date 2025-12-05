@@ -33,7 +33,7 @@ Dyskinesias can range in severity, from some people having it so mildly that the
 
 ## What might be causing it?
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dyskinesia.jpg" alt="dyskinesia" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/dyskinesia.jpg" alt="dyskinesia" class="content-image">
 
 The exact cause of dyskinesia isn’t known. Experts think it's related to the natural progression of Parkinson’s and the brain becoming more sensitive to dopamine.
 

@@ -142,7 +142,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 
 ### Therapy & Counselling
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/relationship-counselling.jpg" alt="relationship-counselling" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/relationship-counselling.jpg" alt="relationship-counselling" class="content-image">
 
 - **Relationship counselling:** Counsellors can work with couples and individuals (meaning you can go alone if you’re single or if your partner does not wish to join).
   - Ask your GP for services available in your area.

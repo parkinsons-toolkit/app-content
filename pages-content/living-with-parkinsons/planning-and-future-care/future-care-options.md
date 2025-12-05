@@ -298,7 +298,7 @@ A person may make the decision that they no longer want to go to hospital for me
 
 ### Medical decisions about critical care interventions
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/critical-care.jpg" alt="critical-care" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/critical-care.jpg" alt="critical-care" class="content-image">
 
 Critical Care Interventions are those which are given for life threatening illness, in a closely monitored hospital environment. There are various different machines that are used in certain circumstances to treat critical illness. The machines are designed to do the role of the body organs that are not working properly. Examples include:
 
@@ -312,7 +312,7 @@ The decision to whether to undertake these critical care interventions is theref
 
 ### Medical decisions about cardiopulmonary resuscitation (CPR)
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/cpr.jpg" alt="cpr" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/cpr.jpg" alt="cpr" class="content-image">
 
 Cardiopulmonary resuscitation (CPR) refers to a combination of medical interventions that are used for person whose heart and/or breathing have stopped, known as ‘cardiac arrest’ or ‘respiratory arrest’. This includes ‘chest compressions’, ‘ventilation’, medicines and potentially ‘defibrillation’. Alongside these, treatment is given to address the reason for the heart or lungs having stopped.
 

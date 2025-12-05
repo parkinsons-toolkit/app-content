@@ -29,7 +29,7 @@ How do you want to be remembered? Some people like to write letters or put toget
 
 ### Communicating Your Wishes
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/poa.jpg" alt="power-of-attorney" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/poa.jpg" alt="power-of-attorney" class="content-image">
 
 Towards the end of life, it may become more difficult to communicate your wishes. Planning in advance can help to make sure your wishes are respected: both for your care and for after death.
 

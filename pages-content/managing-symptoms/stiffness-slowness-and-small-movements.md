@@ -28,8 +28,7 @@ Slowness of movement also happens in Parkinson’s. This can be seen in someone�
 
 # What might be causing it?
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/slow-movements.jpg" alt="slow-movements" class="example-class">
-
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/slow-movements.jpg" alt="slow-movements" class="content-image">
 
 In Parkinson’s, the movement symptoms of the condition are caused mainly by having reduced levels of dopamine in the brain. Movement symptoms are otherwise known as motor symptoms and include stiffness, slowness, and tremor. Although Parkinson’s medications do not slow down the progression of the condition, in many cases they can help reduce the frequency and severity of these symptoms.
 

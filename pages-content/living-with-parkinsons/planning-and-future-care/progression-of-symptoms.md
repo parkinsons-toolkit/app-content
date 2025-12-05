@@ -148,7 +148,7 @@ Swallowing problems are common in Parkinson’s but exist along a range of sever
 
 ### How swallowing works
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/chest-problems.jpg" alt="chest-problems" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/chest-problems.jpg" alt="chest-problems" class="content-image">
 
 - From your mouth and nose there are two tubes going down into the body.
 - The tube at the front is for air and goes down to the lungs.

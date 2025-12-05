@@ -48,7 +48,7 @@ Other non-Parkinson’s causes of leg or ankle swelling can be from:
 
 ## What Should I Do About It?
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/leg-swelling.jpg" alt="leg-swelling" class="example-class">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/leg-swelling.jpg" alt="leg-swelling" class="content-image">
 - **You should be seen in A&E** for assessment if you are also experiencing:
 - Difficulty breathing; or changes in your breathing (wheezing, coughing, needing to sleep propped up on pillows).
 - Chest pain - this might indicate a more serious cause that needs treatment.
