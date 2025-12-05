@@ -92,6 +92,9 @@ These do not change the symptom but help reduce risks:
 
 ### Postural hypotension
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/low-blood-pressure.jpg" alt="low-blood-pressure" class="dizziness__low-blood-pressure">
+
+
 - Maintaining **good hydration** is essential to maintaining your blood pressure.
 - **Avoid triggers.** Situations that will make postural hypotension worse include:
   - Hot stuffy environments, like hot baths or showers
@@ -105,8 +108,6 @@ These do not change the symptom but help reduce risks:
 - **Eat small, frequent meals.** Meals with lots of carbohydrates are likely to cause a drop in blood pressure. See Eating Well for guidance on food groups. Sitting still for a while after eating may also help.
 - Increased **salt** in the diet may help in some cases, but in some circumstances can be harmful.
   Speak with your GP before you try this.
-
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/low-blood-pressure.jpg" alt="low-blood-pressure" class="dizziness__low-blood-pressure">
 
 For more information about blood pressure (including how to measure it), see the <a href="/information/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page.
 
