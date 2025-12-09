@@ -72,28 +72,22 @@ If you do tell others, bear in mind that they will have a reaction too. That rea
 People affected by Parkinson’s describe their experiences:
 
 > “Be gentle with yourself. In the following few weeks - perhaps not straight away - you may well be knocked off your feet by waves of anxiety and panic; this is normal, and it will ease. It'll be the shock and not the Parkinson's - you won't feel like this forever. Hang on in there.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 > “I personally think you should try to exercise as much as possible, you should try different sorts of exercise, on top of cardio, things that work on your balance and coordination for example. I am convinced it is thanks to exercising that I'm still working full time and doing everything I want to do almost five years after diagnosis.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 > “I chose to tell everyone, and this led to me having the chance to meet with a colleague's neighbour who had had Parkinson's for some time. Seeing him still enjoying life - driving, working, travelling - was a big step to helping me get back on my feet after the diagnosis.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 > “I was resigned, not phased and not curious… I opted for talking to those with Parkinson’s.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 > “Whatever picture you have in your head of someone with Parkinson's - perhaps through personal experience, perhaps through images on the media - this is not a preview of your destiny. Parkinson's affects different people in very different ways.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 > “For me, taking part in research projects has been a big factor in coming to terms with the diagnosis. It’s heartening to know that there are so many skilled scientists beavering away towards a cure and I’ve found that joining forces with these researchers has been a really positive experience. Your neurologist may be able to suggest projects in which you can get involved but you could also look at the <a href="https://cureparkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Cure Parkinson’s Trust</a> site or the research section of the <a href="https://www.parkinsons.org.uk/research" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> site.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 ## Useful Organisations & Contacts
 
