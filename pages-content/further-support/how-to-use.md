@@ -188,6 +188,8 @@ For iPhone users (iOS):
 </iframe>
 </div>
 
+For Android users:
 
+[to be added]
 
 The <a href="/information/my-wellbeing" class="internal-link">_My Wellbeing_</a> section in your manual will guide you through this process.
