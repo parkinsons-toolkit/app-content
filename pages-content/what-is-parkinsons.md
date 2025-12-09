@@ -17,7 +17,7 @@
 
 Parkinson’s is a chronic condition that causes difficulties with movements. It can also cause a range of other symptoms. Parkinson’s is an extremely varied condition. It affects each person uniquely. Different symptoms may occur at different times. Each symptom may respond differently to treatments.
 
-_Parkinsonism_ is a broad term. It covers a range of conditions that have features similar to Parkinson's. When speaking about Parkinson’s, people are usually referring to Idiopathic Parkinson’s Disease. This is one type of Parkinsonism, but there are a number of others.
+**Parkinsonism** is a broad term. It covers a range of conditions that have features similar to Parkinson's. When speaking about Parkinson’s, people are usually referring to Idiopathic Parkinson’s Disease. This is one type of Parkinsonism, but there are a number of others.
 
 ## What is the cause?
 
@@ -61,7 +61,7 @@ The three main motor symptoms of Parkinson’s are:
 - Shaking, known medically as tremor
 - Stiffness, known medically as rigidity
 
-Not everyone with Parkinson’s will experience all three main motor symptoms. But movement is always affected for a diagnosis of Parkinson’s. The non-motor symptoms are varied and can be harder to see. Some examples include anxiety, sleep difficulties and constipation. These can occur before movement symptoms. You can read more about specific symptoms on the <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages.
+Not everyone with Parkinson’s will experience all three main motor symptoms. But movement is always affected for a diagnosis of Parkinson’s. The non-motor symptoms are varied and can be harder to see. Some examples include anxiety, sleep difficulties and constipation. These can occur before movement symptoms. You can read more about specific symptoms on the <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">Managing Symptoms</a> pages.
 
 ## How is Parkinson’s diagnosed?
 
@@ -75,7 +75,7 @@ Not everyone with Parkinson’s will experience all three main motor symptoms. B
 </iframe>
 </div>
 
-The diagnosis of Parkinson’s is made by a clinician experienced in Parkinson’s. They ask careful questions and do a close clinical exam. The diagnosis is based on a person’s story and examination. There is no one test that can diagnose Parkinson’s. Doctors may order brain scans like an _MRI_, or order some blood tests to exclude other conditions. These actions can add pieces to the puzzle. Sometimes Parkinson’s can look like other conditions. It may even look like a normal ageing process. The diagnosis is not always clear. Since there is no test to show whether someone has Parkinson’s or not, it can take time for the picture to become clearer. In some cases that means a change in the first diagnosis.
+The diagnosis of Parkinson’s is made by a clinician experienced in Parkinson’s. They ask careful questions and do a close clinical exam. The diagnosis is based on a person’s story and examination. There is no one test that can diagnose Parkinson’s. Doctors may order brain scans like an <ins>MRI</ins>, or order some blood tests to exclude other conditions. These actions can add pieces to the puzzle. Sometimes Parkinson’s can look like other conditions. It may even look like a normal ageing process. The diagnosis is not always clear. Since there is no test to show whether someone has Parkinson’s or not, it can take time for the picture to become clearer. In some cases that means a change in the first diagnosis.
 
 ## How is Parkinson’s treated?
 
@@ -89,13 +89,13 @@ The diagnosis of Parkinson’s is made by a clinician experienced in Parkinson�
 </iframe>
 </div>
 
-There are many management options to help with Parkinson’s. A range of different professionals can be involved. See the <a href="/information/treatments/who-may-be-involved" class="internal-link">_Who May Be Involved_</a> page. Exercise has been shown to improve mobility and quality of life. There isn’t one exercise program that has been shown to be the best. Finding something you enjoy and doing it regularly is most important. Examples include an exercise class for people with Parkinson’s, dancing, boxing, riding a stationary bicycle at home, etc.
+There are many management options to help with Parkinson’s. A range of different professionals can be involved. See the <a href="/information/treatments/who-may-be-involved" class="internal-link">Who May Be Involved</a> page. Exercise has been shown to improve mobility and quality of life. There isn’t one exercise program that has been shown to be the best. Finding something you enjoy and doing it regularly is most important. Examples include an exercise class for people with Parkinson’s, dancing, boxing, riding a stationary bicycle at home, etc.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/taking-medication.jpg" alt="taking-medication" class="content-image">
 
-There are medications available for many Parkinson’s symptoms. See <a href="/information/treatments/medications" class="internal-link">_Medications_</a> page. Surgical options may be considered in select cases. See <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page. There are also other strategies to reduce the impact of symptoms on daily life. See <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages. A diagnosis of Parkinson’s is a lot to deal with. Talking to others can help. This website aims to support you to live well with Parkinson’s. It includes a range of tools as well as information resources to help you. If you have been recently diagnosed, the volume of information can be overwhelming. Starting with the <a href="/information/newly-diagnosed" class="internal-link">_Newly Diagnosed_</a> page may be most helpful. On this page, other people with Parkinson’s wrote key information they would focus on at the start.
+There are medications available for many Parkinson’s symptoms. See <a href="/information/treatments/medications" class="internal-link">Medications</a> page. Surgical options may be considered in select cases. See <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a> page. There are also other strategies to reduce the impact of symptoms on daily life. See <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">Managing Symptoms</a> pages. A diagnosis of Parkinson’s is a lot to deal with. Talking to others can help. This website aims to support you to live well with Parkinson’s. It includes a range of tools as well as information resources to help you. If you have been recently diagnosed, the volume of information can be overwhelming. Starting with the <a href="/information/newly-diagnosed" class="internal-link">Newly Diagnosed</a> page may be most helpful. On this page, other people with Parkinson’s wrote key information they would focus on at the start.
 
-Lots is known about Parkinson’s. But there is even more to be discovered! See the <a href="/information/research" class="internal-link">_Research_</a> page to know more.
+Lots is known about Parkinson’s. But there is even more to be discovered! See the <a href="/information/research" class="internal-link">Research</a> page to know more.
 
 ## Other Types of Parkinsonism
 
@@ -108,11 +108,11 @@ Parkinsonism is a term used to describe a group of symptoms namely: bradykinesia
 
 ## Useful Organisations & Contacts
 
-Please also see the [_Services & Groups_](/information/further-support/services-and-groups) page for more sources of support, or our [_Resources_](/information/further-support/resources) page.
+Please also see the <a href="/information/further-support/services-and-groups" class="internal-link">Services & Groups</a> page for more sources of support, or our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
 
 | Organisation               | About                                                                                                                                                          | Phone Number                                                                                                                                       | Website                                                                                                                                                                                                                                                                                                                                                                           |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Parkinson’s Foundation** | This American organisation introduces Parkinson’s disease by explaining its symptoms, causes, treatments, and the importance of understanding its progression. | --                                                                                                                                                 | [https://www.parkinson.org/understanding-parkinsons/what-is-parkinsons](https://www.parkinson.org/understanding-parkinsons/what-is-parkinsons) <br><br> See also ‘Types of Parkinsonisms’: [https://www.parkinson.org/understanding-parkinsons/what-is-parkinsons/types-parkinsonisms](https://www.parkinson.org/understanding-parkinsons/what-is-parkinsons/types-parkinsonisms) |
 | **Parkinson’s UK**         | An overview of Parkinson’s, including its symptoms, causes, progression, and how it affects daily life.                                                        | 0808 800 0303 <br><br> Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am–6pm, and Saturday, 10am–1pm) | [https://www.parkinsons.org.uk/information-and-support/what-parkinsons](https://www.parkinsons.org.uk/information-and-support/what-parkinsons) <br><br> See also ‘Types of Parkinsonism’: [https://www.parkinsons.org.uk/information-and-support/types-parkinsonism](https://www.parkinsons.org.uk/information-and-support/types-parkinsonism)                                    |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our [_Resources_](/information/further-support/resources) page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
