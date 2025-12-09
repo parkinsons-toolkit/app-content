@@ -43,7 +43,7 @@ There is no diet that is specifically recommended for Parkinson’s, but diet ca
 - Sugar and fat – try to cut down on these. Include in moderation (unless recommended by your healthcare professional)
 - Fluid intake: aim for 6-8 glasses of non-alcoholic drinks per day for hydration (unless advised otherwise by your healthcare professional)
 
-Find more details of the different food types, further down this page under the heading [Understanding food groups](#understanding-food-groups).
+Find more details of the different food types, further down this page under the heading [Understanding Food Groups](#understanding-food-groups).
 
 ## Diet and medication
 
@@ -59,7 +59,7 @@ Find more details of the different food types, further down this page under the 
 
 ### 1. Levodopa and protein
 
-_Including Sinemet, Madopar, Stalevo._
+- Including Sinemet, Madopar, Stalevo.
 
 Some people notice that when they eat a protein-rich meal and take levodopa at the same time, their levodopa doesn’t work as well – it doesn’t kick in as quickly or doesn’t last as long as usual. This may occur because levodopa and protein are absorbed in the same area of the intestine, so taking them at the same time may mean that less levodopa is absorbed or absorbed more slowly.
 
@@ -70,10 +70,10 @@ Some people notice that when they eat a protein-rich meal and take levodopa at t
 - You should not stop eating protein altogether.
   - Protein is vital to help your body renew itself and fight infection
   - Reducing protein may cause dangerous weight loss
-- Some people find benefit from a “protein redistribution” diet: this is reducing protein intake _around the time of levodopa_. The medication could be taken with something low in protein, like a cracker, biscuit or fruit if nausea is a problem.
+- Some people find benefit from a “protein redistribution” diet: this is reducing protein intake <ins>around the time of levodopa</ins>. The medication could be taken with something low in protein, like a cracker, biscuit or fruit if nausea is a problem.
 - Protein could then be eaten later (e.g. 30–60 mins after) or moved to a time when its impact on medication will be less of a problem (often towards the end of the day).
 - **Caution** is advised with this to ensure adequate protein is still consumed.
-- Research has looked at _low protein diets_ and there is <ins>no</ins> adequate evidence to support recommending this.
+- Research has looked at <ins>low protein diets</ins> and there is <ins>no</ins> adequate evidence to support recommending this.
 
 If you think your symptoms are being affected by the interaction between medication and meals, try tracking your symptoms for 3–5 days, recording:
 
@@ -82,19 +82,19 @@ If you think your symptoms are being affected by the interaction between medicat
 - What and when you experience symptoms.
 - You can then take this to your specialist Parkinson’s team or dietician to review your regime. **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 
-You can record these things all in one place by using <a href="/information/my-tracker" class="internal-link">_My Tracker_</a>.
+You can record these things all in one place by using <a href="/information/my-tracker" class="internal-link">My Tracker</a>.
 
-_Examples of protein are provided in the section ‘Understanding food groups’ further down on this page._
+Examples of protein are provided in the section [Understanding Food Groups](#understanding-food-groups) further down on this page.
 
 ### 2. Dopamine agonists and food
 
-_Including pramipexole (e.g. Mirapexin), ropinirole (e.g. Requip), rotigotine (e.g. Neupro), apomorphine injections_
+- Including pramipexole (e.g. Mirapexin), ropinirole (e.g. Requip), rotigotine (e.g. Neupro), apomorphine injections
 
 This class of drugs doesn’t interact with protein the way levodopa does. It is important to discuss the medication schedule with your Parkinson’s specialist team and stay on the same daily schedule.
 
 ### 3. Selegiline and food
 
-_Selegeline (e.g. Eldepryl, Zelapar)_
+- Selegeline (e.g. Eldepryl, Zelapar)
 
 High blood pressure can occur when high-dose selegeline is taken with tyramine-rich foods. Examples of tyramine-rich food include:
 
@@ -116,7 +116,7 @@ Constipation is a common symptom experienced by people with Parkinson’s. It ca
 - Stay hydrated
 - Increase fibre intake (high fibre foods are listed at the end of this page)
 
-_See the <a href="/information/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a> page for more details._
+See the <a href="/information/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a> page for more details.
 
 ## Diet and low blood pressure
 
@@ -132,7 +132,7 @@ People with Parkinson’s can experience low blood pressure, particularly when c
 - Avoid constipation (straining makes the problem worse)
   - In some cases increased salt intake can help, but there are also potential harmful effects of high salt intake so discuss with your GP, dietician or Parkinson’s team before trying this.
 
-_See the <a href="/information/managing-symptoms/dizziness" class="internal-link">Dizziness</a> page for more details._
+See the <a href="/information/managing-symptoms/dizziness" class="internal-link">Dizziness</a> page for more details.
 
 ## Alcohol
 
@@ -151,7 +151,7 @@ Generally, unless you have been advised to not drink alcohol by a healthcare pro
 - If you want to cut down, try to have several drink-free days each week
 - You can find out more about alcohol units by visiting the <a href="https://www.nhs.uk/live-well/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Live Well</a> website, or the independent charity <a href="https://www.drinkaware.co.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Drinkaware</a> website. See the bottom of this page for links to more information and guidance.
 
-_Alcohol dependency or addiction has serious health implications. There is lots of support available – see the <a href="https://www.nhs.uk/nhs-services/find-alcohol-addiction-support-services/" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> to find your local alcohol addiction services._
+<ins>Alcohol dependency or addiction has serious health implications. There is lots of support available – see the <a href="https://www.nhs.uk/nhs-services/find-alcohol-addiction-support-services/" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> to find your local alcohol addiction services.</ins>
 
 ## Swallowing difficulties
 
@@ -184,7 +184,7 @@ The body mass index (BMI) is a measure that uses your height and weight to work 
 
 ### Underweight
 
-Weight loss is not part of normal ageing. Weight loss can be a sign of an underlying condition and may require investigation but can also be due to Parkinson’s for a range of reasons. To find out more about weight loss and what you could do about it, see our <a href="/information/managing-symptoms/weight" class="internal-link">_Weight_</a> page.
+Weight loss is not part of normal ageing. Weight loss can be a sign of an underlying condition and may require investigation but can also be due to Parkinson’s for a range of reasons. To find out more about weight loss and what you could do about it, see our <a href="/information/managing-symptoms/weight" class="internal-link">Weight</a> page.
 
 If you have lost a significant amount of weight without trying, then you should see your GP or
 Parkinson’s specialist team.
@@ -217,7 +217,7 @@ Avoiding being overweight is particularly important if you have other health con
 Parkinson’s doesn’t tend to make people gain weight, but there are few reasons why it can happen, specific to Parkinson’s:
 
 1. It is easy to gain weight if you become less active but continue eating the same amount of food.
-2. Compulsive eating – this is a rare side effect of some Parkinson’s medications, where the person experiences an irresistible urge to eat excessively. See our <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page for more information. If you think this is affecting you, please do not make any changes to your medication regime without speaking with a healthcare professional.
+2. Compulsive eating – this is a rare side effect of some Parkinson’s medications, where the person experiences an irresistible urge to eat excessively. See our <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">Impulsive Behaviours</a> page for more information. If you think this is affecting you, please do not make any changes to your medication regime without speaking with a healthcare professional.
 3. Deep Brain Stimulation – some people experience weight gain after the surgery. Speak to your specialist team if you think this has been the case.
 
 ### Dietary advice if you have been advised to lose weight
@@ -248,8 +248,8 @@ Some vitamins and supplements can interact with your Parkinson’s medications o
   - If you are found to have a low vitamin D level, then you should be prescribed additional higher dose vitamin D to bring it back up to normal and then continue the routine supplements.
 - **Vitamin B12** and **folate** levels are sometimes lower in people with Parkinson’s.
   - **Low vitamin B12** can be associated with the medication levodopa
-  - Low vitamin B12 is associated with nerve problems, called peripheral neuropathy. See our <a href="/information/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page for more information on neuropathy.
-  - Vitamin B12 is particularly likely to be lower in people with Parkinson’s who are receiving a gel form of levodopa given via a tube directly into the gut (an intraduodenal gel infusion called **Duodopa** – see our <a href="/information/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a>)
+  - Low vitamin B12 is associated with nerve problems, called peripheral neuropathy. See our <a href="/information/managing-symptoms/five-senses" class="internal-link">5 Senses</a> page for more information on neuropathy.
+  - Vitamin B12 is particularly likely to be lower in people with Parkinson’s who are receiving a gel form of levodopa given via a tube directly into the gut (an intraduodenal gel infusion called **Duodopa** – see our <a href="/information/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a>)
   - More research is ongoing, but for now, people on Duodopa are recommended to take supplementary vitamin B12.
 
 ### Are there supplements to slow Parkinson’s?
@@ -385,4 +385,4 @@ Because it can be difficult to eat enough vitamin D, a daily 10 mcg supplement o
 | NHS            | The NHS Live Well pages offer practical advice on healthy living, including guidance on balanced diets, maintaining a healthy weight, staying active, quitting smoking, and reducing alcohol intake. There is also support for alcohol addiction. | --                                                                                                                                                         | NHS Live Well: <a href="https://www.nhs.uk/live-well" class="external-link" target="_blank" rel="noopener noreferrer">www.nhs.uk/live-well</a> <br><br>The Eatwell Guide: <a href="https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/</a> <br><br>NHS alcohol advice: <a href="https://www.nhs.uk/live-well/alcohol-advice/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/live-well/alcohol-advice/</a> |
 | Parkinson’s UK | Provides details of how diet and nutrition can affect life with Parkinson’s and offers practical guidance for managing food-related challenges.                                                                                                   | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)     | <a href="https://www.parkinsons.org.uk/information-and-support/diet" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/diet</a>                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
