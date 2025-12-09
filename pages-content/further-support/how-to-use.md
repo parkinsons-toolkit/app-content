@@ -34,6 +34,46 @@ The toolkit has a wealth of information on Parkinson’s and your overall health
 
 [Content to be added]
 
+Symptom Review how to:
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/Yzd3dE0uvpA"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
+My Wellbeing how to:
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/fGEqllV2ioo"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+My Tracker how to:
+
+Rerminders & Notes how to:
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/x9ccL_9rFtI"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
 ## Features Overview
 
 [Content to be added]
