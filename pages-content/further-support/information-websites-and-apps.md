@@ -48,9 +48,9 @@ An app is a type of software that allows you to perform specific tasks. These ca
 
 Our Mobile Health is an organisation made up of health professionals and experts that review and identify the best health-related apps to be used by people. Our Mobile Health worked with Parkinson’s UK to provide a list of recommended apps:
 
-_NHS and 'Our Mobile Health' recommended apps:_
+**NHS and 'Our Mobile Health' recommended apps:**
 
-_Mental Health_
+<ins>Mental Health</ins>
 
 - Stress & Anxiety Companion: Provides you with breathing exercises to reduce anxiety as well as games and music for relaxation.
 - WorryTree: Based on Cognitive Behavioural Therapy (CBT). The app allows you to record any worries and challenge these.
@@ -58,13 +58,13 @@ _Mental Health_
 - Beat Panic: Uses positive messages and colours to help reduce anxiety (Note: currently costs 99p).
 - Cove: Allows you to create music to reflect your emotions. Allows you to express your feeling without having to use words and keeps a personal journal of how you have felt. This is being tested in the NHS.
 
-_Speech_
+<ins>Speech</ins>
 
 - Beats Medical: Aims to help with your Parkinsonian symptoms – such as mobility, speech and dexterity.
 - Swallow Prompt: Provides reminders to people who may have difficulty remembering to swallow without being prompted. You can set how often you receive the reminder depending on your personal situation.
 - Voice Analyst: Allows you to record your voice and analyse potential changes in pitch and volume over time.
 
-_Wellbeing_
+<ins>Wellbeing</ins>
 
 - KiNDEO: Allows you to create a life story for someone. You can add photos, videos and stories to create a record of someone’s life. Then it can be easily viewed by carers or loved ones.
 
@@ -93,7 +93,7 @@ A Podcast is an audio programme that you can listen to whenever you like on one 
 
 There are more electronic devices currently being developed and tested, such as WATCH-PD.
 
-See our <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for any devices or adaptations that might help you in the home.
+See our <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">Housing</a> page for any devices or adaptations that might help you in the home.
 
 ## How to know if information is reliable
 
@@ -126,4 +126,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*\* Calls cost between 10p–20p/minute from landlines, between 3p–65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
