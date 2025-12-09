@@ -43,7 +43,7 @@ There is no diet that is specifically recommended for Parkinson’s, but diet ca
 - Sugar and fat – try to cut down on these. Include in moderation (unless recommended by your healthcare professional)
 - Fluid intake: aim for 6-8 glasses of non-alcoholic drinks per day for hydration (unless advised otherwise by your healthcare professional)
 
-_Find more details of the different food types, further down this page under the heading ‘Understanding food groups’._
+Find more details of the different food types, further down this page under the heading [Understanding food groups](#understanding-food-groups).
 
 ## Diet and medication
 
