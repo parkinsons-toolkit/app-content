@@ -61,7 +61,9 @@ My Wellbeing how to:
 
 My Tracker how to:
 
-Rerminders & Notes how to:
+[to add]
+
+Reminders & Notes how to:
 
 <div class="video-container">
 <iframe
