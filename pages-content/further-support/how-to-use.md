@@ -70,6 +70,18 @@ Each section of the tracker has its own dedicated video tutorial to help you nav
 
 [Content to be added]
 
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/gbeROgdORkk"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
+
 ## Self-Management
 
 ### What is self-management, and why is it important?
