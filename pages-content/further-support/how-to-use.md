@@ -174,4 +174,20 @@ Tips to consider:
 
 - You could try associating the task with something that is already part of your routine, like brushing your teeth, or watching a scheduled TV programme. This gives an anchor.
 
+To add the Live Well with Parkinson's to your apps on the home screen so it is easily accessible, you can follow these instructions below:
+
+For iPhone users (iOS):
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/zBwHzjJVct4"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
+
+
 The <a href="/information/my-wellbeing" class="internal-link">_My Wellbeing_</a> section in your manual will guide you through this process.
