@@ -18,7 +18,15 @@ Within this section you can find a guide and further advice on how to navigate a
 
 ## Getting Started
 
-[Content to be added]
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/si=dIzLtp4vkj7OlLyp"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
 
 The toolkit has a wealth of information on Parkinson’s and your overall health and well-being. Each information page allows you to gain knowledge on a topic, practical tips, where to go for further information and much more. You can find information pages by navigating the headings at the top of the page and by using the search bar at the top right-hand corner.
 
