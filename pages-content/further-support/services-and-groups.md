@@ -24,7 +24,7 @@ Here we offer some guidance on what sort of support is out there. We also indica
 
 ### Your Parkinson’s team or your GP
 
-- _Note you can record their contact details in the <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section._
+- <ins>Note you can record their contact details in the <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section.</ins>
 - They are available to help with health-related issues and can direct you to other services in the area.
 - Your Parkinson’s team should know if there are any support groups connected with the hospital. They may know about support groups outside the hospital too.
 - If you can’t get through to the team you know health advice is available via the NHS 111 telephone service, <a href="111.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS 111 online</a> downloading the NHS App or using the <a href="www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a>. However please note that the call handler is not usually a clinician and may not have much experience of Parkinson’s.
@@ -35,8 +35,8 @@ Find your local council by visiting the <a href="https://www.gov.uk/find-local-c
 
 This includes:
 
-- **Adult Social Care:** Also known as ‘social services’. They conduct Needs Assessments. These are the first steps in getting Home Care, equipment and/or home adaptations and housing support. This is who you should contact if daily tasks are becoming more difficult and you think you need help. Note, services are means tested so there may be a cost that is different to healthcare which is free on the NHS. However, the assessment and advice are free. They can also let you know if you may be eligible for some benefits that are not means tested, such as Attendance Allowance. These benefits can help pay for extra help. See our <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page for more details on this.
-- **Parking & Travel**: Blue Badge, bus passes, dial-a-ride services, etc. See our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for more details.
+- **Adult Social Care:** Also known as ‘social services’. They conduct Needs Assessments. These are the first steps in getting Home Care, equipment and/or home adaptations and housing support. This is who you should contact if daily tasks are becoming more difficult and you think you need help. Note, services are means tested so there may be a cost that is different to healthcare which is free on the NHS. However, the assessment and advice are free. They can also let you know if you may be eligible for some benefits that are not means tested, such as Attendance Allowance. These benefits can help pay for extra help. See our <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">Finances</a> page for more details on this.
+- **Parking & Travel**: Blue Badge, bus passes, dial-a-ride services, etc. See our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">Travel</a> page for more details.
 
 ### Your workplace
 
@@ -86,13 +86,13 @@ You could try different groups to find what suits you. See what people say about
 People affected by Parkinson’s describe their experiences.
 
 > “We had just started, within the church, a group, it’s within the community, called ‘Brain Fit’… it’s basically an afternoon with board games. Or for those who don’t want to do board games, there’s crosswords, sudoku or just the chance to socialise.”
-> _(Carer for someone with Parkinson’s)_
+> (Carer for someone with Parkinson’s)
 
 > “Being in a group where they’re not feeling judged because actually everyone is going through the same thing as they are, and feeling not alone. It’s just nice to know that you’re not alone.”
-> _(Healthcare Professional)_
+> (Healthcare Professional)
 
 > “I think Parkinson’s groups are great… they’re great socially. They’re great in terms of finding out about benefits that an individual may not know about [and] accessing services … They can be useful at talking about which specialists people like… also recommending specialist services like physio, like speech and language therapy… especially non-NHS treatments and things like psychological support and talking based therapies...”
-> _(Healthcare Professional)_
+> (Healthcare Professional)
 
 ### How to find a support group:
 
@@ -207,7 +207,7 @@ For more information and suggested resources check out these websites:
 
 ## Accessing Private Services
 
-Information about what is provided on the NHS is available on the <a href="www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a>. If you would like to pursue private services, do check out our tips on the <a href="/information/treatments/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page. In most cases, to access private services and have this paid under insurance, you still need a referral from your GP.
+Information about what is provided on the NHS is available on the <a href="www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a>. If you would like to pursue private services, do check out our tips on the <a href="/information/treatments/who-may-be-involved" class="internal-link">Who May be Involved</a> page. In most cases, to access private services and have this paid under insurance, you still need a referral from your GP.
 
 Accessing private healthcare does not stop your right to NHS healthcare, but they must be separate.
 
@@ -215,10 +215,10 @@ The NHS does not subsidise private healthcare.
 
 **Tips for choosing a private service:**
 
-- Ensure they are the profession that you are seeking, for example: Dietitians and nutritionists are not the same; Psychologists, psychotherapists and psychiatrists are not the same. (See details of professional roles on the <a href="/information/treatments/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page).
+- Ensure they are the profession that you are seeking, for example: Dietitians and nutritionists are not the same; Psychologists, psychotherapists and psychiatrists are not the same. (See details of professional roles on the <a href="/information/treatments/who-may-be-involved" class="internal-link">Who May be Involved</a> page).
 - Look up the expertise of the provider. For example, does a private doctor have specialist expertise in Parkinson’s?
 - Check that the provider is registered.
-  - Most healthcare providers are legally required to be registered with a regulatory body as detailed on the<a href="/information/treatments/who-may-be-involved" class="internal-link">_Who May be Involved_</a> page.
+  - Most healthcare providers are legally required to be registered with a regulatory body as detailed on the<a href="/information/treatments/who-may-be-involved" class="internal-link">Who May be Involved</a> page.
 - The Professional Standards Authority holds a list of accredited voluntary registers which they have independently assessed against their own standards. They cover professions that are not regulated by law, such as psychotherapists.
   - Review the reports for the provider by the <a href="www.cqc.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Care Quality Commission (CQC)</a>
   - Some professionals work across both NHS and private services whereas others just work in one.
