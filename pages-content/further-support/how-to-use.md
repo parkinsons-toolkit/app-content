@@ -38,6 +38,17 @@ The toolkit has a wealth of information on Parkinson’s and your overall health
 
 [Content to be added]
 
+
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/g4Wl9TGj0kk"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
+
 ## How to Personalise
 
 [Content to be added]
