@@ -247,7 +247,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Are you having suicidal thoughts or thoughts of self-harm?
 - Do you sometimes see or hear things that are not really there? Do you have any other unusual experiences?
 
-_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
+**Track your symptoms in the** <a href="/my-tracker" class="internal-link">My Tracker</a>:
 
 - This can help you to recall the details and help the professional identify patterns.
 - If your mood fluctuates during the day, track it over 2-3 days to see when it bothers you most. You could also record your sleep patterns if these vary. You could note any factors that you think may be related (i.e. things that seem to make your mood worse and things that seem to help). Also record when you take your medication as there may be a relationship.
