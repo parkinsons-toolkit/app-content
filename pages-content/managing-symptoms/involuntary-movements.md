@@ -100,7 +100,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Does dyskinesia cause you balance problems or falls?
 - Have you sustained any injuries related to the extra movements?
 
-_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
+**Track your symptoms in the** <a href="/my-tracker" class="internal-link">My Tracker</a>:
 
 - This can help you to recall the details and help the professional identify patterns.
 - For 3-5 days you could monitor your dyskinesias and when you take your medication. This will help you to notice any patterns in your dyskinesias.
