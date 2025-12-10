@@ -164,7 +164,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Bowel changes
 - Alcohol consumption
 
-_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
+**Track your symptoms in the** <a href="/my-tracker" class="internal-link">My Tracker</a>:
 
 - This can help you to recall the details and help the professional identify patterns.
 - You could monitor your symptoms for 3 days. Record when you feel tired and when you take your drugs to see if there is a relationship. You could also record how much you are sleeping at night or in the day.
