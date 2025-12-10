@@ -191,7 +191,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Is it complete or partial loss of taste/smell? Or is it altered experience of taste/smell? (e.g. metallic taste in the mouth).
 - Have you had a cold or ‘flu like symptoms?
 
-_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
+**Track your symptoms in the** <a href="/my-tracker" class="internal-link">My Tracker</a>:
 
 - This can help you to recall the details and help your health professional look for patterns.
 - If your symptoms come and go, recording them can help you to identify patterns. For example, whether the symptom might improve with changes in Parkinson’s medications.
