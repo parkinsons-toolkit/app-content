@@ -111,7 +111,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Are there times when you feel like yourself and engaged, and other times when you feel disinterested and can’t be bothered? Or is it continuous?
 - Have you noticed any relationship with your medication?
 
-_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
+**Track your symptoms in the** <a href="/my-tracker" class="internal-link">My Tracker</a>:
 
 - This can help you to recall the details and help your health professional look for patterns.
 - It can be that you have difficulty remembering when it is a problem. If so, you could make a note of it in the diary in the days or week before your appointment.
