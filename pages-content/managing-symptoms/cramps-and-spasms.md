@@ -91,7 +91,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - How does it impact on your daily activities or sleep?
 - Does anything help it / make it worse?
 
-_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
+**Track your symptoms in the** <a href="/my-tracker" class="internal-link">My Tracker</a>:
 
 - This can help you to recall the details and help the professional identify patterns. It may influence medication adjustments. Bring your record to your specialist appointment.
 - You could record when the dystonia happens, if you are ‘on’ or ‘off’ when you experience dystonia, and when you have taken your medication.
