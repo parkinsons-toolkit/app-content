@@ -106,7 +106,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 
 Ensure you tell them if you have had any times when you have fainted. They may ask when the problem started, and things you have tried already to help.
 
-_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
+**Track your symptoms in the** <a href="/my-tracker" class="internal-link">My Tracker</a>:
 
 - This can help you to recall the details of when sweating is a problem for you and help the professional identify patterns.
 - Perhaps for 3 days record when the problem occurs and what you are doing at the time. Also record whether you have any other symptoms at the time and when you have taken your medication.
