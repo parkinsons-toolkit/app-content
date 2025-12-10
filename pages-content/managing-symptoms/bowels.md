@@ -53,9 +53,9 @@ There are many things you can try for yourself, but there are some circumstances
 - Abdominal or anal pain
 - Diarrhoea following a period of constipation (see above)
 - Significant change in your bowel habit that lasts 4 weeks or more
-- Unintentional significant weight loss (see the <a href="/information/managing-symptoms/weight" class="internal-link">_Weight_</a> page)
+- Unintentional significant weight loss (see the <a href="/information/managing-symptoms/weight" class="internal-link">Weight</a> page)
 - New bowel incontinence
-- If you have tried the suggestions listed below under _What can I try for myself?_ and the problem persists after a month
+- If you have tried the suggestions listed below under [What can I try for myself?](#what-can-i-try-for-myself) and the problem persists after a month
 
 ## What can I try for myself?
 
@@ -88,7 +88,7 @@ In Parkinson’s, constipation is common due to slowing down of the bowel contra
 
 ## What should I do about it?
 
-There are many things you can try for yourself (see _What can I try for myself_), but there are some circumstances where you should seek professional help. If you are in severe pain or passing a lot of blood in the stools you should contact your GP to be seen urgently or go to A&E.
+There are many things you can try for yourself (see [What can I try for myself?](#what-can-i-try-for-myself)), but there are some circumstances where you should seek professional help. If you are in severe pain or passing a lot of blood in the stools you should contact your GP to be seen urgently or go to A&E.
 
 **See your GP if you have had any of the following:**
 
@@ -98,7 +98,7 @@ There are many things you can try for yourself (see _What can I try for myself_)
 - Significant change in your bowel habit that lasts 4 weeks or more
 - Unintentional significant weight loss (see weight loss page)
 - New bowel incontinence
-- If you have tried the suggestions listed in _What can I try for myself?_ and the problem persists after a month.
+- If you have tried the suggestions listed in [What can I try for myself?](#what-can-i-try-for-myself) and the problem persists after a month.
 
 ## What can I try for myself?
 
@@ -120,9 +120,9 @@ Dehydration contributes to constipation, and fluids are needed to treat dehydrat
 <ins>**How much fluid?**</ins> In general, 1.5-2L of fluid (8-10 cups or medium glasses) per day is advised. You will need more if it is hot or you are exerting more energy. People stop feeling thirsty before the body is completely rehydrated so you should drink even if you are not thirsty. You can also lose your sense of thirst a bit when you get older. The colour of urine is a good indicator of hydration; if you are drinking enough your urine should be a straw or pale-yellow colour.
 
 **Tips on drinking enough:**  
-_Tip 1: It is difficult to drink this much fluid for some people. You could try drinking a small glass of water each time you take your medication and a glass of water or a drink (e.g. cup of tea) with each meal. _
+Tip 1: It is difficult to drink this much fluid for some people. You could try drinking a small glass of water each time you take your medication and a glass of water or a drink (e.g. cup of tea) with each meal.
 
-_Tip 2: All sorts of fluid count towards your daily amount, it doesn’t have to be just water. Fruit juices, squash, hot drinks (e.g. tea, coffee), milk and low alcohol beer all count. Remember you can also have fluid in your food which counts too, such as milk in cereal or soups._
+Tip 2: All sorts of fluid count towards your daily amount, it doesn’t have to be just water. Fruit juices, squash, hot drinks (e.g. tea, coffee), milk and low alcohol beer all count. Remember you can also have fluid in your food which counts too, such as milk in cereal or soups.
 
 **Caution: If you have been advised to limit your fluid intake for another health reason (e.g. heart or kidney disease), then speak to your healthcare professional first.**
 
@@ -141,7 +141,7 @@ Certain fruits help draw water into the bowel to soften the stool. Increasing in
 
 ### Activity
 
-Being physically active improves the movement of the bowels. If you can, try going for a walk every day. See <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> for advice on how to achieve this.
+Being physically active improves the movement of the bowels. If you can, try going for a walk every day. See <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">Keeping Active</a> for advice on how to achieve this.
 
 ### Toileting advice
 
@@ -149,7 +149,7 @@ Being physically active improves the movement of the bowels. If you can, try goi
 - Allow adequate time.
 - Position affects ease of bowel opening. Try raising your feet up on a stool when sat on a toilet as this can ease bowel opening. If possible, the best position is with your knees higher than your hips.
 - Avoid resisting the urge to go to the toilet as this can cause constipation.
-- _There is <ins>not</ins> suitable evidence to recommend “abdominal massage” as a technique for treating constipation._
+- <ins>There is **not** suitable evidence to recommend “abdominal massage” as a technique for treating constipation.</ins>
 
 ### Over-the-counter medications
 
@@ -166,32 +166,31 @@ There is limited research in this area, complicated by the wide variety of strai
 
 #### Fibre supplements
 
-If you have not got enough fibre in your diet, supplementation may be considered. The widely available fibre supplement is _psyllium husk_, or _ispaghula husk_ – the ingredient of the laxative _Fybogel_.
+If you have not got enough fibre in your diet, supplementation may be considered. The widely available fibre supplement is <ins>psyllium husk</ins>, or <ins>ispaghula husk</ins> – the ingredient of the laxative <ins>Fybogel</ins>.
 
 #### Laxatives
 
 Many people with Parkinson’s need to take laxatives on a regular and long-term basis to keep the bowels opening regularly. Laxatives only work if you are adequately hydrated. Laxatives are available from chemists and come in different types:
 
-- **Bulk-forming laxatives** contain fibre and increase the bulk of the stool. This, in turn, stimulates the bowel. They can take a few days to work. Example: _Fybogel_.
-- **Osmotic laxatives** draw water into the bowel to soften the stool. They can take a few days to work. Examples: _Lactulose, Movicol, and Macrogol_.
-- **Stool softener laxatives** encourage water into the stool to soften it. Examples: _sodium docusate_ and _arachis oil_.
-- **Stimulant laxatives** stimulate the bowel to move the stool along. They take about 6–12 hours to work and can become less effective if used for a prolonged period of time. Examples: _senna (Senokot)_ and _bisacodyl (Dulcolax)_.
+- **Bulk-forming laxatives** contain fibre and increase the bulk of the stool. This, in turn, stimulates the bowel. They can take a few days to work. Example: <ins>Fybogel</ins>.
+- **Osmotic laxatives** draw water into the bowel to soften the stool. They can take a few days to work. Examples: <ins>Lactulose, Movicol, and Macrogol</ins>.
+- **Stool softener laxatives** encourage water into the stool to soften it. Examples: <ins>sodium docusate</ins> and <ins>arachis oil</ins>.
+- **Stimulant laxatives** stimulate the bowel to move the stool along. They take about 6–12 hours to work and can become less effective if used for a prolonged period of time. Examples: <ins>senna (Senokot)</ins> and <ins>bisacodyl (Dulcolax)</ins>.
 
-<ins>_Side effects of laxatives:_</ins> The most common side effects are bloating, cramping or nausea. These often settle or may be improved by taking a smaller amount of the laxative. Overuse of laxatives can cause dehydration.
+**<ins>Side effects of laxatives:</ins>** The most common side effects are bloating, cramping or nausea. These often settle or may be improved by taking a smaller amount of the laxative. Overuse of laxatives can cause dehydration.
 
-<ins>_Which to choose?:_</ins> Research has shown that _Macrogol_ is likely to be effective in Parkinson’s and is safe. If one type of laxative is not effective, another type could be added in as well. Generally, osmotic or bulk-forming laxatives are advised first, while stimulant laxatives are a later choice.
+**<ins>Which to choose?:</ins>** Research has shown that <ins>Macrogol</ins> is likely to be effective in Parkinson’s and is safe. If one type of laxative is not effective, another type could be added in as well. Generally, osmotic or bulk-forming laxatives are advised first, while stimulant laxatives are a later choice.
 
 #### Finding toilets
 
-If finding toilets when out and about is a concern, the _National Key Scheme_ may help. This system allows people with a disability to unlock more than 9,000 accessible public toilets across the UK. For more information, see the <a href="https://www.disabilityrightsuk.org/radar-keys?srsltid=AfmBOophjHsd-3Hg87Sw7Q3ebdt_t7h-HI0iKErqzf9-Pxg46jZt8qaK" class="external-link" target="_blank" rel="noopener noreferrer">_Disability Rights UK_</a> website. You can use this website to buy a ‘Radar Key’ and/or Radar Key Region List.
+If finding toilets when out and about is a concern, the **National Key Scheme** may help. This system allows people with a disability to unlock more than 9,000 accessible public toilets across the UK. For more information, see the <a href="https://www.disabilityrightsuk.org/radar-keys?srsltid=AfmBOophjHsd-3Hg87Sw7Q3ebdt_t7h-HI0iKErqzf9-Pxg46jZt8qaK" class="external-link" target="_blank" rel="noopener noreferrer">Disability Rights UK</a> website. You can use this website to buy a ‘Radar Key’ and/or Radar Key Region List.
 
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
-> _“The shaking upsets my bowels and my bladder which is, you can imagine…Sometimes I go into the toilet taking with me magazines and settle down.”_
->
-> _(Person with Parkinson’s, P17)_
+> “The shaking upsets my bowels and my bladder which is, you can imagine…Sometimes I go into the toilet taking with me magazines and settle down.”
+> (Person with Parkinson’s)
 
 ## Further assessment
 
@@ -199,7 +198,7 @@ If the suggested strategies are not working, then consult your GP or Parkinson�
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -216,7 +215,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 
 - This can help you to recall the details and help your health professional look for patterns.
 - Try to monitor constipation for about a week. The details that are helpful to record include:
-  - Bowel movements. Detail can be helpful: small/medium/large, hard/soft/watery. The _Bristol Stool Chart_ is the chart used by professionals to describe the stool (see the useful links at the bottom of this page).
+  - Bowel movements. Detail can be helpful: small/medium/large, hard/soft/watery. The **Bristol Stool Chart** is the chart used by professionals to describe the stool (see the useful links at the bottom of this page).
   - Your food and fluid intake.
 
 ### Tests
@@ -275,4 +274,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
