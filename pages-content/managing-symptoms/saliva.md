@@ -113,7 +113,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Any changes in your speech?
 - Are you persistently thirsty and peeing more often? o Do you have dry eyes?
 
-_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
+**Track your symptoms in the** <a href="/my-tracker" class="internal-link">My Tracker</a>:
 
 - It is helpful to track your problems with saliva. You can show it to healthcare workers.
 - This might reveal a pattern. Like a particular time of day that this is a problem, or a pattern with your medications.
