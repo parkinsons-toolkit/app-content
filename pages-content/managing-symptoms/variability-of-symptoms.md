@@ -116,7 +116,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - The timing of the fluctuations in your symptoms (for example when you feel ‘off’ and how long for).
 - How you feel at the different times (e.g. stiff movements, or low mood) o Your current medication in detail (including what you take, when, and how) and how you feel your body responds to the medication.
 
-_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
+**Track your symptoms in the** <a href="/my-tracker" class="internal-link">My Tracker</a>:
 
 - This can help you to recall the details and help your health professional look for patterns.
 - This is particularly useful for variable symptoms. It can help you and your specialist understand how your medication affects you, how often you are having difficulties, and guides medication adjustment.
