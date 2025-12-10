@@ -129,7 +129,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Do you notice any response to medication?
 - How does it impact your daily activities?
 
-_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
+**Track your symptoms in the** <a href="/my-tracker" class="internal-link">My Tracker</a>:
 
 - This can help you to recall the details and help the professional identify patterns.
 - You could record times when movements are most difficult, and when you take your medication during the day. 3-5 days of tracking should be enough to see a pattern.
