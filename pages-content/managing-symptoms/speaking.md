@@ -110,7 +110,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Can you hear as well as you used to?
 - Lifestyle: smoking and alcohol
 
-_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
+**Track your symptoms in the** <a href="/my-tracker" class="internal-link">My Tracker</a>:
 
 - This can help you to recall the details and help the professional identify patterns.
 - For speech problems you could record:
