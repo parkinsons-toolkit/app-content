@@ -140,7 +140,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Has your voice changed?
 - Do you have heartburn, nausea or vomiting?
 
-_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
+**Track your symptoms in the** <a href="/my-tracker" class="internal-link">My Tracker</a>:
 
 - It can be helpful to track your swallowing problems for 3 days to show healthcare professionals. This will help them identify any patterns.
 - Record when it happens, what types of foods or drinks are difficult to swallow, any other issues you are having around swallowing, and when you take your medications.
