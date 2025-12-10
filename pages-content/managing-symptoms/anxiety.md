@@ -67,7 +67,7 @@ Some people are generally anxious about any stressful and potentially threatenin
 
 Anxiety can be caused by a combination of factors. Such factors include imbalances in brain chemicals, genetics, and stressful life events. People who have been anxious throughout their life may find that their anxiety has got worse since their Parkinson’s started. This may be due to the brain changes, or because Parkinson’s increases the number of ‘threats’ faced day-to-day. In other words, they may have more to be anxious about.
 
-Some symptoms of Parkinson’s can cause anxiety or make it worse. For example, after a fall or loss of balance, you may develop a fear of falling. See the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page for guidance on this.
+Some symptoms of Parkinson’s can cause anxiety or make it worse. For example, after a fall or loss of balance, you may develop a fear of falling. See the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">Balance & Falls</a> page for guidance on this.
 
 Some people experience anxiety when their medication is wearing off. This improves once they take their next dose of medication. You can also feel anxious if your medication is wearing off and you experience difficulties moving. You may find that when your movement symptoms are better controlled by medication, your levels of anxiety reduce.
 
@@ -111,7 +111,7 @@ Being more active can help to combat stress and reduce anxiety. You may choose t
 - Leave the car at home for short journeys
 - Get off the bus a stop earlier and walking the rest of the journey
 
-See <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> pages for more guidance.
+See <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">Keeping Active</a> pages for more guidance.
 
 If you have any concerns about safe and suitable exercise routines, discuss with your GP or a physiotherapist who will be able to recommend exercise that is right for you.
 
@@ -121,19 +121,19 @@ Maintaining a healthy, balanced diet is important for everyone. The food we eat 
 
 It can help to cut down on the amount of caffeine (found in tea, coffee, and some fizzy drinks) and alcohol you drink. This is because these can make some symptoms of anxiety (e.g. heart racing) worse.
 
-Healthy eating habits can play an important role in improving our mood and general sense of well-being. See <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> for more guidance.
+Healthy eating habits can play an important role in improving our mood and general sense of well-being. See <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">Eating Well</a> for more guidance.
 
 ### Keep socially active
 
 Sharing any worries or fears you may have with a friend or family member may help to reduce anxiety levels. Talking to others with Parkinson’s can also help by sharing your experiences and learning about different coping mechanisms or solutions to similar problems.
 
-You can look out for new opportunities from activities offered through local colleges, churches, leisure facilities, charities, and societies. You can search for activities and groups in your area on the government website <a href="https://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a>. Your local library can also be a good source of information about what is available in your area. If you need support with travelling to events, see our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for advice.
+You can look out for new opportunities from activities offered through local colleges, churches, leisure facilities, charities, and societies. You can search for activities and groups in your area on the government website <a href="https://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a>. Your local library can also be a good source of information about what is available in your area. If you need support with travelling to events, see our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">Travel</a> page for advice.
 
-Visit our <a href="/information/living-with-parkinsons/optimising-wellbeing/social-and-spiritual-life" class="internal-link">_Social & Spiritual Life_</a> page for more information on how you can keep socially active.
+Visit our <a href="/information/living-with-parkinsons/optimising-wellbeing/social-and-spiritual-life" class="internal-link">Social & Spiritual Life</a> page for more information on how you can keep socially active.
 
 ### Sleep
 
-Many people with anxiety or worry may find it difficult getting to sleep. Our <a href="/information/managing-symptoms/sleep" class="internal-link">_Sleep_</a> page has some information on this and what you can try to help.
+Many people with anxiety or worry may find it difficult getting to sleep. Our <a href="/information/managing-symptoms/sleep" class="internal-link">Sleep</a> page has some information on this and what you can try to help.
 
 ### Relaxation
 
@@ -168,7 +168,7 @@ Complementary therapies include massage, acupuncture and aromatherapy. These the
 Check with your GP, specialist, or Parkinson’s nurse if you wish to take anything by mouth or apply it to your skin as a complementary therapy.
 
 See our <a href="/information/treatments-and-therapies
-/complementary-therapies" class="internal-link">_Complementary Therapies_</a> page for more information.
+/complementary-therapies" class="internal-link">Complementary Therapies</a> page for more information.
 
 ### Resources for wellbeing and mental health
 
@@ -220,18 +220,16 @@ Practical planning and problem-solving can remove some stress and make avoidance
 People affected by Parkinson’s describe their experiences.
 
 > “In a sense, this is a similar process to a bereavement and you need time to adjust before getting back on an even keel. I worried that the level of anxiety I felt in the weeks after diagnosis were a symptom of Parkinson's and would be with me for life. When a distant friend told me that life would be good again, I remember being really surprised but also encouraged.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 > “It’s weird. There's no reason, absolutely no reason why I should be [anxious]. It just seems to build up and get worse. No, I can't put it down to anything. There's nothing in particular that I can think of that makes it start. It just comes over you. ….I think if I just breathe. What I usually do is I’ll sit back and I’ll sort of take deep breaths and then I just sort of think, ‘calm down, just calm down’, you know, and sort of bring myself back again. So, that’s the only way I can get out of it, really. Or go and sit and do some drawing or go sit and put the television on and takes my mind off it”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 ## Further Assessment
 
 At times, feelings of anxiety are completely normal. But, anxiety can begin to disrupt your day-to-day life or cause you distress. If this is the case, it is important to seek help from healthcare professionals.
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They might ask about:**
 
@@ -241,7 +239,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Thoughts or actions related to mood, such as thinking about self-harm or suicide
 - How anxiety is impacting your life, for example your sleep
 
-_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
+**<ins>Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:</ins>**
 
 - This can help you to recall the details and help the professional identify patterns.
 - Monitor when you’re anxious and what’s happening for you at that time. Write down anything that may be related to the anxiety (i.e. things that seem to make your anxiety worse and things that appear to make it better). Make a note of any physical symptoms and when you take your medication. Try to do this for three days – this should be enough to be able to look for a pattern.
@@ -317,4 +315,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
