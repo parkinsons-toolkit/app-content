@@ -239,7 +239,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Thoughts or actions related to mood, such as thinking about self-harm or suicide
 - How anxiety is impacting your life, for example your sleep
 
-**<ins>Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:</ins>**
+**Track your symptoms in the** <a href="/my-tracker" class="internal-link">My Tracker</a>:
 
 - This can help you to recall the details and help the professional identify patterns.
 - Monitor when you’re anxious and what’s happening for you at that time. Write down anything that may be related to the anxiety (i.e. things that seem to make your anxiety worse and things that appear to make it better). Make a note of any physical symptoms and when you take your medication. Try to do this for three days – this should be enough to be able to look for a pattern.
