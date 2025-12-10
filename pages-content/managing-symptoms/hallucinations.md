@@ -103,7 +103,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - Have you felt low in mood or depressed?
 - How is your sleep at night?
 
-_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
+**Track your symptoms in the** <a href="/my-tracker" class="internal-link">My Tracker</a>:
 
 - This can help you to recall the details and help the professional identify patterns.
 - You could monitor when the hallucinations or related symptoms are happening, and if anything seems to make them worse or better. If there is a change (e.g. they become more upsetting) then note this down.
