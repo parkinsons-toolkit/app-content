@@ -105,7 +105,7 @@ See our _Optimising Wellbeing_ pages within the <a href="/information/living-wit
 - **Lists** – e.g. a “To-do-list” or a list of things to take with you when you go out. You can record lists and memos here: <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a>.
 - **Calendars/organisers** – e.g. to help remember your appointments or friends’ birthdays. You can enter your appointments and set reminders here: <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a>.
 - **Clocks and alarms** – Having a prominent and easy-to-read clock may help your timekeeping. Many devices allow you to set alerts (e.g. setting an alarm clock or a phone alarm to remind you to take your medication or setting the oven timer to remind you when dinner is ready).
-- **Keep track** – if you are struggling to remember things that have happened, you could record them for future reference. If you are struggling to remember what has been happening with your Parkinson’s when speaking with healthcare professionals, you could try recording things using the _Symptom & Activity Tracker_.
+- **Keep track** – if you are struggling to remember things that have happened, you could record them for future reference. If you are struggling to remember what has been happening with your Parkinson’s when speaking with healthcare professionals, you could try recording things using the <a href="/my-tracker" class="internal-link">My Tracker</a>.
 
 ### Establish Routines
 
@@ -151,7 +151,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 
 They may ask questions to assess different aspects of memory and thinking. Try not to worry about this too much as getting stressed can make it harder.
 
-_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
+**Track your symptoms in the** <a href="/my-tracker" class="internal-link">My Tracker</a>:
 
 - This can help you to recall the details and help the professional identify patterns.
 - If you think the problem is variable, try recording when it is at its best and when it is at its worst. Note what you have done on those days that is different compared to a typical day.
