@@ -134,7 +134,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 - How is it impacting you? (e.g. mood, work, driving, relationships)
 - Some clinicians use scoring systems so may go through a specific list of symptoms, such as the Parkinson’s Disease Sleep Scale.
 
-_**Track your symptoms in the <a href="/my-tracker" class="internal-link">My Tracker</a>:**_
+**Track your symptoms in the** <a href="/my-tracker" class="internal-link">My Tracker</a>:
 
 - This can help you to recall the details and help your health professional look for patterns.
 - For sleep disturbance, it is useful to record when it occurs and exactly what happens. It can be helpful to record when you take your medication as well to see if it is related to sleep disturbance.
