@@ -37,8 +37,8 @@ Parkinson’s tremor is usually seen when the affected body part is at rest. Thi
 
 Non-Parkinson’s tremor can be due to multiple factors:
 
-- _Physiological tremor_ is a normal body response to situations that provoke feelings of fear, stress, or anxiety.
-- _Essential tremor_ is usually seen when body parts are in motion – for example, a tremor that is worse with holding a cup and drinking; but can also affect the voice, head, body and legs. It also tends to affect both sides of the body from onset. It is a common tremor, and it can be difficult to differentiate between this and a Parkinson’s tremor.
+- **Physiological tremor** is a normal body response to situations that provoke feelings of fear, stress, or anxiety.
+- **Essential tremor** is usually seen when body parts are in motion – for example, a tremor that is worse with holding a cup and drinking; but can also affect the voice, head, body and legs. It also tends to affect both sides of the body from onset. It is a common tremor, and it can be difficult to differentiate between this and a Parkinson’s tremor.
 - Tremors can also be caused by some medications (such as salbutamol inhalers), caffeine, some imbalances of blood chemistry (such as high levels of thyroid hormones, or low blood sugar levels), and in response to withdrawal of alcohol having become dependent.
 
 Whatever the cause, most tremors get worse when the individual is anxious or stressed.
@@ -63,25 +63,22 @@ There are many things you can try for yourself as below. If despite these, the t
 
 You may find different things that make the tremor more or less pronounced. Some things that have been researched are listed below.
 
-_These may make tremor less pronounced:_
+**These may make tremor <ins>less</ins> pronounced:**
 
 - Activities that decrease or manage stress or anxiety: yoga, tai chi, deep breathing exercises, self-relaxation techniques.
 - Some people find that exercise reduces their tremor.
 - Many people also find it helpful to talk with others with Parkinson’s about their symptoms.
 
-_These may make tremor more pronounced:_
+**These may make tremor <ins>more</ins> pronounced:**
 
 - Stress or anxiety, or any emotional response
 - Caffeine
 
 Sometimes tremors can make specific tasks more difficult. Extra adaptations, support or equipment may be needed for those tasks:
 
-- Eating and drinking – special cutlery or cups may help – see <a href="/information/living-with-parkinsons
-  /practical-advice/daily-living" class="internal-link">_Daily Living_</a> page for more ideas.
-- Taking medication – pill organisers may be easier to handle than the original packets – see <a href="/information/treatments-and-therapies
-  /medications" class="internal-link">_Medication_</a> page for more ideas.
-- Technology – some people find touch screen difficult to control with a tremor and find using a mouse easier; others use voice control. Most smartphones allow for voice dictation instead of typing. Similarly using a device such as an Alexa can be helpful. See our <a href="/information/living-with-parkinsons
-  /practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> page for more ideas.
+- Eating and drinking – special cutlery or cups may help – see <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">Daily Living</a> page for more ideas.
+- Taking medication – pill organisers may be easier to handle than the original packets – see <a href="/information/treatments-and-therapies/medications" class="internal-link">Medication</a> page for more ideas.
+- Technology – some people find touch screen difficult to control with a tremor and find using a mouse easier; others use voice control. Most smartphones allow for voice dictation instead of typing. Similarly using a device such as an Alexa can be helpful. See our <a href="/information/living-with-parkinsons/practical-advice/reading-writing-and-technology" class="internal-link">Reading, Writing & Technology</a> page for more ideas.
 
 ## My Experience
 
@@ -98,18 +95,16 @@ Sometimes tremors can make specific tasks more difficult. Extra adaptations, sup
 People affected by Parkinson’s describe their experiences.
 
 > “For me, my tremor can lead to tension/aching in the whole arm and shoulder. As it is primarily a resting tremor, I find it helpful to have something like a squeeze ball or fir cone to hold in the hand. Also, I find that using my hand for, say, knitting releases the tension in the arm.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 > “A couple of things occur to me from my own experience of tremor; things I didn’t realise when I was first diagnosed. One is that some skills are so engrained in the motor memory that they seem to bypass tremor. So, for some people, their tremor disappears when they are driving, riding a bicycle, playing golf or playing an instrument. So keep practising those scales! It’s a ‘use it or lose it’ thing. Also, being diagnosed with a tremor doesn’t draw a line under acquiring new skills. I was inspired to start learning the piano by a woman I met on a Parkinson’s Patients Committee who had taken up the saxophone. I’m now working on my Grade Three pieces.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 ## Further assessment
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -137,8 +132,7 @@ Having consulted a healthcare professional, they may offer reassurance or furthe
 
 **Some medications used for tremor:**
 
-- Parkinson’s medication: See our <a href="/information/treatments-and-therapies
-  /medications" class="internal-link">_Medication_</a> page for more information.
+- Parkinson’s medication: See our <a href="/information/treatments-and-therapies/medications" class="internal-link">Medication</a> page for more information.
 - Anticholinergics (e.g. trihexyphenidyl)
 - Beta blockers (e.g. propranolol)
 
@@ -155,8 +149,7 @@ Having consulted a healthcare professional, they may offer reassurance or furthe
 
 - You may be referred on to another service.
 - If your tremor is causing difficulty with daily activities, your GP or Parkinson’s specialist team may refer you on to an occupational therapist to help assess and decide if you might benefit from additional equipment or support.
-- If your Parkinson’s specialist has exhausted all medication options and the tremor is still impacting your daily life a great deal then you may be a candidate for a surgical therapy such as Deep Brain Stimulation. If your Parkinson’s specialist team think that is the case, they may refer you to a specialist centre for further assessment. See <a href="/information/treatments-and-therapies/treatments-and-therapies
-  /advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Treatments & Surgical Treatments_</a> for more information.
+- If your Parkinson’s specialist has exhausted all medication options and the tremor is still impacting your daily life a great deal then you may be a candidate for a surgical therapy such as Deep Brain Stimulation. If your Parkinson’s specialist team think that is the case, they may refer you to a specialist centre for further assessment. See <a href="/information/treatments-and-therapies/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Treatments & Surgical Treatments</a> for more information.
 
 ## Key messages
 
@@ -170,4 +163,4 @@ Having consulted a healthcare professional, they may offer reassurance or furthe
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Parkinson’s UK | Explains the different types of tremor experienced in Parkinson’s, how they progress, and ways to manage their impact on daily life. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/tremor" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/tremor</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
