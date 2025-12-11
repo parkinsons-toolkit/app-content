@@ -26,15 +26,15 @@
 </iframe>
 </div>
 
-_Tiredness_ affects everyone now and then. It tends to have an obvious cause, such as poor sleep.
+**Tiredness** affects everyone now and then. It tends to have an obvious cause, such as poor sleep.
 
 Tiredness often goes away with rest.
 
-_Fatigue_ is more than simple tiredness. It can affect people in different ways. Sometimes it can be mild. Sometimes it can feel overwhelming. You may have a lack of energy and exhaustion. It can go on for a long time and impact day-to-day activity.
+**Fatigue** is more than simple tiredness. It can affect people in different ways. Sometimes it can be mild. Sometimes it can feel overwhelming. You may have a lack of energy and exhaustion. It can go on for a long time and impact day-to-day activity.
 
 Fatigue affects up to half of people with Parkinson’s. The exact cause of this is unknown but lots of factors can contribute.
 
-_Daytime sleepiness_ is falling asleep or feeling like you might fall asleep during the day.
+**Daytime sleepiness** is falling asleep or feeling like you might fall asleep during the day.
 
 ## What might be causing it?
 
@@ -44,7 +44,7 @@ There are lots of possible causes.
 
 Parkinson’s itself can cause fatigue and sleepiness, and fatigue may be an early symptom. In addition, drugs used in Parkinson’s can cause sleepiness. Tiredness can also occur when the medication wears off. This is noticed before the next dose is due.
 
-Another common cause of fatigue or tiredness are stress or feeling low, which can impact on sleep. See our page on _Low Mood and Anxiety_. Sleep problems due to other causes can also impact on daytime tiredness. See the page on _Sleep disturbances_.
+Another common cause of fatigue or tiredness are stress or feeling low, which can impact on sleep. See our page on <a href="/information/managing-symptoms/low-mood" class="internal-link">Low Mood</a> and <a href="/information/managing-symptoms/anxiety" class="internal-link">Anxiety</a>. Sleep problems due to other causes can also impact on daytime tiredness. See the page on <a href="/information/managing-symptoms/sleep" class="internal-link">Sleep Disturbances</a>.
 
 Less common causes of fatigue include some medical problems such as anaemia, diabetes or thyroid problems.
 
@@ -96,7 +96,7 @@ Further strategies are seen below; not all will be applicable to you.
 - Try to take regular breaks when you work.
 - Discuss how this can be achieved with your employer, who must make suitable adjustments.
   - See <a href="/information/living-with-parkinsons
-    /practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a> for more advice.
+    /practical-advice/work-and-caring" class="internal-link">Work & Caring</a> for more advice.
 
 **If you are at home:**
 
@@ -115,7 +115,7 @@ Further strategies are seen below; not all will be applicable to you.
 - Fatigue can cause people to be less active and the less active you become, the more tired you feel.
 - We know keeping active is good for people with Parkinson’s. It can help fatigue, mood, sleep and general health.
 - Do as much as you can handle; it can be as simple as chair-based exercises. See <a href="/information/living-with-parkinsons
-  /optimising-wellbeing/staying-active" class="internal-link">_Staying Active_</a> for ideas.
+  /optimising-wellbeing/staying-active" class="internal-link">Staying Active</a> for ideas.
 - If there is a pattern to your tiredness, plan to exercise regularly at times you have a bit more energy.
 
 ### Healthy Body and Mind
@@ -124,29 +124,26 @@ Further strategies are seen below; not all will be applicable to you.
 - As well as a healthy balanced diet, a small snack every few hours may help your energy levels.
 - There is no evidence that multi-vitamins or ‘tonics’ help if you have a good healthy diet.
 - Drinking too much alcohol can affect quality of sleep and make you tired.
-- See the <a href="/information/managing-symptoms/sleep" class="internal-link">_Sleep Difficulties_</a> page for more advice on getting good sleep.
+- See the <a href="/information/managing-symptoms/sleep" class="internal-link">Sleep Difficulties</a> page for more advice on getting good sleep.
 
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “With Parkinson’s, I use my energy wisely. I think to myself, what’s more important for me to do today. And I’ll put my energies there.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 > “It varies how I feel. If I don’t feel too good, I’m on the couch resting to get my energy levels up. I don’t push the body to do things that I know that I can’t. If I’m tired, I just stop. And I just wait until I feel better, then perhaps if I’ve not been out all day, I’ll go for a little brisk walk or something and get some fresh air and do that instead. Yes, the body kind of like tells you what to do rather than you tell it.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
-> “I love entertaining. I love cooking for people and having people in the home. But I’ve got to pace myself. I mean that’s just partly my age as well as having Parkinson’s. But I know that if we had a lot of people in and, if I’m having people around for dinner, I’ve got to make sure I’ve got a quiet day either side and I’ve got to plan ahead. So I’ll lay the table a couple of days before and I’ll try and shop and do a lot of the preparation before I actually have people round”
->
-> _(Person with Parkinson’s)_
+> “I love entertaining. I love cooking for people and having people in the home. But I’ve got to pace myself. I mean that’s just partly my age as well as having Parkinson’s. But I know that if we had a lot of people in and, if I’m having people around for dinner, I’ve got to make sure I’ve got a quiet day either side and I’ve got to plan ahead. So I’ll lay the table a couple of days before and I’ll try and shop and do a lot of the preparation before I actually have people round
+> (Person with Parkinson’s)
 
 ## Further Assessment
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They might ask** about a wide range of things if you see them for tiredness. This includes:
 
@@ -218,4 +215,4 @@ For most drugs causing drowsiness, combining them with drinking alcohol will mak
 | Michael J. Fox Foundation | This American organisation is committed to researching Parkinson’s. They provide information about topics such as fatigue and sleep, including steps to ease fatigue, tips for sleep, and ongoing research. | --                                                                                                                                                     | <a href="https://www.michaeljfox.org/news/fatigue-sleep" class="external-link" target="_blank" rel="noopener noreferrer">www.michaeljfox.org/news/fatigue-sleep</a>                               |
 | Parkinson’s UK            | Explores fatigue in Parkinson’s, covering its causes, treatment options, and practical advice on managing work, driving, and daily activities.                                                              | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/fatigue" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/fatigue</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
