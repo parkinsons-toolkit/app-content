@@ -25,18 +25,17 @@ This section explains the roles of professionals you might come across. The indi
 
 - Healthcare professionals that are trained in the science and everyday management of nutrition.
 - They use the most up-to-date public health and scientific research on food, health and disease. They translate this into practical guidance to enable people to make appropriate lifestyle and food choices.
-- They must be registered with the _Health and Care
-  Professions Council (HCPC)_ to work as a dietician in the UK.
+- They must be registered with the **Health and Care Professions Council (HCPC)** to work as a dietician in the UK.
 
-Note a _nutritionist_ is not the same as a _dietitian_ (though some nutritionists are registered dietitians). A qualified nutritionist will have knowledge about nutrition. However, they may not be trained to give individual dietary advice to people with medical conditions. Nutritionists are not legally required to be registered as above, though many are on voluntary registers.
+Note a <ins>nutritionist</ins> is not the same as a <ins>dietitian</ins> (though some nutritionists are registered dietitians). A qualified nutritionist will have knowledge about nutrition. However, they may not be trained to give individual dietary advice to people with medical conditions. Nutritionists are not legally required to be registered as above, though many are on voluntary registers.
 
 ### Doctors
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/doctors.jpg" alt="doctors" class="who-may-be-involved__doctors">
 
-- Must be registered with the _General Medical Council (GMC)_ to practice in the UK. They are required to maintain their knowledge and skill.
+- Must be registered with the **General Medical Council (GMC)** to practice in the UK. They are required to maintain their knowledge and skill.
 - **General Practitioners (GPs):** Generalists who deal with a wide range of problems. They have finished their training and are registered as a GP. It takes at least 10 years to become a GP.
-  - Some GPs have _special interests_ which are accredited topics of specialist knowledge. This adds on to their role as a generalist. They have completed the required training and are registered as a specialist. May be hospital or community based. It takes at least 12 years to become a consultant, depending on the topic.
+  - Some GPs have <ins>special interests</ins> which are accredited topics of specialist knowledge. This adds on to their role as a generalist. They have completed the required training and are registered as a specialist. May be hospital or community based. It takes at least 12 years to become a consultant, depending on the topic.
 - **Consultants:** Specialists with advanced knowledge in a narrower area. They have completed the required training and are registered as a specialist. May be hospital or community based. It takes at least 12 years to become a consultant, depending on the topic.
 - **Junior Doctors:** Qualified doctors but gaining experience in a particular area. This is a broad term that encompasses a range of experience, as specialty training takes many years. It includes all qualified doctors who are not consultants or GPs such as:
   - 'Registrar' or 'Specialty Trainees' is the step before becoming a GP or consultant, so they work in a particular area.
@@ -45,7 +44,7 @@ Note a _nutritionist_ is not the same as a _dietitian_ (though some nutritionist
 
 ### Healthcare Assistants (HCAs)
 
-Also known as _nursing assistants_, _nursing auxiliaries_ or _auxiliary nurses_.
+Also known as <ins>nursing assistants</ins>, <ins>nursing auxiliaries</ins> or _auxiliary nurses_.
 
 - They work in GP surgeries, community services or hospitals. Much of their training will be on the job.
 - Roles include:
