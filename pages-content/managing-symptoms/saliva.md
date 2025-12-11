@@ -96,14 +96,13 @@ Note if you have <ins>new</ins> weakness in the face, you should see your GP. <i
 People affected by Parkinson’s describe their experiences.
 
 > “If I didn’t dribble it would help, but sucking a polo helps. I tried sugary sweets, but that didn’t work very well. It got all sticky.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 ## Further Assessment
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -168,7 +167,7 @@ Most people do not need further tests.
 - Drugs for urinary symptoms (e.g., solifenacin, oxybutynin, tolterodine)
 - Water tablets (e.g., furosemide)
 
-Note: research does _not_ support the effectiveness of acupuncture or electrostimulation for dry mouth.
+Note: research does **not** support the effectiveness of acupuncture or electrostimulation for dry mouth.
 
 ## Key Messages
 
@@ -183,4 +182,4 @@ Note: research does _not_ support the effectiveness of acupuncture or electrosti
 | Parkinson’s Foundation | This American organisation provides detailed information on drooling as a movement-related symptom of Parkinson’s, including its causes, impact, and strategies for management. | --                                                                                                                                                     | <a href="https://www.parkinson.org/Understanding-Parkinsons/Symptoms/Movement-Symptoms/Drooling" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinson.org/Understanding-Parkinsons/Symptoms/Movement-Symptoms/Drooling</a>         |
 | Parkinson’s UK         | Offers advice on managing eating, swallowing, and saliva control difficulties in Parkinson’s, including practical tips and information on when to seek professional support.    | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-saliva-control" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-saliva-control</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
