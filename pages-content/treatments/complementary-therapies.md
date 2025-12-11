@@ -96,7 +96,7 @@ Here are some key points to know about cannabis:
 - Cannabis and cannabis-based medications can be prescribed for certain conditions, such as multiple sclerosis, but only under very specific circumstances and with very strict criteria to decide if a patient is suitable.
 - Currently, there is not enough evidence to support the use of cannabis-based products for Parkinson’s disease. However, several research studies are currently taking place to understand if cannabis could be beneficial for people with Parkinson’s and, if so, how.
 - In the UK, Cannabis is classified as a Class-B controlled substance. Having, making, or selling cannabis is illegal; this is due to its potential serious risks to physical and mental health.
-- See our <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more information on supplements.
+- See our <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">Eating Well</a> page for more information on supplements.
 
 **Helpful Resources about Cannabis & Parkinson's:**
 
@@ -150,10 +150,10 @@ If your healthcare team have no objections and support your use of a particular 
 ## My Experience
 
 > “ – my posture is not great. And I felt I wanted to do something for myself. And so, I applied for Pilates. So I contacted a body control Pilates teacher. And she’s been good because she picks me apart and then works on my posture and core stability”.
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 > “ I find some yoga stretches really help”
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 ## How do I access these?
 
@@ -202,4 +202,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
