@@ -23,6 +23,7 @@
 </iframe>
 </div>
 
+
 ‘Impulsive’ and ‘compulsive’ behaviours occur when someone has difficulty controlling urges or desires. This means they behave in a way that is out of character or undertake activities that they would not normally do. The individual may not be aware of the problem.
 
 People with impulsive and compulsive behaviours are driven to things that give instant reward. Examples of these behaviours or activities include sexual behaviours, gambling, binge eating and obsessive shopping. Other people may simply spend excessive amounts of time pursuing a hobby or with DIY in a way that interferes with other activities. People may also feel the need to take objects apart, or to continuously hold or handle objects in their hands. Note, the ‘reward’ might not be what you expect. For example, the act of gambling might give the ‘reward’ rather than winning, or the act of shopping rather than the product bought.
@@ -89,7 +90,7 @@ People may also be more likely to develop these behaviours if they are younger a
 </div>
 
 - Stress, anxiety and depression can make impulsive and compulsive behaviour changes worse.
-- See the _Optimising Wellbeing_ pages found within the <a href="/information/managing-symptoms/tremor" class="internal-link">_Living with Parkinson's_</a> section for tips on keeping well.
+- See the **Optimising Wellbeing** pages found within the <a href="/information/managing-symptoms/tremor" class="internal-link">Living with Parkinson's</a> section for tips on keeping well.
 
 ## Further Treatments
 
@@ -115,4 +116,4 @@ People may also be more likely to develop these behaviours if they are younger a
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Parkinson’s UK | Offer support and advice about impulsive and compulsive behaviours with Parkinson’s. There is information about causes, types of behaviours and speaking to your GP about them. <br><br>You can read this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/impulsive-and-compulsive-behaviours-parkinsons" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/impulsive-and-compulsive-behaviours-parkinsons</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
