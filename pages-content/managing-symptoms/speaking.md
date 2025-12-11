@@ -82,7 +82,7 @@ It is important you practise the following with a clear voice, as rehearsing wit
 - **Singing:** A hobby that may be a social and fun way to increase your confidence in your voice.
   - Singing exercises for your voice and breathing muscles may help your speaking voice.
   - There are singing classes all over the UK for people with Parkinson’s - some are run by Parkinson’s UK local groups. Or perhaps just singing in the shower.
-- **Socialising:** This gives you opportunities to practise your speech and improve confidence. See our <a href="/information/living-with-parkinsons/optimising-wellbeing/social-and-spiritual-life" class="internal-link">_Social & Spiritual Life_</a> page for more tips.
+- **Socialising:** This gives you opportunities to practise your speech and improve confidence. See our <a href="/information/living-with-parkinsons/optimising-wellbeing/social-and-spiritual-life" class="internal-link">Social & Spiritual Life</a> page for more tips.
 - **Reading aloud:** Whether it is stories, poetry or the news, try reading it out loud rather than in your head to exercise your speech.
 - **Apps:** Some people use an app on their phone or computer to show how many decibels they use when speaking. This can help you realise how quiet or loud you are talking. Normal conversation is around 60 – 70 decibels. If you are interested in this, ask your therapist, who may be able to advise you further.
 
@@ -90,15 +90,14 @@ It is important you practise the following with a clear voice, as rehearsing wit
 
 People affected by Parkinson’s describe their experiences.
 
-> _“I had one gentleman who loved telling stories to his grandchildren. So I said, Well why don’t you record them and, if you record it loud enough, then that’s your exercise.”_
->
-> _(Speech & Language Therapist)_
+> “I had one gentleman who loved telling stories to his grandchildren. So I said, Well why don’t you record them and, if you record it loud enough, then that’s your exercise.”
+> (Speech & Language Therapist)
 
 ## Further Assessment
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They might ask about**
 
@@ -150,7 +149,7 @@ Most cases do not need further tests. Depending on the healthcare professional�
 - Parkinson’s drugs (e.g. levodopa) may help your speech.
 - Response to Parkinson's drugs changes over time. For example, your voice may be stronger when the drugs are working well and softer or weaker when your drugs are not working well.
 - Changes to your Parkinson’s drugs may give you better control over speech problems.
-- See <a href="/information/managing-symptoms/variability-of-symptoms" class="internal-link">_Variability of Symptoms_</a> for more information about these changes in your speech and other symptoms.
+- See <a href="/information/managing-symptoms/variability-of-symptoms" class="internal-link">Variability of Symptoms</a> for more information about these changes in your speech and other symptoms.
 
 ## Key Messages
 
@@ -166,4 +165,4 @@ Most cases do not need further tests. Depending on the healthcare professional�
 | Parkinson’s UK            | These Parkinson’s UK pages explain how Parkinson’s can affect speech and communication and highlight the role of speech and language therapy in improving clarity, confidence, and interaction.<br><br>You can view information online, print it or have it mailed to you.<br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | 808 800 0303 | Speech and Communication Problems: <a href="http://www.parkinsons.org.uk/information-and-support/speech-and-communication-problems" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinsons.org.uk/information-and-support/speech-and-communication-problems</a><br><br>Speech and Language Therapy: <a href="https://www.parkinsons.org.uk/information-and-support/speech-and-language-therapy" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/speech-and-language-therapy</a> |
 | SLT UK                    | Offers expert speech and language therapy services across the UK, with this page providing detailed information on dysarthria, its types, causes, and personalised treatment options to improve speech and communication.                                                                                                                                                                                          | --           | <a href="http://www.slt.co.uk/conditions/speech-disorders/dysarthia/" class="external-link" target="_blank" rel="noopener noreferrer">http://www.slt.co.uk/conditions/speech-disorders/dysarthia/</a>                                                                                                                                                                                                                                                                                                                                                                                |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
