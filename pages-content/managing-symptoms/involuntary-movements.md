@@ -25,6 +25,7 @@
 </iframe>
 </div>
 
+
 ‘Dyskinesias’ are typically quick muscle movements that you cannot control. These movements include wriggling, writhing, twisting, head bobbing, or swaying motions. They can affect one part of the body (e.g. the trunk), arms or legs, or the whole body.
 
 Some people experience dyskinesia when their medications are at the highest levels in the body. Others have dyskinesia when their medications are at the lowest levels in the body (i.e. just before or just after taking medication).
@@ -45,7 +46,7 @@ Dyskinesia tends to get worse when stressed or anxious.
 
 If dyskinesias aren’t bothering you or impacting on your daily life, then there's nothing you need to do.
 
-If there are lots of extra movements, this can burn extra calories and cause unintended weight loss (see the <a href="/information/managing-symptoms/weight" class="internal-link">_Weight_</a> page for more information).
+If there are lots of extra movements, this can burn extra calories and cause unintended weight loss (see the <a href="/information/managing-symptoms/weight" class="internal-link">Weight</a> page for more information).
 
 There are some ideas below for how to manage your dyskinesia. But if they are impacting your daily life or bothering you, discuss them with your Parkinson’s specialist team.
 
@@ -79,14 +80,13 @@ You can explain to others that the extra movements are part of your Parkinson’
 People affected by Parkinson’s describe their experiences.
 
 > “It can be brought on by all sorts of different things and can cause falls and the like. If we go out, we try and plan it so that we go out at what is likely to be the best window of opportunity with the medication. If we leave it too long, then [dyskinesia] problems occur.”
->
-> _(Carer of Someone with Parkinson’s)_
+> (Carer of Someone with Parkinson’s)
 
 ## Further assessments
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -117,13 +117,13 @@ A healthcare professional may be able to offer support, advice, or further treat
 
 **Changes they might recommend:**
 
-- They may _**change the dose**_ of your antiparkinsonian medications, as lowering doses can sometime reduce dyskinesias (or occasionally increasing it).
-- They may change the _**timing**_ of your medication:
+- They may **<ins>change the dose</ins>** of your antiparkinsonian medications, as lowering doses can sometime reduce dyskinesias (or occasionally increasing it).
+- They may change the **<ins>timing</ins>** of your medication:
   - Splitting the entire daily dose of levodopa into smaller, more frequent doses may be helpful for managing dyskinesia.
-- They may _**change**_ which medication you take:
+- They may **<ins>change</ins>** which medication you take:
   - For example, changing from one antiparkinsonian treatment to another.
   - Stopping or starting a long-acting antiparkinsonian medication.
-  - They may _**add**_ medications to your current regimen, for example adding one of the following medications:
+  - They may **<ins>add</ins>** medications to your current regimen, for example adding one of the following medications:
     - Amantadine
     - Dopamine agonist (e.g. ropinirole, or rotigotine)
     - COMT inhibitor (e.g. entacapone)
@@ -138,7 +138,7 @@ A healthcare professional may be able to offer support, advice, or further treat
   - Intraduodenal levodopa – continuous infusion of gel form levodopa via the intestine
   - Deep brain stimulation (DBS) surgery
 
-See <a href="/information/treatments/medications" class="internal-link">_Medication_</a> and <a href="/information/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> pages for more information.
+See <a href="/information/treatments/medications" class="internal-link">Medication</a> and <a href="/information/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a> pages for more information.
 
 ## Key Messages
 
@@ -157,4 +157,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*Calls cost up to 10p/minute from landlines, between 3p- 40p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
