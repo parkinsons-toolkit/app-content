@@ -63,14 +63,14 @@ You will learn and practice how to use the medication. The specialist centre wil
 
 ### What are the possible risks or side effects?
 
-_Many side effects of apomorphine are typical for dopamine agonists (such as apomorphine), and should be discussed with your specialist team:_
+**Many side effects of apomorphine are typical for dopamine agonists (such as apomorphine), and should be discussed with your specialist team:**
 
 - Nausea or vomiting
   - You will likely be given anti-nausea medication to start a few days before your trial of apomorphine and to continue taking for a short time while using the medication.
 - Sleepiness
 - Hallucinations
 - Problems with blood pressure
-- Changes in behaviour known as ‘impulse control disorders’ (see the <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page for more information).
+- Changes in behaviour known as ‘impulse control disorders’ (see the <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">Impulsive Behaviours</a> page for more information).
 - Overuse of medication. This can lead to dopamine dysregulation syndrome.
 
 ### What do I do if I have a problem afterwards?
@@ -87,7 +87,7 @@ Apomorphine (a dopamine agonist) is delivered continuously via a small pump. The
 
 You may be able to have an apomorphine pump if:
 
-- You have problems with <a href="/information/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements (Dyskinesia)_</a>.
+- You have problems with <a href="/information/managing-symptoms/involuntary-movements" class="internal-link">Involuntary Movements (Dyskinesia)</a>.
 - Your tablet medication has stopped working so well. For example, you have multiple ’off’ periods.
 
 It is not likely to improve people beyond their current best and will not get rid of all motor symptoms. The goal of this treatment is to improve a person’s ability to carry out day-to-day tasks. It aims to give people a better quality of life.
@@ -111,14 +111,14 @@ A new needle is inserted each day. The medication is delivered through the needl
 The most common risk is skin nodule formation (small lumps under the skin). This occurs in most people with the pump. Things that may help to prevent this are excellent hygiene and proper needle insertion and rotation. Lumps may also be treated using ultrasound. You will also be required to undertake regular blood checks.
 
 Other possible side effects include:  
-_Many side effects of apomorphine are typical for dopamine agonists, and should be discussed with your specialist team:_
+**Many side effects of apomorphine are typical for dopamine agonists, and should be discussed with your specialist team:**
 
 - Nausea and vomiting
   - You will likely be given anti-nausea medication to start a few days before your trial of apomorphine and to continue taking for a short time while using the medication.
 - Hallucinations
 - Sleepiness
 - Blood pressure problems
-- Changes in behaviour known as ‘impulse control disorders’ (see the <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page for more information).
+- Changes in behaviour known as ‘impulse control disorders’ (see the <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">Impulsive Behaviours</a> page for more information).
 
 ### What do I do if I have a problem afterwards?
 
@@ -164,7 +164,7 @@ You may be considered for DBS if you:
 - can travel to the specialist centre that looks after DBS. There will be lifelong follow-up appointments; and
 - have symptoms that get better with levodopa. Symptoms that don’t get better with levodopa typically don’t improve with DBS.
 
-**Symptoms that _don’t_ tend to get better with DBS (if they don’t improve with levodopa):**
+**Symptoms that <ins>don’t</ins> tend to get better with DBS (if they don’t improve with levodopa):**
 
 - Speaking problems
 - Swallowing problems
@@ -177,7 +177,7 @@ You may be considered for DBS if you:
 - Low mood
 - Memory or thinking problems
 
-For more information about these symptoms, see the <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Mananging Symptoms_</a> pages.
+For more information about these symptoms, see the <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">Mananging Symptoms</a> pages.
 
 ### What should I expect from the assessment process?
 
@@ -245,8 +245,7 @@ People affected by Parkinson’s describe their experiences:
 > “We always came back to the fact that if we’ve tried medication and I still had problems, there’s the operation. We Googled it and my son found out about it. I didn’t want to have the operation because I thought it was too risky. But then it came to a stage where I thought yes, I have to have that. I had the professor who was really good, and then the Parkinson’s nurse. They were really helpful and kind of guided me, saying, you know, ‘Now’s the time for you to have the surgery because your body is sort of showing you that it’s not lasting enough on the tablets and then surgery’s an option if you want to go for it.’ Because you think, ‘Well I went into every avenue of the pills.’ I saw videos of the operation, of the DBS system.  
 > So once I had the operation, you know, I could talk to you now probably longer than before. And now I’m more able to sort of express myself in an easy speech. It’s a bit better since I had the stimulator put in. And then the, doing things without getting tired too much.  
 > Like they said, the operation will manage your symptoms and that’s what it’s doing. I’m managing my symptoms better than I was without the operation. They gave me quite a lot of support, the DBS team.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 ## Ultrasound
 
@@ -337,11 +336,9 @@ When you have the procedure and are set up with the equipment, you will be given
 
 ## Useful Organisations & Contacts
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
-
 | Organisation   | About                                                                                                                                                                                                                            | Phone Number                                                                                                                                           | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | NHS            | This NHS paper provides information about Duodopa Infusions. <br><br>(See pages 4-5 for a plain language summary)                                                                                                                | --                                                                                                                                                     | Clinical Commissioning Policy: Levodopa-Carbidopa Intestinal Gel (LCIG): <a href="https://www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2015/07/d04-p-e.pdf" class="external-link" target="_blank" rel="noopener noreferrer">www.england.nhs.uk/commissioning/wp-content/uploads/sites/12/2015/07/d04-p-e.pdf</a>                                                                                                                                                      |
 | Parkinson’s UK | Parkinson’s UK provides PDF leaflets with information on Apomorphine injections and pumps. There is also information on Deep Brain Stimulation. The leaflets discuss advantages, disadvantages and where to seek the treatments. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | Apomorphine: <a href="https://www.parkinsons.org.uk/information-and-support/apomorphine" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/apomorphine</a><br><br>Deep Brain Stimulation: <a href="https://www.parkinsons.org.uk/information-and-support/deep-brain-stimulation" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/deep-brain-stimulation</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
