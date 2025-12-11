@@ -32,7 +32,7 @@ Nausea can be described as feeling sick and can lead to vomiting.
 
 Both Parkinson’s itself and the drugs used to treat it can cause nausea. Nausea that started after recently starting any new drug should go away on its own with time.
 
-Constipation can cause nausea and is common in Parkinson’s. It can occur years before movement problems start. Please see the page on <a href="/information/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> for more information.
+Constipation can cause nausea and is common in Parkinson’s. It can occur years before movement problems start. Please see the page on <a href="/information/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a> for more information.
 
 An illness called gastroparesis can cause nausea. This is common in Parkinson's. It occurs when the stomach empties into the gut very slowly. It can cause changes, e.g., nausea, vomiting and feeling full after eating a small amount of food. This can lead to weight loss and dehydration.
 
@@ -65,7 +65,7 @@ The following may help relieve nausea. If these do not help, there are medicines
 - Drink ginger or peppermint tea
 - Eat food containing ginger
 - Eat smaller, more frequent meals
-- Follow our advice about <a href="/information/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a>
+- Follow our advice about <a href="/information/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a>
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/ginger.jpg" alt="ginger" class="nausea__ginger">
 
@@ -87,7 +87,7 @@ If this is a problem for you, try taking your medication at least half an hour b
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -152,4 +152,4 @@ You may be referred on to another service, e.g. dietician or gastroenterologist.
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Parkinson’s Foundation | Provides information about constipation as a non-movement symptom of Parkinson’s, including causes and management. | --           | <a href="https://www.parkinson.org/understanding-parkinsons/non-movement-symptoms/constipation" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinson.org/understanding-parkinsons/non-movement-symptoms/constipation</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
