@@ -91,7 +91,7 @@ Depression is more common in people who have many different long-term health con
 </div>
 
 There are many things you can try to help you deal with low mood or depression (see below ‘What can I try for myself?’). At times, feelings of low mood are completely normal. But, if you have these feelings for most of the day, every day for more than 2 weeks, you should make an appointment with your GP. Your GP can assess whether your symptoms suggest that you are depressed. Depending on the outcome, they may recommend medication or a talking therapy (see the <a href="/information/treatments-and-therapies
-/complementary-therapies" class="internal-link">_Complementary Therapies_</a>) page.
+/complementary-therapies" class="internal-link">Complementary Therapies</a>) page.
 
 In some situations, depression can need urgent attention. This may be if you are experiencing any of the following:
 
@@ -118,7 +118,7 @@ If you need immediate help but don’t want to go to A&E, you could:
 - Contact NHS 111 (England) or NHS Direct 0845 46 47 (Wales)
 - Contact your local crisis team (CRHT), if you’re under their care.
 
-For more details, the charity _Mind_ has information about <a href="https://www.mind.org.uk/need-urgent-help/" class="external-link" target="_blank" rel="noopener noreferrer">how to seek urgent mental health support</a>.
+For more details, the charity **Mind** has information about <a href="https://www.mind.org.uk/need-urgent-help/" class="external-link" target="_blank" rel="noopener noreferrer">how to seek urgent mental health support</a>.
 
 ## What can I try for myself?
 
@@ -133,7 +133,7 @@ Exercising regularly can help boost your mood as well as help you sleep. You may
 - Leave the car at home for short journeys
 - Get off the bus a stop earlier and walk the rest of the journey
 - See the <a href="/information/living-with-parkinsons/optimising-wellbeing
-  /keeping-active" class="internal-link">_Keeping Active_</a> for more guidance.
+  /keeping-active" class="internal-link">Keeping Active</a> for more guidance.
 
 If you have any concerns about safe and suitable exercise routines, discuss with your GP or a physiotherapist who will be able to recommend exercise that is right for you.
 
@@ -146,7 +146,7 @@ For example, people who are depressed can often crave ‘junk food’ that is hi
 It can be beneficial to limit your alcohol intake. Drinking alcohol frequently can lead to depression as it lowers your mood (it has a depressant effect on mood). Alcohol also affects sleep. While alcohol can initially make you feel more sleepy, it affects your sleep quality. If you drink alcohol before going to bed you are less likely to have a refreshing night’s sleep.
 
 See the <a href="/information/living-with-parkinsons/optimising-wellbeing
-/eating-well" class="internal-link">_Eating Well_</a> page for more guidance.
+/eating-well" class="internal-link">Eating Well</a> page for more guidance.
 
 ### Keeping socially active and combat loneliness
 
@@ -156,10 +156,10 @@ When a person is depressed, they often cut themselves off from other people. Eve
 
 Socialising can improve your mood. Staying in contact with friends and family means you have someone to talk to when you feel low. Talking to others with Parkinson’s can also help by sharing your experiences and learning about different coping mechanisms or solutions to similar problems.
 
-Look out for new opportunities from activities offered through local colleges, places of worship (e.g. churches, mosques, temples), community centres, leisure facilities, charities and societies (e.g. your local U3A group). Your local library can be a good source of information about what is available in your area. We have listed some other possible sources in our _Practical Advice_ pages which you can within the <a href="/information/living-with-parkinsons" class="internal-link">_Living with Parkinson's_</a> section. If you need support speicifally with travelling to events, see our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for advice.
+Look out for new opportunities from activities offered through local colleges, places of worship (e.g. churches, mosques, temples), community centres, leisure facilities, charities and societies (e.g. your local U3A group). Your local library can be a good source of information about what is available in your area. We have listed some other possible sources in our **Practical Advice** pages which you can within the <a href="/information/living-with-parkinsons" class="internal-link">Living with Parkinson's</a> section. If you need support speicifally with travelling to events, see our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">Travel</a> page for advice.
 
 Visit our <a href="/information/living-with-parkinsons/optimising-wellbeing
-/social-and-spiritual-life" class="internal-link">_Social & Spiritual Life_</a> page for more information on how you can keep socially active.
+/social-and-spiritual-life" class="internal-link">Social & Spiritual Life</a> page for more information on how you can keep socially active.
 
 ### Sleep
 
@@ -172,13 +172,13 @@ Depression and anxiety can both affect the quality of our sleep. Similarly, when
 - Make sure your bedroom is dark, quiet, and comfortable.
 - Try to avoid caffeine (e.g. tea and coffee) after 2pm.
 
-See our <a href="/information/managing-symptoms/sleep" class="internal-link"></a> p_Sleep_age for more tips on how to improve the amount and quality of your sleep.
+See our <a href="/information/managing-symptoms/sleep" class="internal-link">Sleep</a> page for more tips on how to improve the amount and quality of your sleep.
 
 ### Relaxation and Breathing Exercises
 
-It’s important to try and make time to relax. Try doing things you find restful, such as listening to music, reading a book, going for a walk, or getting creative by painting or colouring. See the _Mind_ charity website, along with other useful resources, linked at the bottom of this page, for more tips on how to incorporate relaxation into your daily life.
+It’s important to try and make time to relax. Try doing things you find restful, such as listening to music, reading a book, going for a walk, or getting creative by painting or colouring. See the **Mind** charity website, along with other useful resources, linked at the bottom of this page, for more tips on how to incorporate relaxation into your daily life.
 
-It can also help to practise calming breathing techniques. This can reduce any stress and boost your emotional well-being. See our (see <a href="/information/living-with-parkinsons/optimising-wellbeing/dealing-with-stress-and-challenges" class="internal-link">_Dealing with Stress and Challenges_</a> page for a simple breathing exercise you can try.
+It can also help to practise calming breathing techniques. This can reduce any stress and boost your emotional well-being. See our (see <a href="/information/living-with-parkinsons/optimising-wellbeing/dealing-with-stress-and-challenges" class="internal-link">Dealing with Stress and Challenges</a> page for a simple breathing exercise you can try.
 
 ### Mindfulness
 
@@ -192,11 +192,11 @@ Mindfulness is often included as part of psychological treatment. It is recommen
 
 Keeping a diary of the things you’re grateful for may lift your mood have a positive effect on your mental wellbeing. Try to describe one thing you’re grateful for and do this twice a week. You can write about anything that comes to mind, as long as it makes you feel grateful. For example, it could be something very little that has happened or a person that you’re grateful for.
 
-_Tips for keeping a gratitude diary..._
+Tips for keeping a gratitude diary...
 
 - Take time to think about something that you’re truly grateful for.
 - Writing about people you’re grateful for tends to have more of a positive effect than writing about things or events.
-- Try to include as much detail as possible about _why_ you’re grateful.
+- Try to include as much detail as possible about <ins>why</ins> you’re grateful.
 - Plan a time when you will write in your diary. Consider setting an alarm on your phone if you find that you are forgetting to write your diary entries
 
 ### Complementary Therapies
@@ -206,7 +206,7 @@ Complementary therapies include massage, acupuncture and aromatherapy. These the
 Check with your GP, specialist, or Parkinson’s nurse if you wish to take anything by mouth or apply it to your skin as a complementary therapy.
 
 See our <a href="/information/treatments-and-therapies
-/complementary-therapies" class="internal-link">_Complementary Therapies_</a> page for more information.
+/complementary-therapies" class="internal-link">Complementary Therapies</a> page for more information.
 
 ### Resources for Wellbeing and Mental Health
 
@@ -221,18 +221,16 @@ Cognitive Behavioural Therapy (CBT) focuses on how your feelings, thoughts, and 
 ## My Experience
 
 > “Sometimes I do have a good old moan and I do have a bit of a cry, because I feel so frustrated when I can’t do what I want to do. But then I just have to pick myself up and get going again.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 > “I can have a bad day, I can have days when my mood swings are not very happy because I don’t feel very well. When I’m not well, I’m obviously not happy. That’s why watching a film sometimes helps because you’re into the film. And you can ignore the fact of how you’re probably feeling. I watch TV to distract. I lie down to distract. I get up and go for a walk around the house. Sometimes go out the front door, have a walk around the block.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 ## Further Assessment
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They might ask about:**
 
@@ -330,4 +328,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
