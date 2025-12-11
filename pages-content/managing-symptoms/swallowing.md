@@ -98,7 +98,7 @@ If food is getting too cold while you are eating or you are feeling full too qui
 - Refill your cup or glass when it’s half empty, so you don’t have to tilt your head back to drink. Tilting your head back can make food or drink go down the wrong way.
 - Very cold liquids can encourage swallowing – try drinking them first thing, before breakfast or with a meal
 
-_Tip: Swallowing - When swallowing food or drink, following the process below step by step can help:_
+Tip: Swallowing - When swallowing food or drink, following the process below step by step can help:
 
 1. Take a small mouthful of food or drink
 2. Close your lips
@@ -113,8 +113,7 @@ _Tip: Swallowing - When swallowing food or drink, following the process below st
 People affected by Parkinson’s describe their experiences.
 
 > “Things like chilli con carne, spaghetti Bolognese because they’re not big pieces of meat. But like if he’s got a chicken breast and when you cut things up … sloppier foods are obviously better than, you know, chunky foods.”
->
-> _(Carer of someone with Parkinson’s)_
+> (Carer of someone with Parkinson’s)
 
 ## Further Assessment
 
@@ -130,7 +129,7 @@ People affected by Parkinson’s describe their experiences.
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -170,7 +169,7 @@ Typical referrals for swallowing problems might include:
 - **Physiotherapists** – Hcan provide help with posture while eating.
 - o Depending on the assessment, you may be referred to other hospital specialities (e.g. Ear Nose and Throat specialists or Gastroenterologists) particularly if a non-Parkinson’s cause is suspected.
 
-If you are having significant and progressive difficulties swallowing, there is more information on the <a href="/information/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">_Progression of Symptoms_</a> page.
+If you are having significant and progressive difficulties swallowing, there is more information on the <a href="/information/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">Progression of Symptoms</a> page.
 
 ## Key Messages
 
@@ -185,4 +184,4 @@ If you are having significant and progressive difficulties swallowing, there is 
 | Parkinson’s Foundation | This American organisation has in-depth information about swallowing and Parkinson’s, discussing symptoms and treatments.                                                                                                    | --                                                                                                                                                    | <a href="http://www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Speech-and-Swallowing-Problems" class="external-link" target="_blank" rel="noopener noreferrer">http://www.parkinson.org/Understanding-Parkinsons/Symptoms/Non-Movement-Symptoms/Speech-and-Swallowing-Problems</a> |
 | Parkinson’s UK         | Provides advice on managing eating, swallowing difficulties, and saliva control, with tips on staying safe, comfortable, and well-nourished.<br><br>You can read this information online, print it or have it mailed to you. | 808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-managing-saliva" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/eating-swallowing-and-managing-saliva</a>                                         |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
