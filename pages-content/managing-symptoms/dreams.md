@@ -28,7 +28,7 @@ Many people with Parkinson’s experience vivid dreams. For some this is no prob
 
 Dreams occur during a phase of sleep known as Rapid Eye Movement (REM) sleep. This is named this way because the eyes move very fast during this phase. A key feature of this phase is that the body does <ins>not</ins> move. Some people with sleep problems lose this unconscious control over movement during sleep, and so they “act out” their dreams. This is called REM Sleep Behaviour Disorder (RBD). This ranges from gesturing, jerking and talking to thrashing around, shouting and walking. This is closely related to Parkinson’s. However not all people with Parkinson’s have RBD and not all people with RBD have Parkinson’s.
 
-Sometimes the difference between vivid dreams and being awake can become a bit unclear. See our <a href="/information/managing-symptoms/hallucinations" class="internal-link">_Hallucinations_</a> page for more information on seeing things that aren’t there when awake.
+Sometimes the difference between vivid dreams and being awake can become a bit unclear. See our <a href="/information/managing-symptoms/hallucinations" class="internal-link">Hallucinations</a> page for more information on seeing things that aren’t there when awake.
 
 ## What might be causing it?
 
@@ -74,9 +74,9 @@ RBD exists across a range of severity and so the most important thing to conside
 **Lifestyle changes thought to improve sleep and reduce dream disturbances:**
 
 - Eating well and keeping well hydrated.
-- Optimising physical and mental health (see the _Optimising Wellbeing_ pages found in the <a href="/information/living-with-parkinsons" class="internal-link">_Living with Parkinson's_</a> section for advice).
-- Keep a regular sleep schedule (see the <a href="/information/managing-symptoms/sleep" class="internal-link">_Sleep Disturbances_</a> page for more detail).
-- Tackle stress and anxiety (see <a href="/information/living-with-parkinsons/optimising-wellbeing/dealing-with-stress-and-challenges" class="internal-link">_Dealing with Stress and Challenges_</a> and <a href="/information/managing-symptoms/mood" class="internal-link">_Mood_</a> pages).
+- Optimising physical and mental health (see the **Optimising Wellbeing** pages found in the <a href="/information/living-with-parkinsons" class="internal-link">Living with Parkinson's</a> section for advice).
+- Keep a regular sleep schedule (see the <a href="/information/managing-symptoms/sleep" class="internal-link">Sleep Disturbances</a> page for more detail).
+- Tackle stress and anxiety (see <a href="/information/living-with-parkinsons/optimising-wellbeing/dealing-with-stress-and-challenges" class="internal-link">Dealing with Stress and Challenges</a> and <a href="/information/managing-symptoms/mood" class="internal-link">Mood</a> pages).
 
 **If you are acting out dreams, consider the safety of yourself and your bed partner:**
 
@@ -89,7 +89,7 @@ RBD exists across a range of severity and so the most important thing to conside
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -138,4 +138,4 @@ Having consulted a healthcare professional, they may offer reassurance, advice o
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | American Parkinson Disease Association | This American organisation provides detailed information about possible sleep problems in relation to Parkinson’s, including dream disturbance. | --           | <a href="https://www.apdaparkinson.org/what-is-parkinsons/symptoms/sleep-problems/" class="external-link" target="_blank" rel="noopener noreferrer">www.apdaparkinson.org/what-is-parkinsons/symptoms/sleep-problems/</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
