@@ -42,9 +42,9 @@ As described above, smell and taste changes can be directly caused by Parkinson�
 
 ### Touch
 
-Pain and sensitivity caused by Parkinson’s may change in response to Parkinson’s medication. For more information see our <a href="/information/managing-symptoms/pain" class="internal-link">_Pain_</a> page.
+Pain and sensitivity caused by Parkinson’s may change in response to Parkinson’s medication. For more information see our <a href="/information/managing-symptoms/pain" class="internal-link">Pain</a> page.
 
-Peripheral Neuropathy is a nerve condition that can cause symptoms such as reduced sensation, pain or tingling in hands and/or feet. There are _many_ causes of peripheral neuropathy. These include:
+Peripheral Neuropathy is a nerve condition that can cause symptoms such as reduced sensation, pain or tingling in hands and/or feet. There are <ins>many</ins> causes of peripheral neuropathy. These include:
 
 - Diabetes
 - Long-term alcohol use
@@ -66,7 +66,7 @@ Parkinson’s can cause sight changes in a number of ways, but many people have 
 - Involuntary movements can affect the eye lids leading to involuntary eye closure.
 - Some parts of the eye (retinal cells) need dopamine for colour vision. Low levels of dopamine in Parkinson’s can cause colours to look subtly dull or similar to one another.
 - Some medication used in Parkinson’s can cause dry eyes.
-- Seeing things that aren’t there is covered separately – see the <a href="/information/managing-symptoms/hallucinations" class="internal-link">_Hallucinations_</a> page.
+- Seeing things that aren’t there is covered separately – see the <a href="/information/managing-symptoms/hallucinations" class="internal-link">Hallucinations</a> page.
 
 These sight changes can also be caused by a range of other conditions. Parkinson’s does not tend to cause sudden sight changes. Slow loss of vision is most likely due to eye conditions, such as cataracts, glaucoma or macular degeneration.
 
@@ -77,7 +77,7 @@ A slow deterioration in hearing is common with increasing age. It is possible th
 - Hearing sound. Research is ongoing to understand this more.
 - Processing and understanding sound. Some people with Parkinson’s find it difficult to listen when multiple people are talking at once. This is made more difficult if you are stressed or tired.
 
-Parkinson’s is not known to cause sudden loss of hearing. Hearing difficulty can be caused by a range of other problems, such as build-up of ear wax, age-related hear loss (also known as _presbycusis_) or ear infections.
+Parkinson’s is not known to cause sudden loss of hearing. Hearing difficulty can be caused by a range of other problems, such as build-up of ear wax, age-related hear loss (also known as **presbycusis**) or ear infections.
 
 ## What should I do about it?
 
@@ -110,7 +110,7 @@ If you are a driver, see the DVLA ‘standards of vision for driving’. You don
 
 Although the changes in smell or taste in Parkinson’s cannot be cured, there are things to consider.
 
-- It is important to maintain a healthy body weight even if you don’t enjoy food as much. See the <a href="/information/managing-symptoms/weight" class="internal-link">_Weight_</a> and <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> pages for more information. If you can’t taste as well, perhaps there are different textures that can liven up your food?
+- It is important to maintain a healthy body weight even if you don’t enjoy food as much. See the <a href="/information/managing-symptoms/weight" class="internal-link">Weight</a> and <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">Eating Well</a> pages for more information. If you can’t taste as well, perhaps there are different textures that can liven up your food?
 - You might be less sensitive to food that has gone past its best. Keep an eye on the ‘best before’ dates and label food once opened.
 - Safety at home: you may be less sensitive to the smell of a gas leak. Make sure gas appliances are serviced regularly and consider getting a gas detector.
 - If you smoke, consider stopping.
@@ -142,17 +142,17 @@ Although the changes in smell or taste in Parkinson’s cannot be cured, there a
 
 ### If you have changes in touch
 
-- Eat a varied diet to ensure adequate nutrient intake. See <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> for more information.
+- Eat a varied diet to ensure adequate nutrient intake. See <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">Eating Well</a> for more information.
 - Be aware of your skin as you may be less sensitive to changes or injuries. Try to routinely check your skin, particularly on the hands and feet, for cuts or damage.
 - Safety considerations: be careful with objects that are very hot or very cold as they could cause burns without you noticing.
 
-More general tips to maintain healthy eyes, ears, skin and feet are covered on the <a href="/information/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">_Lifestyle Factors_</a> page. Practical advice to deal with the impact of sensory changes can also be found on the <a href="/information/living-with-parkinsons/practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> page.
+More general tips to maintain healthy eyes, ears, skin and feet are covered on the <a href="/information/living-with-parkinsons/optimising-wellbeing/lifestyle-factors" class="internal-link">Lifestyle Factors</a> page. Practical advice to deal with the impact of sensory changes can also be found on the <a href="/information/living-with-parkinsons/practical-advice/reading-writing-and-technology" class="internal-link">Reading, Writing & Technology</a> page.
 
 ## Further Assessment
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They may ask about any <ins>sensory changes</ins>:**
 
@@ -243,4 +243,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*Calls cost up to 10p/minute from landlines, between 3p- 40p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
