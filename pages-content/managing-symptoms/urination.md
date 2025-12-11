@@ -30,12 +30,12 @@ Urinary symptoms are common in Parkinson’s. There are also many other conditio
 
 Common symptoms:
 
-- _**Urinary frequency**_ – This is needing to go to the toilet to pass urine more often than usual.
-- _**Urinary urgency**_ – This is having sudden overwhelming urges to pass urine, with difficulty holding on.
-- _**Urinary retention**_ – This is an inability to empty the bladder.
-- _**Urinary incontinence**_ – This is accidental or involuntary leakage of urine. This could be wetting the bed without being aware or able to stop. It can be a urinary symptom itself, or may occur if getting to the toilet is difficult. It can occur with urinary urgency, particularly if you can’t access a toilet in time.
-- _**Stress incontinence**_ – Some people, particularly women who have had children, can experience a leakage of urine if they e.g. laugh, cough, sneeze or exercise. This is usually due to weakened pelvic floor muscles and is not related to Parkinson’s.
-- _**Nocturia**_ – This is needing to pass urine more than twice during the night (once or twice is considered normal).
+- **Urinary frequency** – This is needing to go to the toilet to pass urine more often than usual.
+- **Urinary urgency** – This is having sudden overwhelming urges to pass urine, with difficulty holding on.
+- **Urinary retention** – This is an inability to empty the bladder.
+- **Urinary incontinence** – This is accidental or involuntary leakage of urine. This could be wetting the bed without being aware or able to stop. It can be a urinary symptom itself, or may occur if getting to the toilet is difficult. It can occur with urinary urgency, particularly if you can’t access a toilet in time.
+- **Stress incontinence** – Some people, particularly women who have had children, can experience a leakage of urine if they e.g. laugh, cough, sneeze or exercise. This is usually due to weakened pelvic floor muscles and is not related to Parkinson’s.
+- **Nocturia** – This is needing to pass urine more than twice during the night (once or twice is considered normal).
 
 ## What might be causing it?
 
@@ -43,12 +43,12 @@ Parkinson’s can cause most of the symptoms listed above. It does not however c
 
 **Other causes of urinary symptoms include:**
 
-- _**Urinary tract infections (UTIs)**_ – often presents as pain or burning on passing urine. Sometimes you can have high temperatures or hot & cold shivery flushes. It can also cause pain in the lower tummy, and sometimes blood is temporarily seen in the urine. In more severe cases UTIs can trigger “delirium” which can make people appear confused.
-- _**Enlarged prostate**_ – this is only for men –and often causes a gradual worsening of urinary symptoms. This usually presents as a weak flow of urine, difficulty starting flow, or dribbling at the end of the flow.
-- _**Medications**_ - in particular diuretic medications (water tablets), e.g. furosemide.
-- _**Constipation**_ – not completely emptying the bowels can put pressure on the urinary tract so reduce flow of urine.
-- _**Diabetes**_ – generally associated with excessive thirst and drinking. More likely if there is diabetes in the family. There are different types of diabetes which show different patterns.
-- _**Prolapse or weakened pelvic floor**_ – this is where some of the pelvic organs are not being adequately supported by the muscles of the pelvis. This may be felt as a dull pain or a sense of “dragging” down below. It may cause stress incontinence symptoms and make incontinence worse. It particularly affects women after the menopause, who have been through childbirth, people who have had pelvic surgery, and people who are overweight.
+- **Urinary tract infections (UTIs)** – often presents as pain or burning on passing urine. Sometimes you can have high temperatures or hot & cold shivery flushes. It can also cause pain in the lower tummy, and sometimes blood is temporarily seen in the urine. In more severe cases UTIs can trigger “delirium” which can make people appear confused.
+- **Enlarged prostate** – this is only for men –and often causes a gradual worsening of urinary symptoms. This usually presents as a weak flow of urine, difficulty starting flow, or dribbling at the end of the flow.
+- **Medications** - in particular diuretic medications (water tablets), e.g. furosemide.
+- **Constipation** – not completely emptying the bowels can put pressure on the urinary tract so reduce flow of urine.
+- **Diabetes** – generally associated with excessive thirst and drinking. More likely if there is diabetes in the family. There are different types of diabetes which show different patterns.
+- **Prolapse or weakened pelvic floor** – this is where some of the pelvic organs are not being adequately supported by the muscles of the pelvis. This may be felt as a dull pain or a sense of “dragging” down below. It may cause stress incontinence symptoms and make incontinence worse. It particularly affects women after the menopause, who have been through childbirth, people who have had pelvic surgery, and people who are overweight.
 
 ## What should I do about it?
 
@@ -115,7 +115,7 @@ If the problem is due to Parkinson’s, pelvic floor exercises will not fix it, 
 
 ### Weight loss
 
-If you are overweight, then there is more pressure on your bladder and pelvic floor. In this case losing weight can improve urinary symptoms. _However, if you are normal or underweight, we do not advise trying to lose weight._
+If you are overweight, then there is more pressure on your bladder and pelvic floor. In this case losing weight can improve urinary symptoms. <ins>However, if you are normal or underweight, we do not advise trying to lose weight.</ins>
 
 ### Bladder retraining
 
@@ -130,14 +130,13 @@ If finding toilets when out and about is a concern, the ‘National Key Scheme�
 People affected by Parkinson’s describe their experiences.
 
 > “I did have a problem with my bladder where, at night-time I was getting up 10, 11, 12 times in the night for a wee. And when I spoke to my doctor about it, she suggested that I cut down liquids or drinks from 6pm onwards. And that works. If I want a sip of water, I’ll have just a sip of water.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 ## Further assessment
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/urology.jpg" alt="urology" class="urination__urology">
 
@@ -204,7 +203,7 @@ Having consulted a healthcare professional, they may offer reassurance or advice
 
 ## Key messages
 
-Stay hydrated, but think about _what_ and _when_ you are drinking.
+Stay hydrated, but think about **what** and **when** you are drinking.
 
 ## Where to get incontinence products
 
@@ -230,4 +229,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
