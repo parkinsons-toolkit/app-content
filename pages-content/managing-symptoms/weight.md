@@ -79,13 +79,13 @@ If the above do not apply to you, or whilst waiting for your appointment, there 
 
 Consider what would be convenient for you.
 
-There are also tips that may be relevant on the <a href="/information/managing-symptoms/saliva" class="internal-link">_Saliva_</a>, <a href="/information/managing-symptoms/swallowing" class="internal-link">_Swallowing Difficulties_</a> and <a href="/information/managing-symptoms/nausea" class="internal-link">Nausea</a> symptom pages if these are leading you to eat less. If maintaining weight is difficult because of practical aspects of buying, preparing or eating food then see the Daily Living page for guidance.
+There are also tips that may be relevant on the <a href="/information/managing-symptoms/saliva" class="internal-link">Saliva</a>, <a href="/information/managing-symptoms/swallowing" class="internal-link">Swallowing Difficulties</a> and <a href="/information/managing-symptoms/nausea" class="internal-link">Nausea</a> symptom pages if these are leading you to eat less. If maintaining weight is difficult because of practical aspects of buying, preparing or eating food then see the Daily Living page for guidance.
 
 ## Further assessment
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They might ask about:**
 
@@ -106,7 +106,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 
 - This can help you to recall the details and help your health professional look for patterns.
 - Showing your healthcare workers a record of your daily intake of food and drink for 3 days can help them decide what to suggest next. If you see a dietician, they may ask for a more detailed record.
-- Monitor your weight monthly — it is helpful to have measurements to know how much weight is lost. You can record this in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section.
+- Monitor your weight monthly — it is helpful to have measurements to know how much weight is lost. You can record this in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section.
 
 ### Tests
 
@@ -138,4 +138,4 @@ Your GP may refer you to another service, depending on your issue:
 | NHS                                | Provides practical advice and support for managing your weight through healthy eating, physical activity, and lifestyle changes.                                                                                        | --                                                                                                                                                     | <a href="https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/</a>     |
 | Parkinson’s UK                     | Offers dietary guidance to support symptom management, overall health, and medication effectiveness for people living with Parkinson’s.<br><br>You can view this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/diet" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/diet</a>                           |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
