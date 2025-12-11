@@ -29,7 +29,7 @@ It is important not to change your medication without discussing this with your 
 
 ## Commonly Used Medications
 
-The <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages have guidance for dealing with the side effects that are listed below. If you experience side effects, consult these pages and speak to your Parkinson’s specialist team. There are also other possible side effects that can occur. Some medications cannot be used together with other medications. Your prescribing doctor will take this into account when prescribing medication.
+The <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">Managing Symptoms</a> pages have guidance for dealing with the side effects that are listed below. If you experience side effects, consult these pages and speak to your Parkinson’s specialist team. There are also other possible side effects that can occur. Some medications cannot be used together with other medications. Your prescribing doctor will take this into account when prescribing medication.
 
 ### 1. Levodopa Medications
 
@@ -51,7 +51,7 @@ The <a href="/information/managing-symptoms/managing-symptoms" class="internal-l
 **Who is it for?**
 
 - Levodopa can be used at all stages of Parkinson’s.
-- Duodopa® intestinal gel is given directly into the gut via a tube – see <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced & Surgical Treatments_</a> page for more information. It is used for complex movement problems.
+- Duodopa® intestinal gel is given directly into the gut via a tube – see <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced & Surgical Treatments</a> page for more information. It is used for complex movement problems.
 
 **What are the side effects?**  
 Not all patients will experience side effects while taking levodopa.
@@ -64,7 +64,7 @@ The more common are:
 - Levodopa may cause urine to turn reddish-brown. This is harmless.
 - With long term use, some people may also experience involuntary movements (dyskinesia) or hallucinations.
 
-Food can affect how levodopa gets absorbed into your body. For some people this impact of food is noticeable. See the <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> page for more guidance.
+Food can affect how levodopa gets absorbed into your body. For some people this impact of food is noticeable. See the <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">Eating Well</a> page for more guidance.
 
 ### 2. Dopamine Agonist Medications
 
@@ -87,7 +87,7 @@ Food can affect how levodopa gets absorbed into your body. For some people this 
 
 - They can be used at all stages of Parkinson’s and come in a variety of forms.
 - Rotigotine is given as a skin patch so may be used if swallowing tablets is a problem.
-- Apomorphine is given by injection or infusion pump. It is used for more complex movement problems. More information about the pump can be found on the <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced & Surgical Treatments_</a> page.
+- Apomorphine is given by injection or infusion pump. It is used for more complex movement problems. More information about the pump can be found on the <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced & Surgical Treatments</a> page.
 
 **What are the side effects?**  
 Not all patients will experience side effects while taking dopamine agonist medicines. The more common are:
@@ -96,7 +96,7 @@ Not all patients will experience side effects while taking dopamine agonist medi
 - Nausea (feeling sick).
 - Low blood pressure, which can cause symptoms of dizziness or feeling generally weak or faint.
 - Hallucinations (seeing, hearing, feeling or smelling things that are not there)
-- ‘Impulse Control Disorders’(gambling, shopping, binge-eating, hyper-sexuality) - more information can be found on our <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page.
+- ‘Impulse Control Disorders’(gambling, shopping, binge-eating, hyper-sexuality) - more information can be found on our <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">Impulsive Behaviours</a> page.
 - Lower leg or ankle swelling.
 
 ### 3. MAO-B Inhibitor Medications
@@ -136,7 +136,7 @@ Not all patients will experience side effects while taking dopamine agonist medi
 - These are used alongside levodopa and must be taken at the same time.
 - Opicapone is a once a day medication.
 
-**_What are the side effects?_**
+**What are the side effects?**
 
 - These medications may cause upset stomach or bowels. Adding fibre to your diet may be helpful as the body adjusts.
 - As this medication increases the amount of levodopa in the blood, the side effects listed for levodopa may occur.
@@ -154,7 +154,7 @@ Not all patients will experience side effects while taking dopamine agonist medi
 **What does it do?**
 
 - It isn’t known exactly how this type of drug works for Parkinson’s, but it is likely to have several actions.
-- It is sometimes used to manage <a href="/information/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements (Dyskinesia)_</a>.
+- It is sometimes used to manage <a href="/information/managing-symptoms/involuntary-movements" class="internal-link">Involuntary Movements (Dyskinesia)</a>.
 - It is not used in people who have epilepsy, have had stomach ulcers, or who have significant memory or thinking problems.
 
 **What are the side effects?**
@@ -180,11 +180,11 @@ Not all patients will experience side effects while taking dopamine agonist medi
 
 ### 3) Other medications
 
-Other medications may be used to treat specific symptoms. See our <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages for more details.
+Other medications may be used to treat specific symptoms. See our <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">Managing Symptoms</a> pages for more details.
 
 ## Side effects of Parkinson’s medications
 
-Although rare, Parkinson’s medication carries a risk of causing unusual behaviour. They are called **Impulse Control Disorders**, which you can read about on out <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> symptom page. This means behaviours that are difficult to control. Examples include gambling, shopping, binge-eating, hyper-sexuality. They are more common in people on dopamine agonists.
+Although rare, Parkinson’s medication carries a risk of causing unusual behaviour. They are called **Impulse Control Disorders**, which you can read about on out <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">Impulsive Behaviours</a> symptom page. This means behaviours that are difficult to control. Examples include gambling, shopping, binge-eating, hyper-sexuality. They are more common in people on dopamine agonists.
 
 You and those close to you should watch out for these. If this happens, it is vital to tell your GP or Parkinson’s specialist team. A change in your medication may be necessary.
 
@@ -212,7 +212,7 @@ Who you should talk to depends on the subject of the query. Although there is so
 ## Getting Medication
 
 - Long term medication should be issued on a repeat prescription by your GP.
-- You will need to request and collect the repeat prescription. If not, you may run out of the medicine. You can set a reminder to reorder your medicine using the <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders & Notes_</a> section.
+- You will need to request and collect the repeat prescription. If not, you may run out of the medicine. You can set a reminder to reorder your medicine using the <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders & Notes</a> section.
 - Consider asking your GP surgery if they can send prescriptions directly to the pharmacy.
 - Some pharmacies offer home delivery services for people who find it difficult to get out of the house. Ask your pharmacist if this is an issue.
 
@@ -221,7 +221,7 @@ Who you should talk to depends on the subject of the query. Although there is so
 - At present, in England, prescriptions are charged per item unless you are exempt. You are exempt if you are over 60 years old. Certain medical or financial circumstances also make people exempt.  
   See the NHS website for more details.
 - Having Parkinson’s is not (at present) listed as a reason for exemption from NHS prescription charges.
-- A prescription prepayment certificate (PPC) could save you money on NHS prescription costs. See the <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">_Finances_</a> page for more details.
+- A prescription prepayment certificate (PPC) could save you money on NHS prescription costs. See the <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">Finances</a> page for more details.
 
 ## Taking Medication
 
@@ -249,13 +249,13 @@ Sometimes people are required to take only half or a quarter of a pill. Some fin
 - Entacapone or Stalevo can be split to ease swallowing. However, the cut edges taste unpleasant.
 
 **How to cut tablets?**  
-Using a _pill cutter_ is more precise than trying to snap pills.
+Using a <ins>pill cutter</ins> is more precise than trying to snap pills.
 
 - Usually a lid with a razor-sharp blade, combined with a small plastic container.
 - You put the pill inside, bring the lid down, and the pill is cut cleanly in half.
 - Use caution when using the cutter to avoid injuries from the blade.
 
-**_Dispersible_ tablets**, such as 'Madopar dispersible', can be dissolved in water.
+**<ins>Dispersible</ins> tablets**, such as 'Madopar dispersible', can be dissolved in water.
 
 - To take half a dose: it can be easier to dissolve the whole tablet and only drink half of the mixture, than to cut the tablet in half.
 
@@ -275,11 +275,11 @@ Check your specific instructions, but in general the patches are designed such t
 
 If a patch falls off, you will need to apply a fresh one until the time you usually change it. Some people find bandaging tape helpful if the edges of the patch lift off.
 
-_Note: Rotigotine patches contain metal and should be removed before having an MRI scan._
+**Note: Rotigotine patches contain metal and should be removed before having an MRI scan.**
 
 ### Swallowing Medicine
 
-Some people have difficulty with swallowing their medication. If this is the case: speak to your GP or Parkinson’s specialist. You may require further assessment or a change to your medicines. For example, this could be using a dissolvable tablet or a patch. See our <a href="/information/managing-symptoms/swallowing" class="internal-link">_Swallowing Difficulties_</a> page for more information.
+Some people have difficulty with swallowing their medication. If this is the case: speak to your GP or Parkinson’s specialist. You may require further assessment or a change to your medicines. For example, this could be using a dissolvable tablet or a patch. See our <a href="/information/managing-symptoms/swallowing" class="internal-link">Swallowing Difficulties</a> page for more information.
 
 ### Missed Medicines
 
@@ -288,7 +288,7 @@ What to do if you miss a medication depends on:
 - How frequently you take the medication
 - When you realise it was missed.
 
-_These are general principles relevant to Parkinson’s medication:_
+**These are general principles relevant to Parkinson’s medication:**
 
 - If you are unsure, then speak to a healthcare professional.
 - If you have difficulty remembering medication, read the **Organising Medication** section below.
@@ -296,14 +296,14 @@ _These are general principles relevant to Parkinson’s medication:_
 **The question to ask yourself is: Am I due another dose very soon?**
 
 - **Yes ➔ Skip a dose.**  
-  _For example:_
+  For example:
   Mr X normally takes levodopa every 4 hours: at 8am, 12pm, 4pm, and 8pm.  
    Mr X missed the 8am dose and realised at 11:30am.  
    Mr X could take the dose at 11:30am and skip the 12pm dose.
 
 - **No ➔ Take the missed dose as soon as you remember.**  
   Adjust the rest of your doses for the day to be similar spacing to your normal regime. You may need to bring them slightly closer together (e.g. 30 minutes closer).
-  _For example:_
+  For example:
   Mr X normally takes levodopa every 4 hours: at 8am, 12pm, 4pm, and 8pm.  
   Mr X missed the 8am dose and realised at 10:30am.  
   Mr X could take the dose at 10:30am and adjust the later doses to be every 3.5–4 hours: 2pm, 5:30pm, and 9:30pm.
@@ -317,8 +317,7 @@ If you miss a tablet later in the day, you may not be able to easily fit all the
 People affected by Parkinson’s describe their experiences:
 
 > “I find the tablets hard to swallow. I got used to having ice cream with them now that works nicely. I learnt that by trial and error.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 ## Organising Medication
 
@@ -379,12 +378,10 @@ People affected by Parkinson’s describe their experiences:
 ## My Experience
 
 > “The advice I would give to people is that you prepare yourself a schedule ….unless you write it down and give yourself something to work to, you can, you can go wrong.”
->
-> _(Carer of someone with Parkinson's)_
+> (Carer of someone with Parkinson's)
 
 > “My grandchildren have set it up. It comes on, and the alarm goes, ‘Parkinson’s’, so I know to take my tablets.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 ## Useful Organisations & Contacts
 
@@ -399,4 +396,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\* Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
