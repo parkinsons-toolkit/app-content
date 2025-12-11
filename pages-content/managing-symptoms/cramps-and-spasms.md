@@ -24,7 +24,7 @@
 </iframe>
 </div>
 
-Dystonia is an involuntary muscle contraction (this is different to **Dyskinesia** which refers to <a href="/information/managing-symptoms/involuntary-movements" class="internal-link">_Involuntary Movements_</a>). Dystonia is caused by incorrect brain signals. Muscles become tighter or shorter than usual, making them stiff. Dystonia can involve twisting movements or spasms. Dystonia can feel painful or uncomfortable. Not everyone who has Parkinson’s will experience it.
+Dystonia is an involuntary muscle contraction (this is different to **Dyskinesia** which refers to <a href="/information/managing-symptoms/involuntary-movements" class="internal-link">Involuntary Movements</a>). Dystonia is caused by incorrect brain signals. Muscles become tighter or shorter than usual, making them stiff. Dystonia can involve twisting movements or spasms. Dystonia can feel painful or uncomfortable. Not everyone who has Parkinson’s will experience it.
 
 Dystonia most commonly effects the legs and feet of someone with Parkinson’s. It can cause abnormal postures of limbs or digits. People may notice their toes curling. They may notice their feet turning in at the ankle. They may feel or see their big toe sticking up. Dystonia can also impact the eyelids. It can cause frequent blinking and an intolerance to light. It can affect the head and neck, the vocal cords, and/or the hands.
 
@@ -73,15 +73,14 @@ There are various strategies you can try for yourself discussed below. You shoul
 
 People affected by Parkinson’s describe their experiences.
 
-> _“Sometimes I do, I know when the muscles and everything get stiffer, and what I do, I just massage myself.”_
->
-> _(Carer for someone with Parkinson’s)_
+> “Sometimes I do, I know when the muscles and everything get stiffer, and what I do, I just massage myself.”
+> (Carer for someone with Parkinson’s)
 
 ## Further Assessment
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -132,4 +131,4 @@ Possible adjustments that may be considered:
 | NHS            | The NHS has compact information on causes, living with dystonia and when to speak to a GP.                                                                                                                                                  | --                                                                                                                                                     | <a href="https://www.nhs.uk/conditions/dystonia/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.nhs.uk/conditions/dystonia/</a>                                                                                   |
 | Parkinson’s UK | Provides information about muscle cramps and dystonia in Parkinson’s, outlining causes, symptoms, and treatment options to help manage discomfort and improve mobility.<br><br>You can view this online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/muscle-cramps-and-dystonia" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/muscle-cramps-and-dystonia</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
