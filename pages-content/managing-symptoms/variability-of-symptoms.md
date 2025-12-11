@@ -73,7 +73,7 @@ There are things you can try for yourself (described below). You should discuss 
 
 - Stress can increase the variability of symptoms, so finding ways to stay relaxed even when stressed can be helpful.
 - Complementary therapies such as massage, acupuncture, and aromatherapy may be helpful.
-- See our <a href="/information/managing-symptoms/mood" class="internal-link">_Mood_</a> page for more information.
+- See our <a href="/information/managing-symptoms/mood" class="internal-link">Mood</a> page for more information.
 
 ### Medication-Meal Timing
 
@@ -81,7 +81,7 @@ There are things you can try for yourself (described below). You should discuss 
   - This is particularly applicable when having high protein meals. Protein is an essential part of diet and is important for tissue healing and overall health. It should be a part of everyone’s daily diet.
   - Some people find that taking their levodopa 30 minutes before their protein meal allows their medication to kick in before they start eating.
   - If taking levodopa on an empty stomach causes nausea, try taking it with fruit or crackers rather than high protein foods.
-- See <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">_Eating Well_</a> for more information about diet.
+- See <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">Eating Well</a> for more information about diet.
 
 ## My Experience
 
@@ -98,18 +98,16 @@ There are things you can try for yourself (described below). You should discuss 
 People affected by Parkinson’s describe their experiences.
 
 > “What I usually do is I’ll sit back and I’ll [..] take deep breaths and then I just sort of think, ‘calm down, just calm down’, you know, and sort of bring myself back again.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 > “We talked to him about changing his medication around, which he did do, and he took them a little bit earlier in the evening so he would feel a little bit more able.”
->
-> _(Healthcare Professional)_
+> (Healthcare Professional)
 
 ## Further assessment
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -126,7 +124,7 @@ Try to monitor your symptoms for about 3 days. Types of things you could record 
 - When you feel ‘on’ and ‘off’
 - When you take your medication
 - When you eat your meals
-- Any other symptoms, such as <a href="/information/managing-symptoms/involuntary-movements" class="internal-link">_Dyskinesia_</a> or <a href="/information/managing-symptoms/freezing" class="internal-link">_Freezing_</a>.
+- Any other symptoms, such as <a href="/information/managing-symptoms/involuntary-movements" class="internal-link">Dyskinesia</a> or <a href="/information/managing-symptoms/freezing" class="internal-link">Freezing</a>.
 
 ## Further Treatments
 
@@ -147,8 +145,8 @@ Try to monitor your symptoms for about 3 days. Types of things you could record 
 - There is usually a waiting time before that next service will see you.
 - If the variation in symptoms is causing difficulty with daily activities, your GP or Parkinson’s specialist team may refer you on to an occupational therapist. They can assess if you might benefit from extra equipment or support.
 - If your Parkinson’s specialist has tried all medication options and the variability is still having a significant impact on your daily life, then other options may be explored. This usually involves a referral to a specialist centre. Some alternative options:
-- Apomorphine, a dopamine agonist delivered by injection either intermittently or as a continuous daytime infusion. See <a href="/information/treatments/medications" class="internal-link">_Medication_</a> page for more information.
-- Deep brain stimulation or Duodopa (a gel given by a tube directly into the gut). See our <a href="/information/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page for more advanced therapies.
+- Apomorphine, a dopamine agonist delivered by injection either intermittently or as a continuous daytime infusion. See <a href="/information/treatments/medications" class="internal-link">Medication</a> page for more information.
+- Deep brain stimulation or Duodopa (a gel given by a tube directly into the gut). See our <a href="/information/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a> page for more advanced therapies.
 
 ## Key Messages
 
@@ -162,4 +160,4 @@ Try to monitor your symptoms for about 3 days. Types of things you could record 
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Parkinson’s UK | Offers support and information about dyskinesia and wearing off, including causes and how to manage them. <br><br>You can read this information online, print it or have it mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/dyskinesia-and-wearing" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/dyskinesia-and-wearing</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
