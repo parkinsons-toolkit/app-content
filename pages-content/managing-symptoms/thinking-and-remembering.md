@@ -26,7 +26,7 @@
 
 Difficulties with thinking and remembering are common in Parkinson’s. They can be very worrying for the person experiencing these as well as for those around them. As we get older, we are likely to notice more difficulties with our memory, speed of thinking, and ability to do several things at once. But bigger changes, particularly if they affect day-to-day activities, are not normal and should be discussed with a healthcare professional. Vocabulary and reading do not normally get worse with age. Difficulties with thinking and memory are not always signs of dementia.
 
-For information about more advanced symptoms, including dementia, see the <a href="/information/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">_Progression of Symptoms_</a> page.
+For information about more advanced symptoms, including dementia, see the <a href="/information/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">Progression of Symptoms</a> page.
 
 ## What might be causing it?
 
@@ -46,11 +46,11 @@ Memory and thinking problems can be symptoms of Parkinson’s, but not all of th
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/thinking.jpg" alt="thinking" class="thinking-concentration-and-memory__thinking">
 
-- _**Executive function:**_ This is the control of thinking, and includes planning, keeping things in mind, flexible thinking, and self-control. For example, when cooking a meal, someone with executive function problems may find it difficult to get all the right ingredients and plan what time to start cooking them so they will be ready at the same time.
-- _**Attention:**_ (staying focused on something) This might be conscious or an automatic process such as listening in a conversation. Problems might, for example, show as difficulties reading, following a conversation, or multi-tasking.
-- _**Language:**_ (remembering and understanding words and meanings) Problems might, for example, show as forgetting the word for something or not managing to understand more complex conversations.
-- _**Visuospatial function:**_ This includes being able to judge distances and depth, imagine things visually and process them in your mind and detecting patterns. Problems might, for example, show as getting off at the wrong bus stop, misjudging the depth of a step or not being able to imagine the kitchen to describe where the tea is kept.
-- _**Memory:**_ (being able to recall things) Problems might, for example, show as someone repeating themselves or not remembering the plot of a TV programme they recently watched.
+- **Executive function:** This is the control of thinking, and includes planning, keeping things in mind, flexible thinking, and self-control. For example, when cooking a meal, someone with executive function problems may find it difficult to get all the right ingredients and plan what time to start cooking them so they will be ready at the same time.
+- **Attention:** (staying focused on something) This might be conscious or an automatic process such as listening in a conversation. Problems might, for example, show as difficulties reading, following a conversation, or multi-tasking.
+- **Language:** (remembering and understanding words and meanings) Problems might, for example, show as forgetting the word for something or not managing to understand more complex conversations.
+- **Visuospatial function:** This includes being able to judge distances and depth, imagine things visually and process them in your mind and detecting patterns. Problems might, for example, show as getting off at the wrong bus stop, misjudging the depth of a step or not being able to imagine the kitchen to describe where the tea is kept.
+- **Memory:** (being able to recall things) Problems might, for example, show as someone repeating themselves or not remembering the plot of a TV programme they recently watched.
 
 <ins>**Dementia**</ins> is a broad term used to describe gradual impairments of thinking, memory and other brain functions that are impacting day-to-day life. Dementia has lots of different types and causes, one of which is Parkinson’s. But not all thinking and memory problems in Parkinson’s are, or lead to, dementia.
 
@@ -98,12 +98,12 @@ Stress worsens thinking abilities so don’t put too much pressure on yourself. 
 
 Good sleep, physical health and emotional well-being are all important for your memory and thinking.
 
-See our _Optimising Wellbeing_ pages within the <a href="/information/living-with-parkinsons/living-with-parkinsons" class="internal-link">_Living with Parkinson's_</a> section for more information.
+See our **Optimising Wellbeing** pages within the <a href="/information/living-with-parkinsons/living-with-parkinsons" class="internal-link">Living with Parkinson's</a> section for more information.
 
 ### Prompts and Reminders
 
-- **Lists** – e.g. a “To-do-list” or a list of things to take with you when you go out. You can record lists and memos here: <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a>.
-- **Calendars/organisers** – e.g. to help remember your appointments or friends’ birthdays. You can enter your appointments and set reminders here: <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a>.
+- **Lists** – e.g. a “To-do-list” or a list of things to take with you when you go out. You can record lists and memos here: <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a>.
+- **Calendars/organisers** – e.g. to help remember your appointments or friends’ birthdays. You can enter your appointments and set reminders here: <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a>.
 - **Clocks and alarms** – Having a prominent and easy-to-read clock may help your timekeeping. Many devices allow you to set alerts (e.g. setting an alarm clock or a phone alarm to remind you to take your medication or setting the oven timer to remind you when dinner is ready).
 - **Keep track** – if you are struggling to remember things that have happened, you could record them for future reference. If you are struggling to remember what has been happening with your Parkinson’s when speaking with healthcare professionals, you could try recording things using the <a href="/my-tracker" class="internal-link">My Tracker</a>.
 
@@ -121,13 +121,13 @@ You could also consider using befriending services. These are volunteers who cha
 
 ### Medication
 
-You may find managing your Parkinson’s medication more challenging if you have problems with thinking or remembering. There are several devices available to help you; see the <a href="/information/treatment-and-therapies/medications" class="internal-link">_Medications_</a> page for more information.
+You may find managing your Parkinson’s medication more challenging if you have problems with thinking or remembering. There are several devices available to help you; see the <a href="/information/treatment-and-therapies/medications" class="internal-link">Medications</a> page for more information.
 
 ### Slowing down the problem
 
 There is no recommended treatment to stop or prevent memory and thinking problems. Things that may have some positive effects without harmful consequences include:
 
-- Physical exercise – see our <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">_Keeping Active_</a> page for ideas.
+- Physical exercise – see our <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">Keeping Active</a> page for ideas.
 - “Brain Training” or “Cognitive Training” – memory and attention puzzles and calculations (e.g.
   Sudoku).
 
@@ -137,7 +137,7 @@ It’s important to note there is **not** currently enough evidence to recommend
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -173,10 +173,10 @@ A healthcare professional may be able to offer reassurance or possibly further t
 
 **Some medication used for memory and thinking difficulties:**
 
-- If a significant memory and thinking problem is identified, the first line treatment is a type of medication called a cholinesterase inhibitor. There are several different types, but most commonly used are _rivastigmine_ or _donepezil_.
-- If these are not suitable due to other medical problems, or if the side effects are a big problem, then the next choice is a medication called _memantine_.
+- If a significant memory and thinking problem is identified, the first line treatment is a type of medication called a cholinesterase inhibitor. There are several different types, but most commonly used are <ins>rivastigmine</ins> or <ins>donepezil</ins>.
+- If these are not suitable due to other medical problems, or if the side effects are a big problem, then the next choice is a medication called <ins>memantine</ins>.
 
-**Some medications that _may_ make memory and thinking worse for some people:**
+**Some medications that <ins>may</ins> make memory and thinking worse for some people:**
 There are benefits and risks of all medication so you should speak to your healthcare professional if you have any concerns.
 
 - Anticholinergic medications (e.g. oxybutynin, solifenacin, amitriptyline)
@@ -201,4 +201,4 @@ There are benefits and risks of all medication so you should speak to your healt
 | Parkinson’s UK                | These Parkinson’s UK resources offer information on thinking and memory changes, access to local befriending and support services via postcode search, and a call companion service providing regular friendly chats to reduce isolation. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | Thinking and memory changes: <a href="https://www.parkinsons.org.uk/information-and-support/thinking-and-memory-changes" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/thinking-and-memory-changes</a><br><br>Befriending and other local support services can be found after entering your postcode: <a href="https://localsupport.parkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">localsupport.parkinsons.org.uk</a><br><br>Call companions: <a href="https://www.parkinsons.org.uk/information-and-support/call-companions" class="external-link" target="_blank" rel="noopener noreferrer">https://www.parkinsons.org.uk/information-and-support/call-companions</a> |
 | The Michael J. Fox Foundation | This American organisation has information on thinking and memory problems, with details of current testing and ways to boost your brain health.                                                                                          | --                                                                                                                                                     | <a href="https://www.michaeljfox.org/news/memory-thinking-changes" class="external-link" target="_blank" rel="noopener noreferrer">www.michaeljfox.org/news/memory-thinking-changes</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
