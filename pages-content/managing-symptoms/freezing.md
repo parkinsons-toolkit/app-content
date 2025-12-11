@@ -76,17 +76,17 @@ a) **Attention & Thinking**
 
 - Focus in on what you are trying to do.
 - Think about putting your heel down first when taking each step.
-- Think about _big_ steps.
+- Think about <ins>big</ins> steps.
 
-_Plan method_
+**Plan method**
 
 Reducing distractions may make this easier.
 
-_'Visualisation'_
+**'Visualisation'**
 
 - Athletes and musicians use this to visualize their tasks before performing.
 - Imagine the movements for the whole task before starting it. Think about it step by step.
-- _For example, imagine the steps you need to do to get out of bed over and over until you feel confident in each step._
+- For example, imagine the steps you need to do to get out of bed over and over until you feel confident in each step.
 
 ### Using Weight
 
@@ -104,14 +104,14 @@ Marching prevent freezing:
 ### Cueing
 
 These can be used both to prevent and overcome freezing.
-a) _Visual cues_, for example:
+a) **Visual cues**, for example:
 
 - Ask someone to place their foot in front of yours for you to carefully step over. A rolled-up newspaper or handle of an umbrella work as well, just be careful not to trip on it.
 - Use a laser to create a beam of light to follow.
-- _Prevention_: Stick bold tape to the floor in spots you commonly experience freezing. You could use a fan shape around corners and between rooms.
+- **Prevention:** Stick bold tape to the floor in spots you commonly experience freezing. You could use a fan shape around corners and between rooms.
 - Some equipment has been designed with lasers built in, for example walking sticks or frames.
 
-b) _Sound cues_, for example:
+b) **Sound cues**, for example:
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/metronome.jpg" alt="metronome" class="freezing__metronome">
 
@@ -119,34 +119,32 @@ b) _Sound cues_, for example:
 - Count out loud or to yourself.
 - Sing a rhythmic song or rhyme.
 - Listen to music with a good beat.
-- _Prevention_: count or sing as you go through doorways or other spots that trigger you to freeze. Use the momentum of the rhythm to carry you through.
+- **Prevention:** count or sing as you go through doorways or other spots that trigger you to freeze. Use the momentum of the rhythm to carry you through.
 
 c) Imagine a cue, for example:
 
 - Imagine a sound (i.e. a beat, metronome or rhythmic music).
 - Imagine a line in front of you to step over.
 
-_Tip: Think about your environment:_
-_- Remove rugs or mats that cause you to freeze in your home._
-_- Remove clutter that makes spaces feel small._
+Tip: Think about your environment:
+- Remove rugs or mats that cause you to freeze in your home.
+- Remove clutter that makes spaces feel small.
 
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “I’ve got some tricks up my sleeve now. Well, I did a very good CBT course and mindfulness, and I use a variety of techniques to unfreeze myself. I use counting for its cueing. I think to myself, I’m going to move on four; I’m going to count one, two, three and four, which is the cha-cha rhythm: one, two, three, cha-cha-cha…[then move forward]. Or you could target; you pick a spot the other side of what is your barrier, and you step onto that, a particular pattern in the carpet.”
->
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 > “Sometimes she will freeze, and then if there’s a division, like from the carpet onto that mat, or tiles on the floor, then to get her to step over, tell her to step over that division. Sometimes I’ve told her to step over something that isn’t there, but just to get the idea of moving.”
->
-> _(Carer of someone with Parkinson's)_
+> (Carer of someone with Parkinson's)
 
 ## Further assessment
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders and Notes_</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They may ask about:**
 
@@ -187,4 +185,4 @@ Research is ongoing to look for new ways of managing freezing, including the use
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Parkinson’s UK | Provides in-depth information about freezing: its causes, treatments, useful cues and general support. <br><br>You can read information online, print it or ask it to be mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/freezing" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/freezing</a> |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
