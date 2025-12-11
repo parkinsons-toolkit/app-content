@@ -42,7 +42,7 @@ Parkinson's can impact on a person's sex life in various ways:
   - **Reduced arousal and orgasm:** Parkinson’s can affect the body’s sexual function.
   - **Confidence.**
 
-Some Parkinson’s medicines (e.g. dopamine agonists) can cause ‘hypersexuality’. This is a marked increase in sexual interest, arousal, and behaviour. It might mean having more sexual thoughts or desire for different sexual practices. See the <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page for more information.
+Some Parkinson’s medicines (e.g. dopamine agonists) can cause ‘hypersexuality’. This is a marked increase in sexual interest, arousal, and behaviour. It might mean having more sexual thoughts or desire for different sexual practices. See the <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">Impulsive Behaviours</a> page for more information.
 
 ## What should I do about it?
 
@@ -60,7 +60,7 @@ At times, issues with sexual function are normal and may improve on their own. B
 
 If the problems are more frequent and bother you, talk to your GP or Parkinson’s specialist team. Many people are embarrassed by talking about sex - but remember these conversations are private and confidential. There are possible changes that can be made to medication that may improve your symptoms so do not be afraid to talk about it.
 
-**Hypersexuality:** If very mild, some couples may feel happy about the increase in sexual activity. But if sexual desires feel out of control, out of character or cause noticeable changes in behaviour then this should be addressed. Speak to your Parkinson’s specialist team urgently if this is the case. For more information, see the <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">_Impulsive Behaviours_</a> page.
+**Hypersexuality:** If very mild, some couples may feel happy about the increase in sexual activity. But if sexual desires feel out of control, out of character or cause noticeable changes in behaviour then this should be addressed. Speak to your Parkinson’s specialist team urgently if this is the case. For more information, see the <a href="/information/managing-symptoms/impulsive-behaviours" class="internal-link">Impulsive Behaviours</a> page.
 
 ## What can I try for myself?
 
@@ -69,20 +69,20 @@ If the problems are more frequent and bother you, talk to your GP or Parkinson�
 - Some sexual positions might be easier than others.
 - Try different times of the day. Ease of movement can change during the day and in response to medication, so you may find some times are better for you than others.
 
-For more information on movement problems, see our <a href="/information/managing-symptoms/tremor" class="internal-link">_Tremor_</a> page.
+For more information on movement problems, see our <a href="/information/managing-symptoms/tremor" class="internal-link">Tremor</a> page.
 
 ### Fatigue
 
 - It may help to try being intimate or having sex at a different time of day or when you have increased energy levels.
 
-For more information, see our <a href="/information/managing-symptoms/tiredness" class="internal-link">_Tiredness_</a> page.
+For more information, see our <a href="/information/managing-symptoms/tiredness" class="internal-link">Tiredness</a> page.
 
 ### Bladder & Bowel Problems
 
 - For urinary incontinence: you could try going to the toilet before having sex.
 - For bowel incontinence: you could try using an enema before sex, or an anal plug to stop leakage.
 
-For more advice on bladder and bowel issues, see the <a href="/information/managing-symptoms/urination" class="internal-link">_Urination_</a> and <a href="/information/managing-symptoms/bowels" class="internal-link">_Bowel_</a> pages.
+For more advice on bladder and bowel issues, see the <a href="/information/managing-symptoms/urination" class="internal-link">Urination</a> and <a href="/information/managing-symptoms/bowels" class="internal-link">Bowel</a> pages.
 
 ### Lowered Sex Drive
 
@@ -178,4 +178,4 @@ Other treatments for erectile dysfunction:
 
 \*Calls cost up to 10p/minute from landlines, between 3p- 40p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
