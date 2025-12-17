@@ -38,8 +38,6 @@ Click any page to learn more.
 
 ### 2. **Personalised Pages**
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gym-happy.jpg" alt="gym" class="content-image">
-
 These are personal to you. They help you record symptoms, set goals, keep track of your health.
 
 In the personalised section you will find:
