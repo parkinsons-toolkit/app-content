@@ -114,8 +114,6 @@ It is recommended to complete Sections 1 and 2 every 6-months or when things cha
 
 ### My Tracker 
 
-The My Tracker section helps you to keep track of your health and daily activities. There are six tabs within this sections and it is recommended to start by filling in the health conditions, health profile, and medications tabs. Following this, you can then start tracking symptoms and activities to view them on the chart alongside your medications.
-
 <div class="video-container">
 <iframe
   width="560"
@@ -125,6 +123,8 @@ The My Tracker section helps you to keep track of your health and daily activiti
   allowfullscreen>
 </iframe>
 </div>
+
+The My Tracker section helps you to keep track of your health and daily activities. There are six tabs within this sections and it is recommended to start by filling in the health conditions, health profile, and medications tabs. Following this, you can then start tracking symptoms and activities to view them on the chart alongside your medications.
 
 When you open the My Tracker page, you will see six tabs:
 
@@ -141,8 +141,6 @@ When you first visit the My Tracker section, we recommend you start by filling i
 
 ### Reminders & Notes 
 
-Set email reminders and alerts to remember to complete activities or take medication, make notes before or after healthcare appointments, and add contact details all in one place.
-
 <div class="video-container">
 <iframe
   width="560"
@@ -152,6 +150,8 @@ Set email reminders and alerts to remember to complete activities or take medica
   allowfullscreen>
 </iframe>
 </div>
+
+Set email reminders and alerts to remember to complete activities or take medication, make notes before or after healthcare appointments, and add contact details all in one place.
 
 
 ## Features Overview
