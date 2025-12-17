@@ -237,6 +237,9 @@ When it comes to incorporating the different components to your routine, many ca
 
 ### Symptoms
 
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gym-happy.jpg" alt="gym" class="content-image">
+
+
 Parkinson’s has both physical and mental symptoms which can make keeping active more difficult. Optimal control of your symptoms will help you to undertake activity, see the <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages for more advice for each.
 
 - Movement symptoms such as <a href="/information/managing-symptoms/stiffness-slowness-and-small-movements" class="internal-link">_Stiffness, Slowness & Small Movements_</a>, tend to respond better to medications than some of the non-movement symptoms. Talk to your specialist Parkinson’s team about any symptoms that are preventing you from keeping active.
