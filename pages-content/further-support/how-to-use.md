@@ -66,7 +66,6 @@ For each symptom, there will be a link to more information about the symptom. If
 
 My Wellbeing
 
-
 This section of the toolkit helps you to look at:
 
 - What you are currently doing to stay well
@@ -195,8 +194,6 @@ Each section of the tracker has its own dedicated video tutorial to help you nav
 
 ## How to Manage Access
 
-[Content to be added]
-
 <div class="video-container">
 <iframe
   width="560"
@@ -207,7 +204,16 @@ Each section of the tracker has its own dedicated video tutorial to help you nav
 </iframe>
 </div>
 
+You can invite anyone to view or edit specific parts of your toolkit (Symptom Review, My Tracker, My Wellbeing, and Reminders & Notes). You remain in complete control:
 
+- Choose exactly which sections each person can see or edit.
+- Stop sharing permissions at a moment’s notice.
+- Data is secure and never shared with third parties.
+
+Important Reminders
+Trust: Only share data with individuals you trust.
+
+Active Communication: Healthcare teams do not routinely monitor this data. If you have concerns, contact them directly.
 
 ## Self-Management
 
