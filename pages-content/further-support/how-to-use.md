@@ -32,7 +32,7 @@ The toolkit has a wealth of information on Parkinson’s and your overall health
 
 ## Navigation Guide
 
-Symptom Review
+### Symptom Review
 
 <div class="video-container">
 <iframe
@@ -64,7 +64,7 @@ How to start:
 For each symptom, there will be a link to more information about the symptom. If you are completing a section about a symptom, and want to find out more, click the underlined word next to 'learn more' to open a new tab with information. You can read the extra information now and then come back to your symptom review or finish your symptom review first and read the information later.
 
 
-My Wellbeing
+### My Wellbeing
 
 This section of the toolkit helps you to look at:
 
@@ -112,7 +112,7 @@ How often to complete:
 It is recommended to complete Sections 1 and 2 every 6-months or when things change. Try to update Section 3 at least every month to keep track of the wellbeing priorities you are working towards and how things are going.
 
 
-My Tracker 
+### My Tracker 
 
 The My Tracker section helps you to keep track of your health and daily activities. There are six tabs within this sections and it is recommended to start by filling in the health conditions, health profile, and medications tabs. Following this, you can then start tracking symptoms and activities to view them on the chart alongside your medications.
 
@@ -139,7 +139,7 @@ Getting started:
 When you first visit the My Tracker section, we recommend you start by filling in the following tabs: 'health conditions', 'health profile', and 'medications'.
 
 
-Reminders & Notes 
+### Reminders & Notes 
 
 Set email reminders and alerts to remember to complete activities or take medication, make notes before or after healthcare appointments, and add contact details all in one place.
 
