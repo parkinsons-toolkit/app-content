@@ -42,9 +42,9 @@ Towards the end of life, it may become more difficult to communicate your wishes
   - Registering for organ donation (more below) o Burial or cremation
   - Funeral plans
 
-For more information on formalising Advanced Decisions and Lasting Power of Attorney, see the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page.
+For more information on formalising Advanced Decisions and Lasting Power of Attorney, see the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">Legal Matters</a> page.
 
-For guidance on what to include in an Advanced Statement or Advanced Decision, see the <a href="/information/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_Future Care Options_</a> page.
+For guidance on what to include in an Advanced Statement or Advanced Decision, see the <a href="/information/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">Future Care Options</a> page.
 
 ### Practical Preparation
 
@@ -85,7 +85,7 @@ Other practical considerations:
 
 ## Place of Care
 
-The <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page covers options for places of care. Here we consider options for places of care for someone who knows they are close to dying.
+The <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">Housing</a> page covers options for places of care. Here we consider options for places of care for someone who knows they are close to dying.
 
 There can be practical difficulties in moving to a new place of care if someone is dying. Understanding preferences can help to plan for it where possible. When making such decisions it is helpful to know what **Palliative Care** services are and what they can offer.
 
@@ -156,7 +156,7 @@ There can be practical difficulties in moving to a new place of care if someone 
 
 If the end of life is expected to be near, care tends to prioritise comfort and dignity
 
-A person’s _usual medication_ may not be appropriate if they are nearing end of life. Medicines may be reviewed. These decisions are unique for the individual but generally involve:
+A person’s <ins>usual medication</ins> may not be appropriate if they are nearing end of life. Medicines may be reviewed. These decisions are unique for the individual but generally involve:
 
 - Stopping medicine intended only for long term benefit (such as tablets to lower cholesterol).
 - Continuing medicine for current symptoms (such as pain killers).
@@ -175,7 +175,7 @@ This is a delicate balancing act. Parkinson’s medicines are used to improve sy
 
 Conditions also change over time: for example, many people develop difficulty in swallowing pills. This may require a change, for example to medicine given as a patch on the skin (e.g. rotigotine patch).
 
-If someone is nearing end of their life, it is good to prepare for symptoms that may happen. This may involve getting medicine just in case it is needed. These ‘anticipatory’ medicines may include medicine to control pain, breathlessness, distress or agitation, nausea and secretions. These are considered for anyone near the end of life and are not specific to any medical condition. However, the _choice_ of these medicines should take Parkinson’s into consideration:
+If someone is nearing end of their life, it is good to prepare for symptoms that may happen. This may involve getting medicine just in case it is needed. These ‘anticipatory’ medicines may include medicine to control pain, breathlessness, distress or agitation, nausea and secretions. These are considered for anyone near the end of life and are not specific to any medical condition. However, the **choice** of these medicines should take Parkinson’s into consideration:
 
 - Haloperidol, metoclopramide and prochlorperazine (used for sickness) should generally be avoided even in palliative care for people with Parkinson’s. They can worsen Parkinson’s symptoms.
 - Alternatives such as cyclizine or ondansetron should be considered for nausea.
@@ -243,4 +243,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
