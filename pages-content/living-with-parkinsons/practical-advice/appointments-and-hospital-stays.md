@@ -76,9 +76,9 @@ Here are some pointers to help you prepare for your appointment with your Neurol
 
 Appointments are also an opportunity to ask questions about your condition and discuss your expectations, concerns and ideas with your specialist.
 
-_Tip 1: Don’t forget your medication list._
+Tip 1: Don’t forget your medication list.
 
-_Tip 2: It can be helpful to think about what your top 3 priorities are that you’d like to discuss with your specialist e.g., your most troubling symptoms, any changes you’ve noticed, or issues related to your medication response. This can help focus the conversation and ensure you cover your most important topics during the time you have with your specialist._
+Tip 2: It can be helpful to think about what your top 3 priorities are that you’d like to discuss with your specialist e.g., your most troubling symptoms, any changes you’ve noticed, or issues related to your medication response. This can help focus the conversation and ensure you cover your most important topics during the time you have with your specialist.
 
 - Using the Personalised sections of this toolkit may help you make the most of your appointments, by remembering what has happened between appointments, for example:
   - **The tracker –** keep track of symptoms and any changes between appointments
@@ -134,7 +134,7 @@ When someone is going to stay in the hospital, personal and health information i
 
 Make sure you tell staff you have Parkinson’s. It is helpful to give the contact details of your Parkinson’s specialist team. If it is a planned hospital admission they can liaise in advance. There is often overlap in the questions that different healthcare professionals ask and it can be frustrating to repeat. Consider using the _About Me_ and _My Health_ pages to record some of this key information. Then you can show the summary to multiple people, clarifying details as needed.
 
-If you are being treated with an advanced therapy or if you are on an experimental treatment, it is essential to tell the staff looking after you about it as soon as possible. These are highly specialised treatments so many healthcare professionals will not know much about them and the hospital may need to obtain them specifically. It is helpful if you can provide the details of your treatment and the team that look after it. _You should also have been provided by the team looking after these therapies with advice on what to do if you are admitted to hospital._
+If you are being treated with an advanced therapy or if you are on an experimental treatment, it is essential to tell the staff looking after you about it as soon as possible. These are highly specialised treatments so many healthcare professionals will not know much about them and the hospital may need to obtain them specifically. It is helpful if you can provide the details of your treatment and the team that look after it. <ins>You should also have been provided by the team looking after these therapies with advice on what to do if you are admitted to hospital.</ins>
 
 See extra information below for a list of advanced therapies.
 
@@ -153,7 +153,7 @@ It is important for staff to know you have Parkinson’s and know your specific 
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/nurse.jpg" alt="nurse" class="appointments-and-hospital-stays__nurse">
 
-You will probably encounter lots of different professionals during your hospital stay. See <a href="/information/treatments-and-therapies/who-may-be-involved" class="internal-link">_Who May Be Involved_</a> for more guidance on roles but always feel free to ask.
+You will probably encounter lots of different professionals during your hospital stay. See <a href="/information/treatments-and-therapies/who-may-be-involved" class="internal-link">Who May Be Involved</a> for more guidance on roles but always feel free to ask.
 
 ### Responsibilities you may still have outside hospital
 
@@ -175,7 +175,7 @@ Many people worry about things that they have left at home if they are admitted 
 - **Security and safety**: If you are worried about whether you locked the door, or left the cooker on, is there someone who could check to put your mind at ease? Is there someone who can check on your home whilst you are in hospital?
 - **Bills**: Is there someone who can step in to help while you are in hospital?
 
-See <a href="/information/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a>, and <a href="/information/living-with-parkinsons/practical-advice/hobbiess-and-pets" class="internal-link">_Hobbies & Pets_</a> for more guidance.
+See <a href="/information/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">Work & Caring</a>, and <a href="/information/living-with-parkinsons/practical-advice/hobbiess-and-pets" class="internal-link">Hobbies & Pets</a> for more guidance.
 
 ## Minimising Hospital Risks
 
@@ -199,7 +199,7 @@ Parkinson’s medication regimes can be very complicated. This is particularly s
 - Medication may be changed while you are in hospital. You are entitled to discuss any changes with the staff looking after you
 - If you notice a mistake with your medications, tell the staff looking after you
 - **In general**, if a question is about the reasons for a particular medication or medication change then ask the prescriber. This will usually be the doctor. If the question is about which tablet you are given, then ask the person giving it. This will usually be the nurse. Pharmacists may be able to help with both aspects
-- Your Parkinson’s medication should not be stopped suddenly. Some investigations and scans, and some operations (more detail below) need a period of fasting beforehand, but <ins>Parkinson’s medication can usually still be given</ins>. If you have been told not to eat and drink (often referred to as _Nil By Mouth_, _NBM_) do question whether you can still have your Parkinson’s medication
+- Your Parkinson’s medication should not be stopped suddenly. Some investigations and scans, and some operations (more detail below) need a period of fasting beforehand, but <ins>Parkinson’s medication can usually still be given</ins>. If you have been told not to eat and drink (often referred to as **Nil By Mouth**, **NBM**) do question whether you can still have your Parkinson’s medication
 
 ### Infection
 
@@ -302,7 +302,7 @@ If you are not happy about your care, you can consider talking to the team looki
 - Scotland – **PASS:** Patient Advice & Support Service
 - Wales – **Community Health Council**
 
-Other advocates include charities e.g. Parkinson’s UK and the advocacy and information service _POhWER_. Also your <a href="https://www.healthwatch.co.uk/your-local-healthwatch/list" class="external-link" target="_blank" rel="noopener noreferrer">local healthwatch</a> can help.
+Other advocates include charities e.g. Parkinson’s UK and the advocacy and information service **POhWER**. Also your <a href="https://www.healthwatch.co.uk/your-local-healthwatch/list" class="external-link" target="_blank" rel="noopener noreferrer">local healthwatch</a> can help.
 
 More information is available on the <a href="https://www.nhs.uk/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a>.
 
@@ -321,7 +321,7 @@ This will consider tasks you undertake in your daily life. The professional who 
 People affected by Parkinson’s describe their experiences.
 
 > So, they said they could make sure he can get up a couple of steps. And I think the stair-lift had to be fitted before he come home. And they had to assess the house and all that.
-> _(Carer of someone with Parkinson’s)_
+> (Carer of someone with Parkinson’s)
 
 ### Medication
 
@@ -348,13 +348,13 @@ Note it is important to communicate any changes in your living arrangements. Thi
 
 Decisions about health and care should be taken together with your healthcare professional. This is shared decision making. The healthcare professional gives you advice, and you have the final decision. This does not mean you can demand a treatment that is not thought to be right for you by professionals, but that you are in control of your care.
 
-Sometimes thinking and memory problems can interfere with a person’s ability to make decisions. If this is the case, they may ‘lack capacity’ to make the decision. Capacity can be different for different decisions, this is usually due to complexity. It can also vary over time. See <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> for more information on what happens if someone ‘lacks capacity’ for the decisions around their care.
+Sometimes thinking and memory problems can interfere with a person’s ability to make decisions. If this is the case, they may ‘lack capacity’ to make the decision. Capacity can be different for different decisions, this is usually due to complexity. It can also vary over time. See <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">Legal Matters</a> for more information on what happens if someone ‘lacks capacity’ for the decisions around their care.
 
 If someone lacks capacity to consent to the hospital admission and care, and they require constant supervision, then a legal process must be followed. This is known as ‘Deprivation of Liberty Safeguards’ (DOLS). This is to protect them and make sure decisions are taken in their ‘best interests’. In some cases this may involve keeping them in hospital even when they say they want to go home.
 
 This is if being treated in hospital is in their best interests.
 
-Some people will have a Power of attorney in place, in which case the healthcare professionals will include them in decision making. Please see <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> for further details about this.
+Some people will have a Power of attorney in place, in which case the healthcare professionals will include them in decision making. Please see <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">Legal Matters</a> for further details about this.
 
 If someone has a mental health problem that causes them to be at serious risk to themselves or others, then a legal framework may be used to make some health decisions for them. This could be to stay in hospital, or for treatment for the mental health problem. The law that is followed is the Mental Health Act.
 
