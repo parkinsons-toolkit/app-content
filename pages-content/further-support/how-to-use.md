@@ -156,8 +156,6 @@ Set email reminders and alerts to remember to complete activities or take medica
 
 ## Features Overview
 
-[Content to be added]
-
 <div class="video-container">
 <iframe
   width="560"
@@ -168,9 +166,11 @@ Set email reminders and alerts to remember to complete activities or take medica
 </iframe>
 </div>
 
+There are personalised sections which are interactive (Symptom Review, My Wellbeing, My Tracker, and Reminders & Notes) along with a wide variety of information pages to help you live well with Parkinson's. 
+
+
 ## How to Personalise
 
-There are personalised sections (About Me, My Health, Symptom Review, My Well-being, My Tracker, Appointments and To Do Lists & Notes) which each aim to...
 
 You might find it useful to consider what types of questions could help you to analyse the data you’ve entered into the tracker. For example:
 
