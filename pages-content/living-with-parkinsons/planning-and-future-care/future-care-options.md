@@ -66,11 +66,11 @@ This depends on what you need. Some professional options:
 
 Also consider charity services, such as the Parkinson’s UK helpline, or Age UK.
 
-See the <a href="/information/further-support/further-support" class="internal-link">_Further Support_</a> pages for more ideas.
+See the <a href="/information/further-support/further-support" class="internal-link">Further Support</a> pages for more ideas.
 
 ## Decisions About Your Care
 
-Decisions can be hard. Many people need support in making big decisions. There are also many reasons why someone may be unable to make decisions for themselves. Parkinson’s can affect the ability to make decisions. Anyone could find themselves in a situation that prevents them making their own decisions. This could be following an accident, for example. These considerations are therefore not only relevant in Parkinson’s, but are for _everyone_.
+Decisions can be hard. Many people need support in making big decisions. There are also many reasons why someone may be unable to make decisions for themselves. Parkinson’s can affect the ability to make decisions. Anyone could find themselves in a situation that prevents them making their own decisions. This could be following an accident, for example. These considerations are therefore not only relevant in Parkinson’s, but are for **everyone**.
 
 ### Who do you want involved in decisions about your care?
 
@@ -105,7 +105,7 @@ There are two separate types of LPA, one for **health and care decisions** and a
 
 Having an LPA in place means that, if the time comes when you need help making choices, someone who understands your preferences can step in. This can relieve a great deal of stress for you and your family, knowing that someone is prepared to act in your best interests.
 
-If you were unable to make these decisions yourself and did not have an LPA, then professionals take this responsibility. The decisions must be made in your _best interests_. Professionals are obliged to try to find out what your wishes would have been. To do this, they will look for any recorded wishes and will speak to people close to you.
+If you were unable to make these decisions yourself and did not have an LPA, then professionals take this responsibility. The decisions must be made in your **best interests**. Professionals are obliged to try to find out what your wishes would have been. To do this, they will look for any recorded wishes and will speak to people close to you.
 
 ## My Experience
 
@@ -128,9 +128,9 @@ Things to consider in an **Advance Statement**:
 - Where do you want to be?
 - Wishes and choices for daily life
 - Views on medical interventions
-- Wishes for after death (see the <a href="/information/living-with-parkinsons/planning-and-future-care/end-of-life" class="internal-link">_End of Life_</a> page for more on this).
+- Wishes for after death (see the <a href="/information/living-with-parkinsons/planning-and-future-care/end-of-life" class="internal-link">End of Life</a> page for more on this).
 
-For more information on Advance Decisions and Lasting Power of Attorney, see the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page.
+For more information on Advance Decisions and Lasting Power of Attorney, see the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">Legal Matters</a> page.
 
 ## Why Future Care Planning is Important
 
@@ -156,9 +156,9 @@ Family and friends play a crucial role in future care planning. They can:
 - **Help with practicalities** like gathering information on care options or assisting in setting up an LPA.
 - **Provide emotional support**, reassuring you that they are there to respect your decisions and stand by you through the journey.
 
-It’s also important for caregivers and family members to look after their own well-being. Dealing with the emotional aspects of Parkinson’s can be tough, and resources like the <a href="/information/living-with-parkinsons/for-family-and-carers" class="internal-link">_Guidance for Families and Carers_</a> pagr offer support in managing stress, anxiety, and other challenges that come with caregiving.
+It’s also important for caregivers and family members to look after their own well-being. Dealing with the emotional aspects of Parkinson’s can be tough, and resources like the <a href="/information/living-with-parkinsons/for-family-and-carers" class="internal-link">Guidance for Families and Carers</a> pagr offer support in managing stress, anxiety, and other challenges that come with caregiving.
 
-There are also **peer support networks** where both people with Parkinson’s and their loved ones can connect with others in similar situations. You can explore the <a href="/information/further-support/services-and-groups" class="internal-link">_Services & Groups_</a> page for more information on helpful services and communities.
+There are also **peer support networks** where both people with Parkinson’s and their loved ones can connect with others in similar situations. You can explore the <a href="/information/further-support/services-and-groups" class="internal-link">Services & Groups</a> page for more information on helpful services and communities.
 
 By planning ahead, you and your family can face the future with greater confidence, knowing that your care will reflect your personal wishes and that you have the support you need.
 
@@ -169,7 +169,7 @@ If a person is finding day-to-day tasks more difficult, they may benefit from:
 - Carers to help support with daily tasks
 - Changes to the home environment or relocation
 
-The <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page has more information and advice about day-to-day tasks. The <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page has more information and advice about where you live and adaptations that can be made to a home. Your local Adult Social Care services can support you in working out what is best for you. You can find your local services by searching on the GOV.UK of NHS websites, or calling your local council.
+The <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">Daily Living</a> page has more information and advice about day-to-day tasks. The <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">Housing</a> page has more information and advice about where you live and adaptations that can be made to a home. Your local Adult Social Care services can support you in working out what is best for you. You can find your local services by searching on the GOV.UK of NHS websites, or calling your local council.
 In broad terms the options are:
 
 ### Own home or family home
@@ -195,7 +195,7 @@ A change in housing could be arranged privately or via your local Adult Social C
 
 ### Who pays for this?
 
-Also see the <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page for more advice.
+Also see the <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">Finances</a> page for more advice.
 
 In the UK at this time:
 
@@ -206,7 +206,7 @@ In the UK at this time:
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/carer.jpg" alt="professional-helping" class="future-care-options__carer">
 
-- Find your local services by searching on the NHS or government websites service directories. Listed as _Adult Social Care_.
+- Find your local services by searching on the NHS or government websites service directories. Listed as <ins>Adult Social Care</ins>.
 - They provide support for your daily life activities. This may be through living arrangements, equipment or carers.
 - They will carry out an assessment to decide what you would benefit from and the cost.
 - The financial thresholds change with time. Check online at gov.uk or ask your social worker.
@@ -237,7 +237,7 @@ For people with rapidly deteriorating health who may be nearing the end of life,
 
 ### NHS-funded nursing care
 
-This funding is also from the NHS/State. It is for people who are assessed as _not eligible_ for the Continuing Healthcare (CHC) funding described above, but do need registered nursing care in a care home. It is a contribution rather than the full cost and is the same rate across England. You can contact your local Clinical Commissioning Group (CCG) or ask your health or social care professionals for more information.
+This funding is also from the NHS/State. It is for people who are assessed as <ins>not eligible</ins> for the Continuing Healthcare (CHC) funding described above, but do need registered nursing care in a care home. It is a contribution rather than the full cost and is the same rate across England. You can contact your local Clinical Commissioning Group (CCG) or ask your health or social care professionals for more information.
 
 ## Medical Decisions
 
@@ -246,14 +246,14 @@ This funding is also from the NHS/State. It is for people who are assessed as _n
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/remote-consultation.jpg" alt="remote-consultation" class="future-care-options__remote-consultation">
 
 - Provision of food and drink by mouth is considered ‘basic care’, so will always be provided.
-- Some people have difficulties swallowing. If this becomes severe, the risk of food or drink going into the lungs instead of the stomach increases. Swallowing difficulties are also associated with the risk of inadequate nutrition and weight loss. See the <a href="/information/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">_Progression of Symptoms_</a> page for more explanation.
+- Some people have difficulties swallowing. If this becomes severe, the risk of food or drink going into the lungs instead of the stomach increases. Swallowing difficulties are also associated with the risk of inadequate nutrition and weight loss. See the <a href="/information/living-with-parkinsons/planning-and-future-care/progression-of-symptoms" class="internal-link">Progression of Symptoms</a> page for more explanation.
 - Changes to the consistency of food and drink may help with swallowing, but in some cases swallowing remains difficult and the risk of pneumonia and inadequate nutrition remain high.
 - If these risk remain, the options are:
   - Continue eating and drinking by mouth, accepting the risks. o Stop eating and drinking by mouth, and use tubes to deliver food, drink and medicines.
 - Swallowing is assessed by ‘Speech and Language Therapists’. They can advise on what is best from a medical perspective.
 - **However, each person can make the decision not to have tube feeding, if they are unable or refuse to eat and drink.**
 
-When tube feeding is used due to swallowing problems, it is to **_replace_** eating and drinking by mouth. It is important to note that saliva will still form and can still _go down the wrong way_. So overall the risk is reduced but not gone. In _other_ circumstances, such as some stomach problems, tube feeding may be done alongside eating and drinking.
+When tube feeding is used due to swallowing problems, it is to **<ins>replace</ins>** eating and drinking by mouth. It is important to note that saliva will still form and can still **go down the wrong way**. So overall the risk is reduced but not gone. In **other** circumstances, such as some stomach problems, tube feeding may be done alongside eating and drinking.
 
 Tubes for food, drink and medicines also carry risks so there is no perfect solution. The risks and benefits will vary from person to person and require careful consideration. Speech & Language Therapists, specialist dietitians, doctors and nurses are all likely to be involved in this decision. Consideration must be given to quality of life. For many people, food and drink are a source of pleasure. This is discussed further in the 'Health & Care Priorities' section below.
 
@@ -261,7 +261,7 @@ Tubes for food and drink are sometimes called ‘Artificial Nutrition & Hydratio
 
 - **Intravenous fluid:** Fluid can be given through a small drip into a small vein, such as in the arm or hand. It must be done cautiously as affects the body’s usual regulation of fluid intake.
 - **Nasogastric (NG) tube or nasojejunal (NJ) tube:** These are tubes inserted through the nose that goes down into the gut. This is to deliver food, water and/or medicine directly.
-- **Gastrostomy – (sometimes called ‘PEG’ or ‘RIG’):** These are tubes inserted by a surgical procedure. This sometimes involves a camera being inserted from the mouth (endoscopic guided) and sometimes involves special x-rays (radiologically guided) to guide placement. The tube connects from outside the body, through the skin into the stomach. The tubes can be used for food, water and/or medicine. Sometimes the tube is extended on the inside to reach into the small intestine (sometimes called PEG-J). This is the same method as for Duodopa, discussed on the <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page.
+- **Gastrostomy – (sometimes called ‘PEG’ or ‘RIG’):** These are tubes inserted by a surgical procedure. This sometimes involves a camera being inserted from the mouth (endoscopic guided) and sometimes involves special x-rays (radiologically guided) to guide placement. The tube connects from outside the body, through the skin into the stomach. The tubes can be used for food, water and/or medicine. Sometimes the tube is extended on the inside to reach into the small intestine (sometimes called PEG-J). This is the same method as for Duodopa, discussed on the <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a> page.
 - **Intravenous nutrition:** In very specific circumstances, liquid food can be given through a big drip into a big vein (such as in the neck). Food given in this way has significant risks related to it. It is therefore only undertaken in very special circumstances, such as for people whose bowels don’t work.
 
 <div class="video-container">
@@ -402,4 +402,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\* Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
