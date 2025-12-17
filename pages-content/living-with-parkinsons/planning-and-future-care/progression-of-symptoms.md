@@ -28,7 +28,7 @@ Everyone’s experience of Parkinson’s is different. Just because some people 
 
 In general, over time people may experience more symptoms, but there is no rule about which symptoms or when. For some, the uncertainty about how things will look and feel in the future is one of the most difficult parts of the Parkinson’s diagnosis.
 
-_Progression_ may involve the development of new symptoms or the worsening of existing symptoms. It may include an increasing difficulty controlling symptoms. Here we discuss challenges around progression and some of the more advanced symptoms. For other symptoms see the <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages.
+**Progression** may involve the development of new symptoms or the worsening of existing symptoms. It may include an increasing difficulty controlling symptoms. Here we discuss challenges around progression and some of the more advanced symptoms. For other symptoms see the <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">Managing Symptoms</a> pages.
 
 ## Dealing with Progression
 
@@ -61,8 +61,7 @@ It is normal to feel grief. It is helpful to acknowledge your grief. Understandi
 </div>
 
 > “The more I said, ‘Parkinson’s is doing this,’ you may be more angry and frustrated. But to be able to think that it’s a disease and I’m living with it and I have to go and change my life around it, you sort of understand that I have to accept that, because it’s not going to go away. It’s going to stay there. So it’s better for me to deal with it like that.”
->
-> _Person with Parkinson’s_
+> (Person with Parkinson’s)
 
 ## Progression of Symptoms
 
@@ -75,7 +74,7 @@ But generally, over time, symptoms tend to change:
 - Earlier on, symptoms, particularly movement symptoms, tend to respond well to medication.
 - Over time you may experience that the medication ‘wears off’ more between doses.
 - Involuntary movements, for example unintended twisting of the shoulders, can also develop.
-- Various changes to medication regime can be made in order to ease some of these problems. Changes to the diet might also be suggested. This is also discussed on the <a href="/information/managing-symptoms/variability-of-symtoms" class="internal-link">_Variability of Symptoms_</a> page.
+- Various changes to medication regime can be made in order to ease some of these problems. Changes to the diet might also be suggested. This is also discussed on the <a href="/information/managing-symptoms/variability-of-symtoms" class="internal-link">Variability of Symptoms</a> page.
 - Over time, it becomes harder for people to mobilise, and falls and freezing are more likely to occur
 - In the more advanced stages of Parkinson’s, the fluctuations and variability in symptoms can become less clearly related to the medication regime. The changes between good and bad times can become abrupt and unpredictable.
 - It is impossible for you or your health care professional to predict exactly how your disease will
@@ -87,9 +86,9 @@ Speak with your Parkinson’s specialist team:
 
 - There may be adjustments to medication that could help, or the addition of new medications.
 - Depending on your circumstances, there may be other options, such as:
-  - Medication by injection, ‘apomorphine’ - see the see our <a href="/information/treatments/medications" class="internal-link">_Medications_</a> page for more information.
-  - More invasive options such as Deep Brain Stimulation – see our <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page for more information.
-  - An operation to put a tube into your gut, so that medication can be given directly into your digestive system – see our <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">_Advanced Therapies & Surgical Treatments_</a> page for more information.
+  - Medication by injection, ‘apomorphine’ - see the see our <a href="/information/treatments/medications" class="internal-link">Medications</a> page for more information.
+  - More invasive options such as Deep Brain Stimulation – see our <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a> page for more information.
+  - An operation to put a tube into your gut, so that medication can be given directly into your digestive system – see our <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a> page for more information.
 
 However, there may not be any suitable medical or surgical way to improve the pattern of your condition. This means that adapting to deal with the unpredictable symptoms may be required. Many find this hard.
 
@@ -98,8 +97,7 @@ If the symptoms are affecting your ability to undertake daily activities or task
 ## My Experience\*\*
 
 > “I did try to keep a diary about the Parkinson’s… because I thought when I go back to the Parkinson’s clinic I could look back and say last week he was like this. It can help see changes, and get help.”
->
-> _(Carer of someone with Parkinson’s)_
+> (Carer of someone with Parkinson’s)
 
 ## Dementia
 
@@ -126,11 +124,11 @@ If the symptoms are affecting your ability to undertake daily activities or task
 </iframe>
 </div>
 
-- See your GP or Parkinson’s specialist team for assessment. Assessments may be conducted by a specialist service, often called a _Memory Clinic_.
+- See your GP or Parkinson’s specialist team for assessment. Assessments may be conducted by a specialist service, often called a **Memory Clinic**.
 - There are medication options that have been shown to improve symptoms in dementia. These are generally started by a Parkinson’s specialist or a dementia specialist.
 - Memory clinic services vary by area. They will generally have support services connected to them, or they can give you the details of services that can help you.
-- Day-to-day strategies for memory difficulties are discussed on the <a href="/information/managing-symptoms/thinking-concentration-and-memory" class="internal-link">_Thinking, Concentration & Memory_</a> page.
-- **Prepare:** over time dementia can affect a person’s ability to make decisions. If someone no longer has the ‘mental capacity’ to make decisions about their care, then decisions will be made on their behalf. Prepare by thinking ahead and making your wishes known. You can record your wishes in advance or appoint someone to take decisions for you. See the <a href="/information/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_Future Care Options_</a> page for things to consider, and the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page for the formal process.
+- Day-to-day strategies for memory difficulties are discussed on the <a href="/information/managing-symptoms/thinking-concentration-and-memory" class="internal-link">Thinking, Concentration & Memory</a> page.
+- **Prepare:** over time dementia can affect a person’s ability to make decisions. If someone no longer has the ‘mental capacity’ to make decisions about their care, then decisions will be made on their behalf. Prepare by thinking ahead and making your wishes known. You can record your wishes in advance or appoint someone to take decisions for you. See the <a href="/information/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">Future Care Options</a> page for things to consider, and the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">Legal Matters</a> page for the formal process.
 
 ## Swallowing Problems & Chest Infections
 
@@ -144,7 +142,7 @@ If the symptoms are affecting your ability to undertake daily activities or task
 </iframe>
 </div>
 
-Swallowing problems are common in Parkinson’s but exist along a range of severity.When swallowing problems are more severe, there is a risk of food, drink or even saliva _‘going down the wrong way’_.
+Swallowing problems are common in Parkinson’s but exist along a range of severity.When swallowing problems are more severe, there is a risk of food, drink or even saliva **‘going down the wrong way’**.
 
 ### How swallowing works
 
@@ -158,20 +156,20 @@ Swallowing problems are common in Parkinson’s but exist along a range of sever
 
 **Possible problems:**
 
-- Large solid pieces of food going _down the wrong way_ can cause coughing and choking. This can be very scary, but it is the body reflex to clear the throat. The cough itself is therefore good.
-- Smaller solids or liquids _going down the wrong way_ may reach the lungs. Here they can cause a harmful reaction in the lungs, and sometimes infection, called aspiration pneumonia. Recurrent debris and reaction in the lungs can cause scarring of the lungs.
-- _Pneumonia_ refers to a type of chest (lung) infection. Symptoms may include cough, shortness of breath or difficulty breathing, and fevers.
-- In this context aspiration refers to food, drink or _saliva going down the wrong way_, into the airway.
+- Large solid pieces of food **going down the wrong way** can cause coughing and choking. This can be very scary, but it is the body reflex to clear the throat. The cough itself is therefore good.
+- Smaller solids or liquids **going down the wrong way** may reach the lungs. Here they can cause a harmful reaction in the lungs, and sometimes infection, called aspiration pneumonia. Recurrent debris and reaction in the lungs can cause scarring of the lungs.
+- **Pneumonia** refers to a type of chest (lung) infection. Symptoms may include cough, shortness of breath or difficulty breathing, and fevers.
+- In this context aspiration refers to food, drink or **saliva going down the wrong way**, into the airway.
 
 ### What can be done
 
-- Guidance for self-help strategies for less severe symptoms is on the <a href="/information/managing-symptoms/swallowing" class="internal-link">_Swallowing Difficulties_</a> page.
+- Guidance for self-help strategies for less severe symptoms is on the <a href="/information/managing-symptoms/swallowing" class="internal-link">Swallowing Difficulties</a> page.
 - If you have not already done so, or if the situation has changed, talk to your GP about referral to a Speech & Language Therapist (SLT) for a further assessment.
 - If food or drink makes someone cough, encourage the cough to help clear the food or drink from the airway.
 - SLT’s may make recommendations. These may be changes in consistency of the food and drink you take in. Such changes are to reduce the risk of aspiration pneumonia.
-- There are medical options that could be used for artificial feeding and hydration. However, they do not remove the risk of saliva _going down the wrong way._ Artificial feeding and hydration comes with risks and tube insertion may be distressing.
+- There are medical options that could be used for artificial feeding and hydration. However, they do not remove the risk of saliva **going down the wrong way**. Artificial feeding and hydration comes with risks and tube insertion may be distressing.
 - Some people prefer to accept the risk of food or drink going down the wrong way, so continue to eat and drink by mouth.
-- More information on artificial feeding is on the <a href="/information/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">_Future Care Options_</a> page.
+- More information on artificial feeding is on the <a href="/information/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">Future Care Options</a> page.
 
 ## Useful Organisations & Contacts
 
@@ -186,4 +184,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\* Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
