@@ -53,7 +53,7 @@ If you are struggling to manage your finances, you may find these suggestions he
 - Consider appointing a Finance and Property Lasting Power of Attorney (LPA).
   - This would allow your chosen person(s) to deal with financial matters if you are not able to make decisions for yourself. This includes paying bills, deciding how to spend your money, collecting pensions, and managing bank or building society accounts.
   - It’s important to apply for LPA while you still have mental capacity (you’re able to make decisions). If you lose decision-making capacity before having an LPA in place, someone will have to apply to the Court of Protection to manage your money. This can be a slow and expensive process.
-  - See our <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page for more information about the different types of LPA and how to set these up.
+  - See our <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">Legal Matters</a> page for more information about the different types of LPA and how to set these up.
 
 ## Government Benefits
 
@@ -75,7 +75,7 @@ If you find these complicated don’t worry, there are several sources of help a
 
 ### For People with Parkinson’s:
 
-_**Attendance Allowance**_
+**Attendance Allowance**
 Attendance Allowance helps those who are State Pension age or older with extra costs of living with an illness or disability. It is paid to the person who requires support with their personal care or safety (not to a carer). There are two payment rates and how much you receive depends on the level of support you need – not on the help you are already receiving.
 
 This is a **non means-tested** benefit; the amount awarded is not dependent on your income or savings.
@@ -181,7 +181,7 @@ Employment and Support Allowance can help if you’re not able to work as much d
 
 ESA is made up of two parts – contributory ESA and income-related ESA:
 
-- Income-related ESA: _This has been replaced by Universal Credit_.
+- Income-related ESA: <ins>This has been replaced by Universal Credit</ins>.
 - Contributory ESA: This has now been replaced by ‘New Style ESA’ for new claimants. To be able to claim, you must have paid enough National Insurance contributions in specific tax years (National Insurance credits count). Payment of contributory ESA is often limited to 12 months.
 
 This is a **non means-tested** benefit; the amount awarded is not dependent on your income or savings.
@@ -199,7 +199,7 @@ Jobseeker’s Allowance aims to help people who do not have a job or are working
 
 There are two forms of Jobseeker’s Allowance:
 
-- Income-based: _This has been replaced by Universal Credit_.
+- Income-based: <ins>This has been replaced by Universal Credit</ins>.
 - Contribution-based: Can be paid for up to 6 months, either in one period or several shorter periods. It is **not means-tested** but may be affected by part-time earnings or a workplace or personal pension.
 
 To be eligible to claim, you must:
@@ -253,14 +253,14 @@ You can apply for VAT relief by:
 - Asking your supplier for a VAT relief form
 - Applying online when purchasing VAT-free items online
 - Downloading a form to take into a shop when you make a qualifying purchase
-- Visit <a href="http://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a> and search _“VAT relief”_ or call HM Revenue & Customs (HMRC) on **0300 200 3700**
+- Visit <a href="http://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a> and search “VAT relief” or call HM Revenue & Customs (HMRC) on **0300 200 3700**
 
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “When we go to the mobility shop to buy things like walking sticks and wheelchairs, he doesn’t charge us VAT because \[partner] has Parkinson’s.”
-> _(Carer of someone with Parkinson’s)_
+> (Carer of someone with Parkinson’s)
 
 ## Prescription Charges/Prescription Prepayment Certificate (PPC)
 
@@ -365,7 +365,7 @@ Occupational therapists may be able to help you to arrange funding for minor hom
 
 If you need major changes to your home (e.g. an extension, fixed hoists), you may be able to claim a disabled facilities grant. For this, an occupational therapist will assess your needs and contact the relevant local authority departments about the necessary changes. Funding for major home adaptations is often means-tested. This means the amount of funding you receive depends on how much money you have, including any savings.
 
-To read more about the Disabled Facilities Grant, visit <a href="https://www.gov.uk/disabled-facilities-grants" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a>. For more information on equipment and home adaptations, see our <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page.
+To read more about the Disabled Facilities Grant, visit <a href="https://www.gov.uk/disabled-facilities-grants" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a>. For more information on equipment and home adaptations, see our <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">Housing</a> page.
 
 ### Care Services
 
@@ -410,4 +410,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
