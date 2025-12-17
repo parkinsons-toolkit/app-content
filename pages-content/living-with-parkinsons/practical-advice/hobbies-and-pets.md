@@ -35,7 +35,7 @@ Having a pet can also help to improve wellbeing. When diagnosed with Parkinson�
 People affected by Parkinson’s describe their experiences.
 
 > “You can either go downhill or you can make yourself, try and help yourself. So not dwelling on the worst all the time, [but] dwelling on the best…go for the things you can do.”  
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 ## Maintaining hobbies
 
@@ -62,51 +62,51 @@ There are several tips that may help you to continue with different hobbies:
 ### Plan ahead
 
 - Plan ahead for specific days and times you are going to enjoy your hobbies. Think about what time of day you will most enjoy doing the activity.
-- _Example:_ If your mind feels clearer and your mobility tends to be better in the morning, plan activities for then rather than in the afternoon or evening.
-- If getting to your activity is difficult, see our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for ideas to make this easier, such as the blue badge scheme for parking.
-- If you need to have access to toilets to do your activity, see our <a href="/information/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a> section for information on the ‘Radar key’ scheme for accessible toilets, and other tips.
+- <ins>Example:</ins> If your mind feels clearer and your mobility tends to be better in the morning, plan activities for then rather than in the afternoon or evening.
+- If getting to your activity is difficult, see our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">Travel</a> page for ideas to make this easier, such as the blue badge scheme for parking.
+- If you need to have access to toilets to do your activity, see our <a href="/information/managing-symptoms/urination" class="internal-link">Urinary Symptoms</a> section for information on the ‘Radar key’ scheme for accessible toilets, and other tips.
 - If stairs are difficult, there are resources online and Apps that allow you to check which venues are accessible in your local area (e.g., <a href="https://www.accessable.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">AccessAble</a>). Some sites now also clearly label accessible countryside walks (e.g., <a href="https://www.ramblers.org.uk/advice/walking-with-a-disability-or-health-issue/people-with-limited-mobility-and-wheelchair-users.aspx" class="external-link" target="_blank" rel="noopener noreferrer">Ramblers - walking with a disability</a>).
 
 ### Have a back-up plan
 
-- • There are times when you may have “good days” and “bad days”. Have a back-up plan for an activity that you can still enjoy on days you can’t do the activity you had planned.
-  • _Example:_ you enjoy reading but sometimes find it hard to turn the pages or focus on the writing. Your back-up plan is to use an audiobook where you can listen to a story.
+- There are times when you may have “good days” and “bad days”. Have a back-up plan for an activity that you can still enjoy on days you can’t do the activity you had planned.
+  - </ins>Example:</ins> you enjoy reading but sometimes find it hard to turn the pages or focus on the writing. Your back-up plan is to use an audiobook where you can listen to a story.
 
 ### Allow more time
 
 - Allow more time for your activity as it may take longer for you to do it than before.
-  • _Example:_ Your hobby involves walking, such as countryside walks or visiting museums. It may be best to allow more time as you may not walk at the same speed as previously or you may get tired faster.
+  - <ins>Example:</ins> Your hobby involves walking, such as countryside walks or visiting museums. It may be best to allow more time as you may not walk at the same speed as previously or you may get tired faster.
 
 ### Think about ways you can change the activity
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gym.jpg" alt="gym" class="hobbies-and-pets__gym">
 
 - There may come a time when doing an activity, you love is too difficult. Take time to think about ways you can change the activity while keeping it similar enough for you to enjoy.
-- _Example:_ You enjoy cycling and are part of a social group. But balancing on the bike is now difficult. You could think about alternatives such as joining an indoor spin class or indoor cycling group. This way, you can still enjoy the social aspect and the benefit of cycling without the risk of losing balance on a road.
+  - <ins>Example:</ins> You enjoy cycling and are part of a social group. But balancing on the bike is now difficult. You could think about alternatives such as joining an indoor spin class or indoor cycling group. This way, you can still enjoy the social aspect and the benefit of cycling without the risk of losing balance on a road.
 
 ### Involve other people
 
 - You may find it difficult to perform a hobby to the level that you once could. It may be enjoyable and helpful to involve other people in the hobbies you enjoy.
-- _Example:_ Your hobby is something that requires a high level of skill such as playing the piano, knitting, or woodwork. You could spend time with family or friends completing these tasks together or teaching them how to do it. This will also provide a meaningful and enjoyable way to spend time together.
+  - <ins>Example:</ins> Your hobby is something that requires a high level of skill such as playing the piano, knitting, or woodwork. You could spend time with family or friends completing these tasks together or teaching them how to do it. This will also provide a meaningful and enjoyable way to spend time together.
 
 ### Try new activities
 
 - Take time to try new activities and see if you find them enjoyable.
-- _Example:_ You’ve not done much gardening before as you’ve struggled to find the time but it’s something that interests you. You may find joining a social gardening club quite relaxing and pleasurable.
+  - <ins>Example:</ins> You’ve not done much gardening before as you’ve struggled to find the time but it’s something that interests you. You may find joining a social gardening club quite relaxing and pleasurable.
 
 ### Try creative hobbies - Join a Parkinson’s specific social group
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/golf-with-friends.jpg" alt="golf-with-friends" class="hobbies-and-pets__golf-with-friends">
 
 - You may find it helpful to meet up with other people in groups for living with Parkinson’s. For example, if you’re feeling frustrated because you’re no longer able to do an activity to the level you once could, other people may be able to share how they manage this. By attending a Parkinson’s specific group, you can talk to, and share advice with, others who have been in a similar situation to you. The organisers of these social groups will also have experience of being able to adapt activities to help you make them more enjoyable again.
-- _Example:_ You enjoy golf but are finding it more difficult to get around the course due to problems walking. In some areas there are indoor golf groups designed for people who are older or have Parkinson’s. Instead of playing 18 full holes, members take part in putting tournaments or mini- golf with adapted golf clubs (e.g. clubs with extra wide grip). Not everyone takes part, some are happy to watch and comment.
+  - <ins>Example:</ins> You enjoy golf but are finding it more difficult to get around the course due to problems walking. In some areas there are indoor golf groups designed for people who are older or have Parkinson’s. Instead of playing 18 full holes, members take part in putting tournaments or mini- golf with adapted golf clubs (e.g. clubs with extra wide grip). Not everyone takes part, some are happy to watch and comment.
 
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “I think Parkinson’s groups are great. I think they’re great socially. They’re great in terms of finding out about benefits that an individual may not know about, accessing services that they either do or don’t know about but don’t know how to access.”  
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 ## What support is available?
 
@@ -226,4 +226,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*\* Calls follow business rate numbers, up to 7p plus your phone company’s access charge/minute from landlines and mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
