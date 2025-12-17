@@ -368,7 +368,7 @@ If someone has a mental health problem that causes them to be at serious risk to
 </iframe>
 </div>
 
-## More Information
+## Useful Organisations & Contacts
 
 Please look at the bottom of the table for further information about call charges
 
@@ -383,6 +383,5 @@ Please look at the bottom of the table for further information about call charge
 
 \* Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-```
 
-```
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
