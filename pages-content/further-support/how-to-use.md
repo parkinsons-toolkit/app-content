@@ -32,9 +32,7 @@ The toolkit has a wealth of information on Parkinson’s and your overall health
 
 ## Navigation Guide
 
-[Content to be added]
-
-Symptom Review how to:
+Symptom Review
 
 <div class="video-container">
 <iframe
@@ -46,10 +44,45 @@ Symptom Review how to:
 </iframe>
 </div>
 
+This section helps you to review 56 symptoms that may be linked to Parkinson's. Everyone's experience of Parkinson's is different, and symptoms can change over time.
 
-My Wellbeing how to:
+What you can do:
+- Record which of 56 symptoms you are experiencing.
+- Say how much each symptom bothers you.
 
-<div class="video-container">
+When to complete:
+- It is recommended that you complete a symptom review every 6-months, or when you notice changes in your symptoms.
+- 
+What happens next:
+- Your answers will update the list of symptoms you track in the My Tracker section.
+- A PDF document is created which you can download.
+- You can use the PDF documents to compare past symptom reviews and take them along to your appointments with healthcare professionals.
+
+How to start:
+- To get started, click the 'Add Symptom Review' button. This will take you to a new page where all of the symptoms are listed. Within this page you will have the option to review how bothersome each symptom is, selecting 'not at all', 'not much', 'a bit', or 'a lot'. If you select an option that says a symptom is bothersome for you, then an optional drop down will appear where you can add more information about that symptom. You can fill in as much or as little information on this symptom review as you would like.
+
+For each symptom, there will be a link to more information about the symptom. If you are completing a section about a symptom, and want to find out more, click the underlined word next to 'learn more' to open a new tab with information. You can read the extra information now and then come back to your symptom review or finish your symptom review first and read the information later.
+
+
+My Wellbeing
+
+
+This section of the toolkit helps you to look at:
+
+- What you are currently doing to stay well
+- Any challenges you may be facing (e.g., with daily activities)
+- What you want to work on to feel better
+
+You can then set Wellbeing Priorities to help you overcome some of these challenges and improve your wellbeing. Completing this section shows what you are already doing and helps you to think about things you might want to try to help your Parkinson's.
+
+How it works:
+The first time you view the My Wellbeing section, you will need to complete 3 sections:
+
+Section 1: Think about how things are for you now
+Section 2: Write down any challenges you are currently facing
+Section 3: Based on what you have entered in the previous two sections, choose a wellbeing priority you would like to work towards.
+
+div class="video-container">
 <iframe
   width="560"
   height="315"
@@ -59,7 +92,30 @@ My Wellbeing how to:
 </iframe>
 </div>
 
-My Tracker how to:
+After choosing a wellbeing priority, you can:
+
+Break it down into more detail and smaller steps
+Write ideas to help you reach this priority
+Think about what might be easy or hard when working towards this priority
+Plan how to overcome any challenges you might face
+A wellbeing priority might look like identifying and attending a weekly exercise or social group; reading a certain number of pages per day of a book you want to read; planning for a holiday you have coming up; trying to eat more fibre and wholegrain foods.
+
+Reflection section:
+Two weeks after you create a wellbeing priority, the Reflection section will unlock. To access this, click the 'Continue with this priority' button to:
+
+Reflect on how you have found testing out one or more of these ideas
+Review what worked well
+Note what has been challenging
+Add in some new ideas or plan your next steps
+You can keep trying new ideas to achieve your wellbeing priority and reflecting on your progress for as long as is needed. When you feel happy with the progress you have made then you can 'Complete and archive' the wellbeing priority which will move it to the 'View Completed Priorities' section.
+
+How often to complete:
+It is recommended to complete Sections 1 and 2 every 6-months or when things change. Try to update Section 3 at least every month to keep track of the wellbeing priorities you are working towards and how things are going.
+
+
+My Tracker 
+
+The My Tracker section helps you to keep track of your health and daily activities. There are six tabs within this sections and it is recommended to start by filling in the health conditions, health profile, and medications tabs. Following this, you can then start tracking symptoms and activities to view them on the chart alongside your medications.
 
 <div class="video-container">
 <iframe
@@ -71,8 +127,22 @@ My Tracker how to:
 </iframe>
 </div>
 
+When you open the My Tracker page, you will see six tabs:
 
-Reminders & Notes how to:
+- Symptoms
+- Activities
+- Medications
+- Charts
+- Health conditions
+- Health profile
+
+Getting started:
+When you first visit the My Tracker section, we recommend you start by filling in the following tabs: 'health conditions', 'health profile', and 'medications'.
+
+
+Reminders & Notes 
+
+Set email reminders and alerts to remember to complete activities or take medication, make notes before or after healthcare appointments, and add contact details all in one place.
 
 <div class="video-container">
 <iframe
@@ -89,7 +159,6 @@ Reminders & Notes how to:
 
 [Content to be added]
 
-
 <div class="video-container">
 <iframe
   width="560"
@@ -101,8 +170,6 @@ Reminders & Notes how to:
 </div>
 
 ## How to Personalise
-
-[Content to be added]
 
 There are personalised sections (About Me, My Health, Symptom Review, My Well-being, My Tracker, Appointments and To Do Lists & Notes) which each aim to...
 
@@ -124,9 +191,7 @@ _**Tip 1:** Setting reminders can also be helpful. You might want to set monthly
 
 _**Tip 2:** It can be helpful to complete the symptom review section ahead of your appointments to help you reflect on your experiences and decide what you might like to focus on. You could even set calendar email reminders to complete this section in advance and print the pages to bring to your appointment._
 
-Each section of the tracker has its own dedicated video tutorial to help you navigate and get the most out of the tracker (see below).
-
-[Additional videos to be added here too]
+Each section of the tracker has its own dedicated video tutorial to help you navigate and get the most out of the tracker (see above).
 
 ## How to Manage Access
 
