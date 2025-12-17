@@ -52,7 +52,7 @@ What you can do:
 
 When to complete:
 - It is recommended that you complete a symptom review every 6-months, or when you notice changes in your symptoms.
-- 
+  
 What happens next:
 - Your answers will update the list of symptoms you track in the My Tracker section.
 - A PDF document is created which you can download.
