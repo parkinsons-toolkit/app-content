@@ -34,7 +34,7 @@ Every day activities can become more difficult than they once were. Muscle weakn
 
 Being able to keep doing these activities is important to keep independent and active.
 
-There are some tried and tested methods to do this. You could make changes to the way you do things, to your environment, or to the adaptive equipment you use. There are NHS, social care and voluntary sector professionals that can help you (see More Information at the bottom of this pag). Please also see our <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for information about making adaptations to your home and guidance about different types of accommodation.
+There are some tried and tested methods to do this. You could make changes to the way you do things, to your environment, or to the adaptive equipment you use. There are NHS, social care and voluntary sector professionals that can help you (see [Useful Organisations & Contacts](#useful-organisations-contacts) at the bottom of this pag). Please also see our <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">Housing</a> page for information about making adaptations to your home and guidance about different types of accommodation.
 
 ## What can I try for myself?
 
@@ -55,7 +55,7 @@ All the tips and strategies here are things you could try for yourself. If you k
 These can become more difficult, especially due to concerns over slipping and falling.
 
 - Do not use radiators or toilet roll holders to push/lean on or taps or towel rail to pull up from to help you get up – these can come off the wall and cause a fall.
-- If you do need something to hold on to, adaptations such as grab rails are discussed on the <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page.
+- If you do need something to hold on to, adaptations such as grab rails are discussed on the <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">Housing</a> page.
 - Shower heads on a hose rather than fixed in place can help you get the water exactly where it’s needed.
 
 ### Moving around the home
@@ -64,7 +64,7 @@ These can become more difficult, especially due to concerns over slipping and fa
 - Remove loose rugs to prevent trips and falls.
 - You may find it helpful to rearrange furniture to increase the amount of space you have to move around and reduce risk of trips or falls.
 - Use seating that is firm, has a straight back and has arms. These will be easier to get up from.
-- Also see our <a href="/information/living-with-parkinsons/practical-advice/mobility" class="internal-link">_Mobility_</a> page for more advice on getting around.
+- Also see our <a href="/information/living-with-parkinsons/practical-advice/mobility" class="internal-link">Mobility</a> page for more advice on getting around.
 
 ### Grooming & dental care
 
@@ -77,7 +77,7 @@ Shaving, brushing your hair, applying make-up or brushing your teeth can all bec
 - Consider an electric shave rather than a razor blade.
 - Consider a wide brush handle over a small comb for brushing hair.
 
-Managing dental hygiene is important for the health of your teeth and gums. Poor dental hygiene can worsen symptoms, such as difficulties eating. See our <a href="/information/living-with-parkinsons/optimising-wellbeing/lifestyle factors" class="internal-link">_Lifestyle Factors_</a> page for more on this.
+Managing dental hygiene is important for the health of your teeth and gums. Poor dental hygiene can worsen symptoms, such as difficulties eating. See our <a href="/information/living-with-parkinsons/optimising-wellbeing/lifestyle factors" class="internal-link">Lifestyle Factors</a> page for more on this.
 
 ### Dressing
 
@@ -107,7 +107,7 @@ Reduced movements can also make it more difficult to clean yourself after using 
 - Some people find a ‘bottom wiper’, which is a long handle aid, helpful.
 - Flushable moist toilet/wet wipes can help with this (although there are concerns these are not environmentally friendly, as can block narrow drainpipes and take a long time to disintegrate).
 
-See our <a href="/information/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a> and <a href="/information/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> pages for more tips.
+See our <a href="/information/managing-symptoms/urination" class="internal-link">Urinary Symptoms</a> and <a href="/information/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a> pages for more tips.
 
 ### Movements in & around bed
 
@@ -120,7 +120,7 @@ These may be tricky due to stiffness, reduced movements and balance problems.
   - Don’t wear satin pyjamas at the same time as satin sheets – this will increase the risk of sliding out of bed too quickly.
 - Light weight bedding is preferable.
 
-If the issue is about feeling weak or dizzy when getting out of bed, see the <a href="/information/managing-symptoms/dizziness" class="internal-link">_Dizziness_</a> symptom page for tips.
+If the issue is about feeling weak or dizzy when getting out of bed, see the <a href="/information/managing-symptoms/dizziness" class="internal-link">Dizziness</a> symptom page for tips.
 
 ### Eating & drinking
 
@@ -142,14 +142,14 @@ There are a range of steps with regards to food and drink:
   - Consider sports bottles, cups that have a narrow nozzle, or cups with lids (e.g. travel cups or ‘sip cups’) to reduce the risk of spillages.
   - Place foods or liquids in smaller containers to make them easier to grab and handle. For example, it’s easier to manage a pint of milk rather than a larger, heavier 4 pint milk carton.
   - Special equipment has been developed for these difficulties – see below.
-- For difficulties in swallowing, please see the <a href="/information/managing-symptoms/swallowing" class="internal-link">_Swallowing Difficulties_</a> symptom page.
+- For difficulties in swallowing, please see the <a href="/information/managing-symptoms/swallowing" class="internal-link">Swallowing Difficulties</a> symptom page.
 
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “Maybe there’s things for people like my mum, she likes to stay independent – like sometimes she’ll say ‘Do you know what, I want to cook today’, you know like electric tin cutters and things like that to help make your life a bit easier.”  
-> _(Carer of someone with Parkinson’s)_
+> (Carer of someone with Parkinson’s)
 
 ### Domestic tasks
 
@@ -173,7 +173,7 @@ Living with Parkinson’s can make daily activities and chores more difficult as
 People affected by Parkinson’s describe their experiences.
 
 > “If I’m having people around for dinner, I’ve got to make sure I’ve got a quiet day either side and I’ve got to plan ahead. So I’ll lay the table a couple of days before and I’ll try and shop and do a lot of the preparation before I actually have people round.”  
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 ## What equipment might help?
 
@@ -191,7 +191,7 @@ Occupational therapists may suggest a rehabilitation approach. They will work wi
 
 The world of equipment can be overwhelming, and costly. Some equipment may be paid for by the NHS or through your local Social Services, but some you will need to buy yourself.
 
-_We strongly recommend you speak to an occupational therapist before buying equipment. They will assess your needs, talk about different strategies and recommend the equipment that is best for you. They can then guide you through how to get the equipment if this is needed._
+**We strongly recommend you speak to an occupational therapist before buying equipment. They will assess your needs, talk about different strategies and recommend the equipment that is best for you. They can then guide you through how to get the equipment if this is needed.**
 
 ### Equipment for Bathing & Showering
 
@@ -202,15 +202,14 @@ _We strongly recommend you speak to an occupational therapist before buying equi
   - Seats for shower cubicles can be free standing (stool or chair) or flip-down seat mounted on the wall.
 - There are many different types: Small, waterproof stools to large, electrically powered seats.
 - The seat that is best for you will depend on your shower or bath unit and your own preferences.
-- The next step up from these equipment suggestions are more significant changes to your bathroom. See the <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for information about adaptations.
+- The next step up from these equipment suggestions are more significant changes to your bathroom. See the <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">Housing</a> page for information about adaptations.
 
 ### My Experience
 
 People affected by Parkinson’s describe their experiences.
 
-> “When I knew I was having a problem getting out of the bath, I worked it out myself that I would have to do something in the bathroom. And I spoke to Age UK to get their advice. And they suggested grab rails. Then came the problem of buying the grab rails and installing them.  
-> And one of my neighbours volunteered to.”  
-> _(Person with Parkinson’s)_
+> “When I knew I was having a problem getting out of the bath, I worked it out myself that I would have to do something in the bathroom. And I spoke to Age UK to get their advice. And they suggested grab rails. Then came the problem of buying the grab rails and installing them. And one of my neighbours volunteered to.”  
+> (Person with Parkinson’s)
 
 ### Equipment for Toileting
 
@@ -223,13 +222,13 @@ People affected by Parkinson’s describe their experiences.
   - Make sure it isn’t too high for other people in the house.
   - Ensure that it can be safely removed and replaced.
   - Ask for assistance if you’re not able to fix it securely on the toilet.
-- **Grab rails** – various types of rails can be installed to help you get on and off the toilet. See the <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page for more details on home adaptations.
+- **Grab rails** – various types of rails can be installed to help you get on and off the toilet. See the <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">Housing</a> page for more details on home adaptations.
 
-Also see the <a href="/information/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a> and <a href="/information/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> pages for more tips.
+Also see the <a href="/information/managing-symptoms/urination" class="internal-link">Urinary Symptoms</a> and <a href="/information/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a> pages for more tips.
 
 ### Bed & Mattress Equipment
 
-These make it easier to get in and out of bed or to reposition in bed. Note ‘grab rails’, fixed to the wall, are discussed within _adaptations_ on the <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page. The height of your bed affects how easy it is to push yourself off the bed or to sit down. The ideal height of the bed surface depends on how tall you are, but many people find raising the bed or mattress helps.
+These make it easier to get in and out of bed or to reposition in bed. Note ‘grab rails’, fixed to the wall, are discussed within **adaptations** on the <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">Housing</a> page. The height of your bed affects how easy it is to push yourself off the bed or to sit down. The ideal height of the bed surface depends on how tall you are, but many people find raising the bed or mattress helps.
 
 - **Bed raisers** raise the whole bed a few inches:
   - Come in various heights – usually between 3–6 inches
@@ -342,14 +341,14 @@ As well as usual off-the-shelf lidded cups, there are other specialised designs 
   - Devices to track your location so someone could find you if needed.
   - Sensors that detect if you fall over.
 - More information about these systems is available on the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> and the <a href="https://www.which.co.uk/later-life-care" class="external-link" target="_blank" rel="noopener noreferrer">Which? Later Life Care website</a>.
-- If falls are a concern, please also see the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page.
+- If falls are a concern, please also see the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">Balance & Falls</a> page.
 
 ## My Experience
 
 People affected by Parkinson’s describe their experiences:
 
 > “We have a flat mat that you put on the floor. An alarm goes off. If you put it on the floor by the side of the bed, and as soon as you step on it, an alarm goes off. Very loudly.”
-> — _Person with Parkinson’s_
+> (Person with Parkinson’s)
 
 ## Advice on Buying Equipment
 
@@ -368,12 +367,12 @@ Standard equipment and smaller adaptations (for example, an additional stair rai
 However, if you are buying your own equipment, here are a few tips:
 
 1. Be informed: The Disabled Living Foundation has a range of fact sheets offering a range of general advice regarding features to look for when considering equipment.
-2. Consider _how_ and _where_ you will use the equipment and the impact on others who use the space.
+2. Consider **how** and **where** you will use the equipment and the impact on others who use the space.
 3. Try the equipment before you buy it:
    - To find your nearest equipment demonstration centre, check the <a href="https://www.livingmadeeasy.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Disabled Living Foundation’s website</a>. You can search “equipment centre” for a list of equipment centres.
    - If possible, try out the different types to see which kind you find helpful.
    - The same website offers guidance on suppliers and allows you to compare products. You can search “askSARA” on their website for more information.
-4. Make sure the _fit_ of the equipment is correct.
+4. Make sure the **fit** of the equipment is correct.
 5. Local pharmacies and disability shops sell equipment. Short term hire can be possible from local organisations, such as the Red Cross Society.
 
 ## Who Can Help?
@@ -393,7 +392,7 @@ If daily tasks are particularly challenging, some people need assistance from a 
 - 'Home help'
 - 'Home care'
 
-There is also information on the <a href="/information/living-with-parkinsons/for-family-and-carers" class="internal-link">_Guidance for Family & Carers_</a> page for people who are supporting someone they know.
+There is also information on the <a href="/information/living-with-parkinsons/for-family-and-carers" class="internal-link">Guidance for Family & Carers</a> page for people who are supporting someone they know.
 
 ## Home Help
 
@@ -407,7 +406,7 @@ For example:
 - The British Red Cross
 - Age UK
 
-Details for all of these and for more information about Home Help can be found at the end of this section in the _More Information_ section.
+Details for all of these and for more information about Home Help can be found at the end of this section in the [Useful Organisations & Contacts](#useful-organisations-contacts) section.
 
 ## Home Care
 
@@ -417,7 +416,7 @@ Details for all of these and for more information about Home Help can be found a
    - Contact your Local Council Adult Social Care Department for this. They will make an assessment to see if Home Care is recommended.
    - If it is not recommended but you want it, you could arrange it privately. The Adult Social Care Department should still support you with this, for example giving information about local providers.
 2. If Home Care is recommended, then they will complete a financial assessment. This determines whether or not the council will financially contribute to your Home Care costs.
-   - The <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page has more information about benefits you may be eligible for to help with costs.
+   - The <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">Finances</a> page has more information about benefits you may be eligible for to help with costs.
 3. You then need to arrange the Home Care.
    - If the council are paying, they can arrange the Home Care for you.
    - If the council are paying, you can still choose to arrange the Home Care yourself. For this ask to receive your ‘personal budget’ as a direct payment.
@@ -429,7 +428,7 @@ Details for all of these and for more information about Home Help can be found a
 **a. Go through a Home Care Agency**
 Agencies arrange for trained carers to visit you in your home, but it may not always be the same carer. The agency holds responsibility as the employer of the carer. They are registered with the Care Quality Commission (CQC).
 
-_Or_
+**<ins>Or</ins>**
 
 **b. Directly employ a Home Care Worker yourself**
 This way you know who you are getting, but you have legal responsibility as an employer and need to plan for the carer’s holiday and sickness. Note this responsibility is yours if you directly employ the carer, even if you receive financial support from the council. Individual carers do not have to be registered with a regulatory body.
@@ -460,18 +459,18 @@ This way you know who you are getting, but you have legal responsibility as an e
    - Ask for references.
    - Meet them in person.
    - Write a contract and get it checked.
-   - Ensure you follow all of the requirements of an employer (see <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a>).
+   - Ensure you follow all of the requirements of an employer (see <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">Legal Matters</a>).
    - For more guidance see the <a href="https://www.which.co.uk/later-life-care" class="external-link" target="_blank" rel="noopener noreferrer">Which? Later Life Care website</a>.
 
 ## For both 'Home help' & 'Home care' – things to Ask About:
 
 - **Cost**: What is the cost? What services incur an extra cost? Does the time of the shift affect the cost (e.g. evenings, weekends, bank holidays)?
-- **Experience**: Do the care workers have experience in supporting someone with similar needs to you? _For an agency:_ How do they allocate the care workers to ensure suitable?
+- **Experience**: Do the care workers have experience in supporting someone with similar needs to you? <ins>For an agency:</ins> How do they allocate the care workers to ensure suitable?
 - **Training**: What training have the care workers had?
 - **Timing**: Will the care worker visit at a specified time? What is the procedure if they are running late?
 - **Contract**: Can you review a standard contract?
 - **Contact**: How can the agency or Care Worker be contacted, including for emergencies outside office hours?
-- _For directly employing an individual:_
+- <ins>For directly employing an individual:</ins>
   - How would you pay them – method and how often?
   - What happens if they are ill or unable to attend for any other reason?
   - Could anyone cover for their holiday?
@@ -483,20 +482,20 @@ This way you know who you are getting, but you have legal responsibility as an e
 - **Voluntary sector** – Charities and third sector organisations may be able to help. They can offer some support, and some have short-term equipment hire services.
 - **Private sector** – Local pharmacies and disability shops are common on the high street. You can also find a wide range of providers online.
 
-For more details see the <a href="/information/further-support/services-and-groups" class="internal-link">_Services & Groups_</a> page.
+For more details see the <a href="/information/further-support/services-and-groups" class="internal-link">Services & Groups</a> page.
 
 ## My Experience
 
 People affected by Parkinson’s describe their experiences:
 
 > “As an OT, we might assess somebody shopping, cooking, cleaning, to see how they manage washing, transfers in and out of the bath, up and down steps. To see where the difficulty lies and what we could then try to do to lessen that difficulty. And also, we encourage graded activity, somebody who isn’t doing much to gradually get back into doing more.”
-> _(Occupational Therapist)_
+> (Occupational Therapist)
 
 --
 
 ## Useful Organisations & Contacts
 
-Please also see the <a href="/information/further-support/services-and-groups" class="internal-link">_Services & Groups_</a> page for sources of support or our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+Please also see the <a href="/information/further-support/services-and-groups" class="internal-link">Services & Groups</a> page for sources of support or our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
 
 Please look at the bottom of the table for further information about call charges.
 
@@ -514,4 +513,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
