@@ -24,7 +24,7 @@ Eye movements involved in reading are highly complex and must be coordinated in 
 - **Vergence eye movements** are the eye movements needed for seeing an object up close or far away. These eye movements are important when focusing on a near task, like reading. In Parkinson’s, vergence eye movement can be impaired resulting in the person experiencing double vision.
 - Other eye problems that can make reading difficult include:
   - Slowing of eye lid movement. This means less blinking which can cause dry or irritated eyes or even blurring of vision.
-  - Spasms of the eyelid muscles can cause involuntary eye closure, called _blepharospasm_.
+  - Spasms of the eyelid muscles can cause involuntary eye closure, called **blepharospasm**.
   - Some medications used in Parkinson’s can cause dry eyes.
 
 ### What can I try for myself?
@@ -45,7 +45,7 @@ For dry eyes, over-the-counter ointments and eye drops are available from pharma
 
 Have regular eye checks to see if there are problems with near vision as this tends to deteriorate as people age. If a regular eye check is normal or new glasses are prescribed and you are still having problems reading, you may wish to ask your GP, optometrist, or ophthalmologist for a referral to a neuro-ophthalmologist. A neuro-ophthalmologist can do further tests and may prescribe ‘prisms’ (a special kind of glasses).
 
-See our <a href="/information/managing-symptoms/five-senses" class="internal-link">_5 Senses_</a> page for more information on visual changes in Parkinson’s.
+See our <a href="/information/managing-symptoms/five-senses" class="internal-link">5 Senses</a> page for more information on visual changes in Parkinson’s.
 
 ## Writing
 
@@ -85,7 +85,7 @@ You may find writing more difficult if you experience:
   <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/second-exercise.jpg" alt="finger-exercises" class="content-image">
 
 - Tap each finger on your right hand to your right thumb and then extend upwards. Do the same on your left hand at the same time.
-- _Explained in detail:_ Tap right pointer finger to your right thumb and your left pointer finger to your left thumb, then extend both pointer fingers to the sky; then tap middle fingers to each thumb, and extend each middle finger to the sky, etc.
+  - Explained in detail: Tap right pointer finger to your right thumb and your left pointer finger to your left thumb, then extend both pointer fingers to the sky; then tap middle fingers to each thumb, and extend each middle finger to the sky, etc.
 - Repeat this exercise twice on each finger.
 
   3.<ins>Third Exercise</ins>
@@ -193,7 +193,7 @@ If using a computer or the internet feels overwhelming, there are training cours
 
   - Apps are pieces of software that can be used to perform specific tasks.
 
-    _Examples:_ writing a note, playing a game, or letting you know when your bus is coming.
+   **Examples:** writing a note, playing a game, or letting you know when your bus is coming.
 
   - Smartphones have many different features that could be useful, including the following:
     - Voice activation (either built-in on the phone or available as an app). This can allow you to: call someone in your phonebook by saying their name, search the internet, dictate text messages and emails, open apps, and record notes as reminders.
@@ -215,4 +215,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
