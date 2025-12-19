@@ -66,7 +66,7 @@ Everyone with Parkinson’s should be considered for referral to physiotherapy. 
 </iframe>
 </div>
 
-Think through what you do now. You can record this on the _My Wellbeing_ page. Then use this page to think about whether it is enough and whether it is the right type of activity. If there is something missing or you want to make a change, the <a href="/information/my-wellbeing" class="internal-link">_My Wellbeing_</a> page will guide you through.
+Think through what you do now. You can record this on the <a href="/information/my-wellbeing" class="internal-link">My Wellbeing</a> page. Then use this page to think about whether it is enough and whether it is the right type of activity. If there is something missing or you want to make a change, the <a href="/information/my-wellbeing" class="internal-link">My Wellbeing</a> page will guide you through.
 
 Think through these 5 components and how they can be built into your routine:
 
@@ -98,7 +98,7 @@ Many people with Parkinson’s experience more movement symptoms on one side of 
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/active.jpg" alt="active" class="keeping-active__active">
 
-These are activities that challenge your balance and practice coordination, ideally undertaken twice a week or more. If you have difficulties with your balance, you should see a physiotherapist for advice on safe activities to engage in. Also see the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page.
+These are activities that challenge your balance and practice coordination, ideally undertaken twice a week or more. If you have difficulties with your balance, you should see a physiotherapist for advice on safe activities to engage in. Also see the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">Balance & Falls</a> page.
 
 For all of these types of activity, make sure you warm up before undertaking more intense activity to avoid injuries and reduce stiffness. Be mindful of your body to avoid injury. If you are unsure whether an activity is safe, always check with a professional first.
 
@@ -150,7 +150,7 @@ This could be built into your routine through day-to-day tasks, for example writ
 - Try to stand/sit up tall and straight.
 - Be aware of aspects of daily life where it is easy to slip into a poor posture—sitting on the sofa watching TV, sat at a desk, sitting in a car.
 - Maintaining strength in your ‘core’ will help maintain good posture. This includes your tummy, back, hip and pelvic muscles.
-- Some people find using poles helps their posture. Parkinson’s UK has videos about using Nordic walking poles in various types of activities. You can find a link to these videos in our _More Information_ section.
+- Some people find using poles helps their posture. Parkinson’s UK has videos about using Nordic walking poles in various types of activities. You can find a link to these videos in the [Useful Organisations & Contacts](#useful-organisations-contacts) section.
 
 ### A Note about Music
 
@@ -173,7 +173,7 @@ This doesn’t happen overnight. You will have built up to this little-by-little
 
 ## How to do this?
 
-You may find this focus on _Keeping Active_ is new and requires a change to your daily life. Changing life habits and routines is not often easy. Talk to your Live Well with Parkinson’s supporter if this is something that is important to you. You can also use the <a href="/information/my-wellbeing" class="internal-link">_My Wellbeing_</a> pages to work through things that are important to you.
+You may find this focus on <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">Keeping Active</a> is new and requires a change to your daily life. Changing life habits and routines is not often easy. Talk to your Live Well with Parkinson’s supporter if this is something that is important to you. You can also use the <a href="/information/my-wellbeing" class="internal-link">My Wellbeing</a> pages to work through things that are important to you.
 
 ### Motivation
 
@@ -184,8 +184,8 @@ Think about what motivates you, and how you can embrace that in keeping active.
 - **Competition?** – Perhaps a sports game would suit you. Or trying to beat your ‘personal best’.
 - **Is there a specific symptom you hope to improve?** There may be a particular consideration for the activity you undertake as a result. For example, if you wish to improve sleep, avoid doing your exercise just before bed as it will make you more awake. Undertake the activity earlier in the day.
 - **Sense of achievement?** Monitor what you do and congratulate yourself when it’s going well. Suggestions for embracing this:
-  - Keep a log of what you do. You can record your activity in the <a href="/information/my-tracker" class="internal-link">_My Tracker_</a> page.
-  - Set a target or goal to work toward. Like setting a New Year’s resolution, be specific and realistic. If it’s too hard then it won’t be motivating (and can be the opposite). The best targets have a timeframe to keep you focused and are achievable. You can use the <a href="/information/my-wellbeing" class="internal-link">_My Wellbeing_</a> page to set a target if you think this might help you.
+  - Keep a log of what you do. You can record your activity in the <a href="/information/my-tracker" class="internal-link">My Tracker</a> page.
+  - Set a target or goal to work toward. Like setting a New Year’s resolution, be specific and realistic. If it’s too hard then it won’t be motivating (and can be the opposite). The best targets have a timeframe to keep you focused and are achievable. You can use the <a href="/information/my-wellbeing" class="internal-link"> Wellbeing</a> page to set a target if you think this might help you.
 
 ### Routine
 
@@ -201,7 +201,7 @@ Think about what motivates you, and how you can embrace that in keeping active.
 
 This gives an anchor: each time that part of your routine happens, you also undertake the activity. This makes you more likely to remember to do it regularly.
 
-- You could plan when you are going to undertake the activity and set a prompt. You could add the activity to your <a href="/information/my-tracker" class="internal-link">_My Tracker_</a> and tick it off when done. Within this site, or through other devices, you could set a reminder.
+- You could plan when you are going to undertake the activity and set a prompt. You could add the activity to your <a href="/information/my-tracker" class="internal-link">My Tracker</a> and tick it off when done. Within this site, or through other devices, you could set a reminder.
 
 ### Opportunities
 
@@ -233,21 +233,21 @@ Here we discuss some more common barriers...
 
 There are so many things to do and so many things to think about. It is completely normal to find that tough. So, start small and take one step and at a time. Consider what you currently do. What could you do to increase this, just a little bit? Perhaps adding a few more minutes into an activity you already do. Perhaps carrying a heavier bag out on a walk. Little by little you can increase your activity.
 
-When it comes to incorporating the different components to your routine, many can be met within one activity. For example, a yoga class will include strength, balance, flexibility, big movements and posture. The <a href="/information/my-wellbeing" class="internal-link">_My Wellbeing_</a> page can also help you with this.
+When it comes to incorporating the different components to your routine, many can be met within one activity. For example, a yoga class will include strength, balance, flexibility, big movements and posture. The <a href="/information/my-wellbeing" class="internal-link">My Wellbeing</a> page can also help you with this.
 
 ### Symptoms
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/gym-happy.jpg" alt="gym" class="content-image">
 
 
-Parkinson’s has both physical and mental symptoms which can make keeping active more difficult. Optimal control of your symptoms will help you to undertake activity, see the <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">_Managing Symptoms_</a> pages for more advice for each.
+Parkinson’s has both physical and mental symptoms which can make keeping active more difficult. Optimal control of your symptoms will help you to undertake activity, see the <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">Managing Symptoms</a> pages for more advice for each.
 
-- Movement symptoms such as <a href="/information/managing-symptoms/stiffness-slowness-and-small-movements" class="internal-link">_Stiffness, Slowness & Small Movements_</a>, tend to respond better to medications than some of the non-movement symptoms. Talk to your specialist Parkinson’s team about any symptoms that are preventing you from keeping active.
-- If anxiety or fear are getting in the way of your activity, talk to your GP about how best to control this. For more information see the <a href="/information/managing-symptoms/mood" class="internal-link">_Mood_</a> page.
-- Some people feel extreme tiredness that doesn’t improve with rest, known as <a href="/information/managing-symptoms/tiredness" class="internal-link">_Fatigue_</a>. This can put them off undertaking activity, but actually being active improves fatigue. Perhaps think about which time of day is best for you. If <a href="/information/managing-symptoms/urination" class="internal-link">_Urinary Symptoms_</a> or <a href="/information/managing-symptoms/bowels" class="internal-link">_Bowel Symptoms_</a> are a worry, try going to the toilet before you begin any activity. Perhaps think about where toilets are available, so you have a plan if you were to need it during the activity.
-- <a href="/information/managing-symptoms/variability-of-symptoms" class="internal-link">_Variability of Symptoms_</a> can be a real challenge for people with Parkinson’s. There are good days and bad days, good hours and bad hours. You could try tracking your symptoms (i.e., using your Tracker in the manual) to see if there is a pattern. Then try to undertake more strenuous activities for the time when you are at your best. Having said that, for some there is no pattern; it is unpredictable. In these cases, you may have to be opportunistic: when you have a good spell, try to maximise what you do with it.
+- Movement symptoms such as <a href="/information/managing-symptoms/stiffness-slowness-and-small-movements" class="internal-link">Stiffness, Slowness & Small Movements</a>, tend to respond better to medications than some of the non-movement symptoms. Talk to your specialist Parkinson’s team about any symptoms that are preventing you from keeping active.
+- If anxiety or fear are getting in the way of your activity, talk to your GP about how best to control this. For more information see the <a href="/information/managing-symptoms/mood" class="internal-link">Mood</a> page.
+- Some people feel extreme tiredness that doesn’t improve with rest, known as <a href="/information/managing-symptoms/tiredness" class="internal-link">Fatigue</a>. This can put them off undertaking activity, but actually being active improves fatigue. Perhaps think about which time of day is best for you. If <a href="/information/managing-symptoms/urination" class="internal-link">Urinary Symptoms</a> or <a href="/information/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a> are a worry, try going to the toilet before you begin any activity. Perhaps think about where toilets are available, so you have a plan if you were to need it during the activity.
+- <a href="/information/managing-symptoms/variability-of-symptoms" class="internal-link">Variability of Symptoms</a> can be a real challenge for people with Parkinson’s. There are good days and bad days, good hours and bad hours. You could try tracking your symptoms (i.e., using your Tracker in the manual) to see if there is a pattern. Then try to undertake more strenuous activities for the time when you are at your best. Having said that, for some there is no pattern; it is unpredictable. In these cases, you may have to be opportunistic: when you have a good spell, try to maximise what you do with it.
 
-_Parkinson’s UK_ have a range of online video exercise classes specifically for people with Parkinson’s, about tailoring exercise to your symptoms. They include combinations of the above components. Perhaps one of these would suit you, but always check with your physiotherapist if you are unsure. You can find these linked at the bottom of this page, along with other useful resources.
+<a href="https://www.parkinsons.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson’s UK</a> have a range of online video exercise classes specifically for people with Parkinson’s, about tailoring exercise to your symptoms. They include combinations of the above components. Perhaps one of these would suit you, but always check with your physiotherapist if you are unsure. You can find these linked at the bottom of this page, along with other useful resources.
 
 ### Time
 
@@ -260,8 +260,8 @@ Another option is whether activity could be achieved through something you are a
 Think about what support you might need:
 
 - A **companion** to do the activity with? This could help motivation and make the activity more enjoyable.
-- Support **getting there**? See <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for more information.
-- **Cost?** Most exercise classes and groups have a charge. Some specific classes are provided within physiotherapy services on the NHS but are short term. Many activities arranged by the charity sector are free of charge. Activity does not need to be in an organised group with equipment, so if cost is an obstacle, perhaps think about trying walking and using household items (such as a book) as a weight for building strength. For more information about support available, see <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">_Finances_</a> page.
+- Support **getting there**? See <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">Travel</a> page for more information.
+- **Cost?** Most exercise classes and groups have a charge. Some specific classes are provided within physiotherapy services on the NHS but are short term. Many activities arranged by the charity sector are free of charge. Activity does not need to be in an organised group with equipment, so if cost is an obstacle, perhaps think about trying walking and using household items (such as a book) as a weight for building strength. For more information about support available, see <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">Finances</a> page.
 
 <div class="video-container">
 <iframe 
@@ -292,10 +292,10 @@ We know this may be overwhelming. There is a lot to consider, but there is also 
 People affected by Parkinson’s describe their experiences.
 
 > “...I joined the gym and I go to the gym every other day and then – on the bike and I ride the bike. When I get off the bike, I feel that my legs are all loose and I can walk better.”
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 > “The main thing is occupation of the mind. You mustn’t let yourself sit in the chair and drift into sitting down, you know. That’s why I encourage us to go out”
-> _(Carer of Person with Parkinson’s)_
+> (Carer of Person with Parkinson’s)
 
 ## Useful Organisations & Contacts
 
@@ -308,4 +308,4 @@ People affected by Parkinson’s describe their experiences.
 | PD Warriors            | PD Warriors has a 10 Week Challenge online program, designed to help people with Parkinson’s improve their physical and cognitive function through guided exercise and education.                                                                                                                                                                                                             | --                                                                                                                                                     | <a href="https://pdwarrior.com/10wc-online/" class="external-link" target="_blank" rel="noopener noreferrer">https://pdwarrior.com/10wc-online/</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Sport England          | Explores research on active travel in England.                                                                                                                                                                                                                                                                                                                                                | --                                                                                                                                                     | <a href="https://www.sportengland.org/research-and-data/research/active-travel" class="external-link" target="_blank" rel="noopener noreferrer">https://www.sportengland.org/research-and-data/research/active-travel</a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
