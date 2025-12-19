@@ -22,7 +22,7 @@ Within this section you can find a guide and further advice on how to navigate a
 <iframe
   width="560"
   height="315"
-  src="https://www.youtube-nocookie.com/embed/_k-wMMP0hHo"
+  src="https://www.youtube-nocookie.com/embed/k-wMMP0hHo"
   title="YouTube video player"
   allowfullscreen>
 </iframe>
@@ -181,14 +181,14 @@ You might find it useful to consider what types of questions could help you to a
 
 Here are some questions you might explore by entering data into the tracker:
 
-- “_At what times of the day are my symptoms less severe?_”
-- “_When does my medication wear off, am I taking it on time?_”
-- “_On which days and at what times am I available to start a new habit?_”
-- “_How many hours do I spend on a particular activity?_”
+- “At what times of the day are my symptoms less severe?”
+- “_When does my medication wear off, am I taking it on time?”
+- “On which days and at what times am I available to start a new habit?”
+- “How many hours do I spend on a particular activity?”
 
-_**Tip 1:** Setting reminders can also be helpful. You might want to set monthly, 6-monthly, or pre-appointment reminders to look back at the toolkit and the data you have entered, such as using the symptom review section. For example, you can set a calendar reminder to log in to the toolkit regularly._
+**Tip 1:** Setting reminders can also be helpful. You might want to set monthly, 6-monthly, or pre-appointment reminders to look back at the toolkit and the data you have entered, such as using the symptom review section. For example, you can set a calendar reminder to log in to the toolkit regularly.
 
-_**Tip 2:** It can be helpful to complete the symptom review section ahead of your appointments to help you reflect on your experiences and decide what you might like to focus on. You could even set calendar email reminders to complete this section in advance and print the pages to bring to your appointment._
+**Tip 2:** It can be helpful to complete the symptom review section ahead of your appointments to help you reflect on your experiences and decide what you might like to focus on. You could even set calendar email reminders to complete this section in advance and print the pages to bring to your appointment.
 
 Each section of the tracker has its own dedicated video tutorial to help you navigate and get the most out of the tracker (see above).
 
@@ -244,8 +244,8 @@ Tips to consider:
 4. **Work with your body:** Try to use the good times and don’t be too hard on yourself during the difficult times. If symptoms are getting in the way, read the symptom pages for tips on managing them.
 5. **Record progress:** Some people find it helpful to keep a log of what they are doing.
 
-- You could add your planned actions in <a href="/information/my-reminders-and-notes" class="internal-link">_My Reminders & Notes_</a> and check it off when completed.
-- You could enter your activities to the <a href="/information/my-tracker" class="internal-link">_My Tracker_</a> to keep a record.
+- You could add your planned actions in <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders & Notes</a> and check it off when completed.
+- You could enter your activities to the <a href="/information/my-tracker" class="internal-link">My Tracker</a> to keep a record.
   This can also help you see which times are better for you than others.
 
 6. **Reflect:** If something is not going as you’d hoped, think about why. What could you do differently? You might need to break it down into even smaller steps to make progress.
@@ -272,4 +272,4 @@ For Android users:
 
 [to be added]
 
-The <a href="/information/my-wellbeing" class="internal-link">_My Wellbeing_</a> section in your manual will guide you through this process.
+The <a href="/information/my-wellbeing" class="internal-link">My Wellbeing</a> section in your manual will guide you through this process.
