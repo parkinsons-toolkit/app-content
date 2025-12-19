@@ -24,7 +24,7 @@
 </iframe>
 </div>
 
-There are several legal arrangements that everyone should consider at some stage in their lives. It helps to put these in place as soon as possible. This may involve insurance, power of attorney, decisions about how they wish to be treated and making a will. This section will discuss these legal aspects in some detail. For information about employment please see the section <a href="/information/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">_Work & Caring_</a>.
+There are several legal arrangements that everyone should consider at some stage in their lives. It helps to put these in place as soon as possible. This may involve insurance, power of attorney, decisions about how they wish to be treated and making a will. This section will discuss these legal aspects in some detail. For information about employment please see the section <a href="/information/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">Work & Caring</a>.
 
 ## Insurance
 
@@ -79,8 +79,8 @@ This section will outline the different types of power of attorney and other com
 
 - **Ordinary Power of Attorney** is for financial decisions only and is only valid if this is drawn up while you still have ability to make decisions. For example: Someone may still be able to manage their money. However, they would prefer a trusted person to make a decision if they were planning to be out of the country for some time – for example. Jane, for instance, is going back to Jamaica for a long holiday, she appoints her niece Donna to deal with a specific matter concerning her house sale while she is away. A solicitor will help with drawing up such a document giving Donna the power to sign relevant legal papers while her aunt is away.
 - **Lasting Power of Attorney (LPA)** There are two separate types of lasting power of attorney (health and welfare AND property and affairs). You can choose to apply for just one or both.
-  - _Health and welfare:_ Once registered, the health and welfare LPA can be used by the person or people you have chosen if you can no longer make decisions for yourself. This is known as losing mental capacity. Health and welfare decisions could include deciding where you should live, medical treatment, and your day to day care.
-  - _Finance and affairs:_ Once registered, the finance LPA will automatically be valid. Therefore, the person you trust can make financial decisions both now and in the future. This can be at a time when you may or may not be able to make decisions yourself. Financial decisions could include paying bills, paying the mortgage, buying and selling property.
+  - <ins>Health and welfare:</ins> Once registered, the health and welfare LPA can be used by the person or people you have chosen if you can no longer make decisions for yourself. This is known as losing mental capacity. Health and welfare decisions could include deciding where you should live, medical treatment, and your day to day care.
+  - <ins>Finance and affairs:</ins> Once registered, the finance LPA will automatically be valid. Therefore, the person you trust can make financial decisions both now and in the future. This can be at a time when you may or may not be able to make decisions yourself. Financial decisions could include paying bills, paying the mortgage, buying and selling property.
 - **Enduring Power of Attorney (EPA)**
   - Enduring Power of Attorney (EPA) was used before lasting power of attorney replaced it in October 2007. EPA cover finances. If you signed an EPA before 1st October 2007 then it should still be valid, but you may want to make a LPA to reflect other decisions.
 
@@ -226,7 +226,7 @@ Here's a clear summary of your experience and the key points on making a will an
 People affected by Parkinson’s describe their experiences.
 
 > “I have definitely got a ‘do not resuscitate’ notice on the back of my front door. I do not want to be resuscitated. You know, I‘ve had a wonderful life, a long life. I initiated it. So that’s firmly there. And I’ve written my own funeral service. It’ll be rather good. I’m debating a rehearsal.”
-> _(Person with Parkinson's)_
+> (Person with Parkinson's)
 
 ## Wills
 
@@ -306,4 +306,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
