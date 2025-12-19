@@ -41,7 +41,7 @@ Being diagnosed with Parkinson’s disease does not automatically mean you have 
 
 ### What should I do?
 
-It is a legal requirement to tell the Driving and Vehicle Licensing Agency (DVLA) of your medical condition as soon as possible. It is a criminal offence to not tell the DVLA of a medical condition that may affect your driving. Not telling them could result in a fine of up to £1,000 or prosecution if you are involved in an accident. It is also important to discuss your medication with your Parkinson’s specialist team or GP and how this may affect your ability to drive. This could be, for example, drowsiness, or feeling too sleepy in the daytime. Not declaring a health condition would mean your motor insurance is not valid. It is an offense to withhold information from your insurance company and so they should also be notified. See the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">\_Legal Matters\_</a> page for more information about insurance.
+It is a legal requirement to tell the Driving and Vehicle Licensing Agency (DVLA) of your medical condition as soon as possible. It is a criminal offence to not tell the DVLA of a medical condition that may affect your driving. Not telling them could result in a fine of up to £1,000 or prosecution if you are involved in an accident. It is also important to discuss your medication with your Parkinson’s specialist team or GP and how this may affect your ability to drive. This could be, for example, drowsiness, or feeling too sleepy in the daytime. Not declaring a health condition would mean your motor insurance is not valid. It is an offense to withhold information from your insurance company and so they should also be notified. See the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">Legal Matters</a> page for more information about insurance.
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/driving.jpg" alt="driving" class="travel__driving">
 
@@ -97,7 +97,7 @@ The DVLA will typically inform you of one of four decisions:
 
 However, if you do not agree with the decision because the information provided was not understood correctly or you feel it is not a true reflection of your condition, you have a right to appeal. The DVLA decision letter will outline the details of who you can contact. You will need to give the reasons why you feel the original decision was wrong.
 
-You may need to have a new medical examination or driving assessment in order for the DVLA to reconsider their decision. If you do not agree with their second decision you have a right to appeal to the magistrates’ court. This appeal must be made within 6 months from when the license was taken away or refused. You must inform the DVLA that you will be appealing to the court. For more information please read the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">\_Legal Matters\_</a> page.
+You may need to have a new medical examination or driving assessment in order for the DVLA to reconsider their decision. If you do not agree with their second decision you have a right to appeal to the magistrates’ court. This appeal must be made within 6 months from when the license was taken away or refused. You must inform the DVLA that you will be appealing to the court. For more information please read the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">Legal Matters</a> page.
 
 ### Summary of the decision making process
 
@@ -147,7 +147,7 @@ The key benefit to getting a Blue Badge is that it lets you park for free:
 
 These benefits and parking rules apply to most of the UK but not everywhere in the UK. Examples of where there are different schemes include some airports, e.g. Heathrow Airport, and some central London boroughs, e.g. City of Westminster. The Government website <a href="https://www.gov.uk/health-conditions-and-driving" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a> has more information.
 
-_Please check with local boroughs guidelines for parking schemes._
+<ins>Please check with local boroughs guidelines for parking schemes.</ins>
 
 It is also important to know that the Blue Badge is for street parking. You will need to check the signs for private parking to see if you still have to pay. Such places would be parking in hospitals or supermarkets. You will still have to follow all other standard parking regulations.
 
@@ -206,7 +206,7 @@ If you need help understanding or filling out forms, you can get help from your 
 People affected by Parkinson’s describe their experiences.
 
 > “She also advised me about a Blue Badge. And, I went on the internet, filled the form in, and within a matter of 5 weeks, I had a blue badge.”  
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 ### What can I try for myself?
 
@@ -293,7 +293,7 @@ For more information and applications, visit <a href="https://www.disabledperson
 - You don’t have to be the driver; up to 3 named drivers can be registered - the car could be driven by a family member, friend or carer.
 - More info, applications, and vehicle search: <a href="https://www.motability.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">Motability website</a>.
 
-_Please note that Attendance Allowance cannot be used to lease a car through Motability scheme._
+**Please note that Attendance Allowance cannot be used to lease a car through Motability scheme.**
 
 ### What Can I Try for Myself?
 
@@ -306,7 +306,7 @@ _Please note that Attendance Allowance cannot be used to lease a car through Mot
 People affected by Parkinson’s describe their experiences.
 
 > “…the chance to meet with a colleague's neighbour who had Parkinson's for some time. Seeing him still enjoying life—driving, working, travelling—was a big step to helping me get back on my feet after the diagnosis.”  
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 ## Finding Toilets When Out and About
 
@@ -329,7 +329,7 @@ Parkinson’s may make accessing toilets more difficult due to mobility or bladd
 - Allows people with disabilities to unlock over 9,000 accessible public toilets across the UK.
 - The key is called a **Radar Key** and can be purchased via the <a href="https://www.disabilityrightsuk.org/radar-keys?srsltid=AfmBOophjHsd-3Hg87Sw7Q3ebdt_t7h-HI0iKErqzf9-Pxg46jZt8qaK" class="external-link" target="_blank" rel="noopener noreferrer">Disability Rights UK</a> website.
 - The website also provides a regional list of participating toilets.
-- The <a href="/information/managing-symptoms/urination" class="internal-link">_**Urinary Symptoms**_</a> pages may also be helpful for additional support.
+- The <a href="/information/managing-symptoms/urination" class="internal-link">Urinary Symptoms</a> pages may also be helpful for additional support.
 
 ## Flying and Travelling Abroad
 
@@ -371,7 +371,7 @@ Flying and travelling abroad with Parkinson’s is still possible, with many peo
 - The **UK Global Health Insurance Card (GHIC)** has replaced the existing European Health Insurance Card (EHIC) for subsidised healthcare in the EU. The GHIC allows you free or subsidised treatment across the European Economic Area (EEA) countries. This is not a replacement or alternative to travel insurance. You should have both. For more information or to apply visit the <a href="https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Healthcare Cover Abroad</a> page.
 - There are similar agreements that the UK has with other countries in regard to free or subsidised treatment costs.
 
-Note: travel insurance is covered in <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">\_Legal Matters\_</a>.
+Note: travel insurance is covered in <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">Legal Matters</a>.
 
 ### What Can I Try for Myself?
 
@@ -390,7 +390,7 @@ Note: travel insurance is covered in <a href="/information/living-with-parkinson
 People affected by Parkinson’s describe their experiences.
 
 > “I take sealed bottles of spares medication on any trip abroad. I take one in my hand baggage and one in my hold luggage. If something happens to either my hand luggage or hold luggage, I still have medication. If nothing happens to either, then I have extra which is handy if I get severely delayed because volcanic ash or a worldwide pandemic halts air travel.”  
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 ## Useful Organisations & Contacts
 
@@ -416,4 +416,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
