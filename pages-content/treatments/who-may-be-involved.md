@@ -44,7 +44,7 @@ Note a <ins>nutritionist</ins> is not the same as a <ins>dietitian</ins> (though
 
 ### Healthcare Assistants (HCAs)
 
-Also known as <ins>nursing assistants</ins>, <ins>nursing auxiliaries</ins> or _auxiliary nurses_.
+Also known as **nursing assistants**, **nursing auxiliaries** or **auxiliary nurses**.
 
 - They work in GP surgeries, community services or hospitals. Much of their training will be on the job.
 - Roles include:
@@ -53,7 +53,7 @@ Also known as <ins>nursing assistants</ins>, <ins>nursing auxiliaries</ins> or _
 
 ### Home Care Workers
 
-Also known as _Paid Carers_.
+Also known as **Paid Carers**.
 
 - They come to your home to support personal care, such as washing and dressing.
 - They may be employed directly or via an agency.
@@ -73,7 +73,7 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
 </iframe>
 </div>
 
-- They must be registered with the _Nursing & Midwifery Council (NMC)_ to work in the UK.
+- They must be registered with the **Nursing & Midwifery Council (NMC)** to work in the UK.
 - Nursing titles vary by place of work but may include:
   - ‘Staff Nurse’ - the initial grade of a fully qualified nurse.
   - ‘Senior Staff Nurse’ or ‘Charge Nurse’ - more experience.
@@ -96,7 +96,7 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
 </iframe>
 </div>
 
-- They must be registered with the _Health and Care Professions Council (HCPC)_ to work in the UK.
+- They must be registered with the **Health and Care Professions Council (HCPC)** to work in the UK.
 - They are healthcare professionals that are trained to help improve your ability to do everyday tasks.
 - The role inccludes:
   - Teaching problem solving and adaptive strategies.
@@ -115,7 +115,7 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
 
 - They are healthcare professionals trained in the science and management of medication.
 - They can work in hospitals as well as in the community.
-- Pharmacists and Pharmacy Technicians must be registered with the _General Pharmaceutical Council (GPhC)_ to work in the UK.
+- Pharmacists and Pharmacy Technicians must be registered with the **General Pharmaceutical Council (GPhC)** to work in the UK.
 - Some take special training on prescribing medicine. Once they register, they are able to do so on their own.
 - Pharmacy Technicians are not pharmacists but support their role.
 - The role of a pharmacist includes:
@@ -127,7 +127,7 @@ Note Home Care Workers are not trained Nurses so cannot undertake nursing roles.
 
 ### Physiotherapists
 
-Also known as _Physical Therapists_
+Also known as **Physical Therapists**
 
 <div class="video-container">
 <iframe 
@@ -141,7 +141,7 @@ Also known as _Physical Therapists_
 
 - They are healthcare professionals trained to help improve movement and function and reduce the risk of injury. They take a patient centred, holistic approach.
 - Physiotherapists can assess, treat and give advice at all stages of Parkinson’s.
-- They must be registered with the _Health and Care Professions Council (HCPC)_ to work in the UK.
+- They must be registered with the **Health and Care Professions Council (HCPC)** to work in the UK.
 - The role includes:
   - They can diagnose and assess of problems in movement and function; o They can give education and advice on this.
   - They can give treatments. This could be exercises and movements, or movement strategies that are tailored to you.
@@ -155,7 +155,7 @@ Also known as _Physical Therapists_
 - **Clinical Psychologists** are Healthcare professionals who trained to reduce distress and promote psychological wellbeing.
 - **Clinical Neuropsychologists** are specialised clinical psychologists. They have studied how the brain affects thinking skills (e.g. memory, attention and visual perception) and behaviour.
 
-- They both must be registered with the _Health and Care Professions Council (HCPC)_ to work in the UK.
+- They both must be registered with the **Health and Care Professions Council (HCPC)** to work in the UK.
 - They work with people who:
   - Are having issues with mental health. This could be low mood or anxiety.
   - Are going through difficult times. This could be due to stress or bereavement.
@@ -164,7 +164,7 @@ Also known as _Physical Therapists_
 - There are many different types of talking therapies (e.g. psychodynamic, cognitive behavioural). They may differ in their length, focus and technique.
 - Therapy may be delivered in person, over the phone or in groups.
 
-Note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, though some people have trained as both. Psychotherapists and counsellors are trained to give a particular treatment (psychotherapy or counselling), whereas clinical psychologists have a broader role, as above. Psychotherapists and counsellors are not legally required to be registered as above, though many are on voluntary registers.
+Note a **psychotherapist** or **counsellor** is not the same as a **psychologist**, though some people have trained as both. Psychotherapists and counsellors are trained to give a particular treatment (psychotherapy or counselling), whereas clinical psychologists have a broader role, as above. Psychotherapists and counsellors are not legally required to be registered as above, though many are on voluntary registers.
 
 ### Social Workers
 
@@ -173,10 +173,10 @@ Note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, th
 - Social workers are professionals who aim to improve people’s lives by helping with social and interpersonal problems. They try to promote a person’s rights and wellbeing.
 - They work under ‘Social Care’ rather than ‘Healthcare’ but they can be based in a hospital or community service.
 - Must be registered to work as a social worker in the UK:
-  - _Social Work England_
-  - _Social Care Wales_
-  - _Scottish Social Services Council_
-  - _Northern Ireland Social Care Council_
+  - **Social Work England**
+  - **Social Care Wales**
+  - **Scottish Social Services Council**
+  - **Northern Ireland Social Care Council**
 
 ### Speech & Language Therapists (SLTs)
 
@@ -200,7 +200,7 @@ Note a _psychotherapist_ or _counsellor_ is not the same as a _psychologist_, th
 
 ### Therapy Assistants
 
-Also known as _Therapy Support Workers_ or _Rehabilitation Assistants_
+Also known as **Therapy Support Workers** or **Rehabilitation Assistants**
 
 <div class="video-container">
 <iframe 
@@ -238,7 +238,7 @@ It is recommended that people with Parkinson’s have a named specialist doctor.
 - **Neurologists:** A doctor with a focus on conditions affecting the “nervous system” (e.g. the brain, spinal cord and nerves).
 - **Geriatricians:** A doctor with a focus on the care of older adults.
 
-For both of these, there can be some doctors that have a sub-specialty focus and expertise. This could be in Parkinson’s and related conditions, _Movement Disorders_. It is recommended that people with Parkinson’s have a regular and stable point of contact. This would be a trusted source of information specific to Parkinson’s. In many teams this would be provided by a specialist nurse.
+For both of these, there can be some doctors that have a sub-specialty focus and expertise. This could be in Parkinson’s and related conditions, 'Movement Disorders'. It is recommended that people with Parkinson’s have a regular and stable point of contact. This would be a trusted source of information specific to Parkinson’s. In many teams this would be provided by a specialist nurse.
 
 - **Parkinson's Disease Nurse Specialist (PDNS):** This is a nurse specialist practitioner who can assess and manage symptoms of, and medication used in Parkinson’s. They can provide advice and support, with timely responses to problems. Some PDNSs can prescribe medication. Some of them but not all will make home visits as part of their role, usually when they are community-based, whereas others can provide care during a hospital admission, usually when they are hospital-based.
 
@@ -250,12 +250,12 @@ There are more than 60 specialties, but the following are the more common specia
 - **Neurosurgery:** Specialists in procedures on the nervous system (e.g. the brain, spinal cords, and nerves). Some advanced treatments used for Parkinson’s involve brain surgery. This would be done by Neurosurgeons.
 - **Urology:** They are specialists in the urinary tract, including bladder, prostate, kidneys and the tubes between them. They may be involved for example, for problems with bladder control.
 - **Psychiatry:** Specialists in mental health so may be involved, for example, for problems with mood or memory.
-  - Note _psychiatrists_ are clinical doctors (have a medical qualification). This is different from _psychologists_ as described above (have a psychology qualification), but they often work together.
+  - Note **psychiatrists** are clinical doctors (have a medical qualification). This is different from **psychologists** as described above (have a psychology qualification), but they often work together.
 - **Palliative Care:** Sometimes called 'supportive care', they are specialists in symptom control, for a range of different health conditions. The aim of palliative care is to help you to have a good quality of life. o They also have expertise in care in later stages of life, but palliative care is <ins>not</ins> just about end of life.
 
 ## Organisational Level
 
-In the UK, there is a split between **_Healthcare_** (National Health Service, NHS) and **_Social Care_** (or Social Services). Note the financial comments apply to people living in the UK (those with “ordinary residence”). There may be a charge for overseas visitors. See the NHS website for more details on who is in entitled to NHS services.
+In the UK, there is a split between **Healthcare** (National Health Service, NHS) and **Social Care** (or Social Services). Note the financial comments apply to people living in the UK (those with “ordinary residence”). There may be a charge for overseas visitors. See the <a href="https://www.nhs.uk/nhs-services/" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> for more details on who is in entitled to NHS services.
 
 ### Healthcare
 
@@ -276,7 +276,7 @@ In the UK, there is a split between **_Healthcare_** (National Health Service, N
   - Carers coming to your home to help you wash and dress
   - Supported living environments
   - Assistance with home adaptations
-- There are some cases where provision for social care needs are covered by the NHS. This is known as _Continuing Healthcare (CHC)_. Please see the <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page for more information.
+- There are some cases where provision for social care needs are covered by the NHS. This is known as **Continuing Healthcare (CHC)**. Please see the <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">Finances</a> page for more information.
 
 ## Private Healthcare
 
@@ -296,9 +296,9 @@ In the UK, there is a split between **_Healthcare_** (National Health Service, N
   - Check that the provider is registered.
     - Most healthcare providers are legally required to be registered with a regulatory body as listed for each profession above.
     - The Professional Standards Authority holds a list of accredited voluntary registers which they have independently assessed against their own standards. They cover professions that are not regulated by law, such as psychotherapists.
-  - Review the reports for the provider by the _Care Quality Commission (CQC)_ – website below.
+  - Review the reports for the provider by the **<a href="https://www.cqc.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Care Quality Commission (CQC)</a>**.
   - Some professionals work across both NHS and private services whereas others just work in one.
-- More information is available on the NHS website.
+- More information is available on the <a href="https://www.nhs.uk/nhs-services/" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a>.
 
 ### Private Social Care
 
@@ -321,12 +321,12 @@ The options for arranging this:
 Home Care workers can either be:
 
 - **Through a Home Care Agency:** Agencies arrange for trained carers to visit you in your home, but it may not always be the same carer. The agency holds responsibility as the employer of the carer. The agency must be registered with the Care Quality Commission (CQC).
-  _Or_
+  **Or**
 - **Directly employed by you:** This way you know who you are getting, but you have legal responsibility as an employer. You will need to plan for the Home Care Worker’s holiday and sickness. Note employer responsibility is yours if you directly employ the carer, even if you receive financial support from the council. Note individual Home Care Workers do not have to be registered with a regulatory body.
 
-See the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page to see advice on how to find Home Care workers.
+See the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">Daily Living</a> page to see advice on how to find Home Care workers.
 
-See the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">_Legal Matters_</a> page to see more about responsibilities as an employer.
+See the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">Legal Matters</a> page to see more about responsibilities as an employer.
 
 ## Home Help vs Home Care
 
@@ -358,4 +358,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\* Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
