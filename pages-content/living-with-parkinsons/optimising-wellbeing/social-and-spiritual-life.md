@@ -71,17 +71,17 @@ If mobility difficulties mean that you’re more reliant on the phone to keep in
 
 Video calls can also be a great way of keeping in touch with friends and family as well as accessing, for example, exercise classes or religious services. If you’re not yet confident with this technology, there are guides on the <a href="https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/video-calling/" class="external-link" target="_blank" rel="noopener noreferrer">Age UK</a> site and on the <a href="https://www.bbc.co.uk/news/technology-51968122" class="external-link" target="_blank" rel="noopener noreferrer">BBC</a> site.
 
-If reduced mobility is making access to shops and to social gatherings more difficult, then you could be eligible for a Blue Badge which will entitle you to priority parking. See our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for more information on the Blue Badge Scheme. You can also visit your council website and <a href="https://www.parkinsons.org.uk/information-and-support/help-getting-around" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> website for more information and guidance.
+If reduced mobility is making access to shops and to social gatherings more difficult, then you could be eligible for a Blue Badge which will entitle you to priority parking. See our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">Travel</a> page for more information on the Blue Badge Scheme. You can also visit your council website and <a href="https://www.parkinsons.org.uk/information-and-support/help-getting-around" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> website for more information and guidance.
 
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “It’s so nice to go out to a shop… because that brings you back into the community which is very important I think. One of the things you shouldn’t do is to lose touch with your community or communities.”
-> _(Person with Parkinson's)_
+> (Person with Parkinson's)
 
 > “My grandma lives in America so we don’t get to see her much. My aunt showed her how to use Snapchat on her phone - she doesn’t really use computers. She said it was easy to use once she was shown how. She sends me pictures of her garden and I send her funny photos of me or my sister every week. She says she really likes this as she lives on her own and cant go out now.”
-> _(Family member of someone with Parkinson's)_
+> (Family member of someone with Parkinson's)
 
 ## Relationships
 
@@ -170,13 +170,13 @@ Changes in sexual relationships can happen to any couple at any time, regardless
 
 If you both feel comfortable, it can help to have open, but sensitive, discussions about your desires and limitations when it comes to sex. This may make it easier to face the challenges and find solutions that work for you both.
 
-For more information on Parkinson’s and sexual function, see our <a href="/information/managing-symptoms/sexual-health" class="internal-link">_Sexual Health_</a> page.
+For more information on Parkinson’s and sexual function, see our <a href="/information/managing-symptoms/sexual-health" class="internal-link">Sexual Health</a> page.
 
 ### Where can I go for information and support?
 
 - **Relationship counselling** – counsellors can work with couples and individuals (meaning you can go alone if you’re single or your partner does not wish to take part)
   - Ask your GP for services available in your area
-  - Contact your local ‘Relate’ centre - visit their website to find your nearest _Relate_ and give them a call. You can find the link in our More Information section.
+  - Contact your local ‘Relate’ centre - visit their website to find your nearest <a href="https://www.relate.org.uk/which-service-right-you" class="external-link" target="_blank" rel="noopener noreferrer">Relate</a> and give them a call.
 - **Counselling and psychotherapy for sexual problems** - counselling or psychotherapy provides a safe space to talk openly about any sexual problems you’re experiencing. It can help you to find ways of making changes
   - Ask your GP for services available in your local area.
 - **Psychosexual therapy** - A psychosexual therapist is trained in all aspects of sex. They can help you to understand the effects of things like medication and illness on sex
@@ -199,14 +199,14 @@ Spirituality and religion vary from person to person. It can provide someone wit
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/bible.jpg" alt="reading-bible" class="social-and-spiritual-life__bible">
 
-If you have Parkinson’s, or care for someone that does, it can be difficult to attend religious meetings, due to practical and emotional challenges. There are many benefits of staying connected with your religious group/meetings so explore ways to overcome barriers to attending these (e.g. ask a friend to support you attending). If you need to arrange transport to attend religious gatherings, see our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">_Travel_</a> page for advice. In response to the Coronavirus pandemic, many places of worship have offered online services, which are a great help to those with mobility difficulties.
+If you have Parkinson’s, or care for someone that does, it can be difficult to attend religious meetings, due to practical and emotional challenges. There are many benefits of staying connected with your religious group/meetings so explore ways to overcome barriers to attending these (e.g. ask a friend to support you attending). If you need to arrange transport to attend religious gatherings, see our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">Travel</a> page for advice. In response to the Coronavirus pandemic, many places of worship have offered online services, which are a great help to those with mobility difficulties.
 
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
 > “I’m a Christian and I’m quite involved with our church and I spend a lot of time with people. And because I am sitting a lot of the time, people actually confide in me and like coming here, you know, and spending time in my home. I wouldn’t be able to do that if I was working. So these are the things that I have got to think positively about.”
-> _(Person with Parkinson’s)_
+> (Person with Parkinson’s)
 
 ### Fasting
 
@@ -248,4 +248,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
