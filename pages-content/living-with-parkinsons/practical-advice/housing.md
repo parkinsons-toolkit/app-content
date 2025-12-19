@@ -27,9 +27,9 @@ Some people can have difficulties with living well within their home. For exampl
 
 ## Staying in your Own Home
 
-For many people, the preference is to stay at home which can be helped by making small changes. Equipment and adaptations to your home, can help you stay independent at home for longer. Equipment is discussed on the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page, and below we cover possible home adaptations.
+For many people, the preference is to stay at home which can be helped by making small changes. Equipment and adaptations to your home, can help you stay independent at home for longer. Equipment is discussed on the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">Daily Living</a> page, and below we cover possible home adaptations.
 
-In some cases, Home Support or Home Care Workers may also help. ‘Home Help’ refers to support for domestic tasks such as laundry, washing up and cleaning. ‘Home Care’ refers to support for personal tasks such as showering, dressing and preparing meals. See the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page for more information.
+In some cases, Home Support or Home Care Workers may also help. ‘Home Help’ refers to support for domestic tasks such as laundry, washing up and cleaning. ‘Home Care’ refers to support for personal tasks such as showering, dressing and preparing meals. See the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">Daily Living</a> page for more information.
 
 ## Home adaptations
 
@@ -47,7 +47,7 @@ Before making major changes or buying equipment, seek advice from a physiotherap
 
 Your GP may also be able to refer you to rehabilitation and reablement services in the community, if available.
 
-There are many options for equipment and aids to support you in tasks for day-to-day living. These are covered on the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page. Options for more significant changes to your home are discussed here:
+There are many options for equipment and aids to support you in tasks for day-to-day living. These are covered on the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">Daily Living</a> page. Options for more significant changes to your home are discussed here:
 
 ### General Adaptations
 
@@ -56,16 +56,16 @@ There are many options for equipment and aids to support you in tasks for day-to
   - Installing a **Stair Lift**.
   - Installing a **Through-Floor Lift**.
   - **Relocating rooms:** Moving to single-level living by rearranging or modifying to have everything on one floor. For example, moving the bedroom and bathroom downstairs. This may involve converting a dining room or living room. It can be helpful to remove items not frequently used to another area in the house to make space.
-- **‘Telecare’:** Installation of technology, such as alarm systems or sensors can increase safety and security. For example, sensors on doors to indicate someone has gone through, or sensors on the floor to detect if someone falls. Different devices are discussed on the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page; please also see the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">_Balance & Falls_</a> page if relevant.
+- **‘Telecare’:** Installation of technology, such as alarm systems or sensors can increase safety and security. For example, sensors on doors to indicate someone has gone through, or sensors on the floor to detect if someone falls. Different devices are discussed on the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">Daily Living</a> page; please also see the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">Balance & Falls</a> page if relevant.
 
 ### Bedroom Adaptations
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/adaptations.jpg" alt="adaptations" class="housing__adaptations">
 
-Much can be improved with equipment rather than needing adaptations, see the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page for details. More significant modifications could include:
+Much can be improved with equipment rather than needing adaptations, see the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">Daily Living</a> page for details. More significant modifications could include:
 
 - **Over-bed trapezes & rope ladders** – designed to allow a person to pull themselves up from a lying to sitting position. They require a lot of upper body strength, and don’t tend to suit people with Parkinson’s. If you did want to pursue this, we recommend speaking to a professional first.
-- **Built in hoists** – Hoists are equipment that lift a person between a bed and a (wheel) chair, or a bed and a commode, and back. They are discussed in more detail on the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page. There are types that are built-in, called **Gantry hoists**. These are attached to the floor in a frame.  
+- **Built in hoists** – Hoists are equipment that lift a person between a bed and a (wheel) chair, or a bed and a commode, and back. They are discussed in more detail on the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">Daily Living</a> page. There are types that are built-in, called **Gantry hoists**. These are attached to the floor in a frame.  
   Through floor or ceiling track hoists can be built into the ceiling.
 
 ### Bathroom Adaptations
@@ -78,7 +78,7 @@ Instead of, or as well as bathroom equipment, adaptations include:
   - Whether a fixed rail will fit the area around your toilet.
   - Whether it will be at the right height.
   - Whether you will need to adjust the rail.
-- **Shower seats**, discussed on the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page, can be fixed to a wall by the shower.
+- **Shower seats**, discussed on the <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">Daily Living</a> page, can be fixed to a wall by the shower.
 - **Adding a bathroom to the ground floor**. If getting up the stairs is difficult, an option could be to install a bathroom downstairs. This may mean converting a storage space or bedroom.
 - **Installing wash dry toilets** can help with cleaning difficulties.
 - **Anti-slip tiles or adding adhesive anti-slip material** to the bottom and edges of the bath or shower and railings can prevent slipping when the floor gets wet during your shower.
@@ -119,12 +119,12 @@ As well as the equipment and aid options, some people find these changes helpful
 As discussed, it is advised you seek professional advice before undertaking home adaptations. If however, you do plan to go ahead yourself, a few tips:
 
 1. Be informed: The Disabled Living Foundation has more information.
-2. Consider _how_ the adaptations will be used and the impact on others who use the space.
+2. Consider **how** the adaptations will be used and the impact on others who use the space.
 3. Try equipment before you buy it.
    - To find your nearest equipment demonstration centre, check the <a href="http://www.livingmadeeasy.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Disabled Living Foundation's</a> website. You can search “equipment centre” for a list of equipment centres.
    - If possible, try out the different types to see which kind you find helpful.
    - The same website offers guidance on suppliers and allows you to compare products. You can search “askSARA” on their website for more information.
-4. Make sure the _fit_ is correct.
+4. Make sure the **fit** is correct.
 
 ### Funding Equipment or Adaptations
 
@@ -134,9 +134,9 @@ You can apply to your local council for equipment or potential funding for adapt
 
 If you need major changes to your home, you might be able eligible for a disabled facilities grant. Funding for major home adaptations is often means-tested. This means the amount of funding you receive depends on how much money you have, including any savings.
 
-If you have a disability or long-term health condition, you should not be charged VAT on products designed or adapted for your own personal or domestic use (including some home equipment). See our <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page for more information on how to apply for VAT relief and other financial benefits.
+If you have a disability or long-term health condition, you should not be charged VAT on products designed or adapted for your own personal or domestic use (including some home equipment). See our <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">Finances</a> page for more information on how to apply for VAT relief and other financial benefits.
 
-_Tip: Contact your local fire service who will provide a ‘safe and well check.’ They are completely free, and you may be entitled to free smoke alarms. The purpose of these checks is to identify any fire risks and help reduce those risks._
+Tip: Contact your local fire service who will provide a ‘safe and well check.’ They are completely free, and you may be entitled to free smoke alarms. The purpose of these checks is to identify any fire risks and help reduce those risks.
 
 ## Finding a new home
 
@@ -195,7 +195,7 @@ Key steps in finding the right accommodation:
 
 ## Useful Organisations & Contacts
 
-Please also see the <a href="/information/further-support/services-and-groups" class="internal-link">_Services & Groups_</a> page for sources of support or our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+Please also see the <a href="/information/further-support/services-and-groups" class="internal-link">Services & Groups</a> page for sources of support or our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
 
 Please look at the bottom of the table for further information about call charges.
 
@@ -213,4 +213,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 10p/minute from landlines, between 3p-40p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
