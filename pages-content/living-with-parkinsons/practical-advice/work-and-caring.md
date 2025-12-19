@@ -29,7 +29,7 @@ For example:
 - Writing or using technology may be harder due to motor symptoms.
 - Working long hours can increase fatigue and cause symptoms to vary.
 
-This should not stop you from working if you wish to continue. You may need to adapt your job slightly or find ways to manage these work-related issues. For more advice, see our <a href="/information/managing-symptoms/tremor" class="internal-link">_Managing Symptoms_</a> and <a href="/information/living-with-parkinsons/practical-advice/reading-writing-and-technology" class="internal-link">_Reading, Writing & Technology_</a> pages.
+This should not stop you from working if you wish to continue. You may need to adapt your job slightly or find ways to manage these work-related issues. For more advice, see our <a href="/information/managing-symptoms/tremor" class="internal-link">Managing Symptoms</a> and <a href="/information/living-with-parkinsons/practical-advice/reading-writing-and-technology" class="internal-link">Reading, Writing & Technology</a> pages.
 
 You can speak to your GP or specialist about ways to help you better manage your symptoms for the type of work you do.
 
@@ -216,17 +216,18 @@ If your children would like to talk to someone about how to deal with the news o
 
 ### Carers
 
-You may provide care for someone, or you may find in time one of your friends or family becomes a carer for you. There is support available for carers and a good place to start is <a href="https://www.carersuk.org/home" class="external-link" target="_blank" rel="noopener noreferrer">Carer's UK</a> or the <a href="https://carers.org/" class="external-link" target="_blank" rel="noopener noreferrer">Carer's Trust</a>. They have websites with useful information and contact details for local groups in your area. There is also information on our <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">_Daily Living_</a> page on tips and equipment people with Parkinson’s can try to help them remain as independent as possible in everyday tasks.
+You may provide care for someone, or you may find in time one of your friends or family becomes a carer for you. There is support available for carers and a good place to start is <a href="https://www.carersuk.org/home" class="external-link" target="_blank" rel="noopener noreferrer">Carer's UK</a> or the <a href="https://carers.org/" class="external-link" target="_blank" rel="noopener noreferrer">Carer's Trust</a>. They have websites with useful information and contact details for local groups in your area. There is also information on our <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">Daily Living</a> page on tips and equipment people with Parkinson’s can try to help them remain as independent as possible in everyday tasks.
 
-It is important carers look after themselves, so they can look after others. One way of doing this is by making sure they take regular breaks (sometimes called ‘respite’ or short-break care). Respite can involve a range of things, including: having support workers in your home; taking a holiday; or the person being cared for having a short stay in a care home. Also, your family or friends may be able to help you take a break by stepping in. Information about arranging respite care is available from your local council, who can arrange a carer’s assessment. Your local Carers service may be able to help too. If you have sufficient money you can pay for carer support or respite care. For information on what benefits carers may be entitled to visit our <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">_Finances_</a> page.
+It is important carers look after themselves, so they can look after others. One way of doing this is by making sure they take regular breaks (sometimes called ‘respite’ or short-break care). Respite can involve a range of things, including: having support workers in your home; taking a holiday; or the person being cared for having a short stay in a care home. Also, your family or friends may be able to help you take a break by stepping in. Information about arranging respite care is available from your local council, who can arrange a carer’s assessment. Your local Carers service may be able to help too. If you have sufficient money you can pay for carer support or respite care. For information on what benefits carers may be entitled to visit our <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">Finances</a> page.
 
-For various reasons, some people can no longer be looked after at home and need to move to a care home. But this does not mean they are no longer helped by their family and friends. Many carers spend time visiting the care home and some help with care tasks. Many also continue to be involved in decisions about the person’s care. For more information on different options for supported living see our <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">_Housing_</a> page.
+For various reasons, some people can no longer be looked after at home and need to move to a care home. But this does not mean they are no longer helped by their family and friends. Many carers spend time visiting the care home and some help with care tasks. Many also continue to be involved in decisions about the person’s care. For more information on different options for supported living see our <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">Housing</a> page.
 
 ## My Experience
 
 People affected by Parkinson’s describe their experiences.
 
-> _“…for anyone that is a carer, they must have something for themselves, either exercise or going out for coffee with friends. You have to do that.”_ > _(Carer of someone with Parkinson’s)_
+> “…for anyone that is a carer, they must have something for themselves, either exercise or going out for coffee with friends. You have to do that.”
+> (Carer of someone with Parkinson’s)
 
 ## Useful Organisations & Contacts
 
@@ -245,4 +246,4 @@ Please look at the bottom of the table for further information about call charge
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
-To view all the useful organisations and contacts from the _Live Well with Parkinson’s_ toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">_Resources_</a> page.
+To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
