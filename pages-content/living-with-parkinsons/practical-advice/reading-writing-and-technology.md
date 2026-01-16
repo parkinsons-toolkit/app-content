@@ -73,8 +73,6 @@ You may find writing more difficult if you experience:
 
 1.<ins>First Exercise</ins>
 
-  <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/first-exercise.jpg" alt="finger-exercises" class="content-image">
-
 - Put your hands straight out in front of you, shoulder-height, with your palms away from you and fingers extended wide.
 - Turn your hands towards your face, and pull them back to be even with your body at your ribs, making a tight fist with your hands at the same time.
 - Make a fist as you bring your hand in and extending your palm as you extend your hands out.
@@ -82,7 +80,9 @@ You may find writing more difficult if you experience:
 
   2.<ins>Second Exercise</ins>
 
-  <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/second-exercise.jpg" alt="finger-exercises" class="content-image">
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5DtgKKjg8Qc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 - Tap each finger on your right hand to your right thumb and then extend upwards. Do the same on your left hand at the same time.
   - Explained in detail: Tap right pointer finger to your right thumb and your left pointer finger to your left thumb, then extend both pointer fingers to the sky; then tap middle fingers to each thumb, and extend each middle finger to the sky, etc.
