@@ -90,8 +90,10 @@ You may find writing more difficult if you experience:
 
   3.<ins>Third Exercise</ins>
 
-  <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/third-exercise.jpg" alt="finger-exercises" class="content-image">
-
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGA_kWLhpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div
+  
 - Curl fingers down so that the nail area of fingers are touching where the base of the fingers connect to the palm of the hand.
 - Then extend fingers up and out as wide as they can go.
 - Curl and extend 20 times – include your thumb in the curling and extending.
