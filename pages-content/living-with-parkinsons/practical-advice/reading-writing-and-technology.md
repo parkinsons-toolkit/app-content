@@ -73,6 +73,10 @@ You may find writing more difficult if you experience:
 
 1.<ins>First Exercise</ins>
 
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0rjT1b9XPew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 - Put your hands straight out in front of you, shoulder-height, with your palms away from you and fingers extended wide.
 - Turn your hands towards your face, and pull them back to be even with your body at your ribs, making a tight fist with your hands at the same time.
 - Make a fist as you bring your hand in and extending your palm as you extend your hands out.
