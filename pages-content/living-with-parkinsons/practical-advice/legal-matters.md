@@ -263,7 +263,7 @@ If you decide you would like to make your will, there are a number of steps:
 - **Parkinson’s UK** – The largest national Parkinson’s charity that can provide support on a range of topics (0808 800 0303).
 - **Age UK** – Charity that can also provide support regarding legal questions (0800 678 1602).
 - **Law Society** – The Law Society lists local solicitors that are registered within England and Wales.
-- **National Free Wills Network** - The National free wills network provides free Will writing services to people who are accessing or supporting charities included in the network. Parkinson’s UK is included in the national free wills network. So, by visiting the <a href="www.parkinsons.org.uk/get-involved/parkinsons-uk-free-will-services " class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> website or phoning them (0808 800 0303), you can get access to a free will writing service.
+- **National Free Wills Network** - The National free wills network provides free Will writing services to people who are accessing or supporting charities included in the network. Parkinson’s UK is included in the national free wills network. So, by visiting the <a href="https://www.parkinsons.org.uk/get-involved/parkinsons-uk-free-will-services " class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a> website or phoning them (0808 800 0303), you can get access to a free will writing service.
 
 ## Discrimination
 

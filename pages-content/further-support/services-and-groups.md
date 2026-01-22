@@ -43,7 +43,7 @@ This includes:
 - If you work, your employer has some responsibility for your Health and Safety at work. Your employer should support you with health issues that impact on or are affected by your work.
 - Check with your manager, Human Resources (HR) or Occupational Health (OH) department.
 - This varies but sometimes includes psychological and physical support. This may be counselling and physiotherapy.
-- More information about your rights is available at <a href="www.hse.gov.uk" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK's HSE (Health and Safety Executive)</a>.
+- More information about your rights is available at <a href="https://www.hse.gov.uk" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK's HSE (Health and Safety Executive)</a>.
 - If you are worried about discrimination at work, Citizen’s Advice can help – see below.
 
 ### Charity Sector
@@ -59,7 +59,7 @@ There are numerous charities that can offer support. We only list a few examples
 
 - PALS is a body within the NHS that offers confidential advice, support and information on health-related matters. They provide a point of contact for patients, their families and their carers.
 - You can find officers from PALS in your local hospital.
-- To find your local PALS office, you can ask your healthcare professional, check the <a href="www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> or telephone NHS 111.
+- To find your local PALS office, you can ask your healthcare professional, check the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> or telephone NHS 111.
 
 ## Peer Support
 
@@ -128,7 +128,7 @@ This may be provided or part-provided by local councils. This will depend on you
 - The **<a href="https://www.nhs.uk/service-search/other-services/Care-at-home/LocationSearch/1833/" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a>** has a service directory to search by location.
 - You could also try calling the United Kingdom Homecare Association (UKHCA) on 020 8661 8188 or use their **<a href="https://service directory" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a>**.
 - **Which? Later Life Care** also has an online <a href="https://www.which.co.uk/later-life-care/care-services-directory" class="external-link" target="_blank" rel="noopener noreferrer">Care Services Directory</a> to search by location.
-- You could use a Broker or Introductory Care Agency. These help you find the Home Care Worker, but you still directly employ them. Find out more on the <a href="www.which.co.uk/later-life-care/home- care/organising-home-care/introductory- care-agencies-and-service-brokers-al6z49k4pv1h" class="external-link" target="_blank" rel="noopener noreferrer">Which? Later Life Care 'something' page</a>.
+- You could use a Broker or Introductory Care Agency. These help you find the Home Care Worker, but you still directly employ them. Find out more on the <a href="https://www.which.co.uk/later-life-care/home- care/organising-home-care/introductory- care-agencies-and-service-brokers-al6z49k4pv1h" class="external-link" target="_blank" rel="noopener noreferrer">Which? Later Life Care 'something' page</a>.
 
 ### Home Help
 
@@ -136,7 +136,7 @@ This may be provided or part-provided by local councils. This will depend on you
 
 This is not usually provided by local councils. Many charities offer these services, though there may be a charge. For example:
 
-- **<a href="www.royalvoluntaryservice.org.uk/ourservices/supporting-people" class="external-link" target="_blank" rel="noopener noreferrer">Royal Voluntary Service:</a>** 0808 196 3646 (line open 8am to 8pm)
+- **<a href="https://www.royalvoluntaryservice.org.uk/ourservices/supporting-people" class="external-link" target="_blank" rel="noopener noreferrer">Royal Voluntary Service:</a>** 0808 196 3646 (line open 8am to 8pm)
 - **<a href="https://www.redcross.org.uk/get-help/get-support-at-home" class="external-link" target="_blank" rel="noopener noreferrer">British Red Cross:</a>** 0344 871 1111 (there are also telephone numbers by region available on the website)
 - **<a href="https://www.ageuk.org.uk/services/in-your-area/home-help/" class="external-link" target="_blank" rel="noopener noreferrer">Age UK:</a>** 0800 678 1602 (line open 8am to 7pm) - Different services are offered in different regions. You can enter your postcode to their website to see what is available locally.
 
@@ -156,17 +156,17 @@ For more information and suggested resources check out these websites:
 
 - Ask your GP or Parkinson’s team about a referral to NHS services.
 - Physiotherapy may be available through your workplace: ask your manager, HR or OH.
-- To look for a private physiotherapist, look at the <a href="www.csp.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Chartered Society of Physiotherapy (CSP)</a> (Telephone: 020 7306 6666).
+- To look for a private physiotherapist, look at the <a href="https://www.csp.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Chartered Society of Physiotherapy (CSP)</a> (Telephone: 020 7306 6666).
 
 ### Speech & Language Therapy
 
 - Ask your GP or Parkinson’s team about a referral to NHS services.
-- To look for a private speech & language therapist: try the <a href="www.asltip.com/" class="external-link" target="_blank" rel="noopener noreferrer">Association of Speech and Language Therapists in Independent Practice</a> (Telephone: 020 3002 3704).
+- To look for a private speech & language therapist: try the <a href="https://www.asltip.com/" class="external-link" target="_blank" rel="noopener noreferrer">Association of Speech and Language Therapists in Independent Practice</a> (Telephone: 020 3002 3704).
 
 ### Dietitian
 
 - Ask your GP or Parkinson’s team about a referral to NHS services.
-- To look for a private dietitian try the <a href="www.bda.uk.com/about-dietetics/find-a-dietitian-near-me.html" class="external-link" target="_blank" rel="noopener noreferrer">Association of UK Dietitians</a> (Telephone: 0121 200 8080).
+- To look for a private dietitian try the <a href="https://www.bda.uk.com/about-dietetics/find-a-dietitian-near-me.html" class="external-link" target="_blank" rel="noopener noreferrer">Association of UK Dietitians</a> (Telephone: 0121 200 8080).
 
 ### Psychological Therapy
 
@@ -176,27 +176,27 @@ For more information and suggested resources check out these websites:
 **Private sector:**
 
 - **Cognitive Behavioural Therapy**
-  - **<a href="www.bps.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">British Psychological Society’s (BPS) Directory of Charted Psychologists:</a>** Telephone: 0116 254 9568 (9am – 5pm, Monday – Friday not including bank holidays)
-  - **<a href="www.babcp.com" class="external-link" target="_blank" rel="noopener noreferrer">British Association for Behavioural and Cognitive Psychotherapies (BABCP):</a>** Telephone: 01455 883 300 (9am – 5pm, Monday – Friday not including bank holidays)
+  - **<a href="https://www.bps.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">British Psychological Society’s (BPS) Directory of Charted Psychologists:</a>** Telephone: 0116 254 9568 (9am – 5pm, Monday – Friday not including bank holidays)
+  - **<a href="https://www.babcp.com" class="external-link" target="_blank" rel="noopener noreferrer">British Association for Behavioural and Cognitive Psychotherapies (BABCP):</a>** Telephone: 01455 883 300 (9am – 5pm, Monday – Friday not including bank holidays)
 - **Counselling:**
   - **<a href="https://www.bacp.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">British Association for Counselling and Psychotherapy (BACP):</a>** Telephone: 01455 883 300 (9am – 5pm, Monday – Friday not including bank holidays)
   - **<a href="https://www.nationalcounsellingsociety.org" class="external-link" target="_blank" rel="noopener noreferrer">National Counselling Society</a>**
   - **<a href="https://www.psychotherapy.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">UK Council for Psychotherapy</a>**
 - **Sexual & Relationship Therapy:**
   - **<a href="https://www.bacp.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">British Association for Counselling and Psychotherapy (BACP):</a>** Telephone: 01455 883 300 (9am – 5pm, Monday – Friday not including bank holidays)
-  - **<a href="www.cosrt.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">College of Sexual and Relationship Therapists:</a>** Telephone: 020 8543 2707
+  - **<a href="https://www.cosrt.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">College of Sexual and Relationship Therapists:</a>** Telephone: 020 8543 2707
 
-- If you need to talk to someone urgently the <a href="www.samaritans.org/" class="external-link" target="_blank" rel="noopener noreferrer">Samaritans</a> telephone line is open 24 hours a day.
+- If you need to talk to someone urgently the <a href="https://www.samaritans.org/" class="external-link" target="_blank" rel="noopener noreferrer">Samaritans</a> telephone line is open 24 hours a day.
 - Note this is not therapy but there is someone to talk to: Telephone: 116 123 There are more helplines available on our Anxiety and Depression pages.
 - Some charity sector providers offer counselling:
-  - <a href="www.mind.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Mind</a> for mental health problem
-  - <a href="www.cruse.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Cruse</a> for bereavement care
-  - <a href="www.relate.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Relate</a> for relationship counselling
+  - <a href="https://www.mind.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Mind</a> for mental health problem
+  - <a href="https://www.cruse.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Cruse</a> for bereavement care
+  - <a href="https://www.relate.org.uk" class="external-link" target="_blank" rel="noopener noreferrer">Relate</a> for relationship counselling
 
 ### Travel
 
 - **Driving**:
-  - <a href="www.gov.uk/dvla" class="external-link" target="_blank" rel="noopener noreferrer">Driving and Vehicle Licensing Agency (DVLA)</a> - Phone for DVLA drivers' medical enquiries: 0300 790 6806
+  - <a href="https://www.gov.uk/dvla" class="external-link" target="_blank" rel="noopener noreferrer">Driving and Vehicle Licensing Agency (DVLA)</a> - Phone for DVLA drivers' medical enquiries: 0300 790 6806
 - **Rail travel**:
   - <a href="https://www.disabledpersons-railcard.co.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Disabled Persons Railcard</a> - Telephone: 0345 605 0525
 - **Toilet key**:
@@ -206,7 +206,7 @@ For more information and suggested resources check out these websites:
 
 ## Accessing Private Services
 
-Information about what is provided on the NHS is available on the <a href="www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a>. If you would like to pursue private services, do check out our tips on the <a href="/information/treatments/who-may-be-involved" class="internal-link">Who May be Involved</a> page. In most cases, to access private services and have this paid under insurance, you still need a referral from your GP.
+Information about what is provided on the NHS is available on the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a>. If you would like to pursue private services, do check out our tips on the <a href="/information/treatments/who-may-be-involved" class="internal-link">Who May be Involved</a> page. In most cases, to access private services and have this paid under insurance, you still need a referral from your GP.
 
 Accessing private healthcare does not stop your right to NHS healthcare, but they must be separate.
 
@@ -219,7 +219,7 @@ The NHS does not subsidise private healthcare.
 - Check that the provider is registered.
   - Most healthcare providers are legally required to be registered with a regulatory body as detailed on the<a href="/information/treatments/who-may-be-involved" class="internal-link">Who May be Involved</a> page.
 - The Professional Standards Authority holds a list of accredited voluntary registers which they have independently assessed against their own standards. They cover professions that are not regulated by law, such as psychotherapists.
-  - Review the reports for the provider by the <a href="www.cqc.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Care Quality Commission (CQC)</a>
+  - Review the reports for the provider by the <a href="https://www.cqc.org.uk/" class="external-link" target="_blank" rel="noopener noreferrer">Care Quality Commission (CQC)</a>
   - Some professionals work across both NHS and private services whereas others just work in one.
 
 ```
