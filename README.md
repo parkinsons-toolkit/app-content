@@ -1,6 +1,6 @@
 # Parkinson's Toolkit - Content Repository
 
-This repository contains the content files for the [Parkinson's Toolkit app](https://github.com/parkinsons-toolkit/parkinsons-toolkit-app) - a web application designed to provide evidence-based information and support for people living with Parkinson's disease, their families, and caregivers.
+This repository contains the content files for the Parkinson's Toolkit app - a web application designed to provide evidence-based information and support for people living with Parkinson's disease, their families, and caregivers.
 
 ## Content Management
 
