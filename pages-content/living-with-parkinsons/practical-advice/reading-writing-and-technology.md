@@ -74,7 +74,7 @@ You may find writing more difficult if you experience:
 1.<ins>First Exercise</ins>
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0rjT1b9XPew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0rjT1b9XPew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 - Put your hands straight out in front of you, shoulder-height, with your palms away from you and fingers extended wide.
@@ -85,7 +85,7 @@ You may find writing more difficult if you experience:
   2.<ins>Second Exercise</ins>
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5DtgKKjg8Qc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5DtgKKjg8Qc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 - Tap each finger on your right hand to your right thumb and then extend upwards. Do the same on your left hand at the same time.
@@ -95,7 +95,7 @@ You may find writing more difficult if you experience:
   3.<ins>Third Exercise</ins>
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGA_kWLhpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LaGA_kWLhpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div
   
 - Curl fingers down so that the nail area of fingers are touching where the base of the fingers connect to the palm of the hand.
@@ -196,10 +196,9 @@ If using a computer or the internet feels overwhelming, there are training cours
 
 - Mobile phones can offer peace of mind. For example, knowing that you can contact someone straight away, no matter where they are.
 - Smartphones (a mobile that acts as a small computer and connects with the internet) can have applications (‘apps’) downloaded onto it.
-
   - Apps are pieces of software that can be used to perform specific tasks.
 
-   **Examples:** writing a note, playing a game, or letting you know when your bus is coming.
+    **Examples:** writing a note, playing a game, or letting you know when your bus is coming.
 
   - Smartphones have many different features that could be useful, including the following:
     - Voice activation (either built-in on the phone or available as an app). This can allow you to: call someone in your phonebook by saying their name, search the internet, dictate text messages and emails, open apps, and record notes as reminders.
@@ -217,7 +216,7 @@ Please look at the bottom of the table for further information about call charge
 | AgeSpace       | Provides instructions and guidance for older adults using technology. <br><br> There are instructions for using and setting up WhatsApp as well as information on staying safe online.                                                                                       | --                                                                                                                                                                                                                                           | Using Technology in Older Age: <a href="https://www.agespace.org/tech" class="external-link" target="_blank" rel="noopener noreferrer">www.agespace.org/tech</a> <br><br> WhatsApp Instructions: <a href="https://www.agespace.org/tech/whatsapp-set-up-guide" class="external-link" target="_blank" rel="noopener noreferrer">www.agespace.org/tech/whatsapp-set-up-guide</a>                                                                                                                                                                                          |
 | Parkinson’s UK | Provides information about and ways to manage communication problems with Parkinson’s. There is a specific section on tips to help with handwriting and communication technology. This can be read online, printed out, or mailed to you.                                    | 0808 800 0303 <br><br> Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm)                                                                                      | <a href="https://www.parkinsons.org.uk/information-and-support/speech-and-communication-problems" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/speech-and-communication-problems</a>                                                                                                                                                                                                                                                                                                                   |
 | Which?         | Provides unbiased advice to consumers for a fee. They can help with a wide range of areas, including choosing what technology devices to buy. They also provide information on technological aids in later life, such as assistive technology and easy-to-use mobile phones. | 029 2267 0000\*\* <br><br> (Open Monday to Friday 9am-5pm, Saturday 9am-1pm) <br><br> Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider. | <a href="https://www.which.co.uk/" class="external-link" target="_blank" rel="noopener noreferrer">https://www.which.co.uk/</a>                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| YouTube        | Many organisations and individuals use the platform YouTube to share videos on a wide range of topics. This video is: “7 Helpful Hand Exercises for Parkinson’s”.                                                                                                            | --                                                                                                                                                                                                                                           | Helpful Hand Exercises for Parkinson's (to Improve Handwriting, Flexibility, and Dexterity): <a href="https://www.youtube.com/watch?v=Ez2GeaMa4c8" class="external-link" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=Ez2GeaMa4c8</a>                                                                                                                                                                                                                                                                                                              |
+| YouTube        | Many organisations and individuals use the platform YouTube to share videos on a wide range of topics. This video is: “7 Helpful Hand Exercises for Parkinson’s”.                                                                                                            | --                                                                                                                                                                                                                                           | Helpful Hand Exercises for Parkinson's (to Improve Handwriting, Flexibility, and Dexterity): <a href="https://www.youtube-nocookie.com/watch?v=Ez2GeaMa4c8" class="external-link" target="_blank" rel="noopener noreferrer">www.youtube.com/watch?v=Ez2GeaMa4c8</a>                                                                                                                                                                                                                                                                                                     |
 
 \*\*Calls cost up to 16p/minute from landlines, between 3p-65p/minute from mobile phones. You may get this call for free depending on your phone provider.
 
