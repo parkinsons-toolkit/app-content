@@ -253,7 +253,7 @@ You can apply for VAT relief by:
 - Asking your supplier for a VAT relief form
 - Applying online when purchasing VAT-free items online
 - Downloading a form to take into a shop when you make a qualifying purchase
-- Visit <a href="http://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a> and search “VAT relief” or call HM Revenue & Customs (HMRC) on **0300 200 3700**
+- Visit <a href="https://www.gov.uk/" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a> and search “VAT relief” or call HM Revenue & Customs (HMRC) on **0300 200 3700**
 
 ## My Experience
 

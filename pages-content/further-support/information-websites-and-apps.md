@@ -36,7 +36,7 @@ The <a href="https://www.cureparkinsons.org.uk/" class="external-link" target="_
 
 ### NHS
 
-The <a href="http://www.nhs.uk/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> provides the latest information regarding research and treatments for Parkinson’s. Local NHS services can also be found using the website.
+The <a href="https://www.nhs.uk/" class="external-link" target="_blank" rel="noopener noreferrer">NHS Website</a> provides the latest information regarding research and treatments for Parkinson’s. Local NHS services can also be found using the website.
 
 ## Apps
 
