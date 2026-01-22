@@ -127,6 +127,7 @@ c) Imagine a cue, for example:
 - Imagine a line in front of you to step over.
 
 Tip: Think about your environment:
+
 - Remove rugs or mats that cause you to freeze in your home.
 - Remove clutter that makes spaces feel small.
 
@@ -181,8 +182,8 @@ Research is ongoing to look for new ways of managing freezing, including the use
 
 ## Useful Organisations & Contacts
 
-| Organisation   | Information                                                                                                                                                                             | Phone Number                                                                                                                                           | Website                                                                                                                                                                                             |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Parkinson’s UK | Provides in-depth information about freezing: its causes, treatments, useful cues and general support. <br><br>You can read information online, print it or ask it to be mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/freezing" class="external-link" target="_blank" rel="noopener noreferrer">www.parkinsons.org.uk/information-and-support/freezing</a> |
+| Organisation   | Information                                                                                                                                                                             | Phone Number                                                                                                                                           | Website                                                                                                                                                                                         |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Parkinson’s UK | Provides in-depth information about freezing: its causes, treatments, useful cues and general support. <br><br>You can read information online, print it or ask it to be mailed to you. | 0808 800 0303 <br><br>Free and confidential Parkinson’s information and support helpline (Open Monday to Friday, 9am to 6pm and Saturday, 10am to 1pm) | <a href="https://www.parkinsons.org.uk/information-and-support/freezing" class="external-link" target="_blank" rel="noopener noreferrer">parkinsons.org.uk/information-and-support/freezing</a> |
 
 To view all the useful organisations and contacts from the **Live Well with Parkinson’s** toolkit in one place, visit our <a href="/information/further-support/resources" class="internal-link">Resources</a> page.
