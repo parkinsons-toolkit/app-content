@@ -269,7 +269,14 @@ For iPhone users (iOS):
 </div>
 
 For Android users:
-
-[to be added]
+<div class="video-container">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/FFx09noz_VA"
+  title="YouTube video player"
+  allowfullscreen>
+</iframe>
+</div>
 
 The <a href="/information/my-wellbeing" class="internal-link">My Wellbeing</a> section in your manual will guide you through this process.
