@@ -97,7 +97,7 @@ Excessive sweating can be very challenging to deal with. There are some suggesti
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They might ask about:**
 

@@ -47,7 +47,7 @@ In the personalised section you will find:
 1. **<a href="/symptom-review" class="internal-link">Symptom Review</a>** (including your health conditions, medication, treatments, and research involvement, and a list of symptoms you experience and how bad you think they are)
 2. **<a href="/my-wellbeing" class="internal-link">My Wellbeing</a>** (to find the things you would like to keep doing or improve)
 3. **<a href="/my-tracker" class="internal-link">My Tracker</a>** (to keep a record of your medications, activities, and symptoms, which may help you to find patterns and understand your experiences)
-4. **<a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a>** (to allow you to store all your healthcare appointments in one place, to keep all your information in one place and can be used like a diary)
+4. **<a href="/reminders-and-notes" class="internal-link">My Reminders and Notes</a>** (to allow you to store all your healthcare appointments in one place, to keep all your information in one place and can be used like a diary)
 
 </div>
 

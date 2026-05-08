@@ -210,7 +210,7 @@ Who you should talk to depends on the subject of the query. Although there is so
 ## Getting Medication
 
 - Long term medication should be issued on a repeat prescription by your GP.
-- You will need to request and collect the repeat prescription. If not, you may run out of the medicine. You can set a reminder to reorder your medicine using the <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders & Notes</a> section.
+- You will need to request and collect the repeat prescription. If not, you may run out of the medicine. You can set a reminder to reorder your medicine using the <a href="/reminders-and-notes" class="internal-link">My Reminders & Notes</a> section.
 - Consider asking your GP surgery if they can send prescriptions directly to the pharmacy.
 - Some pharmacies offer home delivery services for people who find it difficult to get out of the house. Ask your pharmacist if this is an issue.
 

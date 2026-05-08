@@ -25,7 +25,6 @@
 </iframe>
 </div>
 
-
 ‘Dyskinesias’ are typically quick muscle movements that you cannot control. These movements include wriggling, writhing, twisting, head bobbing, or swaying motions. They can affect one part of the body (e.g. the trunk), arms or legs, or the whole body.
 
 Some people experience dyskinesia when their medications are at the highest levels in the body. Others have dyskinesia when their medications are at the lowest levels in the body (i.e. just before or just after taking medication).
@@ -86,7 +85,7 @@ People affected by Parkinson’s describe their experiences.
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They may ask about:**
 

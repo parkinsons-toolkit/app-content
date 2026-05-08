@@ -47,22 +47,25 @@ The toolkit has a wealth of information on Parkinson’s and your overall health
 This section helps you to review 56 symptoms that may be linked to Parkinson's. Everyone's experience of Parkinson's is different, and symptoms can change over time.
 
 What you can do:
+
 - Record which of 56 symptoms you are experiencing.
 - Say how much each symptom bothers you.
 
 When to complete:
+
 - It is recommended that you complete a symptom review every 6-months, or when you notice changes in your symptoms.
-  
+
 What happens next:
+
 - Your answers will update the list of symptoms you track in the My Tracker section.
 - A PDF document is created which you can download.
 - You can use the PDF documents to compare past symptom reviews and take them along to your appointments with healthcare professionals.
 
 How to start:
+
 - To get started, click the 'Add Symptom Review' button. This will take you to a new page where all of the symptoms are listed. Within this page you will have the option to review how bothersome each symptom is, selecting 'not at all', 'not much', 'a bit', or 'a lot'. If you select an option that says a symptom is bothersome for you, then an optional drop down will appear where you can add more information about that symptom. You can fill in as much or as little information on this symptom review as you would like.
 
 For each symptom, there will be a link to more information about the symptom. If you are completing a section about a symptom, and want to find out more, click the underlined word next to 'learn more' to open a new tab with information. You can read the extra information now and then come back to your symptom review or finish your symptom review first and read the information later.
-
 
 ### My Wellbeing
 
@@ -82,6 +85,7 @@ Section 2: Write down any challenges you are currently facing
 Section 3: Based on what you have entered in the previous two sections, choose a wellbeing priority you would like to work towards.
 
 div class="video-container">
+
 <iframe
   width="560"
   height="315"
@@ -111,8 +115,7 @@ You can keep trying new ideas to achieve your wellbeing priority and reflecting 
 How often to complete:
 It is recommended to complete Sections 1 and 2 every 6-months or when things change. Try to update Section 3 at least every month to keep track of the wellbeing priorities you are working towards and how things are going.
 
-
-### My Tracker 
+### My Tracker
 
 <div class="video-container">
 <iframe
@@ -138,8 +141,7 @@ When you open the My Tracker page, you will see six tabs:
 Getting started:
 When you first visit the My Tracker section, we recommend you start by filling in the following tabs: 'health conditions', 'health profile', and 'medications'.
 
-
-### Reminders & Notes 
+### Reminders & Notes
 
 <div class="video-container">
 <iframe
@@ -153,7 +155,6 @@ When you first visit the My Tracker section, we recommend you start by filling i
 
 Set email reminders and alerts to remember to complete activities or take medication, make notes before or after healthcare appointments, and add contact details all in one place.
 
-
 ## Features Overview
 
 <div class="video-container">
@@ -166,11 +167,9 @@ Set email reminders and alerts to remember to complete activities or take medica
 </iframe>
 </div>
 
-There are personalised sections which are interactive (Symptom Review, My Wellbeing, My Tracker, and Reminders & Notes) along with a wide variety of information pages to help you live well with Parkinson's. 
-
+There are personalised sections which are interactive (Symptom Review, My Wellbeing, My Tracker, and Reminders & Notes) along with a wide variety of information pages to help you live well with Parkinson's.
 
 ## How to Personalise
-
 
 You might find it useful to consider what types of questions could help you to analyse the data you’ve entered into the tracker. For example:
 
@@ -182,7 +181,7 @@ You might find it useful to consider what types of questions could help you to a
 Here are some questions you might explore by entering data into the tracker:
 
 - “At what times of the day are my symptoms less severe?”
-- “_When does my medication wear off, am I taking it on time?”
+- “\_When does my medication wear off, am I taking it on time?”
 - “On which days and at what times am I available to start a new habit?”
 - “How many hours do I spend on a particular activity?”
 
@@ -244,7 +243,7 @@ Tips to consider:
 4. **Work with your body:** Try to use the good times and don’t be too hard on yourself during the difficult times. If symptoms are getting in the way, read the symptom pages for tips on managing them.
 5. **Record progress:** Some people find it helpful to keep a log of what they are doing.
 
-- You could add your planned actions in <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders & Notes</a> and check it off when completed.
+- You could add your planned actions in <a href="/reminders-and-notes" class="internal-link">My Reminders & Notes</a> and check it off when completed.
 - You could enter your activities to the <a href="/information/my-tracker" class="internal-link">My Tracker</a> to keep a record.
   This can also help you see which times are better for you than others.
 
@@ -269,6 +268,7 @@ For iPhone users (iOS):
 </div>
 
 For Android users:
+
 <div class="video-container">
 <iframe
   width="560"

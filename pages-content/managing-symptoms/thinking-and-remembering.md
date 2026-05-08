@@ -102,8 +102,8 @@ See our **Optimising Wellbeing** pages within the <a href="/information/living-w
 
 ### Prompts and Reminders
 
-- **Lists** – e.g. a “To-do-list” or a list of things to take with you when you go out. You can record lists and memos here: <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a>.
-- **Calendars/organisers** – e.g. to help remember your appointments or friends’ birthdays. You can enter your appointments and set reminders here: <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a>.
+- **Lists** – e.g. a “To-do-list” or a list of things to take with you when you go out. You can record lists and memos here: <a href="/reminders-and-notes" class="internal-link">My Reminders and Notes</a>.
+- **Calendars/organisers** – e.g. to help remember your appointments or friends’ birthdays. You can enter your appointments and set reminders here: <a href="/reminders-and-notes" class="internal-link">My Reminders and Notes</a>.
 - **Clocks and alarms** – Having a prominent and easy-to-read clock may help your timekeeping. Many devices allow you to set alerts (e.g. setting an alarm clock or a phone alarm to remind you to take your medication or setting the oven timer to remind you when dinner is ready).
 - **Keep track** – if you are struggling to remember things that have happened, you could record them for future reference. If you are struggling to remember what has been happening with your Parkinson’s when speaking with healthcare professionals, you could try recording things using the <a href="/my-tracker" class="internal-link">My Tracker</a>.
 
@@ -137,7 +137,7 @@ It’s important to note there is **not** currently enough evidence to recommend
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They may ask about:**
 

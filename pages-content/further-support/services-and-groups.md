@@ -24,7 +24,7 @@ Here we offer some guidance on what sort of support is out there. We also indica
 
 ### Your Parkinson’s team or your GP
 
-- <ins>Note you can record their contact details in the <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section.</ins>
+- <ins>Note you can record their contact details in the <a href="/reminders-and-notes" class="internal-link">My Reminders and Notes</a> section.</ins>
 - They are available to help with health-related issues and can direct you to other services in the area.
 - Your Parkinson’s team should know if there are any support groups connected with the hospital. They may know about support groups outside the hospital too.
 - If you can’t get through to the team you know health advice is available via the NHS 111 telephone service, <a href="111.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS 111 online</a> downloading the NHS App or using the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a>. However please note that the call handler is not usually a clinician and may not have much experience of Parkinson’s.

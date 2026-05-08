@@ -229,7 +229,7 @@ People affected by Parkinson’s describe their experiences.
 
 At times, feelings of anxiety are completely normal. But, anxiety can begin to disrupt your day-to-day life or cause you distress. If this is the case, it is important to seek help from healthcare professionals.
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They might ask about:**
 

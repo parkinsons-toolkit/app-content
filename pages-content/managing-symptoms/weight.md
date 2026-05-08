@@ -85,7 +85,7 @@ There are also tips that may be relevant on the <a href="/information/managing-s
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 **They might ask about:**
 
@@ -106,7 +106,7 @@ Healthcare professionals are likely to ask more questions, so you could think ab
 
 - This can help you to recall the details and help your health professional look for patterns.
 - Showing your healthcare workers a record of your daily intake of food and drink for 3 days can help them decide what to suggest next. If you see a dietician, they may ask for a more detailed record.
-- Monitor your weight monthly — it is helpful to have measurements to know how much weight is lost. You can record this in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section.
+- Monitor your weight monthly — it is helpful to have measurements to know how much weight is lost. You can record this in your <a href="/reminders-and-notes" class="internal-link">My Reminders and Notes</a> section.
 
 ### Tests
 

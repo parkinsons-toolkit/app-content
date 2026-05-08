@@ -167,7 +167,7 @@ Check moles regularly (monthly), looking for any changes. You can ask someone el
 
 ### Questions
 
-Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/information/my-reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
+Healthcare professionals are likely to ask more questions, so you could think about these in advance. You could record them in your <a href="/reminders-and-notes" class="internal-link">My Reminders and Notes</a> section to bring to the appointment.
 
 The questions will relate to your particular skin issue. They will generally cover details about what the problem is, when it occurred, how it has changed over time, whether you’ve had it before and what you have tried.
 
