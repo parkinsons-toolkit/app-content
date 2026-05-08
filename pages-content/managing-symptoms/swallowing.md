@@ -11,7 +11,7 @@
 - [Further Assessment](#further-assessment)
 - [Further Treatments](#further-treatments)
 - [Key Messages](#key-messages)
-- [MUseful Organisations & Contacts](#museful-organisations-contacts)
+- [Useful Organisations & Contacts](#useful-organisations-contacts)
 
 </div>
 
@@ -176,7 +176,7 @@ If you are having significant and progressive difficulties swallowing, there is 
 - Problems with swallowing tablets, liquid, or food can happen at any time during Parkinson’s.
 - Speak with your GP or healthcare professional as soon as you notice any difficulty swallowing, or if it gets significantly worse, as it may need further assessment.
 
-## MUseful Organisations & Contacts
+## Useful Organisations & Contacts
 
 | Organisation           | About                                                                                                                                                                                                                        | Phone Number                                                                                                                                          | Website                                                                                                                                                                                                                                                                                             |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
