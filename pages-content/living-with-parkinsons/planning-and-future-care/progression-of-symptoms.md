@@ -44,7 +44,7 @@ In general, over time people may experience more symptoms, but there is no rule 
 It is normal to feel grief. It is helpful to acknowledge your grief. Understanding that grief is normal may be a comfort, as is knowing that there is support around for these feelings. Using the support around you to help you through this grieving process is important.
 
 - Talk to people involved in your life. Helping people close to you to understand your view point will help them to support you more sensitively.
-- Talk to people with personal experience of what you are going through. Support groups can be very helpful, though they do not suit everyone. Support groups can be face-to-face, online face- to-face, or online such as Twitter. They can help you to feel less alone. Support groups can also help with the sharing of tips for handling some of the challenges you may be facing.
+- Talk to people with personal experience of what you are going through. Support groups can be very helpful, though they do not suit everyone. Support groups can be face-to-face, online face- to-face, or online such as X. They can help you to feel less alone. Support groups can also help with the sharing of tips for handling some of the challenges you may be facing.
 - If you find your feelings are overwhelming, you could speak to your GP or Parkinson’s specialist
   team.
 
