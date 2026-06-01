@@ -22,7 +22,7 @@ Within this section you can find a guide and further advice on how to navigate a
 <iframe
   width="560"
   height="315"
-  src="https://www.youtube-nocookie.com/embed/k-wMMP0hHo"
+  src="https://www.youtube-nocookie.com/embed/NNgTWSy5D0w"
   title="YouTube video player"
   allowfullscreen>
 </iframe>
