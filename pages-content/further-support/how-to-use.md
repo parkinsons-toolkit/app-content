@@ -257,7 +257,7 @@ To add the Live Well with Parkinson's to your apps on the home screen so it is e
 
 For iPhone users (iOS):
 
-<div class="video-container">
+<div class="video-container video-stacked">
 <iframe
   width="560"
   height="315"
@@ -269,7 +269,7 @@ For iPhone users (iOS):
 
 For Android users:
 
-<div class="video-container">
+<div class="video-container video-stacked">
 <iframe
   width="560"
   height="315"
