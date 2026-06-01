@@ -84,8 +84,7 @@ Section 1: Think about how things are for you now
 Section 2: Write down any challenges you are currently facing
 Section 3: Based on what you have entered in the previous two sections, choose a wellbeing priority you would like to work towards.
 
-div class="video-container">
-
+<div class="video-container">
 <iframe
   width="560"
   height="315"
@@ -130,6 +129,8 @@ It is recommended to complete Sections 1 and 2 every 6-months or when things cha
 The My Tracker section helps you to keep track of your health and daily activities. There are six tabs within this sections and it is recommended to start by filling in the health conditions, health profile, and medications tabs. Following this, you can then start tracking symptoms and activities to view them on the chart alongside your medications.
 
 When you open the My Tracker page, you will see six tabs:
+
+<div class="clear-float"></div>
 
 - Symptoms
 - Activities
