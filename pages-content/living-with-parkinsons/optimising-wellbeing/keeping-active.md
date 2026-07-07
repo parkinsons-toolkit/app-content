@@ -66,7 +66,7 @@ Everyone with Parkinson’s should be considered for referral to physiotherapy. 
 </iframe>
 </div>
 
-Think through what you do now. You can record this on the <a href="/information/my-wellbeing" class="internal-link">My Wellbeing</a> page. Then use this page to think about whether it is enough and whether it is the right type of activity. If there is something missing or you want to make a change, the <a href="/information/my-wellbeing" class="internal-link">My Wellbeing</a> page will guide you through.
+Think through what you do now. You can record this on the <a href="/my-wellbeing" class="internal-link">My Wellbeing</a> page. Then use this page to think about whether it is enough and whether it is the right type of activity. If there is something missing or you want to make a change, the <a href="/my-wellbeing" class="internal-link">My Wellbeing</a> page will guide you through.
 
 Think through these 5 components and how they can be built into your routine:
 
@@ -173,7 +173,7 @@ This doesn’t happen overnight. You will have built up to this little-by-little
 
 ## How to do this?
 
-You may find this focus on <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">Keeping Active</a> is new and requires a change to your daily life. Changing life habits and routines is not often easy. Talk to your Live Well with Parkinson’s supporter if this is something that is important to you. You can also use the <a href="/information/my-wellbeing" class="internal-link">My Wellbeing</a> pages to work through things that are important to you.
+You may find this focus on <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">Keeping Active</a> is new and requires a change to your daily life. Changing life habits and routines is not often easy. Talk to your Live Well with Parkinson’s supporter if this is something that is important to you. You can also use the <a href="/my-wellbeing" class="internal-link">My Wellbeing</a> pages to work through things that are important to you.
 
 ### Motivation
 
@@ -184,8 +184,8 @@ Think about what motivates you, and how you can embrace that in keeping active.
 - **Competition?** – Perhaps a sports game would suit you. Or trying to beat your ‘personal best’.
 - **Is there a specific symptom you hope to improve?** There may be a particular consideration for the activity you undertake as a result. For example, if you wish to improve sleep, avoid doing your exercise just before bed as it will make you more awake. Undertake the activity earlier in the day.
 - **Sense of achievement?** Monitor what you do and congratulate yourself when it’s going well. Suggestions for embracing this:
-  - Keep a log of what you do. You can record your activity in the <a href="/information/my-tracker" class="internal-link">My Tracker</a> page.
-  - Set a target or goal to work toward. Like setting a New Year’s resolution, be specific and realistic. If it’s too hard then it won’t be motivating (and can be the opposite). The best targets have a timeframe to keep you focused and are achievable. You can use the <a href="/information/my-wellbeing" class="internal-link"> Wellbeing</a> page to set a target if you think this might help you.
+  - Keep a log of what you do. You can record your activity in the <a href="/my-tracker" class="internal-link">My Tracker</a> page.
+  - Set a target or goal to work toward. Like setting a New Year’s resolution, be specific and realistic. If it’s too hard then it won’t be motivating (and can be the opposite). The best targets have a timeframe to keep you focused and are achievable. You can use the <a href="/my-wellbeing" class="internal-link"> Wellbeing</a> page to set a target if you think this might help you.
 
 ### Routine
 
@@ -201,7 +201,7 @@ Think about what motivates you, and how you can embrace that in keeping active.
 
 This gives an anchor: each time that part of your routine happens, you also undertake the activity. This makes you more likely to remember to do it regularly.
 
-- You could plan when you are going to undertake the activity and set a prompt. You could add the activity to your <a href="/information/my-tracker" class="internal-link">My Tracker</a> and tick it off when done. Within this site, or through other devices, you could set a reminder.
+- You could plan when you are going to undertake the activity and set a prompt. You could add the activity to your <a href="/my-tracker" class="internal-link">My Tracker</a> and tick it off when done. Within this site, or through other devices, you could set a reminder.
 
 ### Opportunities
 
@@ -233,7 +233,7 @@ Here we discuss some more common barriers...
 
 There are so many things to do and so many things to think about. It is completely normal to find that tough. So, start small and take one step and at a time. Consider what you currently do. What could you do to increase this, just a little bit? Perhaps adding a few more minutes into an activity you already do. Perhaps carrying a heavier bag out on a walk. Little by little you can increase your activity.
 
-When it comes to incorporating the different components to your routine, many can be met within one activity. For example, a yoga class will include strength, balance, flexibility, big movements and posture. The <a href="/information/my-wellbeing" class="internal-link">My Wellbeing</a> page can also help you with this.
+When it comes to incorporating the different components to your routine, many can be met within one activity. For example, a yoga class will include strength, balance, flexibility, big movements and posture. The <a href="/my-wellbeing" class="internal-link">My Wellbeing</a> page can also help you with this.
 
 ### Symptoms
 
@@ -242,7 +242,7 @@ When it comes to incorporating the different components to your routine, many ca
 Parkinson’s has both physical and mental symptoms which can make keeping active more difficult. Optimal control of your symptoms will help you to undertake activity, see the <a href="/information/managing-symptoms/managing-symptoms" class="internal-link">Managing Symptoms</a> pages for more advice for each.
 
 - Movement symptoms such as <a href="/information/managing-symptoms/stiffness-slowness-and-small-movements" class="internal-link">Stiffness, Slowness & Small Movements</a>, tend to respond better to medications than some of the non-movement symptoms. Talk to your specialist Parkinson’s team about any symptoms that are preventing you from keeping active.
-- If anxiety or fear are getting in the way of your activity, talk to your GP about how best to control this. For more information see the <a href="/information/managing-symptoms/mood" class="internal-link">Mood</a> page.
+- If anxiety or fear are getting in the way of your activity, talk to your GP about how best to control this. For more information see the <a href="/information/managing-symptoms/anxiety" class="internal-link">Anxiety</a> page.
 - Some people feel extreme tiredness that doesn’t improve with rest, known as <a href="/information/managing-symptoms/tiredness" class="internal-link">Fatigue</a>. This can put them off undertaking activity, but actually being active improves fatigue. Perhaps think about which time of day is best for you. If <a href="/information/managing-symptoms/urination" class="internal-link">Urinary Symptoms</a> or <a href="/information/managing-symptoms/bowels" class="internal-link">Bowel Symptoms</a> are a worry, try going to the toilet before you begin any activity. Perhaps think about where toilets are available, so you have a plan if you were to need it during the activity.
 - <a href="/information/managing-symptoms/variability-of-symptoms" class="internal-link">Variability of Symptoms</a> can be a real challenge for people with Parkinson’s. There are good days and bad days, good hours and bad hours. You could try tracking your symptoms (i.e., using your Tracker in the manual) to see if there is a pattern. Then try to undertake more strenuous activities for the time when you are at your best. Having said that, for some there is no pattern; it is unpredictable. In these cases, you may have to be opportunistic: when you have a good spell, try to maximise what you do with it.
 

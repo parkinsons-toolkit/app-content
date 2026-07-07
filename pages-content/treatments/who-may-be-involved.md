@@ -276,7 +276,7 @@ In the UK, there is a split between **Healthcare** (National Health Service, NHS
   - Carers coming to your home to help you wash and dress
   - Supported living environments
   - Assistance with home adaptations
-- There are some cases where provision for social care needs are covered by the NHS. This is known as **Continuing Healthcare (CHC)**. Please see the <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">Finances</a> page for more information.
+- There are some cases where provision for social care needs are covered by the NHS. This is known as **Continuing Healthcare (CHC)**. Please see the <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">Finances</a> page for more information.
 
 ## Private Healthcare
 

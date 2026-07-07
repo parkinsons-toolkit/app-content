@@ -96,7 +96,7 @@ It is recommended that everyone over the age of 40 years has their blood pressur
 
 ### How can I get my blood pressure checked?
 
-You can have your blood pressure tested at your GP surgery, hospital appointments, and some pharmacies. Or, you can buy your own blood pressure monitor for use at home. The <a href="https://bihsoc.org/#%3A~%3Atext%3DThe%20British%20and%20Irish%20Hypertension%20Society%26text%3DThe%20Society%20comprises%20doctors%2C%20nurses%2Cthe%20forefront%20of%20cardiovascular%20research" class="external-link" target="_blank" rel="noopener noreferrer">British and Irish Hypertension Society</a> and <a href="[https://www.parkinsons.org.uk](https://www.bloodpressureuk.org/Home)" class="external-link" target="_blank" rel="noopener noreferrer">Blood Pressure UK</a> both have advice on validated monitors.
+You can have your blood pressure tested at your GP surgery, hospital appointments, and some pharmacies. Or, you can buy your own blood pressure monitor for use at home. The <a href="https://bihsoc.org/#%3A~%3Atext%3DThe%20British%20and%20Irish%20Hypertension%20Society%26text%3DThe%20Society%20comprises%20doctors%2C%20nurses%2Cthe%20forefront%20of%20cardiovascular%20research" class="external-link" target="_blank" rel="noopener noreferrer">British and Irish Hypertension Society</a> and <a href="https://www.bloodpressureuk.org/Home" class="external-link" target="_blank" rel="noopener noreferrer">Blood Pressure UK</a> both have advice on validated monitors.
 
 ## Bone Health
 
@@ -148,7 +148,7 @@ You can have your blood pressure tested at your GP surgery, hospital appointment
 
 ### Cannabis
 
-There is growing interest in the use of cannabis-based products for the treatment of health conditions. You can find more about the use of Cannabis on our <a href="/information/treatments-and-therapies/complementary-therapies" class="internal-link">Complementary Therapies</a> page.
+There is growing interest in the use of cannabis-based products for the treatment of health conditions. You can find more about the use of Cannabis on our <a href="/information/treatments/complementary-therapies" class="internal-link">Complementary Therapies</a> page.
 
 ## Vision & Hearing
 
@@ -199,7 +199,7 @@ Addressing sight or hearing deterioration may mean having treatment or aids to i
 </div>
 - Hearing problems are often not preventable. You can help to protect your hearing by minimising loud noise exposure. Be mindful of how loud your music plays, time spent at noisy events, and potential noise exposure at work.
 
-More information about healthcare costs is on our <a href="/information/living-with-parkinsons/practical-advice-finances" class="internal-link">Finances</a> page. For more information about sight and hearing problems, see our <a href="/information/managing-symptoms/five-senses" class="internal-link">5 Senses</a> page.
+More information about healthcare costs is on our <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">Finances</a> page. For more information about sight and hearing problems, see our <a href="/information/managing-symptoms/five-senses" class="internal-link">5 Senses</a> page.
 
 ## Foot Care
 

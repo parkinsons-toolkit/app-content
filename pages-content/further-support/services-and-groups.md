@@ -27,7 +27,7 @@ Here we offer some guidance on what sort of support is out there. We also indica
 - <ins>Note you can record their contact details in the <a href="/reminders-and-notes" class="internal-link">My Reminders and Notes</a> section.</ins>
 - They are available to help with health-related issues and can direct you to other services in the area.
 - Your Parkinson’s team should know if there are any support groups connected with the hospital. They may know about support groups outside the hospital too.
-- If you can’t get through to the team you know health advice is available via the NHS 111 telephone service, <a href="111.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS 111 online</a> downloading the NHS App or using the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a>. However please note that the call handler is not usually a clinician and may not have much experience of Parkinson’s.
+- If you can’t get through to the team you know health advice is available via the NHS 111 telephone service, <a href="https://111.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS 111 online</a> downloading the NHS App or using the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a>. However please note that the call handler is not usually a clinician and may not have much experience of Parkinson’s.
 
 ### Your local council
 
@@ -35,7 +35,7 @@ Find your local council by visiting the <a href="https://www.gov.uk/find-local-c
 
 This includes:
 
-- **Adult Social Care:** Also known as ‘social services’. They conduct Needs Assessments. These are the first steps in getting Home Care, equipment and/or home adaptations and housing support. This is who you should contact if daily tasks are becoming more difficult and you think you need help. Note, services are means tested so there may be a cost that is different to healthcare which is free on the NHS. However, the assessment and advice are free. They can also let you know if you may be eligible for some benefits that are not means tested, such as Attendance Allowance. These benefits can help pay for extra help. See our <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">Finances</a> page for more details on this.
+- **Adult Social Care:** Also known as ‘social services’. They conduct Needs Assessments. These are the first steps in getting Home Care, equipment and/or home adaptations and housing support. This is who you should contact if daily tasks are becoming more difficult and you think you need help. Note, services are means tested so there may be a cost that is different to healthcare which is free on the NHS. However, the assessment and advice are free. They can also let you know if you may be eligible for some benefits that are not means tested, such as Attendance Allowance. These benefits can help pay for extra help. See our <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">Finances</a> page for more details on this.
 - **Parking & Travel**: Blue Badge, bus passes, dial-a-ride services, etc. See our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">Travel</a> page for more details.
 
 ### Your workplace
@@ -126,9 +126,9 @@ ealth and Social Care services are monitored by the Care Quality Commission (CQC
 This may be provided or part-provided by local councils. This will depend on your circumstances. Contact your local council Adult Social Care department for an assessment. They should be able to offer advice even if not providing Home Care.
 
 - The **<a href="https://www.nhs.uk/service-search/other-services/Care-at-home/LocationSearch/1833/" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a>** has a service directory to search by location.
-- You could also try calling the United Kingdom Homecare Association (UKHCA) on 020 8661 8188 or use their **<a href="https://service directory" class="external-link" target="_blank" rel="noopener noreferrer">Parkinson's UK</a>**.
+- You could also try calling the United Kingdom Homecare Association (UKHCA) on 020 8661 8188 or visiting their website at <a href="https://www.ukhca.co.uk" class="external-link" target="_blank" rel="noopener noreferrer">ukhca.co.uk</a>.
 - **Which? Later Life Care** also has an online <a href="https://www.which.co.uk/later-life-care/care-services-directory" class="external-link" target="_blank" rel="noopener noreferrer">Care Services Directory</a> to search by location.
-- You could use a Broker or Introductory Care Agency. These help you find the Home Care Worker, but you still directly employ them. Find out more on the <a href="https://www.which.co.uk/later-life-care/home- care/organising-home-care/introductory- care-agencies-and-service-brokers-al6z49k4pv1h" class="external-link" target="_blank" rel="noopener noreferrer">Which? Later Life Care 'something' page</a>.
+- You could use a Broker or Introductory Care Agency. These help you find the Home Care Worker, but you still directly employ them. Find out more on the <a href="https://www.which.co.uk/later-life-care/home-care/organising-home-care/introductory-care-agencies-and-service-brokers-al6z49k4pv1h" class="external-link" target="_blank" rel="noopener noreferrer">Which? Later Life Care</a>.
 
 ### Home Help
 

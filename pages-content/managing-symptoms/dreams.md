@@ -76,7 +76,7 @@ RBD exists across a range of severity and so the most important thing to conside
 - Eating well and keeping well hydrated.
 - Optimising physical and mental health (see the **Optimising Wellbeing** pages found in the <a href="/information/living-with-parkinsons" class="internal-link">Living with Parkinson's</a> section for advice).
 - Keep a regular sleep schedule (see the <a href="/information/managing-symptoms/sleep" class="internal-link">Sleep Disturbances</a> page for more detail).
-- Tackle stress and anxiety (see <a href="/information/living-with-parkinsons/optimising-wellbeing/dealing-with-stress-and-challenges" class="internal-link">Dealing with Stress and Challenges</a> and <a href="/information/managing-symptoms/mood" class="internal-link">Mood</a> pages).
+- Tackle stress and anxiety (see <a href="/information/living-with-parkinsons/optimising-wellbeing/dealing-with-stress-and-challenges" class="internal-link">Dealing with Stress and Challenges</a> and <a href="/information/managing-symptoms/anxiety" class="internal-link">Anxiety</a> pages).
 
 **If you are acting out dreams, consider the safety of yourself and your bed partner:**
 

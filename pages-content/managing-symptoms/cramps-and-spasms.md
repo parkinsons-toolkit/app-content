@@ -121,7 +121,7 @@ Possible adjustments that may be considered:
 - You may be referred to a physiotherapist. They will address movement problems more broadly.
 - Sometimes people with severe cramps or spasms are referred to a specialist team. This can be for more invasive treatments
   - **Botulinum toxin (Botox)** injections may be considered with a specialist. This is to relax muscle groups that are moving excessively.
-  - **Deep brain stimulation (DBS)** may also be an option for some patients. See <a href="/information/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a> Advanced Therapies & Surgical Treatments for more information.
+  - **Deep brain stimulation (DBS)** may also be an option for some patients. See <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a> for more information.
 
 ## Useful Organisations & Contacts
 

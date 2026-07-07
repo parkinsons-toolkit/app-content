@@ -153,7 +153,7 @@ It is important for staff to know you have Parkinson’s and know your specific 
 
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/nurse.jpg" alt="nurse" class="appointments-and-hospital-stays__nurse">
 
-You will probably encounter lots of different professionals during your hospital stay. See <a href="/information/treatments-and-therapies/who-may-be-involved" class="internal-link">Who May Be Involved</a> for more guidance on roles but always feel free to ask.
+You will probably encounter lots of different professionals during your hospital stay. See <a href="/information/treatments/who-may-be-involved" class="internal-link">Who May Be Involved</a> for more guidance on roles but always feel free to ask.
 
 ### Responsibilities you may still have outside hospital
 
@@ -175,7 +175,7 @@ Many people worry about things that they have left at home if they are admitted 
 - **Security and safety**: If you are worried about whether you locked the door, or left the cooker on, is there someone who could check to put your mind at ease? Is there someone who can check on your home whilst you are in hospital?
 - **Bills**: Is there someone who can step in to help while you are in hospital?
 
-See <a href="/information/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">Work & Caring</a>, and <a href="/information/living-with-parkinsons/practical-advice/hobbiess-and-pets" class="internal-link">Hobbies & Pets</a> for more guidance.
+See <a href="/information/living-with-parkinsons/practical-advice/work-and-caring" class="internal-link">Work & Caring</a>, and <a href="/information/living-with-parkinsons/practical-advice/hobbies-and-pets" class="internal-link">Hobbies & Pets</a> for more guidance.
 
 ## Minimising Hospital Risks
 

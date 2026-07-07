@@ -74,7 +74,7 @@ But generally, over time, symptoms tend to change:
 - Earlier on, symptoms, particularly movement symptoms, tend to respond well to medication.
 - Over time you may experience that the medication ‘wears off’ more between doses.
 - Involuntary movements, for example unintended twisting of the shoulders, can also develop.
-- Various changes to medication regime can be made in order to ease some of these problems. Changes to the diet might also be suggested. This is also discussed on the <a href="/information/managing-symptoms/variability-of-symtoms" class="internal-link">Variability of Symptoms</a> page.
+- Various changes to medication regime can be made in order to ease some of these problems. Changes to the diet might also be suggested. This is also discussed on the <a href="/information/managing-symptoms/variability-of-symptoms" class="internal-link">Variability of Symptoms</a> page.
 - Over time, it becomes harder for people to mobilise, and falls and freezing are more likely to occur
 - In the more advanced stages of Parkinson’s, the fluctuations and variability in symptoms can become less clearly related to the medication regime. The changes between good and bad times can become abrupt and unpredictable.
 - It is impossible for you or your health care professional to predict exactly how your disease will
@@ -127,7 +127,7 @@ If the symptoms are affecting your ability to undertake daily activities or task
 - See your GP or Parkinson’s specialist team for assessment. Assessments may be conducted by a specialist service, often called a **Memory Clinic**.
 - There are medication options that have been shown to improve symptoms in dementia. These are generally started by a Parkinson’s specialist or a dementia specialist.
 - Memory clinic services vary by area. They will generally have support services connected to them, or they can give you the details of services that can help you.
-- Day-to-day strategies for memory difficulties are discussed on the <a href="/information/managing-symptoms/thinking-concentration-and-memory" class="internal-link">Thinking, Concentration & Memory</a> page.
+- Day-to-day strategies for memory difficulties are discussed on the <a href="/information/managing-symptoms/thinking-and-remembering" class="internal-link">Thinking, Concentration & Memory</a> page.
 - **Prepare:** over time dementia can affect a person’s ability to make decisions. If someone no longer has the ‘mental capacity’ to make decisions about their care, then decisions will be made on their behalf. Prepare by thinking ahead and making your wishes known. You can record your wishes in advance or appoint someone to take decisions for you. See the <a href="/information/living-with-parkinsons/planning-and-future-care/future-care-options" class="internal-link">Future Care Options</a> page for things to consider, and the <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">Legal Matters</a> page for the formal process.
 
 ## Swallowing Problems & Chest Infections

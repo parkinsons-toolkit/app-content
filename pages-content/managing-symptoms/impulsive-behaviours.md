@@ -89,7 +89,7 @@ People may also be more likely to develop these behaviours if they are younger a
 </div>
 
 - Stress, anxiety and depression can make impulsive and compulsive behaviour changes worse.
-- See the **Optimising Wellbeing** pages found within the <a href="/information/managing-symptoms/tremor" class="internal-link">Living with Parkinson's</a> section for tips on keeping well.
+- See the **Optimising Wellbeing** pages found within the <a href="/information/living-with-parkinsons/living-with-parkinsons" class="internal-link">Living with Parkinson's</a> section for tips on keeping well.
 
 ## Further Treatments
 

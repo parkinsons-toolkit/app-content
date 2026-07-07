@@ -47,7 +47,7 @@ Dizziness is a common symptom in people with and without Parkinson’s. The most
 
 Some medications make postural hypotension worse. This includes some Parkinson’s medication, as well as medication for high blood pressure and heart disease. Many other conditions can also cause drops in blood pressure, for example infections, dehydration, and bleeding.
 
-Dizziness can be caused by anxiety or panic. Anxiety is more common in Parkinson’s; see the <a href="/information/managing-symptoms/mood" class="internal-link">Mood</a> page for more information about Anxiety.
+Dizziness can be caused by anxiety or panic. Anxiety is more common in Parkinson’s; see the <a href="/information/managing-symptoms/anxiety" class="internal-link">Mood</a> page for more information about Anxiety.
 
 Dizziness is seen in a range of other conditions, including inner ear problems (e.g. Benign Paroxysmal Positional Vertigo, BPPV) and people with irregular heartbeats.
 
@@ -86,7 +86,7 @@ These do not change the symptom but help reduce risks:
 - Have something to hold when you change position. For example, make sure there is something you can hold on to when you stand up. This will help steady you while your body gets used to being upright.
 - Extra support. Consider having someone available to help you in higher risk situations, such as showering or bathing.
 - Do not do anything that could be dangerous while you're dizzy. This includes driving, climbing a ladder, and using heavy machinery.
-- You must tell DVLA if you have dizziness that is ‘sudden, disabling or recurrent’. See the <a href="[https://www.parkinsons.org.uk](https://www.gov.uk/dizziness-and-driving)" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a> website for more details.
+- You must tell DVLA if you have dizziness that is ‘sudden, disabling or recurrent’. See the <a href="https://www.gov.uk/dizziness-and-driving" class="external-link" target="_blank" rel="noopener noreferrer">GOV.UK</a> website for more details.
 
 ### Postural hypotension
 
@@ -165,7 +165,7 @@ Your healthcare professional may be able to offer reassurance, advice, or furthe
 - There may be treatment that is specific to the cause of your vertigo. For example, physical manoeuvres for treatment of BPPV.
 - If you are referred on, please be aware there is usually a waiting time before the next service will see you.
 
-See the see the <a href="/information/managing-symptoms/mood" class="internal-link">Mood</a> page for more information about anxiety and the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">Balance & Falls</a> page for more information.
+See the see the <a href="/information/managing-symptoms/anxiety" class="internal-link">Mood</a> page for more information about anxiety and the <a href="/information/managing-symptoms/balance-and-falls" class="internal-link">Balance & Falls</a> page for more information.
 
 ## Key Messages
 

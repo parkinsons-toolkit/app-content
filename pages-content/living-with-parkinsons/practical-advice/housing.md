@@ -134,7 +134,7 @@ You can apply to your local council for equipment or potential funding for adapt
 
 If you need major changes to your home, you might be able eligible for a disabled facilities grant. Funding for major home adaptations is often means-tested. This means the amount of funding you receive depends on how much money you have, including any savings.
 
-If you have a disability or long-term health condition, you should not be charged VAT on products designed or adapted for your own personal or domestic use (including some home equipment). See our <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">Finances</a> page for more information on how to apply for VAT relief and other financial benefits.
+If you have a disability or long-term health condition, you should not be charged VAT on products designed or adapted for your own personal or domestic use (including some home equipment). See our <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">Finances</a> page for more information on how to apply for VAT relief and other financial benefits.
 
 Tip: Contact your local fire service who will provide a ‘safe and well check.’ They are completely free, and you may be entitled to free smoke alarms. The purpose of these checks is to identify any fire risks and help reduce those risks.
 

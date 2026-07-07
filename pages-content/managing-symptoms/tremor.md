@@ -77,7 +77,7 @@ You may find different things that make the tremor more or less pronounced. Some
 Sometimes tremors can make specific tasks more difficult. Extra adaptations, support or equipment may be needed for those tasks:
 
 - Eating and drinking – special cutlery or cups may help – see <a href="/information/living-with-parkinsons/practical-advice/daily-living" class="internal-link">Daily Living</a> page for more ideas.
-- Taking medication – pill organisers may be easier to handle than the original packets – see <a href="/information/treatments-and-therapies/medications" class="internal-link">Medication</a> page for more ideas.
+- Taking medication – pill organisers may be easier to handle than the original packets – see <a href="/information/treatments/medications" class="internal-link">Medication</a> page for more ideas.
 - Technology – some people find touch screen difficult to control with a tremor and find using a mouse easier; others use voice control. Most smartphones allow for voice dictation instead of typing. Similarly using a device such as an Alexa can be helpful. See our <a href="/information/living-with-parkinsons/practical-advice/reading-writing-and-technology" class="internal-link">Reading, Writing & Technology</a> page for more ideas.
 
 ## My Experience
@@ -132,7 +132,7 @@ Having consulted a healthcare professional, they may offer reassurance or furthe
 
 **Some medications used for tremor:**
 
-- Parkinson’s medication: See our <a href="/information/treatments-and-therapies/medications" class="internal-link">Medication</a> page for more information.
+- Parkinson’s medication: See our <a href="/information/treatments/medications" class="internal-link">Medication</a> page for more information.
 - Anticholinergics (e.g. trihexyphenidyl)
 - Beta blockers (e.g. propranolol)
 
@@ -149,7 +149,7 @@ Having consulted a healthcare professional, they may offer reassurance or furthe
 
 - You may be referred on to another service.
 - If your tremor is causing difficulty with daily activities, your GP or Parkinson’s specialist team may refer you on to an occupational therapist to help assess and decide if you might benefit from additional equipment or support.
-- If your Parkinson’s specialist has exhausted all medication options and the tremor is still impacting your daily life a great deal then you may be a candidate for a surgical therapy such as Deep Brain Stimulation. If your Parkinson’s specialist team think that is the case, they may refer you to a specialist centre for further assessment. See <a href="/information/treatments-and-therapies/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Treatments & Surgical Treatments</a> for more information.
+- If your Parkinson’s specialist has exhausted all medication options and the tremor is still impacting your daily life a great deal then you may be a candidate for a surgical therapy such as Deep Brain Stimulation. If your Parkinson’s specialist team think that is the case, they may refer you to a specialist centre for further assessment. See <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Treatments & Surgical Treatments</a> for more information.
 
 ## Key messages
 

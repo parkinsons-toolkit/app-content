@@ -121,7 +121,7 @@ You could also consider using befriending services. These are volunteers who cha
 
 ### Medication
 
-You may find managing your Parkinson’s medication more challenging if you have problems with thinking or remembering. There are several devices available to help you; see the <a href="/information/treatment-and-therapies/medications" class="internal-link">Medications</a> page for more information.
+You may find managing your Parkinson’s medication more challenging if you have problems with thinking or remembering. There are several devices available to help you; see the <a href="/information/treatments/medications" class="internal-link">Medications</a> page for more information.
 
 ### Slowing down the problem
 

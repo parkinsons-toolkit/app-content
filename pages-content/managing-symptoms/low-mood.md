@@ -90,8 +90,7 @@ Depression is more common in people who have many different long-term health con
 </iframe>
 </div>
 
-There are many things you can try to help you deal with low mood or depression (see below ‘What can I try for myself?’). At times, feelings of low mood are completely normal. But, if you have these feelings for most of the day, every day for more than 2 weeks, you should make an appointment with your GP. Your GP can assess whether your symptoms suggest that you are depressed. Depending on the outcome, they may recommend medication or a talking therapy (see the <a href="/information/treatments-and-therapies
-/complementary-therapies" class="internal-link">Complementary Therapies</a>) page.
+There are many things you can try to help you deal with low mood or depression (see below ‘What can I try for myself?’). At times, feelings of low mood are completely normal. But, if you have these feelings for most of the day, every day for more than 2 weeks, you should make an appointment with your GP. Your GP can assess whether your symptoms suggest that you are depressed. Depending on the outcome, they may recommend medication or a talking therapy (see the <a href="/information/treatments/complementary-therapies" class="internal-link">Complementary Therapies</a> page.
 
 In some situations, depression can need urgent attention. This may be if you are experiencing any of the following:
 
@@ -132,8 +131,7 @@ Exercising regularly can help boost your mood as well as help you sleep. You may
 - Use the stairs instead of the lift or escalator
 - Leave the car at home for short journeys
 - Get off the bus a stop earlier and walk the rest of the journey
-- See the <a href="/information/living-with-parkinsons/optimising-wellbeing
-  /keeping-active" class="internal-link">Keeping Active</a> for more guidance.
+- See the <a href="/information/living-with-parkinsons/optimising-wellbeing/keeping-active" class="internal-link">Keeping Active</a> for more guidance.
 
 If you have any concerns about safe and suitable exercise routines, discuss with your GP or a physiotherapist who will be able to recommend exercise that is right for you.
 
@@ -145,8 +143,7 @@ For example, people who are depressed can often crave ‘junk food’ that is hi
 
 It can be beneficial to limit your alcohol intake. Drinking alcohol frequently can lead to depression as it lowers your mood (it has a depressant effect on mood). Alcohol also affects sleep. While alcohol can initially make you feel more sleepy, it affects your sleep quality. If you drink alcohol before going to bed you are less likely to have a refreshing night’s sleep.
 
-See the <a href="/information/living-with-parkinsons/optimising-wellbeing
-/eating-well" class="internal-link">Eating Well</a> page for more guidance.
+See the <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">Eating Well</a> page for more guidance.
 
 ### Keeping socially active and combat loneliness
 
@@ -158,8 +155,7 @@ Socialising can improve your mood. Staying in contact with friends and family me
 
 Look out for new opportunities from activities offered through local colleges, places of worship (e.g. churches, mosques, temples), community centres, leisure facilities, charities and societies (e.g. your local U3A group). Your local library can be a good source of information about what is available in your area. We have listed some other possible sources in our **Practical Advice** pages which you can within the <a href="/information/living-with-parkinsons" class="internal-link">Living with Parkinson's</a> section. If you need support speicifally with travelling to events, see our <a href="/information/living-with-parkinsons/practical-advice/travel" class="internal-link">Travel</a> page for advice.
 
-Visit our <a href="/information/living-with-parkinsons/optimising-wellbeing
-/social-and-spiritual-life" class="internal-link">Social & Spiritual Life</a> page for more information on how you can keep socially active.
+Visit our <a href="/information/living-with-parkinsons/optimising-wellbeing/social-and-spiritual-life" class="internal-link">Social & Spiritual Life</a> page for more information on how you can keep socially active.
 
 ### Sleep
 
@@ -205,8 +201,7 @@ Complementary therapies include massage, acupuncture and aromatherapy. These the
 
 Check with your GP, specialist, or Parkinson’s nurse if you wish to take anything by mouth or apply it to your skin as a complementary therapy.
 
-See our <a href="/information/treatments-and-therapies
-/complementary-therapies" class="internal-link">Complementary Therapies</a> page for more information.
+See our <a href="/information/treatments/complementary-therapies" class="internal-link">Complementary Therapies</a> page for more information.
 
 ### Resources for Wellbeing and Mental Health
 
@@ -260,7 +255,7 @@ Your healthcare professional may be able to give you more specific advice about 
 
 ### Referral
 
-- Referral would typically be for talking therapies or to mental health teams. Your GP can refer you, and it may also be available through your specialist team. In England you can also self-refer for talking therapies without going through your GP through this <a href="https://www.nhs.uk/service- search/find-a-psychological-therapies-service/" class="external-link" target="_blank" rel="noopener noreferrer">NHS page</a>. There can be a long wait to start therapy on the NHS.
+- Referral would typically be for talking therapies or to mental health teams. Your GP can refer you, and it may also be available through your specialist team. In England you can also self-refer for talking therapies without going through your GP through this <a href="https://www.nhs.uk/service-search/find-a-psychological-therapies-service/" class="external-link" target="_blank" rel="noopener noreferrer">NHS page</a>. There can be a long wait to start therapy on the NHS.
 - Talking therapies offer a safe, confidential place to talk to a trained professional about any difficulties you are having:
   - Therapy sessions can be one-to-one with the therapist or in small groups.
   - There is lots of different types of talking therapies, but they all have the same aim of improving your wellbeing.

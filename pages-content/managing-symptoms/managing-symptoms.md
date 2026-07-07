@@ -56,7 +56,7 @@ The following pages give guidance for things you can try to help your symptoms, 
   - <a href="/information/managing-symptoms/hallucinations" class="internal-link">Hallucinations & Related Symptoms</a>
 - **Weight & Appetite Loss**
   - <a href="/information/managing-symptoms/weight" class="internal-link">Weight</a>
-  - <a href="/information/managing-symptoms/five-senses" class="internal-link">Nausea</a>
+  - <a href="/information/managing-symptoms/nausea" class="internal-link">Nausea</a>
 - **Variability of Symptoms**
   - <a href="/information/managing-symptoms/variability-of-symptoms" class="internal-link">Variability of Symptoms</a>
 - **5 Senses**

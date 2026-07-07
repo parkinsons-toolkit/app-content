@@ -62,7 +62,7 @@ Prolonged pressure through an area of skin can cause damage. This is more likely
 
 - Some research studies have shown that people with Parkinson’s have a slightly higher risk of developing abnormal moles or melanoma. People with melanoma have a greater risk of developing Parkinson’s.
 - The exact link has not been discovered, just a connection between the two for now.
-- Melanoma is a type of skin cancer. One of the main causes of melanoma is exposure to too much ultraviolet light in sunlight. About 16,000 people in the UK are diagnosed with melanoma each year. There is more information available on the <a href="www.nhs.uk/conditions/melanoma-skin-cancer" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a>.
+- Melanoma is a type of skin cancer. One of the main causes of melanoma is exposure to too much ultraviolet light in sunlight. About 16,000 people in the UK are diagnosed with melanoma each year. There is more information available on the <a href="https://www.nhs.uk/conditions/melanoma-skin-cancer" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a>.
 
 All of these skin issues are seen in people who don’t have Parkinson’s as well. And people with Parkinson’s can also get skin conditions that are completely unrelated to their Parkinson’s. Wounds and ulcers are more common in people who have decreased sensation for other medical reasons. An example of this would be those with diabetes.
 
@@ -148,7 +148,7 @@ Check moles regularly (monthly), looking for any changes. You can ask someone el
 
 - If a mole is changing or you have any concerns about its appearance it should be reviewed by your GP. If you are not sure if a mole is changing, you could take a photo of it for comparison.
 - Be careful with sun exposure. Some sun exposure is good and helps your body make vitamin D. However, too much sun exposure increases the risk of skin damage and skin cancer. Finding the balance can be tricky. There is no definitive recommendation for the amount of time that should be spent in the sun.
-- See the <a href="/learnliving-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">Eating Well</a> page for dietary information about Vitamin D.
+- See the <a href="/information/living-with-parkinsons/optimising-wellbeing/eating-well" class="internal-link">Eating Well</a> page for dietary information about Vitamin D.
 
 - Safe sun exposure:
   - Even if it is cool or cloudy, it is possible to get a sunburn.

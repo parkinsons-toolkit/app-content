@@ -38,7 +38,7 @@ For some people, the variability is predictable and in relation to medication. F
 
 ## What might be causing it?
 
-<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/levodopa-pills.jpg" alt="levodopa" class="restless-legs__restless-legs">
+<img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/levodopa-pills.jpg" alt="levodopa" class="variability-of-symptoms__levodopa-pills">
 
 No one knows for sure why variability of symptoms - or motor fluctuations - occurs. Researchers think it’s related to the way levodopa stimulates the brain. They usually occur after a person has had Parkinson’s for a longer time. Fluctuations are also more common with higher doses of levodopa. Illness or infection unrelated to Parkinson’s can make you feel unwell and lead to changes in your symptoms. This is different to the ‘on’ and ‘off’ periods described above.
 
@@ -72,7 +72,7 @@ There are things you can try for yourself (described below). You should discuss 
 
 - Stress can increase the variability of symptoms, so finding ways to stay relaxed even when stressed can be helpful.
 - Complementary therapies such as massage, acupuncture, and aromatherapy may be helpful.
-- See our <a href="/information/managing-symptoms/mood" class="internal-link">Mood</a> page for more information.
+- See our <a href="/information/managing-symptoms/low-mood" class="internal-link">Low Mood</a> page for more information.
 
 ### Medication-Meal Timing
 
@@ -145,7 +145,7 @@ Try to monitor your symptoms for about 3 days. Types of things you could record 
 - If the variation in symptoms is causing difficulty with daily activities, your GP or Parkinson’s specialist team may refer you on to an occupational therapist. They can assess if you might benefit from extra equipment or support.
 - If your Parkinson’s specialist has tried all medication options and the variability is still having a significant impact on your daily life, then other options may be explored. This usually involves a referral to a specialist centre. Some alternative options:
 - Apomorphine, a dopamine agonist delivered by injection either intermittently or as a continuous daytime infusion. See <a href="/information/treatments/medications" class="internal-link">Medication</a> page for more information.
-- Deep brain stimulation or Duodopa (a gel given by a tube directly into the gut). See our <a href="/information/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a> page for more advanced therapies.
+- Deep brain stimulation or Duodopa (a gel given by a tube directly into the gut). See our <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a> page for more advanced therapies.
 
 ## Key Messages
 

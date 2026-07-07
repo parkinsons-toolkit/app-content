@@ -207,7 +207,7 @@ Here is some guidance on how you can work through problem-solving therapy by you
 
 It’s important to keep in mind that the goal of PST is not to solve all problems. Instead, the goal is to learn more effective problem-solving skills. This will then help you to cope more effectively with life stressors and feel more in control of your life.
 
-See the <a href="/information/my-wellbeing" class="internal-link">My Wellbeing</a> section for more on how to do problem solving therapy.
+See the <a href="/my-wellbeing" class="internal-link">My Wellbeing</a> section for more on how to do problem solving therapy.
 
 ## My Experience
 

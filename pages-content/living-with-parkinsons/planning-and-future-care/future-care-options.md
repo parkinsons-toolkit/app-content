@@ -195,7 +195,7 @@ A change in housing could be arranged privately or via your local Adult Social C
 
 ### Who pays for this?
 
-Also see the <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">Finances</a> page for more advice.
+Also see the <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">Finances</a> page for more advice.
 
 In the UK at this time:
 

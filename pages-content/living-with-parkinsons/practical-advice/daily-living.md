@@ -414,7 +414,7 @@ Details for all of these and for more information about Home Help can be found a
    - Contact your Local Council Adult Social Care Department for this. They will make an assessment to see if Home Care is recommended.
    - If it is not recommended but you want it, you could arrange it privately. The Adult Social Care Department should still support you with this, for example giving information about local providers.
 2. If Home Care is recommended, then they will complete a financial assessment. This determines whether or not the council will financially contribute to your Home Care costs.
-   - The <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">Finances</a> page has more information about benefits you may be eligible for to help with costs.
+   - The <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">Finances</a> page has more information about benefits you may be eligible for to help with costs.
 3. You then need to arrange the Home Care.
    - If the council are paying, they can arrange the Home Care for you.
    - If the council are paying, you can still choose to arrange the Home Care yourself. For this ask to receive your ‘personal budget’ as a direct payment.

@@ -96,8 +96,8 @@ You may find writing more difficult if you experience:
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LaGA_kWLhpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div
-  
+</div>
+
 - Curl fingers down so that the nail area of fingers are touching where the base of the fingers connect to the palm of the hand.
 - Then extend fingers up and out as wide as they can go.
 - Curl and extend 20 times – include your thumb in the curling and extending.

@@ -21,8 +21,8 @@ In this **Living with Parkinson's** section, you will find information on a vari
   This page addresses many practical issues you may come across when living with Parkinson’s, including:
 
   - <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">Appointments & Hospital Stays</a>
-  - <a href="/information/living-with-parkinsons/practical-advice/appointments-and-hospital-stays" class="internal-link">Finances</a>
-  - <a href="/information/living-with-parkinsons/practical-advice/hobbiess-and-pets" class="internal-link">Hobbies & Pets</a>
+  - <a href="/information/living-with-parkinsons/practical-advice/finances" class="internal-link">Finances</a>
+  - <a href="/information/living-with-parkinsons/practical-advice/hobbies-and-pets" class="internal-link">Hobbies & Pets</a>
   - <a href="/information/living-with-parkinsons/practical-advice/housing" class="internal-link">Housing</a>
   - <a href="/information/living-with-parkinsons/practical-advice/legal-matters" class="internal-link">Legal Matters</a>
   - <a href="/information/living-with-parkinsons/practical-advice/mobility" class="internal-link">Mobility</a>

@@ -167,8 +167,7 @@ Complementary therapies include massage, acupuncture and aromatherapy. These the
 
 Check with your GP, specialist, or Parkinson’s nurse if you wish to take anything by mouth or apply it to your skin as a complementary therapy.
 
-See our <a href="/information/treatments-and-therapies
-/complementary-therapies" class="internal-link">Complementary Therapies</a> page for more information.
+See our <a href="/information/treatments/complementary-therapies" class="internal-link">Complementary Therapies</a> page for more information.
 
 ### Resources for wellbeing and mental health
 

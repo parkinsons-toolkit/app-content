@@ -243,7 +243,7 @@ Tips to consider:
 5. **Record progress:** Some people find it helpful to keep a log of what they are doing.
 
 - You could add your planned actions in <a href="/reminders-and-notes" class="internal-link">My Reminders & Notes</a> and check it off when completed.
-- You could enter your activities to the <a href="/information/my-tracker" class="internal-link">My Tracker</a> to keep a record.
+- You could enter your activities to the <a href="/my-tracker" class="internal-link">My Tracker</a> to keep a record.
   This can also help you see which times are better for you than others.
 
 6. **Reflect:** If something is not going as you’d hoped, think about why. What could you do differently? You might need to break it down into even smaller steps to make progress.

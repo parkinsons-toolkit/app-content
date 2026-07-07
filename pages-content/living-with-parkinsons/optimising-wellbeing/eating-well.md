@@ -82,7 +82,7 @@ If you think your symptoms are being affected by the interaction between medicat
 - What and when you experience symptoms.
 - You can then take this to your specialist Parkinson’s team or dietician to review your regime. **Please do not make any changes to your medication regime without speaking with a healthcare professional.**
 
-You can record these things all in one place by using <a href="/information/my-tracker" class="internal-link">My Tracker</a>.
+You can record these things all in one place by using <a href="/my-tracker" class="internal-link">My Tracker</a>.
 
 Examples of protein are provided in the section [Understanding Food Groups](#understanding-food-groups) further down on this page.
 
@@ -249,7 +249,7 @@ Some vitamins and supplements can interact with your Parkinson’s medications o
 - **Vitamin B12** and **folate** levels are sometimes lower in people with Parkinson’s.
   - **Low vitamin B12** can be associated with the medication levodopa
   - Low vitamin B12 is associated with nerve problems, called peripheral neuropathy. See our <a href="/information/managing-symptoms/five-senses" class="internal-link">5 Senses</a> page for more information on neuropathy.
-  - Vitamin B12 is particularly likely to be lower in people with Parkinson’s who are receiving a gel form of levodopa given via a tube directly into the gut (an intraduodenal gel infusion called **Duodopa** – see our <a href="/information/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a>)
+  - Vitamin B12 is particularly likely to be lower in people with Parkinson’s who are receiving a gel form of levodopa given via a tube directly into the gut (an intraduodenal gel infusion called **Duodopa** – see our <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a>)
   - More research is ongoing, but for now, people on Duodopa are recommended to take supplementary vitamin B12.
 
 ### Are there supplements to slow Parkinson’s?

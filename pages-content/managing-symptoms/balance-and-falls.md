@@ -175,7 +175,7 @@ For more on all of these aspects, see the <a href="/information/living-with-park
   - Devices to track your location so someone could find you if needed.
   - Sensors that detect if you fall over.
 
-More information about these systems is available on the [NHS website](link) and the [Which? Later Life Care](link) website.
+More information about these systems is available on the <a href="https://www.nhs.uk" class="external-link" target="_blank" rel="noopener noreferrer">NHS website</a> and the <a href="https://www.which.co.uk/later-life-care" class="external-link" target="_blank" rel="noopener noreferrer">Which? Later Life Care</a> website.
 
 ## My Experience
 
@@ -260,7 +260,7 @@ Once you have spoken to a healthcare professional, they can help reassure you. T
 <img src="https://raw.githubusercontent.com/parkinsons-toolkit/app-content/refs/heads/dev/images/ot.jpg" alt="occupational-therapy" class="balance-and-falls__ot">
 
 - You may be referred to a physiotherapist or occupational therapist. This will likely be if you are not being seen in a falls service. In some areas there are specialist teams for people with conditions like Parkinson’s.
-- See the <a href="/information/treatments-and-therapies/who-may-be-involved" class="internal-link">Who May be Involved</a> page for more information about the different professional roles.
+- See the <a href="/information/treatments/who-may-be-involved" class="internal-link">Who May be Involved</a> page for more information about the different professional roles.
 - They assess your walking and how you transfer between positions (like getting up from a chair).
 - They will aim to give you tailored strategies and exercises, to help your balance and reduce the risk of falls.
 - They will also consider your home environment.

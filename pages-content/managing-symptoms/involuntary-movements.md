@@ -137,7 +137,7 @@ A healthcare professional may be able to offer support, advice, or further treat
   - Intraduodenal levodopa – continuous infusion of gel form levodopa via the intestine
   - Deep brain stimulation (DBS) surgery
 
-See <a href="/information/treatments/medications" class="internal-link">Medication</a> and <a href="/information/treatments-and-therapies/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a> pages for more information.
+See <a href="/information/treatments/medications" class="internal-link">Medication</a> and <a href="/information/treatments/advanced-therapies-and-surgical-treatments" class="internal-link">Advanced Therapies & Surgical Treatments</a> pages for more information.
 
 ## Key Messages
 
