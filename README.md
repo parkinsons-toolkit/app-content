@@ -103,6 +103,22 @@ This content repository is designed to be dynamically consumed by a web applicat
 - **Markdown files** are fetched from GitHub and rendered in real-time
 - **Content updates** are immediate - no build process required
 
+### Local development
+
+When the web app is running locally (`npm run dev`), it reads markdown files directly from this repository on the filesystem rather than fetching from GitHub. This means you can edit files here and simply refresh the browser to see changes immediately — no commit or push required.
+
+For this to work, this repo must be cloned **alongside** the main app repo under a shared parent directory:
+
+```
+parkinsons-toolkit/
+├── app-content/                ← this repo
+└── parkinsons-toolkit-app/     ← main app repo
+```
+
+### Production
+
+In production, content is fetched from GitHub using the branch configured in the app's environment variables. Use the `dev` branch for staging and `main` for production.
+
 ## Use of git branches
 
 Use the `dev` branch to test out new content ideas.

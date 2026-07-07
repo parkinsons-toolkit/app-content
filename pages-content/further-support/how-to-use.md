@@ -130,8 +130,6 @@ The My Tracker section helps you to keep track of your health and daily activiti
 
 When you open the My Tracker page, you will see six tabs:
 
-<div class="clear-float"></div>
-
 - Symptoms
 - Activities
 - Medications
@@ -258,7 +256,7 @@ To add the Live Well with Parkinson's to your apps on the home screen so it is e
 
 For iPhone users (iOS):
 
-<div class="video-container video-stacked">
+<div class="video-container">
 <iframe
   width="560"
   height="315"
@@ -268,9 +266,11 @@ For iPhone users (iOS):
 </iframe>
 </div>
 
+<div class="clear-float"></div>
+
 For Android users:
 
-<div class="video-container video-stacked">
+<div class="video-container">
 <iframe
   width="560"
   height="315"
@@ -280,4 +280,6 @@ For Android users:
 </iframe>
 </div>
 
-The <a href="/information/my-wellbeing" class="internal-link">My Wellbeing</a> section in your manual will guide you through this process.
+<div class="clear-float"></div>
+
+The <a href="/my-wellbeing" class="internal-link">My Wellbeing</a> section in your manual will guide you through this process.
